@@ -1,0 +1,3042 @@
+[Thema]
+Thema=Rund um die Eisenbahn
+Fragen=276
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Was bezeichnet die Abkürzung TGV ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1einen französischen	Hochgeschwindigkeitszug	
+Antwort_2=0einen langen Güterzug	
+Antwort_3=0einen ländlichen Bummelzug	
+Antwort_4=0eine russische U-Bahn	
+
+[2]
+FZ1=
+FZ2=Wie viele Tonnen Kohle führten die "Big Boys" - die größten und schwersten
+FZ3=Dampfloks der Welt - ab 1941 mit sich ?
+Min=500000
+Max=500000
+Antwort_1=126 Tonnen	
+Antwort_2=052 Tonnen	
+Antwort_3=012 Tonnen	
+Antwort_4=0134 Tonnen	
+
+[3]
+FZ1=
+FZ2=Welche Durchschnittsgeschwindigkeit über eine Strecke von 660 Kilometer erreichte
+FZ3=der "Hiawatha" 1935 ?
+Min=500000
+Max=500000
+Antwort_1=1131,5 km/h
+Antwort_2=0161,5 km/h
+Antwort_3=0101,5 km/h
+Antwort_4=0191,5 km/h
+
+[4]
+FZ1=Wie viele Wagen zog die Dampflokomotive "Mallard" 1938
+FZ2=bei ihrer Geschwindigkeitsweltrekordfahrt, bei der sie die Geschwindigkeit
+FZ3=von 202,8 km/h erreichte ?
+Min=500000
+Max=500000
+Antwort_1=17
+Antwort_2=01
+Antwort_3=0keinen
+Antwort_4=03
+
+[5]
+FZ1=
+FZ2=Was besagen die Ziffern einer Elektrolok ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1die Anzahl der Achsen
+Antwort_2=0die Anzahl der Stromabnehmer
+Antwort_3=0die Anzahl der Räder
+Antwort_4=0die Anzahl der Transformatoren
+
+[6]
+FZ1=
+FZ2=Was besagen die Ziffern einer Dampflok, z. B. "Pacific 4-6-2" ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1die Anzahl der Räder
+Antwort_2=0die Anzahl der verschiedenen Wagen
+Antwort_3=0die Anzahl der Achsen
+Antwort_4=0die Anzahl der Schornsteine
+
+[7]
+FZ1=
+FZ2=Was bedeutet die Abkürzung HBF ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Hauptbahnhof
+Antwort_2=0Heizer brauchen Feuer
+Antwort_3=0Hamburg - Bremer - Fahrplan
+Antwort_4=0Herrliche Bahnfahrt
+
+[8]
+FZ1=
+FZ2=Unter welchem Namen wurde der berühmte Roman von Agatha Christie über den
+FZ3=Orientexpress verfilmt ?
+Min=125000
+Max=500000
+Antwort_1=1Mord im Orientexpress
+Antwort_2=0Einmal Istanbul Hauptbahnhof mit dem	Orientexpress
+Antwort_3=0In 80 Tagen um die Welt mit dem	Orientexpress
+Antwort_4=0Die Abenteuer des Orientexpress
+
+[9]
+FZ1=
+FZ2=Welcher belgische Geschäftsmann finanzierte 1883 den ersten Orientexpress,
+FZ3=den bis dahin teuersten Zug der Welt ?
+Min=500000
+Max=500000
+Antwort_1=1Georg Nagelmackers
+Antwort_2=0Michael Nadeldreher
+Antwort_3=0Paul Schraubentuer
+Antwort_4=0Jupp Orient
+
+[10]
+FZ1=
+FZ2=Worüber beschwerten sich die Gäste auf der ersten Fahrt des Orientexpresses ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1... dass ihnen das Puder aus den	Perücken der Kellner auf das Essen fiel.
+Antwort_2=0... dass der Zug so schnell fuhr und sie	nichts von der Landschaft sehen	konnten.
+Antwort_3=0... dass ihnen der Ruß der Lokomotive	in den Augen brannte.
+Antwort_4=0... dass der Zug so über die Schienen	ruckelte und der ganze Sekt verschüttet	wurde.
+
+[11]
+FZ1=
+FZ2=Welchen Spitznamen bekam der Orientexpress, weil so viele Geheimagenten mit
+FZ3=ihm reisten ?
+Min=4000
+Max=64000
+Antwort_1=1Spion - Express
+Antwort_2=0Spitzel - Express
+Antwort_3=0James Bond - Express
+Antwort_4=0Geheim - Express
+
+[12]
+FZ1=
+FZ2=Welches Unglück geschah dem Orientexpress 1891 ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Er wurde von Verbrechern zum	Entgleisen gebracht, die anschließend	die Fahrgäste ausplünderten.
+Antwort_2=0Er blieb 5 Tage lang bei minus 25 Grad	in einer Schneewehe stecken.
+Antwort_3=0Er krachte in das vollbesetzte	Frankfurter Bahnhofsrestaurant.
+Antwort_4=0Er stürzte von der Müngstenerbrücke in	die Wupper.
+
+[13]
+FZ1=
+FZ2=Womit wurde die "Jupiter" beheizt, die Lok der Central Pacific, die die erste
+FZ3=Eisenbahnverbindung durch den amerikanischen Kontinent befuhr ?
+Min=125000
+Max=500000
+Antwort_1=1Holz
+Antwort_2=0Öl
+Antwort_3=0Kohle
+Antwort_4=0Gas
+
+[14]
+FZ1=Wo trafen sich am 10. Mai 1869 die Strecken der "Central Pacific" und
+FZ2=der "Union Pacific" und schlossen somit die erste  Eisenbahnverbindung durch den
+FZ3=amerikanischen Kontinent ?
+Min=500000
+Max=500000
+Antwort_1=1Promontery Point
+Antwort_2=0Omaha
+Antwort_3=0Sacramento
+Antwort_4=0Kansas City
+
+[15]
+FZ1=Woraus bestand der letzte Bolzen, der am 10. Mai 1869 eingeschlagen wurde,
+FZ2=nachdem nach 6-jähriger Bauzeit die Eisenbahnverbindung zwischen
+FZ3=der Ost- und der Westküste Amerikas fertiggestellt wurde ?
+Min=64000
+Max=250000
+Antwort_1=1aus Gold
+Antwort_2=0aus Eisen
+Antwort_3=0aus Platin
+Antwort_4=0aus Silber
+
+[16]
+FZ1=
+FZ2=Wie nennt man die Transportwagen, bei denen das Transportgut zwischen
+FZ3=zwei Fahrzeugteile "gehängt" wird ?
+Min=32000
+Max=250000
+Antwort_1=1Tragschnabelwagen
+Antwort_2=0Hängschnauzenwagen
+Antwort_3=0Haltemaulwagen
+Antwort_4=0Ziehmundwagen
+
+[17]
+FZ1=
+FZ2=Wie lautet die volkstümliche Bezeichnung des Streckenabschnittes
+FZ3="Waldshut - Immendingen" im Südschwarzwald ?
+Min=125000
+Max=500000
+Antwort_1=1Sauschwänzles - Bahn
+Antwort_2=0Kuhhörnli - Bahn
+Antwort_3=0Ochsenschwanz - Bahn
+Antwort_4=0Bullenbäuchli - Bahn
+
+[18]
+FZ1=
+FZ2=Wer verhindert, dass ein Eisenbahnwagen über das Ende
+FZ3=der Schienen hinausfährt ?
+Min=2000
+Max=32000
+Antwort_1=1Prellbock
+Antwort_2=0Stoppbock
+Antwort_3=0Haltestelle
+Antwort_4=0Bremsschild
+
+[19]
+FZ1=
+FZ2=Was ist ein Pantograph ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Scherenstromabnehmer auf dem Dach	einer Elektrolok
+Antwort_2=0französischer Schlafwagen
+Antwort_3=0Wagen, in dem sich die Kohle befindet
+Antwort_4=0Schaffner für die erste Klasse
+
+[20]
+FZ1=
+FZ2=Wie nennt man den Scherenstromabnehmer auf dem Dach einer Elektrolok ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Pantograph
+Antwort_2=0Pantoffel
+Antwort_3=0Telegraph
+Antwort_4=0Xylophon
+
+[21]
+FZ1=
+FZ2=Wie lautet die volkstümliche Bezeichnung für Neben- und Schmalspurbahnen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Entenmörder
+Antwort_2=0Meuchelmörder
+Antwort_3=0Gattenmörder
+Antwort_4=0Vatermörder
+
+[22]
+FZ1=
+FZ2=Weshalb wurde "Cyclopede" - eine Lokomotive von Brandreth - im Jahre 1829 nicht
+FZ3=zu einem Lokomotivwettbewerb zugelassen ?
+Min=2000
+Max=32000
+Antwort_1=1Sie wurde von einem im Inneren	aufgestellten Pferd fortbewegt.
+Antwort_2=0Der Dampfkessel war doppelt so groß	wie erlaubt.
+Antwort_3=0Sie wurde von 20 versteckten Batterien	angetrieben.
+Antwort_4=0Sie besaß sowohl vorne als auch hinten	Spoiler.
+
+[23]
+FZ1=
+FZ2=Wie viel Volt hat der Einphasenwechselstrom, der in Deutschland, in Österreich und
+FZ3=in der Schweiz verwendet wird ?
+Min=2000
+Max=32000
+Antwort_1=115.000 Volt
+Antwort_2=0220 Volt
+Antwort_3=01.000 Volt
+Antwort_4=01.000.000 Volt
+
+[24]
+FZ1=
+FZ2=Wie nennt man auf Bahnhöfen die Plattform entlang der Gleise ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Bahnsteig
+Antwort_2=0Zugsteig
+Antwort_3=0Bürgersteig
+Antwort_4=0Loksteig
+
+[25]
+FZ1=
+FZ2=Wie nennt man ein Gleis zum Aufstellen von Fahrzeugen,
+FZ3=die im Moment nicht benötigt werden ?
+Min=1000
+Max=8000
+Antwort_1=1Abstellgleis
+Antwort_2=0Pausengleis
+Antwort_3=0Ruhegleis
+Antwort_4=0Rentnergleis
+
+[26]
+FZ1=
+FZ2=Wie hoch war der Geschwindigkeitsweltrekord 1981 ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1380 km/h
+Antwort_2=0300 km/h
+Antwort_3=0340 km/h
+Antwort_4=0280 km/h
+
+[27]
+FZ1=
+FZ2=Wie hoch war der Geschwindigkeitsweltrekord 1955 ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1331 km/h
+Antwort_2=0111 km/h
+Antwort_3=0221 km/h
+Antwort_4=0441 km/h
+
+[28]
+FZ1=
+FZ2=Wie hoch war der Geschwindigkeitsweltrekord 1954 ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1243 km/h
+Antwort_2=0203 km/h
+Antwort_3=0143 km/h
+Antwort_4=0343 km/h
+
+[29]
+FZ1=
+FZ2=Wie hoch war der Geschwindigkeitsweltrekord 1903 ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1210 km/h
+Antwort_2=0310 km/h
+Antwort_3=0110 km/h
+Antwort_4=0410 km/h
+
+[30]
+FZ1=
+FZ2=Wie hoch war der Geschwindigkeitsweltrekord 1890 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1144 km/h
+Antwort_2=084 km/h
+Antwort_3=044 km/h
+Antwort_4=0104 km/h
+
+[31]
+FZ1=
+FZ2=Wie hoch war der Geschwindigkeitsweltrekord 1829 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=156 km/h
+Antwort_2=016 km/h
+Antwort_3=0156 km/h
+Antwort_4=096 km/h
+
+[32]
+FZ1=
+FZ2=Was bedeutete die Abkürzung "T E E" für Fernverkehrszüge, mit denen man
+FZ3=ab 1957 schnell und komfortabel durch Europa reisen konnte ?
+Min=2000
+Max=32000
+Antwort_1=1Trans - Europ - Express
+Antwort_2=0Teurer - Eil - Express
+Antwort_3=0Toller - Europa - Express
+Antwort_4=0Tüchtiger - Eisenbahn - Express
+
+[33]
+FZ1=
+FZ2=Wie hießen die Fernverkehrszüge, mit denen man ab 1957 schnell und komfortabel
+FZ3=durch Europa reisen konnte ?
+Min=16000
+Max=250000
+Antwort_1=1T E E
+Antwort_2=0F E E
+Antwort_3=0S E E
+Antwort_4=0E E E
+
+[34]
+FZ1=
+FZ2=Welches Land baute als einziges Land der Welt auch 1988
+FZ3=noch Dampflokomotiven ?
+Min=1000
+Max=8000
+Antwort_1=1China
+Antwort_2=0USA
+Antwort_3=0Deutschland
+Antwort_4=0Frankreich
+
+[35]
+FZ1=
+FZ2=Wie breit ist das Normmaß, das von Stephenson eingeführt wurde und das in fast
+FZ3=ganz Europa gilt ?
+Min=1000
+Max=16000
+Antwort_1=11,435 m
+Antwort_2=04,05 m
+Antwort_3=016 cm
+Antwort_4=0212 mm
+
+[36]
+FZ1=
+FZ2=Was passierte 1929 mit dem Simplon - Orient - Express ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Er war bei minus 25 Grad vor Istanbul	fünf Tage lang eingeschneit.
+Antwort_2=0Die letzten drei Waggons gerieten in	Brand, wurden aber durch den	Fahrtwind wieder gelöscht.
+Antwort_3=0Er wurde von einer Räuberbande nach	Berlin entführt.
+Antwort_4=0Der Zug stürzte wegen überhöhter	Geschwindigkeit von den Istanbuler	Brücke.
+
+[37]
+FZ1=
+FZ2=Wann fuhr der erste Zug durch den amerikanischen Kontinent ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=115. Mai 1869
+Antwort_2=03. November 1803
+Antwort_3=014. Februar 1899
+Antwort_4=022. März 1912
+
+[38]
+FZ1=
+FZ2=Wann stellte die Dampflok "von Borsig der Baureihe 05" den
+FZ3=Geschwindigkeitsweltrekord von 200,4 km/h auf ?
+Min=125000
+Max=500000
+Antwort_1=11935
+Antwort_2=01955
+Antwort_3=01899
+Antwort_4=01909
+
+[39]
+FZ1=
+FZ2=Welchen Geschwindigkeitsweltrekord stellte die Dampflok
+FZ3="von Borsig der Baureihe 05" 1935 auf ?
+Min=2000
+Max=32000
+Antwort_1=1200,4 km/h
+Antwort_2=0300,6 km/h
+Antwort_3=0100,2 km/h
+Antwort_4=0400,8 km/h
+
+[40]
+FZ1=
+FZ2=Wie viel Zeit benötigte man um 1925 für das Anheizen, bis eine Dampflokomotive
+FZ3=abfahrbereit war ?
+Min=250000
+Max=500000
+Antwort_1=13 Stunden
+Antwort_2=01 Stunde
+Antwort_3=02 Stunden
+Antwort_4=04 Stunden
+
+[41]
+FZ1=
+FZ2=Weshalb gab es ab 1860 Schaffner in den Zügen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1In einem Schnellzug war ein Mord	geschehen.
+Antwort_2=0Der Lokführer hatte zu viel zu tun.
+Antwort_3=0Die Zahl der Schwarzfahrer nahm zu.
+Antwort_4=0Die Anzahl der Passagiere nahm zu.
+
+[42]
+FZ1=
+FZ2=Welchen Beruf gab es in der Frühzeit der Eisenbahn n i c h t  ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kohlepolierer
+Antwort_2=0Weichensteller
+Antwort_3=0Wärmflaschenwechsler
+Antwort_4=0Lampenanzünder
+
+[43]
+FZ1=
+FZ2=Welchen Beruf gab es in der Frühzeit der Eisenbahn ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Wärmflaschenwechsler
+Antwort_2=0Schalwickler
+Antwort_3=0Thermoskannenöffner
+Antwort_4=0"Tee mit Rum" - Schaffner
+
+[44]
+FZ1=
+FZ2=Was wurde 1835 für die Reisenden erstmals in Nürnberg erbaut ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1eine hölzerne Überdachung
+Antwort_2=0ein beheiztes Wartehäuschen
+Antwort_3=0eine Zeitungsbude
+Antwort_4=0eine Bahnhofstoilette
+
+[45]
+FZ1=
+FZ2=Wann wurde die erste Eisenbahnbrücke der Welt gebaut ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11824
+Antwort_2=01848
+Antwort_3=01800
+Antwort_4=01906
+
+[46]
+FZ1=
+FZ2=Wo wurde die erste Eisenbahnbrücke der Welt gebaut ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1in England
+Antwort_2=0in Schweden
+Antwort_3=0in Holland
+Antwort_4=0in Spanien
+
+[47]
+FZ1=
+FZ2=Wie lang war der erste Eisenbahntunnel, der 1826 in England gebaut wurde ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=12 km
+Antwort_2=04 km
+Antwort_3=0500 m
+Antwort_4=012 km
+
+[48]
+FZ1=
+FZ2=Wann wurde der erste Eisenbahntunnel gebaut ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11826 in England
+Antwort_2=01914 in Österreich
+Antwort_3=01811 in der Schweiz
+Antwort_4=01936 in Deutschland
+
+[49]
+FZ1=
+FZ2=Wo wurde der erste Eisenbahntunnel gebaut ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1England
+Antwort_2=0Österreich
+Antwort_3=0Schweiz
+Antwort_4=0Deutschland
+
+[50]
+FZ1=
+FZ2=Wie viele Waggons zog der Eröffnungszug der ersten Eisenbahnlinie der Welt,
+FZ3=die am 27. September 1825 von Darlington nach Stockton (England) führte ?
+Min=250000
+Max=500000
+Antwort_1=128
+Antwort_2=07
+Antwort_3=014
+Antwort_4=03
+
+[51]
+FZ1=
+FZ2=In welcher konkurrenzlosen Zeit legte 1883 der Orientexpress die 3.186 Kilometer
+FZ3=von Paris nach Konstantinopel zurück ?
+Min=125000
+Max=500000
+Antwort_1=13 Nächte und 2 Tage
+Antwort_2=02 Tage und 1 Nacht
+Antwort_3=03 Nächte und 4 Tage
+Antwort_4=03 Tage und 5 Nächte
+
+[52]
+FZ1=
+FZ2=Wie lang war 1883 die Strecke des Orientexpresses ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=13.186 Kilometer
+Antwort_2=02.805 Kilometer
+Antwort_3=02.453 Kilometer
+Antwort_4=01.984 Kilometer
+
+[53]
+FZ1=
+FZ2=Welche Städte verbindet die berühmte Wüstenbahn (Hedschas - Bahn) ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Damaskus und Medina
+Antwort_2=0Dakar und Tripolis
+Antwort_3=0Damaskus und Kairo
+Antwort_4=0Bagdad und Teheran
+
+[54]
+FZ1=
+FZ2=Wie tief liegt die tiefste Eisenbahnstrecke der Welt, die von Haifa in Israel nach
+FZ3=Damaskus in Syrien führt ?
+Min=32000
+Max=250000
+Antwort_1=1ca. 250 m unter dem Wasserspiegel
+Antwort_2=0ca. 50 m unter dem Wasserspiegel
+Antwort_3=0ca. 150 m unter dem Wasserspiegel
+Antwort_4=0ca. 350 m unter dem Wasserspiegel
+
+[55]
+FZ1=
+FZ2=Wie viele Kilometer des ca. 410 km langen Londoner U - Bahn - Netzes
+FZ3=verlaufen unterirdisch ?
+Min=8000
+Max=125000
+Antwort_1=1167 km
+Antwort_2=0367 km
+Antwort_3=0267 km
+Antwort_4=067 km
+
+[56]
+FZ1=
+FZ2=Wie viel Kilometer Gleis umfasst das Londoner U - Bahn - Netz ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1410 km
+Antwort_2=0810 km
+Antwort_3=0610 km
+Antwort_4=0210 km
+
+[57]
+FZ1=
+FZ2=Warum sitzt bei der Himalaja-Bahn immer ein Arbeiter vorn auf der Lok ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Er streut an steilen Stellen Sand auf die	Gleise, damit die Räder besser greifen.
+Antwort_2=0Er springt vor Bahnübergängen ab und	schließt die Schranken.
+Antwort_3=0Er verscheucht mit einem roten Tuch	die	wilden Yaks.
+Antwort_4=0Er hindert die Schwarzfahrer daran, auf	den langsam fahrenden Zug	aufzuspringen.
+
+[58]
+FZ1=
+FZ2=Wie groß ist heute der Abstand zwischen Vorsignal und Hauptsignal ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=11.000 Meter
+Antwort_2=02.000 Meter
+Antwort_3=0500 Meer
+Antwort_4=03.000 Meter
+
+[59]
+FZ1=
+FZ2=Wo nahm 1850 das erste Eisenbahnfährschiff seinen Dienst auf ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1über den Firth of Forth, eine	Meeresbucht, die Edinburgh vom	nördliche Schottland trennt
+Antwort_2=0über das Wattenmeer von Husum nach	Norderney
+Antwort_3=0über den Bodensee
+Antwort_4=0über den Ärmelkanal von Calais nach	Dover
+
+[60]
+FZ1=
+FZ2=Wann nahm das erste Eisenbahnfährschiff den Verkehr auf ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11850
+Antwort_2=01890
+Antwort_3=01870
+Antwort_4=01910
+
+[61]
+FZ1=
+FZ2=Wozu dient der Gleismesszug ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Er überprüft den Zustand der Gleise.	Computer an Bord melden vorhandene	Schäden.
+Antwort_2=0Er misst die Temperatur der Schienen.	Computer ermitteln daraus den	notwendigen Stromverbrauch.
+Antwort_3=0Er misst die vorhandene Streckenlänge.	Computer geben das Ergebnis an das	Stellwerk weiter.
+Antwort_4=0Er überprüft die Geschwindigkeit der	Züge. Computer verteilen bei	Übertretung Strafzettel.
+
+[62]
+FZ1=
+FZ2=Worauf fahren Kabinenbahnen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1auf Drahtseilen
+Antwort_2=0auf Holzschienen
+Antwort_3=0auf Eisenschienen
+Antwort_4=0auf Beton
+
+[63]
+FZ1=
+FZ2=Wann wurde die Bayrische Zugspitzbahn in Dienst gestellt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11930
+Antwort_2=01950
+Antwort_3=01910
+Antwort_4=01890
+
+[64]
+FZ1=
+FZ2=Was geschieht in einem Betriebswerk ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Dort werden Züge abgestellt, die nicht	im Einsatz sind. Wartungs- und	Reparaturarbeiten werden ausgeführt.
+Antwort_2=0Dort werden die neuen Schienen und	vor allem die Weichen für den Betrieb	vorbereitet.
+Antwort_3=0Die Lokführer erhalten dort ihre	Fahrpläne und studieren diese.
+Antwort_4=0Dort wird mit einem Computer	ausgerechnet, wie viel Betrieb auf der	Strecke sein wird.
+
+[65]
+FZ1=
+FZ2=Wie heißt eine Dampfeisenbahn auf der Insel Rügen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Rasende Roland
+Antwort_2=0Eilende Emil
+Antwort_3=0Flitzende Fritz
+Antwort_4=0Sausender Siegfried
+
+[66]
+FZ1=
+FZ2=Was ist der "Rasende Roland" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1eine Dampfeisenbahn auf der Insel	Rügen
+Antwort_2=0ein verrückt gewordener	Bahnhofsvorsteher
+Antwort_3=0Deutschlands schnellste	Dampflokomotive
+Antwort_4=0ein besonders schneller Kellner im	Speisewagen
+
+[67]
+FZ1=
+FZ2=Wie konnte früher ein Bahnwärter dem Stellwerk melden,
+FZ3=wenn auf der Strecke etwas passiert war ?
+Min=500
+Max=4000
+Antwort_1=1über einen elektrischen Telegrafen mit	Morsezeichen
+Antwort_2=0mit einem Läutewerk
+Antwort_3=0mit Rauchsignalen
+Antwort_4=0mit Brieftauben
+
+[68]
+FZ1=
+FZ2=Welche Aufgabe hatte früher der Streckengeher ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Er schritt täglich die Abschnitte seiner	Strecke ab und prüfte die Schienen auf	Schäden.
+Antwort_2=0Er schritt täglich die Abschnitte seiner	Strecke ab und bepflanzte den	Bahndamm.
+Antwort_3=0Er schritt täglich die Abschnitte seiner	Strecke ab und sammelte Abfall ein.
+Antwort_4=0Er schritt täglich die Abschnitte seiner	Strecke ab und schloss die	Bahnschranken ?
+
+[69]
+FZ1=
+FZ2=Was bedeutet es, wenn das Hauptsignal auf Gelb steht ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1langsam fahren, meist 40 km/h
+Antwort_2=0nach 4 Minuten anhalten
+Antwort_3=0nach 400 m anhalten
+Antwort_4=0sofort anhalten
+
+[70]
+FZ1=
+FZ2=Wie lang war die erste Fernbahn in Deutschland, die 1839 eröffnet wurde ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1115 Kilometer
+Antwort_2=0335 Kilometer
+Antwort_3=0225 Kilometer
+Antwort_4=0445 Kilometer
+
+[71]
+FZ1=
+FZ2=Wann wurde in Deutschland zwischen Dresden und Leipzig die erste Fernbahn
+FZ3=eröffnet ?
+Min=500000
+Max=500000
+Antwort_1=11839
+Antwort_2=01919
+Antwort_3=01829
+Antwort_4=01849
+
+[72]
+FZ1=
+FZ2=Wo wurde in Deutschland 1839 die erste Fernbahn eröffnet ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1zwischen Dresden und Leipzig
+Antwort_2=0zwischen Bochum und München
+Antwort_3=0zwischen Hamburg und Berlin
+Antwort_4=0zwischen Frankfurt und Köln
+
+[73]
+FZ1=
+FZ2=Was geschieht, wenn der Lokführer an einem roten Hauptsignal vorbeifährt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Die Induktive Zugsicherung (Indusi) löst	sofort eine Zwangsbremsung aus.
+Antwort_2=0Das Stellwerk  empfängt ein	Funknotsignal (Funosi).
+Antwort_3=0Der Zugbegleiter (Zubegle) zieht sofort	die Notbremse.
+Antwort_4=0Das Signal lässt einen lauten Warnton	erschallen.
+
+[74]
+FZ1=
+FZ2=Was war die größte Gefahr für die Arbeiter beim Bau der Bahnstrecke
+FZ3=durch Nordamerika ?
+Min=0
+Max=1000
+Antwort_1=1Indianerüberfälle
+Antwort_2=0Präriebrände
+Antwort_3=0Sandstürme
+Antwort_4=0Büffelangriffe
+
+[75]
+FZ1=
+FZ2=Welche Leistung hatte die erste Elektrolok ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=13 PS
+Antwort_2=07 PS
+Antwort_3=01,5 PS
+Antwort_4=010 PS
+
+[76]
+FZ1=
+FZ2=Wie schnell fuhr die erste Elektrolok ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=17 km/h
+Antwort_2=022 km/h
+Antwort_3=015 km/h
+Antwort_4=029 km/h
+
+[77]
+FZ1=
+FZ2=Woher bezog die erste von der Firma Siemens & Halske
+FZ3=gebaute Elektrolok ihren Strom ?
+Min=1000
+Max=16000
+Antwort_1=1von einer dritten Stromschiene	zwischen den Schienen
+Antwort_2=0von acht mitgeführten Batterien
+Antwort_3=0von einer Oberleitung
+Antwort_4=0von einem abrollbaren Elektrokabel
+
+[78]
+FZ1=
+FZ2=Wie lang ist das Eisenbahnnetz des Vatikans, das kleinste Eisenbahnnetz der Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1600 m
+Antwort_2=02.400 m
+Antwort_3=01.800 m
+Antwort_4=03 Kilometer
+
+[79]
+FZ1=
+FZ2=Welches Land besitzt das kleinste Eisenbahnnetz der Welt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Vatikan
+Antwort_2=0Taiwan
+Antwort_3=0Luxemburg
+Antwort_4=0Dänemark
+
+[80]
+FZ1=
+FZ2=Wer wachte früher darüber, dass der Zug planmäßig fuhr ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1der Bahnwärter
+Antwort_2=0der Schaffner
+Antwort_3=0der Bürgermeister
+Antwort_4=0der Bremser
+
+[81]
+FZ1=
+FZ2=Was sind Vorsignale ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Vorsignale stehen in einiger Entfernung	vor dem Hauptsignal und zeigen die	Signalstellung des Hauptsignals an.
+Antwort_2=0Vorsignale sind die Signale, die vor	den	meisten Tunneleinfahrten stehen.
+Antwort_3=0Vorsignale sind die Signale, die vor	den	Bahnübergängen stehen.
+Antwort_4=0Vorsignale stehen auf dem Bahnhof	und	müssen vom Lokführer vor der Fahrt
+
+[82]
+FZ1=
+FZ2=Was verhinderte der Funkenfänger auf einer Dampflok ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1dass Büsche und Wälder ringsum in	Brand gesetzt wurden
+Antwort_2=0dass der Zug Feuer fing
+Antwort_3=0dass der Kessel durch Funkenflug	explodierte
+Antwort_4=0dass der Heizer zu langsam arbeitete
+
+[83]
+FZ1=
+FZ2=Wo steht die kostbarste Lok der Welt ? Sie gehört zu einem einen Meter langen Zug,
+FZ3=ist aus Platin gefertigt  und ihre beiden Wagen bestehen aus Gold und Brillianten .
+Min=32000
+Max=250000
+Antwort_1=1in Russland
+Antwort_2=0in Algerien
+Antwort_3=0in Frankreich
+Antwort_4=0in Ägypten
+
+[84]
+FZ1=
+FZ2=Wozu dienten früher die so genannten "Faltenbälge" in D- Zug -Wagen ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1dem Übergang von einem Wagen zum	anderen
+Antwort_2=0der Erfrischung der Schaffner
+Antwort_3=0dem Abstellen des Gepäcks der	Fahrgäste
+Antwort_4=0der Aufbewahrung für das Fahrtenbuch
+
+[85]
+FZ1=
+FZ2=Wann wurde der größte Wartesaal der Welt,
+FZ3=der  in Peking Platz für 14.000 Personen bietet, eröffnet ?
+Min=250000
+Max=500000
+Antwort_1=11959
+Antwort_2=01979
+Antwort_3=01969
+Antwort_4=01989
+
+[86]
+FZ1=
+FZ2=Wie viele Personen fasst der größte Wartesaal der Welt,
+FZ3=der 1959 in Peking eröffnet wurde ?
+Min=125000
+Max=500000
+Antwort_1=114.000
+Antwort_2=04.000
+Antwort_3=024.000
+Antwort_4=09.000
+
+[87]
+FZ1=
+FZ2=Wo wurde 1959 der größte Wartesaal der Welt eröffnet ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1in Peking (China)
+Antwort_2=0in Tokio (Japan)
+Antwort_3=0in New York (USA)
+Antwort_4=0in Bombay (Indien)
+
+[88]
+FZ1=
+FZ2=Wozu dient der Sandkasten im Inneren einer Lok ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1um bei Glatteis Sand auf die Schienen	zu streuen
+Antwort_2=0zum Löschen des Feuers
+Antwort_3=0zum Spielen für die Kinder der	Fahrgäste
+Antwort_4=0um das Gewicht zu erhöhen
+
+[89]
+FZ1=
+FZ2=Wie sind die Schienen in Kurven gebaut, um die Fliehkraft auszugleichen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Die äußere Schiene verläuft höher als	die innere.
+Antwort_2=0Die innere Schiene ist dicker als die	äußere.
+Antwort_3=0Die innere Schiene verläuft höher als	die äußere.
+Antwort_4=0Die innere Schiene ist dünner als die	äußere.
+
+[90]
+FZ1=
+FZ2=Wie lang ist die längste Bahnsteigkarte der Welt ?
+FZ3=Auf ihr steht : Llanfairpwllgwyngyllgogerychwynrndrobwllantysliogogogoch
+Min=250000
+Max=500000
+Antwort_1=115 cm
+Antwort_2=018 cm
+Antwort_3=012 cm
+Antwort_4=09 cm
+
+[91]
+FZ1=
+FZ2=Wo erhält man mit 15 cm die längste Bahnsteigkarte der Welt ?
+FZ3=Auf ihr steht : Llanfairpwllgwyngyllgogerychwynrndrobwllantysliogogogoch
+Min=250000
+Max=500000
+Antwort_1=1in Wales
+Antwort_2=0in Korea
+Antwort_3=0in Indien
+Antwort_4=0in Nigeria
+
+[92]
+FZ1=
+FZ2=Was wird im Bahnjargon auch "Eselsrücken" genannt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1der Ablaufberg auf einem	Rangierbahnhof
+Antwort_2=0die Tunnelein- und -ausfahrten
+Antwort_3=0die Bahnsteigkanten
+Antwort_4=0eingefrorene Weichen
+
+[93]
+FZ1=
+FZ2=Wo befindet sich der längste Bahnsteig der Welt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Chicagoer U-Bahn
+Antwort_2=0Frankfurt HBF
+Antwort_3=0Londoner U-Bahn
+Antwort_4=0Moskauer U-Bahn
+
+[94]
+FZ1=
+FZ2=Wie lang ist der längste Bahnsteig der Welt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11.067 m
+Antwort_2=01.729 m
+Antwort_3=0762 m
+Antwort_4=0595 m
+
+[95]
+FZ1=
+FZ2=Was hat der Arzt in der Andenbahn zwischen Lima und Galera, die ca. 5.000 m hoch
+FZ3=führt, stets in seinem Gepäck ?
+Min=1000
+Max=16000
+Antwort_1=1ein Sauerstoffgerät
+Antwort_2=0eine Bergsteigerausrüstung
+Antwort_3=0eine Gletscherbrille
+Antwort_4=0einen Fallschirm
+
+[96]
+FZ1=
+FZ2=In der peruanischen Stadt Galera befindet sich der höchstgelegene Bahnhof
+FZ3=der Welt. In welcher Höhe befindet sie sich ?
+Min=125000
+Max=500000
+Antwort_1=14.781 m
+Antwort_2=06.140 m
+Antwort_3=05.603 m
+Antwort_4=03.371 m
+
+[97]
+FZ1=
+FZ2=Wo befindet sich der höchstgelegene Bahnhof der Welt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Peru
+Antwort_2=0USA
+Antwort_3=0Nepal
+Antwort_4=0Schweiz
+
+[98]
+FZ1=
+FZ2=Wie hieß die größte Diesellok der Welt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Centennial
+Antwort_2=0Titan
+Antwort_3=0Centaurus
+Antwort_4=0Megamaxx
+
+[99]
+FZ1=
+FZ2=Wie schwer war die größte Diesellok der Welt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1229 Tonnen
+Antwort_2=0339 Tonnen
+Antwort_3=0119 Tonnen
+Antwort_4=0449 Tonnen
+
+[100]
+FZ1=
+FZ2=Wie lang war die größte Diesellok der Welt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=130 Meter
+Antwort_2=050 Meter
+Antwort_3=020 Meter
+Antwort_4=015 Meter
+
+[101]
+FZ1=
+FZ2=Was sind Hochbahnen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Bahnen, die auf hoch gelegenen	Schienen über der Straße fahren
+Antwort_2=0Bahnen, die im Hochgebirge fahren
+Antwort_3=0Bahnen, die große Höhenunterschiede	überwinden
+Antwort_4=0Bahnen, die bei der Herstellung	besonders hohe Kosten verursacht	haben
+
+[102]
+FZ1=
+FZ2=Warum können die italienischen "Pendolino" - Züge auch auf kurvigen Strecken bis
+FZ3=zu 250 km/h schnell fahren ?
+Min=2000
+Max=32000
+Antwort_1=1Es sind Züge mit Neigetechnik, die sich	in die Kurve legen können.
+Antwort_2=0Es sind besonders flache Züge mit	einem besonders niedrigen	Schwerpunkt.
+Antwort_3=0Es sind Züge mit besonders starken	Motoren.
+Antwort_4=0Es sind besonders kurze Züge mit	höchstens zwei Wagen.
+
+[103]
+FZ1=
+FZ2=Was ist eine Zahnstange ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1eine Art zusätzlicher Schiene bei	Zahnradbahnen, die in der Mitte der	Gleise befestigt ist
+Antwort_2=0ein eisernes Verbindungsstück	zwischen	den einzelnen Waggons
+Antwort_3=0ein Hebel in der Lokomotive, mit dem	das Bremsgestänge betätigt wird
+Antwort_4=0die Verbindung der Elektroloks zur	Oberleitung
+
+[104]
+FZ1=
+FZ2=Wo wurde 1890 die erste elektrische U-Bahn der Welt eröffnet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1in London
+Antwort_2=0in Moskau
+Antwort_3=0in Paris
+Antwort_4=0in Berlin
+
+[105]
+FZ1=
+FZ2=Wann wurde in London die erste elektrische U-Bahn der Welt eröffnet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11890
+Antwort_2=01880
+Antwort_3=01900
+Antwort_4=01910
+
+[106]
+FZ1=
+FZ2=Wo liegen beim ICE 3 die Motoren ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1in jedem zweiten Wagen
+Antwort_2=0im vorderen Triebkopf
+Antwort_3=0in den beiden Triebköpfen
+Antwort_4=0im hinteren Triebkopf
+
+[107]
+FZ1=
+FZ2=Wo liegen beim ICE 1 und ICE 2 die Motoren ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1in den beiden Triebköpfen
+Antwort_2=0im hinteren Triebkopf
+Antwort_3=0im vorderen Triebkopf
+Antwort_4=0in jedem Wagen
+
+[108]
+FZ1=
+FZ2=Was unterscheidet den neuen ICE 3 von seinen Vorgängern ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Er ist noch schneller, denn die Motoren	sind über den ganzen Zug verteilt.
+Antwort_2=0Er fährt vollautomatisch - ohne	Lokführer.
+Antwort_3=0Er kann sich noch besser in die Kurven	legen.
+Antwort_4=0Er kann doppelt so viele Fahrgäste	transportieren.
+
+[109]
+FZ1=
+FZ2=Seit wann gibt es Toiletten in den Eisenbahnwagen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1seit etwa 1870
+Antwort_2=0seit etwa 1900
+Antwort_3=0schon immer
+Antwort_4=0seit etwa 1925
+
+[110]
+FZ1=
+FZ2=Ab wann wurden Bahnübergänge mit Blinklichtern versehen,
+FZ3=um Unfälle zu vermeiden ?
+Min=2000
+Max=32000
+Antwort_1=1ab 1930
+Antwort_2=0ab 1900
+Antwort_3=0ab 1870
+Antwort_4=0ab 1960
+
+[111]
+FZ1=
+FZ2=Ab wann wurden "stromlinienförmige" Lokomotiven mit möglichst geringem
+FZ3=Luftwiderstand gebaut ?
+Min=8000
+Max=64000
+Antwort_1=1etwa ab 1930
+Antwort_2=0etwa ab 1950
+Antwort_3=0etwa ab 1940
+Antwort_4=0etwa ab 1960
+
+[112]
+FZ1=
+FZ2=Weshalb hat die Bahn an Bahnübergängen immer Vorfahrt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1weil Züge nicht so schnell abbremsen	können wie Autos
+Antwort_2=0weil immer das Fahrzeug mit den	meistens Insassen Vorfahrt hat
+Antwort_3=0weil sie größer und stärker sind
+Antwort_4=0weil der Lokführer nicht lenken kann
+
+[113]
+FZ1=
+FZ2=Wie hieß der erste Luxuszug ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Orientexpress
+Antwort_2=0Intercityexpress
+Antwort_3=0Schweizer Glacier - Express
+Antwort_4=0Transsibirische Eisenbahn
+
+[114]
+FZ1=
+FZ2=Was war das Besondere am Orientexpress ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Es war der erste Luxuszug.
+Antwort_2=0Es war der erste Güterzug.
+Antwort_3=0Es war der erste Elektrozug.
+Antwort_4=0Es war die erste Zahnradbahn.
+
+[115]
+FZ1=
+FZ2=Wie nennt man den Ort bei einer Dampflok, wo sich das Wasser befindet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kessel
+Antwort_2=0Schüssel
+Antwort_3=0Wanne
+Antwort_4=0Tender
+
+[116]
+FZ1=
+FZ2=Was befindet sich im Kessel der Dampflok ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Wasser
+Antwort_2=0Proviant
+Antwort_3=0Kohle
+Antwort_4=0Verbandszeug
+
+[117]
+FZ1=
+FZ2=Wie nennt man den Ort bei  einer Dampflok, wo der Brennstoff (Holz oder Kohle )
+FZ3=verbrannt wird ?
+Min=64000
+Max=500000
+Antwort_1=1Feuerbüchse
+Antwort_2=0Feuerkiste
+Antwort_3=0Feuerdose
+Antwort_4=0Feuerstelle
+
+[118]
+FZ1=
+FZ2=Wie nannten die Indianer die Dampfloks, die durch ihr Land fuhren ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1"Eisernes Pferd" oder "Feuerross"
+Antwort_2=0"Funkenspeier" oder "Blitzwerfer"
+Antwort_3=0"Qualmesel" oder "Rauchkuh"
+Antwort_4=0"Stahlross" oder "Metallpferd"
+
+[119]
+FZ1=
+FZ2=Wie nennt man die Vorrichtung zum Drehen und Versetzen von Lokomotiven ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Drehscheibe
+Antwort_2=0Drehgestell
+Antwort_3=0Drehplatte
+Antwort_4=0Drehteller
+
+[120]
+FZ1=
+FZ2=Welche Güter transportiert man in Kesselwagen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Öle, Lebensmittel oder Chemikalien
+Antwort_2=0Eisen und Stahl
+Antwort_3=0Baumaterialien wie Sand und Kies
+Antwort_4=0Kühe und Schafe
+
+[121]
+FZ1=
+FZ2=Warum erreicht der ICE nur selten seine Höchstgeschwindigkeit ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1weil die Strecken zu kurvig sind
+Antwort_2=0weil er zu oft anderen Zügen	ausweichen muss
+Antwort_3=0weil die Strecken zu viele Weichen	haben
+Antwort_4=0weil er vollbeladen zu schwer ist
+
+[122]
+FZ1=
+FZ2=Wie schnell fuhr die japanische Magnetschwebebahn Chuo Shinkasen bei ihrer
+FZ3=Weltrekordfahrt im Januar 1998 ?
+Min=64000
+Max=250000
+Antwort_1=1über 550 km/h
+Antwort_2=0505 - 515 km/h
+Antwort_3=0fast 498 km/h
+Antwort_4=0genau 444 km/h
+
+[123]
+FZ1=
+FZ2=Wie viele Menschen fahren heute (2002) täglich mit der Bahn ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=14,7 Millionen
+Antwort_2=05,8 Millionen
+Antwort_3=03,6 Millionen
+Antwort_4=06,9 Millionen
+
+[124]
+FZ1=
+FZ2=Wann wurde der Zugfunk eingesetzt, so dass sich Lokführer und Stellwerke
+FZ3=miteinander verständigen konnten ?
+Min=8000
+Max=125000
+Antwort_1=1seit etwa 1970
+Antwort_2=0seit etwa 1950
+Antwort_3=0seit etwa 1960
+Antwort_4=0seit etwa 1980
+
+[125]
+FZ1=
+FZ2=Welche Erfindung machte den Beruf des Bremsers überflüssig ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Druckluftbremse
+Antwort_2=0Scheibenbremse
+Antwort_3=0Handbremse
+Antwort_4=0Kolbenbremse
+
+[126]
+FZ1=
+FZ2=Wie viele Wagenklassen gibt es in unseren heutigen Zügen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=12
+Antwort_2=01
+Antwort_3=03
+Antwort_4=04
+
+[127]
+FZ1=
+FZ2=Wie nennt man den Abstand zwischen den Schienen eines Gleises ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Spurweite
+Antwort_2=0Schienenweite
+Antwort_3=0Gleisweite
+Antwort_4=0Schwellenweite
+
+[128]
+FZ1=
+FZ2=Wie lang soll der Gotthard - Basistunnel werden, dessen Fertigstellung
+FZ3=für 2014 geplant ist ?
+Min=32000
+Max=125000
+Antwort_1=157 Kilometer
+Antwort_2=037 Kilometer
+Antwort_3=077 Kilometer
+Antwort_4=097 Kilometer
+
+[129]
+FZ1=
+FZ2=Welche der folgenden Angaben findet man  n i c h t  auf den Abfahrttafeln
+FZ3=in Bahnhöfen ?
+Min=0
+Max=1000
+Antwort_1=1den Namen des Zugbegleiters
+Antwort_2=0den Zugtyp
+Antwort_3=0die Abfahrtzeit
+Antwort_4=0das Ziel der Fahrt
+
+[130]
+FZ1=
+FZ2=Wie viel Prozent Steigung hat die steilste Bergbahn der Welt, die Pilatusbahn bei
+FZ3=Luzern, auf einer Strecke von 3.800 Metern im Durchschnitt ?
+Min=250000
+Max=500000
+Antwort_1=148 %
+Antwort_2=038 %
+Antwort_3=042 %
+Antwort_4=032 %
+
+[131]
+FZ1=
+FZ2=Wie viele Höhenmeter überwindet die steilste Bergbahn der Welt, die Pilatusbahn
+FZ3=bei Luzern, auf einer Strecke von 3.800 Metern ?
+Min=500000
+Max=500000
+Antwort_1=11.615 m
+Antwort_2=0875 m
+Antwort_3=01.208 m
+Antwort_4=02.764 m
+
+[132]
+FZ1=
+FZ2=Wie heißt die steilste Bergbahn der Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Pilatusbahn bei Luzern
+Antwort_2=0Golgathabahn bei Zürich
+Antwort_3=0Pontiusbahn bei Bern
+Antwort_4=0Augustusbahn bei Genf
+
+[133]
+FZ1=
+FZ2=Wo fährt die steilste Bergbahn der Welt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Schweiz
+Antwort_2=0USA
+Antwort_3=0Nepal
+Antwort_4=0Chile
+
+[134]
+FZ1=
+FZ2=Wie nennt man ein leichtes Schienenfahrzeug, das durch einen Motor oder
+FZ3=Menschenkraft angetrieben wird und zu Kontrollfahrten auf der Bahnstrecke dient ?
+Min=0
+Max=1000
+Antwort_1=1Draisine
+Antwort_2=0Kantine
+Antwort_3=0Cousine
+Antwort_4=0Rosine
+
+[135]
+FZ1=
+FZ2=Wann fuhr in London die erste städtische U-Bahn der Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11863
+Antwort_2=01873
+Antwort_3=01853
+Antwort_4=01883
+
+[136]
+FZ1=
+FZ2=Wo fuhr 1863 die erste städtische U-Bahn der Welt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1London
+Antwort_2=0Moskau
+Antwort_3=0Paris
+Antwort_4=0Berlin
+
+[137]
+FZ1=
+FZ2=Wann erreichte die schnellste Dampflok der Welt, die "Mallard",
+FZ3=ihre Höchstgeschwindigkeit von 202,8 km/h ?
+Min=500000
+Max=500000
+Antwort_1=11938
+Antwort_2=01948
+Antwort_3=01928
+Antwort_4=01958
+
+[138]
+FZ1=
+FZ2=Wie hieß die schnellste Dampflok der Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Mallard
+Antwort_2=0William
+Antwort_3=0Dollar
+Antwort_4=0Tanhard
+
+[139]
+FZ1=
+FZ2=Welche Höchstgeschwindigkeit erreichte die schnellste Dampflok der Welt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1202,8 km/h
+Antwort_2=0152,8 km/h
+Antwort_3=0102,8 km/h
+Antwort_4=0272,8 km/h
+
+[140]
+FZ1=
+FZ2=Wann fuhr in Berlin-Lichterfelde die erste elektrische Straßenbahn der Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11881
+Antwort_2=01911
+Antwort_3=01901
+Antwort_4=01931
+
+[141]
+FZ1=
+FZ2=Wo fuhr die erste elektrische Straßenbahn der Welt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Berlin
+Antwort_2=0London
+Antwort_3=0New York
+Antwort_4=0Paris
+
+[142]
+FZ1=Wie viel PS hatte die erste 1912 in Berlin gebaute Großdiesellok, die jedoch
+FZ2=technisch nicht ausgereift war und daher Ende 1920 verschrottet wurde, ohne je
+FZ3=planmäßig zum Einsatz gekommen zu sein ?
+Min=125000
+Max=500000
+Antwort_1=11.000
+Antwort_2=010.000
+Antwort_3=0100
+Antwort_4=0100.000
+
+[143]
+FZ1=
+FZ2=Wann wurde die erste Großdiesellok der Welt gebaut ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11912 in Berlin
+Antwort_2=01902 in Paris
+Antwort_3=01922 in London
+Antwort_4=01932 in Rom
+
+[144]
+FZ1=
+FZ2=Welches Kennzeichen ist in Deutschland für Dieselloks üblich ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1V
+Antwort_2=0L
+Antwort_3=0D
+Antwort_4=0X
+
+[145]
+FZ1=
+FZ2=Wie schnell kann ein Zug heute (2002) über eine Schnellfahrweiche fahren,
+FZ3=ohne dass er Gefahr läuft, zu entgleisen ?
+Min=32000
+Max=125000
+Antwort_1=1bis zu 220 km/h
+Antwort_2=0bis zu 180 km/h
+Antwort_3=0bis zu 200 km/h
+Antwort_4=0bis zu 160 km/h
+
+[146]
+FZ1=
+FZ2=Wie nennt man die Vorrichtung, mit deren Hilfe ein Zug von einem Gleis auf ein
+FZ3=anderes wechseln kann ?
+Min=0
+Max=1000
+Antwort_1=1Weiche
+Antwort_2=0Drehscheibe
+Antwort_3=0Gleiswechsel
+Antwort_4=0Kreuzung
+
+[147]
+FZ1=
+FZ2=Was versteht man unter einem Gleisabschnitt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1eine genau abgemessene Strecke	Gleis,	auf der immer nur ein Zug unterwegs
+Antwort_2=0der Abstand zwischen zwei Bahnhöfen
+Antwort_3=0der Abschnitt zwischen zwei Schwellen
+Antwort_4=0eine genau abgemessene Strecke	zwischen zwei Weichen
+
+[148]
+FZ1=
+FZ2=Wofür steht die Abkürzung IC ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1INTERCITY
+Antwort_2=0IMMER COOL
+Antwort_3=0IN CELLE
+Antwort_4=0IRRE CLEVER
+
+[149]
+FZ1=
+FZ2=Wie viele Güter werden täglich mit der Bahn transportiert ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1über 800.000 Tonnen
+Antwort_2=0500.000 - 750.000 Tonnen
+Antwort_3=0über 1.500.000 Tonnen
+Antwort_4=0genau 456.912 Tonnen
+
+[150]
+FZ1=
+FZ2=Wann wurde die erste wirklich funktionstüchtige elektrische Lokomotive auf der
+FZ3=Berliner Gewerbeausstellung vorgestellt ?
+Min=250000
+Max=500000
+Antwort_1=11879
+Antwort_2=01929
+Antwort_3=01899
+Antwort_4=01935
+
+[151]
+FZ1=
+FZ2=Wer baute die erste wirklich funktionstüchtige elektrische Lokomotive ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Werner von Siemens
+Antwort_2=0Wyatt Earp
+Antwort_3=0George Stephenson
+Antwort_4=0George Thomalla
+
+[152]
+FZ1=
+FZ2=Wo werden die Züge gewaschen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1in einer Waschanlage
+Antwort_2=0in speziellen Waschtunneln
+Antwort_3=0am Ende des Bahnhofes werden sie mit	einem Schlauch abgespritzt
+Antwort_4=0gar nicht, der Regen wäscht sie sauber
+
+[153]
+FZ1=
+FZ2=Wann wurde in den USA die erste Zahnradbahn der Welt gebaut ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11869
+Antwort_2=01908
+Antwort_3=01888
+Antwort_4=01928
+
+[154]
+FZ1=
+FZ2=Welches Land besaß die erste Zahnradbahn der Welt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1USA
+Antwort_2=0Österreich
+Antwort_3=0Schweiz
+Antwort_4=0Deutschland
+
+[155]
+FZ1=
+FZ2=Wie werden Weichen im Winter schneefrei gehalten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1über verschiedenste Heizsysteme	werden die Weichen beheizt
+Antwort_2=0im Winter werden beheizbare Planen	über die Weichen gelegt
+Antwort_3=0der Heizer gießt heißes Wasser über	die	Weichen
+Antwort_4=0durch solarbetriebene Heizstrahler	werden die Weichen geheizt
+
+[156]
+FZ1=
+FZ2=Wie weit kann die vor der Lokomotive angebrachte Schneeschleuder den Schnee
+FZ3=wegschleudern ?
+Min=16000
+Max=64000
+Antwort_1=1bis zu 50 Metern
+Antwort_2=020 - 25 m
+Antwort_3=0bis zu 30 Metern
+Antwort_4=0ca. 15 Meter
+
+[157]
+FZ1=
+FZ2=Wie nennt man das Gerät, das vor die Lokomotive angebracht wird, um die
+FZ3=Schienen vom Schnee zu befreien ?
+Min=32000
+Max=250000
+Antwort_1=1Schneeschleuder
+Antwort_2=0Schneepflug
+Antwort_3=0Schneeschieber
+Antwort_4=0Schneebesen
+
+[158]
+FZ1=
+FZ2=Wo wurden ab 1879  Doppelstockwagen zur Erhöhung der Passagierzahl
+FZ3=eingesetzt ?
+Min=250000
+Max=500000
+Antwort_1=1in Frankreich
+Antwort_2=0in Italien
+Antwort_3=0in Deutschland
+Antwort_4=0in England
+
+[159]
+FZ1=
+FZ2=Ab wann wurden Doppelstockwagen zur Erhöhung der Passagierzahl eingesetzt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11879
+Antwort_2=01929
+Antwort_3=01899
+Antwort_4=01949
+
+[160]
+FZ1=
+FZ2=Wie heißt der mit 53.850 Metern Länge zurzeit (2002) längste Eisenbahntunnel der
+FZ3=Welt, der Japans Hauptinsel Honshu und die Nordinsel Hokkaido verbindet ?
+Min=500000
+Max=500000
+Antwort_1=1Seikan - Tunnel
+Antwort_2=0Sumo - Tunnel
+Antwort_3=0Japan - Tunnel
+Antwort_4=0Samurai - Tunnel
+
+[161]
+FZ1=
+FZ2=Wie lang ist der zurzeit (2002) längste Eisenbahntunnel der Welt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=153.850 Meter
+Antwort_2=035.750 Meter
+Antwort_3=040.650 Meter
+Antwort_4=028.150 Meter
+
+[162]
+FZ1=
+FZ2=Wie lang ist der Euro - Tunnel, der Frankreich und England miteinander verbindet ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=150 km
+Antwort_2=030 km
+Antwort_3=040 km
+Antwort_4=060 km
+
+[163]
+FZ1=
+FZ2=Welches ist zurzeit (2002) der längste Eisenbahntunnel der Welt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1der Seikan - Tunnel
+Antwort_2=0der Euro -Tunnel
+Antwort_3=0der Gotthard -Tunnel
+Antwort_4=0der Simpson -Tunnel
+
+[164]
+FZ1=
+FZ2=Wann baute Philipp Wagner die erste elektrische Lokomotive, die einen Wagen von
+FZ3=der Größe eines Handkarrens ziehen konnte ?
+Min=500000
+Max=500000
+Antwort_1=11840
+Antwort_2=01850
+Antwort_3=01830
+Antwort_4=01860
+
+[165]
+FZ1=
+FZ2=Wer baute 1840 die erste elektrische Lokomotive, die einen Wagen von der Größe
+FZ3=eines Handkarrens ziehen konnte ?
+Min=500000
+Max=500000
+Antwort_1=1Philipp Wagner
+Antwort_2=0Peter Tweer
+Antwort_3=0Thomas Hüsken
+Antwort_4=0Günther Frank
+
+[166]
+FZ1=
+FZ2=Wann entwickelte Thomas Davenport das erste Fahrzeug mit elektrischem Antrieb ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11835
+Antwort_2=01885
+Antwort_3=01855
+Antwort_4=01915
+
+[167]
+FZ1=
+FZ2=Wer entwickelte 1835 das erste Fahrzeug mit elektrischem Antrieb ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Thomas Davenport
+Antwort_2=0Werner von Siemens
+Antwort_3=0Michael Faraday
+Antwort_4=0Herbert Ohm
+
+[168]
+FZ1=
+FZ2=Wie hieß die erste Lok, die auf der Strecke zwischen Liverpool und Manchester
+FZ3=eingesetzt wurde ?
+Min=32000
+Max=125000
+Antwort_1=1Rocket
+Antwort_2=0Silverghost
+Antwort_3=0Star
+Antwort_4=0Hornet
+
+[169]
+FZ1=
+FZ2=Wie hieß die Lokomotive, die 1829 das berühmte Lokrennen von Rainhill gewann ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Rocket
+Antwort_2=0Sanspareil
+Antwort_3=0Novelty
+Antwort_4=0Startreck
+
+[170]
+FZ1=
+FZ2=Wie machte der Lokführer in der Frühzeit der Eisenbahn
+FZ3=auf seinen Zug aufmerksam ?
+Min=1000
+Max=16000
+Antwort_1=1Er blies ins Horn wie die Kutscher der	Postkutschen.
+Antwort_2=0Er schwenkte eine rotkarierte Fahne.
+Antwort_3=0Er betätigte eine Dampfpfeife.
+Antwort_4=0Er blinkte mit einer großen Laterne.
+
+[171]
+FZ1=
+FZ2=Wie wurde eine Dampflok gebremst ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Auf der Lok und jedem Wagen saß ein	Bremser, der auf ein Zeichen des	Lokführers die Bremshebel betätigte.
+Antwort_2=0Das Antriebsgestänge wurde	ausgekuppelt und ein Rückwärtsgang	wurde eingelegt.
+Antwort_3=0In den Kessel wurde kaltes Wasser	geleitet, so dass das Feuer ausging.
+Antwort_4=0Vor die vorderen Räder der Wagen	wurden Bremskeile auf die Schienen	gelegt.
+
+[172]
+FZ1=
+FZ2=Was ist beim Bremsen eines Zuges wichtig ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1dass Lok und Wagen gleichzeitig	bremsen
+Antwort_2=0dass der Lokführer vor dem Bremsen	ein Warnsignal ertönen lässt
+Antwort_3=0dass die Lokomotive ganz langsam	anfängt zu bremsen
+Antwort_4=0dass das Bremslicht gut zu sehen ist
+
+[173]
+FZ1=
+FZ2=Wie werden Weichen gestellt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1automatisch per Knopfdruck vom	elektronischen Stellwerk
+Antwort_2=0vom Lokführer aus der Lok heraus
+Antwort_3=0vor Ort von Hand des Schaffners
+Antwort_4=0per Ultraschall von der Lokomotive
+
+[174]
+FZ1=
+FZ2=Wie lang sind alle Eisenbahnstrecken der Welt zusammen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 870.000 km
+Antwort_2=0ungefähr 990.000 km
+Antwort_3=0etwa 720.000 km
+Antwort_4=0fast 612.000 km
+
+[175]
+FZ1=
+FZ2=Woher bekommt eine E-Lok ihren Strom ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1aus der Oberleitung
+Antwort_2=0aus großen Batterien
+Antwort_3=0aus der Stromschiene zwischen den	Schienen
+Antwort_4=0von einem Drehstromgenerator
+
+[176]
+FZ1=
+FZ2=Wie heißt die größte steinerne Eisenbahnbrücke der Welt
+FZ3=auf der Eisenbahnstrecke Leipzig - Hof ?
+Min=500000
+Max=500000
+Antwort_1=1Göltzschtalbrücke
+Antwort_2=0Leipachtalbrücke
+Antwort_3=0Müngstenerbrücke
+Antwort_4=0Fürstenaubrücke
+
+[177]
+FZ1=
+FZ2=Wie lang ist die Göltzschtalbrücke auf der Eisenbahnstrecke Leipzig - Hof,
+FZ3=die größte steinerne Eisenbahnbrücke der Welt ?
+Min=250000
+Max=500000
+Antwort_1=1574 m
+Antwort_2=0309 m
+Antwort_3=0432 m
+Antwort_4=0265 m
+
+[178]
+FZ1=
+FZ2=Wie hoch ist die Göltzschtalbrücke auf der Eisenbahnstrecke Leipzig - Hof,
+FZ3=die größte steinerne Eisenbahnbrücke der Welt ?
+Min=125000
+Max=500000
+Antwort_1=178 m
+Antwort_2=028 m
+Antwort_3=048 m
+Antwort_4=0108 m
+
+[179]
+FZ1=
+FZ2=Wo steht die größte steinerne Eisenbahnbrücke der Welt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1in Deutschland
+Antwort_2=0in Italien
+Antwort_3=0in England
+Antwort_4=0in Amerika
+
+[180]
+FZ1=
+FZ2=In den USA gibt es ungefähr ein Viertel des weltweiten Eisenbahnnetzes.
+FZ3=Wie viele Kilometer sind es ?
+Min=125000
+Max=500000
+Antwort_1=1über 200.000 km
+Antwort_2=0ca. 500.000 km
+Antwort_3=0180.000 - 195.000 km
+Antwort_4=0genau 123.755 km
+
+[181]
+FZ1=
+FZ2=Welches Land besitzt das größte Eisenbahnnetz der Welt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1USA
+Antwort_2=0China
+Antwort_3=0Kanada
+Antwort_4=0Russland
+
+[182]
+FZ1=
+FZ2=Durch wie viele Tunnel führt Europas tunnelreichste Strecke, von Belgrad nach
+FZ3=Bar am Mittelmeer ?
+Min=125000
+Max=500000
+Antwort_1=1254
+Antwort_2=054
+Antwort_3=0154
+Antwort_4=0354
+
+[183]
+FZ1=
+FZ2=Wie lang ist Europas tunnelreichste Strecke, die durch 254 Tunnel von Belgrad nach
+FZ3=Bar am Mittelmeer führt ?
+Min=64000
+Max=250000
+Antwort_1=1476 km
+Antwort_2=0647 km
+Antwort_3=0764 km
+Antwort_4=0291 km
+
+[184]
+FZ1=
+FZ2=In welchem Land liegt Europas tunnelreichste Strecke ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1in Serbien
+Antwort_2=0in Italien
+Antwort_3=0in Kroatien
+Antwort_4=0in Österreich
+
+[185]
+FZ1=
+FZ2=Wann fuhr das erste Magnetschwebefahrzeug der Welt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=16. Mai 1971
+Antwort_2=03. November 1981
+Antwort_3=022. März 1976
+Antwort_4=014. Februar 1966
+
+[186]
+FZ1=
+FZ2=Wo fuhr das erste Magnetschwebefahrzeug der Welt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Deutschland
+Antwort_2=0Japan
+Antwort_3=0USA
+Antwort_4=0Frankreich
+
+[187]
+FZ1=
+FZ2=Wann wurde der Simplon-Tunnel freigegeben, der bis 1982 mit 19.803 m der längste
+FZ3=Eisenbahntunnel der Welt war ?
+Min=500000
+Max=500000
+Antwort_1=11906
+Antwort_2=01896
+Antwort_3=01916
+Antwort_4=01926
+
+[188]
+FZ1=
+FZ2=Wie lang ist der Simplon-Tunnel zwischen der Schweiz und Italien ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=119.803 m
+Antwort_2=015.036 m
+Antwort_3=017.452 m
+Antwort_4=021.335 m
+
+[189]
+FZ1=
+FZ2=Wie lange dauerte der Bau der Strecke über den Semmering-Gebirgspass,
+FZ3=der ersten Bahnstrecke über die Alpen ?
+Min=125000
+Max=500000
+Antwort_1=16 Jahre
+Antwort_2=08 Jahre
+Antwort_3=04 Jahre
+Antwort_4=010 Jahre
+
+[190]
+FZ1=
+FZ2=Wann wurde die erste Bahnstrecke über die Alpen eröffnet ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11854
+Antwort_2=01908
+Antwort_3=01897
+Antwort_4=01923
+
+[191]
+FZ1=
+FZ2=Welches Land baute als Erstes eine Bahnstrecke über die Alpen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Österreich
+Antwort_2=0Italien
+Antwort_3=0Schweiz
+Antwort_4=0Frankreich
+
+[192]
+FZ1=
+FZ2=Wie viele Leute sind mindestens nötig, um eine Dampflok zu fahren ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=12
+Antwort_2=04
+Antwort_3=03
+Antwort_4=05
+
+[193]
+FZ1=
+FZ2=Wann wurde die erste Lokomotivfabrik der Welt gegründet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=123. Juni 1823
+Antwort_2=022. März 1893
+Antwort_3=014. Februar 1854
+Antwort_4=03. November 1856
+
+[194]
+FZ1=
+FZ2=Wie lange benötigt der Schweizer Glacier -Express für die 291 Kilometer lange
+FZ3=Strecke von St. Moritz nach Zermatt ?
+Min=32000
+Max=250000
+Antwort_1=1siebeneinhalb Stunden
+Antwort_2=0viereinhalb Stunden
+Antwort_3=0sechs Stunden
+Antwort_4=0drei Stunden
+
+[195]
+FZ1=
+FZ2=Wie lang ist die längste kurvenlose Eisenbahnstrecke
+FZ3=in der Nullabor-Wüste in Australien ?
+Min=250000
+Max=500000
+Antwort_1=1500 km
+Antwort_2=0250 km
+Antwort_3=02.000 km
+Antwort_4=0115km
+
+[196]
+FZ1=
+FZ2=Wo verläuft die längste kurvenlose Eisenbahnstrecke der Welt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1in Australien
+Antwort_2=0in Amerika
+Antwort_3=0in Afrika
+Antwort_4=0in China
+
+[197]
+FZ1=
+FZ2=Als was ist der Schweizer Glacier-Express bekannt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1als der langsamste
+Antwort_2=0als der sicherste
+Antwort_3=0als der schnellste
+Antwort_4=0als der älteste
+
+[198]
+FZ1=
+FZ2=Wie heißen die Anzeigetafeln auf den Bahnsteigen in der Fachsprache ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Zugzielanzeiger
+Antwort_2=0Reisezieltafel
+Antwort_3=0Abfahrttafeln
+Antwort_4=0Reiseinformationsanzeiger
+
+[199]
+FZ1=
+FZ2=Wie schnell fuhr der "fliegende Hamburger", ein Dieselzug,
+FZ3=der in den 1930er Jahren zwischen Berlin und Hamburg eingesetzt wurde ?
+Min=16000
+Max=125000
+Antwort_1=1bis zu 200 km/h
+Antwort_2=0bis zu 250 km/h
+Antwort_3=0bis zu 150 km/h
+Antwort_4=0bis zu 300 km/h
+
+[200]
+FZ1=
+FZ2=Wie nannte man den Dieselzug, der in den 1930er Jahren zwischen Berlin und
+FZ3=Hamburg eingesetzt wurde ?
+Min=250000
+Max=500000
+Antwort_1=1Fliegende Hamburger
+Antwort_2=0Hamburger Blitz
+Antwort_3=0Fliegende Berliner
+Antwort_4=0Berliner Blitz
+
+[201]
+FZ1=
+FZ2=Wo findet man den so genannten Ablaufberg ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1auf Rangierbahnhöfen
+Antwort_2=0an Bahndämmen
+Antwort_3=0nach steilen Bahnstrecken im Gebirge
+Antwort_4=0nach jeder Tunnelausfahrt
+
+[202]
+FZ1=
+FZ2=Wann baute James Watt die erste leistungsfähige Dampfmaschine ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11765
+Antwort_2=01576
+Antwort_3=01675
+Antwort_4=01567
+
+[203]
+FZ1=
+FZ2=Wer baute 1765 die erste leistungsfähige Dampfmaschine ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1James Watt
+Antwort_2=0Jim Ampere
+Antwort_3=0John Volt
+Antwort_4=0Thomas Alva Edison
+
+[204]
+FZ1=
+FZ2=Wie viel PS hat eine ICE - Lok ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1ca. 6.500
+Antwort_2=0ca. 5.100
+Antwort_3=0ca. 8.000
+Antwort_4=0ca. 3.300
+
+[205]
+FZ1=
+FZ2=Wie viele Pkw haben zusammen die Kraft einer ICE - Lok ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1ca. 65
+Antwort_2=0ungefähr 85
+Antwort_3=0etwa 45
+Antwort_4=0fast 105
+
+[206]
+FZ1=
+FZ2=Wie nennt man die Lokomotive des ICE, die mit dem Rest des Zuges fest verbunden
+FZ3=ist und dadurch mit ihm eine Einheit bildet ?
+Min=16000
+Max=125000
+Antwort_1=1Triebkopf
+Antwort_2=0Antriebskopf
+Antwort_3=0Triebwagen
+Antwort_4=0Triebwagenkopf
+
+[207]
+FZ1=
+FZ2=Seit wann verkehrte der Orientexpress zwischen Paris und Istanbul ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11883
+Antwort_2=01921
+Antwort_3=01799
+Antwort_4=01956
+
+[208]
+FZ1=
+FZ2=Zwischen welchen Städten verkehrte seit 1883 der Orientexpress ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Paris - Istanbul
+Antwort_2=0Lissabon - Antalya
+Antwort_3=0Madrid - Izmir
+Antwort_4=0Brüssel - Ankara
+
+[209]
+FZ1=
+FZ2=Wofür steht das "D" in der Bezeichnung "D-Zug" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Durchgangswagen
+Antwort_2=0Dieselzug
+Antwort_3=0Deutschland
+Antwort_4=0Dampflokomotive
+
+[210]
+FZ1=
+FZ2=Wer erfand den ersten Schlafwagen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1George M. Pullman
+Antwort_2=0George Washington
+Antwort_3=0Henry Ford
+Antwort_4=0George W. Bush
+
+[211]
+FZ1=
+FZ2=Wann wurde der erste Schlafwagen gebaut ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11865
+Antwort_2=01915
+Antwort_3=01895
+Antwort_4=01935
+
+[212]
+FZ1=
+FZ2=Was muss ein Lokführer während der Fahrt ständig tun, damit die
+FZ3=Sicherheitsfahrschaltung keine automatische Bremsung auslöst ?
+Min=1000
+Max=16000
+Antwort_1=1Alle 30 Sekunden einen Hebel loslassen	und wieder drücken.
+Antwort_2=0Alle 10 Sekunden hupen.
+Antwort_3=0Alle 90 Sekunden einen Funkspruch	senden.
+Antwort_4=0Alle 50 Sekunden ein Fußpedal ölen.
+
+[213]
+FZ1=
+FZ2=Wann fuhr die erste elektrische Lokomotive der Welt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11879
+Antwort_2=01859
+Antwort_3=01899
+Antwort_4=01919
+
+[214]
+FZ1=
+FZ2=Bis wann wurden die meisten Personen- und Güterzüge von Dampfloks gezogen ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1bis etwa 1950
+Antwort_2=0bis etwa 1930
+Antwort_3=0bis etwa 1940
+Antwort_4=0bis etwa 1960
+
+[215]
+FZ1=
+FZ2=Wie hieß der erste Lokomotivführer in Deutschland ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1William Wilson
+Antwort_2=0Frank Best
+Antwort_3=0William Overhoff
+Antwort_4=0Bobby Charlton
+
+[216]
+FZ1=
+FZ2=Woher stammte der erste Lokomotivführer in Deutschland ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1aus England
+Antwort_2=0aus Griechenland
+Antwort_3=0aus Spanien
+Antwort_4=0aus Frankreich
+
+[217]
+FZ1=
+FZ2=Zwischen welchen englischen Städten wurde 1830 die erste "richtige" Bahnstrecke
+FZ3=der Welt eingeweiht ?
+Min=125000
+Max=500000
+Antwort_1=1Liverpool und Manchester
+Antwort_2=0Birmingham und London
+Antwort_3=0London und Brighton
+Antwort_4=0Dover und Eton
+
+[218]
+FZ1=
+FZ2=Wann wurde zwischen Liverpool und Manchester die erste "richtige" Bahnstrecke
+FZ3=der Welt eingeweiht ?
+Min=125000
+Max=500000
+Antwort_1=11830
+Antwort_2=01850
+Antwort_3=01840
+Antwort_4=01860
+
+[219]
+FZ1=
+FZ2=In welchem Land wurde 1830 die erste "richtige" Bahnstrecke der Welt eingeweiht ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1in England
+Antwort_2=0in Italien
+Antwort_3=0in Frankreich
+Antwort_4=0in Deutschland
+
+[220]
+FZ1=
+FZ2=Wann erhielt Indien als erstes asiatische Land eine Eisenbahn ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11852
+Antwort_2=01882
+Antwort_3=01832
+Antwort_4=01902
+
+[221]
+FZ1=
+FZ2=Welches asiatische Land erhielt 1852 als Erstes eine Eisenbahn ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Indien
+Antwort_2=0Japan
+Antwort_3=0China
+Antwort_4=0Korea
+
+[222]
+FZ1=
+FZ2=Seit wann sind Diesellokomotiven auf den Bahnstrecken in Deutschland im Einsatz ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1seit etwa 1930
+Antwort_2=0seit etwa 1950
+Antwort_3=0seit etwa 1910
+Antwort_4=0seit etwa 1970
+
+[223]
+FZ1=
+FZ2=Wie lang ist die Andenbahn in Peru, die fast 5.000 m Höhe erreicht ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1220 km
+Antwort_2=02.200 km
+Antwort_3=022 km
+Antwort_4=022.200 km
+
+[224]
+FZ1=
+FZ2=Welche Höhe ereicht die 220 Kilometer lange Andenbahn in Peru ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1fast 5.000 m
+Antwort_2=0knapp 3.500 m
+Antwort_3=0ca. 4.000 m
+Antwort_4=0ungefähr 3.000 m
+
+[225]
+FZ1=
+FZ2=Welches ist die höchste Eisenbahn der Welt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1die Andenbahn
+Antwort_2=0die Bagdadbahn
+Antwort_3=0die Amur - Eisenbahn
+Antwort_4=0der Alpenexpress
+
+[226]
+FZ1=
+FZ2=Welche Aufgabe hatte der Heizer ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Er schürte das Feuer im Dampfkessel.
+Antwort_2=0Er musste den Herd im Speisewagen	befeuern.
+Antwort_3=0Er bediente die Heizung im Zug.
+Antwort_4=0Er verteilte Heizdecken in den	Schlafwagen.
+
+[227]
+FZ1=
+FZ2=Seit wann fuhr die erste öffentliche Dampfeisenbahn ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1seit 1825
+Antwort_2=0seit 1805
+Antwort_3=0seit 1815
+Antwort_4=0seit 1835
+
+[228]
+FZ1=
+FZ2=Wo fuhr die erste öffentliche Dampfeisenbahn ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1zwischen Darlington und Stockton
+Antwort_2=0zwischen Nürnberg und Fürth
+Antwort_3=0zwischen Oslo und Göteborg
+Antwort_4=0zwischen San Franzisko und Miami
+
+[229]
+FZ1=
+FZ2=Was ist ein Tender ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1der Wagen, in dem das Brennmaterial	für die Dampflokomotiven transportiert	wird
+Antwort_2=0der Postwagen
+Antwort_3=0der Speisewagen
+Antwort_4=0der Wagen, in dem die Passagiere der	1. Klasse reisen
+
+[230]
+FZ1=
+FZ2=Wie heißt der Wagen, in dem das Brennmaterial für die Dampflokomotiven
+FZ3=transportiert wird ?
+Min=4000
+Max=64000
+Antwort_1=1Tender
+Antwort_2=0Wender
+Antwort_3=0Sender
+Antwort_4=0Spender
+
+[231]
+FZ1=
+FZ2=Wie nennt man einen Bahnhof, in dem alle Gleise enden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kopfbahnhof
+Antwort_2=0Bauchbahnhof
+Antwort_3=0Fußbahnhof
+Antwort_4=0Handbahnhof
+
+[232]
+FZ1=
+FZ2=Was geschieht, wenn der Lokführer einschläft ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Der Zug bremst automatisch ab.
+Antwort_2=0Ein Alarmwecker schellt.
+Antwort_3=0Der Zug entgleist.
+Antwort_4=0nichts
+
+[233]
+FZ1=
+FZ2=Wie heißt der französische Hochgeschwindigkeitszug ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1TGV
+Antwort_2=0ABC
+Antwort_3=0ICE
+Antwort_4=0WSV
+
+[234]
+FZ1=
+FZ2=Wie nennt man das Warnkreuz vor Bahnübergängen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Andreaskreuz
+Antwort_2=0Wilhelmkreuz
+Antwort_3=0Floriankreuz
+Antwort_4=0Thomaskreuz
+
+[235]
+FZ1=
+FZ2=Wer überwacht im Stellwerk die Bahnsteige, stellt die Weichen, leitet die
+FZ3=einfahrenden Züge um oder stoppt sie sogar ?
+Min=2000
+Max=32000
+Antwort_1=1Fahrdienstleiter
+Antwort_2=0Zugführer
+Antwort_3=0Lokführer
+Antwort_4=0Schaffner
+
+[236]
+FZ1=
+FZ2=Wie nennt man die "Kommandozentrale" eines Bahnhofs ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Stellwerk
+Antwort_2=0Tower
+Antwort_3=0Kontrollwerk
+Antwort_4=0Fahrwerk
+
+[237]
+FZ1=
+FZ2=Womit signalisiert der Zugführer dem Lokführer, dass es Zeit ist, abzufahren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1mit einer Kelle
+Antwort_2=0mit einem Spaten
+Antwort_3=0mit einer Schaufel
+Antwort_4=0mit einer Fahne
+
+[238]
+FZ1=
+FZ2=Welche Kosten verschlang der Eisenbahnbau, der die Ostküste und die Westküste
+FZ3=Amerikas verband und von 1863 bis 1869 dauerte ?
+Min=64000
+Max=250000
+Antwort_1=1ca. 90 Millionen Dollar
+Antwort_2=0ca. 900 Millionen Dollar
+Antwort_3=0ca. 40 Millionen Dollar
+Antwort_4=0ca. 4 Millionen Dollar
+
+[239]
+FZ1=
+FZ2=Wie lange brauchten die amerikanischen Eisenbahngesellschaften für den Bau
+FZ3=der Strecke zwischen Sacramento und Omaha ?
+Min=4000
+Max=64000
+Antwort_1=1sechs Jahre
+Antwort_2=0vier Jahre
+Antwort_3=0acht Jahre
+Antwort_4=0zwei Jahre
+
+[240]
+FZ1=
+FZ2=Welche Städte verbindet die Transsibirische Eisenbahn ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Moskau und Wladiwostok
+Antwort_2=0Moskau und Murmansk
+Antwort_3=0Kiew und Leningrad
+Antwort_4=0Petersburg und Wilna
+
+[241]
+FZ1=
+FZ2=Wie lang ist die Transsibirische Eisenbahn ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=19.288 Kilometer
+Antwort_2=0928 Kilometer
+Antwort_3=019.288 Kilometer
+Antwort_4=092 Kilometer
+
+[242]
+FZ1=
+FZ2=Welches ist die längste Eisenbahnstrecke der Welt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1die Transsibirische Eisenbahn
+Antwort_2=0die Anatolische Eisenbahn
+Antwort_3=0der Orientexpress
+Antwort_4=0der Swiss Express
+
+[243]
+FZ1=
+FZ2=Wie nennt man den Fahrer eines Zuges ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Lokführer
+Antwort_2=0Lokkapitän
+Antwort_3=0Lokpilot
+Antwort_4=0Zugfahrer
+
+[244]
+FZ1=
+FZ2=Wann wurde der Euro - Tunnel eröffnet, der England und Frankreich
+FZ3=miteinander verbindet ?
+Min=2000
+Max=32000
+Antwort_1=11994
+Antwort_2=01974
+Antwort_3=01984
+Antwort_4=01964
+
+[245]
+FZ1=
+FZ2=Welche Länder verbindet der Euro - Tunnel miteinander ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1England und Frankreich
+Antwort_2=0Niederlande und England
+Antwort_3=0Deutschland und England
+Antwort_4=0Schweden und Polen
+
+[246]
+FZ1=
+FZ2=Wie nennt man die Räder, die nicht von den Schienen rutschen können ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Spurkranzräder
+Antwort_2=0Parallelräder
+Antwort_3=0Antirutschräder
+Antwort_4=0Schwungräder
+
+[247]
+FZ1=
+FZ2=Was sind Spurkranzräder ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Räder, die nicht von den Schienen	rutschen
+Antwort_2=0spezielle Räder für steile Bergfahrten
+Antwort_3=0verzierte Räder
+Antwort_4=0Lenkräder der Diesellokomotiven
+
+[248]
+FZ1=
+FZ2=Wie hießen die um 1950 in den USA gebauten größten Dampfloks der Welt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Big Boy
+Antwort_2=0Big Ben
+Antwort_3=0Big Bob
+Antwort_4=0Big Jim
+
+[249]
+FZ1=
+FZ2=Womit fährt eine Elektrolokomotive ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1mit Strom
+Antwort_2=0mit Dampf
+Antwort_3=0mit Diesel
+Antwort_4=0mit Benzin
+
+[250]
+FZ1=
+FZ2=Wann wurde die erste in Deutschland gebaute fahrtüchtige Lokomotive  eingesetzt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=11839
+Antwort_2=01899
+Antwort_3=01809
+Antwort_4=01939
+
+[251]
+FZ1=
+FZ2=Auf welcher Strecke wurde die erste in Deutschland
+FZ3=gebaute fahrtüchtige Lokomotive  eingesetzt ?
+Min=64000
+Max=250000
+Antwort_1=1Leipzig - Dresden
+Antwort_2=0Fürth - Nürnberg
+Antwort_3=0Bochum - Dortmund
+Antwort_4=0Bamberg - Mühlacker
+
+[252]
+FZ1=
+FZ2=Wie hieß die erste in Deutschland gebaute fahrtüchtige Lokomotive ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Saxonia
+Antwort_2=0Wilhelmine
+Antwort_3=0Teutonia
+Antwort_4=0Piaggio
+
+[253]
+FZ1=
+FZ2=Wie heißt die Abkürzung für Lokomotive ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Lok
+Antwort_2=0Loti
+Antwort_3=0Lomo
+Antwort_4=0Love
+
+[254]
+FZ1=
+FZ2=Wie hieß die Lokomotivfabrik in England, aus der die Lok der ersten deutschen
+FZ3=Eisenbahn stammte ?
+Min=500000
+Max=500000
+Antwort_1=1Stephenson
+Antwort_2=0Morrisson
+Antwort_3=0Kensington
+Antwort_4=0Gudjonson
+
+[255]
+FZ1=
+FZ2=Woher stammt die Lok der ersten deutschen Eisenbahn ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1aus England
+Antwort_2=0aus Frankreich
+Antwort_3=0aus Deutschland
+Antwort_4=0aus Polen
+
+[256]
+FZ1=
+FZ2=Wann wurde die Eisenbahnlinie in den USA fertiggestellt, die Sacramento im
+FZ3=Westen mit Omaha am Missouri im Osten verband ?
+Min=64000
+Max=500000
+Antwort_1=11869
+Antwort_2=01899
+Antwort_3=01839
+Antwort_4=01929
+
+[257]
+FZ1=
+FZ2=Wo wurde die erste Bahnlinie gebaut, die einen ganzen Kontinent durchquerte ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1in den USA
+Antwort_2=0in Europa
+Antwort_3=0in Australien
+Antwort_4=0in Afrika
+
+[258]
+FZ1=
+FZ2=Wofür steht die Abkürzung ICE ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Intercityexpress
+Antwort_2=0Irre coole Eisenbahn
+Antwort_3=0International Civilisation Economy
+Antwort_4=0Intercloudenemy
+
+[259]
+FZ1=
+FZ2=Wie nennt man einen Bahnhof, auf dem Güterzüge neu zusammengestellt werden ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Rangierbahnhof
+Antwort_2=0Sackbahnhof
+Antwort_3=0Umsteigebahnhof
+Antwort_4=0Güterbahnhof
+
+[260]
+FZ1=
+FZ2=Wie kam die Eisenbahn zu ihrem Namen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1weil sie auf eisernen Schienen fährt
+Antwort_2=0weil sie eisern durchhält und nie müde	wird
+Antwort_3=0weil sie ganz aus Eisen gebaut ist
+Antwort_4=0weil mit ihr viel Eisen transportiert	werden kann
+
+[261]
+FZ1=
+FZ2=Welcher Anlass führte zur Erfindung der Dampflok ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1eine Wette
+Antwort_2=0die Geldnot des Erfinders
+Antwort_3=0ein Zufall
+Antwort_4=0der Nachbau einer mittelalterlichen	Maschine
+
+[262]
+FZ1=
+FZ2=Wer erfand die Dampflokomotive ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Richard Trevithick
+Antwort_2=0Henry Ford
+Antwort_3=0James Watt
+Antwort_4=0Karl Benz
+
+[263]
+FZ1=
+FZ2=Wie wurden die ersten Schienenbahnen bewegt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1mit Pferden
+Antwort_2=0mit einer Diesellokomotive
+Antwort_3=0mit einer Dampflokomotive
+Antwort_4=0mit einem Elektromotor
+
+[264]
+FZ1=
+FZ2=Wie hieß die erste Dampflokomotive in Deutschland ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Adler
+Antwort_2=0Geier
+Antwort_3=0Möwe
+Antwort_4=0Falke
+
+[265]
+FZ1=
+FZ2=Wie nennt man die Querstreben, auf denen die Schienen befestigt sind ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Schwellen
+Antwort_2=0Rillen
+Antwort_3=0Dellen
+Antwort_4=0Quellen
+
+[266]
+FZ1=
+FZ2=Wo entstanden um 1600 die ersten Schienenbahnen außerhalb der Bergwerke ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1in England
+Antwort_2=0in Frankreich
+Antwort_3=0in Deutschland
+Antwort_4=0in Italien
+
+[267]
+FZ1=
+FZ2=Wie lang war die erste deutsche Eisenbahnstrecke ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=16 Kilometer
+Antwort_2=026 Kilometer
+Antwort_3=016 Kilometer
+Antwort_4=036 Kilometer
+
+[268]
+FZ1=
+FZ2=Wie wurde die erste Eisenbahn getauft, die 1835 zwischen den beiden Städten
+FZ3=Nürnberg und Fürth verkehrte ?
+Min=64000
+Max=500000
+Antwort_1=1Ludwigs - Eisenbahn
+Antwort_2=0Leopolds - Eisenbahn
+Antwort_3=0Wilhelms - Eisenbahn
+Antwort_4=0Augustus - Eisenbahn
+
+[269]
+FZ1=
+FZ2=Wann wurde in Deutschland die erste Eisenbahnstrecke zwischen zwei Städten
+FZ3=eröffnet ?
+Min=125000
+Max=500000
+Antwort_1=11835
+Antwort_2=01845
+Antwort_3=01825
+Antwort_4=01815
+
+[270]
+FZ1=
+FZ2=Zwischen welchen beiden Städten wurde 1835 die erste Eisenbahnstrecke
+FZ3=in Deutschland eröffnet ?
+Min=16000
+Max=250000
+Antwort_1=1Nürnberg - Fürth
+Antwort_2=0Dortmund - Bochum
+Antwort_3=0Leipzig - Dresden
+Antwort_4=0Berlin - Potsdam
+
+[271]
+FZ1=
+FZ2=Welche Höchstgeschwindigkeit erreichte der französische TGV
+FZ3=1990 auf der Strecke Paris - Tours ?
+Min=16000
+Max=250000
+Antwort_1=1515
+Antwort_2=0313
+Antwort_3=0414
+Antwort_4=0616
+
+[272]
+FZ1=
+FZ2=Welche Reisegeschwindigkeit erreichte der französische TGV im Jahre 2002 ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1300 km/h
+Antwort_2=0100 km/h
+Antwort_3=0200 km/h
+Antwort_4=0400 km/h
+
+[273]
+FZ1=
+FZ2=Welcher Personenzug war im Jahre 2002 mit 300km/h Reisegeschwindigkeit
+FZ3=der schnellste der Welt ?
+Min=2000
+Max=32000
+Antwort_1=1der französische TGV
+Antwort_2=0der japanische Shinkansen
+Antwort_3=0der deutsche ICE
+Antwort_4=0der amerikanische USA
+
+[274]
+FZ1=
+FZ2=In welchem Land wurde die Dampflokomotive erfunden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1England
+Antwort_2=0Italien
+Antwort_3=0Frankreich
+Antwort_4=0Österreich
+
+[275]
+FZ1=
+FZ2=In welchem Jahr wurde die Dampflokomotive erfunden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11804
+Antwort_2=01604
+Antwort_3=01704
+Antwort_4=01904
+
+[276]
+FZ1=
+FZ2=Wie nennt man das Gerät, das auf einer Schiene angebracht wird,
+FZ3=um beim Rangieren die Wagen zum Halten zu bringen ?
+Min=2000
+Max=32000
+Antwort_1=1Bremsschuh
+Antwort_2=0Stopphut
+Antwort_3=0Haltehand
+Antwort_4=0Stehstiefel
+
+
