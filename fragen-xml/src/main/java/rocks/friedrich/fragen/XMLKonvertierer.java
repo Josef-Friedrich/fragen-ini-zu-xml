@@ -1,9 +1,11 @@
+package rocks.friedrich.fragen;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.UnsupportedEncodingException;
+import java.io.InputStream;
 import java.util.Scanner;
 
-import java.io.File;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -17,8 +19,11 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
 public class XMLKonvertierer {
-  public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, ParserConfigurationException, TransformerException{
-    Scanner scan = new Scanner(new File("eisenbahn.txt"), "ISO-8859-1");
+
+  public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, ParserConfigurationException, TransformerException {
+    ClassLoader classloader = Thread.currentThread().getContextClassLoader();
+    File file = new File(classloader.getResource("eisenbahn.txt").getFile());
+    Scanner scan = new Scanner(file, "ISO-8859-1");
 
     DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
     DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();

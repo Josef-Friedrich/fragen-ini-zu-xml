@@ -4,11 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>rocks.friedrich.fragenXml</groupId>
+  <groupId>rocks.friedrich.fragen</groupId>
   <artifactId>fragen-xml</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>fragen-xml</name>
+  <name>fragen</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -76,5 +76,22 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <plugins>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+        <version>3.0.0</version>
+        <executions>
+          <execution>
+            <goals>
+              <goal>java</goal>
+            </goals>
+          </execution>
+        </executions>
+        <configuration>
+          <mainClass>rocks.friedrich.fragen.XMLKonvertierer</mainClass>
+        </configuration>
+      </plugin>
+    </plugins>
   </build>
 </project>
