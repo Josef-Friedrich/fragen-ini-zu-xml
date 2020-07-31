@@ -1,16 +1,13 @@
 package rocks.friedrich.fragen;
 
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.io.InputStream;
-import java.util.Scanner;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
@@ -21,49 +18,38 @@ import org.w3c.dom.Element;
 
 public class XMLKonvertierer {
 
-  public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, ParserConfigurationException, TransformerException, IOException {
-    ClassLoader classloader = Thread.currentThread().getContextClassLoader();
-    File file = new File(classloader.getResource("eisenbahn.txt").getFile());
-    Scanner scan = new Scanner(file, "ISO-8859-1");
+  Element wurzel;
+  Document dokument;
 
-    INILeser iniLeser = new INILeser("eisenbahn.txt");
-    INILeser euro = new INILeser("wirtschf/euro.txt");
-    INILeser internet = new INILeser("itg/internet.txt");
-
+  public XMLKonvertierer() throws ParserConfigurationException {
     DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
     DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
-    Document document = documentBuilder.newDocument();
+    dokument = documentBuilder.newDocument();
+    wurzel = dokument.createElement("fragenKatalog");
+    dokument.appendChild(wurzel);
+  }
 
-    // root element
-    Element root = document.createElement("fragenKatalog");
-    document.appendChild(root);
+  private void setzeWurzelTextElement(String elementName, String text) {
+    Element element = dokument.createElement(elementName);
+    element.appendChild(dokument.createTextNode(text));
+    wurzel.appendChild(element);
+  }
 
+  public void setzteAutor(String autor) {
+    setzeWurzelTextElement("autor", autor);
+  }
 
-    // [270]
-    // FZ1=
-    // FZ2=Zwischen welchen beiden Städten wurde 1835 die erste Eisenbahnstrecke
-    // FZ3=in Deutschland eröffnet ?
-    // Min=16000
-    // Max=250000
-    // Antwort_1=1Nürnberg - Fürth
-    // Antwort_2=0Dortmund - Bochum
-    // Antwort_3=0Leipzig - Dresden
-    // Antwort_4=0Berlin - Potsdam
-    while (scan.hasNext()) {
-      String zeile = new String(scan.nextLine().getBytes(), "UTF-8");
-      if (zeile.matches("^\\[\\d+\\]")) {
-        //System.out.println(zeile);
-        for (int i = 1; i <= 9; i++) {
-          scan.nextLine();
-        }
-      }
-    }
-    scan.close();
+  public void setzteThema(String thema) {
+    setzeWurzelTextElement("thema", thema);
+  }
 
-    // TransformerFactory transformerFactory = TransformerFactory.newInstance();
-    // Transformer transformer = transformerFactory.newTransformer();
-    // DOMSource domSource = new DOMSource(document);
-    // StreamResult streamResult = new StreamResult(new File("eisenbahn.xml"));
-    // transformer.transform(domSource, streamResult);
+  public void schreibeInDatei(String dateiName) throws TransformerConfigurationException, TransformerException {
+    TransformerFactory transformerFactory = TransformerFactory.newInstance();
+    Transformer transformer = transformerFactory.newTransformer();
+    transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
+    transformer.setOutputProperty(OutputKeys.INDENT, "yes");
+    DOMSource domSource = new DOMSource(dokument);
+    StreamResult streamResult = new StreamResult(new File(dateiName));
+    transformer.transform(domSource, streamResult);
   }
 }

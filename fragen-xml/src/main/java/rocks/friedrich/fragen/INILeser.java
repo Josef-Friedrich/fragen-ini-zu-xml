@@ -13,13 +13,14 @@ public class INILeser {
 
   Ini ini;
   int anzahlFragen;
+  Ini.Section thema;
 
   public INILeser(String dateiName) throws FileNotFoundException, IOException {
     ClassLoader classloader = Thread.currentThread().getContextClassLoader();
     File file = new File(classloader.getResource(dateiName).getFile());
 
     ini = new Ini(new FileReader(file, Charset.forName("ISO-8859-1")));
-    Ini.Section thema = ini.get("Thema");
+    thema = ini.get("Thema");
     anzahlFragen = Integer.parseInt(thema.get("Fragen"));
     for (int i = 1; i <= anzahlFragen; i++) {
       Ini.Section frage = gibFrage(i);
@@ -32,15 +33,23 @@ public class INILeser {
     }
   }
 
-  public Ini.Section gibFrage (int fragenNummer) {
-    return ini.get(Integer.toString(fragenNummer));
-  }
-
-  public String formatiereText(String text) {
+  private String formatiereText(String text) {
     text = text.replaceAll("\"([^\"]*)\"", "„$1“");
     text = text.replaceAll("[ \t]+", " ");
     text = text.replaceAll(" \\?", "?");
     return text.trim();
+  }
+
+  public String gibThema() {
+    return formatiereText(thema.get("Thema"));
+  }
+
+  public String gibAutor() {
+    return formatiereText(thema.get("Autor"));
+  }
+
+  public Ini.Section gibFrage (int fragenNummer) {
+    return ini.get(Integer.toString(fragenNummer));
   }
 
   public String leseFragenText(Ini.Section sec) {

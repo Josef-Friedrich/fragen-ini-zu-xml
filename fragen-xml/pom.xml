@@ -89,7 +89,7 @@
           </execution>
         </executions>
         <configuration>
-          <mainClass>rocks.friedrich.fragen.XMLKonvertierer</mainClass>
+          <mainClass>rocks.friedrich.fragen.Haupt</mainClass>
         </configuration>
       </plugin>
     </plugins>
