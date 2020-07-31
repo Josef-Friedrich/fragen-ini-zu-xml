@@ -1,0 +1,2755 @@
+[Thema]
+Thema=Rund um die Ritter
+Fragen=250
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie heißt ein bekannter Ritterroman ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ivanhoe	
+Antwort_2=0Der letzte Mohikaner	
+Antwort_3=0Harry Potter	
+Antwort_4=0Die unendliche Geschichte	
+
+[2]
+FZ1=
+FZ2=Wie wurde Eduard, der älteste Sohn König Eduards III. wegen seiner
+FZ3=Rüstung genannt ?
+Min=500000
+Max=500000
+Antwort_1=1der "Schwarze Prinz"	
+Antwort_2=0der "Bunte Prinz"	
+Antwort_3=0der "Weiße Prinz"	
+Antwort_4=0der "Goldene Prinz"	
+
+[3]
+FZ1=
+FZ2=Was war ein "Mange" ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1ein großes Katapult, das die Kraft	gewundener Seile nutzte und Steine	aus einem Korb schleuderte	
+Antwort_2=0ein fahrbarer Belagerungsturm	
+Antwort_3=0ein langes, auf ein Holzgestell	montiertes Schwert mit Widerhaken	
+Antwort_4=0ein Knappe, der die Ritterprüfung nicht	bestanden hatte	
+
+[4]
+FZ1=
+FZ2=Wie nannte man ein großes Katapult, das die Kraft gewundener Seile nutzte und
+FZ3=Steine aus einem Korb schleuderte ?
+Min=500000
+Max=500000
+Antwort_1=1Mange	
+Antwort_2=0tange	
+Antwort_3=0Bange	
+Antwort_4=0Zange	
+
+[5]
+FZ1=Wie nannte man eine auf einem Holzgestell montierte große Armbrust,
+FZ2=mit der man lange Bolzen abschoss ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ballista	
+Antwort_2=0Fatima	
+Antwort_3=0Mange	
+Antwort_4=0Kerresta	
+
+[6]
+FZ1=
+FZ2=Was war eine Ballista ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1eine auf einem Holzgestell montierte	große Armbrust, mit der man lange	Bolzen abschoss	
+Antwort_2=0eine kurze Lanze mit Widerhaken	
+Antwort_3=0ein fahrbarer Belagerungsturm, von	dem man auch Steine schleudern	konnte	
+Antwort_4=0eine verkleidete Frau in einer	Ritterrüstung	
+
+[7]
+FZ1=
+FZ2=Wie nannte man die rechteckigen Pfeiler auf einer Burgmauer
+FZ3=mit Zwischenräumen zum Schießen ?
+Min=1000
+Max=16000
+Antwort_1=1Zinnen	
+Antwort_2=0Pinnen	
+Antwort_3=0Rinnen	
+Antwort_4=0Finnen	
+
+[8]
+FZ1=
+FZ2=Wie nannte man den Helfer beim Transport von Waffen, Ausrüstung
+FZ3=und Verpflegung zur Schlacht ?
+Min=1000
+Max=16000
+Antwort_1=1Trossknecht	
+Antwort_2=0Page	
+Antwort_3=0Knappe	
+Antwort_4=0Vasall	
+
+[9]
+FZ1=
+FZ2=Wie hieß der Helm der von den Fränkischen Reitern im 8. Jahrhundert getragen
+FZ3=wurde und zwar den gesamten Kopf bedeckte, aber das Gesicht frei ließ ?
+Min=2000
+Max=32000
+Antwort_1=1Spangenhelm	
+Antwort_2=0Normannenhelm	
+Antwort_3=0Topfhelm	
+Antwort_4=0Schutzhelm	
+
+[10]
+FZ1=
+FZ2=Wie hieß beim Schwert die Querspange zum Schutz der Hand ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Parierstange	
+Antwort_2=0Kurzstange	
+Antwort_3=0Schutzstange	
+Antwort_4=0Handstange	
+
+[11]
+FZ1=
+FZ2=Wie nannte man ein kurzes Gefecht, an dem nur wenige Kämpfer
+FZ3=beteiligt waren ?
+Min=500
+Max=4000
+Antwort_1=1Scharmützel	
+Antwort_2=0Turnier	
+Antwort_3=0Schlacht	
+Antwort_4=0Belagerung	
+
+[12]
+FZ1=
+FZ2=Welche Schutzwaffe benutzten die Ritter ab dem 11. Jahrhundert,
+FZ3=um Pfeile oder Schläge abzuwehren ?
+Min=4000
+Max=64000
+Antwort_1=1Langschild	
+Antwort_2=0Kurzschild	
+Antwort_3=0Rundschild	
+Antwort_4=0Dickschild	
+
+[13]
+FZ1=
+FZ2=Welche Schutzwaffe benutzten die Ritter bis zum 11. Jahrhundert,
+FZ3=um Pfeile oder Schläge abzuwehren ?
+Min=4000
+Max=64000
+Antwort_1=1Rundschild	
+Antwort_2=0Kurzschild	
+Antwort_3=0Langschild	
+Antwort_4=0Quadratschild	
+
+[14]
+FZ1=
+FZ2=Wie nannte man den Helm, der oben kegelförmig spitz zulief und einen
+FZ3=Nasenschutz hatte ?
+Min=8000
+Max=125000
+Antwort_1=1Normannenhelm	
+Antwort_2=0Mohammedhelm	
+Antwort_3=0Wikingerhelm	
+Antwort_4=0Selschukenhelm	
+
+[15]
+FZ1=
+FZ2=Wie nannte man die Strümpfe, die aus einem Geflecht
+FZ3=von Eisenringen bestanden ?
+Min=2000
+Max=32000
+Antwort_1=1Kettenstrümpfe	
+Antwort_2=0Ringstrümpfe	
+Antwort_3=0Eisenstrümpfe	
+Antwort_4=0Flechtstrümpfe	
+
+[16]
+FZ1=
+FZ2=Was war ein Kettenhemd ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ein Teil der Ritterrüstung,	das aus ineinander verschlungenen	Eisenringen bestand	
+Antwort_2=0ein Hemd mit vielen Ketten, an denen	die Jagdhunde befestigt waren	
+Antwort_3=0ein Hemd, an dem die Gefangenen im	Kerker angekettet waren	
+Antwort_4=0ein besonders wertvolles Hemd für die	Prinzessinnen, das aus lauter edlen	Ketten bestand	
+
+[17]
+FZ1=Wie nannte man im 12. Jahrhundert einen Teil der Ritterrüstung,
+FZ2=der aus ineinander verschlungenen Eisenringen bestand und den
+FZ3=Körper vom Kopf bis zu den Knien bedeckte ?
+Min=4000
+Max=64000
+Antwort_1=1Kettenhemd	
+Antwort_2=0Eisenjacke	
+Antwort_3=0Kettenanzug	
+Antwort_4=0Ringmantel	
+
+[18]
+FZ1=
+FZ2=Wie nannte man eine Burg, die von einem tiefen Graben umgeben war,
+FZ3=der oft mit Wasser gefüllt war ?
+Min=200
+Max=2000
+Antwort_1=1Grabenburg	
+Antwort_2=0Festungsburg	
+Antwort_3=0Felsenburg	
+Antwort_4=0Mauerburg	
+
+[19]
+FZ1=
+FZ2=Wie konnte man zu einer Grabenburg gelangen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1über eine Zugbrücke	
+Antwort_2=0über eine Hängebrücke	
+Antwort_3=0mit einer Fähre	
+Antwort_4=0Man musste an Seilen	hinüberschwingen.	
+
+[20]
+FZ1=
+FZ2=Wie hieß ein Schwert (eine Spezialität der fränkischen Waffenkunst) ,
+FZ3=das  k e i n e  gebogene Klinge hatte ?
+Min=1000
+Max=16000
+Antwort_1=1gerades Schwert	
+Antwort_2=0Langschwert	
+Antwort_3=0Schlagschwert	
+Antwort_4=0Krummdolch	
+
+[21]
+FZ1=
+FZ2=Wie nannte man die ledernen Beinkleider, die den Unterschenkel bedeckten
+FZ3=und seitlich geschnürt oder geknöpft wurden ?
+Min=16000
+Max=250000
+Antwort_1=1Gamaschen	
+Antwort_2=0Gameken	
+Antwort_3=0Galoschen	
+Antwort_4=0Geranien	
+
+[22]
+FZ1=Im Heiligen Land gab es kein Wasser für einen schützenden Burggraben und keine
+FZ2=steilen Berge als Burgenstandort. Daher verstärkte man in solchen Fällen die
+FZ3=Burgmauern. Wie hießen diese Burgen ?
+Min=64000
+Max=500000
+Antwort_1=1Festungsburgen	
+Antwort_2=0Starkburgen	
+Antwort_3=0Heilige Burgen	
+Antwort_4=0Mauerburgen	
+
+[23]
+FZ1=
+FZ2=Wie nannte man eine Burg, die in ein schützendes Loch in einem Berg
+FZ3=gebaut wurde ?
+Min=32000
+Max=250000
+Antwort_1=1Felsenburg	
+Antwort_2=0Schutzburg	
+Antwort_3=0Bergburg	
+Antwort_4=0Lochburg	
+
+[24]
+FZ1=
+FZ2=Wie hieß das berühmte Schwert des Rittes Roland
+FZ3=aus der Rolandsage ?
+Min=500000
+Max=500000
+Antwort_1=1Durindarte	
+Antwort_2=0Balmung	
+Antwort_3=0Escalibur	
+Antwort_4=0Standarte	
+
+[25]
+FZ1=Wie hieß der Gesichtschutz in Form einer Platte mit Augenlöchern
+FZ2=an einem Helm ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Barbiere	
+Antwort_2=0Kavaliere	
+Antwort_3=0Scharniere	
+Antwort_4=0Horniere	
+
+[26]
+FZ1=
+FZ2=Wie nannte man die Spaßmacher an Fürstenhöfen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Hofnarr	
+Antwort_2=0Hofwitzemacher	
+Antwort_3=0Hofclown	
+Antwort_4=0Hofunterhalter	
+
+[27]
+FZ1=
+FZ2=Wie nannte man im späten Mittelalter eine Schlagwaffe mit Eisenstacheln ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Morgenstern	
+Antwort_2=0Nachtstern	
+Antwort_3=0Abendstern	
+Antwort_4=0Tagstern	
+
+[28]
+FZ1=
+FZ2=In manchen Burgen gab es Windmühlen zum Getreidemahlen.
+FZ3=An welchem Ort wurden sie platziert ?
+Min=2000
+Max=32000
+Antwort_1=1Sie standen hoch oben auf den	Burgmauern, damit der Wind	ungehindert die Mühlenflügel erreichte.	
+Antwort_2=0Sie standen in der Mitte der Burg, damit	sie bei einem Angriff geschützt waren.	
+Antwort_3=0Man versteckte sie direkt hinter der	Burgmauer.	
+Antwort_4=0Sie standen unmittelbar neben der	Küche, damit das Mehl sofort verarbeitet	werden konnte.	
+
+[29]
+FZ1=
+FZ2=Wie hießen die Handwerker, die die Steine für den Burgbau bearbeiteten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Steinmetze	
+Antwort_2=0Schmiede	
+Antwort_3=0Maurer	
+Antwort_4=0Burgbauern	
+
+[30]
+FZ1=
+FZ2=In welche Richtung waren die Wendeltreppen in Burgen immer gerichtet ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1nach rechts	
+Antwort_2=0abwechselnd nach links und nach rechts	
+Antwort_3=0nach links	
+Antwort_4=0in den Burgen gab es noch keine	Wendeltreppen	
+
+[31]
+FZ1=
+FZ2=Warum waren die Wendeltreppen in den Burgtürmen immer nach
+FZ3=rechts gewunden ?
+Min=16000
+Max=250000
+Antwort_1=1Feindliche Ritter, die das Schwert in der	rechten Hand hielten, waren in ihrer	Bewegungsfreiheit eingeschränkt.	
+Antwort_2=0Damit der Burgherr sich nicht verlaufen	konnte.	
+Antwort_3=0Die Baumeister wussten damals noch	nicht, wie man links gewundene	Wendeltreppen bauen konnte.	
+Antwort_4=0Rechts gewundene Wendeltreppen	konnte man schneller hinablaufen.	
+
+[32]
+FZ1=
+FZ2=Wer war der edelste und waghalsigste Ritter der Tafelrunde ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Lanzelot	
+Antwort_2=0Ozelot	
+Antwort_3=0Gringott	
+Antwort_4=0Skandelot	
+
+[33]
+FZ1=
+FZ2=Wie viele Burgen entstanden im Mittelalter in Europa und im nahen Osten ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1über 15.000	
+Antwort_2=0ungefähr 10.000	
+Antwort_3=0ca. 5.000	
+Antwort_4=03.000 - 7.000	
+
+[34]
+FZ1=
+FZ2=Wer schrieb den Ritterroman "Parzival" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Wolfram von Eschenbach	
+Antwort_2=0Friedrich Schiller	
+Antwort_3=0Walther von der Vogelweide	
+Antwort_4=0Hartmann von Aue	
+
+[35]
+FZ1=
+FZ2=Wie nannte man einen Zielpfosten, an dem die Ritter ihre Treffsicherheit
+FZ3=mit der Lanze übten ?
+Min=8000
+Max=64000
+Antwort_1=1Stechpuppe	
+Antwort_2=0Treffpfosten	
+Antwort_3=0Marterpfahl	
+Antwort_4=0Stechritter	
+
+[36]
+FZ1=
+FZ2=Was war eine Stechpuppe ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ein Zielpfosten, an dem die Ritter ihre	Treffsicherheit mit der Lanze übten	
+Antwort_2=0eine Strohpuppe, die zur Täuschung der	Feinde auf das Pferd geschnallt wurde	
+Antwort_3=0eine Spielpuppe aus hartem Stroh	
+Antwort_4=0eine Strohpuppe, die die Ritter zum	Schutz unter ihrer Rüstung trugen	
+
+[37]
+FZ1=
+FZ2=Wie wird der im Nibelungenlied vorkommende Hunnenkönig Etzel
+FZ3=noch genannt ?
+Min=500000
+Max=500000
+Antwort_1=1Attila	
+Antwort_2=0Axel	
+Antwort_3=0Artus	
+Antwort_4=0Abraham	
+
+[38]
+FZ1=
+FZ2=Hatte jede Burg eine eigene Wasserversorgung ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ja, denn sonst konnte sie einer	Belagerung nicht standhalten.	
+Antwort_2=0Ja, das Wasser wurde jeden Tag von	Bauern zur Burg gebracht.	
+Antwort_3=0nein	
+Antwort_4=0Nur die großen Burgen hatten eine	eigene Wasserversorgung.	
+
+[39]
+FZ1=
+FZ2=Wie nannte man den Boten von wichtigen Nachrichten ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Herold	
+Antwort_2=0Zerold	
+Antwort_3=0Gerold	
+Antwort_4=0Leopold	
+
+[40]
+FZ1=
+FZ2=Wie hieß der Mann im Gefolge eines Fürsten, der sich in Wappenkunde
+FZ3=am besten auskannte ?
+Min=500000
+Max=500000
+Antwort_1=1Herold	
+Antwort_2=0Wappner	
+Antwort_3=0Heraldiker	
+Antwort_4=0Gaukler	
+
+[41]
+FZ1=
+FZ2=Wie nennt man jemanden, der zu einem Heiligtum reist ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Pilger	
+Antwort_2=0Gilger	
+Antwort_3=0Heiliger	
+Antwort_4=0Kreuzfahrer	
+
+[42]
+FZ1=
+FZ2=Was ist ein Pilger ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Jemand, der zu einem Heiligtum reist.	
+Antwort_2=0Jemand, der die Ritterrüstungen putzt.	
+Antwort_3=0ein Vorfahre der heutigen Briefträger	
+Antwort_4=0ein Priester auf einer Burg	
+
+[43]
+FZ1=
+FZ2=Welche Ritter lebten  n i c h t  im Mittelalter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Yedi - Ritter	
+Antwort_2=0Raubritter	
+Antwort_3=0Kreuzritter	
+Antwort_4=0fahrende Ritter	
+
+[44]
+FZ1=
+FZ2=Wie nannte man einen italienischer Ritter,
+FZ3=der sich für das Kämpfen bezahlen ließ ?
+Min=500000
+Max=500000
+Antwort_1=1Kondottiere	
+Antwort_2=0Ritalieniri	
+Antwort_3=0Italiano	
+Antwort_4=0Krampinotto	
+
+[45]
+FZ1=
+FZ2=Was war ein Kondottiere ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ein italienischer Ritter, der sich für das	Kämpfen bezahlen ließ	
+Antwort_2=0ein hoher italienischer Adelstitel	
+Antwort_3=0ein französischer Ritter, der sich für das	Kämpfen bezahlen ließ	
+Antwort_4=0der Brotlieferant des Burgherren	
+
+[46]
+FZ1=
+FZ2=Welcher englische Volksheld lebte in Sherwood Forest von Nottingham und
+FZ3=raubte reiche Reisende aus, um seine Beute an die Armen zu verteilen ?
+Min=1000
+Max=16000
+Antwort_1=1Robin Hood	
+Antwort_2=0David Beckham	
+Antwort_3=0Sherlock Holmes	
+Antwort_4=0William Shakespeare	
+
+[47]
+FZ1=
+FZ2=Was war die Sprache des Rittertums ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Französisch	
+Antwort_2=0Italienisch	
+Antwort_3=0Deutsch	
+Antwort_4=0Englisch	
+
+[48]
+FZ1=
+FZ2=Wer tötete im Nibelungenlied den Drachen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Siegfried	
+Antwort_2=0Wilfried	
+Antwort_3=0Winfried	
+Antwort_4=0Hagrid	
+
+[49]
+FZ1=
+FZ2=Welche Tiere - außer Pferden - wurden in Kriegen noch eingesetzt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hunde	
+Antwort_2=0Falken	
+Antwort_3=0Katzen	
+Antwort_4=0Kaninchen	
+
+[50]
+FZ1=
+FZ2=Wie nennt man die Wappenkunde ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Heraldik	
+Antwort_2=0Mathematik	
+Antwort_3=0Numismatik	
+Antwort_4=0Wappentik	
+
+[51]
+FZ1=
+FZ2=Was benutzten die Menschen anstelle von Tellern ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1eine Scheibe Brot	
+Antwort_2=0Holzbrettchen	
+Antwort_3=0Holzschüsseln	
+Antwort_4=0eine Scheibe Käse	
+
+[52]
+FZ1=
+FZ2=Was war ein Schaugericht ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Eine Platte mit besonders angerichteten	Speisen, die weniger für den Magen als	für die Augen gedacht waren.	
+Antwort_2=0eine vorher abgesprochene	Gerichtsverhandlung	
+Antwort_3=0eine öffentliche Gerichtsverhandlung	
+Antwort_4=0ein Festmahl, bei dem die Diener und	Köche zuschauen durften	
+
+[53]
+FZ1=
+FZ2=Was war eine Zimtkraftsuppe ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1In Wasser und Wein gekochte Hühner,	über die eine dicke Zimtsoße gegossen	wurde.	
+Antwort_2=0Eine Zimtkraftsuppe gab es im	Mittelalter nicht, da das Zimtgewürz	noch nicht bekannt war.	
+Antwort_3=0Eien schmackhafte Gemüsesuppe, die	allerdings durch Zitronensaft gelb	gefärbt wurde.	
+Antwort_4=0Eine Kraftsuppe, in die Zimtbrot	getaucht wurde.	
+
+[54]
+FZ1=
+FZ2=Wurde ein besiegter Burgherr getötet oder gefangen genommen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Keines von beidem; der Sieger ließ ihm	meist seine Ehre, etwas Besitz und band	ihn durch Verträge an sich.	
+Antwort_2=0Er wurde gefangen genommen.	
+Antwort_3=0Er wurde sofort getötet.	
+Antwort_4=0Er wurde erst gefangen genommen	und nach drei Jahren getötet.	
+
+[55]
+FZ1=
+FZ2=Wie nannte man einen Behälter zum Sammeln
+FZ3=und Bewahren von Regenwasser ?
+Min=125000
+Max=125000
+Antwort_1=1Zisterne	
+Antwort_2=0Gisterne	
+Antwort_3=0Wisterne	
+Antwort_4=0Listerne	
+
+[56]
+FZ1=
+FZ2=Was ist eine Zisterne ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1ein Behälter zum Sammeln und	Bewahren von Regenwasser	
+Antwort_2=0die Grube, in die der Kot vom Abort fiel	
+Antwort_3=0der erhöhte Teil der Mauerkrone	
+Antwort_4=0eine zweigeteilte Zugbrücke	
+
+[57]
+FZ1=
+FZ2=Wem gehörte das sagenumwobene Schwert Escalibor ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1König Artus	
+Antwort_2=0Ivanhoe	
+Antwort_3=0Richard Löwenherz	
+Antwort_4=0Prinz Eisenherz	
+
+[58]
+FZ1=
+FZ2=Wie nannte König Artus sein legendäres Schwert ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Escalibor	
+Antwort_2=0Balmung	
+Antwort_3=0Durindarte	
+Antwort_4=0Pentium	
+
+[59]
+FZ1=
+FZ2=Was tat man, um herauszufinden, ob sich der Angreifer durch einen
+FZ3=unterirdischen Stollen herangrub ?
+Min=8000
+Max=125000
+Antwort_1=1Man stellte im Untergeschoss der Burg	Wasserschalen auf und beobachtete, ob	sich das Wasser bewegte.	
+Antwort_2=0Man grub selbst einen unterirdischen	Stollen, um die Angreifer abzulenken.	
+Antwort_3=0Man stellte im Keller Lauschposten auf.	
+Antwort_4=0Man schickte mehrere Spione zu den	Angreifern.	
+
+[60]
+FZ1=
+FZ2=Wie viele bewaffnete Männer gab es meist in einer mittelgroßen Burg ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 30	
+Antwort_2=0ca. 60	
+Antwort_3=0ca. 10	
+Antwort_4=0ca. 120	
+
+[61]
+FZ1=
+FZ2=Wie wurde die Waffe genannt, die aus einer Axt bestand, die an einem
+FZ3=langen Griff befestigt war ?
+Min=32000
+Max=32000
+Antwort_1=1Hellebarde	
+Antwort_2=0Belleharde	
+Antwort_3=0Dunklebarde	
+Antwort_4=0Halleberde	
+
+[62]
+FZ1=
+FZ2=Was war eine Hellebarde ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1eine Waffe	
+Antwort_2=0eine Art Ballade	
+Antwort_3=0ein blonde Sängerin	
+Antwort_4=0eine Frau, die die Zukunft vorhersagte	
+
+[63]
+FZ1=
+FZ2=Was tat man, um die hölzernen Schutzverkleidungen der Wehrgänge
+FZ3=und Türme der Burg vor Brandpfeilen zu schützen ?
+Min=2000
+Max=32000
+Antwort_1=1Man belegte sie mit nassen Tierhäuten.	
+Antwort_2=0Man befestigte Eisenplatten daran.	
+Antwort_3=0Man pflanzte wilden Wein davor.	
+Antwort_4=0Man erzeugte mit großen Windmühlen	Wind, um die Brandpfeile auszupusten.	
+
+[64]
+FZ1=
+FZ2=Woraus tranken die adligen Gäste bei einem Festmahl ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Man trank zu mehreren aus ein und	demselben Pokal.	
+Antwort_2=0Man fertigte für jeden Gast einen Kelch	mit dessen Namen an.	
+Antwort_3=0Jeder Gast bekam ein edles Glas.	
+Antwort_4=0Jeder Gast musste einen goldenen	Becher mitbringen.	
+
+[65]
+FZ1=
+FZ2=Als was war der Stoßbalken eines Rammbocks oft gestaltet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1als Widderkopf	
+Antwort_2=0als Teufelskopf	
+Antwort_3=0als Stierkopf	
+Antwort_4=0als Drachenkopf	
+
+[66]
+FZ1=
+FZ2=Was verwendeten Angreifer, um das Burgtor zu zerstören ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1einen Rammbock	
+Antwort_2=0wilde Ochsen	
+Antwort_3=0brennende Pfeile	
+Antwort_4=0Streitäxte	
+
+[67]
+FZ1=
+FZ2=Was war die wichtigste Verteidigungsanlage der Burg ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1die Ringmauer	
+Antwort_2=0die Geheimgänge	
+Antwort_3=0die Zugbrücke	
+Antwort_4=0das Fallgitter des Burgtores	
+
+[68]
+FZ1=
+FZ2=Wie heißt heute das beliebte mittelalterliche Brettspiel "Tricktrack" ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Backgammon	
+Antwort_2=0Schach	
+Antwort_3=0Halma	
+Antwort_4=0Mensch ärgere dich nicht !	
+
+[69]
+FZ1=
+FZ2=Gab es auf einer Burg auch Toiletten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Ja, es waren meist Erker an der	Außenmauer, in denen sich als Sitz eine	Steinplatte mit rundem Loch befand.	
+Antwort_2=0Ja, allerdings befanden sie sich in	einem langen, unterirdischen	Geheimgang, der zu einem Fluss führte.	
+Antwort_3=0Nein, auf den Burgen gab es noch keine	Toiletten, die Ritter mussten die Burg	immer verlassen.	
+Antwort_4=0Nein, wenn die Ritter mussten, wurden	Bauern mit einem Toilettenwagen	gerufen.	
+
+[70]
+FZ1=
+FZ2=Warum musste auch der Wohnraum einer Burg ausgemistet werden ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Der Wohnraum war oft zum Wärmen mit	Stroh ausgelegt, in dem sich viel Unrat	sammelte.	
+Antwort_2=0Die Ritter ließen ihr Lieblingspferd oft	mit im Wohnraum übernachten.	
+Antwort_3=0Es gab im Mittelalter noch keine	Abfalleimer, sodass sich die Essensreste	auch im Wohnraum sammelten.	
+Antwort_4=0Im Wohnraum wurden in Notzeiten auch	Hühner und Kühe gehalten.	
+
+[71]
+FZ1=
+FZ2=Welcher deutsche Kaiser nahm König Löwenherz gefangen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Heinrich IV.	
+Antwort_2=0Heinrich II.	
+Antwort_3=0Heinrich III.	
+Antwort_4=0Heinrich I.	
+
+[72]
+FZ1=
+FZ2=Wann lebte König Richard I., bekannt auch als König Löwenherz ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11157 - 1199	
+Antwort_2=01007 - 1057	
+Antwort_3=01345 - 1407	
+Antwort_4=01203 - 1302	
+
+[73]
+FZ1=
+FZ2=Wie wurde der englische König Richard I. auch genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1König Löwenherz	
+Antwort_2=0Barbarossa	
+Antwort_3=0König Eisenherz	
+Antwort_4=0König Adlerfeder	
+
+[74]
+FZ1=
+FZ2=Welcher englische König der Kreuzzugszeit geriet in Gefangenschaft und
+FZ3=musste vom englischen Volk durch ein hohes Lösegeld freigekauft werden ?
+Min=500000
+Max=500000
+Antwort_1=1Richard I.	
+Antwort_2=0William I.	
+Antwort_3=0Richard II.	
+Antwort_4=0William II.	
+
+[75]
+FZ1=
+FZ2=Wann lebte Walter von der Vogelweide ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1etwa von 1170 - 1230	
+Antwort_2=0ca. 945 - 990	
+Antwort_3=01299 - 1398	
+Antwort_4=0ungefähr 1613	
+
+[76]
+FZ1=
+FZ2=Wer war Walther von der Vogelweide ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ein Minnesänger	
+Antwort_2=0ein berühmter Arzt im Mittelalter	
+Antwort_3=0ein fahrender Ritter	
+Antwort_4=0ein geschickter Falkenjäger des König	Arturs	
+
+[77]
+FZ1=
+FZ2=Wer diente im Mittelalter an den Fürstenhöfen oft als Lehrer
+FZ3=und Schriftkundiger ?
+Min=2000
+Max=32000
+Antwort_1=1Mönche	
+Antwort_2=0der Priester	
+Antwort_3=0der Burgherr	
+Antwort_4=0der Kerkermeister	
+
+[78]
+FZ1=
+FZ2=Welche Orte waren im Mittelalter die Stätten der Bildung ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1die Klöster	
+Antwort_2=0die Universitäten	
+Antwort_3=0die Ritterburgen	
+Antwort_4=0die Dörfer	
+
+[79]
+FZ1=
+FZ2=Wie nannte man Dichter und Sänger von Minneliedern,
+FZ3=die von Hof zu Hof zogen ?
+Min=64000
+Max=64000
+Antwort_1=1Troubadoure	
+Antwort_2=0Mönche	
+Antwort_3=0Gaukler	
+Antwort_4=0Vasallen	
+
+[80]
+FZ1=
+FZ2=Was waren Troubadoure ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Dichter und Sänger von Minneliedern,	die von Hof zu Hof zogen	
+Antwort_2=0Topfhelmschmiede, die von Burg zu	Burg zogen	
+Antwort_3=0Schwert- und Messerschleifer, die von	Burg zu Burg zogen	
+Antwort_4=0Baumeister von Zugbrücken, die kaputte	Zugbrücken wieder reparierten	
+
+[81]
+FZ1=
+FZ2=Wie nannte man die Liebe eines Ritters zu einer meist verheirateten Frau,
+FZ3=die für den Ritter unerreichbar blieb ?
+Min=64000
+Max=250000
+Antwort_1=1Minne	
+Antwort_2=0Tinne	
+Antwort_3=0Linne	
+Antwort_4=0Pinne	
+
+[82]
+FZ1=
+FZ2=Was war die Minne ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1die Liebe eines Ritters zu einer meist	verheirateten Frau, die für den Ritter	unerreichbar blieb	
+Antwort_2=0eine buntbestickte Satteldecke	
+Antwort_3=0die Liebe eines Ritters zu einer	Bauerntochter, die er niemals heiraten	durfte	
+Antwort_4=0die älteste Köchin auf der Burg	
+
+[83]
+FZ1=
+FZ2=Welche Tiere hielt der Burgherr in einem so genannten Mauserkäfig ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Jagdfalken	
+Antwort_2=0Jagdhunde	
+Antwort_3=0dressierte Jagdmäuse	
+Antwort_4=0zahme Kaninchen	
+
+[84]
+FZ1=
+FZ2=Wer war Hildegard von Bingen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1eine deutsche Äbtissin, die auch Ärztin	und Naturforscherin war	
+Antwort_2=0eine deutsche Adlige, die auch an vier	Kreuzzügen teilnahm	
+Antwort_3=0eine berühmte Sängerin des Mittelalters	
+Antwort_4=0eine Königstochter, die 30 Jahre im	Bingener Mäuseturm gefangengehalten	wurde	
+
+[85]
+FZ1=
+FZ2=Wie heißt eine berühmte mittelhochdeutsche Heldensage ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Nibelungenlied	
+Antwort_2=0Ilias	
+Antwort_3=0Edda	
+Antwort_4=0Die Reisen des Odysseus	
+
+[86]
+FZ1=
+FZ2=Gab es bei Ritterturnieren auch Todesopfer ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0nein	
+Antwort_2=0kaum	
+Antwort_3=0selten	
+Antwort_4=1ja, sehr oft	1240 starben allein auf einem Turnier in	Köln 40 Ritter und Knappen	
+
+[87]
+FZ1=
+FZ2=Warum wurden adlige Mädchen oft an den Hof des Landesfürsten gebracht ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1weil sie dort bessere Chancen hatten,	einen reichen und einflussreichen Mann	zu heiraten	
+Antwort_2=0weil sie dort besser das Lesen und das	Schreiben lernen konnten	
+Antwort_3=0weil sie dort besser das Kochen und das	Nähen lernen konnten	
+Antwort_4=0weil dort die Ritter um die adligen	Mädchen kämpften	
+
+[88]
+FZ1=
+FZ2=Wer unter den Adligen war meist gebildeter ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1die Frauen	
+Antwort_2=0die aktiven Ritter	
+Antwort_3=0die Ritter im Ruhestand	
+Antwort_4=0die auszubildenden Ritter	
+
+[89]
+FZ1=
+FZ2=Was war ein fahrender Ritter ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ein junger Ritter, der in die Welt zog,	um an fremden Fürstenhöfen bei	Turnieren sein Können zu beweisen	
+Antwort_2=0ein Ritter, der die Nachrichten mit einer	Kutsche ausfuhr	
+Antwort_3=0ein alter Ritter, der nicht mehr reiten	konnte und deshalb mit dem	Pferdewagen fuhr	
+Antwort_4=0ein Ritter, der die Bauern beschützte,	indem er auf dem Pferdewagen mitfuhr	
+
+[90]
+FZ1=
+FZ2=Wurde bei Gefangennahme in einem Turnier auch Lösegeld bezahlt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ja, der gefangene Ritter musste dem	Sieger außerdem Pferd und Rüstung	überlassen	
+Antwort_2=0nein, beim Turnier gab es keine	Gefangenen	
+Antwort_3=0nein, beim Turnier ging es nur um den	Spaß	
+Antwort_4=0nein, denn die gefangenen Ritter	wurden sofort getötet	
+
+[91]
+FZ1=
+FZ2=Kämpften die Ritter im Turnier mit stumpfen oder scharfen Waffen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1meist mit stumpfen, teilweise aber auch	mit scharfen Waffen	
+Antwort_2=0immer nur mit scharfen Waffen	
+Antwort_3=0immer nur mit stumpfen Waffen	
+Antwort_4=0nur die älteren Ritter durften mit	scharfen Waffen kämpfen	
+
+[92]
+FZ1=
+FZ2=Welche Reichweite hatte ein englischer Langbogen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 500 m	
+Antwort_2=0ca. 150 m	
+Antwort_3=0ca. 300 m	
+Antwort_4=0ca. 75 m	
+
+[93]
+FZ1=
+FZ2=Welche Art von Jagd galt bei den Rittern als besonders vornehm ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1die Falkenjagd	
+Antwort_2=0die Jagd zu Pferde	
+Antwort_3=0die Jagd mit Hunden	
+Antwort_4=0die Fuchsjagd	
+
+[94]
+FZ1=
+FZ2=Wie kamen die Ritter des ausgehenden Mittelalters mit ihren
+FZ3=massiven Rüstungen aufs Pferd ?
+Min=1000
+Max=16000
+Antwort_1=1Man musste sie mit Kränen aufs Pferd	hieven und im Sattel festbinden.	
+Antwort_2=0Sie wurden von ihren Knappen auf das	Pferd gehoben.	
+Antwort_3=0Sie stiegen über lange Leitern auf ihr	Pferd.	
+Antwort_4=0Sie konnten sich erst auf dem Pferd ihre	Rüstungen anziehen.	
+
+[95]
+FZ1=
+FZ2=Konnten alle Ritter und Burgherren lesen und schreiben ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1nein, die meisten besaßen nur	Grundkenntnisse im Lesen und im	Schreiben	
+Antwort_2=0nein, denn wer lesen konnte, durfte kein	Ritter werden	
+Antwort_3=0ja, nur wer sehr gut lesen konnte,	konnte auch Ritter werden	
+Antwort_4=0ja, denn man konnte erst Ritter werden,	nachdem man die Bibel vorgelesen und	abgeschrieben hatte	
+
+[96]
+FZ1=
+FZ2=Wie nannte man ein Massenturnier, bei dem zwei gleich starke Heerhaufen
+FZ3=gegeneinander kämpften ?
+Min=250000
+Max=250000
+Antwort_1=1Buhurt	
+Antwort_2=0Muhurt	
+Antwort_3=0Guhurt	
+Antwort_4=0Kuhurt	
+
+[97]
+FZ1=
+FZ2=Was war der Buhurt ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1ein Massenturnier	
+Antwort_2=0der Ausguck auf dem Burgturm	
+Antwort_3=0ein festliches Rittertreffen	
+Antwort_4=0der Bäcker in der Burg	
+
+[98]
+FZ1=
+FZ2=Was taten die Ritter nach einer gewonnenen Schlacht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie besetzten feierlich das Schlachtfeld	und hielten Totenwache bei den	Gefallenen.	
+Antwort_2=0Sie veranstalteten einen lauten	Siegestanz.	
+Antwort_3=0Sie verfolgten die besiegten Ritter.	
+Antwort_4=0Sie vergruben die erbeuteten Waffen.	
+
+[99]
+FZ1=
+FZ2=Welche teuren Belagerungsmaschinen setzten die Belagerer erst
+FZ3=im letzten Moment ein ?
+Min=500
+Max=4000
+Antwort_1=1die Belagerungstürme	
+Antwort_2=0die Belagerungswalzen	
+Antwort_3=0die Belagerungskräne	
+Antwort_4=0die Belagerungsraupen	
+
+[100]
+FZ1=
+FZ2=Viele Burgen waren von einem doppelten Mauerring umgeben. Wie hieß der Raum
+FZ3=zwischen der äußeren und inneren Mauer ?
+Min=1000
+Max=16000
+Antwort_1=1Zwinger	
+Antwort_2=0Mauergang	
+Antwort_3=0Ringwall	
+Antwort_4=0Burggraben	
+
+[101]
+FZ1=
+FZ2=Was wurde bei Angriffen mit Katapulten außer Steinen noch alles über die
+FZ3=Burgmauern geschleudert ?
+Min=300
+Max=2000
+Antwort_1=1Unrat, Pech, Gefäße mit siedendem Öl,	tote Tiere, Tongefäße mit stinkenden	Flüssigkeiten	
+Antwort_2=0Flugblätter, die zur Aufgabe	aufforderten und Bestechungsgeld	
+Antwort_3=0Nägel und Schrauben, Dynamit,	Nitroglyzerin	
+Antwort_4=0Schlamm, Eiszapfen und Schneebälle	
+
+[102]
+FZ1=
+FZ2=Was tat ein Ritter zu Friedenszeiten am liebsten ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1jagen	
+Antwort_2=0Minnelieder singen	
+Antwort_3=0Karten spielen	
+Antwort_4=0Zeitung lesen	
+
+[103]
+FZ1=
+FZ2=Was tat man als Angreifer, wenn eine Burg nicht schnell einzunehmen war ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Man belagerte sie und versuchte die	Bewohner auszuhungern.	
+Antwort_2=0Man griff in der Nacht an.	
+Antwort_3=0Man verstärkte die Angriffe.	
+Antwort_4=0Man griff sie nur am Sonntag an, wenn	die Bewohner in der Kirche waren.	
+
+[104]
+FZ1=
+FZ2=Hatten alle Burgen unterirdische Geheimgänge ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1nein, nur wenige Burgen hatten	Geheimgänge	
+Antwort_2=0ja, ohne Geheimgang durften keine	Burgen gebaut werden	
+Antwort_3=0nein, es gab im Mittelalter noch keine	unterirdischen Geheimgänge	
+Antwort_4=0ja, denn die unterirdischen	Geheimgänge führten zu den	Waffenkammern	
+
+[105]
+FZ1=
+FZ2=Was war im Angriffsfall die Schwachstelle einer jeden Burg ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1das Burgtor	
+Antwort_2=0die Burgmauern	
+Antwort_3=0der Burggraben	
+Antwort_4=0die Schießscharten	
+
+[106]
+FZ1=
+FZ2=Was war eine Brustwehr ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1eine schmale Mauer mit Zinnen oben	auf der Burgmauer, hinter der	Bogenschützen Deckung fanden	
+Antwort_2=0eine besonders schwere Armbrust	
+Antwort_3=0eine Metallplatte, die sich beim	Kettenhemd direkt über der Brust des	Ritters befand	
+Antwort_4=0eine Verteidigungstaktik beim Fechten	
+
+[107]
+FZ1=
+FZ2=Warum waren gefangene Ritter mehr wert als getötete ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weil man für ihre Freilassung ein hohes	Lösegeld verlangen konnte	
+Antwort_2=0weil sie auf die Pferde aufpassen	mussten	
+Antwort_3=0weil sie nun bei ihren Feinden	mitkämpfen durften	
+Antwort_4=0weil derjenige gewonnen hatte, der die	meisten gefangenen Ritter hatte	
+
+[108]
+FZ1=
+FZ2=Mit welcher Waffe wurde eine Ritterschlacht gewöhnlich eröffnet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1mit der Lanze	
+Antwort_2=0mit der Armbrust	
+Antwort_3=0mit dem Schwert	
+Antwort_4=0mit dem Messer	
+
+[109]
+FZ1=
+FZ2=Warum trug der Knappe bei der Schwertleite schwarze Strümpfe ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1als Mahnung an den Tod	
+Antwort_2=0Es gab damals nur schwarze Wolle.	
+Antwort_3=0weil er immer schmutzige Füße hatte	
+Antwort_4=0damit man die Füße bei Nacht nicht	sehen konnte	
+
+[110]
+FZ1=
+FZ2=Welche Waffe gab es bei den Rittern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Armbrust	
+Antwort_2=0Fingerbrust	
+Antwort_3=0Beinbrust	
+Antwort_4=0Fußbrust	
+
+[111]
+FZ1=
+FZ2=Wie weit konnte man mit einer Armbrust die Pfeile schießen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1über 200 m	
+Antwort_2=060 - 80 m	
+Antwort_3=0ca. 50 m	
+Antwort_4=0genau 168 m	
+
+[112]
+FZ1=
+FZ2=Das im 12. Jahrhundert übliche zweischneidige Schwert hatte in der Mitte
+FZ3=der Klinge die sogenannte "Blutrinne". Wozu diente diese Rinne ?
+Min=64000
+Max=250000
+Antwort_1=1zur Verringerung des Gewichts	
+Antwort_2=0damit der Ritter besser zustoßen konnte	
+Antwort_3=0damit das Blut besser abtropfen konnte	
+Antwort_4=0damit der Ritter das Schwert besser	wieder herausziehen konnte	
+
+[113]
+FZ1=
+FZ2=Was hatte das im 12. Jahrhundert übliche zweischneidige Schwert
+FZ3=in der Mitte der Klinge ?
+Min=2000
+Max=32000
+Antwort_1=1eine Rinne	
+Antwort_2=0ein Wappen	
+Antwort_3=0eine Loch	
+Antwort_4=0das Bild des Königs	
+
+[114]
+FZ1=
+FZ2=Wodurch wurde König Artus auch berühmt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1durch seine Tafelrunde	
+Antwort_2=0durch seine Heimatkunde	
+Antwort_3=0durch seine Bibelstunde	
+Antwort_4=0durch seine vielen Pfunde	
+
+[115]
+FZ1=
+FZ2=Welcher sagenhafte König ist durch seine Tafelrunde berühmt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1König Artus	
+Antwort_2=0König Ortus	
+Antwort_3=0König Ertus	
+Antwort_4=0König Urtus	
+
+[116]
+FZ1=
+FZ2=War militärische Taktik Teil einer typischen Ritterschlacht ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Nein, denn die Ritter verachteten Taktik	und Strategie. Nur der direkte Angriff	Mann gegen Mann galt als ehrenhaft.	
+Antwort_2=0Ja, die Ritter planten oft monatelang die	richtige Taktik.	
+Antwort_3=0Nein, denn dazu waren die Ritter noch	zu dumm.	
+Antwort_4=0Ja, ohne richtige Taktik ließ der König	die Ritter erst gar nicht in die Schlacht	ziehen.	
+
+[117]
+FZ1=
+FZ2=Warum wurden die meisten Speisen für die Edelleute scharf gewürzt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Die damals sehr teuren Gewürze	überdeckten den unangenehmen	Geschmack von altem Fleisch.	
+Antwort_2=0weil die Edelleute sehr gerne scharfe	Gewürze aßen	
+Antwort_3=0damit die Edelleute tüchtig Durst	bekamen und viel trinken konnten	
+Antwort_4=0Die Edelleute wollten erst hinterher	raten, welche Fleischsorte sie eigentlich	gegessen hatten.	
+
+[118]
+FZ1=
+FZ2=Warum trug der Knappe bei der Schwertleite ein rotes Gewand ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1als Mahnung an die Pflicht, sein Blut für	die Kirche zu vergießen	
+Antwort_2=0ein rotes Gewand war das Zeichen der	Knappen	
+Antwort_3=0als Zeichen, dass er beim Kampf schon	einmal geblutet hatte	
+Antwort_4=0damit man ihn bei den Turnierkämpfen	besser sehen konnte	
+
+[119]
+FZ1=
+FZ2=Was war ein Zweihänder ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ein ca. 1,20 m langes Schwert, das so	schwer war, dass es mit beiden Händen	geschwungen werden musste	
+Antwort_2=0eine Ritterrüstung, bei der auch die	Hände mit Eisenplatten geschützt waren	
+Antwort_3=0ein Ritter, der das Schwert mit der	linken und mit der rechten Hand führen	konnte	
+Antwort_4=0ein Gaukler, der bei Ritterspielen mit	seiner Fingerfertigkeit Zaubertricks	vorführte	
+
+[120]
+FZ1=
+FZ2=Womit aßen die Burgbewohner ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1mit Messer und Holzlöffel	
+Antwort_2=0mit Messer und Holzgabel	
+Antwort_3=0mit Holzlöffel und Gabel	
+Antwort_4=0mit den Fingern	
+
+[121]
+FZ1=
+FZ2=Woher bekam der Burgherr die Speisen für ein Festessen auf der Burg ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Die Bauern mussten sie als zusätzliche	Abgaben aufbringen.	
+Antwort_2=0Der Burgherr kaufte die Speisen frisch	auf dem Markt.	
+Antwort_3=0Die Gäste brachten ihre Speisen selber	mit.	
+Antwort_4=0Der Burgherr überfiel seine Feinde und	stahl ihnen das Essen.	
+
+[122]
+FZ1=Wie wurde Kaiser Friedrich I. wegen seines roten Bartes auch genannt ?
+FZ2=(Dieser Kaiser wurde von seinen Zeitgenossen als Idealbild eines Ritters
+FZ3=verehrt um kam auf einem Kreuzzug ums Leben.)
+Min=500000
+Max=500000
+Antwort_1=1Barbarossa	
+Antwort_2=0Rotus Bartus I.	
+Antwort_3=0Kaiser Rotbart I.	
+Antwort_4=0Barossassa	
+
+[123]
+FZ1=
+FZ2=Welcher deutsche Kaiser, der von seinen Zeitgenossen als Idealbild eines Ritters
+FZ3=verehrt wurde, kam auf einem Kreuzzug ums Leben ?
+Min=500000
+Max=500000
+Antwort_1=1Friedrich I.	
+Antwort_2=0Wilhelm I.	
+Antwort_3=0Friedrich II.	
+Antwort_4=0Wilhelm II.	
+
+[124]
+FZ1=
+FZ2=Was war ein Flegel ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1eine Art Keule	
+Antwort_2=0eine Schießscharte im Burgturm	
+Antwort_3=0ein junger Knappe	
+Antwort_4=0ein langer Pfeil	
+
+[125]
+FZ1=
+FZ2=Wie viel wog eine Plattenrüstung ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=125 kg	
+Antwort_2=035 kg	
+Antwort_3=015 kg	
+Antwort_4=045 kg	
+
+[126]
+FZ1=
+FZ2=Ab wann gab es die übliche Form der Ritterrüstung, bei der der Körper
+FZ3=des Ritters vollständig mit Eisenplatten bedeckt war ?
+Min=4000
+Max=64000
+Antwort_1=1Ende des 14. Jahrhunderts	
+Antwort_2=0Ende des 12. Jahrhunderts	
+Antwort_3=0Ende des 13. Jahrhunderts	
+Antwort_4=0Ende des 15. Jahrhunderts	
+
+[127]
+FZ1=
+FZ2=Wie nannte man eine Ritterrüstung, bei der der Körper der Ritter vollständig
+FZ3=mit Eisenplatten bedeckt war ?
+Min=500
+Max=4000
+Antwort_1=1Plattenrüstung	
+Antwort_2=0Vollrüstung	
+Antwort_3=0Eisenrüstung	
+Antwort_4=0Ganzrüstung	
+
+[128]
+FZ1=
+FZ2=Was las man auf der Burg außer der Bibel ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ritterromane	
+Antwort_2=0Kochbücher	
+Antwort_3=0Zeitungen	
+Antwort_4=0Comics	
+
+[129]
+FZ1=
+FZ2=Was war die Schwertleite ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1ein ganztätiges Fest, auf dessen	Höhepunkt der junge Ritter mit dem	Schwert umgürtet wurde	
+Antwort_2=0die Bestrafung eines Ritters, bei der ihm	das Schwert weggenommen wurde	
+Antwort_3=0die Endproduktion bei der	Schwertherstellung, wenn der Schmied	dem Ritter das Schwert übergab	
+Antwort_4=0ein besonders schmaler Schwertgriff,	damit auch Frauen das Schwert halten	konnten	
+
+[130]
+FZ1=
+FZ2=Wie hieß ursprünglich die Zeremonie, bei der ein Knappe
+FZ3=zum Ritter befördert wurde ?
+Min=32000
+Max=32000
+Antwort_1=1Schwertleite	
+Antwort_2=0Schwertgabe	
+Antwort_3=0Schwertweihe	
+Antwort_4=0Schwertlehen	
+
+[131]
+FZ1=
+FZ2=Wie nannte man Theaterstücke, in denen Geschichten aus der Bibel
+FZ3=oder aus dem Leben von Heiligen dargestellt wurden ?
+Min=32000
+Max=32000
+Antwort_1=1Mysterienspiele	
+Antwort_2=0Heiligenspiele	
+Antwort_3=0Bibelspiele	
+Antwort_4=0Majestixspiele	
+
+[132]
+FZ1=
+FZ2=Was waren Mysterienspiele ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1mittelalterliche Theaterstücke	
+Antwort_2=0Versteckspiele auf der Burg	
+Antwort_3=0Ritterfeste für Knappen	
+Antwort_4=0Spiele für Bauern und Mönche	
+
+[133]
+FZ1=
+FZ2=Warum mussten Rinder, Schafe, Ziegen und Hühner vor dem Braten
+FZ3=auch erst noch gekocht werden ?
+Min=2000
+Max=32000
+Antwort_1=1weil ihr Fleisch so zäh war	
+Antwort_2=0weil die Köchinnen es nicht anders	kannten	
+Antwort_3=0um auch alle Krankheitserreger	abzutöten	
+Antwort_4=0weil es dann so gut duftete	
+
+[134]
+FZ1=
+FZ2=Warum aßen die Menschen im Mittelalter oft Brei ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1weil sie schlechte Zähne hatten	
+Antwort_2=0weil es im Mittelalter keine andere	Nahrung gab	
+Antwort_3=0weil der Brei so köstlich schmeckte	
+Antwort_4=0weil die Menschen im Mittelalter nicht	dick werden wollten	
+
+[135]
+FZ1=
+FZ2=Wie wurden die Hauben der Burgfräulein genannt, die spitzen Türmen glichen
+FZ3=und von deren Enden ein langer Schleier herabhing ?
+Min=125000
+Max=125000
+Antwort_1=1Hennins	
+Antwort_2=0Gennins	
+Antwort_3=0Bennins	
+Antwort_4=0Fennins	
+
+[136]
+FZ1=
+FZ2=Was waren Hennins ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1die Hauben der Burgfräuleins	
+Antwort_2=0Liebeslieder	
+Antwort_3=0Wappen, auf denen Hennen abgebildet	waren	
+Antwort_4=0bunte Wandteppiche	
+
+[137]
+FZ1=
+FZ2=Was wurde einem frisch gebackenen jungen Ritter
+FZ3=zu Ehren meistens veranstaltet ?
+Min=1000
+Max=16000
+Antwort_1=1Ein Turnier, bei dem er seinen Mut und	sein Können beweisen musste.	
+Antwort_2=0Ein rauschendes Fest, bei dem er	vorsingen und auch vortanzen musste.	
+Antwort_3=0Eine Hochzeit, bei der er sich seine Frau	aussuchen durfte.	
+Antwort_4=0Ein Festmahl, bei dem sich der Ritter	richtig volllaufen lassen musste.	
+
+[138]
+FZ1=
+FZ2=Was wurde "weißes Fleisch" genannt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Milch und Milchprodukte	
+Antwort_2=0in Salz gepökeltes Fleisch	
+Antwort_3=0ein verwundetes Körperteil	
+Antwort_4=0Weißbrot	
+
+[139]
+FZ1=
+FZ2=Außer dem Schwert gab es später bei den Rittern noch drei weitere Schlagwaffen.
+FZ3=Was war  k e i n e  Schlagwaffe ?
+Min=2000
+Max=32000
+Antwort_1=1Streitbolzen	
+Antwort_2=0Streithammer	
+Antwort_3=0Streitkolben	
+Antwort_4=0Streitaxt	
+
+[140]
+FZ1=
+FZ2=Wie nannte man Anfang des 15. Jahrhunderts den langen Zipfel eines modischen
+FZ3=Hutes, den gut gekleidete Edelmänner trugen ?
+Min=125000
+Max=125000
+Antwort_1=1Liripipium	
+Antwort_2=0Hutimirium	
+Antwort_3=0Dirilirium	
+Antwort_4=0Zipfilirium	
+
+[141]
+FZ1=
+FZ2=Was war ein Liripipium ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1der Zipfel eines modischen Hutes	
+Antwort_2=0ein sehr kleines Messer	
+Antwort_3=0ein Burgfest mit Tanz und Musik	
+Antwort_4=0eine Toilette im Wald	
+
+[142]
+FZ1=
+FZ2=Warum wurde mit der Einführung des Topfhelmes auch das Tragen
+FZ3=von Wappen notwendig ?
+Min=1000
+Max=16000
+Antwort_1=1Damit man einen Ritter erkennen	konnte, auch ohne sein Gesicht zu	sehen.	
+Antwort_2=0weil ein Topfhelm nur richtig saß, wenn	der Ritter dazu das passende Wappen	hatte	
+Antwort_3=0weil der Kaiser das Wappengesetz	erlassen hatte	
+Antwort_4=0weil man einen Topfhelm ohne Wappen	nicht wieder abnehmen konnte	
+
+[143]
+FZ1=
+FZ2=Was war eine der größten Plagen der Burgbewohner ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1das Ungeziefer	
+Antwort_2=0die Hitze	
+Antwort_3=0die Zugluft	
+Antwort_4=0der Lärm	
+
+[144]
+FZ1=
+FZ2=Worauf lag das Hauptgewicht der Knappenausbildung ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1verschiedene Kampftechniken erlernen	
+Antwort_2=0das Singen und Tanzen erlernen	
+Antwort_3=0das Lesen und Schreiben erlernen	
+Antwort_4=0das Spurenlesen zu erlernen	
+
+[145]
+FZ1=
+FZ2=Welche Orte waren als Ausbildungsstätten für Knappen besonders beliebt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Fürstenhöfe	
+Antwort_2=0die Einsiedeleien	
+Antwort_3=0die Klöster	
+Antwort_4=0die finsteren Wälder	
+
+[146]
+FZ1=
+FZ2=Wie nannte man den Wohn- und Schlafraum einer Burg ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Kemenate	
+Antwort_2=0Kajüte	
+Antwort_3=0Kombüse	
+Antwort_4=0Konserve	
+
+[147]
+FZ1=
+FZ2=Was war die Kemenate ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1der Wohn- und Schlafraum einer Burg	
+Antwort_2=0der Weinkeller einer Burg	
+Antwort_3=0die Küche einer Burg	
+Antwort_4=0die Schießscharte einer Burg	
+
+[148]
+FZ1=
+FZ2=Was war ein Ministerialer ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1ein unfreier Vasall	
+Antwort_2=0en reicher Vogt	
+Antwort_3=0ein freier Vagabund	
+Antwort_4=0ein Berater des Königs	
+
+[149]
+FZ1=
+FZ2=Wie nannte man einen unfreien Vasallen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Ministerialen	
+Antwort_2=0Milizen	
+Antwort_3=0Minister	
+Antwort_4=0Minestrant	
+
+[150]
+FZ1=
+FZ2=Was bedeutete es, wenn ein Vasall von seinem Herrn zur Heerfolge
+FZ3=aufgefordert wurde ?
+Min=200
+Max=2000
+Antwort_1=1Er musste ihn auf einem Kriegszug	begleiten.	
+Antwort_2=0Er musste seinem Herren ein neues	Pferd kaufen.	
+Antwort_3=0Er musste seinem Herren zum Markt	folgen.	
+Antwort_4=0Er musste jedem großen Heer, das er	sah, sofort folgen.	
+
+[151]
+FZ1=
+FZ2=Was lernten die Kreuzfahrer von den Muslimen im Heiligen Land ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1die Körperpflege	
+Antwort_2=0das Teppichknüpfen	
+Antwort_3=0das Bogenschießen	
+Antwort_4=0die Fechtkunst	
+
+[152]
+FZ1=
+FZ2=Wann wurde der Deutsche - Orden gegründet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11190	
+Antwort_2=01170	
+Antwort_3=01180	
+Antwort_4=01160	
+
+[153]
+FZ1=
+FZ2=Wann wurde der Templer - Orden gegründet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11119	
+Antwort_2=01339	
+Antwort_3=01229	
+Antwort_4=01449	
+
+[154]
+FZ1=
+FZ2=Wann wurde der Johanniter - Orden gegründet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11099	
+Antwort_2=0999	
+Antwort_3=01199	
+Antwort_4=01299	
+
+[155]
+FZ1=
+FZ2=Zur Zeit der Kreuzzüge wurden drei große, geistliche Ritterorden gegründet.
+FZ3=Welchen Orden gab es  n i c h t  ?
+Min=8000
+Max=125000
+Antwort_1=1Jesus - Orden	
+Antwort_2=0Templer - Orden	
+Antwort_3=0Johanniter - Orden	
+Antwort_4=0Deutscher - Orden	
+
+[156]
+FZ1=
+FZ2=Wie nannte man ein weinähnliches Getränk aus Honig und Wasser ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Met	
+Antwort_2=0Ret	
+Antwort_3=0Zet	
+Antwort_4=0Get	
+
+[157]
+FZ1=
+FZ2=Was war Met ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1ein weinähnliches Getränk	
+Antwort_2=0ein kurzes Schwert	
+Antwort_3=0ein Brei aus Haferschleim	
+Antwort_4=0der Aussichtsturm einer Burg	
+
+[158]
+FZ1=
+FZ2=Gab es in den Burgbetten schon Matratzen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ja	
+Antwort_2=0nur in Wasserburgen	
+Antwort_3=0nein	
+Antwort_4=0nur bei der Königin	
+
+[159]
+FZ1=
+FZ2=Wann galt man im Mittelalter als frei ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1wenn nicht der Lehnsherr oder der	Dienstherr, sondern ein übergeordnetes	Gericht über einen entschied	
+Antwort_2=0wenn man kein eigenes Land besaß	
+Antwort_3=0wenn man viel Gold besaß	
+Antwort_4=0wenn man hinziehen konnte, wohin	man wollte	
+
+[160]
+FZ1=
+FZ2=Wo liegt die Wartburg, auf der im Mittelalter ein Wettstreit der Minnesänger
+FZ3=stattgefunden haben soll ?
+Min=8000
+Max=125000
+Antwort_1=1Thüringen	
+Antwort_2=0Bayern	
+Antwort_3=0Sachsen	
+Antwort_4=0Hessen	
+
+[161]
+FZ1=
+FZ2=Wie nannte man verarmte Ritter, die deshalb Kaufleute und andere Reisende
+FZ3=überfielen und ausplünderten ?
+Min=0
+Max=1000
+Antwort_1=1Raubritter	
+Antwort_2=0Plünderritter	
+Antwort_3=0hinterlistige Ritter	
+Antwort_4=0gemeine Ritter	
+
+[162]
+FZ1=
+FZ2=Warum hatten die Menschen im Mittelalter oft so schlechte Zähne ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Es gab weniger vitaminreiche Nahrung	als heute.	
+Antwort_2=0Es gab noch keine Zahnbürsten.	
+Antwort_3=0Es gab weniger Zahnärzte.	
+Antwort_4=0Es gab noch keine Zahnpasta.	
+
+[163]
+FZ1=
+FZ2=Durften Kinder im Mittelalter Alkohol trinken ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ja, denn im Bier und im Wein waren	weniger Krankheitskeime als im Wasser	
+Antwort_2=0nur die Jungen	
+Antwort_3=0nein, auf keinen Fall	
+Antwort_4=0nur die Mädchen in der Küche	
+
+[164]
+FZ1=
+FZ2=Was waren Wappen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1farbige Erkennungszeichen	
+Antwort_2=0kleine Wurfgeschosse	
+Antwort_3=0große Wandgemälde, die die Rittersäle	schmückten	
+Antwort_4=0kräftige, schwarze Pferde	
+
+[165]
+FZ1=
+FZ2=Woher bekamen die Burgbewohner ihr Gemüse ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1zu jeder Burg gehörte ein	Gemüsegarten	
+Antwort_2=0von den umherziehenden Bauern	
+Antwort_3=0vom Markt, der jeden Mittwoch stattfand	
+Antwort_4=0aus dem Klostergarten	
+
+[166]
+FZ1=
+FZ2=Was war "indisches Salz" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Zucker	
+Antwort_2=0Sesam	
+Antwort_3=0Mohn	
+Antwort_4=0Curry	
+
+[167]
+FZ1=
+FZ2=Warum war der Baumeister einer Burg unkündbar ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1weil er als Einziger den Bauplan im	Kopf hatte	
+Antwort_2=0weil die Baumeister sonst keine andere	Arbeit hatten	
+Antwort_3=0weil die Baumeister unkündbare	Verträge unterschreiben mussten	
+Antwort_4=0weil er zum Schluss den Schlüssel	übergeben musste	
+
+[168]
+FZ1=
+FZ2=Was war ein Topfhelm ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ein Ritterhelm mit Sehschlitzen, der	über den Kopf gestülpt wurde und das	Gesicht vollkommen bedeckte	
+Antwort_2=0So nannte man einen großen	Fleischtopf, der aussah wie ein	Ritterhelm.	
+Antwort_3=0ein spezieller Helm, der bei einem	Angriff auf die Burg von den Köchen	getragen wurde	
+Antwort_4=0ein besonders geformter Kuchen	
+
+[169]
+FZ1=
+FZ2=Was war das wichtigste Gewürz im Mittelalter ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Salz	
+Antwort_2=0Zucker	
+Antwort_3=0Pfeffer	
+Antwort_4=0Muskat	
+
+[170]
+FZ1=
+FZ2=Was war die klassische Schlagwaffe des Ritters ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schwert	
+Antwort_2=0Morgenstern	
+Antwort_3=0Lanze	
+Antwort_4=0Dolch	
+
+[171]
+FZ1=
+FZ2=Wurde auf der Burg auch sonn- und feiertags gearbeitet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1nein, an diesen Tagen ruhten sich die	Ritter aus	
+Antwort_2=0ja, aber nur nachmittags	
+Antwort_3=0ja, aber nur vormittags	
+Antwort_4=0ja, aber nur für drei Stunden	
+
+[172]
+FZ1=
+FZ2=Wie viele Teilnehmer kamen bei den Kreuzzügen zu Tode ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1die Hälfte	
+Antwort_2=0jeder Vierte	
+Antwort_3=0ein Drittel	
+Antwort_4=0fast alle	
+
+[173]
+FZ1=
+FZ2=Wie lange dauerten die Kreuzzüge ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1von 1096 - 1291	
+Antwort_2=0von 1107 - 1346	
+Antwort_3=0von 995 - 1142	
+Antwort_4=0von 1298 - 1458	
+
+[174]
+FZ1=
+FZ2=Wie lange dauerten die Kreuzzüge ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=12 Jahrhunderte	
+Antwort_2=03 Jahrhunderte	
+Antwort_3=01 Jahrhundert	
+Antwort_4=085 Jahre	
+
+[175]
+FZ1=
+FZ2=Welche Pflicht hatte der Lehnsherr gegenüber seinem Vasallen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Er musste ihm bei einem Angriff zu Hilfe	kommen.	
+Antwort_2=0Er musste Oma und Opa in seiner Burg	versorgen.	
+Antwort_3=0Er musste die älteste Tochter heiraten.	
+Antwort_4=0Er musste ihm jedes Jahr ein neues	Pferd schenken.	
+
+[176]
+FZ1=
+FZ2=Ein Vasall schuldete seinem Lehnsherren außer dem Kriegsdienst noch weitere
+FZ3=Ehrendienste. Was gehörte  n i c h t  dazu ?
+Min=2000
+Max=32000
+Antwort_1=1die jährliche Geburtstagsfeier	ausrichten	
+Antwort_2=0die Begleitung des Lehnsherren bei	festlichen Anlässen	
+Antwort_3=0das Halten des Steigbügels	
+Antwort_4=0der Dienst bei der Festtafel, etwa als	Mundschenk	
+
+[177]
+FZ1=
+FZ2=Wie nannte man im Mittelalter den Verwalter einer Burg oder eines Rittergutes ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Vogt	
+Antwort_2=0Vasall	
+Antwort_3=0Graf	
+Antwort_4=0Earl	
+
+[178]
+FZ1=
+FZ2=Wie nannte man jemanden, der ein Stück Land geliehen bekam
+FZ3=und sich dafür zum Kriegsdienst verpflichtete ?
+Min=4000
+Max=64000
+Antwort_1=1Vasall	
+Antwort_2=0Vagabund	
+Antwort_3=0Vogt	
+Antwort_4=0Visoll	
+
+[179]
+FZ1=
+FZ2=In der mittelalterlichen Gesellschaft unterschied man drei Stände.
+FZ3=Welchen Stand gab es  n i c h t  ?
+Min=1000
+Max=16000
+Antwort_1=1Seefahrer	
+Antwort_2=0Geistliche	
+Antwort_3=0Adel mit den Rittern	
+Antwort_4=0Bauern	
+
+[180]
+FZ1=
+FZ2=Was war die klassische Stoßwaffe des Ritters ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1die Lanze	
+Antwort_2=0der Dolch	
+Antwort_3=0das Schwert	
+Antwort_4=0der Speer	
+
+[181]
+FZ1=
+FZ2=Was galt als die erste und vornehmste aller Rittertugenden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Treue	
+Antwort_2=0Ehrlichkeit	
+Antwort_3=0Ritterlichkeit	
+Antwort_4=0Pünktlichkeit	
+
+[182]
+FZ1=
+FZ2=Welche beiden süddeutschen Städte waren Zentren
+FZ3=für die Herstellung von Ritterrüstungen ?
+Min=64000
+Max=250000
+Antwort_1=1Nürnberg und Augsburg	
+Antwort_2=0Mannheim und Ingolstadt	
+Antwort_3=0München und Stuttgart	
+Antwort_4=0Passau und Rosenheim	
+
+[183]
+FZ1=
+FZ2=Es gab drei Arten von Kampfspielen der Ritter.
+FZ3=Welches gehört  n i c h t  dazu ?
+Min=125000
+Max=500000
+Antwort_1=1Boheme	
+Antwort_2=0Tjost	
+Antwort_3=0Buhurt	
+Antwort_4=0Turnei	
+
+[184]
+FZ1=
+FZ2=Was war ein Turnier ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ein Kampfspiel der Ritter	
+Antwort_2=0ein Stall für die Ritterpferde	
+Antwort_3=0ein mittelalterliches Theaterstück	
+Antwort_4=0ein Belagerungsturm	
+
+[185]
+FZ1=
+FZ2=Wie nannte man einen Jungen auf der zweiten Stufe seiner Ausbildung zum Ritter ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Knappe	
+Antwort_2=0Zögling	
+Antwort_3=0Page	
+Antwort_4=0Höfling	
+
+[186]
+FZ1=
+FZ2=Mit wie vielen Jahren musste ein Page sein Elternhaus verlassen, um seine
+FZ3=Ausbildung bei einem anderen Ritter fortzusetzen ?
+Min=2000
+Max=32000
+Antwort_1=1mit 14 Jahren	
+Antwort_2=0mit 16 Jahren	
+Antwort_3=0mit 12 Jahren	
+Antwort_4=0mit 10 Jahren	
+
+[187]
+FZ1=
+FZ2=Was ist ein Lehen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Grundbesitz, der von einem	Lehnsherren an einen Untergebenen	verliehen wird	
+Antwort_2=0ein junges Fohlen, das zum Streitross	ausgebildet wird	
+Antwort_3=0ein prächtiger Thronstuhl mit einer	hoher Lehne	
+Antwort_4=0eine Schleuderwaffe	
+
+[188]
+FZ1=
+FZ2=Wie nannte man das Herrenzimmer der Burg ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Palas	
+Antwort_2=0Pagoge	
+Antwort_3=0Page	
+Antwort_4=0Panini	
+
+[189]
+FZ1=
+FZ2=Was war der Palas ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1das Herrenhaus der Burg	
+Antwort_2=0ein prachtvoll angelegter Burggarten	
+Antwort_3=0das Damenhaus der Burg	
+Antwort_4=0der engste Diener des Burgherren	
+
+[190]
+FZ1=
+FZ2=Seit wann besaßen die Ritterhelme einen aufklappbaren Gesichtsschutz ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1seit Ende des 14 . Jahrhunderts	
+Antwort_2=0seit Ende des 15 . Jahrhunderts	
+Antwort_3=0seit Anfang des 14 . Jahrhunderts	
+Antwort_4=0seit Ende des 12 . Jahrhunderts	
+
+[191]
+FZ1=
+FZ2=Wie nennt man den aufklappbaren Gesichtsschutz eines Ritterhelmes ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Visier	
+Antwort_2=0Klavier	
+Antwort_3=0Spalier	
+Antwort_4=0Vision	
+
+[192]
+FZ1=
+FZ2=Aus wie vielen Schichten bestand eine Burgmauer ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=13	
+Antwort_2=04	
+Antwort_3=02	
+Antwort_4=05	
+
+[193]
+FZ1=
+FZ2=Welcher Papst rief erstmals zu einem Kreuzzug auf ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Urban II.	
+Antwort_2=0Urban III.	
+Antwort_3=0Urban I.	
+Antwort_4=0Urban IV.	
+
+[194]
+FZ1=
+FZ2=Wann rief ein Papst erstmals zu einem Kreuzzug auf ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=11095	
+Antwort_2=0995	
+Antwort_3=01195	
+Antwort_4=01295	
+
+[195]
+FZ1=
+FZ2=Was war ein Kreuzzug ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Kriegszug im Zeichen der Kirche	gegen sogenannte Ungläubige	
+Antwort_2=0eine friedliche Prozession zur Kirche	
+Antwort_3=0ein Ritterkampf, bei dem sich die Ritter	von Norden und Westen trafen, also sich	überkreuzten	
+Antwort_4=0ein langer Leiterwagen, in dem	Holzkreuze für eine neue Kirche	transportiert wurden	
+
+[196]
+FZ1=
+FZ2=Wie nannte man einen Jungen auf der ersten Stufe seiner Ritterausbildung ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Page	
+Antwort_2=0Höfling	
+Antwort_3=0Knappe	
+Antwort_4=0Knecht	
+
+[197]
+FZ1=
+FZ2=Wie alt war ein Junge, wenn seine Ausbildung zum Ritter begann ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=17 Jahre	
+Antwort_2=09 Jahre	
+Antwort_3=05 Jahre	
+Antwort_4=011 Jahre	
+
+[198]
+FZ1=
+FZ2=Was ist ein Lehnsherr ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ein mächtiger Adliger, der einem	Untergebenen ein Stück Land leihweise	überlässt	
+Antwort_2=0ein alter Ritter, der sich nur noch auf	einen Stock lehnen konnte	
+Antwort_3=0ein starker Ritter, an den die Bauern	sich anlehnen konnten	
+Antwort_4=0ein geschickter Schreiner, der Stühle	mit hohen Lehnen herstellen konnte	
+
+[199]
+FZ1=
+FZ2=Was trugen die Ritter unter der Rüstung, um ihren Druck abzupolstern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Unterkleid aus dickem Stoff	
+Antwort_2=0einen Gummianzug	
+Antwort_3=0Wattepolster	
+Antwort_4=0mit Tierhaaren gepolsterte Taschen	
+
+[200]
+FZ1=
+FZ2=Wie nennt man eine Burg, die inmitten eines Sees liegt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wasserburg	
+Antwort_2=0Teichburg	
+Antwort_3=0Seeburg	
+Antwort_4=0Meeresburg	
+
+[201]
+FZ1=
+FZ2=Wohnten alle Ritter in Burgen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nein, nur die besonders reichen Ritter	konnten es sich leisten, eine Burg zu	bauen und zu unterhalten.	
+Antwort_2=0Ja, denn nur wer in einer Burg lebte,	war auch ein Ritter.	
+Antwort_3=0ja, selbstverständlich	
+Antwort_4=0natürlich	
+
+[202]
+FZ1=
+FZ2=Wie nannte man eine Vorform der Ritterburg ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Motte	
+Antwort_2=0Fliege	
+Antwort_3=0Mücke	
+Antwort_4=0Biene	
+
+[203]
+FZ1=
+FZ2=Was war im Frieden die größte Gefahr für die Burgbewohner ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Brand	
+Antwort_2=0ein Erdbeben	
+Antwort_3=0Mauereinstürze	
+Antwort_4=0eine Überschwemmung	
+
+[204]
+FZ1=
+FZ2=Wie nannte man Eisen mit Spitzen, die auf den Boden geworfen wurden,
+FZ3=um Pferde und Männer zu verletzen ?
+Min=64000
+Max=250000
+Antwort_1=1Fußangel	
+Antwort_2=0Fußfallen	
+Antwort_3=0Fußhebel	
+Antwort_4=0Fußeisen	
+
+[205]
+FZ1=
+FZ2=Welche Frau zog 1429 an der Spitze der französischen Ritter
+FZ3=in den Krieg gegen England ?
+Min=4000
+Max=64000
+Antwort_1=1Johanna von Orléans	
+Antwort_2=0Hildegard von Bingen	
+Antwort_3=0Christine de Pisan	
+Antwort_4=0Maria Steward	
+
+[206]
+FZ1=
+FZ2=Welche Krankheit tötete im Mittelalter in Europa Millionen von Menschen und
+FZ3=entvölkerte ganze Landstriche ?
+Min=0
+Max=1000
+Antwort_1=1Pest	
+Antwort_2=0Tollwut	
+Antwort_3=0Malaria	
+Antwort_4=0Masern	
+
+[207]
+FZ1=
+FZ2=Was war das Hauptnahrungsmittel der Menschen im Mittelalter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Brot	
+Antwort_2=0Kartoffeln	
+Antwort_3=0Reis	
+Antwort_4=0Nudeln	
+
+[208]
+FZ1=
+FZ2=Wo liegt der Eingang einer Turmburg ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Hoch oben in der Turmmauer. Er war	nur über eine Leiter erreichbar.	
+Antwort_2=0Eine unterirdischer Geheimgang führte	zum Eingang.	
+Antwort_3=0Hinter der dicken Zugbrücke. Sie musste	erst heruntergelassen erden.	
+Antwort_4=0Eine dicke Eichentür unten am Turm	wurde von bewaffneten Wächtern	beschützt.	
+
+[209]
+FZ1=
+FZ2=Welche Form hatte ein Banner meistens ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1schwalbenschwänzig	
+Antwort_2=0giraffenhalsig	
+Antwort_3=0schweinsbeinig	
+Antwort_4=0elafantenbauchig	
+
+[210]
+FZ1=
+FZ2=Wie nannte man eine Dorn oder ein kleines Rädchen am Absatz des Reitstiefels,
+FZ3=mit dem der Reiter das Pferd antrieb ?
+Min=8000
+Max=125000
+Antwort_1=1Sporn	
+Antwort_2=0Tjorn	
+Antwort_3=0Horn	
+Antwort_4=0Zorn	
+
+[211]
+FZ1=
+FZ2=Wie nannte man einen Metallhandwerker, der auf die Herstellung
+FZ3=von Rüstungen spezialisiert war ?
+Min=16000
+Max=250000
+Antwort_1=1Plattner	
+Antwort_2=0Harnischer	
+Antwort_3=0Rüstner	
+Antwort_4=0Kettler	
+
+[212]
+FZ1=
+FZ2=Wie nannte man eine Rüstung, die aus beweglich verbundenen Eisenplatten
+FZ3=bestand und zu der auch ein Helm gehörte ?
+Min=2000
+Max=32000
+Antwort_1=1Harnisch	
+Antwort_2=0Harbisch	
+Antwort_3=0Hartisch	
+Antwort_4=0Harrisch	
+
+[213]
+FZ1=
+FZ2=Wie nannte man eine Fahne mit Wappen und Abzeichen ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Banner	
+Antwort_2=0Hanner	
+Antwort_3=0Fanner	
+Antwort_4=0Panner	
+
+[214]
+FZ1=In einem durchschnittlichen Dorf gab es zur Zeit der ersten Ritter unter
+FZ2=Karl dem Großen ( zwischen 748 und 814) ca. 45 Kühe.
+FZ3=Wie teuer war wohl ein Streitross ?
+Min=125000
+Max=125000
+Antwort_1=112 Kühe	
+Antwort_2=04 Kühe	
+Antwort_3=02 Kühe	
+Antwort_4=08 Kühe	
+
+[215]
+FZ1=In einem durchschnittlichen Dorf gab es zur Zeit der ersten Ritter unter
+FZ2=Karl dem Großen ( zwischen 748 und 814) ca. 45 Kühe.
+FZ3=Wie teuer war wohl ein hölzernes Schild und dazu eine Lanze ?
+Min=125000
+Max=125000
+Antwort_1=12 Kühe	
+Antwort_2=03 Kühe	
+Antwort_3=01 Kuh	
+Antwort_4=04 Kühe	
+
+[216]
+FZ1=In einem durchschnittlichen Dorf gab es zur Zeit der ersten Ritter unter
+FZ2=Karl dem Großen ( zwischen 748 und 814) ca. 45 Kühe.
+FZ3=Wie teuer war wohl ein Paar Beinschienen ?
+Min=125000
+Max=125000
+Antwort_1=16 Kühe	
+Antwort_2=02 Kühe	
+Antwort_3=01 Kuh	
+Antwort_4=03 Kühe	
+
+[217]
+FZ1=In einem durchschnittlichen Dorf gab es zur Zeit der ersten Ritter unter
+FZ2=Karl dem Großen ( zwischen 748 und 814) ca. 45 Kühe.
+FZ3=Wie teuer war wohl ein Schwert ?
+Min=125000
+Max=125000
+Antwort_1=17 Kühe	
+Antwort_2=03 Kühe	
+Antwort_3=01 Kuh	
+Antwort_4=05 Kühe	
+
+[218]
+FZ1=In einem durchschnittlichen Dorf gab es zur Zeit der ersten Ritter unter
+FZ2=Karl dem Großen ( zwischen 748 und 814) ca. 45 Kühe.
+FZ3=Wie teuer war wohl ein Schuppenpanzer ?
+Min=125000
+Max=125000
+Antwort_1=112 Kühe	
+Antwort_2=04 Kühe	
+Antwort_3=02 Kühe	
+Antwort_4=01 Kuh	
+
+[219]
+FZ1=In einem durchschnittlichen Dorf gab es zur Zeit der ersten Ritter unter
+FZ2=Karl dem Großen ( zwischen 748 und 814) ca. 45 Kühe.
+FZ3=Wie teuer war wohl ein Helm ?
+Min=125000
+Max=125000
+Antwort_1=16 Kühe	
+Antwort_2=02 Kühe	
+Antwort_3=01 Kuh	
+Antwort_4=03 Kühe	
+
+[220]
+FZ1=In einem durchschnittlichen Dorf gab es zur Zeit der ersten Ritter unter
+FZ2=Karl dem Großen ( zwischen 748 und 814) ca. 45 Kühe.
+FZ3=Wie teuer war wohl die gesamte Ausrüstung eines Ritters ?
+Min=250000
+Max=250000
+Antwort_1=1Sie kostete 45 Kühe, also  so viel wie	alle Kühe eines Dorfes.	
+Antwort_2=0Sie kostete 15 Kühe.	
+Antwort_3=0Sie kostete 23 Kühe, also ungefähr	soviel wie die Hälfte aller Kühe eines	Dorfes.	
+Antwort_4=0Sie kostete 7 Kühe.	
+
+[221]
+FZ1=
+FZ2=Wie hielten die frühen Ritter beim Angriff ihre Lanzen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1hoch über dem Kopf	
+Antwort_2=0Sie schliffen auf dem Boden und	wurden erst im letzten Moment	hochgerissen.	
+Antwort_3=0unter der Achsel eingeklemmt	
+Antwort_4=0Die frühen Ritter hatten noch keine	Lanzen.	
+
+[222]
+FZ1=
+FZ2=Besaßen die Sättel der Ritter schon Steigbügel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ja, sie waren eine wichtige Neuerung	der ersten Ritter	
+Antwort_2=0nein, die Ritter hatten noch nicht einmal	Sättel	
+Antwort_3=0nein, sie waren den Rittern noch	unbekannt	
+Antwort_4=0nur die ganz reichen Ritter hatten	Steigbügel	
+
+[223]
+FZ1=
+FZ2=Warum war die Ausfuhr der Brünnen aus dem Fränkischen Reich verboten ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Die Brünnen galten als überaus kostbar.	
+Antwort_2=0Es gab insgesamt nur drei Brünnen.	
+Antwort_3=0Die Brünnen gehörten dem König.	
+Antwort_4=0Man konnte die Brünnen nicht	nachmachen.	
+
+[224]
+FZ1=
+FZ2=Was sind Brünnen ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Schuppenpanzer der frühen Ritter	
+Antwort_2=0die Ritter aus Brünn	
+Antwort_3=0die Spitzen der Burgmauern	
+Antwort_4=0die Schutzbekleidung der Pferde	
+
+[225]
+FZ1=
+FZ2=Was waren die beiden wichtigsten Waffen der frühen Ritter ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1die Lanze und das lange, gerade	Schwert	
+Antwort_2=0Schwert und Morgenstern	
+Antwort_3=0Messer und Dolch	
+Antwort_4=0Lanze und Wurfspeer	
+
+[226]
+FZ1=
+FZ2=Was trugen die frühen Ritter zum Schutz in ihrer Hand ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1einen runden Schild aus Holz oder	Leder	
+Antwort_2=0einen Dolch	
+Antwort_3=0einen runden Schild aus Eisen	
+Antwort_4=0ein langes Schwert	
+
+[227]
+FZ1=
+FZ2=Wie nannte man die Vorläufer der späteren Ritter ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1die fränkischen Panzerreiter	
+Antwort_2=0die schwedischen Pferdereiter	
+Antwort_3=0die schwäbischen Reiter	
+Antwort_4=0die slawischen Mongolen	
+
+[228]
+FZ1=
+FZ2=Wie unterschied sich die Kleidung der Erwachsenen von der ihrer Kinder ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis auf die Größe überhaupt nicht	
+Antwort_2=0Die Kleidung der Erwachsenen war aus	viel besseren Stoffen.	
+Antwort_3=0Die Kleidung der Kinder war viel bunter.	
+Antwort_4=0An der Kleidung der Kinder waren	kleine Glocken, damit man immer hörte,	wo sie spielten.	
+
+[229]
+FZ1=
+FZ2=Mit wie vielen Jahren wurde ein Knappe zum Ritter geschlagen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in der Regel mit etwa 21 Jahren	
+Antwort_2=0in der Regel mit etwa 25 Jahren	
+Antwort_3=0in der Regel mit etwa 18 Jahren	
+Antwort_4=0in der Regel mit etwa 16 Jahren	
+
+[230]
+FZ1=Weil die hygienischen Bedingungen viel schlechter als heute waren und weil es
+FZ2=außer Kräuterarzneien keine Medikamente gab, starben schon viele Kinder vor dem
+FZ3=sechsten Lebensjahr. Wie viele Kinder waren es wohl ?
+Min=4000
+Max=64000
+Antwort_1=1etwa die Hälfte	
+Antwort_2=0etwa ein Viertel	
+Antwort_3=0etwa ein Drittel	
+Antwort_4=0ungefähr jedes zehnte Kind	
+
+[231]
+FZ1=
+FZ2=Woran sah man, dass eine Frau verheiratet oder verwitwet war ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sie musste ihr Haar unter einer	Kopfbedeckung verbergen.	
+Antwort_2=0Sie durfte nur lange, schwarze Kleider	tragen.	
+Antwort_3=0Sie musste einen Fingerring tragen.	
+Antwort_4=0Sie musste einen Schleier tragen.	
+
+[232]
+FZ1=
+FZ2=Warum war die Küche auf einer Burg oft außerhalb
+FZ3=des Herrenhauses untergebracht ?
+Min=4000
+Max=64000
+Antwort_1=1wegen der offenen Herde und der damit	verbundenen Feuergefahr	
+Antwort_2=0damit der Burgherr nicht beim	Abtrocknen helfen musste	
+Antwort_3=0um unangenehme Kochgerüche in den	Wohnräumen zu vermeiden	
+Antwort_4=0weil die Ritter die Köchinnen nicht	sehen durften	
+
+[233]
+FZ1=
+FZ2=Wie nannte man eine eng anliegende Kapuze mit Schulterkragen, die die Ritter
+FZ3=seit dem 12. Jahrhundert unter der Panzerhaube trugen ?
+Min=500000
+Max=500000
+Antwort_1=1Gugel	
+Antwort_2=0Fugel	
+Antwort_3=0Kugel	
+Antwort_4=0Mugel	
+
+[234]
+FZ1=
+FZ2=Wie viele Bolzen konnte man mit der Armbrust in einer Minute abschießen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nur einen	
+Antwort_2=0vier bis fünf	
+Antwort_3=0drei	
+Antwort_4=0sieben	
+
+[235]
+FZ1=
+FZ2=Wie schwer war eine Armbrust ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 8 kg	
+Antwort_2=0etwa 3 kg	
+Antwort_3=0ungefähr 5 kg	
+Antwort_4=02 - 4 kg	
+
+[236]
+FZ1=
+FZ2=Wie lang waren die Lanzen der Ritter ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis zu 4 m	
+Antwort_2=0ca. 2,80 m	
+Antwort_3=02  - 3 m	
+Antwort_4=06 - 8 m	
+
+[237]
+FZ1=
+FZ2=Wie viele Pfeile konnte man mit dem englischen Langbogen
+FZ3=in der Minute abschießen ?
+Min=32000
+Max=250000
+Antwort_1=15 - 6	
+Antwort_2=03 - 5	
+Antwort_3=02 - 3	
+Antwort_4=07 - 10	
+
+[238]
+FZ1=
+FZ2=Wie heißen die Wurfmaschinen, die man zur Belagerung von Burgen
+FZ3=eingesetzt hat ?
+Min=500
+Max=4000
+Antwort_1=1Katapulte	
+Antwort_2=0Kastanetten	
+Antwort_3=0Katamarane	
+Antwort_4=0Katastrophen	
+
+[239]
+FZ1=
+FZ2=Wie wurde das Jagdhorn genannt, das oft aus Elfenbein geschnitzt war ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Olifant	
+Antwort_2=0Elefant	
+Antwort_3=0Ottifant	
+Antwort_4=0Alifant	
+
+[240]
+FZ1=
+FZ2=Wie nannte man im Mittelalter den Mann, der eine Hinrichtung vollzog ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Henker	
+Antwort_2=0Schlenker	
+Antwort_3=0Kerkermeister	
+Antwort_4=0Herold	
+
+[241]
+FZ1=
+FZ2=Wie nannte man den Turm über dem Stadttor ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Belfried	
+Antwort_2=0Turmfried	
+Antwort_3=0Gotfried	
+Antwort_4=0Siegfried	
+
+[242]
+FZ1=
+FZ2=Ein Zeichen der Adligen war auch die Farbe ihrer Pferde.
+FZ3=Welche Farbe hatten die Pferde der Adligen ?
+Min=1000
+Max=16000
+Antwort_1=1weiß	
+Antwort_2=0schwarz	
+Antwort_3=0braun	
+Antwort_4=0grau	
+
+[243]
+FZ1=
+FZ2=Was war der Tjost ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1eine bestimmte Art des Turniers, bei	dem zwei Ritter zu Pferd	gegeneinander kämpften	
+Antwort_2=0ein zweispänniger Ritterwagen, auf	dem die Bogenschützen standen	
+Antwort_3=0ein Brustpanzer, den die Ritter über	dem Kettenhemd trugen	
+Antwort_4=0ein Belagerungsturm, von dem aus auch	schwere Steine geschleudert werden	konnten	
+
+[244]
+FZ1=
+FZ2=Wie nannte man ein Turnier, bei dem zwei Ritter zu Pferde
+FZ3=gegeneinander kämpften ?
+Min=64000
+Max=64000
+Antwort_1=1Tjost	
+Antwort_2=0Trollst	
+Antwort_3=0Toast	
+Antwort_4=0Tuest	
+
+[245]
+FZ1=Wie nannte man das Recht des Burgherren, beim Bau der Burg alle im Umkreis
+FZ2=der Burg lebenden Menschen zur Arbeit zu verpflichten ?
+FZ3=(Dafür durften sie im Kriegsfall in der Burg Schutz suchen .)
+Min=16000
+Max=125000
+Antwort_1=1Burgbann	
+Antwort_2=0Burgtreue	
+Antwort_3=0Burgpflicht	
+Antwort_4=0Burgrecht	
+
+[246]
+FZ1=
+FZ2=Welche christliche Stadt plünderten und zerstörten die Ritter
+FZ3=des vierten Kreuzzuges im Jahre 1203 ?
+Min=125000
+Max=500000
+Antwort_1=1Konstantinopel	
+Antwort_2=0Aachen	
+Antwort_3=0Rom	
+Antwort_4=0Wien	
+
+[247]
+FZ1=
+FZ2=Wie viele offizielle Kreuzzüge gab es insgesamt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=17	
+Antwort_2=03	
+Antwort_3=05	
+Antwort_4=09	
+
+[248]
+FZ1=
+FZ2=Was war der Tjost ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1eine bestimmte Art des Turniers, bei	dem zwei Ritter zu Pferd	gegeneinander kämpften	
+Antwort_2=0ein zweispänniger Ritterwagen, auf	dem die Bogenschützen standen	
+Antwort_3=0ein Brustpanzer, den die Ritter über	dem Kettenhemd trugen	
+Antwort_4=0ein Belagerungsturm, von dem aus auch	schwere Steine geschleudert werden	konnten	
+
+[249]
+FZ1=
+FZ2=Welche Übung war für einen Knappen, der Ritter werden wollte, 
+FZ3=die härteste Übung ?
+Min=1000
+Max=16000
+Antwort_1=1der Kampf gegen die Stechpuppe	
+Antwort_2=0das Zielwerfen mit der Lanze	
+Antwort_3=0das Auswendiglernen eines Minneliedes	
+Antwort_4=0der Kampf mit dem Feuerdrachen	
+
+[250]
+FZ1=
+FZ2=Weshalb war es in den Burgen oft kalt ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Es gab noch keine Heizungen und	Glasfenster.	
+Antwort_2=0Die Ritter mussten Strom sparen und	beheizten nur den Speisesaal.	
+Antwort_3=0Die Ritterzeit begann kurz nach der	Eiszeit.	
+Antwort_4=0Die Ritter hatten warme Rüstungen an.	
+

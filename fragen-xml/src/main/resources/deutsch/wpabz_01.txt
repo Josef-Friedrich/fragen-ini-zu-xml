@@ -1,0 +1,1105 @@
+[Thema]
+Thema= Was passt am besten zu ...
+Fragen=100
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Krankheit
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Asthma
+Antwort_2=0	 Etui
+Antwort_3=0	 Kopie
+Antwort_4=0	  Porto
+
+[2]
+FZ1=
+FZ2=Kreis
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Radius
+Antwort_2=0	 Risiko
+Antwort_3=0	 Jogging
+Antwort_4=0	 Brokkoli
+
+[3]
+FZ1=
+FZ2=Gesundheit
+FZ3=
+Min=4000
+Max=1000000
+Antwort_1=0	 Salami
+Antwort_2=1	 Massage
+Antwort_3=0	 Rheuma
+Antwort_4=0	 Visum
+
+[4]
+FZ1=
+FZ2=Fahrrad
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Taxi
+Antwort_2=0	 Rakete
+Antwort_3=1	 Ventil
+Antwort_4=0	 Konzert
+
+[5]
+FZ1=
+FZ2=tanzen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Orchester
+Antwort_2=1	 Ballett
+Antwort_3=0	 Mafia
+Antwort_4=0	 Sabotage
+
+[6]
+FZ1=
+FZ2=süß
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Zitrone
+Antwort_2=0	 Salz
+Antwort_3=0	 Diät
+Antwort_4=1	 Praline
+
+[7]
+FZ1=
+FZ2=Flugzeug
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Rhythmus
+Antwort_2=0	 Massaker
+Antwort_3=1	 Propeller
+Antwort_4=0	 Karies
+
+[8]
+FZ1=
+FZ2=Haus
+FZ3=
+Min=4000
+Max=1000000
+Antwort_1=0	 Dirigent
+Antwort_2=0	 Oldtimer
+Antwort_3=1	 Architekt
+Antwort_4=0	 Ganove
+
+[9]
+FZ1=
+FZ2=Operation
+FZ3=
+Min=4000
+Max=1000000
+Antwort_1=0	 Satellit
+Antwort_2=0	 Reklame
+Antwort_3=0	 Tresor
+Antwort_4=1	 Narkose
+
+[10]
+FZ1=
+FZ2=Stadt
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Pupille
+Antwort_2=1	 Zentrum
+Antwort_3=0	 Oase
+Antwort_4=0	 Nikotin
+
+[11]
+FZ1=
+FZ2=Fische
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Zirkus
+Antwort_2=0	 Antiquariat
+Antwort_3=0	 Labyrinth
+Antwort_4=1	 Aquarium
+
+[12]
+FZ1=
+FZ2=Musik
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Turbine
+Antwort_2=0	 Barometer
+Antwort_3=0	 Prothese
+Antwort_4=1	 Instrument
+
+[13]
+FZ1=
+FZ2=Käse
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Popcorn
+Antwort_2=0	 Vitamine
+Antwort_3=0	 Alkohol
+Antwort_4=1	 Camembert
+
+[14]
+FZ1=
+FZ2=süchtig
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Drogen
+Antwort_2=0	 Hormone
+Antwort_3=0	 Vitamine
+Antwort_4=0	 Mumien
+
+[15]
+FZ1=
+FZ2=essen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Toast
+Antwort_2=0	 Toilette
+Antwort_3=0	 Kompost
+Antwort_4=0	 Zigarre
+
+[16]
+FZ1=
+FZ2=raten
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Quiz
+Antwort_2=0	 Vampir
+Antwort_3=0	 Skelett
+Antwort_4=0	 Comic
+
+[17]
+FZ1=
+FZ2=Schule
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Espresso
+Antwort_2=0	  Gulasch
+Antwort_3=0	 Marionette
+Antwort_4=1	 Abitur
+
+[18]
+FZ1=
+FZ2=Bank
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Lametta
+Antwort_2=0	 Radio
+Antwort_3=0	 Saxophon
+Antwort_4=1	 Konto
+
+[19]
+FZ1=
+FZ2=Gewicht
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Premiere
+Antwort_2=0	 Lineal
+Antwort_3=0	 Hammer
+Antwort_4=1	 Zentner
+
+[20]
+FZ1=
+FZ2=Dragonball Z
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0	 Pikachu
+Antwort_2=0	 Snoopy
+Antwort_3=0	 Captain Hook
+Antwort_4=1	 Vegeta
+
+[21]
+FZ1=
+FZ2=Dragonball Z
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0	 Tauboss
+Antwort_2=0	 Relaxo
+Antwort_3=0	 Star Fighter
+Antwort_4=1	Son - Goku
+
+[22]
+FZ1=
+FZ2=Dragonball Z
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0	 Lavados
+Antwort_2=0	 Dratini
+Antwort_3=0	 Terminator
+Antwort_4=1	Piccolo
+
+[23]
+FZ1=
+FZ2=Dragonball Z
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0	 Mewtu
+Antwort_2=0	 Manitu
+Antwort_3=0	 Aladin
+Antwort_4=1	Kuririn
+
+[24]
+FZ1=
+FZ2=Pokémon
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0	 Vegeta
+Antwort_2=0	 Son - Goku
+Antwort_3=1	 Pikachu
+Antwort_4=0	 Piccolo
+
+[25]
+FZ1=
+FZ2=Pokémon
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0	 Bulma
+Antwort_2=0	 Freezer
+Antwort_3=1	 Mew
+Antwort_4=0	 Son - Gohan
+
+[26]
+FZ1=
+FZ2=Pokémon
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0	 Rikoom
+Antwort_2=0	 Ginyu
+Antwort_3=1	 Glumanda
+Antwort_4=0	 Batman
+
+[27]
+FZ1=
+FZ2=Pokémon
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0	 Chichi
+Antwort_2=0	 Woodstock
+Antwort_3=1	 Chaneira
+Antwort_4=0	 Charly
+
+[28]
+FZ1=
+FZ2=rot
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Banane
+Antwort_2=1	 Tomate
+Antwort_3=0	 Igel
+Antwort_4=0	 Sonne
+
+[29]
+FZ1=
+FZ2=gelb
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Blut
+Antwort_2=1	 Banane
+Antwort_3=0	 Nacht
+Antwort_4=0	 Polizei
+
+[30]
+FZ1=
+FZ2=grün
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Katze
+Antwort_2=1	 Krokodil
+Antwort_3=0	 Pflaume
+Antwort_4=0	 Wolke
+
+[31]
+FZ1=
+FZ2=blau
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Esel
+Antwort_2=1	 Himmel
+Antwort_3=0	 Schnee
+Antwort_4=0	 Hammer
+
+[32]
+FZ1=
+FZ2=schwarz
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Watte
+Antwort_2=1	 Kohle
+Antwort_3=0	 Kirsche
+Antwort_4=0	 Eisbär
+
+[33]
+FZ1=
+FZ2=sauer
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Salz
+Antwort_2=1	 Zitrone
+Antwort_3=0	 Praline
+Antwort_4=0	 Zucker
+
+[34]
+FZ1=
+FZ2=weiß
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Teer
+Antwort_2=1	 Zucker
+Antwort_3=0	 Frosch
+Antwort_4=0	 Biene
+
+[35]
+FZ1=
+FZ2=laut
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Marienkäfer
+Antwort_2=1	 Disco
+Antwort_3=0	 Fisch
+Antwort_4=0	 Maulwurf
+
+[36]
+FZ1=
+FZ2=schnell
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Schnecke
+Antwort_2=1	 Gepard
+Antwort_3=0	 Faultier
+Antwort_4=0	 Regenwurm
+
+[37]
+FZ1=
+FZ2=langsam
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Rennwagen
+Antwort_2=1	 Schnecke
+Antwort_3=0	 Falke
+Antwort_4=0	 Rakete
+
+[38]
+FZ1=
+FZ2=heiß
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Schnee
+Antwort_2=1	 Sonne
+Antwort_3=0	 Eis
+Antwort_4=0	 Kühlschrank
+
+[39]
+FZ1=
+FZ2=kalt
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Feuer
+Antwort_2=1	 Eiszapfen
+Antwort_3=0	 Ofen
+Antwort_4=0	 Sonne
+
+[40]
+FZ1=
+FZ2=nass
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Staub
+Antwort_2=1	 Pfütze
+Antwort_3=0	 Holz
+Antwort_4=0	 Buch
+
+[41]
+FZ1=
+FZ2=lesen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Buch
+Antwort_2=0	 Schiff
+Antwort_3=0	 Affe
+Antwort_4=0	 Glas
+
+[42]
+FZ1=
+FZ2=Buch
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 riechen
+Antwort_2=1	 lesen
+Antwort_3=0	 schmecken
+Antwort_4=0	 hören
+
+[43]
+FZ1=
+FZ2=Pharao
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 Tipi
+Antwort_2=0	 Iglu
+Antwort_3=1	 Pyramide
+Antwort_4=0	 Hütte
+
+[44]
+FZ1=
+FZ2=Eskimo
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Iglu
+Antwort_2=0	 Tipi
+Antwort_3=0	 Pyramide
+Antwort_4=0	 Hütte
+
+[45]
+FZ1=
+FZ2=Indianer
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 Iglu
+Antwort_2=0	 Pyramide
+Antwort_3=1	 Tipi
+Antwort_4=0	 Hütte
+
+[46]
+FZ1=
+FZ2=Religion
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Wasser
+Antwort_2=0	 Rauch
+Antwort_3=0	 Urwald
+Antwort_4=1	 Bibel
+
+[47]
+FZ1=
+FZ2=Computer
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Katze
+Antwort_2=1	 Maus
+Antwort_3=0	 Hund
+Antwort_4=0	 Pferd
+
+[48]
+FZ1=
+FZ2=rechnen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Buchstaben
+Antwort_2=0	 Farben
+Antwort_3=1	 Zahlen
+Antwort_4=0	 Wolle
+
+[49]
+FZ1=
+FZ2=Zahlen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 hören
+Antwort_2=0	 malen
+Antwort_3=0	 riechen
+Antwort_4=1	 rechnen
+
+[50]
+FZ1=
+FZ2=Schiff
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Straße
+Antwort_2=0	 Autobahn
+Antwort_3=0	 Garage
+Antwort_4=1	 Ozean
+
+[51]
+FZ1=
+FZ2=Oase
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Urwald
+Antwort_2=0	 Gletscher
+Antwort_3=1	 Wüste
+Antwort_4=0	 Nordpol
+
+[52]
+FZ1=
+FZ2=Eisbär
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Nordpol
+Antwort_2=0	 Südpol
+Antwort_3=0	 Urwald
+Antwort_4=0	 Wüste
+
+[53]
+FZ1=
+FZ2=Gorilla
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 Wüste
+Antwort_2=0	 Südpol
+Antwort_3=0	 Tundra
+Antwort_4=1	 Urwald
+
+[54]
+FZ1=
+FZ2=Werkzeug
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Kiste
+Antwort_2=0	 Tomate
+Antwort_3=1	 Zange
+Antwort_4=0	 Blatt
+
+[55]
+FZ1=
+FZ2=Werkzeug
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Hammer
+Antwort_2=0	 Honig
+Antwort_3=0	 Haus
+Antwort_4=0	 Heft
+
+[56]
+FZ1=
+FZ2=Werkzeug
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Seife
+Antwort_2=0	 Seil
+Antwort_3=0	 Schwein
+Antwort_4=1	 Säge
+
+[57]
+FZ1=
+FZ2=Musikinstrument
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Onkel
+Antwort_2=1	 Oboe
+Antwort_3=0	 Oase
+Antwort_4=0	 Ordnung
+
+[58]
+FZ1=
+FZ2=Musikinstrument
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Fahrrad
+Antwort_2=0	 Fahne
+Antwort_3=0	 Floß
+Antwort_4=1	 Flöte
+
+[59]
+FZ1=
+FZ2=Musikinstrument
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Truhe
+Antwort_2=0	 Traum
+Antwort_3=0	 Troll
+Antwort_4=1	 Trommel
+
+[60]
+FZ1=
+FZ2=Sport
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Glühwein
+Antwort_2=0	 Wasserbett
+Antwort_3=1	 Badminton
+Antwort_4=0	 Badeanstalt
+
+[61]
+FZ1=
+FZ2=Möbel
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Stuhl
+Antwort_2=0	 Stirn
+Antwort_3=0	 Strom
+Antwort_4=0	 Stall
+
+[62]
+FZ1=
+FZ2=Möbel
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Schrank
+Antwort_2=0	 Schranke
+Antwort_3=0	 Schale
+Antwort_4=0	 Schnecke
+
+[63]
+FZ1=
+FZ2=Möbel
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Tisch
+Antwort_2=0	 Tasse
+Antwort_3=0	 Tier
+Antwort_4=0	 Tinte
+
+[64]
+FZ1=
+FZ2=sitzen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Nagel
+Antwort_2=0	 Scherbe
+Antwort_3=1	 Stuhl
+Antwort_4=0	 Wasser
+
+[65]
+FZ1=
+FZ2=Regen
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Wolke
+Antwort_2=0	 Tante
+Antwort_3=0	 Kind
+Antwort_4=0	 Pfirsich
+
+[66]
+FZ1=
+FZ2=Obst
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Apfel
+Antwort_2=0	 Ampel
+Antwort_3=0	 Angel
+Antwort_4=0	 Angst
+
+[67]
+FZ1=
+FZ2=Ampel
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 rot - gelb - blau
+Antwort_2=1	 rot - gelb - grün
+Antwort_3=0	 schwarz - gelb - grün
+Antwort_4=0	 rot - lila - grün
+
+[68]
+FZ1=
+FZ2=Märchen
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Dornröschen
+Antwort_2=0	 Rosenkohl
+Antwort_3=0	 Blumenkohl
+Antwort_4=0	 Rosenstrauß
+
+[69]
+FZ1=
+FZ2=Märchen
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Furunkel
+Antwort_2=1	 Rapunzel
+Antwort_3=0	 Tarantel
+Antwort_4=0	 Monokel
+
+[70]
+FZ1=
+FZ2=Zauberer
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Harry Potter
+Antwort_2=0	 Harald Wotter
+Antwort_3=0	 Emil Otter
+Antwort_4=0	 Toni Kotter
+
+[71]
+FZ1=
+FZ2=schlafen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Bett
+Antwort_2=0	  Stuhl
+Antwort_3=0	 Tisch
+Antwort_4=0	 Schrank
+
+[72]
+FZ1=
+FZ2=Bett
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 schlafen
+Antwort_2=0	 lachen
+Antwort_3=0	 rennen
+Antwort_4=0	 waschen
+
+[73]
+FZ1=
+FZ2=träumen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Schule
+Antwort_2=0	 Verkehr
+Antwort_3=0	 Essen
+Antwort_4=1	 Schlaf
+
+[74]
+FZ1=
+FZ2=Schlaf
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 träumen
+Antwort_2=0	 greifen
+Antwort_3=0	 klettern
+Antwort_4=0	 ducken
+
+[75]
+FZ1=
+FZ2=Brille
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 lesen
+Antwort_2=0	 werfen
+Antwort_3=0	 gähnen
+Antwort_4=0	 schleudern
+
+[76]
+FZ1=
+FZ2=lesen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Taxi
+Antwort_2=1	 Brille
+Antwort_3=0	 Onkel
+Antwort_4=0	 Papagei
+
+[77]
+FZ1=
+FZ2=Familie
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Mutter
+Antwort_2=0	 Villa
+Antwort_3=0	 Fluss
+Antwort_4=0	 Mandarine
+
+[78]
+FZ1=
+FZ2=Berg
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Zugspitze
+Antwort_2=0	 Bahnhof
+Antwort_3=0	 Tischtuch
+Antwort_4=0	 Autobahn
+
+[79]
+FZ1=
+FZ2=Fisch
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Hahn
+Antwort_2=0	 Henne
+Antwort_3=0	 Huhn
+Antwort_4=1	 Knurrhahn
+
+[80]
+FZ1=
+FZ2=Gemüse
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Bohne
+Antwort_2=0	 Boden
+Antwort_3=0	 Bonn
+Antwort_4=0	 Bonbon
+
+[81]
+FZ1=
+FZ2=Hauptstadt
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Berlin
+Antwort_2=0	 Hamburg
+Antwort_3=0	 München
+Antwort_4=0	 Dortmund
+
+[82]
+FZ1=
+FZ2=Hund
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Deckel
+Antwort_2=0	 Decke
+Antwort_3=0	 Danke
+Antwort_4=1	 Dackel
+
+[83]
+FZ1=
+FZ2=Höhle
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 dunkel
+Antwort_2=0	 lustig
+Antwort_3=0	 traurig
+Antwort_4=0	 farbig
+
+[84]
+FZ1=
+FZ2=Vogel
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Pinguin
+Antwort_2=0	 Robbe
+Antwort_3=0	 Walross
+Antwort_4=0	 Eisbär
+
+[85]
+FZ1=
+FZ2=Kontinent
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Asien
+Antwort_2=0	 Grönland
+Antwort_3=0	 Madagaskar
+Antwort_4=0	 Italien
+
+[86]
+FZ1=
+FZ2=Fluss
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Nil
+Antwort_2=0	 Pril
+Antwort_3=0	 Stil
+Antwort_4=0	 Kiel
+
+[87]
+FZ1=
+FZ2=trinken
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Brot
+Antwort_2=1	 Saft
+Antwort_3=0	 Salz
+Antwort_4=0	 Brei
+
+[88]
+FZ1=
+FZ2=Baby
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Roller
+Antwort_2=0	 Schokolade
+Antwort_3=0	 Zähne
+Antwort_4=1	 Schnuller
+
+[89]
+FZ1=
+FZ2=Opa
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 alt
+Antwort_2=0	 jung
+Antwort_3=0	 laut
+Antwort_4=0	 schnell
+
+[90]
+FZ1=
+FZ2=alt
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Baby
+Antwort_2=0	 Säugling
+Antwort_3=0	 Welpe
+Antwort_4=1	 Oma
+
+[91]
+FZ1=
+FZ2=Römer
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Julius Cäsar
+Antwort_2=0	 Tutenchamun
+Antwort_3=0	 Nebukadnezar
+Antwort_4=0	 Piccolo
+
+[92]
+FZ1=
+FZ2=Kleidung
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Hase
+Antwort_2=0	 Haut
+Antwort_3=0	 Hof
+Antwort_4=1	 Hose
+
+[93]
+FZ1=
+FZ2=Monat
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 August
+Antwort_2=0	 Ernst
+Antwort_3=0	 Clown
+Antwort_4=0	 Theodor
+
+[94]
+FZ1=
+FZ2=Auto
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Kofferraum
+Antwort_2=0	 Taschenhalle
+Antwort_3=0	 Tütensaal
+Antwort_4=0	 Beutelraum
+
+[95]
+FZ1=
+FZ2=Panzer
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Ritter
+Antwort_2=0	 Burg
+Antwort_3=0	 Salamander
+Antwort_4=1	 Schildkröte
+
+[96]
+FZ1=
+FZ2=Universum
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0	 Kakaoweg
+Antwort_2=1	 Milchstraße
+Antwort_3=0	 Saftbahn
+Antwort_4=0	 Weingasse
+
+[97]
+FZ1=
+FZ2=Sesamstraße
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Bert
+Antwort_2=0	 Bernd
+Antwort_3=0	 Teddy
+Antwort_4=0	 Hase
+
+[98]
+FZ1=
+FZ2=graben
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Maulwurf
+Antwort_2=0	 Schlange
+Antwort_3=0	 Biber
+Antwort_4=0	 Fuchs
+
+[99]
+FZ1=
+FZ2=Gewitter
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Blitz
+Antwort_2=0	 Bild
+Antwort_3=0	 Bluse
+Antwort_4=0	 Berg
+
+[100]
+FZ1=
+FZ2=Euro
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Geld
+Antwort_2=0	 Land
+Antwort_3=0	 Mensch
+Antwort_4=0	 Kontinent
+

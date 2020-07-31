@@ -1,0 +1,676 @@
+[Thema]
+Thema=Rund um den menschlichen Körper
+Fragen=61
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Was sind Adern ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Blutbahnen	
+Antwort_2=0Sehnen	
+Antwort_3=0kleine Muskeln	
+Antwort_4=0große Knochen	
+
+[2]
+FZ1=
+FZ2=Welchen Knochen gibt es ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1Kniescheibe	
+Antwort_2=0Knieteller	
+Antwort_3=0Kniebrett	
+Antwort_4=0Knietasse	
+
+[3]
+FZ1=
+FZ2=Wie nennt man die Blutbahnen ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1Adern	
+Antwort_2=0Edern	
+Antwort_3=0Odern	
+Antwort_4=0Idern	
+
+[4]
+FZ1=
+FZ2=Wie nennt man den Knochenbau des Menschen ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Skelett	
+Antwort_2=0Skribent	
+Antwort_3=0Skalpell	
+Antwort_4=0Spinett	
+
+[5]
+FZ1=
+FZ2=Wie nennt man das Organ, das sich mit Urin füllt ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Blase
+Antwort_2=0Beutel
+Antwort_3=0Ballon
+Antwort_4=0Becher
+
+[6]
+FZ1=
+FZ2=Wie nennt man es, wenn man Luft aus dem Magen wieder durch die Speiseröhre
+FZ3=ausstößt ?
+Min=0
+Max=32000
+Antwort_1=1rülpsen
+Antwort_2=0niesen
+Antwort_3=0gähnen
+Antwort_4=0schnarchen
+
+[7]
+FZ1=
+FZ2=Wie nennt man den kleinsten Baustein, aus dem der Mensch besteht ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Zelle
+Antwort_2=0Muskel
+Antwort_3=0Knochen
+Antwort_4=0Knorpel
+
+[8]
+FZ1=
+FZ2=Womit sind die Muskeln an den Knochen verankert ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1mit Sehnen
+Antwort_2=0mit Bändern
+Antwort_3=0mit Knorpeln
+Antwort_4=0mit Drähten
+
+[9]
+FZ1=
+FZ2=Was passiert, wenn Luft aus dem Magen wieder in die Speiseröhre hochkommt ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Man muss aufstoßen.
+Antwort_2=0Man muss weinen.
+Antwort_3=0Man muss lachen.
+Antwort_4=0Man wird rot.
+
+[10]
+FZ1=
+FZ2=Was wird man, wenn es im Gehirn kurzfristig zu einer Durchblutungsstörung kommt ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1ohnmächtig
+Antwort_2=0albern
+Antwort_3=0munter
+Antwort_4=0stark
+
+[11]
+FZ1=
+FZ2=Wie heißt das Instrument, mit dem der Arzt das Herz abhört ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Stethoskop
+Antwort_2=0Katalog
+Antwort_3=0Mikroskop
+Antwort_4=0Periskop
+
+[12]
+FZ1=
+FZ2=Was befindet sich über dem Racheneingang und verhindert, dass beim Essen
+FZ3=Nahrung in die Nase gelangt ?
+Min=64000
+Max=500000
+Antwort_1=1das Zäpfchen
+Antwort_2=0das Röllchen
+Antwort_3=0das Stäbchen
+Antwort_4=0das Häkchen
+
+[13]
+FZ1=
+FZ2=Was ist bei Kindern die häufigste chronische Krankheit ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Asthma
+Antwort_2=0Röteln
+Antwort_3=0Windpocken
+Antwort_4=0Masern
+
+[14]
+FZ1=
+FZ2=Wie nennt man den farbigen Muskelring im Auge ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Iris
+Antwort_2=0Pia
+Antwort_3=0Linda
+Antwort_4=0Rosi
+
+[15]
+FZ1=
+FZ2=Welcher Finger hat nur zwei Glieder ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Daumen
+Antwort_2=0Zeigefinger
+Antwort_3=0Mittelfinger
+Antwort_4=0der kleine Finger
+
+[16]
+FZ1=
+FZ2=Wo sitzt der Musikantenknochen ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1am Ellenbogen
+Antwort_2=0im Knie
+Antwort_3=0im Ohr
+Antwort_4=0an der Ferse
+
+[17]
+FZ1=
+FZ2=Warum soll man nicht gleichzeitig sprechen und kauen ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1weil man sich verschlucken kann
+Antwort_2=0weil man dann keine Luft bekommt
+Antwort_3=0weil so die Stimmbänder geschädigt	werden
+Antwort_4=0weil dann das Essen nicht schmeckt
+
+[18]
+FZ1=
+FZ2=Bei welcher Sinneswahrnehmung ist das Riechen stark beteiligt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1beim Schmecken
+Antwort_2=0beim Hören
+Antwort_3=0beim Sehen
+Antwort_4=0beim Fühlen
+
+[19]
+FZ1=
+FZ2=Welcher Teil der Luft wird in der Lunge aufgenommen und an das Blut
+FZ3=weitergegeben ?
+Min=64000
+Max=500000
+Antwort_1=1Sauerstoff
+Antwort_2=0Kohlendioxid
+Antwort_3=0Stickstoff
+Antwort_4=0Schwefeldioxid
+
+[20]
+FZ1=
+FZ2=Wie viele Lungenflügel hat der Mensch ?
+FZ3=
+Min=300
+Max=32000
+Antwort_1=12
+Antwort_2=04
+Antwort_3=03
+Antwort_4=05
+
+[21]
+FZ1=
+FZ2=Was hilft im hinteren Teil des Mundes Bakterien zu bekämpfen ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Mandeln
+Antwort_2=0Rosinen
+Antwort_3=0Nüsse
+Antwort_4=0Pistazien
+
+[22]
+FZ1=
+FZ2=Welches Teil des Auges sorgt dafür, dass man scharf sehen kann ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Linse
+Antwort_2=0Erbse
+Antwort_3=0Bohne
+Antwort_4=0Reis
+
+[23]
+FZ1=
+FZ2=Wie nennt man eine überempfindliche Reaktion des Körpers
+FZ3=gegen bestimmte Stoffe ?
+Min=64000
+Max=500000
+Antwort_1=1Allergie
+Antwort_2=0Bronchitis
+Antwort_3=0Anämie
+Antwort_4=0Leukämie
+
+[24]
+FZ1=
+FZ2=Wie nennt man erhöhte Körpertemperatur ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Fieber
+Antwort_2=0Kieber
+Antwort_3=0Zieber
+Antwort_4=0Dieber
+
+[25]
+FZ1=
+FZ2=Ab welcher Temperatur wird Fieber gefährlich ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1ab 40 Grad
+Antwort_2=0ab 45 Grad
+Antwort_3=0ab 38 Grad
+Antwort_4=0ab 36 Grad
+
+[26]
+FZ1=
+FZ2=Wie lange dauert eine normale Schwangerschaft ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=19 Monate
+Antwort_2=010 Monate
+Antwort_3=08 Monate
+Antwort_4=011 Monate
+
+[27]
+FZ1=
+FZ2=Welcher Körperteil des Kindes wird normalerweise zuerst geboren ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1der Kopf
+Antwort_2=0das Bein
+Antwort_3=0der Arm
+Antwort_4=0der Po
+
+[28]
+FZ1=
+FZ2=Warum verliert der Mensch die Milchzähne ?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=1weil Menschenzähne nicht wachsen	können
+Antwort_2=0weil sie zu weich sind
+Antwort_3=0weil sie zu lose sind
+Antwort_4=0weil sie zu klein sind
+
+[29]
+FZ1=
+FZ2=Wie nennt man die ersten Zähne ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Milchzähne
+Antwort_2=0Kaffeezähne
+Antwort_3=0Kakaozähne
+Antwort_4=0Teezähne
+
+[30]
+FZ1=
+FZ2=Was zeigt eine Gänsehaut an ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1dass man friert
+Antwort_2=0dass man neugierig ist
+Antwort_3=0dass man schwitzt
+Antwort_4=0dass man Langeweile hat
+
+[31]
+FZ1=
+FZ2=Welche Drüsen sorgen dafür, dass die Haut gefettet und somit geschmeidig bleibt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Talgdrüsen
+Antwort_2=0Bauchspeicheldrüse
+Antwort_3=0Fettdrüsen
+Antwort_4=0Schmalzdrüse
+
+[32]
+FZ1=Wie nennt man es, wenn sich winzige Muskeln, die mit den Hautvertiefungen, in
+FZ2=denen die Haare wachsen verbunden sind, sich zusammenziehen, damit keine
+FZ3=warme Luft entweicht ?
+Min=0
+Max=32000
+Antwort_1=1Gänsehaut
+Antwort_2=0Hühnerhaut
+Antwort_3=0Entenhaut
+Antwort_4=0Wachtelhaut
+
+[33]
+FZ1=
+FZ2=Wie heißt eine eitrige Entzündung am Augenlid ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Gerstenkorn
+Antwort_2=0Maiskorn
+Antwort_3=0Weizenkorn
+Antwort_4=0Roggenkorn
+
+[34]
+FZ1=
+FZ2=Wo ist die Haut am dicksten ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1an den Fußsohlen
+Antwort_2=0im Gesicht
+Antwort_3=0an den Handflächen
+Antwort_4=0am Popo
+
+[35]
+FZ1=
+FZ2=Wozu sind die Augenbrauen da ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie verhindern, dass Schweiß und	Staub in die Augen gerät.
+Antwort_2=0Sie sorgen dafür, dass eine Brille nicht	drückt.
+Antwort_3=0Sie werfen einen Schatten, damit es für	die Pupille nicht zu hell ist.
+Antwort_4=0Sie verschönern das Gesicht.
+
+[36]
+FZ1=
+FZ2=Welches ist der längste Knochen im Körper ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1der Oberschenkelknochen
+Antwort_2=0der Unterarmknochen
+Antwort_3=0der Oberarmknochen
+Antwort_4=0das Wadenbein
+
+[37]
+FZ1=
+FZ2=Was ist am Eingang zum Mittelohr aufgespannt und bildet einen
+FZ3=luftdichten Abschluss ?
+Min=0
+Max=32000
+Antwort_1=1Trommelfell
+Antwort_2=0Paukenfell
+Antwort_3=0Zwerchfell
+Antwort_4=0Kesselfell
+
+[38]
+FZ1=
+FZ2=Wie heißen die beiden Teile eines Zahnes ?
+FZ3=
+Min=2000
+Max=250000
+Antwort_1=1Krone und Wurzel
+Antwort_2=0Ast und Zweig
+Antwort_3=0Stamm und Blatt
+Antwort_4=0Rinde und Nadel
+
+[39]
+FZ1=
+FZ2=Wo befinden sich die Stimmbänder ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1im Kehlkopf
+Antwort_2=0neben der Speiseröhre
+Antwort_3=0in der Nasenhöhle
+Antwort_4=0unter dem Zwerchfell
+
+[40]
+FZ1=
+FZ2=Wie heißen die Knochen des Unterarmes ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Speiche und Elle
+Antwort_2=0Felge und Stab
+Antwort_3=0Bogen und Faden
+Antwort_4=0Stock und Haken
+
+[41]
+FZ1=
+FZ2=Wie heißt die ätzende Flüssigkeit, die von der Magenschleimhaut produziert wird ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Salzsäure
+Antwort_2=0Pfeffersäure
+Antwort_3=0Zuckersäure
+Antwort_4=0Zimtsäure
+
+[42]
+FZ1=
+FZ2=Wie nennt man es, wenn sich das Zwerchfell ruckartig zusammenzieht ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Schluckauf
+Antwort_2=0Niesen
+Antwort_3=0Schluckab
+Antwort_4=0Gähnen
+
+[43]
+FZ1=
+FZ2=Was sondert der Körper an entzündeten Stellen ab ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Eiter
+Antwort_2=0Hormone
+Antwort_3=0Blut
+Antwort_4=0Talg
+
+[44]
+FZ1=
+FZ2=Wie heißt das Abtöten von Krankheitserregern ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Desinfektion
+Antwort_2=0Destillation
+Antwort_3=0Detonation
+Antwort_4=0Denunziation
+
+[45]
+FZ1=
+FZ2=Wie ändert sich die Farbe der Haut, wenn wir frieren ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Sie wird blass.
+Antwort_2=0Sie wird schwärzlich.
+Antwort_3=0Sie wird rötlich.
+Antwort_4=0Sie wird grünlich.
+
+[46]
+FZ1=
+FZ2=Wie nennt man die Strahlen, mit denen man ins Körperinnere sehen kann ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Röntgenstrahlen
+Antwort_2=0Infrarotstrahlen
+Antwort_3=0Laserstrahlen
+Antwort_4=0Gammastrahlen
+
+[47]
+FZ1=
+FZ2=Wie heißt das chinesische Heilverfahren, bei dem Nadeln an bestimmten
+FZ3=Körperstellen eingestochen werden ?
+Min=1000
+Max=16000
+Antwort_1=1Akupunktur
+Antwort_2=0Akumulator
+Antwort_3=0Akupressur
+Antwort_4=0Akustik
+
+[48]
+FZ1=
+FZ2=Was verbindet Rachen und Mageneingang ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Speiseröhre
+Antwort_2=0Nahrungsschacht
+Antwort_3=0Essenskanal
+Antwort_4=0Futterbrücke
+
+[49]
+FZ1=
+FZ2=An welchen Stellen des Körpers ist die Haut unempfindlicher ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Rücken
+Antwort_2=0Zehen
+Antwort_3=0Finger
+Antwort_4=0Lippen
+
+[50]
+FZ1=
+FZ2=Was schützt das Ohr vor Schmutz und Bakterien ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Ohrenschmalz
+Antwort_2=0Ohrenmargarine
+Antwort_3=0Ohrenbutter
+Antwort_4=0Ohrenöl
+
+[51]
+FZ1=
+FZ2=Mit welcher Gruppe von Zähnen wird die Nahrung zermahlen ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1mit den Backenzähnen
+Antwort_2=0mit den Schneidezähnen
+Antwort_3=0mit den Eckzähnen
+Antwort_4=0mit den Weißheitszähnen
+
+[52]
+FZ1=
+FZ2=Wie viel Blut enthält der menschliche Körper ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ca. 5 l
+Antwort_2=0ca. 3 l
+Antwort_3=0ca. 2 l
+Antwort_4=0ca. 9 l
+
+[53]
+FZ1=
+FZ2=Wann fallen die Milchzähne aus ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1im Alter von 6 - 7 Jahren
+Antwort_2=0im Alter von 8 - 9 Jahren
+Antwort_3=0im Alter von 4 - 5 Jahren
+Antwort_4=0im Alter von 9 - 11 Jahren
+
+[54]
+FZ1=
+FZ2=Wie heißen die Blutgefäße, die das Blut zum Herzen zurückführen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Venen
+Antwort_2=0Vasen
+Antwort_3=0Arterien
+Antwort_4=0Turkmenen
+
+[55]
+FZ1=
+FZ2=Wie heißen die Blutgefäße, die das sauerstoffreiche Blut vom Herzen wegführen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Arterien
+Antwort_2=0Venen
+Antwort_3=0Alveolen
+Antwort_4=0Artillen
+
+[56]
+FZ1=
+FZ2=Wer braucht am meisten Schlaf ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1ein Säugling
+Antwort_2=0ein alter Mensch
+Antwort_3=0ein Jugendlicher
+Antwort_4=0ein Beamter
+
+[57]
+FZ1=
+FZ2=Wie viele verschiedene Blutgruppen gibt es ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=14
+Antwort_2=03
+Antwort_3=02
+Antwort_4=05
+
+[58]
+FZ1=
+FZ2=Was ist die härteste Substanz im Körper ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Zähne
+Antwort_2=0Knochen
+Antwort_3=0Fingernägel
+Antwort_4=0Muskeln
+
+[59]
+FZ1=
+FZ2=Wie nennt man den äußeren, sichtbaren Teil des Ohrs ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Ohrmuschel
+Antwort_2=0Ohrqualle
+Antwort_3=0Ohrschale
+Antwort_4=0Ohrschnecke
+
+[60]
+FZ1=
+FZ2=Wie nennt man das Pochen in den Arterien, das jeder Herzschlag erzeugt ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Puls
+Antwort_2=0Muls
+Antwort_3=0Sulz
+Antwort_4=0Gruls
+
+[61]
+FZ1=
+FZ2=Woraus besteht die Nasenscheidewand im vorderen Teil ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1Knorpel
+Antwort_2=0Muskelgewebe
+Antwort_3=0Knochen
+Antwort_4=0Sehnen
+

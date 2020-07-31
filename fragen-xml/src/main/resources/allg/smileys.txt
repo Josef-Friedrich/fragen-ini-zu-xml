@@ -1,0 +1,556 @@
+[Thema]
+Thema=Rund um die Smiley´s
+Fragen=50
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=: - <
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1traurig	
+Antwort_2=0heiter	
+Antwort_3=0fröhlich	
+Antwort_4=0lustig	
+
+[2]
+FZ1=
+FZ2=: )
+FZ3=
+Min=0
+Max=500
+Antwort_1=1glücklich	
+Antwort_2=0traurig	
+Antwort_3=0einsam	
+Antwort_4=0ernst	
+
+[3]
+FZ1=
+FZ2=; - ) = )
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Zähne zeigendes Lachen	
+Antwort_2=0lautes Flöten	
+Antwort_3=0müdes Gähnen	
+Antwort_4=0leises Flüstern	
+
+[4]
+FZ1=
+FZ2=: - ) ) )
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1sehr fröhlich	
+Antwort_2=0sehr traurig	
+Antwort_3=0einsam	
+Antwort_4=0gelangweilt	
+
+[5]
+FZ1=
+FZ2=: - |
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1grimmig	
+Antwort_2=0ängstlich	
+Antwort_3=0müde	
+Antwort_4=0lustig	
+
+[6]
+FZ1=    
+FZ2=: - | |
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1wütend, sehr verärgert	
+Antwort_2=0neugierig	
+Antwort_3=0unentschlossen	
+Antwort_4=0hilflos	
+
+[7]
+FZ1=
+FZ2=: - :
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1mutiertes Smiley	
+Antwort_2=0Zwillings - Smiley	
+Antwort_3=0krankes Smiley	
+Antwort_4=0Sesamstraßen - Smiley	
+
+[8]
+FZ1=
+FZ2=< < : - I    
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Ignoranten - Smiley	
+Antwort_2=0Angeber - Smiley	
+Antwort_3=0Besserwisser - Smiley	
+Antwort_4=0Taugenichts - Smiley	
+
+[9]
+FZ1=
+FZ2=( : I      
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1Eierkopf - Smiley	
+Antwort_2=0Chef - Smiley	
+Antwort_3=0aufgeweckter Smiley	
+Antwort_4=0vorsichtiger Smiley	
+
+[10]
+FZ1=
+FZ2=[ : - )
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Smiley mit Walkman	
+Antwort_2=0Smiley mit Glatze	
+Antwort_3=0Smiley mit Kopftuch	
+Antwort_4=0Smiley mit Regenschirm	
+
+[11]
+FZ1=
+FZ2=: - /
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1skeptischer Smiley	
+Antwort_2=0trauriger Smiley	
+Antwort_3=0optimistischer Smiley	
+Antwort_4=0lustiger Smiley	
+
+[12]
+FZ1=
+FZ2=< < | - )
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1chinesischer Smiley	
+Antwort_2=0australischer Smiley	
+Antwort_3=0afrikanischer Smiley	
+Antwort_4=0amerikanischer Smiley	
+
+[13]
+FZ1=
+FZ2=: - ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Smiley raucht Pfeife.	
+Antwort_2=0Smiley trinkt Tee.	
+Antwort_3=0Smiley isst Kaugummi.	
+Antwort_4=0Smiley flötet.	
+
+[14]
+FZ1=
+FZ2=| - O      
+FZ3=
+Min=500
+Max=16000
+Antwort_1=1Der Schreiber schnarcht.	
+Antwort_2=0Der Schreiber flüstert.	
+Antwort_3=0Der Schreiber ruft.	
+Antwort_4=0Der Schreiber singt.	
+
+[15]
+FZ1=
+FZ2=| - I      
+FZ3=
+Min=500
+Max=16000
+Antwort_1=1Der Schreiber ist eingeschlafen.	
+Antwort_2=0Der Schreiber ist hellwach.	
+Antwort_3=0Der Schreiber ist aufgewacht.	
+Antwort_4=0Der Schreiber ist verzweifelt.	
+
+[16]
+FZ1=
+FZ2=' : - )     
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1Smiley mit rasierter Augenbraue	
+Antwort_2=0Smiley mit Tarnkappe	
+Antwort_3=0Smiley mit Sonnenhut	
+Antwort_4=0Smiley mit Sommersprosse	
+
+[17]
+FZ1=
+FZ2=- : - )
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Punker - Smiley	
+Antwort_2=0Funker - Smiley	
+Antwort_3=0Taucher - Smiley	
+Antwort_4=0Handy - Smiley	
+
+[18]
+FZ1=
+FZ2=: - #
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=1Smiley mit Zahnspange	
+Antwort_2=0Smiley ist erkältet.	
+Antwort_3=0Smiley mit Zigarette	
+Antwort_4=0Smiley mit Strohhalm	
+
+[19]
+FZ1=
+FZ2=: - @
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1schreiendes Smiley	
+Antwort_2=0singendes Smiley	
+Antwort_3=0lachendes Smiley	
+Antwort_4=0lauschendes Smiley	
+
+[20]
+FZ1=
+FZ2=: ' - )     
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1vor Freude weinendes Smiley	
+Antwort_2=0Smiley erzählt einen Witz.	
+Antwort_3=0fröhliches Smiley	
+Antwort_4=0neugieriges Smiley	
+
+[21]
+FZ1=
+FZ2=: ' - (     
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1weinendes Smiley	
+Antwort_2=0nachdenkliches Smiley	
+Antwort_3=0schielendes Smiley	
+Antwort_4=0wartendes Smiley	
+
+[22]
+FZ1=
+FZ2=: -~ )
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1erkältetes Smiley	
+Antwort_2=0fröhliches Smiley	
+Antwort_3=0zorniges Smiley	
+Antwort_4=0verstörtes Smiley	
+
+[23]
+FZ1=
+FZ2=: - ) ~
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Der Schreiber faselt.	
+Antwort_2=0Der Schreiber ist zu ernst.	
+Antwort_3=0Der Schreiber lügt.	
+Antwort_4=0Der Schreiber übertreibt.	
+
+[24]
+FZ1=
+FZ2=: - 7      
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1ein ironisches Lächeln	
+Antwort_2=0ein fröhliches Lächeln	
+Antwort_3=0ein ermunterndes Lächeln	
+Antwort_4=0ein leises Lächeln	
+
+[25]
+FZ1=
+FZ2=: - F      
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=1Vampirsmiley mit fehlendem Zahn	
+Antwort_2=0lachender Smiley	
+Antwort_3=0pfeifender Smiley	
+Antwort_4=0zorniger Smiley	
+
+[26]
+FZ1=
+FZ2={ : - )
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Smiley mit Toupet	
+Antwort_2=0Smiley mit Kopftuch	
+Antwort_3=0Smiley mit Sturzhelm	
+Antwort_4=0Smiley mit Regenschirm	
+
+[27]
+FZ1=
+FZ2=[ : ]
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Schreiber ist ein Roboter.	
+Antwort_2=0Schreiber ist ein Angsthase.	
+Antwort_3=0Schreiber ist ein Alien.	
+Antwort_4=0Schreiber ist ein Unbekannter.	
+
+[28]
+FZ1=
+FZ2=: * )
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1betrunkener Schreiber	
+Antwort_2=0langsamer Schreiber	
+Antwort_3=0müder Schreiber	
+Antwort_4=0ratloser Schreiber	
+
+[29]
+FZ1=
+FZ2=( - :
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1Linkshänder - Smiley	
+Antwort_2=0Rückwärts - Smiley	
+Antwort_3=0Kopfstand - Smiley	
+Antwort_4=0Arabischer Smiley	
+
+[30]
+FZ1=
+FZ2=: - *
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Der Schreiber hat gerade etwas Saures	gegessen.	
+Antwort_2=0Der Schreiber hat gerade etwas	Scharfes gegessen.	
+Antwort_3=0Der Schreiber hat gerade etwas Süßes	gegessen.	
+Antwort_4=0Der Schreiber hat gerade etwas Kaltes	gegessen.	
+
+[31]
+FZ1=
+FZ2=: - Q      
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1Kettenraucher - Smiley	
+Antwort_2=0Kaugummi - Smiley	
+Antwort_3=0Autofahrer - Smiley	
+Antwort_4=0Schokoladen - Smiley	
+
+[32]
+FZ1=
+FZ2=: - D      
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1lachendes Smiley	
+Antwort_2=0gähnendes Smiley	
+Antwort_3=0weinendes Smiley	
+Antwort_4=0schreiendes Smiley	
+
+[33]
+FZ1=
+FZ2=: - ) =
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley mit Bart	
+Antwort_2=0Smiley mit Krawatte	
+Antwort_3=0Smiley mit Halstuch	
+Antwort_4=0Smiley mit Spazierstock	
+
+[34]
+FZ1=
+FZ2=: - }
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1schmunzeldes Smiley	
+Antwort_2=0schlafendes Smiley	
+Antwort_3=0weinendes Smiley	
+Antwort_4=0singendes Smiley	
+
+[35]
+FZ1=
+FZ2=: - [
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Vampirsmiley	
+Antwort_2=0Riesensmiley	
+Antwort_3=0Drachensmiley	
+Antwort_4=0Hexensmiley	
+
+[36]
+FZ1=
+FZ2=: - o      
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley ist verblüfft.	
+Antwort_2=0Smiley ist ärgerlich.	
+Antwort_3=0Smiley ist zornig.	
+Antwort_4=0Smiley ist fröhlich.	
+
+[37]
+FZ1=
+FZ2=: ^ )
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley macht dem Leser eine lange	Nase.	
+Antwort_2=0Smiley streckt dem Leser die Zunge	heraus.	
+Antwort_3=0Smiley muntert den Leser auf.	
+Antwort_4=0Smiley verneigt sich vor dem Leser.	
+
+[38]
+FZ1=
+FZ2=% - )
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley nach 12 Stunden vor dem	Bildschirm	
+Antwort_2=0Smiley nach Besuch der Achterbahn	
+Antwort_3=0Smiley nach einer Slalomfahrt	
+Antwort_4=0Smiley nach dem Wochenende	
+
+[39]
+FZ1=
+FZ2== : - (
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley für haarsträubend unangenehme	Texte	
+Antwort_2=0Smiley für haarsträubend lustige Texte	
+Antwort_3=0Smiley für haarsträubend angenehme	Texte	
+Antwort_4=0Smiley für haarsträubend spannende	Texte	
+
+[40]
+FZ1=
+FZ2== : - )
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley für haarsträubend gute Texte	
+Antwort_2=0Smiley für haarsträubend kurze Texte	
+Antwort_3=0Smiley für haarsträubend schlechte	Texte	
+Antwort_4=0Smiley für haarsträubend lange Texte	
+
+[41]
+FZ1=
+FZ2=B : - )     
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley mit Sonnenbrille auf dem Kopf	
+Antwort_2=0Smiley mit Mütze auf dem Kopf	
+Antwort_3=0Smiley mit Taucherbrille auf dem Kopf	
+Antwort_4=0Smiley mit Verband auf dem Kopf	
+
+[42]
+FZ1=
+FZ2=B - )      
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley mit Sonnenbrille	
+Antwort_2=0Smiley mit Lupe	
+Antwort_3=0Smiley mit Fernglas	
+Antwort_4=0Smiley mit Kopftuch	
+
+[43]
+FZ1=
+FZ2=8 - )      
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Smiley mit Brille	
+Antwort_2=0Smiley mit Hut	
+Antwort_3=0Smiley mit Locken	
+Antwort_4=0Smiley mit Schal	
+
+[44]
+FZ1=
+FZ2=> > ; - > >
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1eine wirklich zynische Bemerkung	
+Antwort_2=0eine wirklich dumme Bemerkung	
+Antwort_3=0eine wirklich traurige Bemerkung	
+Antwort_4=0eine wirklich fröhliche Bemerkung	
+
+[45]
+FZ1=
+FZ2=> > : - > > 
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Der Schreiber hat eine teuflische	Bemerkung gemacht.	
+Antwort_2=0Der Schreiber hat eine feige Bemerkung	gemacht.	
+Antwort_3=0Der Schreiber hat eine fröhliche	Bemerkung gemacht.	
+Antwort_4=0Der Schreiber hat eine freche	Bemerkung gemacht.	
+
+[46]
+FZ1=
+FZ2=: - > >
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Zynisches Smiley, der Schreiber hat	gerade etwas ziemlich Bissiges	geschrieben.	
+Antwort_2=0Fröhliches Smiley, der Schreiber hat	gerade etwas ziemlich Fröhliches	geschrieben.	
+Antwort_3=0Trauriges Smiley, der Schreiber hat	gerade etwas ziemlich Trauriges	geschrieben.	
+Antwort_4=0Ernstes Smiley, der Schreiber hat	gerade etwas ziemlich Ernstes	geschrieben.	
+
+[47]
+FZ1=
+FZ2=: - I      
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nicht so gut wie ein glückliches Smiley	
+Antwort_2=0besser als ein glückliches Smiley	
+Antwort_3=0genau so gut wie ein glückliches Smiley	
+Antwort_4=0das glücklichste Smiley	
+
+[48]
+FZ1=
+FZ2=: - (
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Der Schreiber ist traurig.	
+Antwort_2=0Der Schreiber ist mutig.	
+Antwort_3=0Der Schreiber ist fröhlich.	
+Antwort_4=0Der Schreiber ist müde.	
+
+[49]
+FZ1=
+FZ2=; - )
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Der Schreiber hat eine	kokette Bemerkung	gemacht.	
+Antwort_2=0Der Schreiber hat eine	neue Bemerkung	gemacht.	
+Antwort_3=0Der Schreiber hat eine	traurige Bemerkung	gemacht.	
+Antwort_4=0Der Schreiber hat eine	beleidigende Bemerkung	gemacht.	
+
+[50]
+FZ1=
+FZ2=: - )
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Smiley ist fröhlich.	
+Antwort_2=0Smiley ist zornig.	
+Antwort_3=0Smiley ist traurig.	
+Antwort_4=0Smiley ist ernst.	
+
+

@@ -1,0 +1,314 @@
+[Thema]
+Thema     = Tierquiz 1
+Fragen    = 27
+Autor       = Manfred Hartisch, 5/2001
+
+
+[1]
+FZ1       =  
+FZ2       =  Wer hat das Rotkäppchen gefressen ?
+FZ3       = 
+Min       = 0
+Max       = 300
+Antwort_1 = 0 Tiger
+Antwort_2 = 0 Löwe
+Antwort_3 = 1 Wolf
+Antwort_4 = 0 Fuchs
+
+[2]
+FZ1       =  In einem Kinderlied heißt es: 
+FZ2       =  "Fuchs du hast die .... gestohlen,"
+FZ3       =  
+Min       = 0
+Max       = 300
+Antwort_1 = 1 Gans
+Antwort_2 = 0 Ente
+Antwort_3 = 0 Maus
+Antwort_4 = 0 Amsel
+
+[3]
+FZ1       =  
+FZ2       =  Welches Tier sitzt in einem Kinderlied in einer Grube ?
+FZ3       = 
+Min       = 0
+Max       = 300
+Antwort_1 = 0 Mäuschen
+Antwort_2 = 0 Hündchen
+Antwort_3 = 1 Häschen
+Antwort_4 = 0 Entchen
+
+[4]
+FZ1       =  
+FZ2       =  Vorsicht, dieses Tier kann spucken !
+FZ3       = 
+Min       = 8000
+Max       = 32000
+Antwort_1 = 0 Marienkäfer
+Antwort_2 = 0 Feldhase
+Antwort_3 = 0 Zebra
+Antwort_4 = 1 Lama
+
+[5]
+FZ1       =  
+FZ2       =  Welches Tier ist ein Vogel ?
+FZ3       = 
+Min       = 1000000
+Max       = 1000000
+Antwort_1 = 0 Neunauge
+Antwort_2 = 1 Neuntöter
+Antwort_3 = 0 Siebenschläfer
+Antwort_4 = 0 Einhorn
+
+[6]
+FZ1       =  
+FZ2       =  Wie nennt man ein junges Wildschwein ?
+FZ3       = 
+Min       = 200
+Max       = 1000
+Antwort_1 = 1 Frischling
+Antwort_2 = 0 Ferkel
+Antwort_3 = 0 Säuchen
+Antwort_4 = 0 Schweinchen
+
+[7]
+FZ1       =  
+FZ2       =  Wie nennt man ein junges Pferd ?
+FZ3       = 
+Min       = 200
+Max       = 1000
+Antwort_1 = 0 Pferdchen
+Antwort_2 = 0 Hengst
+Antwort_3 = 0 Welpe
+Antwort_4 = 1 Fohlen
+
+[8]
+FZ1       = 
+FZ2       =  Wie nennt man einen jungen Frosch ?
+FZ3       = 
+Min       = 200
+Max       = 8000
+Antwort_1 = 0 Quaker 
+Antwort_2 = 0 Fröschli
+Antwort_3 = 1 Kaulquappe
+Antwort_4 = 0 Quapperling
+
+[9]
+FZ1       = 
+FZ2       =  Wie nennt man einen jungen Hund ?
+FZ3       = 
+Min       = 200
+Max       = 2000
+Antwort_1 = 1 Welpe
+Antwort_2 = 0 Rüde
+Antwort_3 = 0 Willi
+Antwort_4 = 0 Dackel
+
+[10]
+FZ1       = 
+FZ2       =  Welcher Vogel kann nicht fliegen ?
+FZ3       = 
+Min       = 16000
+Max       = 500000
+Antwort_1 = 1 Pinguin
+Antwort_2 = 0 Adler
+Antwort_3 = 0 Schwalbe
+Antwort_4 = 0 Fink
+
+[11]
+FZ1       =  
+FZ2       =  Welcher Bär hat ein weißes fell ?
+FZ3       = 
+Min       = 16000
+Max       = 125000
+Antwort_1 = 1 Eisbär 
+Antwort_2 = 0 Grizzly
+Antwort_3 = 0 Waschbär
+Antwort_4 = 0 Brummbär
+
+[12]
+FZ1       =  
+FZ2       =  Wie viele Höcker hat ein Dromedar ?
+FZ3       = 
+Min       = 125000
+Max       = 500000
+Antwort_1 = 0 0 
+Antwort_2 = 0 3
+Antwort_3 = 0 2
+Antwort_4 = 1 1
+
+[13]
+FZ1       =  
+FZ2       =  Wie heißt das männliche Pferd ?
+FZ3       =  
+Min       = 16000
+Max       = 500000
+Antwort_1 = 0 Schimmel
+Antwort_2 = 0 Rappe
+Antwort_3 = 0 Stute
+Antwort_4 = 1 Hengst
+
+[14]
+FZ1       =  
+FZ2       =  Was ist eine Anakonda ?
+FZ3       =  
+Min       = 32000
+Max       = 500000
+Antwort_1 = 0 eine Raubkatze
+Antwort_2 = 0 eine Giftspinne
+Antwort_3 = 1 eine Schlange
+Antwort_4 = 0 eine Möwenart
+
+[15]
+FZ1       =  
+FZ2       =  Welches Tier ist kein Säugetier ?
+FZ3       = 
+Min       = 500
+Max       = 1000
+Antwort_1 = 1 Krokodil
+Antwort_2 = 0 Wal
+Antwort_3 = 0 Maus
+Antwort_4 = 0 Hund
+
+[16]
+FZ1       = 
+FZ2       =  Welches Tier ist ein Affe ?
+FZ3       = 
+Min       = 32000
+Max       = 500000
+Antwort_1 = 1 Pavian
+Antwort_2 = 0 Grobian
+Antwort_3 = 0 Pakistan
+Antwort_4 = 0 Florian
+
+[17]
+FZ1       =  
+FZ2       =  Wie weit kann ein "Fliegender Fisch" fliegen ?
+FZ3       = 
+Min       = 64000
+Max       = 500000
+Antwort_1 = 1 ca. 180 cm
+Antwort_2 = 0 ca. 18 Meter
+Antwort_3 = 0 ca. 180 Kilometer
+Antwort_4 = 0 ca. 8 mm
+
+[18]
+FZ1       =  
+FZ2       = Welches Tier nennt man auch "Wüstenschiff" ?
+FZ3       = 
+Min       = 16000
+Max       = 500000
+Antwort_1 = 0 Gazelle
+Antwort_2 = 0 Zebra
+Antwort_3 = 0 Wühlmaus
+Antwort_4 = 1 Kamel
+
+[19]
+FZ1       =  
+FZ2       = Welche Farbe hat die Giraffenzunge ? 
+FZ3       = 
+Min       = 32000
+Max       = 500000
+Antwort_1 = 0 rosa
+Antwort_2 = 0 grün
+Antwort_3 = 1 blau
+Antwort_4 = 0 schwarz
+
+[20]
+FZ1       = 
+FZ2       =  Wie viele Beine hat eine Spinne ?
+FZ3       = 
+Min       = 1000
+Max       = 125000
+Antwort_1 = 1 8
+Antwort_2 = 0 6
+Antwort_3 = 0 4
+Antwort_4 = 0 2
+
+[21]
+FZ1       =  
+FZ2       = Welches Tier ist ausgestorben ? 
+FZ3       = 
+Min       = 500
+Max       = 32000
+Antwort_1 = 0 Leguan
+Antwort_2 = 0 Krokodil
+Antwort_3 = 1 Dinosaurier
+Antwort_4 = 0 Lapatamos
+
+[22]
+FZ1       = 
+FZ2       = Welche Hunderasse heißt auf deutsch "lecker - lecker" ? 
+FZ3       = 
+Min       = 16000
+Max       = 500000
+Antwort_1 = 1 Chow - Chow
+Antwort_2 = 0 Pekinese
+Antwort_3 = 0 Dalmatiner
+Antwort_4 = 0 Spitz
+
+[23]
+FZ1       = 
+FZ2       = Was für ein Tier ist der "Ara" ? 
+FZ3       = 
+Min       = 500
+Max       = 8000
+Antwort_1 = 0 ein seltener Hirtenhund
+Antwort_2 = 1 ein Papagei
+Antwort_3 = 0 ein scheuer Waldbewohner
+Antwort_4 = 0 ein gefährlicher Fleischfresser
+
+[24]
+FZ1       = 
+FZ2       = Welcher Vogel legt das kleinste Ei ?
+FZ3       = 
+Min       = 32000
+Max       = 250000
+Antwort_1 = 0 Amsel 
+Antwort_2 = 0 Specht
+Antwort_3 = 1 Kolibri 
+Antwort_4 = 0 Strauß
+
+[25]
+FZ1       =  
+FZ2       = Welcher Vogel legt seine Eier in fremde Nester ?
+FZ3       = 
+Min       = 8000
+Max       = 500000
+Antwort_1 = 0 Habicht
+Antwort_2 = 0 Krähe
+Antwort_3 = 1 Kuckuck
+Antwort_4 = 0 Rotkehlchen
+
+[26]
+FZ1       = 
+FZ2       = Welches Tier hat keine Beine ?
+FZ3       = 
+Min       = 500
+Max       = 8000
+Antwort_1 = 1 Schlange
+Antwort_2 = 0 Hund
+Antwort_3 = 0 Maus
+Antwort_4 = 0 Schmetterling
+
+[27]
+FZ1       =  
+FZ2       =  Wie heißt das sagenhafte Tier, das in "Loch Ness"
+FZ3       =  leben soll ?
+Min       = 64000
+Max       = 500000
+Antwort_1 = 1 Nessie
+Antwort_2 = 0 Lassie
+Antwort_3 = 0 Ressie
+Antwort_4 = 0 Urmel
+
+[28]
+FZ1       = 
+FZ2       = 
+FZ3       = 
+Min       = 2000000
+Max       = 1000000
+Antwort_1 = 
+Antwort_2 = 
+Antwort_3 = 
+Antwort_4 = 
+

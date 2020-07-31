@@ -1,0 +1,2601 @@
+[Thema]
+Thema=Deutschland
+Fragen=236
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=In welchen Fluss mündet die Ruhr ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Rhein	
+Antwort_2=0Donau	
+Antwort_3=0Weser	
+Antwort_4=0Elbe	
+
+[2]
+FZ1=
+FZ2=In welchen Fluss mündet der Lech ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Donau	
+Antwort_2=0Elbe	
+Antwort_3=0Rhein	
+Antwort_4=0Mosel	
+
+[3]
+FZ1=
+FZ2=Welches Gebäude steht in Deutschland ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Brandenburger Tor	
+Antwort_2=0Kolosseum	
+Antwort_3=0Eiffelturm	
+Antwort_4=0Schiefe Turm von Pisa	
+
+[4]
+FZ1=
+FZ2=Was bedeutet die Abkürzung  B R D  ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Bundesrepublik Deutschland	
+Antwort_2=0Berliner Republik Deutschland	
+Antwort_3=0Bunte Republik Deutschland	
+Antwort_4=0Bayrische Republik Deutschland	
+
+[5]
+FZ1=
+FZ2=Durch welches Bundesland fließt die Mosel ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Rheinland - Pfalz	
+Antwort_2=0Baden - Württemberg	
+Antwort_3=0Nordrhein - Westfalen	
+Antwort_4=0Mecklemburg - Vorpommern	
+
+[6]
+FZ1=
+FZ2=Wo befindet sich das Steinhuder Meer ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Niedersachsen	
+Antwort_2=0Baden - Württemberg	
+Antwort_3=0Sachsen	
+Antwort_4=0Schleswig - Holstein	
+
+[7]
+FZ1=
+FZ2=In welchen Fluss fließt die Tauber ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Main	
+Antwort_2=0Mosel	
+Antwort_3=0Rhein	
+Antwort_4=0Donau	
+
+[8]
+FZ1=
+FZ2=Was ist die Tauber ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1ein Nebenfluss des Mains	
+Antwort_2=0ein Volksfest in Thüringen	
+Antwort_3=0ein Weingebiet an der Mosel	
+Antwort_4=0eine Bergspitze im Harz	
+
+[9]
+FZ1=
+FZ2=Welchen Wald gibt es in Deutschland ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schwarzwald	
+Antwort_2=0Blauwald	
+Antwort_3=0Rotwald	
+Antwort_4=0Grünwald	
+
+[10]
+FZ1=
+FZ2=An welchem Fluss befindet sich die Loreley ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Rhein	
+Antwort_2=0Elbe	
+Antwort_3=0Weser	
+Antwort_4=0Donau	
+
+[11]
+FZ1=
+FZ2=Bei welcher Stadt fließen die Donau, die Ilz und der Inn zusammen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Passau	
+Antwort_2=0Peine	
+Antwort_3=0München	
+Antwort_4=0Münster	
+
+[12]
+FZ1=
+FZ2=Wo liegt das Emsland ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1im Nordwesten Niedersachsens	
+Antwort_2=0im Nordosten Sachsen - Anhalts	
+Antwort_3=0im Südosten Sachsens	
+Antwort_4=0im Südwesten Hessens	
+
+[13]
+FZ1=
+FZ2=Wie viele Seen gibt es in Schleswig - Holstein ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1über 300	
+Antwort_2=0250 - 280	
+Antwort_3=0ca. 50	
+Antwort_4=0198	
+
+[14]
+FZ1=
+FZ2=Wie viel Prozent der Gesamtfläche Deutschlands sind bewaldet ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=130 %	
+Antwort_2=020 %	
+Antwort_3=010 %	
+Antwort_4=050 %	
+
+[15]
+FZ1=
+FZ2=Bei welcher Stadt treffen Rhein und Mosel zusammen ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Koblenz	
+Antwort_2=0Köln	
+Antwort_3=0Konstanz	
+Antwort_4=0Kamen	
+
+[16]
+FZ1=
+FZ2=Welche Flüsse treffen in Koblenz aufeinander ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Rhein und Mosel	
+Antwort_2=0Rhein und Ruhr	
+Antwort_3=0Rhein und Main	
+Antwort_4=0Rhein und Wesel	
+
+[17]
+FZ1=
+FZ2=Welche Stadt ist  k e i n e  Hansestadt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Bochum	
+Antwort_2=0Bremen	
+Antwort_3=0Rostock	
+Antwort_4=0Hamburg	
+
+[18]
+FZ1=
+FZ2=Welche Insel gehört  n i c h t  zu Deutschland ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Ameland	
+Antwort_2=0Wangerooge	
+Antwort_3=0Amrum	
+Antwort_4=0Helgoland	
+
+[19]
+FZ1=
+FZ2=Welche Insel gehört  n i c h t  zu Deutschland ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Texel	
+Antwort_2=0Sylt	
+Antwort_3=0Juist	
+Antwort_4=0Rügen	
+
+[20]
+FZ1=
+FZ2=Zu welchen Inseln gehört Amrum ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1zu den Nordfriesischen Inseln	
+Antwort_2=0zu den Westfriesischen Inseln	
+Antwort_3=0zu den Ostfriesischen Inseln	
+Antwort_4=0zu den Südfriesischen Inseln	
+
+[21]
+FZ1=
+FZ2=Zu welchen Inseln gehört Borkum ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Ostfriesischen Inseln	
+Antwort_2=0zu den Westfriesischen Inseln	
+Antwort_3=0zu den Nordfriesischen Inseln	
+Antwort_4=0zu den Südfriesischen Inseln	
+
+[22]
+FZ1=
+FZ2=Zu welchen Inseln gehört Baltrum ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Ostfriesische Inseln	
+Antwort_2=0zu den Westfriesischen Inseln	
+Antwort_3=0zu den Nordfriesischen Inseln	
+Antwort_4=0zu den Südfriesischen Inseln	
+
+[23]
+FZ1=
+FZ2=Zu welchen Inseln gehört Spiekeroog ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Ostfriesischen Inseln	
+Antwort_2=0zu den Südfriesischen Inseln	
+Antwort_3=0zu den Nordfriesischen Inseln	
+Antwort_4=0zu den Westfriesischen Inseln	
+
+[24]
+FZ1=
+FZ2=Zu welchen Inseln gehört Langeoog ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Ostfriesischen Inseln	
+Antwort_2=0zu den Westfriesischen Inseln	
+Antwort_3=0zu den Nordfriesischen Inseln	
+Antwort_4=0zu den Südfriesischen Inseln	
+
+[25]
+FZ1=
+FZ2=Zu welchen Inseln gehört Wangerooge ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Ostfriesischen Inseln	
+Antwort_2=0zu den Westfriesischen Inseln	
+Antwort_3=0zu den Nordfriesischen Inseln	
+Antwort_4=0zu den Südfriesischen Inseln	
+
+[26]
+FZ1=
+FZ2=Zu welchen Inseln gehört Juist ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Ostfriesischen Inseln	
+Antwort_2=0zu den Westfriesischen Inseln	
+Antwort_3=0zu den Nordfriesischen Inseln	
+Antwort_4=0zu den Südfriesischen Inseln	
+
+[27]
+FZ1=
+FZ2=Zu welchen Inseln gehört Norderney ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Ostfriesischen Inseln	
+Antwort_2=0zu den Südfriesischen Inseln	
+Antwort_3=0zu den Nordfriesischen Inseln	
+Antwort_4=0zu den Westfriesischen Inseln	
+
+[28]
+FZ1=
+FZ2=Zu welchen Inseln gehört Föhr ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Nordfriesischen Inseln	
+Antwort_2=0zu den Südfriesischen Inseln	
+Antwort_3=0zu den Ostfriesischen Inseln	
+Antwort_4=0zu den Westfriesischen Inseln	
+
+[29]
+FZ1=
+FZ2=Zu welchen Inseln gehört Sylt ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1zu den Nordfriesischen Inseln	
+Antwort_2=0zu den Westfriesischen Inseln	
+Antwort_3=0zu den Ostfriesischen Inseln	
+Antwort_4=0zu den Südfriesischen Inseln	
+
+[30]
+FZ1=
+FZ2=In welcher Stadt steht Deutschlands höchstes Bauwerk 
+FZ3=(ein 368 m hoher Fernsehturm) ?
+Min=32000
+Max=250000
+Antwort_1=1Berlin	
+Antwort_2=0München	
+Antwort_3=0Hamburg	
+Antwort_4=0Bremen	
+
+[31]
+FZ1=
+FZ2=Welches Bundesland liegt zwischen der Nordsee und der Ostsee ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Schleswig - Holstein	
+Antwort_2=0Sachsen	
+Antwort_3=0Niedersachsen	
+Antwort_4=0Mecklemburg - Vorpommern	
+
+[32]
+FZ1=
+FZ2=Wann beginnt das Oktoberfest in München ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1im September	
+Antwort_2=0im November	
+Antwort_3=0im Oktober	
+Antwort_4=0im August	
+
+[33]
+FZ1=
+FZ2=Wo findet jedes Jahr das Oktoberfest statt ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1München	
+Antwort_2=0Berlin	
+Antwort_3=0Hamburg	
+Antwort_4=0Köln	
+
+[34]
+FZ1=
+FZ2=Welcher Fluss fließt durch Dresden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Elbe	
+Antwort_2=0Donau	
+Antwort_3=0Rhein	
+Antwort_4=0Weser	
+
+[35]
+FZ1=
+FZ2=Wie heißt das größte Industriegebiet Deutschlands ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ruhrgebiet	
+Antwort_2=0Alpenvorland	
+Antwort_3=0Niederrhein	
+Antwort_4=0Kölner Bucht	
+
+[36]
+FZ1=
+FZ2=Wie viele Einwohner hat Nordrhein - Westfalen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=117 Millionen	
+Antwort_2=023 Millionen	
+Antwort_3=010 Millionen	
+Antwort_4=013 Millionen	
+
+[37]
+FZ1=
+FZ2=Wie hoch ist der Große Arber, höchster Berg des Bayrischen Waldes ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=11.456 m	
+Antwort_2=02.405 m	
+Antwort_3=01.138 m	
+Antwort_4=0842 m	
+
+[38]
+FZ1=
+FZ2=Wie heißt der höchste Berg des Bayrischen Waldes ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Großer Arber	
+Antwort_2=0Mittleres Weil	
+Antwort_3=0Kleines Oder	
+Antwort_4=0Hohes Dann	
+
+[39]
+FZ1=
+FZ2=Wie lautet die Abkürzung für Deutschland ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1B R D	
+Antwort_2=0D S L	
+Antwort_3=0B D S	
+Antwort_4=0D E U	
+
+[40]
+FZ1=
+FZ2=Wie lautet das KFZ - Zeichen von Deutschland ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1D	
+Antwort_2=0DT	
+Antwort_3=0DD	
+Antwort_4=0DS	
+
+[41]
+FZ1=
+FZ2=Was ist der "Hamburger Dom" ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ein berühmtes Volksfest	
+Antwort_2=0ein Hamburger, der nur sonntags	verkauft wird	
+Antwort_3=0Hamburgs älteste Kirche	
+Antwort_4=0ein Schiff, auf dem im Hamburger Hafen	Gottesdienste gefeiert werden	
+
+[42]
+FZ1=
+FZ2=Wie heißt das berühmte Märchenschloss, das Ludwig II. bauen ließ ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schloss Neuschwanstein	
+Antwort_2=0Schloss Neuschwanburg	
+Antwort_3=0Schloss Altschwanstein	
+Antwort_4=0Schloss Schneewittchen	
+
+[43]
+FZ1=
+FZ2=In welcher Stadt findet die Internationale Spielwarenmesse statt ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Nürnberg	
+Antwort_2=0Hannover	
+Antwort_3=0Solingen	
+Antwort_4=0Dresden	
+
+[44]
+FZ1=
+FZ2=In welchem Jahr wurde die Berliner Mauer gebaut ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11961	
+Antwort_2=01954	
+Antwort_3=01963	
+Antwort_4=01969	
+
+[45]
+FZ1=
+FZ2=An welchem Fluss liegt Bremen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Weser	
+Antwort_2=0Mosel	
+Antwort_3=0Rhein	
+Antwort_4=0Donau	
+
+[46]
+FZ1=
+FZ2=Wie heißt ein Aussichtsfelsen im Elbsandsteingebirge südöstlich von Dresden ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Bastei	
+Antwort_2=0Loreley	
+Antwort_3=0Adlerblick	
+Antwort_4=0Schauinsland	
+
+[47]
+FZ1=
+FZ2=Welche Stadt hat den Spitznamen "Mainhattan" ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Frankfurt	
+Antwort_2=0Mannheim	
+Antwort_3=0Mainz	
+Antwort_4=0Karlsruhe	
+
+[48]
+FZ1=
+FZ2=Welche Stadt ist berühmt für die Herstellung von optischen Geräten
+FZ3=und hitzebeständigem Glas ?
+Min=125000
+Max=500000
+Antwort_1=1Jena	
+Antwort_2=0Jülich	
+Antwort_3=0Jever	
+Antwort_4=0Jagsthausen	
+
+[49]
+FZ1=
+FZ2=Wie heißt die Stadt mit den meisten Einwohnern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Berlin	
+Antwort_2=0Hamburg	
+Antwort_3=0München	
+Antwort_4=0Frankfurt	
+
+[50]
+FZ1=
+FZ2=Bei welcher Stadt steht die Wartburg ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1Eisenach	
+Antwort_2=0Gummersbach	
+Antwort_3=0Biberach	
+Antwort_4=0Allensbach	
+
+[51]
+FZ1=
+FZ2=Wo liegt die Stadt Friedrichshafen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1am Bodensee	
+Antwort_2=0an der Ostsee	
+Antwort_3=0an der Nordsee	
+Antwort_4=0am Biggesee	
+
+[52]
+FZ1=
+FZ2=Was ist der Prenzlauer Berg ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ein Stadtteil Berlins	
+Antwort_2=0ein Volksfest am Niederrhein	
+Antwort_3=0ein Berg im Harz	
+Antwort_4=0ein Berg bei Pirmasens	
+
+[53]
+FZ1=
+FZ2=Welches Bundesland hat die meisten Einwohner ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nordrhein - Westfalen	
+Antwort_2=0Sachsen	
+Antwort_3=0Bayern	
+Antwort_4=0Schleswig - Holstein	
+
+[54]
+FZ1=
+FZ2=In welcher Stadt steht die älteste Universität Deutschlands ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Heidelberg	
+Antwort_2=0München	
+Antwort_3=0Göttingen	
+Antwort_4=0Gerolstein	
+
+[55]
+FZ1=
+FZ2=Was ist die Eifel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ein deutsches Mittelgebirge	
+Antwort_2=0ein Freizeitpark in Hamburg	
+Antwort_3=0ein Nebenfluss der Ems	
+Antwort_4=0ein Industriegebiet	
+
+[56]
+FZ1=
+FZ2=Welcher Fluss fließt durch Weimar ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Ilm	
+Antwort_2=0Isar	
+Antwort_3=0Inn	
+Antwort_4=0Iller	
+
+[57]
+FZ1=
+FZ2=In welcher Stadt steht das Deutsche Museum ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1München	
+Antwort_2=0Hamburg	
+Antwort_3=0Berlin	
+Antwort_4=0Köln	
+
+[58]
+FZ1=
+FZ2=Wie heißt die östlichste Stadt Deutschlands ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Görlitz	
+Antwort_2=0Rosenheim	
+Antwort_3=0Passau	
+Antwort_4=0Rostock	
+
+[59]
+FZ1=
+FZ2=Wie hoch ist die Wasserkuppe, der höchste Berg der Rhön ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1950 m	
+Antwort_2=01.4.50 m	
+Antwort_3=0650 m	
+Antwort_4=01.230 m	
+
+[60]
+FZ1=
+FZ2=Wie heißt der höchste Berg der Rhön ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Wasserkuppe	
+Antwort_2=0Erdklumpen	
+Antwort_3=0Sandkippe	
+Antwort_4=0Feuerhügel	
+
+[61]
+FZ1=
+FZ2=Wie heißt die zweitgrößte Stadt Deutschlands ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Hamburg	
+Antwort_2=0Leipzig	
+Antwort_3=0Köln	
+Antwort_4=0Frankfurt	
+
+[62]
+FZ1=
+FZ2=Welche Stadt war nach dem zweiten Weltkrieg bis zur Wiedervereinigung geteilt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Berlin	
+Antwort_2=0München	
+Antwort_3=0Hamburg	
+Antwort_4=0Dresden	
+
+[63]
+FZ1=
+FZ2=Wie hieß der östliche Teil Deutschlands nach dem 2. Weltkrieg
+FZ3=bis zur Wiedervereinigung ?
+Min=8000
+Max=125000
+Antwort_1=1D D R	
+Antwort_2=0W D R	
+Antwort_3=0Ö D R	
+Antwort_4=0S S D	
+
+[64]
+FZ1=
+FZ2=Wann fand die Wiedervereinigung der beiden deutschen Staaten statt ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=11990	
+Antwort_2=01970	
+Antwort_3=01980	
+Antwort_4=02000	
+
+[65]
+FZ1=
+FZ2=Wie nennt man eine Art Salzwassersee an der Küste mit einer
+FZ3=ganz engen Öffnung zum Meer ?
+Min=500000
+Max=500000
+Antwort_1=1Bodden	
+Antwort_2=0Kodden	
+Antwort_3=0Modden	
+Antwort_4=0Wodden	
+
+[66]
+FZ1=
+FZ2=Wie nennt man die winzigen Marschinseln ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Halligen	
+Antwort_2=0Galligen	
+Antwort_3=0Walligen	
+Antwort_4=0Falligen	
+
+[67]
+FZ1=
+FZ2=Wie wird die Insel Mainau auch genannt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Blumeninsel	
+Antwort_2=0Urlaubsinsel	
+Antwort_3=0Palmeninsel	
+Antwort_4=0Geisterinsel	
+
+[68]
+FZ1=
+FZ2=In welchem Bundesland steht die Burg Falkenstein ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Sachsen - Anhalt	
+Antwort_2=0Rheinland - Pfalz	
+Antwort_3=0Baden - Württemberg	
+Antwort_4=0Schleswig - Holstein	
+
+[69]
+FZ1=
+FZ2=In welchem Bundesland steht das Schloss Neuschwanstein ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Bayern	
+Antwort_2=0Hessen	
+Antwort_3=0Sachsen	
+Antwort_4=0Bremen	
+
+[70]
+FZ1=
+FZ2=Wie heißt die Sage ? Der Rattenfänger von ...
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hameln	
+Antwort_2=0Hamm	
+Antwort_3=0Wesel	
+Antwort_4=0Hamburg	
+
+[71]
+FZ1=
+FZ2=In welchen Fluss mündet die Mosel ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Rhein	
+Antwort_2=0Donau	
+Antwort_3=0Elbe	
+Antwort_4=0Ems	
+
+[72]
+FZ1=
+FZ2=Wie wird der Brocken auch genannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Blocksberg	
+Antwort_2=0Feldberg	
+Antwort_3=0Bibbi	
+Antwort_4=0Eisberg	
+
+[73]
+FZ1=
+FZ2=An wie viele Länder grenzt Deutschland ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=19	
+Antwort_2=07	
+Antwort_3=08	
+Antwort_4=010	
+
+[74]
+FZ1=
+FZ2=In welchem Bundesland liegt der Teutoburger Wald ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Nordrhein - Westfalen	
+Antwort_2=0Saarland	
+Antwort_3=0Brandenburg	
+Antwort_4=0Bayern	
+
+[75]
+FZ1=
+FZ2=Wie heißt ein kleines Gebirge nördlich von Freiburg ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Kaiserstuhl	
+Antwort_2=0Kaisersessel	
+Antwort_3=0Kaisertisch	
+Antwort_4=0Kaiserbett	
+
+[76]
+FZ1=
+FZ2=Welches Bundesland grenzt an die Niederlande ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nordrhein - Westfalen	
+Antwort_2=0Rheinland - Pfalz	
+Antwort_3=0Mecklenburg - Vorpommern	
+Antwort_4=0Sachsen	
+
+[77]
+FZ1=
+FZ2=Welches Bundesland grenzt an Dänemark ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schleswig - Holstein	
+Antwort_2=0Baden - Württemberg	
+Antwort_3=0Thüringen	
+Antwort_4=0Hessen	
+
+[78]
+FZ1=
+FZ2=Welches Bundesland liegt im Osten ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Brandenburg	
+Antwort_2=0Rheinland - Pfalz	
+Antwort_3=0Saarland	
+Antwort_4=0Schleswig - Holstein	
+
+[79]
+FZ1=
+FZ2=Welches Bundesland liegt im Westen ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Nordrhein - Westfalen	
+Antwort_2=0Thüringen	
+Antwort_3=0Sachsen - Anhalt	
+Antwort_4=0Bayern	
+
+[80]
+FZ1=
+FZ2=Welches Bundesland liegt im Süden ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Bayern	
+Antwort_2=0Niedersachsen	
+Antwort_3=0Brandenburg	
+Antwort_4=0Nordrhein - Westfalen	
+
+[81]
+FZ1=
+FZ2=Welches Bundesland liegt im Norden ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1Schleswig - Holstein	
+Antwort_2=0Sachsen	
+Antwort_3=0Bayern	
+Antwort_4=0Hessen	
+
+[82]
+FZ1=
+FZ2=Welches Bundesland grenzt an Polen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Brandenburg	
+Antwort_2=0Nordrhein - Westfalen	
+Antwort_3=0Saarland	
+Antwort_4=0Rheinland - Pfalz	
+
+[83]
+FZ1=
+FZ2=Welches Bundesland grenzt an Österreich ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Bayern	
+Antwort_2=0Mecklenburg - Vorpommern	
+Antwort_3=0Hessen	
+Antwort_4=0Niedersachsen	
+
+[84]
+FZ1=
+FZ2=Welches Bundesland grenzt an Luxemburg ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Saarland	
+Antwort_2=0Bayern	
+Antwort_3=0Hessen	
+Antwort_4=0Thüringen	
+
+[85]
+FZ1=
+FZ2=Wie heißt das größte Bundesland ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Bayern	
+Antwort_2=0Brandenburg	
+Antwort_3=0Nordrhein - Westfalen	
+Antwort_4=0Schleswig - Holstein	
+
+[86]
+FZ1=
+FZ2=Wie heißt das kleinste Bundesland ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Bremen	
+Antwort_2=0Hamburg	
+Antwort_3=0Saarland	
+Antwort_4=0Hessen	
+
+[87]
+FZ1=
+FZ2=Zu welchem Bundesland gehört die Insel Helgoland ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schleswig - Holstein	
+Antwort_2=0Sachsen - Anhalt	
+Antwort_3=0Baden - Württemberg	
+Antwort_4=0Hessen	
+
+[88]
+FZ1=
+FZ2=Wie heißt die einzige deutsche Hochseeinsel ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Helgoland	
+Antwort_2=0Norderney	
+Antwort_3=0Föhr	
+Antwort_4=0Baltrum	
+
+[89]
+FZ1=
+FZ2=Wie heißt die größte deutsche Insel ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Rügen	
+Antwort_2=0Helgoland	
+Antwort_3=0Sylt	
+Antwort_4=0Amrum	
+
+[90]
+FZ1=
+FZ2=Wo fuhr 1835 die erste Eisenbahn in Deutschland ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1zwischen Nürnberg und Fürth	
+Antwort_2=0zwischen Dortmund und Bochum	
+Antwort_3=0zwischen Köln und Düsseldorf	
+Antwort_4=0zwischen Hamburg und Bremen	
+
+[91]
+FZ1=
+FZ2=Wo liegt die Niederlausitz ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1im Südosten Brandenburgs	
+Antwort_2=0im Nordwesten Bayerns	
+Antwort_3=0im Süden Hessens	
+Antwort_4=0im Osten Thüringens	
+
+[92]
+FZ1=
+FZ2=Was ist die Müritz ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1der zweitgrößte See Deutschlands	
+Antwort_2=0eine Ruine in der Eifel	
+Antwort_3=0ein Nebenfluss des Rheins	
+Antwort_4=0ein Freizeitpark in Hessen	
+
+[93]
+FZ1=
+FZ2=Wo steht das berühmte Schloss Sanssouci ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Potsdam	
+Antwort_2=0Stuttgart	
+Antwort_3=0Hannover	
+Antwort_4=0Weimar	
+
+[94]
+FZ1=
+FZ2=Wie tief ist der Bodensee ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1252 m	
+Antwort_2=052 m	
+Antwort_3=0152 m	
+Antwort_4=0352 m	
+
+[95]
+FZ1=
+FZ2=Wie heißt der größte See Deutschlands ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Bodensee	
+Antwort_2=0Rursee	
+Antwort_3=0Chiemsee	
+Antwort_4=0Steinhuder Meer	
+
+[96]
+FZ1=
+FZ2=Welcher Fluss fließt durch Hamburg ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Elbe	
+Antwort_2=0Mosel	
+Antwort_3=0Main	
+Antwort_4=0Neckar	
+
+[97]
+FZ1=
+FZ2=Welcher Fluss fließt durch Berlin ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Spree	
+Antwort_2=0Rur	
+Antwort_3=0Emscher	
+Antwort_4=0Inn	
+
+[98]
+FZ1=
+FZ2=In welches Meer mündet der Rhein ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nordsee	
+Antwort_2=0Mittelmeer	
+Antwort_3=0Ostsee	
+Antwort_4=0Kaspische Meer	
+
+[99]
+FZ1=
+FZ2=Welcher Fluss bildet teilweise die Grenze
+FZ3=zwischen Bayern und Baden - Württemberg ?
+Min=16000
+Max=250000
+Antwort_1=1Iller	
+Antwort_2=0Inn	
+Antwort_3=0Isar	
+Antwort_4=0Ems	
+
+[100]
+FZ1=
+FZ2=Wie lang ist die Havel ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1343 km	
+Antwort_2=0609 km	
+Antwort_3=0142 km	
+Antwort_4=01.256 km	
+
+[101]
+FZ1=
+FZ2=Welcher Fluss ist  k e i n  Nebenfluss der Donau ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Mosel	
+Antwort_2=0Isar	
+Antwort_3=0Wörnitz	
+Antwort_4=0Inn	
+
+[102]
+FZ1=
+FZ2=Wie lang ist die Elbe ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=11.165 km	
+Antwort_2=0653 km	
+Antwort_3=0907 km	
+Antwort_4=0393 km	
+
+[103]
+FZ1=
+FZ2=Wo steht das Brandenburger Tor ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Berlin	
+Antwort_2=0Hamburg	
+Antwort_3=0München	
+Antwort_4=0Köln	
+
+[104]
+FZ1=
+FZ2=Welche Stadt liegt im Bodensee und ist nur durch
+FZ3=eine Auto - und Eisenbahnbrücke mit dem Festland verbunden ?
+Min=4000
+Max=64000
+Antwort_1=1Lindau	
+Antwort_2=0Bodenwerda	
+Antwort_3=0Mainau	
+Antwort_4=0Hannover	
+
+[105]
+FZ1=
+FZ2=Wie heißt der Fluss, der durch den Bodensee fließt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Rhein	
+Antwort_2=0Ruhr	
+Antwort_3=0Boden	
+Antwort_4=0Isar	
+
+[106]
+FZ1=
+FZ2=Wie heißt Deutschlands größter Fluss ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Rhein	
+Antwort_2=0Ems	
+Antwort_3=0Mosel	
+Antwort_4=0Donau	
+
+[107]
+FZ1=
+FZ2=Wo entspringt die Donau ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Donaueschingen	
+Antwort_2=0Dortmund	
+Antwort_3=0Donauwörth	
+Antwort_4=0Havixbeck	
+
+[108]
+FZ1=
+FZ2=Wofür ist die Stadt Meißen bekannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Porzellan	
+Antwort_2=0Bier	
+Antwort_3=0Kohle	
+Antwort_4=0Automobilbau	
+
+[109]
+FZ1=
+FZ2=In welchem Bundesland liegt der Schweriner See ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Mecklenburg - Vorpommern	
+Antwort_2=0Thüringen	
+Antwort_3=0Brandenburg	
+Antwort_4=0Schleswig - Holstein	
+
+[110]
+FZ1=
+FZ2=An welches Land grenzt Schleswig - Holstein im Norden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Dänemark	
+Antwort_2=0Polen	
+Antwort_3=0Schweden	
+Antwort_4=0Frankreich	
+
+[111]
+FZ1=
+FZ2=In welcher Stadt steht der höchste Kirchturm der Welt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Ulm	
+Antwort_2=0Hagen	
+Antwort_3=0Münster	
+Antwort_4=0Coesfeld	
+
+[112]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Deutschland ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Berlin	
+Antwort_2=0München	
+Antwort_3=0Bonn	
+Antwort_4=0Hamburg	
+
+[113]
+FZ1=
+FZ2=Wie viele Bundesländer hat Deutschland ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=116	
+Antwort_2=012	
+Antwort_3=014	
+Antwort_4=018	
+
+[114]
+FZ1=
+FZ2=Welcher Fluss fließt durch Köln ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Rhein	
+Antwort_2=0Donau	
+Antwort_3=0Mosel	
+Antwort_4=0Weser	
+
+[115]
+FZ1=
+FZ2=Wo steht der "Michel" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hamburg	
+Antwort_2=0Frankfurt	
+Antwort_3=0München	
+Antwort_4=0Kiel	
+
+[116]
+FZ1=
+FZ2=Wo steht die Porta Nigra ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Trier	
+Antwort_2=0Münster	
+Antwort_3=0Ulm	
+Antwort_4=0Xanten	
+
+[117]
+FZ1=
+FZ2=Wo steht der Reichstag ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Berlin	
+Antwort_2=0Bonn	
+Antwort_3=0München	
+Antwort_4=0Hamburg	
+
+[118]
+FZ1=
+FZ2=Wo entspringt die Elbe ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Riesengebirge	
+Antwort_2=0Karwendelgebirge	
+Antwort_3=0Rothaargebirge	
+Antwort_4=0Wiehengebirge	
+
+[119]
+FZ1=
+FZ2=In welchen Fluss mündet die Ruhr ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Rhein	
+Antwort_2=0Ems	
+Antwort_3=0Donau	
+Antwort_4=0Main	
+
+[120]
+FZ1=
+FZ2=In welchen Fluss mündet die Lippe ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Rhein	
+Antwort_2=0Main	
+Antwort_3=0Donau	
+Antwort_4=0Weser	
+
+[121]
+FZ1=
+FZ2=In welchen Fluss mündet die Spree ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Havel	
+Antwort_2=0Diemel	
+Antwort_3=0Mosel	
+Antwort_4=0Weser	
+
+[122]
+FZ1=
+FZ2=In welchen Fluss mündet die Wörnitz ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Donau	
+Antwort_2=0Weser	
+Antwort_3=0Rhein	
+Antwort_4=0Lippe	
+
+[123]
+FZ1=
+FZ2=In welchen Fluss mündet der Inn ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Donau	
+Antwort_2=0Wupper	
+Antwort_3=0Ems	
+Antwort_4=0Elbe	
+
+[124]
+FZ1=
+FZ2=In welchen Fluss mündet die Isar ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Donau	
+Antwort_2=0Main	
+Antwort_3=0Rhein	
+Antwort_4=0Mosel	
+
+[125]
+FZ1=
+FZ2=Wo entspringt die Isar ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Karwendelgebirge	
+Antwort_2=0Wiehengebirge	
+Antwort_3=0Rothaargebirge	
+Antwort_4=0Fichtelgebirge	
+
+[126]
+FZ1=
+FZ2=Welcher Fluss fließt durch München ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Isar	
+Antwort_2=0Mosel	
+Antwort_3=0Main	
+Antwort_4=0Eder	
+
+[127]
+FZ1=
+FZ2=An welchem Fluss steht die Burg Eltz ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Mosel	
+Antwort_2=0Neckar	
+Antwort_3=0Rhein	
+Antwort_4=0Main	
+
+[128]
+FZ1=
+FZ2=Wo steht die Kaiserburg ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Nürnberg	
+Antwort_2=0München	
+Antwort_3=0Kaiserslautern	
+Antwort_4=0Hannover	
+
+[129]
+FZ1=
+FZ2=Wo steht das Schloss Charlottenburg ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Berlin	
+Antwort_2=0Wuppertal	
+Antwort_3=0Chemnitz	
+Antwort_4=0München	
+
+[130]
+FZ1=
+FZ2=In welches Meer mündet die Elbe ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nordsee	
+Antwort_2=0Mittelmeer	
+Antwort_3=0Ostsee	
+Antwort_4=0Südsee	
+
+[131]
+FZ1=
+FZ2=Welche Stadt gibt es ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Regensburg	
+Antwort_2=0Schneedorf	
+Antwort_3=0Nebelstadt	
+Antwort_4=0Hagelschloss	
+
+[132]
+FZ1=
+FZ2=In welchem Ort finden alle 10 Jahre die Passionsspiele statt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Oberammergau	
+Antwort_2=0Passau	
+Antwort_3=0Unterpfaffenhofen	
+Antwort_4=0Bayreuth	
+
+[133]
+FZ1=
+FZ2=In welcher Stadt wurde zu Zeiten der  D D R  der Trabant gebaut ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Zwickau	
+Antwort_2=0Berlin	
+Antwort_3=0Leipzig	
+Antwort_4=0Rostock	
+
+[134]
+FZ1=
+FZ2=Durch welches Bundesland fließt die Fulda ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Hessen	
+Antwort_2=0Schleswig - Holstein	
+Antwort_3=0Sachsen	
+Antwort_4=0Brandenburg	
+
+[135]
+FZ1=
+FZ2=Welche Stadt gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wolfsburg	
+Antwort_2=0Tigerburg	
+Antwort_3=0Fuchsburg	
+Antwort_4=0Löwenburg	
+
+[136]
+FZ1=
+FZ2=Wo fährt die weltberühmte Schwebebahn ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Wuppertal	
+Antwort_2=0Kassel	
+Antwort_3=0Remscheid	
+Antwort_4=0Darmstadt	
+
+[137]
+FZ1=
+FZ2=Wo werden VW - Autos gebaut ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1Wolfsburg	
+Antwort_2=0Wuppertal	
+Antwort_3=0Witten	
+Antwort_4=0Weimar	
+
+[138]
+FZ1=
+FZ2=Wo werden Opel - Autos gebaut ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Rüsselsheim	
+Antwort_2=0Hannover	
+Antwort_3=0Winterberg	
+Antwort_4=0Rosenheim	
+
+[139]
+FZ1=
+FZ2=In welcher Stadt befindet sich der größte Flughafen Deutschlands ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Frankfurt	
+Antwort_2=0Hamburg	
+Antwort_3=0Berlin	
+Antwort_4=0München	
+
+[140]
+FZ1=
+FZ2=Was ist das Wahrzeichen von Idar - Oberstein ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Felsenkirche	
+Antwort_2=0Lehmhaus	
+Antwort_3=0Steinmauer	
+Antwort_4=0Marmorbrücke	
+
+[141]
+FZ1=
+FZ2=Wie heißt eine berühmte Autorennstrecke in Rheinland - Pfalz ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nürburgring	
+Antwort_2=0Avus	
+Antwort_3=0Sachsenring	
+Antwort_4=0Kaiserring	
+
+[142]
+FZ1=
+FZ2=Wie wird die Stelle auch genannt, wo die Mosel in den Rhein fließt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Deutsche Eck	
+Antwort_2=0Deutsche Mündung	
+Antwort_3=0Deutsche Kreisel	
+Antwort_4=0Deutsche Quelle	
+
+[143]
+FZ1=
+FZ2=Was ist das Wahrzeichen von Köln ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Kölner Dom	
+Antwort_2=0Kölner Rheinbrücke	
+Antwort_3=0Kölner Schloss	
+Antwort_4=0Kölner Fernsehturm	
+
+[144]
+FZ1=
+FZ2=In welchem Bundesland befindet sich der Spreewald ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Brandenburg	
+Antwort_2=0Bayern	
+Antwort_3=0Rheinland - Pfalz	
+Antwort_4=0Thüringen	
+
+[145]
+FZ1=
+FZ2=In welchem Bundesland befindet sich die Lüneburger Heide ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Niedersachsen	
+Antwort_2=0Sachsen - Anhalt	
+Antwort_3=0Hessen	
+Antwort_4=0Brandenburg	
+
+[146]
+FZ1=
+FZ2=Was ist das Wappentier von Niedersachsen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Pferd	
+Antwort_2=0Adler	
+Antwort_3=0Löwe	
+Antwort_4=0Bär	
+
+[147]
+FZ1=
+FZ2=Wo wird das berühmteste Medikament der Welt (Aspirin) hergestellt ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Bitterfeld	
+Antwort_2=0Sauerdorf	
+Antwort_3=0Süßacker	
+Antwort_4=0Salzstadt	
+
+[148]
+FZ1=
+FZ2=In welchem Ort in Sachsen - Anhalt wurde Martin Luther geboren ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Eisleben	
+Antwort_2=0Bitterfeld	
+Antwort_3=0Magdeburg	
+Antwort_4=0Halle	
+
+[149]
+FZ1=
+FZ2=Was ist das Wappentier von Berlin ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Bär	
+Antwort_2=0Pferd	
+Antwort_3=0Adler	
+Antwort_4=0Löwe	
+
+[150]
+FZ1=
+FZ2=In welchem Bundesland gibt es das größte Schiffshebewerk der Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Brandenburg	
+Antwort_2=0Niedersachsen	
+Antwort_3=0Nordrhein - Westfalen	
+Antwort_4=0Schleswig - Holstein	
+
+[151]
+FZ1=
+FZ2=Auf welcher Insel soll der Pirat Klaus Störtebeker geboren worden sein ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Rügen	
+Antwort_2=0Sylt	
+Antwort_3=0Helgoland	
+Antwort_4=0Norderney	
+
+[152]
+FZ1=
+FZ2=Wo liegt die Insel Usedom ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Ostsee	
+Antwort_2=0Südsee	
+Antwort_3=0Nordsee	
+Antwort_4=0Westsee	
+
+[153]
+FZ1=
+FZ2=Wofür ist Lübeck bekannt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Marzipan	
+Antwort_2=0Computer	
+Antwort_3=0Autofabrik	
+Antwort_4=0Kohlebergbau	
+
+[154]
+FZ1=
+FZ2=Wo finden jährlich die Karl - May - Festspiele statt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Bad Segeberg	
+Antwort_2=0Bad Pyrmont	
+Antwort_3=0Bad Mainberg	
+Antwort_4=0Bad Rothenfelde	
+
+[155]
+FZ1=
+FZ2=In welchem Bundesland befindet sich St. Peter Ording ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Schleswig - Holstein	
+Antwort_2=0Sachsen	
+Antwort_3=0Bayern	
+Antwort_4=0Thüringen	
+
+[156]
+FZ1=
+FZ2=Wie heißt der Damm, der die Insel Sylt mit dem Festland verbindet ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Hindenburgdamm	
+Antwort_2=0Sylter Damm	
+Antwort_3=0Kaiser - Wilhelm - Damm	
+Antwort_4=0Nordseedamm	
+
+[157]
+FZ1=
+FZ2=Welche Stadt wird auch "Elbflorenz" genannt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Dresden	
+Antwort_2=0Leipzig	
+Antwort_3=0Weimar	
+Antwort_4=0Hamburg	
+
+[158]
+FZ1=
+FZ2=Welcher Fluss fließt durch Würzburg ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Main	
+Antwort_2=0Mosel	
+Antwort_3=0Rhein	
+Antwort_4=0Oder	
+
+[159]
+FZ1=
+FZ2=In welchen Fluss mündet die Saale ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Elbe	
+Antwort_2=0Ems	
+Antwort_3=0Rhein	
+Antwort_4=0Weser	
+
+[160]
+FZ1=
+FZ2=Zu welchem Bundesland gehört Dortmund ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Nordrhein - Westfalen	
+Antwort_2=0Bayern	
+Antwort_3=0Hessen	
+Antwort_4=0Sachsen	
+
+[161]
+FZ1=
+FZ2=Zu welchem Bundesland gehört Rostock ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Mecklenburg - Vorpommern	
+Antwort_2=0Brandenburg	
+Antwort_3=0Sachsen - Anhalt	
+Antwort_4=0Thüringen	
+
+[162]
+FZ1=
+FZ2=Wo liegt die Insel Rügen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Ostsee	
+Antwort_2=0Südsee	
+Antwort_3=0Nordsee	
+Antwort_4=0Westsee	
+
+[163]
+FZ1=
+FZ2=Welchen Fluss gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Oder	
+Antwort_2=0Dann	
+Antwort_3=0Und	
+Antwort_4=0Wenn	
+
+[164]
+FZ1=
+FZ2=Welcher Fluss fließt entlang der deutsch - polnischen Grenze ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Oder	
+Antwort_2=0Donau	
+Antwort_3=0Rhein	
+Antwort_4=0Elbe	
+
+[165]
+FZ1=
+FZ2=Wo liegt Cuxhaven ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1an der Nordsee	
+Antwort_2=0am Bodensee	
+Antwort_3=0an der Ostsee	
+Antwort_4=0am Königssee	
+
+[166]
+FZ1=
+FZ2=In welches Meer mündet die Elbe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nordsee	
+Antwort_2=0Steinhuder Meer	
+Antwort_3=0Ostsee	
+Antwort_4=0Mittelmeer	
+
+[167]
+FZ1=
+FZ2=In welchem Bundesland liegt das Ruhrgebiet ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Nordrhein - Westfalen	
+Antwort_2=0Baden - Württemberg	
+Antwort_3=0Schleswig - Holstein	
+Antwort_4=0Sachsen - Anhalt	
+
+[168]
+FZ1=
+FZ2=Wo befinden sich viele Maare ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1in der Eifel	
+Antwort_2=0in Niederbayern	
+Antwort_3=0im Sauerland	
+Antwort_4=0In Berlin	
+
+[169]
+FZ1=
+FZ2=Was sind Maare ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Vulkanseen	
+Antwort_2=0Teile des Wattenmeeres	
+Antwort_3=0Hochmoore	
+Antwort_4=0schneebedeckte Gipfel	
+
+[170]
+FZ1=
+FZ2=Was ist der Hunsrück ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1ein Mittelgebirge	
+Antwort_2=0ein Fluss in Brandenburg	
+Antwort_3=0ein Fischmarkt in Bremen	
+Antwort_4=0ein Fernsehturm in München	
+
+[171]
+FZ1=
+FZ2=Wo liegt die Oberlausitz ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Sachsen	
+Antwort_2=0Saarland	
+Antwort_3=0Hessen	
+Antwort_4=0Bayern	
+
+[172]
+FZ1=
+FZ2=Welchen Fluss gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Lippe	
+Antwort_2=0Auge	
+Antwort_3=0Mund	
+Antwort_4=0Ohr	
+
+[173]
+FZ1=
+FZ2=Welcher Fluss fließt durch Nürnberg ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Pregnitz	
+Antwort_2=0Lippe	
+Antwort_3=0Mosel	
+Antwort_4=0Main	
+
+[174]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Schleswig - Holstein ?
+Min=32000
+Max=32000
+Antwort_1=1Kiel	
+Antwort_2=0Düsseldorf	
+Antwort_3=0Berlin	
+Antwort_4=0Schwerin	
+
+[175]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Mecklenburg - Vorpommern ?
+Min=32000
+Max=32000
+Antwort_1=0München	
+Antwort_2=1Schwerin	
+Antwort_3=0Wiesbaden	
+Antwort_4=0Stuttgart	
+
+[176]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Brandenburg ?
+Min=32000
+Max=32000
+Antwort_1=0Berlin	
+Antwort_2=1Potsdam	
+Antwort_3=0Hamburg	
+Antwort_4=0Köln	
+
+[177]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Sachsen - Anhalt ?
+Min=32000
+Max=32000
+Antwort_1=0München	
+Antwort_2=0Bremen	
+Antwort_3=1Magdeburg	
+Antwort_4=0Kiel	
+
+[178]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Niedersachsen ?
+Min=32000
+Max=32000
+Antwort_1=0Bremen	
+Antwort_2=1Hannover	
+Antwort_3=0Düsseldorf	
+Antwort_4=0München	
+
+[179]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Nordrhein - Westfalen ?
+Min=32000
+Max=32000
+Antwort_1=0Schwerin	
+Antwort_2=0Dresden	
+Antwort_3=0Hamburg	
+Antwort_4=1Düsseldorf	
+
+[180]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Rheinland - Pfalz ?
+Min=32000
+Max=32000
+Antwort_1=0Wiesbaden	
+Antwort_2=0München	
+Antwort_3=1Mainz	
+Antwort_4=0Bremen	
+
+[181]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Hessen ?
+Min=32000
+Max=32000
+Antwort_1=0Kiel	
+Antwort_2=0Hannover	
+Antwort_3=1Wiesbaden	
+Antwort_4=0Magdeburg	
+
+[182]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Thüringen ?
+Min=32000
+Max=32000
+Antwort_1=0Dresden	
+Antwort_2=0Kiel	
+Antwort_3=0Weimar	
+Antwort_4=1Erfurt	
+
+[183]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Sachsen ?
+Min=32000
+Max=32000
+Antwort_1=0München	
+Antwort_2=1Dresden	
+Antwort_3=0Frankfurt	
+Antwort_4=0Berlin	
+
+[184]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Bayern ?
+Min=32000
+Max=32000
+Antwort_1=0Bremen	
+Antwort_2=0Berlin	
+Antwort_3=0Magdeburg	
+Antwort_4=1München	
+
+[185]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Baden - Württemberg ?
+Min=32000
+Max=32000
+Antwort_1=0Wiesbaden	
+Antwort_2=1Stuttgart	
+Antwort_3=0Mainz	
+Antwort_4=0Düsseldorf	
+
+[186]
+FZ1=
+FZ2=Wie heißt die Hauptstadt vom
+FZ3=Saarland ?
+Min=32000
+Max=32000
+Antwort_1=0Schwerin	
+Antwort_2=0Stuttgart	
+Antwort_3=0Wiesbaden	
+Antwort_4=1Saarbrücken	
+
+[187]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Bremen ?
+Min=32000
+Max=32000
+Antwort_1=1Bremen	
+Antwort_2=0Hamburg	
+Antwort_3=0Hannover	
+Antwort_4=0Berlin	
+
+[188]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Hamburg ?
+Min=32000
+Max=32000
+Antwort_1=1Hamburg	
+Antwort_2=0Hannover	
+Antwort_3=0Wiesbaden	
+Antwort_4=0Dresden	
+
+[189]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von
+FZ3=Berlin ?
+Min=32000
+Max=32000
+Antwort_1=1Berlin	
+Antwort_2=0Bremen	
+Antwort_3=0Potsdam	
+Antwort_4=0Kiel	
+
+[190]
+FZ1=
+FZ2=Stuttgart ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Bayern	
+Antwort_2=0Berlin	
+Antwort_3=1Baden - Württemberg	
+Antwort_4=0Brandenburg	
+
+[191]
+FZ1=
+FZ2=München ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Baden - Württemberg	
+Antwort_2=0Rheinland - Pfalz	
+Antwort_3=0Nordrhein - Westfalen	
+Antwort_4=1Bayern	
+
+[192]
+FZ1=
+FZ2=Berlin ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Thüringen	
+Antwort_2=0Bremen	
+Antwort_3=0Bayern	
+Antwort_4=1Berlin	
+
+[193]
+FZ1=
+FZ2=Potsdam ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Bremen	
+Antwort_2=0Hamburg	
+Antwort_3=0Hessen	
+Antwort_4=1Brandenburg	
+
+[194]
+FZ1=
+FZ2=Bremen ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Bayern	
+Antwort_2=0Niedersachsen	
+Antwort_3=1Bremen	
+Antwort_4=0Berlin	
+
+[195]
+FZ1=
+FZ2=Hamburg ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Niedersachsen	
+Antwort_2=1Hamburg	
+Antwort_3=0Schleswig - Holstein	
+Antwort_4=0Sachsen	
+
+[196]
+FZ1=
+FZ2=Wiesbaden ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Hessen	
+Antwort_2=0Hamburg	
+Antwort_3=0Thüringen	
+Antwort_4=0Bayern	
+
+[197]
+FZ1=
+FZ2=Schwerin ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Niedersachsen	
+Antwort_2=1Mecklenburg - Vorpommern	
+Antwort_3=0Nordrehein - Westfalen	
+Antwort_4=0Schleswig - Holstein	
+
+[198]
+FZ1=
+FZ2=Hannover ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Sachsen	
+Antwort_2=0Schleswig - Holstein	
+Antwort_3=1Niedersachsen	
+Antwort_4=0Nordrhein - Westfalen	
+
+[199]
+FZ1=
+FZ2=Düsseldorf ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Nordrhein - Westfalen	
+Antwort_2=0Bayern	
+Antwort_3=0Thüringen	
+Antwort_4=0Mecklenburg - Vorpommern	
+
+[200]
+FZ1=
+FZ2=Mainz ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Sachsen	
+Antwort_2=0Bayern	
+Antwort_3=1Rheinland - Pfalz	
+Antwort_4=0Baden - Württemberg	
+
+[201]
+FZ1=
+FZ2=Saarbrücken ist die Hauptstadt vom ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Bayern	
+Antwort_2=0Sachsen	
+Antwort_3=0Hessen	
+Antwort_4=1Saarland	
+
+[202]
+FZ1=
+FZ2=Dresden ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Schleswig - Holstein	
+Antwort_2=1Sachsen	
+Antwort_3=0Baden - Württemberg	
+Antwort_4=0Nordrhein - Westfalen	
+
+[203]
+FZ1=
+FZ2=Magdeburg ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Berlin	
+Antwort_2=0Hessen	
+Antwort_3=1Sachsen - Anhalt	
+Antwort_4=0Niedersachsen	
+
+[204]
+FZ1=
+FZ2=Kiel ist die Hauptstadt von ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Bremen	
+Antwort_2=0Bayern	
+Antwort_3=0Mecklenburg - Vorpommern	
+Antwort_4=1Schleswig - Holstein	
+
+[205]
+FZ1=
+FZ2=Wie wird der Bodensee auch genannt ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Schwäbische Meer	
+Antwort_2=0Hessische Meer	
+Antwort_3=0Bayrische Meer	
+Antwort_4=0Fränkische Meer	
+
+[206]
+FZ1=
+FZ2=Wie hoch ist der Wilseder Berg, die höchste Erhebung in der Lüneburger Heide ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1169 m	
+Antwort_2=087 m	
+Antwort_3=0205 m	
+Antwort_4=0141 m	
+
+[207]
+FZ1=
+FZ2=Wie heißt die höchste Erhebung in der Lüneburger Heide ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Wilseder Berg	
+Antwort_2=0Bilseder Berg	
+Antwort_3=0Milscheider Berg	
+Antwort_4=0Linseder Berg	
+
+[208]
+FZ1=
+FZ2=In welcher Stadt findet der berühmte Christkindlmarkt statt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Nürnberg	
+Antwort_2=0Freiburg	
+Antwort_3=0München	
+Antwort_4=0Bamberg	
+
+[209]
+FZ1=
+FZ2=Welchen Berg gibt es in der Eifel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hohe Acht	
+Antwort_2=0Tiefe Fünf	
+Antwort_3=0Niedrige Sieben	
+Antwort_4=0Hohe Zehn	
+
+[210]
+FZ1=
+FZ2=Wie hoch ist die Hohe Acht in der Eifel ?
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=1747 m	
+Antwort_2=01.982 m	
+Antwort_3=01.357 m	
+Antwort_4=02.371 m	
+
+[211]
+FZ1=
+FZ2=Wie heißt der höchste Berg in der Eifel ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Hohe Acht	
+Antwort_2=0Schneeberg	
+Antwort_3=0Feldberg	
+Antwort_4=0Watzmann	
+
+[212]
+FZ1=
+FZ2=Was ist der Kahle Asten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Berg in NRW	
+Antwort_2=0ein Leuchtturm bei Hamburg	
+Antwort_3=0eine See in der Eifel	
+Antwort_4=0ein Naturschutzgebiet in Bayern	
+
+[213]
+FZ1=
+FZ2=Wie hoch ist der Kahle Asten ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1841 m	
+Antwort_2=02.145 m	
+Antwort_3=01.206 m	
+Antwort_4=0571 m	
+
+[214]
+FZ1=
+FZ2=Wie heißt der höchste Berg des Rothaargebirges ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Kahler Asten	
+Antwort_2=0Feldberg	
+Antwort_3=0Brocken	
+Antwort_4=0Zugspitze	
+
+[215]
+FZ1=
+FZ2=In welchem Bundesland liegt das Rothaargebirge ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Nordrhein - Westfalen	
+Antwort_2=0Sachsen	
+Antwort_3=0Thüringen	
+Antwort_4=0Baden - Württemberg	
+
+[216]
+FZ1=
+FZ2=Wie hoch ist das Nebelhorn ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=12.224 m	
+Antwort_2=02.999 m	
+Antwort_3=01.113 m	
+Antwort_4=01.309 m	
+
+[217]
+FZ1=
+FZ2=Welchen Berg gibt es ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Watzmann	
+Antwort_2=0Glatzmann	
+Antwort_3=0Schatzmann	
+Antwort_4=0Witzmann	
+
+[218]
+FZ1=
+FZ2=Wie hoch ist der Watzmann ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=12.713 m	
+Antwort_2=01.653 m	
+Antwort_3=02.007 m	
+Antwort_4=01.295 m	
+
+[219]
+FZ1=
+FZ2=Wie hoch ist der Feldberg im Schwarzwald ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11.493 m	
+Antwort_2=02.865 m	
+Antwort_3=01.045 m	
+Antwort_4=0972 m	
+
+[220]
+FZ1=
+FZ2=Wie heißt der höchste Berg im Schwarzwald ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Feldberg	
+Antwort_2=0Heldberg	
+Antwort_3=0Geldberg	
+Antwort_4=0Zeltberg	
+
+[221]
+FZ1=
+FZ2=Wo befindet sich das Fichtelgebirge ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1im Nordosten von Bayern	
+Antwort_2=0im Westen von Nordrhein - Westfalen	
+Antwort_3=0im Süden von Rheinland - Pfalz	
+Antwort_4=0im Norden von Brandenburg	
+
+[222]
+FZ1=
+FZ2=Wie hoch ist die Zugspitze ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=12.963 m	
+Antwort_2=01.008 m	
+Antwort_3=01.582 m	
+Antwort_4=02.367 m	
+
+[223]
+FZ1=
+FZ2=Wie heißt der höchste Berg Deutschlands ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Zugspitze	
+Antwort_2=0Speerspitze	
+Antwort_3=0Autospitze	
+Antwort_4=0Pfeilspitze	
+
+[224]
+FZ1=
+FZ2=Wie hoch ist der Brocken im Harz ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11.142 m	
+Antwort_2=0563 m	
+Antwort_3=02.078 m	
+Antwort_4=0239 m	
+
+[225]
+FZ1=
+FZ2=Wie heißt der höchste Berg im Harz ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Brocken	
+Antwort_2=0Stückchen	
+Antwort_3=0Krümel	
+Antwort_4=0Hocker	
+
+[226]
+FZ1=
+FZ2=Wie viele Einwohner hat Deutschland ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 82 Millionen	
+Antwort_2=0ca. 62 Millionen	
+Antwort_3=0ca. 72 Millionen	
+Antwort_4=0ca. 92 Millionen	
+
+[227]
+FZ1=
+FZ2=Welchen See nennt man auch das "Bayrische Meer" ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Chiemsee	
+Antwort_2=0Königssee	
+Antwort_3=0Tegernsee	
+Antwort_4=0Starnberger See	
+
+[228]
+FZ1=
+FZ2=Wie heißt der größte See in Bayern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Chiemsee	
+Antwort_2=0Tegernsee	
+Antwort_3=0Bodensee	
+Antwort_4=0Starnberger See	
+
+[229]
+FZ1=
+FZ2=Wie hoch ist der Schneeberg im Fichtelgebirge ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=11.053 m	
+Antwort_2=01.985 m	
+Antwort_3=01.534 m	
+Antwort_4=01.798 m	
+
+[230]
+FZ1=
+FZ2=Wie heißt der höchste Berg des Fichtelgebirges ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Schneeberg	
+Antwort_2=0Nebelberg	
+Antwort_3=0Regenberg	
+Antwort_4=0Hagelberg	
+
+[231]
+FZ1=
+FZ2=An welchem Fluss liegt Magdeburg ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Elbe	
+Antwort_2=0Rhein	
+Antwort_3=0Weser	
+Antwort_4=0Donau	
+
+[232]
+FZ1=
+FZ2=Welches Bundesland liegt nicht am Meer ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Bayern	
+Antwort_2=0Schleswig - Holstein	
+Antwort_3=0Niedersachsen	
+Antwort_4=0Mecklenburg - Vorpommern	
+
+[233]
+FZ1=
+FZ2=Wo liegt das Sauerland ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1im Südosten von Nordrhein - Westfalen	
+Antwort_2=0im Südwesten von Bayern	
+Antwort_3=0im Norden von Sachsen	
+Antwort_4=0im Westen vom Saarland	
+
+[234]
+FZ1=
+FZ2=Welches Land gibt es in Deutschland ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Sauerland	
+Antwort_2=0Bitterland	
+Antwort_3=0Süßland	
+Antwort_4=0Salzland	
+
+[235]
+FZ1=
+FZ2=Wie lang ist der Rhein ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=11.320 km	
+Antwort_2=0870 km	
+Antwort_3=01.890 km	
+Antwort_4=02.460 km	
+
+[236]
+FZ1=
+FZ2=Welcher Fluss fließt durch Nürnberg ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Pregnitz	
+Antwort_2=0Lippe	
+Antwort_3=0Mosel	
+Antwort_4=0Main	
+

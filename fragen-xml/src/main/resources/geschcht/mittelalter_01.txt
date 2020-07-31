@@ -1,0 +1,315 @@
+[Thema]
+Thema=Könige und Kaiser im Mittelalter
+Fragen=27
+Autor=A. Kobbe und Klasse 7b 3/2002
+
+[1]
+FZ1=
+FZ2=Wer wurde 800 zum Kaiser gekrönt?
+FZ3=
+Min=0
+Max=200
+Antwort_1=0Otto
+Antwort_2=1Karl
+Antwort_3=0Widukind
+Antwort_4=0Pippin
+
+[2]
+FZ1=
+FZ2=Wann starb Karl der Große?
+FZ3=
+Min=100
+Max=300
+Antwort_1=0742
+Antwort_2=0800
+Antwort_3=0813
+Antwort_4=1814
+
+[3]
+FZ1=
+FZ2=Wo wurden Otto I. und Karl d. Gr. gekrönt?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Mainz
+Antwort_2=0Hamburg
+Antwort_3=1Aachen
+Antwort_4=0Köln
+
+[4]
+FZ1=
+FZ2=Wie alt war Otto, als er zum König gekrönt wurde?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=020
+Antwort_2=022
+Antwort_3=123
+Antwort_4=025
+
+[5]
+FZ1=
+FZ2=Otto ließ sich in Aachen krönen, weil
+FZ3=300
+Min=2000
+Max=
+Antwort_1=1Karl d. Gr. sein Vorbild war
+Antwort_2=0er Karl hasste
+Antwort_3=0sein Vater dort gekrönt wurde
+Antwort_4=0sein Onkel es wollte
+
+[6]
+FZ1=
+FZ2=Wer erhielt 843 Karls Reich?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0seine drei Söhne
+Antwort_2=1seine drei Enkel
+Antwort_3=0seine drei Brüder
+Antwort_4=0seine drei Neffen
+
+[7]
+FZ1=
+FZ2=Wann wurde Otto I. König?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1936
+Antwort_2=0930
+Antwort_3=0900
+Antwort_4=0800
+
+[8]
+FZ1=
+FZ2=Welches war Karls Lieblingspfalz?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Aachen
+Antwort_2=0Sachsen
+Antwort_3=0Franken
+Antwort_4=0Worms
+
+[9]
+FZ1=
+FZ2=Vor welchem Volk musste Karl sein Reich schützen?
+FZ3=
+Min=500
+Max=32000
+Antwort_1=1Sachsen
+Antwort_2=0Angeln
+Antwort_3=0Franken
+Antwort_4=0Goten
+
+[10]
+FZ1=
+FZ2=Welchem Volkstamm gehörte Otto an?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0Franken
+Antwort_2=1Sachsen
+Antwort_3=0Bayern
+Antwort_4=0Schwaben
+
+[11]
+FZ1=
+FZ2=Vor welchem Volk musste Otto I. sein Reich schützen?
+FZ3=
+Min=300
+Max=125000
+Antwort_1=0Rumänen
+Antwort_2=1Ungarn
+Antwort_3=0Sachsen
+Antwort_4=0Thüringer
+
+[12]
+FZ1=
+FZ2=Wo fand Ottos Schlacht gegen die Ungarn statt?
+FZ3=
+Min=2000
+Max=25000
+Antwort_1=1Lechfeld
+Antwort_2=0Lachfeld
+Antwort_3=0Lochfeld
+Antwort_4=0Lichtfeld
+
+[13]
+FZ1=
+FZ2=Wen setzte Otto als seine Verwalter ein?
+FZ3=
+Min=1000
+Max=500000
+Antwort_1=0seine Frau
+Antwort_2=0den Papst
+Antwort_3=0Stammesherzöge
+Antwort_4=1geistliche Würdenträger
+
+[14]
+FZ1=
+FZ2=Bischöfe ernennen heißt mit einem Fremdwort
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0Investition
+Antwort_2=0Inventur
+Antwort_3=0Inventar
+Antwort_4=1Investitur
+
+[15]
+FZ1=
+FZ2=Was wollte Papst Gregor VII. abschaffen?
+FZ3=
+Min=64000
+Max=25000
+Antwort_1=0Laienprediger
+Antwort_2=1Laieninvestitur
+Antwort_3=0Laienschauspieler
+Antwort_4=0Laieninvestition
+
+[15]
+FZ1=
+FZ2=Welcher König wollte Papst Gregor VII. absetzen?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0HeinrichI.
+Antwort_2=0HeinrichII.
+Antwort_3=0HeinrichIII.
+Antwort_4=1HeinrichIV.
+
+[16]
+FZ1=
+FZ2=Aus welchem Kloster stammte Papst Gregor VII.?
+FZ3=
+Min=500
+Max=32000
+Antwort_1=1Cluny
+Antwort_2=0Sankt Peter
+Antwort_3=0Clüny
+Antwort_4=0Sankt Moritz
+
+[17]
+FZ1=
+FZ2=Wohin ging Heinrich IV. barfuß?
+FZ3=
+Min=300
+Max=32000
+Antwort_1=1Canossa
+Antwort_2=0Kolossa
+Antwort_3=0Rom
+Antwort_4=0Aachen
+
+[18]
+FZ1=
+FZ2=Wieviele Punkte enthielt die Forderung Papst Gregors VII.?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=127
+Antwort_2=029
+Antwort_3=031
+Antwort_4=033
+
+[19]
+FZ1=
+FZ2=Warum wurde Heinrich IV. abgesetzt?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0weil er zu jung war
+Antwort_2=1weil der Papst ihn gebannt hatte
+Antwort_3=0weil er zu viele Kriege führte
+Antwort_4=0weil er zu alt war
+
+[20]
+FZ1=
+FZ2=Wie hieß Papst Gregor VII. vor seiner Wahl?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Hildebrand
+Antwort_2=0Widukind
+Antwort_3=0Herwig
+Antwort_4=0Atilla
+
+[21]
+FZ1=
+FZ2=In welcher Jahreszeit war Heinrich IV. in Canossa?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Frühling
+Antwort_2=0Sommer
+Antwort_3=0Herbst
+Antwort_4=1Winter
+
+[22]
+FZ1       = Wie heißt die landwirtschaftliche Wirtschaftsform 
+FZ2       = seit Karl dem Großen? 
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 0Einfelderwirtschaft
+Antwort_2 = 0Zweifelderwirtschaft
+Antwort_3 = 1Dreifelderwirtschaft
+Antwort_4 = 0Vierfelderwirtschaft
+
+[23]
+FZ1       = Diese dienten den deutschen Königen des Mittelalters 
+FZ2       = als wechselnde Wohnsitze
+FZ3       = und waren über das ganze Reich verstreut.
+Min       = 1000
+Max       = 125000
+Antwort_1 = 0Pfand
+Antwort_2 = 0Pfarre
+Antwort_3 = 1Pfalz
+Antwort_4 = 0Pferch
+
+[24]
+FZ1       = Der Karlspreis wird verliehen 
+FZ2       = 
+FZ3       = 
+Min       = 500
+Max       = 16000
+Antwort_1 = 0an Männer, die Karl heißen
+Antwort_2 = 0an Menschen aus Karlsruhe 
+Antwort_3 = 1für Verdienste um die Einigung Europas
+Antwort_4 = 0für Verdienste in der Stadt Karlsruhe
+
+[25]
+FZ1=
+FZ2=Welcher König setzte drei Päpste ab?
+FZ3=
+Min=64000
+Max=25000
+Antwort_1=0Heinrich I.
+Antwort_2=0Heinrich II.
+Antwort_3=1Heinrich III.
+Antwort_4=0Heinrich IV.
+
+[26]
+FZ1=
+FZ2=Was bezeichnet man als Ende 
+FZ3=  des Investiturstreits?
+Min=32000
+Max=250000
+Antwort_1=1Wormser Konkordat
+Antwort_2=0Westfälischer Frieden
+Antwort_3=0Einigung von Canossa
+Antwort_4=0Kompromiss von Aachen
+
+[27]
+FZ1=
+FZ2=Unter welchem König kam es zum
+FZ3= Ende des Investiturstreits? 
+Min=4000
+Max=16000
+Antwort_1=0Heinrich IV.
+Antwort_2=1Heinrich V.
+Antwort_3=0Otto IV.
+Antwort_4=0Otto V.
+
+
+

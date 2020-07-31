@@ -1,0 +1,175 @@
+[Thema]
+Thema     = Gut zu wissen II 
+Fragen    = 15
+Autor     = Alfons Deters, 3/2002
+
+
+[1]
+FZ1       =
+FZ2       =  Die Regelblutungen dauern meist
+FZ3       = 
+Min       = 0
+Max       = 100
+Antwort_1 = 01 Woche
+Antwort_2 = 014 Tage 
+Antwort_3 = 04 - 8 Stunden
+Antwort_4 = 14 - 5 Tage
+
+[2]
+FZ1       = 
+FZ2       = Woraus besteht die Wand der Gebärmutter?
+FZ3       = 
+Min       = 100
+Max       = 200
+Antwort_1 = 0aus Knorpel
+Antwort_2 = 1aus Muskeln
+Antwort_3 = 0aus Adern
+Antwort_4 = 0aus Flimmerhärchen
+
+[3]
+FZ1       = 
+FZ2       =Was passiert beim Eisprung mit
+FZ3       =     der Eizelle?
+Min       = 200
+Max       = 300
+Antwort_1 = 1Sie gelangt in den Eileitertrichter
+Antwort_2 = 0Sie stirbt ab und löst sich auf
+Antwort_3 = 0Sie nistet sich ein
+Antwort_4 = 0Sie teilt sich
+
+[4]
+FZ1       = 
+FZ2       =Was gelangt bei der Regelblutung nach außen?
+FZ3       = 
+Min       = 300
+Max       = 500
+Antwort_1 = 0Harn bzw Urin
+Antwort_2 = 1Blut und Schleimhautreste
+Antwort_3 = 0Eizellen und Tampons
+Antwort_4 = 0Blut und Samenzellen
+
+
+[5]
+FZ1       = Welche Reihenfolge beschreibt den Weg
+FZ2       =  der Samenzellen beim Samenerguss
+FZ3       =           richtig?
+Min       = 500
+Max       = 1000
+Antwort_1 = 0Hoden Glied Bläschendrüse 
+Antwort_2 = 1Nebenhoden Samenleiter Harnröhre
+Antwort_3 = 0Glied Samenleiter Vorsteherdrüse
+Antwort_4 = 0Hoden  Glied Nebenhoden
+
+[6]
+FZ1       = Welcher Ausdruck für die Regelblutung
+FZ2       =          ist falsch?
+FZ3       = 
+Min       = 1000
+Max       = 2000
+Antwort_1 = 0Periode
+Antwort_2 = 1Einnistung
+Antwort_3 = 0Menstruation
+Antwort_4 = 0"Die Tage"
+
+[7]
+FZ1       =Sichtbares Zeichen der Geschlechtsreife?
+FZ2       =        beim Jungen ist ...
+FZ3       = 
+Min       = 2000
+Max       = 4000
+Antwort_1 = 1der erste Samenerguss
+Antwort_2 = 0das Wachstum der Hoden
+Antwort_3 = 0das Wachstum des Gliedes
+Antwort_4 = 0eine beginnende Achselbehaarung
+
+[8]
+FZ1       = Welche Reihenfolge beschreibt den Weg 
+FZ2       = der Samenzellen beim Geschlechtsverkehr
+FZ3       =           richtig?
+Min       = 4000
+Max       = 8000
+Antwort_1 = 1Scheide Gebärmutter Eileiter 
+Antwort_2 = 0Scheide Gebärmutter Eierstock
+Antwort_3 = 0Scheide Eileiter Gebärmutterwand
+Antwort_4 = 0Scheide Kitzler Bläschendrüse
+
+[9]
+FZ1       = Wie lange dauert der Abstand zwischen zwei
+FZ2       =       Blutungen im Durchschnitt?
+FZ3       =
+Min       = 8000
+Max       = 16000
+Antwort_1 = 05 Wochen
+Antwort_2 = 04 - 5 Tage
+Antwort_3 = 128 Tage
+Antwort_4 = 0zwei Wochen
+
+[10]
+FZ1       =Welcher Satz bezüglich der Harnröhre 
+FZ2       =         ist falsch?
+FZ3       =  
+Min       = 16000
+Max       = 32000
+Antwort_1 = 0Sie beginnt bei der Harnblase
+Antwort_2 = 0Sie durchzieht das Glied
+Antwort_3 = 0Sie ist von Schwellkörpern umgeben
+Antwort_4 = 1Sie verbindet Hoden und Harnblase
+
+[11]
+FZ1       = Welche Reihenfolge beschreibt den Weg
+FZ2       =     der Regelblutung zutreffend?
+FZ3       = 
+Min       = 32000
+Max       = 64000
+Antwort_1 = 0Eileiter Gebärmutter Scheide
+Antwort_2 = 0Scheide Gebärmutterhöhle
+Antwort_3 = 0Gebärmutterhöhle Eileitertrichter
+Antwort_4 = 1Gebärmutterhöhle Scheide
+
+
+[12]
+FZ1       =Wo befinden sich die Erbmerkmale, die an das
+FZ2       =  gezeugte Kind weitergegeben werden?
+FZ3       = 
+Min       = 64000
+Max       = 125000
+Antwort_1 = 0in den Flimmerhärchen
+Antwort_2 = 1in den Zellkernen von Samen und Ei
+Antwort_3 = 0im Fruchtwasser
+Antwort_4 = 0in der Gebärmutterschleimhaut
+
+
+
+[13]
+FZ1       =Wohin gelangt das Keimbläschen etwa
+FZ2       =   6 Tage nach der Befruchtung?
+FZ3       =
+Min       = 125000
+Max       = 2500000
+Antwort_1 = 0Mit der Regelblutung nach außen
+Antwort_2 = 1In die Gebärmutterschleimhaut
+Antwort_3 = 0In den Scheideneingng
+Antwort_4 = 0In die Vorhaut
+
+[14]
+FZ1       =Was wird  bei einer Verhütung verhindert?
+FZ2       =
+FZ3       = 
+Min       = 250000
+Max       = 500000
+Antwort_1 = 1Verschmelzung von Ei- und Samenzelle
+Antwort_2 = 0Der Orgasmus
+Antwort_3 = 0Die Pubertät
+Antwort_4 = 0Der Geschlechtsverkehr
+
+
+[15]
+FZ1       =Mit welchem männlichen Organ ist der Eierstock?
+FZ2       =       am ehesten vergleichbar?  
+FZ3       = 
+Min       = 500000
+Max       = 1000000
+Antwort_1 = 0Vorsteherdrüse
+Antwort_2 = 0Nebenhoden
+Antwort_3 = 1Hoden
+Antwort_4 = 0Bläschendrüse

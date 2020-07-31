@@ -1,0 +1,313 @@
+[Thema]
+Thema=vocabulario
+Fragen=28
+Autor=L. Bartel, Stand 22.12.01
+
+[1]
+FZ1=
+FZ2=Wer?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1¿Quién?
+Antwort_2=0¿Dónde?
+Antwort_3=0¿Cuál?
+Antwort_4=0¿Qué?
+
+[2]
+FZ1=
+FZ2=Junge
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1chico
+Antwort_2=0chique
+Antwort_3=0chica
+Antwort_4=0choque
+
+[3]
+FZ1=
+FZ2=aus Barcelona
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1de B.
+Antwort_2=0en B.
+Antwort_3=0from B.
+Antwort_4=0a B.
+
+[4]
+FZ1=
+FZ2=Studentin
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1la estudiante
+Antwort_2=0la estudiosa
+Antwort_3=0el estudiante
+Antwort_4=0la estudia
+
+[5]
+FZ1=
+FZ2=heute
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1hoy
+Antwort_2=0hoj
+Antwort_3=0hoi
+Antwort_4=0hui
+
+[6]
+FZ1=
+FZ2=Geburtstag
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1el cumpleaños
+Antwort_2=0el compleanios
+Antwort_3=0la cumpleañas
+Antwort_4=0el complementario
+
+[7]
+FZ1=
+FZ2=Wie heißt du?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1¿Cómo te llamas?
+Antwort_2=0¿Cómo te llama?
+Antwort_3=0¿Cómo tu llamas?
+Antwort_4=0¿Cómo llamas?
+
+[8]
+FZ1=
+FZ2=lo contrario de "también"
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1tampoco
+Antwort_2=0tanpoco
+Antwort_3=0muy poco
+Antwort_4=0tal vez
+
+[9]
+FZ1=
+FZ2=la persona que sirve la comida en un restaurante
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1el camarero
+Antwort_2=0el carpintero
+Antwort_3=0el calamares
+Antwort_4=0el comidero
+
+[10]
+FZ1=
+FZ2=lo contrario de "bajo"
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1alto
+Antwort_2=0joven
+Antwort_3=0apto
+Antwort_4=0pequeño
+
+[11]
+FZ1=
+FZ2=Haar
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1el pelo
+Antwort_2=0el pero
+Antwort_3=0el belo
+Antwort_4=0el perro
+
+[12]
+FZ1=
+FZ2=lo contrario de "moreno"
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1rubio
+Antwort_2=0rojo
+Antwort_3=0negro
+Antwort_4=0largo
+
+[13]
+FZ1=
+FZ2=un hombre de Italia
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1italiano
+Antwort_2=0italiane
+Antwort_3=0italo
+Antwort_4=0itale
+
+[14]
+FZ1=
+FZ2=lo contrario de "guapo"
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1feo
+Antwort_2=0bonito
+Antwort_3=0guapa
+Antwort_4=0corto
+
+[15]
+FZ1=
+FZ2=Ich glaube nicht...
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Creo que no...
+Antwort_2=0Crio que no...
+Antwort_3=0Cree que no...
+Antwort_4=0Sí, ahora voy...
+
+[16]
+FZ1=
+FZ2=lo contrario de "bien"
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1mal
+Antwort_2=0también
+Antwort_3=0malo
+Antwort_4=0tampoco
+
+[17]
+FZ1=
+FZ2=Trinkglas
+FZ3=
+Min=2000
+Max=500000
+Antwort_1=1el vaso
+Antwort_2=0el paso
+Antwort_3=0el vase
+Antwort_4=0el pase
+
+[18]
+FZ1=
+FZ2=Warum?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1¿Por qué?
+Antwort_2=0¿Porque?
+Antwort_3=0¿Porqué?
+Antwort_4=0¿Por que?
+
+[19]
+FZ1=
+FZ2=¡Gracias!
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1De nada.
+Antwort_2=0Por favor.
+Antwort_3=0De rien.
+Antwort_4=0Prego.
+
+[20]
+FZ1=
+FZ2=mientras (+ Verb)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1während
+Antwort_2=0nie
+Antwort_3=0immer
+Antwort_4=0jetzt
+
+[21]
+FZ1=
+FZ2=lo contrario de "cerca"
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1lejos
+Antwort_2=0nunca
+Antwort_3=0circa
+Antwort_4=0arriba
+
+[22]
+FZ1=
+FZ2=lo contrario de "malo"
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1bueno
+Antwort_2=0nada
+Antwort_3=0bien
+Antwort_4=0bieno
+
+[23]
+FZ1=
+FZ2=alle
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1todos
+Antwort_2=0al
+Antwort_3=0todo
+Antwort_4=0ellos
+
+[24]
+FZ1=
+FZ2=Tut mir Leid.
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1Lo siento.
+Antwort_2=0Qué tal.
+Antwort_3=0Hasta luego.
+Antwort_4=0De nada.
+
+[25]
+FZ1=
+FZ2=lo contrario de "rico"
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1pobre
+Antwort_2=0poor
+Antwort_3=0povre
+Antwort_4=0popre
+
+[26]
+FZ1=
+FZ2=aus dem Bus steigen
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1bajar del autobús
+Antwort_2=0cerrar el autobús
+Antwort_3=0subir al autobús
+Antwort_4=0subir del coche
+
+[27]
+FZ1=
+FZ2=Um wieviel Uhr...?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1¿A qué hora...?
+Antwort_2=0¿Por...?
+Antwort_3=0¿En qué hora...?
+Antwort_4=0¿A cuántas horas...?
+
+[28]
+FZ1=
+FZ2=tausend
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1mil
+Antwort_2=0mille
+Antwort_3=0mile
+Antwort_4=0cien
+

@@ -1,0 +1,1613 @@
+[Thema]
+Thema=Chemie
+Fragen=146
+
+
+[1]
+FZ1=
+FZ2=#Definitionen
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+
+[2]
+FZ1=
+FZ2=Woran kann ein Chemiker einen Stoff erkennen ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1an seinen Eigenschaften
+Antwort_2=0an der Verpackung
+Antwort_3=0Es steht doch drauf!
+Antwort_4=0Das lernen Chemiker.
+
+[3]
+FZ1=
+FZ2=Dieses Laborgerät gibt es:
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Erlenmeyerkolben
+Antwort_2=0Buchenmeyerkolben
+Antwort_3=0Fichtenmeyerkolben
+Antwort_4=0Eichenmeyerkolben
+
+[4]
+FZ1=
+FZ2=In welcher Tabelle stehen alle chemischen Grundstoffe?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Periodensystem der Elemente
+Antwort_2=0Strafmaßnahmen bei	Verstößen im Straßenverkehr
+Antwort_3=0Umrechnungstabelle Euro - US-Dollar
+Antwort_4=0physiologische Wirkung des Alkohols
+
+[5]
+FZ1=
+FZ2=Ein Reinstoff ist
+FZ3=
+Min=0
+Max=100
+Antwort_1=1ein Stoff, der sich nur	auf chemischen Wege trennen lässt.
+Antwort_2=0ein Reinigungsmittel.
+Antwort_3=0ein Element, das in	flüssigem Zustand farblos ist.
+Antwort_4=0ein Kristall.
+
+[6]
+FZ1=
+FZ2=Wichtig für die Sicherheit im Labor:
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Schutzbrille
+Antwort_2=0Kugelschreiber
+Antwort_3=0Arbeitsheft
+Antwort_4=0Becherglas
+
+[7]
+FZ1=
+FZ2=Häufigstes Element in der Natur:
+FZ3=
+Min=200
+Max=300
+Antwort_1=1Kohlenstoff
+Antwort_2=0Gold
+Antwort_3=0Platin
+Antwort_4=0Uran
+
+[8]
+FZ1=Wichtige Stoffklasse, von der man aber nur
+FZ2=eine bestimmte Verbindung zu sich nehmen sollte:
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Alkohol
+Antwort_2=0Metall
+Antwort_3=0Feststoff
+Antwort_4=0Säure
+
+[9]
+FZ1=
+FZ2=Gasgemisch aus Stickstoff, Sauerstoff und anderen Gasen:
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Luft
+Antwort_2=0Erdgas
+Antwort_3=0Edelgas
+Antwort_4=0Sumpfgas
+
+[10]
+FZ1=
+FZ2=Wie nennt man den Übergang von gasförmig zu flüssig?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Kondensation
+Antwort_2=0Komplikation
+Antwort_3=0Kommunion
+Antwort_4=0Konfrontation
+
+[11]
+FZ1=
+FZ2=Welches Element ist für eine Verbrennung notwendig?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Sauerstoff
+Antwort_2=0Stickstoff
+Antwort_3=0Wasserstoff
+Antwort_4=0Kohlenstoffdioxid
+
+[12]
+FZ1=
+FZ2=Woran kann man Zucker und Salz unterscheiden ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1am Geschmack
+Antwort_2=0am Geruch
+Antwort_3=0an der Farbe
+Antwort_4=0am Aussehen
+
+[13]
+FZ1=
+FZ2=Welche Farbe hat Schwefel?
+FZ3=
+Min=100
+Max=300
+Antwort_1=0blau
+Antwort_2=0grün
+Antwort_3=1gelb
+Antwort_4=0weiß
+
+[14]
+FZ1=
+FZ2=Wie erhält man Salz aus Salzwasser?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1eindampfen
+Antwort_2=0sieben
+Antwort_3=0weggießen
+Antwort_4=0es bitten, daraus zu kommen
+
+[15]
+FZ1=
+FZ2=Was sind chemische Stoffe?
+FZ3=
+Min=100
+Max=300
+Antwort_1=0alle Stoffe,	die man im Labor finden kann
+Antwort_2=0alle Säuren
+Antwort_3=0alle ätzenden Stoffe
+Antwort_4=1alle Stoffe, die es gibt.
+
+[16]
+FZ1=
+FZ2=Berechnet sich aus Masse / Volumen:
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Dichte
+Antwort_2=0Temperatur
+Antwort_3=0Farbe
+Antwort_4=0Aggregatzustand
+
+[17]
+FZ1=
+FZ2=Wer hat den Gasbrenner erfunden?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Bunsen
+Antwort_2=0Döbereiner
+Antwort_3=0Meyer
+Antwort_4=0Wöhler
+
+[18]
+FZ1=
+FZ2=Wie heißt das dünne Glasgerät, in dem man häufig Reaktionen durchführt?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Reagenzglas
+Antwort_2=0Bierglas
+Antwort_3=0Fensterglas
+Antwort_4=0Kristallglas
+
+[19]
+FZ1=
+FZ2="Fe" ist das Zeichen für
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Eisen
+Antwort_2=0Feuer
+Antwort_3=0Fehler
+Antwort_4=0Metall
+
+[20]
+FZ1=
+FZ2=Welchen Aggregatzustand hat Wasserstoff bei Raumtemperatur?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1gasförmig
+Antwort_2=0flüssig
+Antwort_3=0fest
+Antwort_4=0gar keinen
+
+[21]
+FZ1=
+FZ2=Gefriert man eine bestimmte Wassermenge, verhält sich das Volumen so:
+FZ3=
+Min=200
+Max=300
+Antwort_1=1Es vergrößert sich.
+Antwort_2=0Es verringert sich.
+Antwort_3=0Es bleibt gleich.
+Antwort_4=0Es verschwindet ganz.
+
+[22]
+FZ1=
+FZ2=Welcher dieser Stoffe hat das größte spezifische Gewicht?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Blei
+Antwort_2=0Aluminium
+Antwort_3=0Wasser
+Antwort_4=0Luft
+
+[23]
+FZ1=
+FZ2=Wie heißt das Reaktionsprodukt aus Kupfer und Schwefel?
+FZ3=
+Min=100
+Max=300
+Antwort_1=0Kupferoxid
+Antwort_2=0Schwefeloxid
+Antwort_3=1Kupfersulfid
+Antwort_4=0Kupfersulfat
+
+
+[24]
+FZ1=
+FZ2=Was ist keine chemische Reaktion?
+FZ3=
+Min=200
+Max=300
+Antwort_1=0Auslösen einer Brausetablette
+Antwort_2=0Löschen von Tinte	mit einem Tintenkiller
+Antwort_3=0Backen eines Kuchens
+Antwort_4=1Mischen von Cola und Fanta
+
+[25]
+FZ1=
+FZ2=Was ist eine chemische Reaktion?
+FZ3=
+Min=200
+Max=300
+Antwort_1=1Verdauung
+Antwort_2=0Farbanstrich eines Hauses
+Antwort_3=0Mischen von Sand und Mörtel
+Antwort_4=0Anrühren von Kuchenteig
+
+[26]
+FZ1=
+FZ2=Was ist Stickstoff nicht?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1explosiv
+Antwort_2=0gasförmig
+Antwort_3=0farblos
+Antwort_4=0geschmacklos
+
+[27]
+FZ1=
+FZ2=Welche Eigenschaft trifft auf Kupfer zu?
+FZ3=
+Min=100
+Max=300
+Antwort_1=1leitet den elektrischen Strom
+Antwort_2=0silber glänzend
+Antwort_3=0kann nicht oxidieren
+Antwort_4=0niedriger Schmelzpunkt
+
+[28]
+FZ1=
+FZ2=Setzt man Gas unter Druck,
+FZ3=
+Min=500
+Max=500
+Antwort_1=1verringert sich sein Volumen.
+Antwort_2=0erhöht sich sein Volumen.
+Antwort_3=0explodiert es.
+Antwort_4=0kühlt es ab.
+
+[29]
+FZ1=
+FZ2=Kein Trennverfahren
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Rühren
+Antwort_2=0Filtern
+Antwort_3=0Destillieren
+Antwort_4=0Dekantieren
+
+[30]
+FZ1=
+FZ2=Trennverfahren
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Sieben
+Antwort_2=0Kochen
+Antwort_3=0Schütteln
+Antwort_4=0Rühren
+
+[31]
+FZ1=
+FZ2=Die Synthese zweier Stoffe ist
+FZ3=
+Min=300
+Max=300
+Antwort_1=0das Aufbewahren zweier Stoffe in einem Behälter
+Antwort_2=0das Mischen zweier Stoffe
+Antwort_3=1die chemische Reaktion zweier Stoffe zu einem neuen  Stoff
+Antwort_4=0die qualitative Untersuchung zweier Stoffe
+
+[32]
+FZ1=
+FZ2=In welche beiden Arten lassen sich alle Gemische einteilen?
+FZ3=
+Min=300
+Max=500
+Antwort_1=1homogen und heterogen
+Antwort_2=0homophob und heterophop
+Antwort_3=0hydrophop und hydrophil
+Antwort_4=0elektrophile und nukleophil
+
+[33]
+FZ1=
+FZ2=Wie nennt man den direkten Übergang eines Feststoffes zu Gas?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Sublimation
+Antwort_2=0Resublimation
+Antwort_3=0Kontraktion
+Antwort_4=0Rekontraktion
+
+[34]
+FZ1=
+FZ2=Wie heißt die Trennung von Alkohol und Wasser aus Wein?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0Sieben
+Antwort_2=0Magnetisierung
+Antwort_3=0Erhitzen
+Antwort_4=1Destillation
+
+[35]
+FZ1=
+FZ2=Was passt hier nicht rein?
+FZ3=
+Min=100
+Max=300
+Antwort_1=1Feuer
+Antwort_2=0Erde
+Antwort_3=0Wasser
+Antwort_4=0Luft
+
+[36]
+FZ1=
+FZ2=Die chemische Zersetzung einer Verbindung nennt man
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Analyse
+Antwort_2=0Synthese
+Antwort_3=0Katalyse
+Antwort_4=0Hydrierung
+
+[37]
+FZ1=
+FZ2=Wasserstoffoxid ist der systematische Name für
+FZ3=
+Min=200
+Max=300
+Antwort_1=1Wasser
+Antwort_2=0Luft
+Antwort_3=0NH3
+Antwort_4=0H2
+
+[38]
+FZ1=
+FZ2=Für welches Element steht der Buchstabe "C"?
+FZ3=
+Min=300
+Max=500
+Antwort_1=1Kohlenstoff
+Antwort_2=0Calcium
+Antwort_3=0Eisen
+Antwort_4=0Wasser
+
+[39]
+FZ1=
+FZ2=Wofür steht das Gefahrstoffzeichen C?
+FZ3=
+Min=300
+Max=500
+Antwort_1=0giftig
+Antwort_2=1ätzend
+Antwort_3=0brennbar
+Antwort_4=0umweltgefährlich
+
+[40]
+FZ1=
+FZ2=Die Masse der Ausgangsstoffe ist gegenüber der Masse der Endstoffe
+FZ3=
+Min=300
+Max=500
+Antwort_1=0halb so groß
+Antwort_2=1genauso groß
+Antwort_3=0doppelt so groß
+Antwort_4=0nicht bestimmbar
+
+[41]
+FZ1=Wie nennt man die Energie, die nötig ist, 
+FZ2=um eine Reaktion zu starten?
+FZ3=
+Min=300
+Max=500
+Antwort_1=0Startenergie
+Antwort_2=1Aktivierungsenergie
+Antwort_3=0Kernenergie
+Antwort_4=0Lösungsenergie
+
+[42]
+FZ1=
+FZ2=Wie heißt der Vorgang, bei dem sich ein Gas im Raum ausbreitet?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0Konfusion
+Antwort_2=0Sublimation
+Antwort_3=1Diffusion
+Antwort_4=0Ionisierung
+
+[43]
+FZ1=
+FZ2=Wie verhält sich die Masse, wenn man Eisenwolle verbrennt?
+FZ3=
+Min=300
+Max=500
+Antwort_1=0Sie wird kleiner.
+Antwort_2=0Sie bleibt gleich.
+Antwort_3=1Sie wird größer.
+Antwort_4=0Sie wird genau doppelt so groß.
+
+[44]
+FZ1=
+FZ2=Bei Zimmertemperatur flüssig
+FZ3=
+Min=300
+Max=500
+Antwort_1=1Quecksilber
+Antwort_2=0Kerzenwachs
+Antwort_3=0Zinn
+Antwort_4=0Blei
+
+[45]
+FZ1=
+FZ2=Eisensulfat entsteht bei der Reaktion von
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Eisen und Schefelsäure
+Antwort_2=0Eisen und Schwefel
+Antwort_3=0Eisen und Salzsäure
+Antwort_4=0Eisen und Salpetersäure
+
+[46]
+FZ1=
+FZ2=Eisensulfid entsteht bei der Reaktion von
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Eisen und Schwefel
+Antwort_2=0Eisen und Sauerstoff
+Antwort_3=0Eisen und Phosphor
+Antwort_4=0Eisen und Schwefelsäure
+
+[47]
+FZ1=
+FZ2=Eine Reaktion, bei der Energie abgegeben wird, heißt
+FZ3=
+Min=300
+Max=500
+Antwort_1=0endotherm
+Antwort_2=1exotherm
+Antwort_3=0thermisch
+Antwort_4=0energetisch
+
+[48]
+FZ1=
+FZ2=Kleinste Teilchen eines Elements heißen
+FZ3=
+Min=500
+Max=1000
+Antwort_1=1Atome
+Antwort_2=0Moleküle
+Antwort_3=0Ionen
+Antwort_4=0Gase
+
+[49]
+FZ1=
+FZ2=Welche Formel passt zu Kohlenstoffdioxid?
+FZ3=
+Min=500
+Max=1000
+Antwort_1=1CO2
+Antwort_2=0H2O
+Antwort_3=0NH3
+Antwort_4=0CuO
+
+
+[50]
+FZ1=
+FZ2=Ein Gemisch aus Feststoff und Flüssigkeit heißt
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0Emulsion
+Antwort_2=0Nebel
+Antwort_3=0Rauch
+Antwort_4=1Suspension
+
+[51]
+FZ1=
+FZ2=Was ist ein Beispiel für eine Emulsion?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0Mineralwasser
+Antwort_2=0Rauch
+Antwort_3=0Bohnen und Erbsen
+Antwort_4=1Milch
+
+[52]
+FZ1=
+FZ2=Welches Gemisch ist eine Lösung?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Apfelsaft
+Antwort_2=0Sahne
+Antwort_3=0Sekt
+Antwort_4=0Milch
+
+[53]
+FZ1=Was passiert, wenn man ein Gemisch aus einem Teil Sauerstoff und
+FZ2=zwei Teilen Wasserstoff entzündet?
+FZ3=
+Min=500
+Max=1000
+Antwort_1=1Es explodiert mit scharfem Knall.
+Antwort_2=0nichts
+Antwort_3=0Das hängt von der Teperatur ab.
+Antwort_4=0Es brennt langsam ab.
+
+[54]
+FZ1=
+FZ2=Kupfersulfat in wässriger Lösung ist
+FZ3=
+Min=1000
+Max=2000
+Antwort_1=1blau
+Antwort_2=0grün
+Antwort_3=0rot
+Antwort_4=0rostbraun
+
+[55]
+FZ1=
+FZ2=Radioaktive Elemente 
+FZ3=
+Min=500
+Max=1000
+Antwort_1=0aktivieren die Elemente	Radon und Radium
+Antwort_2=0sind reaktionsträge
+Antwort_3=0empfangen Radiowellen
+Antwort_4=1zerfallen und senden	dabei Strahlen aus
+
+[56]
+FZ1=
+FZ2=Die Aufnahme von Sauerstoff nennt man
+FZ3=
+Min=500
+Max=1000
+Antwort_1=0Redoxreaktion
+Antwort_2=0Hydrierung
+Antwort_3=1Oxidation
+Antwort_4=0Reduktion
+
+[57]
+FZ1=
+FZ2=Wie heißt das Gegenstück zur Säure?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Lauge
+Antwort_2=0Seife
+Antwort_3=0Lösung
+Antwort_4=0Emulgator
+
+[58]
+FZ1=
+FZ2=Wie weist man Wasserstoff nach?
+FZ3=
+Min=1000
+Max=2000
+Antwort_1=1Knallgasprobe
+Antwort_2=0Glimmspanprobe
+Antwort_3=0Flammenfärbung
+Antwort_4=0mit wasserfreiem Kupfersulfat
+
+[59]
+FZ1=
+FZ2=In welcher Hauptgruppe stehen die Edelgase?
+FZ3=
+Min=1000
+Max=2000
+Antwort_1=18.
+Antwort_2=01.
+Antwort_3=02.
+Antwort_4=07.
+
+[60]
+FZ1=
+FZ2=Wie entwickelt sich die Temperatur bei einer exothermen Reaktion?
+FZ3=
+Min=2000
+Max=4000
+Antwort_1=1Sie steigt.
+Antwort_2=0Sie sinkt.
+Antwort_3=0Sie bleibt konstant.
+Antwort_4=0Sie schwankt um	die Ausgangstemperatur.
+
+[61]
+FZ1=Ein langes dünnes Glasgerät mit Skala, aus dem man
+FZ2=Flüssigkeiten tröpfchenweise herauslassen kann, nennt man
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Bürette
+Antwort_2=0Pipette
+Antwort_3=0Messzylinder
+Antwort_4=0U-Rohr
+
+[62]
+FZ1=
+FZ2=Was ist kein Element?
+FZ3=
+Min=2000
+Max=4000
+Antwort_1=1Bronze
+Antwort_2=0Kupfer
+Antwort_3=0Zink
+Antwort_4=0Zinn
+
+[63]
+FZ1=
+FZ2=Der Schmelzpunkt von Salzwasser gegenüber Wasser ist
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1niedriger
+Antwort_2=0gleich
+Antwort_3=0höher
+Antwort_4=0doppelt so hoch
+
+[64]
+FZ1=
+FZ2=Cola-Dose und Cola light-Dose in Wasser:
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Cola unten, Cola light oben
+Antwort_2=0Cola oben, Cola light unten
+Antwort_3=0beide oben
+Antwort_4=0beide unten
+
+[65]
+FZ1=
+FZ2=Welcher dieser Stoffe hat das geringste spezifische Gewicht ?
+FZ3=
+Min=1000
+Max=2000
+Antwort_1=1Wasserstoff
+Antwort_2=0Helium
+Antwort_3=0Sauerstoff
+Antwort_4=0Stickstoff
+
+[66]
+FZ1=Welcher Stoff ist gemeint:
+FZ2=glänzt metallisch, rot-braun, leitet Elektrizität gut, weicher als Eisen
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Kupfer
+Antwort_2=0Gold
+Antwort_3=0Blei
+Antwort_4=0Aluminium
+
+[67]
+FZ1=Welcher Stoff ist gemeint:
+FZ2=glänzt metallisch, leitet Elektrizität gut, ist bei Zimmertemperatur flüssig
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Quecksilber
+Antwort_2=0Silber
+Antwort_3=0Gold
+Antwort_4=0Eisen
+
+[68]
+FZ1=Welcher Stoff ist gemeint:
+FZ2=gelb, spröde, leitet die Elektrizität nicht, verbrennt mit blass-blauer Flamme
+FZ3=zu einem stechend riechendem Gas
+Min=2000
+Max=2000
+Antwort_1=1Schwefel
+Antwort_2=0Phosphor
+Antwort_3=0Gold
+Antwort_4=0Kaliumdichromat
+
+[69]
+FZ1=
+FZ2=Ein Stoff, der die Aktivierungsenergie herabsetzt, heißt
+FZ3=
+Min=2000
+Max=4000
+Antwort_1=1Katalysator
+Antwort_2=0Reaktor
+Antwort_3=0Oxalat
+Antwort_4=0Alaun
+
+[70]
+FZ1=
+FZ2=Was ist kein Indikator?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=0Lackmus
+Antwort_2=0Phenolphthalein
+Antwort_3=0Rotkohl
+Antwort_4=1Acetaldehyd
+
+[71]
+FZ1=
+FZ2=Welche Säure kommt nicht in Lebensmitteln vor?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Acetylsalicylsäure
+Antwort_2=0Zitronensäure
+Antwort_3=0Phosphorsäure
+Antwort_4=0Biersäure
+
+[72]
+FZ1=
+FZ2=Ein Metall, das keinen elektrischen Strom leitet, heißt
+FZ3=
+Min=2000
+Max=4000
+Antwort_1=1Isolator
+Antwort_2=0Nicht-Metall
+Antwort_3=0Reformer
+Antwort_4=0Indikator
+
+[73]
+FZ1=
+FZ2=Welcher Stoff löst sich nicht in Wasser?
+FZ3=
+Min=2000
+Max=4000
+Antwort_1=1Mehl
+Antwort_2=0Zucker
+Antwort_3=0Kochsalz
+Antwort_4=0Vitamin C
+
+[74]
+FZ1=
+FZ2=Das Rosten von Eisen ist eine
+FZ3=
+Min=2000
+Max=4000
+Antwort_1=1Oxidation
+Antwort_2=0Analyse
+Antwort_3=0Titration
+Antwort_4=0Substitution
+
+[75]
+FZ1=
+FZ2=Wie groß ist die Masse von einem Wasserstoffmolekül?
+FZ3=
+Min=2000
+Max=4000
+Antwort_1=01 u
+Antwort_2=12 u
+Antwort_3=01 g/mol
+Antwort_4=01 g
+
+[76]
+FZ1=
+FZ2=Welcher Stoff macht den größten Anteil der Atmosphäre aus ?
+FZ3=
+Min=4000
+Max=8000
+Antwort_1=1Stickstoff
+Antwort_2=0Sauerstoff
+Antwort_3=0Kohlendioxid
+Antwort_4=0Schwefeldioxid
+
+[77]
+FZ1=
+FZ2=Ein Element passt nicht zu den anderen:
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Calcium
+Antwort_2=0Lithium
+Antwort_3=0Natrium
+Antwort_4=0Kalium
+
+[78]
+FZ1=
+FZ2=Ein Element passt nicht zu den anderen:
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Kohlenstoff
+Antwort_2=0Wasserstoff
+Antwort_3=0Sauerstoff
+Antwort_4=0Stickstoff
+
+[79]
+FZ1=
+FZ2=Ein Element passt nicht zu den anderen:
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Helium
+Antwort_2=0Fluor
+Antwort_3=0Chlor
+Antwort_4=0Brom
+
+[80]
+FZ1=
+FZ2=Ein Element passt nicht zu den anderen:
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Chlor
+Antwort_2=0Helium
+Antwort_3=0Neon
+Antwort_4=0Argon
+
+[81]
+FZ1=
+FZ2=Welches ist kein Oxidationsmittel?
+FZ3=
+Min=4000
+Max=8000
+Antwort_1=1Kupfer
+Antwort_2=0Kupferoxid
+Antwort_3=0Kaliumpermanganat
+Antwort_4=0Wasserstoffperoxid
+
+[82]
+FZ1=
+FZ2=Welcher Buchstabe steht nicht für ein chemisches Element?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1A
+Antwort_2=0B
+Antwort_3=0F
+Antwort_4=0N
+
+[83]
+FZ1=
+FZ2=Welches dieser Elemente ist kein Metall?
+FZ3=
+Min=4000
+Max=8000
+Antwort_1=1Phosphor
+Antwort_2=0Eisen
+Antwort_3=0Quecksilber
+Antwort_4=0Natrium
+
+[84]
+FZ1=
+FZ2=Mit welcher Farbe verbrennt Kupfer?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1grün
+Antwort_2=0gelb
+Antwort_3=0blau
+Antwort_4=0rot
+
+[85]
+FZ1=
+FZ2=0°C sind
+FZ3=
+Min=8000
+Max=16000
+Antwort_1=0- 273 K
+Antwort_2=00 K
+Antwort_3=0223 K
+Antwort_4=1273
+
+[86]
+FZ1=
+FZ2=Die molare Masse berechnet sich durch
+FZ3=
+Min=4000
+Max=8000
+Antwort_1=0Masse * Stoffmenge
+Antwort_2=0Stoffmenge * Masse
+Antwort_3=1Masse / Stoffmenge
+Antwort_4=0Stoffmenge / Masse
+
+[87]
+FZ1=
+FZ2=Welche der folgenden Eigenschaften trifft auf Gold *nicht* zu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1rostet
+Antwort_2=0glänz metallisch
+Antwort_3=0ist schwerer als Blei
+Antwort_4=0leitet den elektrischen Strom
+
+[88]
+FZ1=
+FZ2=Welche dieser Eigenschaften trifft auf Eisen *nicht* zu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1schmilzt bei 389 °C
+Antwort_2=0magnetisch
+Antwort_3=0leitet elektrischen Strom
+Antwort_4=0schwimmt auf Quecksilber
+
+[89]
+FZ1=
+FZ2=Welche der folgenden Eigenschaften trifft auf Schwefel *nicht* zu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1leitet elektrischen Strom
+Antwort_2=0gelb
+Antwort_3=0sublimiert
+Antwort_4=0schmilzt bei 113 °C
+
+[90]
+FZ1=
+FZ2=Auf welchen Stoff deutet eine leuchtend gelbe Flammenfärbung hin ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Natrium
+Antwort_2=0Calcium
+Antwort_3=0Barium
+Antwort_4=0Schwefel
+
+[91]
+FZ1=
+FZ2=Was passiert, wenn man ein Stück Natrium in ein Gefäß mit Wasser gibt ?
+FZ3=
+Min=4000
+Max=8000
+Antwort_1=1Es schwimmt, schmilzt	und löst sich auf.
+Antwort_2=0Es versinkt.
+Antwort_3=0nichts
+Antwort_4=0Es rostet.
+
+[92]
+FZ1=
+FZ2=Kalium ist in seinen Verbindungen
+FZ3=
+Min=4000
+Max=8000
+Antwort_1=1einwertig
+Antwort_2=0zweiwertig
+Antwort_3=0dreiwertig
+Antwort_4=0vierwertig
+
+[93]
+FZ1=
+FZ2=Welches dieser Halogene ist bei Zimmertemperatur flüssig?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Brom
+Antwort_2=0Chlor
+Antwort_3=0Fluor
+Antwort_4=0Iod
+
+[94]
+FZ1=
+FZ2=Der Satz des Avogadro besagt
+FZ3=
+Min=16000
+Max=32000
+Antwort_1=0n=m/M
+Antwort_2=0Druck*Volumen/Temperatur = konstant
+Antwort_3=1Gleiche Volumina unterschiedlicher	Gase enthalten gleich viele Teilchen.
+Antwort_4=0Bis auf die Edelgase sind	alle Gase zweiatomig.
+
+[95]
+FZ1=
+FZ2=Kohlenstoffdioxid lässt sich nachweisen durch
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Knallgasprobe
+Antwort_2=0Glimmspanprobe
+Antwort_3=0Ersticken einer Flamme
+Antwort_4=1Trübung von Kalkwasser
+
+[96]
+FZ1=
+FZ2=Kein Kohlenstoff
+FZ3=
+Min=16000
+Max=32000
+Antwort_1=1Pyrit
+Antwort_2=0Diamant
+Antwort_3=0Holzkohle
+Antwort_4=0Graphit
+
+[97]
+FZ1=Welcher Stoff ist gemeint:
+FZ2=ist der beste Strom- und Wärmeleiter, wird in Verbindung mit Halogenen
+FZ3=in der Fotografie eingesetzt
+Min=16000
+Max=16000
+Antwort_1=1Silber
+Antwort_2=0Kupfer
+Antwort_3=0Gold
+Antwort_4=0Platin
+
+[98]
+FZ1=Was passiert, wenn man einen glänzenden Eisennagel etwa vier Wochen
+FZ2=in einem Gefäß mit reinem Neon aufbewahrt?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1nichts
+Antwort_2=0Das hängt von der Temperatur ab.
+Antwort_3=0Der Nagel rostet.
+Antwort_4=0Der Glanz verschwindet.
+
+[99]
+FZ1=
+FZ2=Was passiert, wenn man ein Gemisch aus Sauerstoff und Helium entzündet?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Es passiert nichts.
+Antwort_2=0Es brennt ganz schwach.
+Antwort_3=0Es explodiert.
+Antwort_4=0Das hängt vom Mischungsverhältnis ab.
+
+[100]
+FZ1=Was wird nachgewiesen, wenn eine Zugabe von Silbernitratlösung einen
+FZ2=milchig-weißen Niederschlag erzeugt ?
+FZ3=
+Min=16000
+Max=32000
+Antwort_1=1Chlorid-Ionen
+Antwort_2=0Sulfat-Ionen
+Antwort_3=0Kohlendioxid
+Antwort_4=0Schwefelwasserstoff
+
+[101]
+FZ1=
+FZ2=Mit welcher Farbe zeigt Lackmus eine Lauge an ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1blau
+Antwort_2=0rot
+Antwort_3=0gelb
+Antwort_4=0grün
+
+[102]
+FZ1=
+FZ2=Mit welcher Farbe zeigt Lackmus eine Säure an ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1rot
+Antwort_2=0blau
+Antwort_3=0gelb
+Antwort_4=0grün
+
+[103]
+F1=
+FZ2=In einem Atom befinden sich
+FZ3=
+Min=8000
+Max=16000
+Antwort_1=0keine Elektronen
+Antwort_2=0halb so viele	Elektronen wie Protonen
+Antwort_3=1genauso viele	Elektronen wie Protonen
+Antwort_4=0doppelt so viele	Elektronen wie Protonen
+
+[104]
+FZ1=
+FZ2=Salzsäuer hat einen pH-Wert von
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=10
+Antwort_2=07
+Antwort_3=014
+Antwort_4=018
+
+[105]
+FZ1=
+FZ2=Saure Lösungen enthalten
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Hydroxide
+Antwort_2=0Oxide
+Antwort_3=1Oxoniumionen
+Antwort_4=0Kationen
+
+[106]
+FZ1=
+FZ2=Nukleonen sind
+FZ3=
+Min=16000
+Max=32000
+Antwort_1=1Neutronen und Protonen
+Antwort_2=0negative Ionen
+Antwort_3=0neutrale Elektronen
+Antwort_4=0zerfallene Ozonmoleküle
+
+[107]
+FZ1=
+FZ2=Ein Indikator
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0zeigt an, ob ein Stoff	oxidiert werden kann.
+Antwort_2=0ist ein Stoffzusatz	in Lebensmitteln.
+Antwort_3=0ist eine Verbindung mit	dem Farbstoff Indigo.
+Antwort_4=1zeigt an, ob ein Stoff	sauer oder alkalisch ist.
+
+[108]
+FZ1=
+FZ2=In welchem Bereich liegen die alkalischen pH-Werte?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=00-7
+Antwort_2=00-14
+Antwort_3=03-10
+Antwort_4=18-14
+
+[109]
+FZ1=
+FZ2=In der 6. Hauptgruppe stehen die Elemente der
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Erdalkalimetalle
+Antwort_2=0Kohlenstoffgruppe
+Antwort_3=1Chalkogene
+Antwort_4=0Halogene
+
+[110]
+FZ1=
+FZ2=In der 2. Hauptgruppe stehen die Elemente der
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Erdalkalimetalle
+Antwort_2=0Kohlenstoffgruppe
+Antwort_3=0Chalkogene
+Antwort_4=0Halogene
+
+[111]
+FZ1=
+FZ2=Was passiert, wenn man ein Stück Phosphor in ein Gefäß mit Wasser gibt ?
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=1nichts
+Antwort_2=0Es beginnt zu brennen.
+Antwort_3=0Das hängt von der Temperatur ab.
+Antwort_4=0Es löst sich auf.
+
+[112]
+FZ1=
+FZ2=Welcher dieser Stoffe leitet den elektrischen Strom am besten ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Silber
+Antwort_2=0Kupfer
+Antwort_3=0Aluminium
+Antwort_4=0Blei
+
+[113]
+FZ1=
+FZ2=Was passt nicht zusammen ?
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=1Gold - Goldrausch
+Antwort_2=0Eisen - Rost
+Antwort_3=0Kupfer - Patina
+Antwort_4=0Zinn - Zinnpest
+
+[114]
+FZ1=
+FZ2=Chromatografie ist
+FZ3=
+Min=16000
+Max=32000
+Antwort_1=0Wissenschaft der Elektrochemie
+Antwort_2=0spezielle Anwendung der Fotografie
+Antwort_3=0Reaktionsähnlichkeit mit Chrom
+Antwort_4=1Trennverfahren
+
+[115]
+FZ1=
+FZ2=Eine kovalente Bindung ist eine
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=1Elektronenpaarbindung
+Antwort_2=0Ionenbindung
+Antwort_3=0Polare Bindung
+Antwort_4=0Van-der-Waals-Bindung
+
+[116]
+FZ1=
+FZ2=Was ist kein chemisches Element?
+FZ3=
+Min=6400
+Max=125000
+Antwort_1=1Tar
+Antwort_2=0Cer
+Antwort_3=0Bor
+Antwort_4=0Iod
+
+[117]
+FZ1=
+FZ2=Kaut man Brotteig lange, so entsteht
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1Zucker
+Antwort_2=0Salz
+Antwort_3=0Mehl
+Antwort_4=0Backpulver
+
+[118]
+FZ1=
+FZ2=Vitamin C ist
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1eine Säure
+Antwort_2=0ein Metall
+Antwort_3=0ein Emulgator
+Antwort_4=0Kondensator
+
+[119]
+FZ1=
+FZ2=Isotope sind Atome
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=0gleicher Masse,	aber unterschiedlicher Elemente
+Antwort_2=0einer Verbindung,	aber unterschiedlicher Masse
+Antwort_3=0gleicher Größe,	aber mit unterschiedlicher Elektronenzahl
+Antwort_4=1eines Elements,	aber mit unterschiedlicher Neutronenzahl
+
+[120]
+FZ1=
+FZ2=Welcher dieser Stoffe hat das größte spezifische Gewicht ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Blei
+Antwort_2=1Gold
+Antwort_3=0Eisen
+Antwort_4=0Kupfer
+
+[121]
+FZ1=
+FZ2=Welcher dieser Stoffe hat die geringste Siedetemperatur ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1Äther
+Antwort_2=0Ethanol
+Antwort_3=0Wasser
+Antwort_4=0Glycerin
+
+[122]
+FZ1=
+FZ2=Was heißt hydrophil?
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=1wasserliebend
+Antwort_2=0gesättigt
+Antwort_3=0negativ geladen
+Antwort_4=0alkalisch
+
+[123]
+FZ1=
+FZ2=Flüssigkeiten mit hoher Viskosität
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=0haben eine große Oberflächenspannung
+Antwort_2=1sind zähflüssig
+Antwort_3=0sind trübe
+Antwort_4=0leiten den elektrischen Strom gut
+
+[124]
+FZ1=
+FZ2=Ein Alkan mit 4 Kohlenstoffatomen heißt
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=0Propan
+Antwort_2=1Butan
+Antwort_3=0Pentan
+Antwort_4=0Octan
+
+[125]
+FZ1=
+FZ2=Welcher dieser Stoffe hat die geringste Schmelztemperatur ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Zinn
+Antwort_2=0Blei
+Antwort_3=0Kupfer
+Antwort_4=0Aluminium
+
+[126]
+FZ1=
+FZ2=Ein Kation hat
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0mehr Elektronen als Protonen
+Antwort_2=0gleich viel Elektronen wie Protonen
+Antwort_3=1mehr Protonen als Elektronen
+Antwort_4=0keine Elektronen
+
+[127]
+FZ1=
+FZ2=Ein Anion hat
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1mehr Elektronen als Protonen
+Antwort_2=0gleich viel Elektronen wie Protonen
+Antwort_3=0mehr Protonen als Elektronen
+Antwort_4=0keine Elektronen
+
+[128]
+FZ1=
+FZ2=Wie nennt man eine Verbindung aus	einem Alkohol und einer Säure ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Ester
+Antwort_2=0Alkan
+Antwort_3=0Alken
+Antwort_4=0Keton
+
+[129]
+FZ1=
+FZ2=Was ist der Name einer chemischen Verbindung?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Ester
+Antwort_2=0Andrea
+Antwort_3=0Tessa
+Antwort_4=0Sina
+
+[130]
+FZ1=
+FZ2=Wird nicht aus Erdöl hergestellt :
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Schwefelsäure
+Antwort_2=0Benzin
+Antwort_3=0Diesel
+Antwort_4=0Schweröl
+
+[131]
+FZ1=
+FZ2=Je länger die Kohlenstoffkette bei Alkanen,
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=0desto hiedriger die Schmelzpunkte.
+Antwort_2=1desti höher die Siedepunkte.
+Antwort_3=0desto reaktionsfreudiger sind sie.
+Antwort_4=0desto größer die	Tendenz zur Esterbildung.
+
+[132]
+FZ1=
+FZ2=Wie lautet der Trivialname für Alkanale?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Aldehyde
+Antwort_2=0Ketone
+Antwort_3=0Puffer
+Antwort_4=0Carbone
+
+[133]
+FZ1=Welches Element ist in allen diesen Verbindungen enthalten :
+FZ2=Pyrit, Kupferkies, Bleiglanz, Zinkblende
+FZ3=
+Min=250000
+Max=5000000
+Antwort_1=1Schwefel
+Antwort_2=0Sauerstoff
+Antwort_3=0Phosphor
+Antwort_4=0Kohlenstoff
+
+[134]
+FZ1=
+FZ2=Amphotere Stoffe
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=0haben eine geringe Dichte
+Antwort_2=0sind umweltgefährlich
+Antwort_3=1können als Protonendonator	und -akzeptor reagieren
+Antwort_4=0eigenen sich als Puffer	in empfindlichen Systemen
+
+[135]
+FZ1=
+FZ2=Isomere sind
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Moleküle mit gleichen Summenformeln,	aber unterschiedlichen Strukturformeln
+Antwort_2=0isolierte Polymere
+Antwort_3=0langkettige Aldehyde
+Antwort_4=0Monosacharosen in Helixform
+
+[136]
+FZ1=
+FZ2=Die Sacharide gehören zu den
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Zuckern
+Antwort_2=0Carbonsäuren
+Antwort_3=0Alkenen
+Antwort_4=0Ethern
+
+[137]
+FZ1=
+FZ2=Traubenzucker ist
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Glucose
+Antwort_2=0Fructose
+Antwort_3=0Pentose
+Antwort_4=0Ketose
+
+[138]
+FZ1=
+FZ2=Ethan ist bei Raumtemperatur
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1gasförmig
+Antwort_2=0flüssig
+Antwort_3=0fest
+Antwort_4=0gefroren
+
+[139]
+FZ1=
+FZ2=Die Waschwirkung einer Seifenlösung beruht auf
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Tensiden
+Antwort_2=0der Abstoßung	gleich geladener Teilchen
+Antwort_3=0dem Säureeinfluss der Seife
+Antwort_4=0der Reaktionsfreudigkeit der Seife
+
+[140]
+FZ1=
+FZ2=Fette sind
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ester aus höheren Carbonsäuren	und Glycerin
+Antwort_2=0Salze langkettinger Alkane
+Antwort_3=0Polymere des Ethens
+Antwort_4=0Derivate sekundärer Alkohole
+
+[141]
+FZ1=Den Raum, in dem sich ein Elekron zu 90 %-iger
+FZ2=Wahrscheinlichkeit aufhält, heißt
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Orbital
+Antwort_2=0Orbit
+Antwort_3=0Orbitum
+Antwort_4=0Orbiton
+
+[142]
+FZ1=
+FZ2=Kein Kunststoff
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Polyphem
+Antwort_2=0Polyacryl
+Antwort_3=0Polyäthylen
+Antwort_4=0Polyester
+
+[143]
+FZ1=
+FZ2=Was ist Soda?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Natriumcarbonat
+Antwort_2=0Natriumchlorid
+Antwort_3=0Natriumhydroxid
+Antwort_4=0Natriumhydrogencarbonat
+
+[144]
+FZ1=
+FZ2=Wie lautet die Regel von Markownikow?
+FZ3=
+Min=1000000
+Max=1000000
+Antwort_1=1"Wer hat, dem wird gegeben."
+Antwort_2=0"Geben ist seliger denn nehmen."
+Antwort_3=0"Die Gesamtzahl der Valenzelektronen	beträgt 8."
+Antwort_4=0"Je mehr Hydroxidgruppen,	desto süßer der Alkohol."
+
+[145]
+FZ1=
+FZ2=Aliphate sind
+FZ3=
+Min=1000000
+Max=1000000
+Antwort_1=1acyclische Kohlenwasserstoffe
+Antwort_2=0aromatische Kohlenwasserstoffe
+Antwort_3=0langkettige Kohlenwasserstoffe
+Antwort_4=0tertiäre Kohlenwasserstoffe
+
+[146]
+FZ1=
+FZ2=Wer fand das Gesetzt der Erhaltung der Masse?
+FZ3=
+Min=1000000
+Max=1000000
+Antwort_1=1Lavoisier
+Antwort_2=0Demokrit
+Antwort_3=0Bunsen
+Antwort_4=0Rutherford
+

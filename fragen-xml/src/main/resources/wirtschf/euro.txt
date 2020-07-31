@@ -1,0 +1,1281 @@
+[Thema]
+Thema= Rund um den Euro
+Fragen=116
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Was kann man mit italienischen Euro - Münzen
+FZ3=in Deutschland anfangen ?
+Min=200
+Max=1000
+Antwort_1=1Man kann damit genauso bezahlen	wie mit deutschem Euro.
+Antwort_2=0 Man kann sie sammeln und in	Italien wieder ausgeben.
+Antwort_3=0Man kann damit nur Pizza und	italienisches Eis kaufen.
+Antwort_4=0Man muss sie auf der Bank	in deutsche Euros umtauschen.
+
+[2]
+FZ1=
+FZ2=Welches ist die richtige Abkürzung für den Euro ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	EUR
+Antwort_2=0	EU
+Antwort_3=0	E
+Antwort_4=0	ETC
+
+[3]
+FZ1=
+FZ2=Wie lautet die Untereinheit vom Euro?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	Cent
+Antwort_2=0	Cetimes
+Antwort_3=0	Pfennig
+Antwort_4=0	Pence
+
+[4]
+FZ1=
+FZ2=Wie sehen die Euro-Münzen aus ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Die Vorderseite ist einheitlich,	die Rückseite wird von den	einzelnen Ländern gestaltet.
+Antwort_2=0Jedes Land darf beide Seiten	der Münzen so gestalten, wie es will.
+Antwort_3=0Die Euro-Münzen sehen	überall gleich aus.
+Antwort_4=0Auf der Rückseite sind	die Münzen leer.
+
+[5]
+FZ1=
+FZ2=Was passierte zum Jahreswechsel 2001/2002 mit deinem Konto bei der Bank ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0 Bei einigen Banken war die	Umstellung automatisch und kostenlos,	bei anderen musste man bezahlen.
+Antwort_2=0Du musstest dein Konto kostenpflichtig	auf Euro umstellen.
+Antwort_3=1Die Umstellung auf den Euro erfolgte	automatisch und kostenlos.
+Antwort_4=0Du musstest Silvester dein Konto	auflösen und am 3. Januar neu	anlegen.
+
+[6]
+FZ1=
+FZ2=Seit wann gibt es den Euro ? (als "Buchgeld",  n i c h t  als Bargeld)
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1	1.1.1999
+Antwort_2=0	1.1.2001
+Antwort_3=0	1.1.2000
+Antwort_4=0	1.1.2002
+
+[7]
+FZ1=
+FZ2=Wie wurde entschieden, welche Länder den Euro einführen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0Jedes Land, das wollte, konnte dem	Euroraum beitreten, egal wie	wirtschaftlich stark es war.
+Antwort_2=0Alle Mitgliedstaaten der Europäischen	Union haben automatisch den Euro	eingeführt.
+Antwort_3=1Die Länder mussten strenge	wirtschaftliche Kriterien erfüllen.
+Antwort_4=0Die Bürgermeister haben entschieden,	ob der Euro eingeführt wird.
+
+[8]
+FZ1=
+FZ2=Wie heißt die Mehrzahl von Euro auf Deutsch ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	Euro
+Antwort_2=0	Euren
+Antwort_3=0	Euröchen
+Antwort_4=0	Euroten
+
+[9]
+FZ1=Womit beschäftigten sich die sogenannten Konvergenzkriterien,
+FZ2=die die EU-Staaten erfüllen mussten,
+FZ3=um in der Währungsunion mitmachen zu dürfen ?
+Min=250000
+Max=500000
+Antwort_1=1Preisstabilität, Zinsniveau,	Wechselkursstabilität, gesunde	Staatsfinanzen
+Antwort_2=0Handelsbilanz, Wirtschaftswachstum,	Goldreserven, Haushalt
+Antwort_3=0Arbeitslosigkeit, Export, gesunde	Staatsfinanzen, Asylrecht
+Antwort_4=0Mehrwertsteuer, Export, gesunde	Staatsfinanzen, Handelsbilanz
+
+[10]
+FZ1=
+FZ2=Welches Land in der EU konnte die Konvergenzkriterien nicht erfüllen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1	Griechenland
+Antwort_2=0	Schweden
+Antwort_3=0	Portugal
+Antwort_4=0	Italien
+
+[11]
+FZ1=
+FZ2=Welche Länder können zu einem späteren Zeitpunkt
+FZ3=an der gemeinsamen Währung teilnehmen ?
+Min=125000
+Max=500000
+Antwort_1=1Schweden, Dänemark,	Großbritannien
+Antwort_2=0Schweden, Österreich,	Großbritannien
+Antwort_3=0	Dänemark, Portugal, Italien
+Antwort_4=0Schweden, Großbritannien,	Deutschland
+
+[12]
+FZ1=
+FZ2=Wie viel ist ein Euro in DEM ca. wert ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	1,96 DEM
+Antwort_2=0	1,59 DEM
+Antwort_3=0	2,25 DEM
+Antwort_4=0	2,05 DEM
+
+[13]
+FZ1=
+FZ2=Wo liegt die europäische Zentralbank ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1	Frankfurt/ Main
+Antwort_2=0	Brüssel
+Antwort_3=0	Paris
+Antwort_4=0	Rom
+
+[14]
+FZ1=
+FZ2=Ab wann gilt der Euro als das einziges Bezahlungsmittel in Euroland ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=0	1.1.2000
+Antwort_2=1	1.07.2002
+Antwort_3=0	1.1.2002
+Antwort_4=0	17.12.2001
+
+[15]
+FZ1=
+FZ2=Wie viel ist ein Euro in NOK wert ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	ca. 9 Kronen
+Antwort_2=0	ca. 11 Kronen
+Antwort_3=0	ca. 5 Kronen
+Antwort_4=0	ca. 7 Kronen
+
+[16]
+FZ1=
+FZ2=Um in DM umzurechnen, ist es am einfachsten zu  ... ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	multiplizieren
+Antwort_2=0	addieren
+Antwort_3=0	dividieren
+Antwort_4=0	subtrahieren
+
+[17]
+FZ1=
+FZ2=Wie viel Euro-Geldscheine und Euro-Münzen gibt es ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0	8 Münzen und 9 Scheine
+Antwort_2=1	8 Münzen und 7 Scheine
+Antwort_3=0	12 Münzen und 11 Scheine
+Antwort_4=0	7 Münzen und 8 Scheine
+
+[18]
+FZ1=
+FZ2=Wie heißt das neue Geld ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	Euro
+Antwort_2=0	Moneten
+Antwort_3=0	Euröchen
+Antwort_4=0	Eumo
+
+[19]
+FZ1=
+FZ2=Wie viele Cent hat ein Euro ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	100
+Antwort_2=0	1000
+Antwort_3=0	10
+Antwort_4=0	50
+
+[20]
+FZ1=
+FZ2=Wie sieht das Euro - Zeichen aus ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Dreiviertelkreis, der rechts offen ist	und in der Mitte von links	zwei waagerechte Striche hat
+Antwort_2=0ein geschlossener Kreis	mit einem E in der Mitte
+Antwort_3=0	ein Dreieck mit einem E an jeder Ecke
+Antwort_4=0	ein dickes E mit einem dünnen U
+
+[21]
+FZ1=
+FZ2=Bis wann kann man in Deutschland noch mit DM als gesetzliches Zahlungsmittel
+FZ3=bezahlen ?
+Min=1000
+Max=16000
+Antwort_1=1	28. Februar 2002
+Antwort_2=0	3. November 2002
+Antwort_3=0	22. März 2002
+Antwort_4=0	14. Februar 2002
+
+[22]
+FZ1=
+FZ2=In wie vielen Ländern kann man ab dem 1. Januar 2002 mit dem Euro bezahlen ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1	12
+Antwort_2=0	14
+Antwort_3=0	13
+Antwort_4=0	15
+
+[23]
+FZ1=
+FZ2=Wie hieß die Währung in Belgien ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Franc
+Antwort_2=0	Drachmen
+Antwort_3=0	 Mark
+Antwort_4=0	Peseten
+
+[24]
+FZ1=
+FZ2=Wie hieß die Währung in Deutschland ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	 Mark
+Antwort_2=0	Escudos
+Antwort_3=0	Lire
+Antwort_4=0	Schilling
+
+[25]
+FZ1=
+FZ2=Wie hieß die Währung in Finnland ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Mark
+Antwort_2=0	 Pfund
+Antwort_3=0	Drachmen
+Antwort_4=0	Gulden
+
+[26]
+FZ1=
+FZ2=Wie hieß die Währung in Frankreich ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	Franc
+Antwort_2=0	Lire
+Antwort_3=0	Drachmen
+Antwort_4=0	Gulden
+
+[27]
+FZ1=
+FZ2=Wie hieß die Währung in Griechenland ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	Drachmen
+Antwort_2=0	Gulden
+Antwort_3=0	Lire
+Antwort_4=0	Escudos
+
+[28]
+FZ1=
+FZ2=Wie hieß die Währung in Irland ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	Pfund
+Antwort_2=0	Lire
+Antwort_3=0	Franc
+Antwort_4=0	Peseten
+
+[29]
+FZ1=
+FZ2=Wie hieß die Währung in Italien ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	Lire
+Antwort_2=0	Schilling
+Antwort_3=0	Escudos
+Antwort_4=0	Drachmen
+
+[30]
+FZ1=
+FZ2=Wie hieß die Währung in Luxemburg ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	Franc
+Antwort_2=0	Gulden
+Antwort_3=0	Lire
+Antwort_4=0	Pfund
+
+[31]
+FZ1=
+FZ2=Wie hieß die Währung in den Niederlanden ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	Gulden
+Antwort_2=0	Escudos
+Antwort_3=0	Lire
+Antwort_4=0	Drachmen
+
+[32]
+FZ1=
+FZ2=Wie hieß die Währung in Österreich ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	Schilling
+Antwort_2=0	Lire
+Antwort_3=0	Pfund
+Antwort_4=0	Mark
+
+[33]
+FZ1=
+FZ2=Wie hieß die Währung in Portugal ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	Escudos
+Antwort_2=0	Lire
+Antwort_3=0	Peseten
+Antwort_4=0	Gulden
+
+[34]
+FZ1=
+FZ2=Wie hieß die Währung in Spanien ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	Peseten
+Antwort_2=0	Escudos
+Antwort_3=0	Lire
+Antwort_4=0	Drachmen
+
+[35]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Belgien abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	B E F
+Antwort_2=0	B B H
+Antwort_3=0	B E M
+Antwort_4=0	B F G
+
+[36]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Deutschland abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	D E M
+Antwort_2=0	D M M
+Antwort_3=0	D D M
+Antwort_4=0	D B R
+
+[37]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Finnland abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	F I M
+Antwort_2=0	F F M
+Antwort_3=0	F M M
+Antwort_4=0	F I F
+
+[38]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Frankreich abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	F R F
+Antwort_2=0	F R R
+Antwort_3=0 	F F F
+Antwort_4=0	F R M
+
+[39]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Griechenland abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	G R D
+Antwort_2=0	G R R
+Antwort_3=0	G G D
+Antwort_4=0	G M D
+
+[40]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Irland abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	I E P
+Antwort_2=0	I M P
+Antwort_3=0	I I P
+Antwort_4=0	I O U
+
+[41]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Italien abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	I T L
+Antwort_2=0	I T M
+Antwort_3=0	I L T
+Antwort_4=0	I T F
+
+[42]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Luxemburg abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	L U F
+Antwort_2=0	L U L
+Antwort_3=0	L U T
+Antwort_4=0	L U Z
+
+[43]
+FZ1=
+FZ2=Wie wurde früher  die Währung in den Niederlanden abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	N L G
+Antwort_2=0	N M N
+Antwort_3=0	N L M
+Antwort_4=0	N A S
+
+[44]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Österreich abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	A T S
+Antwort_2=0	Ö L M
+Antwort_3=0	Ö S S
+Antwort_4=0	A S M
+
+[45]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Portugal abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	P T E
+Antwort_2=0	P K W
+Antwort_3=0	P C B
+Antwort_4=0	P M W
+
+[46]
+FZ1=
+FZ2=Wie wurde früher  die Währung in Spanien abgekürzt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	E S P
+Antwort_2=0	S M S
+Antwort_3=0	S M F
+Antwort_4=0	S O S
+
+[47]
+FZ1=
+FZ2=Welches Land besitzt nicht den Euro als nationale Währung ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	Schweiz
+Antwort_2=0	Niederlande
+Antwort_3=0	Belgien
+Antwort_4=0	Portugal
+
+[48]
+FZ1=
+FZ2=Welches Land besitzt nicht den Euro als nationale Währung ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	Norwegen
+Antwort_2=0	Italien
+Antwort_3=0	Österreich
+Antwort_4=0	Griechenland
+
+[49]
+FZ1=
+FZ2=Wie groß ist der Durchmeser eines 1 Cent - Stückes ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1	16,25 mm
+Antwort_2=0	20,25 mm
+Antwort_3=0	18,5 mm
+Antwort_4=0	22,75 mm
+
+[50]
+FZ1=
+FZ2=Wie groß ist der Durchmesser eines 2 Cent - Stückes ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1	18,75 mm
+Antwort_2=0	20 mm
+Antwort_3=0	12,50 mm
+Antwort_4=0	25,25 mm
+
+[51]
+FZ1=
+FZ2=Wie groß ist der Durchmesser eines 5 Cent - Stückes ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	21,25 mm
+Antwort_2=0	12,25 mm
+Antwort_3=0	25,75 mm
+Antwort_4=0	17,75 mm
+
+[52]
+FZ1=
+FZ2=Wie groß ist der Durchmesser eines 10 Cent - Stückes ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	19,75 mm
+Antwort_2=0	11,45 mm
+Antwort_3=0	22,50 mm
+Antwort_4=0	28,25 mm
+
+[53]
+FZ1=
+FZ2=Wie groß ist der Durchmesser eines 20 Cent - Stückes ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1	22,25 mm
+Antwort_2=0	15,15 mm
+Antwort_3=0	19,50 mm
+Antwort_4=0	10,50 mm
+
+[54]
+FZ1=
+FZ2=Wie groß ist der Durchmesser eines 50 Cent - Stückes ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	24,25 mm
+Antwort_2=0	18,25 mm
+Antwort_3=0	30,75 mm
+Antwort_4=0	15,50 mm
+
+[55]
+FZ1=
+FZ2=Wie groß ist der Durchmesser eines 1 Euro - Stückes ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	23,25 mm
+Antwort_2=0	20,50 mm
+Antwort_3=0	25,75 mm
+Antwort_4=0	17, 75 mm
+
+[56]
+FZ1=
+FZ2=Wie groß ist der Durchmesser eines 2 Euro - Stückes ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	25,75 mm
+Antwort_2=0	18,00 mm
+Antwort_3=0	20,25 mm
+Antwort_4=0	15,50 mm
+
+[57]
+FZ1=
+FZ2=Welche Münze hat den größten Durchmesser ?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=1	2 Euro
+Antwort_2=0	20 Cent
+Antwort_3=0	50 Cent
+Antwort_4=0	1 Euro
+
+[58]
+FZ1=
+FZ2=Welche Münze hat den kleinsten Durchmesser ?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=1	1 Cent
+Antwort_2=0	2 Cent
+Antwort_3=0	1 Euro
+Antwort_4=0	5 Cent
+
+[59]
+FZ1=
+FZ2=Welche Farbe hat das 1 Cent - Stück ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	rot
+Antwort_2=0	gelber Ring, innen silber
+Antwort_3=0	gelb
+Antwort_4=0	silberner Ring, innen gelb
+
+[60]
+FZ1=
+FZ2=Welche Farbe hat das 2 Cent - Stück ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	rot
+Antwort_2=0	gelber Ring, innen silbern
+Antwort_3=0	gelb
+Antwort_4=0	silberner Ring, innen gelb
+
+[61]
+FZ1=
+FZ2=Welche Farbe hat das 5 Cent - Stück ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	rot
+Antwort_2=0	gelber Ring, innen silbern
+Antwort_3=0	silbern
+Antwort_4=0	silberner Ring, innen gelb
+
+[62]
+FZ1=
+FZ2=Welche Farbe hat das 10 Cent - Stück ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0	rot
+Antwort_2=0	gelber Ring, innen silbern
+Antwort_3=1	gelb
+Antwort_4=0	silberner Ring, innen gelb
+
+[63]
+FZ1=
+FZ2=Welche Farbe hat das 20 Cent - Stück ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0	rot
+Antwort_2=0	gelber Ring, innen silbern
+Antwort_3=1	gelb
+Antwort_4=0	silberner Ring, innen gelb
+
+[64]
+FZ1=
+FZ2=Welche Farbe hat das 50 Cent - Stück ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	gelb
+Antwort_2=0	gelber Ring, innen silbern
+Antwort_3=0	silbern
+Antwort_4=0	silberner Ring, innen gelb
+
+[65]
+FZ1=
+FZ2=Welche Farbe hat das 1 Euro - Stück ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=0	rot
+Antwort_2=1	gelber Ring, innen silbern
+Antwort_3=0	gelb
+Antwort_4=0	silberner Ring, innen gelb
+
+[66]
+FZ1=
+FZ2=Welche Farbe hat das 2 Euro - Stück ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=0	rot
+Antwort_2=0	gelber Ring, innen silbern
+Antwort_3=0	gelb
+Antwort_4=1	silberner Ring, innen gelb
+
+[67]
+FZ1=
+FZ2=Welche Münze gibt es  n i  c h t ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	5 Euro
+Antwort_2=0	50 Cent
+Antwort_3=0	5 Cent
+Antwort_4=0	2 Euro
+
+[68]
+FZ1=
+FZ2=Welche Münze gibt es  n i  c h t ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	10 Euro
+Antwort_2=0	1 Euro
+Antwort_3=0	2 Euro
+Antwort_4=0	20 Cent
+
+[69]
+FZ1=
+FZ2=Welche Farbe hat der 5 Euro - Schein ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1	grau
+Antwort_2=0	blau
+Antwort_3=0	rot
+Antwort_4=0	orange
+
+[70]
+FZ1=
+FZ2=Welche Farbe hat der 10 Euro - Schein ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1	rot
+Antwort_2=0	blau
+Antwort_3=0	grau
+Antwort_4=0	grün
+
+[71]
+FZ1=
+FZ2=Welche Farbe hat der 20 Euro - Schein ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1	blau
+Antwort_2=0	rot
+Antwort_3=0	grau
+Antwort_4=0	lila
+
+[72]
+FZ1=
+FZ2=Welche Farbe hat der 50 Euro - Schein ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1	orange
+Antwort_2=0	grün
+Antwort_3=0	blau
+Antwort_4=0	rot
+
+[73]
+FZ1=
+FZ2=Welche Farbe hat der 100 Euro - Schein ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1	grün
+Antwort_2=0	lila
+Antwort_3=0	 blau
+Antwort_4=0	rot
+
+[74]
+FZ1=
+FZ2=Welche Farbe hat der 200 Euro - Schein ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1	gelb - braun
+Antwort_2=0	grün
+Antwort_3=0	lila
+Antwort_4=0	grau
+
+[75]
+FZ1=
+FZ2=Welche Farbe hat der 500 Euro - Schein ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1	lila
+Antwort_2=0	grau
+Antwort_3=0	blau
+Antwort_4=0	grün
+
+[76]
+FZ1=
+FZ2=Wie viele verschiedene Münzen gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	8
+Antwort_2=0	6
+Antwort_3=0	7
+Antwort_4=0	9
+
+[77]
+FZ1=
+FZ2=Wie viele verschiedene Scheine gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	7
+Antwort_2=0	5
+Antwort_3=0	6
+Antwort_4=0	8
+
+[78]
+FZ1=
+FZ2=Wie viele Euro und Cent  hast du, wenn du von jeder Münze nur eine hast ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	3,88 €
+Antwort_2=0	5,95 €
+Antwort_3=0	2,75 €
+Antwort_4=0	4,05 €
+
+[79]
+FZ1=
+FZ2=Wie viele Euro hast du, wenn du von jedem Euro - Schein nur einen hast ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	885 €
+Antwort_2=0	665 €
+Antwort_3=0	775 €
+Antwort_4=0	995 €
+
+[80]
+FZ1=
+FZ2=Wie groß ist ein 5 Euro  - Schein ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	120 x 62 mm
+Antwort_2=0	100 x 50 mm
+Antwort_3=0	120 x 120 mm
+Antwort_4=0	110 x 77 mm
+
+[81]
+FZ1=
+FZ2=Wie groß ist ein 10 Euro  - Schein ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	127 x 67 mm
+Antwort_2=0	110 x 110 mm
+Antwort_3=0	100 x 35 mm
+Antwort_4=0	150 x 135 mm
+
+[82]
+FZ1=
+FZ2=Wie groß ist ein 20 Euro  - Schein ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	133 x 72 mm
+Antwort_2=0	180 x 45 mm
+Antwort_3=0	113 x 113 mm
+Antwort_4=0	120 x 100 mm
+
+[83]
+FZ1=
+FZ2=Wie groß ist ein 50 Euro  - Schein ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	140 x 77 mm
+Antwort_2=0	115 x 21 mm
+Antwort_3=0	125 x 125 mm
+Antwort_4=0	130 x 113 mm
+
+[84]
+FZ1=
+FZ2=Wie groß ist ein 100 Euro  - Schein ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	147 x 82 mm
+Antwort_2=0	140 x 120 mm
+Antwort_3=0	132 x 132 mm
+Antwort_4=0	74 x 34 mm
+
+[85]
+FZ1=
+FZ2=Wie groß ist ein 200 Euro  - Schein ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	153 x 82 mm
+Antwort_2=0	120 x 156 mm
+Antwort_3=0	143 x 143 mm
+Antwort_4=0	145 x 91 mm
+
+[86]
+FZ1=
+FZ2=Wie groß ist ein 500 Euro  - Schein ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	160 x 82 mm
+Antwort_2=0	138 x 38 mm
+Antwort_3=0	150 x 150 mm
+Antwort_4=0	142 x 101 mm
+
+[87]
+FZ1=
+FZ2=1 Euro = ? DEM
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	1,95583
+Antwort_2=0	0,8765
+Antwort_3=0	1,99999
+Antwort_4=0	1,8597
+
+[88]
+FZ1=
+FZ2=Wodurch sind die Euro - Banknoten besonders fälschungssicher ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1u.a.: spezielles Notenpapier,	integriertes Wasserzeichen
+Antwort_2=0	u.a.: eingebauter Spiegel
+Antwort_3=0	u.a.: Zacken wie bei einer Briefmarke
+Antwort_4=0u.a.: Klebestreifen auf der Rückseite,	gelöcherter Rand
+
+[89]
+FZ1=
+FZ2=Ab wann konnte man in Deutschland die "Starter Kits" kaufen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	17. 12. 2001
+Antwort_2=0	31. 12 2001
+Antwort_3=0	 24. 12. 2001
+Antwort_4=0	3. 10 2001
+
+[90]
+FZ1=
+FZ2=Wie teuer war ein "Starter Kit" in Deutschland ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1	20 DEM
+Antwort_2=0	15 DEM
+Antwort_3=0	10 DEM
+Antwort_4=0	50 DEM
+
+[91]
+FZ1=
+FZ2=Wie viele Münzen waren in Deutschland im "Starter Kit" ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	20
+Antwort_2=0	25
+Antwort_3=0	10
+Antwort_4=0	15
+
+[92]
+FZ1=
+FZ2=Welchen Wert hatten die "Starter Kits" in Euro ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	10, 23 €
+Antwort_2=0	11,22 €
+Antwort_3=0	15 €
+Antwort_4=0	16,16 €
+
+[93]
+FZ1=
+FZ2=Wie schwer ist eine 1 Cent - Münze ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	2,3 Gramm
+Antwort_2=0	1,5 Gramm
+Antwort_3=0	1 Gramm
+Antwort_4=0	3,5 Gramm
+
+[94]
+FZ1=
+FZ2=Wie schwer ist eine 2 Cent - Münze ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	3,0 Gramm
+Antwort_2=0	4,0 Gramm
+Antwort_3=0	2,0 Gramm
+Antwort_4=0	5,0 Gramm
+
+[95]
+FZ1=
+FZ2=Wie schwer ist eine 5 Cent - Münze ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	3,9 Gramm
+Antwort_2=0	4,9 Gramm
+Antwort_3=0	2,1 Gramm
+Antwort_4=0	6,1 Gramm
+
+[96]
+FZ1=
+FZ2=Wie schwer ist eine 10 Cent - Münze ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	4,1 Gramm
+Antwort_2=0	8,3 Gramm
+Antwort_3=0	6,2 Gramm
+Antwort_4=0	1,5 Gramm
+
+[97]
+FZ1=
+FZ2=Wie schwer ist eine 20 Cent - Münze ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	5,7 Gramm
+Antwort_2=0	3,2 Gramm
+Antwort_3=0	6,6 Gramm
+Antwort_4=0	10,4 Gramm
+
+[98]
+FZ1=
+FZ2=Wie schwer ist eine 50 Cent - Münze ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	7,8 Gramm
+Antwort_2=0	1,8 Gramm
+Antwort_3=0	4,9 Gramm
+Antwort_4=0	3,5 Gramm
+
+[99]
+FZ1=
+FZ2=Wie schwer ist eine 1 Euro - Münze ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	7,5 Gramm
+Antwort_2=0	3,9 Gramm
+Antwort_3=0	10,5 Gramm
+Antwort_4=0	4,3 Gramm
+
+[100]
+FZ1=
+FZ2=Wie schwer ist eine 2 Euro - Münze ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	8,5 Gramm
+Antwort_2=0	14,6 Gramm
+Antwort_3=0	5,6 Gramm
+Antwort_4=0	2,7 Gramm
+
+[101]
+FZ1=
+FZ2=Was befindet sich auf der Rückseite der deutschen 1 Euro - Münze ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	Bundesadler
+Antwort_2=0	Eichenblatt
+Antwort_3=0	Brandenburger Tor
+Antwort_4=0	Mädchen
+
+[102]
+FZ1=
+FZ2=Was befindet sich auf der Rückseite der deutschen 2 Euro - Münze ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	Bundesadler
+Antwort_2=0	Eichenblatt
+Antwort_3=0	Brandenburger Tor
+Antwort_4=0	Bundeskanzler
+
+[103]
+FZ1=
+FZ2=Was befindet sich auf der Rückseite der deutschen 50 Cent - Münze ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0	Bundesadler
+Antwort_2=0	Eichenblatt
+Antwort_3=1	Brandenburger Tor
+Antwort_4=0	Berliner Fernsehturm
+
+[104]
+FZ1=
+FZ2=Was befindet sich auf der Rückseite der deutschen 20 Cent - Münze ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0	Bundesadler
+Antwort_2=0	Eichenblatt
+Antwort_3=1	Brandenburger Tor
+Antwort_4=0	Bundespräsident
+
+[105]
+FZ1=
+FZ2=Was befindet sich auf der Rückseite der deutschen 10 Cent - Münze ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0	Bundesadler
+Antwort_2=0	Eichenblatt
+Antwort_3=1	Brandenburger Tor
+Antwort_4=0	Birkenbaum
+
+[106]
+FZ1=
+FZ2=Was befindet sich auf der Rückseite der deutschen 5 Cent - Münze ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0	Bundesadler
+Antwort_2=1	Eichenblatt
+Antwort_3=0	Brandenburger Tor
+Antwort_4=0	Hufeisen
+
+[107]
+FZ1=
+FZ2=Was befindet sich auf der Rückseite der deutschen 2 Cent - Münze ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0	Bundesadler
+Antwort_2=1	Eichenblatt
+Antwort_3=0	Brandenburger Tor
+Antwort_4=0	Schloss
+
+[108]
+FZ1=
+FZ2=Was befindet sich auf der Rückseite der deutschen 1 Cent - Münze ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0	Bundesadler
+Antwort_2=1	Eichenblatt
+Antwort_3=0	Brandenburger Tor
+Antwort_4=0	Pferd
+
+[109]
+FZ1=
+FZ2=Was ist auf der Rückseite einer jeden Euro - Banknote abgebildet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	eine Brücke und eine Karte von Europa
+Antwort_2=0	ein Schloss und ein Tier
+Antwort_3=0	eine Turm und die Weltkugel
+Antwort_4=0	eine Sternenkarte und ein Rathaus
+
+[110]
+FZ1=
+FZ2=Was ist auf der Vorderseite einer jeden Euro - Banknote abgebildet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	ein Fenster oder ein Tor
+Antwort_2=0	ein Schlüssel oder eine Trompete
+Antwort_3=0	eine Tür oder ein Schloss
+Antwort_4=0	ein Turm oder ein Haus
+
+[111]
+FZ1=
+FZ2=Auf welcher Seite der Euro - Banknoten sind die Seriennummern zu sehen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	auf der Rückseite
+Antwort_2=0	auf beiden Seiten
+Antwort_3=0	auf der Vorderseite
+Antwort_4=0	Es gibt keine Seriennummern mehr.
+
+[112]
+FZ1=
+FZ2=Wie viele Seriennummern sind auf einer Euro - Banknote zu sehen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	zwei
+Antwort_2=0	vier
+Antwort_3=0	Es gibt keine Seriennummern mehr.
+Antwort_4=0	drei
+
+[113]
+FZ1=
+FZ2=Welche Farbe hat die kleine Fahne auf der Vorderseite der Euro - Banknoten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	blau
+Antwort_2=0	rot
+Antwort_3=0	grün
+Antwort_4=0	gelb
+
+[114]
+FZ1=
+FZ2=Wo befindet sich die kleine Fahne auf der Vorderseite der Euro - Banknoten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	oben links
+Antwort_2=0	unten links
+Antwort_3=0	oben rechts
+Antwort_4=0	unten rechts
+
+[115]
+FZ1=
+FZ2=Was befindet sich auf der kleinen Fahne auf der Vorderseite der Euro - Banknoten
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	Sterne
+Antwort_2=0	Streifen
+Antwort_3=0	Münzen
+Antwort_4=0	Kreise
+
+[116]
+FZ1=
+FZ2=Wie viele Sterne befinden sich vorne auf der kleinen Fahne
+FZ3=bei den Euro - Banknoten ?
+Min=4000
+Max=64000
+Antwort_1=1	12
+Antwort_2=0	15
+Antwort_3=0	10
+Antwort_4=0	20
+

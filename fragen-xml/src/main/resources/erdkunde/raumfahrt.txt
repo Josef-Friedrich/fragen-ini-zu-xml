@@ -1,0 +1,2429 @@
+[Thema]
+Thema       = Raumfahrt und Weltraum
+Fragen      = 220
+Autor       = Manfred Hartisch Juli 2001
+
+[1]
+FZ1         = 
+FZ2         =  Was ist kein Planet ?
+FZ3         = 
+Min         = 0
+Max         = 100
+Antwort_1   = 1 Goofy
+Antwort_2   = 0 Pluto
+Antwort_3   = 0 Erde
+Antwort_4   = 0 Mars
+
+[2]
+FZ1         =  
+FZ2         =  Wie lange braucht die Erde, um sich
+FZ3         =  einmal um sich selbst zu drehen ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 12 Stunden
+Antwort_2   = 1 24 Stunden
+Antwort_3   = 0 36 Stunden
+Antwort_4   = 0 48 Stunden
+
+[3]
+FZ1         = 
+FZ2         =  Wie lange braucht die Erde, um sich
+FZ3         =  einmal um die Sonne zu drehen ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 6 Monate
+Antwort_2   = 1 12 Monate
+Antwort_3   = 0 24 Monate
+Antwort_4   = 0 1 Monat
+
+[4]
+FZ1         = 
+FZ2         =  Wie dreht sich die Erde 
+FZ3         =  um die Sonne ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 kreisförmig
+Antwort_2   = 0 in einer Achterschleife
+Antwort_3   = 1 ellipsenförmig
+Antwort_4   = 0 rechteckig
+
+[5]
+FZ1         = 
+FZ2         =  Was ist die Sonne ?
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 eine heiße Eisenkugel
+Antwort_2   = 1 ein glühender Gasball
+Antwort_3   = 0 kochender Wasserdampf
+Antwort_4   = 0 brennendes Magma
+
+[6]
+FZ1         = 
+FZ2         =  Wie heiß ist es im Inneren
+FZ3         =  der Sonne ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 ca. 6 Millionen Grad Celsius
+Antwort_2   = 0 ca. 9 Millionen Grad Celsius
+Antwort_3   = 0 ca. 12 Millionen Grad Celsius
+Antwort_4   = 1 ca. 15 Millionen Grad Celsius
+
+[7]
+FZ1         = 
+FZ2         =  Wie heiß ist es an der
+FZ3         =  Außenfläche der Sonne ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 ca. 1200 Grad Celsius
+Antwort_2   = 0 ca. 2600 Grad Celsius
+Antwort_3   = 1 ca. 4300 Grad Celsius
+Antwort_4   = 0 ca. 9700 Grad Celsius
+
+[8]
+FZ1         = 
+FZ2         =  Wie nennt man die riesigen Gaswirbel der 
+FZ3         =  Sonne, die kühler als ihre Umgebung sind ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Sonnenpickel
+Antwort_2   = 0 Sonnenschatten
+Antwort_3   = 1 Sonnenflecken
+Antwort_4   = 0 Sonnenbrand
+
+[9]
+FZ1         =  Wie nennt man die riesigen Gaswolken,
+FZ2         =  die von der Sonne hochgeschleudert
+FZ3         =  werden ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Gasoranzen
+Antwort_2   = 0 Isotopanzen
+Antwort_3   = 0 Heliomanzen
+Antwort_4   = 1 Protuberanzen
+
+[10]
+FZ1         = 
+FZ2         =  Wie alt ist unsere Sonne ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ca. 3 Milliarden Jahren
+Antwort_2   = 1 ca. 5 Milliarden Jahren
+Antwort_3   = 0 ca. 7 Milliarden Jahren
+Antwort_4   = 0 ca. 9 Milliarden Jahren
+
+[11]
+FZ1         =  
+FZ2         =  Wie lange wird unsere Sonne
+FZ3         =  noch scheinen ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 ca. 1 Milliarden Jahren
+Antwort_2   = 0 ca. 3 Milliarden Jahren
+Antwort_3   = 0 ca. 4 Milliarden Jahren
+Antwort_4   = 1 ca. 5 Milliarden Jahren
+
+[12]
+FZ1         = 
+FZ2         =  Welche Geschwindigkeit hat
+FZ3         =  das Licht ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 ca. 100.000 km pro Sekunde
+Antwort_2   = 1 ca. 300.000 km pro Sekunde
+Antwort_3   = 0 ca. 200.000 km pro Sekunde
+Antwort_4   = 0 ca. 400.000 km pro Sekunde
+
+[13]
+FZ1         = 
+FZ2         =  Woraus besteht das Sonnenlicht ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 aus Gasbläschen
+Antwort_2   = 0 aus Atomdampfwellen
+Antwort_3   = 0 aus Hitzestrahlen
+Antwort_4   = 1 aus elektromagnetischen Wellen
+
+[14]
+FZ1         = 
+FZ2         =  Wie weit ist die Sonne von
+FZ3         =  der Erde entfernt ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 ca. 150 Millionen km
+Antwort_2   = 0 ca. 100 Millionen km
+Antwort_3   = 0 ca. 250 Millionen km
+Antwort_4   = 0 ca. 50 Millionen km
+
+[15]
+FZ1         = 
+FZ2         =  Wie lange braucht das Licht der Sonne,
+FZ3         =  um auf die Erde zu gelangen ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 ca. 8 Minuten
+Antwort_2   = 0 ca. 4 Minuten
+Antwort_3   = 0 ca. 10 Minuten
+Antwort_4   = 0 ca. 2 Minuten
+
+[16]
+FZ1         =  Wie nennt man es, wenn der Mond
+FZ2         =   genau zwischen Sonne und Erde
+FZ3         =  steht und die Sonne verdeckt ?
+Min         = 200
+Max         = 2000
+Antwort_1   = 1 Sonnenfinsternis
+Antwort_2   = 0 Mondfinsternis
+Antwort_3   = 0 Vollmond
+Antwort_4   = 0 Neumond
+
+[17]
+FZ1         = 
+FZ2         =  Wie nennt man den äußeren
+FZ3         =  Bereich der Sonnenatmosphäre ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Beluga
+Antwort_2   = 0 Ramona
+Antwort_3   = 1 Korona
+Antwort_4   = 0 Kormoran
+
+[18]
+FZ1         =  Wie nennt man es,
+FZ2         =  wenn sich die Erde zwischen die
+FZ3         =  Sonne und den Mond schiebt ?
+Min         = 400
+Max         = 4000
+Antwort_1   = 0 Erdfinsternis
+Antwort_2   = 0 Sonnenfinsternis
+Antwort_3   = 0 Monduntergang
+Antwort_4   = 1 Mondfinsternis
+                
+[19]
+FZ1         = 
+FZ2         =  Wie sieht der Mond bei
+FZ3         =  einer Mondfinsternis aus ?
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 grasgrün
+Antwort_2   = 0 hellblau
+Antwort_3   = 0 dunkelgelb
+Antwort_4   = 1 dunkelrot
+                
+[20]
+FZ1         =  
+FZ2         =  Welcher Himmelskörper ist
+FZ3         =  der Erde am nächsten ?
+Min         = 100
+Max         = 2000
+Antwort_1   = 0 die Sonne
+Antwort_2   = 0 die Venus
+Antwort_3   = 0 der Mars
+Antwort_4   = 1 der Mond
+
+[21]
+FZ1         = 
+FZ2         =  Wie weit ist der Mond von
+FZ3         =  der Erde entfernt ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 ca. 125.000 km
+Antwort_2   = 0 ca. 247.000 km
+Antwort_3   = 1 ca. 384.000 km
+Antwort_4   = 0 ca. 471.000 km
+
+[22]
+FZ1         =  Wodurch wird der Mond
+FZ2         =  in der Umlaufbahn der
+FZ3         =  Erde gehalten ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 durch unsichtbare Seile
+Antwort_2   = 1 durch die Schwerkraft der Erde
+Antwort_3   = 0 durch ein Magnetfeld
+Antwort_4   = 0 durch den Sonnenwind
+
+[23]
+FZ1         =  
+FZ2         =  Welche Jahreszeiten gibt
+FZ3         =  es auf dem Mond ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 keine
+Antwort_2   = 0 Sommer und Winter
+Antwort_3   = 0 Frühling und Herbst
+Antwort_4   = 0 Herbst und Winter
+
+[24]
+FZ1         = 
+FZ2         =  Wie viel mal schwerer als der
+FZ3         =  Mond ist die Erde ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 14  - mal
+Antwort_2   = 1 81 -  mal
+Antwort_3   = 0 53 -  mal
+Antwort_4   = 0 39 -  mal
+
+[25]
+FZ1         = 
+FZ2         =  Welche Winde gibt es  
+FZ3         =  auf dem Mond ?
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 Nordwinde
+Antwort_2   = 0 Orkane
+Antwort_3   = 1 keine
+Antwort_4   = 0 Südstürme
+
+[26]
+FZ1         =  
+FZ2         =  Wie lange dauert eine Drehung des
+FZ3         =  Mondes um die Erde ?
+Min         =  64000
+Max        = 500000
+Antwort_1   = 1 29 Tage 13 Stunden
+Antwort_2   = 0 21 Tage 6 Stunden
+Antwort_3   = 0 18 Tage 16 Stunden
+Antwort_4   = 0 12 Tage 20 Stunden
+
+[27]
+FZ1         =  Wie nennt man es, wenn  man den
+FZ2         =  Mond nicht sieht, weil er sich
+FZ3         =  zwischen der Sonne und der Erde befindet ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Vollmond
+Antwort_2   = 0 Halbmond
+Antwort_3   = 1 Neumond
+Antwort_4   = 0 Nachtmond
+
+[28]
+FZ1         = 
+FZ2         =  Wie nennt man es, wenn der ganze
+FZ3         =  Mond von der Sonne beleuchtet wird ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Sonnenmond
+Antwort_2   = 0 Neumond
+Antwort_3   = 0 Hellmond
+Antwort_4   = 1 Vollmond
+
+[29]
+FZ1         = 
+FZ2         =  Wodurch entstanden die 
+FZ3         =  zahlreichen Mondkrater ?
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 Vulkanausbrüche
+Antwort_2   = 1 Meteoriteneinschläge
+Antwort_3   = 0 Mondbeben
+Antwort_4   = 0 Wirbelstürme
+
+[30]
+FZ1         = Wodurch werden die Planeten
+FZ2         =  in der Umlaufbahn der
+FZ3         =  Sonne gehalten ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 durch unsichtbare Seile
+Antwort_2   = 0 durch Magnetkraft
+Antwort_3   = 1 durch die Schwerkraft der Sonne
+Antwort_4   = 0 durch den Sonnenwind
+
+[31]
+FZ1         = 
+FZ2         =  Wie lautet die astronomische
+FZ3         =  Bezeichnung für unsere Sonne ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Blitzstern
+Antwort_2   = 0 Mixstern
+Antwort_3   = 0 Nachtstern
+Antwort_4   = 1 Fixstern
+
+[32]
+FZ1         = 
+FZ2         =  Wie viele Asteroiden gibt es
+FZ3         =  in unserem Sonnensystem ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 ca. 10.000
+Antwort_2   = 0 ca. 20.000
+Antwort_3   = 0 ca. 30.000
+Antwort_4   = 1 ca. 40.000
+
+[33]
+FZ1         = 
+FZ2         =  Wonach wurden die Planeten
+FZ3         =  benannt ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 nach amerikanischen Göttern
+Antwort_2   = 0 nach afrikanischen Göttern
+Antwort_3   = 1 nach europäischen Göttern
+Antwort_4   = 0 nach indischen Göttern
+
+[34]
+FZ1         = 
+FZ2         =  Wie nennt man die Umlaufbahn, auf der
+FZ3         =  sich die Asteroiden bewegen ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 Asteroidengürtel
+Antwort_2   = 0 Asteroidenbänder
+Antwort_3   = 0 Asteroidenschnüre
+Antwort_4   = 0 Asteroidengummis
+
+[35]
+FZ1         =
+FZ2         =  Welche Form haben die
+FZ3         =  Asteroiden ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 kreisrund
+Antwort_2   = 0 oval
+Antwort_3   = 0 achteckig
+Antwort_4   = 1 unregelmäßig
+
+[36]
+FZ1         = 
+FZ2         =  Welchen Durchmesser haben
+FZ3         =  die Asteroiden ?
+Min         =  4000
+Max         = 64000
+Antwort_1   = 0 ca. 100 m
+Antwort_2   = 0 mehrere cm
+Antwort_3   = 1 einige Kilometer
+Antwort_4   = 0 ca. 2000 Kilometer
+
+[37]
+FZ1         =
+FZ2         =  Wie heißt der größte Asteroid ?
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Ceres
+Antwort_2   = 0 Hermes
+Antwort_3   = 0 Zeberus
+Antwort_4   = 0 Eving
+
+[38]
+FZ1         =
+FZ2         =  Welchen Durchmesser hat 
+FZ3         =  der größte Asteroid ?
+Min         =  64000
+Max        =  250000
+Antwort_1   = 0 ca. 12 Kilometer
+Antwort_2   = 0 ca. 245 Kilometer
+Antwort_3   = 0 ca. 2340 Kilometer
+Antwort_4   = 1 ca. 740 Kilometer
+
+[39]
+FZ1         = Wie nennt man einen Meteor,
+FZ2         =  der beim Eintritt in die Erdatmosphäre
+FZ3         =  verglüht ?
+Min         = 100
+Max         = 2000
+Antwort_1   = 0 Sternbild
+Antwort_2   = 1 Sternschnuppe
+Antwort_3   = 0 Sternhagel
+Antwort_4   = 0 Sternregen
+
+[40]
+FZ1         = Wie nennt man Stein- und Eisentrümmer,
+FZ2         =  die durchs Weltall fliegen und manchmal
+FZ3         =  auf die Erde aufschlagen ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 Kometen
+Antwort_2   = 0 Planeten
+Antwort_3   = 0 Fixsterne
+Antwort_4   = 1 Meteoriten
+
+[41]
+FZ1         =
+FZ2         =  Wie viele Meteoritenkrater
+FZ3         =  kennen wir auf der Erde ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 ca. 10
+Antwort_2   = 0 ca. 1000
+Antwort_3   = 0 ca. 10.000
+Antwort_4   = 1 ca. 1000
+
+[42]
+FZ1         =
+FZ2         =  Woraus bestehen meistens Meteoriten ?
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 Kupfer und Eisen
+Antwort_2   = 0 Eisen und Silber
+Antwort_3   = 1 Nickel und Eisen
+Antwort_4   = 0 Nickel und Bronze
+
+[43]
+FZ1         = Wie nennt man einen Himmelskörper, der aus
+FZ2         =  Eis, gefrorenen Gasen, Staub und anderen festen 
+FZ3         =  Stoffen besteht ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Komet
+Antwort_2   = 0 Prophet
+Antwort_3   = 0 Tibet
+Antwort_4   = 0 Spinett
+
+[44]
+FZ1         =
+FZ2         =  Mit welchem Spitznamen werden
+FZ3         = Kometen auch benannt ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 schmutziger Schneeball
+Antwort_2   = 0 schmutziger Steinbrocken
+Antwort_3   = 0 sauberes Felsstück
+Antwort_4   = 0 sauberer Eisball
+
+[45]
+FZ1         =
+FZ2         =  Wie lang kann der 
+FZ3         =  Kometenschweif werden ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 1 mehrere Millionen km
+Antwort_2   = 0 wenige Kilometer
+Antwort_3   = 0 10 - 90 Kilometer
+Antwort_4   = 0 125.000 Kilometer
+
+[46]
+FZ1         =
+FZ2         =  Woraus besteht der Kometenschweif ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 aus Staub und Eisen
+Antwort_2   = 0 aus Nickel und Schnee
+Antwort_3   = 1 aus Staub und Gasen
+Antwort_4   = 0 aus Eis und Gasen
+
+[47]
+FZ1         =
+FZ2         =  In welche Richtung bildet sich
+FZ3         =  der Kometenschweif ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1 immer von der Sonne abgewandt
+Antwort_2   = 0 immer der Sonne zugewandt
+Antwort_3   = 0 immer dem Mond zugewandt
+Antwort_4   = 0 immer nach Norden
+
+[48]
+FZ1         =
+FZ2         =  Wie heißt einer der 
+FZ3         =  berühmtesten Kometen ?
+Min         = 16000
+Max        = 250000
+Antwort_1   = 1 Halleyscher Komet
+Antwort_2   = 0 Galileo Komet
+Antwort_3   = 0 Alberto Komet
+Antwort_4   = 0 Einstein Komet
+
+[49]
+FZ1         =
+FZ2         =  Wie nennt man Sternensysteme ?
+FZ3         = 
+Min         = 200
+Max        = 1000
+Antwort_1   = 0 Utopien
+Antwort_2   = 1 Galaxien
+Antwort_3   = 0 Lupinen
+Antwort_4   = 0 Gardinen
+
+[50]
+FZ1         = 
+FZ2         =  Wie heißt die Galaxie, in der
+FZ3         =  sich unser Sonnensystem befindet ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 1 Milchstraße
+Antwort_2   = 0 Kakaoweg
+Antwort_3   = 0 Teestraße
+Antwort_4   = 0 Milchpfad
+
+[51]
+FZ1         = 
+FZ2         =  Wo innerhalb der Milchstraße
+FZ3         =  liegt unser Sonnensystem ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 am inneren Rand
+Antwort_2   = 1 am äußeren Rand
+Antwort_3   = 0 im Zentrum
+Antwort_4   = 0 nahe der Mitte
+
+[52]
+FZ1         = Wie lange benötigt das Licht, um 
+FZ2         =   vom einen Ende der Milchstraße 
+FZ3         =  zum anderen Ende zu gelangen ?
+Min         = 125000
+Max         = 100000
+Antwort_1   = 1 ca. 100.000 Jahre
+Antwort_2   = 0 ca. 50.000 Jahre
+Antwort_3   = 0 ca. 1 Millionen Jahre
+Antwort_4   = 0 ca. 2.500 Jahre
+
+[53]
+FZ1         =
+FZ2         =  Wie viele Galaxien existieren
+FZ3         =  im Weltraum ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Tausende
+Antwort_2   = 1 Millionen
+Antwort_3   = 0 Hunderte
+Antwort_4   = 0 Hunderttausend
+
+[54]
+FZ1         = 
+FZ2         =  Wie viele Sterne gibt es
+FZ3         =  in der Milchstraße ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 über 100 Milliarden
+Antwort_2   = 0 zwischen 10 und 100 Millionen
+Antwort_3   = 0 weniger als 10 Milliarden
+Antwort_4   = 0 genau 5.236.509.327
+
+[55]
+FZ1         =
+FZ2         =  Wie weit ist unser Sonnensystem vom 
+FZ3         =  Zentrum der Milchstraße entfernt ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ca. 2.000 Lichtjahre
+Antwort_2   = 0 ca. 12.000 Lichtjahre
+Antwort_3   = 0 ca. 23.000 Lichtjahre
+Antwort_4   = 1 ca. 30.000 Lichtjahre
+
+[56]
+FZ1         =
+FZ2         = Wie heißt die uns nächstgelegene 
+FZ3         = Galaxie ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Andromeda - Nebel 
+Antwort_2   = 0 Kaseopeia - Regen
+Antwort_3   = 0 Hubertus - Schnee
+Antwort_4   = 0 Nikolas - Hagel
+
+[57]
+FZ1         = Wie lange benötigt das Licht der uns
+FZ2         =  nächstgelegenen Galaxie, um zur
+FZ3         =  Erde zu gelangen ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 2 Millionen Jahre
+Antwort_2   = 0 1 Millionen Jahre
+Antwort_3   = 0 500.000 Jahre
+Antwort_4   = 0 10 Millionen Jahre
+
+[58]
+FZ1         =
+FZ2         =  Welche Form hat die Milchstraße ?
+FZ3         = 
+Min         = 8000
+Max         = 32000
+Antwort_1   = 0 kreisförmig
+Antwort_2   = 1 spiralförmig
+Antwort_3   = 0 elliptisch
+Antwort_4   = 0 unregelmäßig
+
+[59]
+FZ1         = Wie lange benötigt unser Sonnensystem
+FZ2         =  für einen Umlauf um das Zentrum der
+FZ3         =  Milchstraße ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 ca. 225 Millionen Jahre
+Antwort_2   = 0 ca. 190 Millionen Jahre
+Antwort_3   = 0 ca. 56 Millionen Jahre
+Antwort_4   = 0 ca. 408 Millionen Jahre
+
+[60]
+FZ1         =
+FZ2         =  Was ist ein Stern ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 eine glühende Gaskugel
+Antwort_2   = 0 ein heißer Staubball
+Antwort_3   = 0 ein brennender Felsbrocken
+Antwort_4   = 0 ein explodierender Meteor
+
+[61]
+FZ1         =
+FZ2         =  Gibt es Leben auf Sternen ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Das weiß man nicht.
+Antwort_2   = 0 ja
+Antwort_3   = 0 nur auf einigen
+Antwort_4   = 1 Nein, sie sind viel zu heiß.
+
+[62]
+FZ1         =
+FZ2         =  Wie nennt man einen
+FZ3         =  sterbenden Stern ?
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 "Roter Riese"
+Antwort_2   = 0 "Gelber Riese"
+Antwort_3   = 0 "Weißer Riese"
+Antwort_4   = 0 "Schwarzer Riese"
+
+[63]
+FZ1         =
+FZ2         =  In was verwandelt sich ein "Roter Riese" ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 in einen "roten Zwerg" 
+Antwort_2   = 0 in einen "grünen Zwerg" 
+Antwort_3   = 1 in einen "weißen Zwerg" 
+Antwort_4   = 0 in einen "schwarzen Zwerg" 
+
+[64]
+FZ1         = Wie nennt man es, wenn ein
+FZ2         =  Stern nach seinem  
+FZ3         =  Schrumpfungsprozess explodiert ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 Bossa Nova
+Antwort_2   = 0 Prima Nova
+Antwort_3   = 0 Tolle Nova
+Antwort_4   = 1 Supernova
+
+[65]
+FZ1         =
+FZ2         =  Wann wurde ein explodierender
+FZ3         =  Stern das erste Mal beobachtet ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 1987
+Antwort_2   = 0 1947
+Antwort_3   = 0 1997
+Antwort_4   = 0 1927
+
+[66]
+FZ1         = Wie nennt man einen auf wenige
+FZ2         =  Kilometer geschrumpften Neutronenstern
+FZ3         =  mit ungeheurer Schwerkraft ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 "Weißer Fleck" 
+Antwort_2   = 0 "Schwarzer Fleck"
+Antwort_3   = 1 "Schwarzes Loch"
+Antwort_4   = 0 "Weißes Loch"
+
+[67]
+FZ1         =
+FZ2         =  Wann ist das Weltall entstanden ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 vor ca. 15 Milliarden Jahren
+Antwort_2   = 0 vor ca. 5 Milliarden Jahren
+Antwort_3   = 0 vor ca. 10 Milliarden Jahren
+Antwort_4   = 0 vor ca. 25 Milliarden Jahren
+
+[68]
+FZ1         =
+FZ2         =  Wie bewegen sich die Galaxien
+FZ3         =  zueinander ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 Sie umkreisen sich.
+Antwort_2   = 0 Sie bewegen sich aufeinander zu.
+Antwort_3   = 0 Ihr Abstand bleibt gleich.
+Antwort_4   = 1 Sie bewegen sich voneinander fort.
+
+[69]
+FZ1         = Wie nennt man die Erforschung
+FZ2         =  des Weltalls und der Bewegung 
+FZ3         =  der Himmelskörper ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Astrologie
+Antwort_2   = 1 Astronomie
+Antwort_3   = 0 Apatologie
+Antwort_4   = 0 Astraltheorie
+
+[70]
+FZ1         = Wer bewies als erster in Europa,
+FZ2         =  dass sich die Erde um die Sonne
+FZ3         =  und um sich selbst dreht ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 0 Albert Einstein
+Antwort_2   = 0 Martin Luther
+Antwort_3   = 0 Kaiser Karl IV
+Antwort_4   = 1 Nikolaus Kopernikus
+
+[71]
+FZ1         = 
+FZ2         =  Welcher Stern befindet sich im
+FZ3         =  Sternbild des "Kleinen Bären" ?
+Min         =  400
+Max        = 4000
+Antwort_1   = 0 Funkelstern
+Antwort_2   = 1 Polarstern
+Antwort_3   = 0 Glücksstern
+Antwort_4   = 0 Milchstern
+
+[72]
+FZ1         = 
+FZ2         = Welche Himmelsrichtung zeigt uns 
+FZ3         =  der Polarstern an ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 Westen
+Antwort_2   = 0 Osten
+Antwort_3   = 0 Süden
+Antwort_4   = 1 Norden
+
+[73]
+FZ1         = 
+FZ2         =  Wie heißt der größte Planet
+FZ3         =  unseres Sonnensystems ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Jupiter
+Antwort_2   = 0 Saturn
+Antwort_3   = 0 Pluto
+Antwort_4   = 0 Uranus
+
+[74]
+FZ1         = 
+FZ2         =  Wie viel Mal größer als die Erde
+FZ3         =  ist der Planet Jupiter ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 100 - mal
+Antwort_2   = 0 520 - mal
+Antwort_3   = 1 1.300 - mal
+Antwort_4   = 0 230 - mal
+
+[75]
+FZ1         = 
+FZ2         =  Woraus besteht der Planet Jupiter
+FZ3         =  zum größten Teil ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 aus heißem Gas
+Antwort_2   = 0 aus Nickel und Eisen
+Antwort_3   = 0 aus heißem Staub
+Antwort_4   = 1 aus kaltem, flüssigen Wasserstoff
+
+[76]
+FZ1         = 
+FZ2         = Wie lang ist ein Tag auf Jupiter ? 
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 weniger als 10 Stunden
+Antwort_2   = 0 15 - 18 Stunden
+Antwort_3   = 0 32 Std. 34 Minuten
+Antwort_4   = 0 mehr als 48 Stunden
+
+[77]
+FZ1         = 
+FZ2         =  Wie viele "Erdenjahre" dauert ein
+FZ3         =  Jahr auf dem Planeten Jupiter ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0  6
+Antwort_2   = 0 8
+Antwort_3   = 1 12
+Antwort_4   = 0 10
+
+[78]
+FZ1         =
+FZ2         =  Wie viele Monde umkreisen
+FZ3         =  den Planeten Jupiter ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 12
+Antwort_2   = 0 14
+Antwort_3   = 0 18
+Antwort_4   = 1 16
+
+[79]
+FZ1         =
+FZ2         =  Wie nennt man die Monde, die
+FZ3         =  die Planeten umkreisen ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 Verwandte
+Antwort_2   = 1 Trabanten
+Antwort_3   = 0 Tanten
+Antwort_4   = 0 Rabauken
+
+[80]
+FZ1         =
+FZ2         =  Wie heißt der größte Mond in
+FZ3         =  unserem Sonnensystem ?
+Min         = 64000
+Max         = 1000000
+Antwort_1   = 1 Ganymed
+Antwort_2   = 0 Kallisto
+Antwort_3   = 0 Io
+Antwort_4   = 0 Titan
+
+[81]
+FZ1         = 
+FZ2         =  Woraus besteht der größte Mond
+FZ3         =  in unserem Sonnensystem ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 aus glühendem Eisen 
+Antwort_2   = 0 aus heißen Gasen
+Antwort_3   = 1 aus gefrorenem Wasser
+Antwort_4   = 0 aus Nickel und Kobalt
+
+[82]
+FZ1         = 
+FZ2         =  Auf welchem Mond gibt es
+FZ3         =  zahlreiche aktive Vulkane ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Io
+Antwort_2   = 0 Ia
+Antwort_3   = 0 Eu
+Antwort_4   = 0 Eo
+
+[83]
+FZ1         = 
+FZ2         =  Wie heißt der kleinste Planet
+FZ3         =  in unserem Sonnensystem ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Pluto
+Antwort_2   = 0 Venus
+Antwort_3   = 0 Mars
+Antwort_4   = 0 Merkur
+
+[84]
+FZ1         = 
+FZ2         =  Welcher Planet unseres Sonnensystems
+FZ3         =  ist am weitesten von unserer Sonne entfernt ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 Erde 
+Antwort_2   = 0 Uranus
+Antwort_3   = 1Pluto
+Antwort_4   = 0 Jupiter
+
+[85]
+FZ1         = 
+FZ2         =  Welche Temperaturen herrschen
+FZ3         =  auf dem Planeten Pluto ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1Dort ist es eiskalt. 
+Antwort_2   = 0 Dort ist es sehr heiß.
+Antwort_3   = 0 Das Klima ist wechselhaft.
+Antwort_4   = 0 Immer genau - 2 Grad
+
+[86]
+FZ1         = 
+FZ2         =  Welche Planeten sind der
+FZ3         =  Sonne am nächsten ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Erde und Pluto 
+Antwort_2   = 0 Venus und Saturn
+Antwort_3   = 0 Jupiter und Uranus
+Antwort_4   = 1 Merkur und Venus
+
+[87]
+FZ1         = 
+FZ2         =  Wie viele Monde hat die Venus ?
+FZ3         = 
+Min         = 12000
+Max         = 64000
+Antwort_1   = 1 0
+Antwort_2   = 0 1
+Antwort_3   = 0 2
+Antwort_4   = 0 3
+
+[88]
+FZ1         = 
+FZ2         =  Wie weit ist Pluto von
+FZ3         =  der Sonne entfernt ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 786 Millionen km  
+Antwort_2   = 0 1,4 Milliarden km
+Antwort_3   = 0 4,8 Milliarden km
+Antwort_4   = 1 7,4 Milliarden km
+
+[89]
+FZ1         = 
+FZ2         =  Wie weit ist der Planet
+FZ3         =  Neptun von der Sonne entfernt ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 4,5 Milliarden km
+Antwort_2   = 0 1,6 Milliarden km
+Antwort_3   = 0 672 Millionen km
+Antwort_4   = 0 109 Millionen km
+
+[90]
+FZ1         = 
+FZ2         =  Wie hieß die Raumsonde, die 1986 den
+FZ3         = Planeten Neptun überflog ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Enterprise 4
+Antwort_2   = 1 Voyager 2
+Antwort_3   = 0  Orion 1
+Antwort_4   = 0 Star Trek 10
+
+[91]
+FZ1         = 
+FZ2         =  Wie lange dauert ein Tag auf dem
+FZ3         =  Planeten Neptun ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 ca. 16 Stunden
+Antwort_2   = 0 ca. 6 Stunden
+Antwort_3   = 0 ca. 22 Stunden
+Antwort_4   = 0 ca. 11 Stunden
+
+[92]
+FZ1         = 
+FZ2         =  Wie viele Monde hat der
+FZ3         =  Planet Neptun ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 6 
+Antwort_2   = 0 10
+Antwort_3   = 0 12
+Antwort_4   = 1 8
+
+[93]
+FZ1         = 
+FZ2         =  Wie lange dauert ein Jahr auf dem
+FZ3         =  Planeten Merkur ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 1 88 Erdentage
+Antwort_2   = 0 66 Erdentage
+Antwort_3   = 0 222 Erdentage
+Antwort_4   = 0 11 Erdentage
+
+[94]
+FZ1         = 
+FZ2         =  Woraus besteht der Planet
+FZ3         =  Merkur zum größten Teil?
+Min         = 2000
+Max         = 8000
+Antwort_1   = 0 aus Silber 
+Antwort_2   = 1 aus Eisen
+Antwort_3   = 0 aus Bronze
+Antwort_4   = 0 aus Gold
+
+[95]
+FZ1         =  
+FZ2         =  Wie viele Monde hat der 
+FZ3         =   Planet Merkur ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 0
+Antwort_2   = 0 2
+Antwort_3   = 0 4
+Antwort_4   = 0 7
+
+[96]
+FZ1         = 
+FZ2         =  Welcher Planet unseres Sonnensystems
+FZ3         =  hat die meisten Monde ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Pluto 
+Antwort_2   = 0 Uranus
+Antwort_3   = 1 Saturn
+Antwort_4   = 0 Neptun
+
+[97]
+FZ1         = 
+FZ2         =  Wie viele Monde hat der
+FZ3         =  Planet Saturn ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 24
+Antwort_2   = 0 8
+Antwort_3   = 0 16
+Antwort_4   = 0 4
+
+[98]
+FZ1         = 
+FZ2         =  Wie heißt der größte Mond des
+FZ3         =  Planeten Saturn ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Io 
+Antwort_2   = 0 Ganymed
+Antwort_3   = 0 Trabant
+Antwort_4   = 1 Titan
+
+[99]
+FZ1         = 
+FZ2         =  Wie nennt man den
+FZ3         =  Planeten Mars auch noch ?
+Min         = 1000
+Max         = 1600
+Antwort_1   = 1 "Roter Planet"
+Antwort_2   = 0 "Weißer Planet"
+Antwort_3   = 0 "Blauer Planet"
+Antwort_4   = 0 "Gelber Planet"
+
+[100]
+FZ1         =  
+FZ2         =   Woraus besteht der Planet
+FZ3         =   Uranus ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 aus Staub 
+Antwort_2   = 0 aus Eis
+Antwort_3   = 1 aus Gasen
+Antwort_4   = 0 aus Metall 
+
+
+[101]
+FZ1         = 
+FZ2         =  Wie viele Monde des Planeten
+FZ3         =  Uranus wurden entdeckt ? 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 7 
+Antwort_2   = 0 9
+Antwort_3   = 0 19
+Antwort_4   = 1  15
+
+[102]
+FZ1         =  
+FZ2         =  Wie hoch sind die Berge auf
+FZ3         =  dem Uranusmond Miranda ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 bis 1200 m
+Antwort_2   = 1 bis 26 km
+Antwort_3   = 0 bis 10 km
+Antwort_4   = 0 bis 87 km
+
+[103]
+FZ1         = 
+FZ2         =  Welche Farbe hat der 
+FZ3         =  Planet Uranus ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 rotgelb
+Antwort_2   = 1 blaugrün
+Antwort_3   = 0 grünweiß
+Antwort_4   = 0 blauschwarz
+
+[104]
+FZ1         = 
+FZ2         =  Woraus besteht eine Weltraumrakete
+FZ3         =  zum größten Teil ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 aus Antennen
+Antwort_2   = 0 aus Computern
+Antwort_3   = 1 aus Treibstofftanks
+Antwort_4   = 0 aus Raketendüsen
+
+[105]
+FZ1         = 
+FZ2         =  Wie hieß der erste künstliche
+FZ3         =  Satellit im All ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 Enterprise
+Antwort_2   = 1 Sputnik
+Antwort_3   = 0 Voyager
+Antwort_4   = 0 Space Shuttle
+
+[106]
+FZ1         = 
+FZ2         =  Wann wurde der erste Satellit
+FZ3         =  in das All geschickt ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 1912
+Antwort_2   = 0 1865
+Antwort_3   = 0 1983
+Antwort_4   = 1 1957
+
+[107]
+FZ1         = 
+FZ2         =  Wer war das erste Lebewesen
+FZ3         =  im Weltall ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 russische Affe Iwan
+Antwort_2   = 0 amerikanischer Affe Sam
+Antwort_3   = 1 russische Hündin Laika
+Antwort_4   = 0 amerikanischer Hund Charly
+
+[108]
+FZ1         = 
+FZ2         =  Wer umkreiste als erster
+FZ3         =  Mensch die Erde ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 der Amerikaner Armstrong
+Antwort_2   = 0 der Russe Boris
+Antwort_3   = 1 der Russe Gagarin
+Antwort_4   = 0 der Amerikaner Scott
+
+[109]
+FZ1         = 
+FZ2         =  Wann umkreiste der erste
+FZ3         =  Mensch die Erde ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 1932
+Antwort_2   = 0 1942
+Antwort_3   = 0 1976
+Antwort_4   = 1 1961
+
+[110]
+FZ1         = 
+FZ2         =  Wann schwebte der erste Mensch
+FZ3         =  frei im Weltraum ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 1952
+Antwort_2   = 1 1965
+Antwort_3   = 0 1961
+Antwort_4   = 0 1959
+
+[111]
+FZ1         =  
+FZ2         =  Wer war der erste Mensch
+FZ3         =  auf dem Mond ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 David Scott
+Antwort_2   = 0 Edwin Aldrin
+Antwort_3   = 0 Roald Amundsen
+Antwort_4   = 1 Neil Armstrong
+
+[112]
+FZ1         = 
+FZ2         =  Wie hieß das Raumfahrzeug, das die
+FZ3         =  ersten Menschen zum Mond brachte ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Star Trek
+Antwort_2   = 1 Apollo 11
+Antwort_3   = 0 Enterprise
+Antwort_4   = 0 Mir
+
+[113]
+FZ1         = 
+FZ2         =  Wie lange hielten sich die 
+FZ3         =  ersten Menschen auf dem Mond auf ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 5 Minuten
+Antwort_2   = 0 5 Tage
+Antwort_3   = 0 5 Wochen
+Antwort_4   = 1 5 Stunden
+
+[114]
+FZ1         = 
+FZ2         =  Wer war der zweite Mensch
+FZ3         =  auf dem Mond ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Edwin Aldrin
+Antwort_2   = 0 John F. Kennedy
+Antwort_3   = 0 Wladimir Iwan
+Antwort_4   = 0 Louis Armstrong
+
+[115]
+FZ1         = 
+FZ2         =  Wann betrat der erste Mensch den Mond ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 1933 
+Antwort_2   = 0 1901
+Antwort_3   = 1 1969
+Antwort_4   = 0 1995
+
+[116]
+FZ1         =  
+FZ2         =  In welcher Höhe beginnt 
+FZ3         =   der Weltraum ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 in 300 - 400 km
+Antwort_2   = 0 über dem Mount Everest
+Antwort_3   = 0 hinter dem Mond
+Antwort_4   = 0 ab 1.000 km
+
+[117]
+FZ1         = 
+FZ2         =  Wer baute die erste Raumstation ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 die Amerikaner
+Antwort_2   = 0  die Chinesen
+Antwort_3   = 1 die Russen
+Antwort_4   = 0 die Australier
+
+[118]
+FZ1         = 
+FZ2         =  Wie hieß die erste Raumstation ?
+FZ3         = 
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 Mir
+Antwort_2   = 0 Skylab
+Antwort_3   = 0 Enterprise
+Antwort_4   = 1 Saljut 1
+                
+[119]
+FZ1         = 
+FZ2         =  Wann wurde die erste Raumstation
+FZ3         =  gebaut ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 1912
+Antwort_2   = 0 1940
+Antwort_3   = 0 1815
+Antwort_4   = 1 1971
+                
+[120]
+FZ1         =  
+FZ2         =  Wie hieß die erste 
+FZ3         =  amerikanische Raumstation ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0  Mir
+Antwort_2   = 1 Skylab
+Antwort_3   = 0 Sputnik
+Antwort_4   = 0 Apollo
+
+[121]
+FZ1         = Wie nennt man Raketen, die wieder
+FZ2         =  aus dem Weltraum zurückkehren und 
+FZ3         =  wie ein Flugzeug landen können ?
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 Jumbos
+Antwort_2   = 0 Raumgleiter
+Antwort_3   = 1 Raumfähren
+Antwort_4   = 0 Weltraumjets
+
+[122]
+FZ1         = 
+FZ2         =  Wie heißt die amerikanische Raumfähre ?
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 0 Orion 1
+Antwort_2   = 1 Spaceshuttle
+Antwort_3   = 0 Skylab
+Antwort_4   = 0 Enterprise
+
+[123]
+FZ1         =  
+FZ2         =  Wann flog die erste amerikanische
+FZ3         =  Raumfähre ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 1981
+Antwort_2   = 0 1999
+Antwort_3   = 0 1954
+Antwort_4   = 0 1964
+
+[124]
+FZ1         = Wie hieß die russische Weltraumstation,
+FZ2         =  die 15 Jahre im Weltraum blieb ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Dir
+Antwort_2   = 1 Mir
+Antwort_3   = 0 Bier
+Antwort_4   = 0 Tier
+
+[125]
+FZ1         =  In welchem Zeitraum flog die russische
+FZ2         =  Weltraumstation Mir durch den
+FZ3         =  Weltraum ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 1967 - 1982
+Antwort_2   = 0 1971 - 1986
+Antwort_3   = 1 1986 - 2001
+Antwort_4   = 0 1979 - 1994
+
+[126]
+FZ1         =  
+FZ2         =  Wie heißt das größte orbitale
+FZ3         =  Weltraumteleskop ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Hubble
+Antwort_2   = 0 Knubbel
+Antwort_3   = 0 Bubble
+Antwort_4   = 0 Stubbel
+
+[127]
+FZ1         = 
+FZ2         =  Wie hieß die erste Mondfähre ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 "Hawk" (Falke)
+Antwort_2   = 0 "Bird" (Vogel)
+Antwort_3   = 1 "Eagle" (Adler)
+Antwort_4   = 0 "Moon" (Mond)
+
+[128]
+FZ1         = 
+FZ2         =  Was gibt es nicht auf dem Mond ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Krater
+Antwort_2   = 0 Steine
+Antwort_3   = 0 Staub
+Antwort_4   = 1 Flüsse
+
+[129]
+FZ1         = 
+FZ2         =  Wie nennt man ein Gebäude zur
+FZ3         =  Beobachtung der Sterne ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Sternhaus
+Antwort_2   = 1 Sternwarte
+Antwort_3   = 0 Sternstation
+Antwort_4   = 0 Sternbild
+
+[130]
+FZ1         = Wie nennt man die Explosion von
+FZ2         =  Materie, die vor 15 - 20
+FZ3         =  Milliarden Jahren stattgefunden hat ?
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 Urkrach
+Antwort_2   = 0 Urschrei
+Antwort_3   = 1 Urknall
+Antwort_4   = 0 Urbums
+
+[131]
+FZ1         = 
+FZ2         =  Wie nennt man die Schwerkraft
+FZ3         =  der Himmelskörper ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Grapefruit
+Antwort_2   = 0 Explosion
+Antwort_3   = 0 Mission
+Antwort_4   = 1 Gravitation
+
+[132]
+FZ1         = 
+FZ2         =  Wie verändert sich das 
+FZ3         =  Gewicht der Erde ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Sie wird leichter.
+Antwort_2   = 1 Sie wird schwerer.
+Antwort_3   = 0 Das Gewicht bleibt gleich.
+Antwort_4   = 0 Das Gewicht ist wechselhaft.
+
+[133]
+FZ1         = 
+FZ2         =  Wie nennt man die Lufthülle 
+FZ3         =  um die Erde ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Erdhülle
+Antwort_2   = 0 Erdluft
+Antwort_3   = 1 Erdatmosphäre
+Antwort_4   = 0 Luftsphäre
+
+[134]
+FZ1         = 
+FZ2         =  Was ist keine Schicht der
+FZ3         =  Erdatmosphäre ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Salsosphäre
+Antwort_2   = 0 Exospäre
+Antwort_3   = 0 Mesosphäre
+Antwort_4   = 0 Stratosphäre
+
+[135]
+FZ1         =
+FZ2         =  Welcher Teil der Erdatmosphäre
+FZ3         =  ist stark geschädigt ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 die Wolkenschicht
+Antwort_2   = 0 die Luftschicht
+Antwort_3   = 0 die Tagschicht
+Antwort_4   = 1 die Ozonschicht
+
+[136]
+FZ1         = Wie nennt man die Schicht in der 
+FZ2         =  Erdatmosphäre, die die Erde vor
+FZ3         =  der ultravioletten Strahlung schützt ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Odolschicht
+Antwort_2   = 0 Neonschicht
+Antwort_3   = 1 Ozonschicht
+Antwort_4   = 0 Geoschicht
+
+[137]
+FZ1         =
+FZ2         =  Was befindet sich im Mittelpunkt
+FZ3         =  unseres Sonnensystems ?
+Min         = 100
+Max         = 300
+Antwort_1   = 1 die Sonne
+Antwort_2   = 0 die Erde
+Antwort_3   = 0 der Mond
+Antwort_4   = 0 gar nichts
+
+[138]
+FZ1         =
+FZ2         =  Wie hoch sind die höchsten 
+FZ3         =  Berge auf dem Mond ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 bis 450 m
+Antwort_2   = 0 1.200 - 1.800 m
+Antwort_3   = 0 bis 12.000 m
+Antwort_4   = 1 bis 8.000 m
+
+[139]
+FZ1         =
+FZ2         =  Wie sind die Temperaturen
+FZ3         =  auf dem Mond ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 immer 45 Grad Celsius
+Antwort_2   = 1 -160 Grad bis + 130 Grad
+Antwort_3   = 0 ungefähr wie auf der Erde
+Antwort_4   = 0 28 Grad - 76 Grad Celsius
+
+[140]
+FZ1         = Wie viel mal größer als der
+FZ2         =  Durchmesser der Erde ist der
+FZ3         = Durchmesser der Sonne ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 über 300-mal
+Antwort_2   = 0 genau 78-mal
+Antwort_3   = 0 über 1000-mal
+Antwort_4   = 1 etwa 109-mal 
+
+[141]
+FZ1         =
+FZ2         =  Wie nennt man unbemannte
+FZ3         =  Raumflugkörper ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 Stalaktiten
+Antwort_2   = 0 Hebriden
+Antwort_3   = 0 Apollos
+Antwort_4   = 1 Satelitten
+
+[142]
+FZ1         =
+FZ2         =  Wie viele Satelitten sind 
+FZ3         =  bisher gestartet worden ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 50
+Antwort_2   = 0 150
+Antwort_3   = 1 4000
+Antwort_4   = 0 2700
+
+[143]
+FZ1         =
+FZ2         =  Wie schwer war die größte
+FZ3         = bisher gebaute Rakete ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 2.900 t
+Antwort_2   = 0 15.400 t
+Antwort_3   = 0 110 t
+Antwort_4   = 0 1.700 t
+
+[144]
+FZ1         =
+FZ2         =  Wie nennt man die Antriebsbauteile
+FZ3         =  einer Rakete ?
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 Stufen
+Antwort_2   = 0 Treppen
+Antwort_3   = 0 Kanonen
+Antwort_4   = 0 Kugeln
+
+[145]
+FZ1         =
+FZ2         =  Wie heißt die Trägerrakete der
+FZ3         = Europäischen Weltraumorganisation ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 1 Ariane
+Antwort_2   = 0 Saturn
+Antwort_3   = 0 Europa
+Antwort_4   = 0 Wostok
+
+[146]
+FZ1         =
+FZ2         =  Wie lange dauerte der bisher
+FZ3         =  längste Aufenthalt auf dem Mond ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 ca. 7 Stunden
+Antwort_2   = 0 ca. 21 Stunden
+Antwort_3   = 1 ca. 75 Stunden
+Antwort_4   = 0 ca. 64 Stunden
+
+[147]
+FZ1         = Wie viele Schalter, Hebel
+FZ2         =  und Anzeigen gibt es in
+FZ3         =  einer Raumfähre ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 über 2.000
+Antwort_2   = 0 1.100  -  1.500
+Antwort_3   = 0 weniger als 1.700
+Antwort_4   = 0 genau 894
+
+[148]
+FZ1         =
+FZ2         =  Wie lange dauert die Ausbildung zum
+FZ3         =  Piloten einer Raumfähre ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 48 Monate 
+Antwort_2   = 1 ca. 8 Jahre
+Antwort_3   = 0 4 Jahre
+Antwort_4   = 0 etwa 6 Jahre
+
+[149]
+FZ1         =
+FZ2         =  Wie nennt man Weltraumfahrer ?
+FZ3         = 
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 Allolauten
+Antwort_2   = 1 Astronauten
+Antwort_3   = 0 Zweigonauten
+Antwort_4   = 0 Wellolauten
+
+[150]
+FZ1         = 
+FZ2         =  Wie nennen die Russen ihre
+FZ3         =  Weltraumfahrer ?
+Min         = 2000
+Max         = 8000
+Antwort_1   = 1 Kosmonauten
+Antwort_2   = 0 Astronauten
+Antwort_3   = 0 Wodkanauten
+Antwort_4   = 0 Russonauten
+
+[151]
+FZ1         = 
+FZ2         =  Wie viele Planeten gibt es in
+FZ3         =  unserem Sonnensystem ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 7
+Antwort_2   = 1 9
+Antwort_3   = 0 11
+Antwort_4   = 0 15
+
+[152]
+FZ1         = 
+FZ2         =  Welche Himmelskörper sind erst
+FZ3         =  "Riesen" und dann "Zwerge" ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 Sterne
+Antwort_2   = 0 Planeten
+Antwort_3   = 0 Asteroiden
+Antwort_4   = 0 Monde
+
+[153]
+FZ1         =
+FZ2         =  Wie heißen die beiden Riesenplaneten
+FZ3         =  unseres Sonnensystems ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 Merkur und Venus
+Antwort_2   = 1  Jupiter und Saturn
+Antwort_3   = 0 Mars und Erde
+Antwort_4   = 0 Pluto und Neptun
+
+[154]
+FZ1         = 
+FZ2         =  Wie hoch war die Mondrakete Saturn V ?
+FZ3         = 
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1 110,60 m
+Antwort_2   = 0 97,50 m
+Antwort_3   = 0 64,10 m
+Antwort_4   = 0 234,50 m
+
+[155]
+FZ1         =
+FZ2         =  Welcher Planet wird auch
+FZ3         =  Abendstern genannt ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 Merkur 
+Antwort_2   = 1  Venus
+Antwort_3   = 0 Mars 
+Antwort_4   = 0 Pluto 
+
+[156]
+FZ1         = 
+FZ2         =  Wie heißt der hellste Planet
+FZ3         =  in unserem Sonnensystem ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1 Venus
+Antwort_2   = 0 Saturn
+Antwort_3   = 0 Neptun
+Antwort_4   = 0 Mars
+
+ [157]
+FZ1         = 
+FZ2         =  Wie oft würde die Erde in
+FZ3         =  die Sonne passen ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 0 hunderttausendmal
+Antwort_2   = 0 vierhunderttausendmal
+Antwort_3   = 1 einmillionenmal
+Antwort_4   = 0  siebenhunderttausendmal
+
+[158]
+FZ1         =  
+FZ2         =  Wie groß ist der Merkur ?
+FZ3         =  
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 so groß wie die Erde
+Antwort_2   = 1 halb so groß wie die Erde
+Antwort_3   = 0 doppelt so groß wie die Erde
+Antwort_4   = 0 so groß wie die Sonne
+
+[159]
+FZ1         = 
+FZ2         =  Warum ist der Merkur so schwer
+FZ3         =  zu beobachten ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 weil er so klein ist
+Antwort_2   = 0 weil er so hell ist
+Antwort_3   = 0 weil er so dunkel ist
+Antwort_4   = 1 weil er so nahe an der Sonne ist
+
+[160]
+FZ1         = 
+FZ2         =  Wie heiß ist es auf der Seite des 
+FZ3         =  Merkur, die der Sonne zugewandt ist ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 100° Celsius
+Antwort_2   = 0  240° Celsius
+Antwort_3   = 1 430° Celsius
+Antwort_4   = 0 910° Celsius
+
+[161]
+FZ1         = 
+FZ2         =  Wie kalt kann es auf der Seite des Merkur
+FZ3         =  werden, die der Sonne abgewandt ist ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 0° Celsius
+Antwort_2   = 1 - 180° Celsius
+Antwort_3   = 0 10° Celsius
+Antwort_4   = 0 - 65° Celsius
+
+[162]
+FZ1         = 
+FZ2         =  Wie lange braucht der Merkur für
+FZ3         =  eine Drehung um seine eigene Achse ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 24 Erdentage
+Antwort_2   = 0 46 Erdentage
+Antwort_3   = 0 82 Erdentage
+Antwort_4   = 1 59 Erdentage
+
+[163]
+FZ1         = 
+FZ2         =  Wie ist es auf der Oberfläche
+FZ3         =  der Venus ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 hell und mild
+Antwort_2   = 0 windig und kalt
+Antwort_3   = 1 dunkel und heiß
+Antwort_4   = 0 wie auf der Erde
+
+[164]
+FZ1         = 
+FZ2         =  Wie lange braucht die Venus für
+FZ3         =  eine Umdrehung um ihre eigene Achse ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 1 234 Erdentage
+Antwort_2   = 0 112 Erdentage
+Antwort_3   = 0 65 Erdentage
+Antwort_4   = 0 4 Erdentage
+
+[165]
+FZ1         = 
+FZ2         =  Wie heiß wird es auf der Venus ?
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 bis 125° Celsius
+Antwort_2   = 0 bis 236° Celsius
+Antwort_3   = 0 bis 309° Celsius
+Antwort_4   = 1 bis 470° Celsius
+
+[166]
+FZ1         = 
+FZ2         =  Wie viele Monde begleiten den Mars ?
+FZ3         = 
+Min         = 500
+Max         = 8000
+Antwort_1   = 0 3
+Antwort_2   = 1 2
+Antwort_3   = 0 4
+Antwort_4   = 0 5
+
+[167]
+FZ1         =  
+FZ2         =  Wie heißen die beiden Marsmonde ?
+FZ3         = 
+Min         = 16000
+Max         = 250000
+Antwort_1   = 0 Io und Ia
+Antwort_2   = 0 Titan und Wotan
+Antwort_3   = 0 Phil und Dämon
+Antwort_4   = 1 Phobos und Deimos
+
+[168]
+FZ1         = 
+FZ2         =  Welche Form haben die Marsmonde ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 birnenförmig
+Antwort_2   = 1 kartoffelförmig
+Antwort_3   = 0 apfelförmig
+Antwort_4   = 0 bananenförmig
+
+[169]
+FZ1         = 
+FZ2         =  Wie viele Tage dauert ein Marsjahr ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 367
+Antwort_2   = 0 256
+Antwort_3   = 0 110
+Antwort_4   = 1 687
+
+[170]
+FZ1         = 
+FZ2         =  Was ist der große rote Fleck
+FZ3         =  auf der Oberfläche des Jupiters ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 1 ein gewaltiger Wirbelsturm
+Antwort_2   = 0 ein Vulkanausbruch
+Antwort_3   = 0 explodierende Gase
+Antwort_4   = 0 Sonnenreflexion
+
+[171]
+FZ1         = 
+FZ2         =  Wie groß ist der rote Fleck
+FZ3         =  auf der Oberfläche des Jupiters ?
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 so groß wie der Mond 
+Antwort_2   = 1 so groß wie die Erde
+Antwort_3   = 0 1000 km
+Antwort_4   = 0 100 km
+
+[172]
+FZ1         =  
+FZ2         =  Wie oft würde die Erde in
+FZ3         =  den Saturn passen ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 700 - mal
+Antwort_2   = 0 300 - mal
+Antwort_3   = 0 100 - mal
+Antwort_4   = 0 500 - mal
+
+[173]
+FZ1         = 
+FZ2         =  Welche Temperatur herrscht auf
+FZ3         =  der Saturnoberfläche ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 100° Celsius
+Antwort_2   = 0  50° Celsius
+Antwort_3   = 1 -180° Celsius
+Antwort_4   = 0 -20° Celsius
+
+[174]
+FZ1         = 
+FZ2         =  Wie viele Ringe hat der Saturn ?
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 2
+Antwort_2   = 0 5
+Antwort_3   = 0 6
+Antwort_4   = 1 7
+                
+[175]
+FZ1         = 
+FZ2         =  Wann wurden die Ringe des Uranus
+FZ3         =  erst entdeckt ?
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 1911
+Antwort_2   = 0 1933
+Antwort_3   = 0 1955
+Antwort_4   = 1 1977
+                
+[176]
+FZ1         =  Wie nennt man die Zeit, die vergeht,
+FZ2         =  wenn ein Planet sich einmal um seine
+FZ3         =  eigene Achse dreht ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Woche
+Antwort_2   = 0 Monat
+Antwort_3   = 0 Jahr
+Antwort_4   = 1 Tag
+
+[177]
+FZ1         = Wie nennt man die Zeit, die vergeht,
+FZ2         =  wenn ein Planet einmal die
+FZ3         =  Sonne umkreist ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Tag 
+Antwort_2   = 0 Woche
+Antwort_3   = 1 Jahr
+Antwort_4   = 0 Monat
+
+[178]
+FZ1         = Wie nennt man die Zeit, die  
+FZ2         =  der Mond braucht, um einmal
+FZ3         =  die Erde zu umkreisen ?
+Min         = 400
+Max         = 2000
+Antwort_1   = 0 Tag
+Antwort_2   = 1 Monat
+Antwort_3   = 0 Woche
+Antwort_4   = 0 Jahr
+
+[179]
+FZ1         =  
+FZ2         =  Zwischen welchen Planeten
+FZ3         =  bewegen sich die meisten Asteroiden ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 Mars und Jupiter
+Antwort_2   = 0 Erde und Mars
+Antwort_3   = 0 Venus und Erde
+Antwort_4   = 0 Neptun und Pluto
+
+[180]
+FZ1         = 
+FZ2         =  Wie hieß der erste Amerikaner 
+FZ3         =  im Weltraum ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Phil Collins
+Antwort_2   = 1 John Glenn
+Antwort_3   = 0 Tom Hanks
+Antwort_4   = 0 Henry Ford
+
+[181]
+FZ1         = 
+FZ2         =  Wann flog der erste Amerikaner
+FZ3         =  in den Weltraum ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 1961
+Antwort_2   = 0 1960
+Antwort_3   = 1 1962
+Antwort_4   = 0 1963
+
+[182]
+FZ1         =  
+FZ2         =  Was bringen Raketen in
+FZ3         =  den Weltraum ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Satelitten
+Antwort_2   = 0 Meteoriten
+Antwort_3   = 0 Asteroide
+Antwort_4   = 0 Kometen
+
+[183]
+FZ1         = 
+FZ2         =  Welche Planeten umkreisen die
+FZ3         =  Sonne in der gleichen Richtung ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 die vier inneren Planeten
+Antwort_2   = 0 die drei äußeren Planeten
+Antwort_3   = 1 alle Planeten
+Antwort_4   = 0 Venus und Mars
+
+[184]
+FZ1         = Wie heißt der Planet, dessen Umlaufbahn  
+FZ2         =  nicht auf der Ebene aller anderer Planeten-
+FZ3         =  umlaufbahnen liegt ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 Saturn
+Antwort_2   = 0 Neptun
+Antwort_3   = 0 Uranus
+Antwort_4   = 1 Pluto
+
+[185]
+FZ1         = Wie viel Prozent der Gesamtmasse
+FZ2         =  unseres Sonnensystems macht 
+FZ3         =  allein die Sonne aus ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 50 %
+Antwort_2   = 1 99 %
+Antwort_3   = 0 75 %
+Antwort_4   = 0 82 %
+
+[186]
+FZ1         = 
+FZ2         =  Welche vier Planeten haben Ringe ?
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Venus, Neptun, Pluto, Saturn
+Antwort_2   = 0 Uranus, Merkur, Jupiter, Neptun
+Antwort_3   = 1 Saturn, Uranus, Neptun, Jupiter
+Antwort_4   = 0 Jupiter, Saturn, Neptun, Mars
+
+[187]
+FZ1         = 
+FZ2         =  Wie viele Astronauten sind bis 2001
+FZ3         =  auf dem Mond gelandet ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 10
+Antwort_2   = 0 6
+Antwort_3   = 0 11
+Antwort_4   = 1 12
+
+[188]
+FZ1         = 
+FZ2         =  Wenn die Sonne einen Durchmesser von 1,75 m
+FZ3         =  hätte, wie groß wäre dann die Erde ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 40 cm
+Antwort_2   = 0 12 cm
+Antwort_3   = 0 5 cm
+Antwort_4   = 1 16 mm
+
+[189]
+FZ1         = 
+FZ2         =  Welcher Planet hat weiße, blaue
+FZ3         =  und rosarote Wolken ?
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 Venus
+Antwort_2   = 0 Merkur
+Antwort_3   = 1 Mars
+Antwort_4   = 0 Pluto
+
+[190]
+FZ1         = 
+FZ2         =  Was gibt dem Planeten Uranus seine
+FZ3         = blau-grüne Farbe ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Methan
+Antwort_2   = 0 Sauerstoff
+Antwort_3   = 0 Pflanzen
+Antwort_4   = 0 Wasser
+
+[191]
+FZ1         =
+FZ2         =  Wie heißt einer der größten
+FZ3         =  bekannten Sterne ?
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 0 Maleugohe
+Antwort_2   = 0 Turaderom
+Antwort_3   = 0 Gretijolu
+Antwort_4   = 1 Beteigeuze
+
+[192]
+FZ1         = 
+FZ2         =  Welcher Planet kreist am schnellsten
+FZ3         =  um die Sonne ?
+Min         = 4000
+Max         = 16000
+Antwort_1   = 0 Erde 
+Antwort_2   = 0 Neptun
+Antwort_3   = 1 Merkur
+Antwort_4   = 0 Pluto
+
+[193]
+FZ1         =
+FZ2         =  Wie heißt der Stern, der unserer Sonne
+FZ3         =  am nächsten ist ?
+Min         = 50000
+Max         = 1000000
+Antwort_1   = 1 Proxima Centauri
+Antwort_2   = 0 Beluga Maxima
+Antwort_3   = 0 Tromem Ultra
+Antwort_4   = 0 Serina Serum
+
+[194]
+FZ1         =
+FZ2         =  Wie lange wäre eine Raumfähre von
+FZ3         =  der Erde bis zum Pluto unterwegs ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 8 Jahre
+Antwort_2   = 0 4 - 6 Jahre
+Antwort_3   = 0 32 Jahre
+Antwort_4   = 1 10 - 15 Jahre
+
+[195]
+FZ1         =
+FZ2         =  Welches ist der heißeste Teil
+FZ3         =  der Sonne ?
+Min         = 100
+Max         = 2000
+Antwort_1   = 0 die Korona
+Antwort_2   = 1 der Kern
+Antwort_3   = 0 die Photosphäre
+Antwort_4   = 0 die Atmosphäre
+
+[196]
+FZ1         = Wie heißt der einzige Planet unseres 
+FZ2         =  Sonnensystems, auf dem es viel
+FZ3         =  flüssiges Wasser gibt ?
+Min         = 400
+Max         = 8000
+Antwort_1   = 0 Venus 
+Antwort_2   = 0 Mars
+Antwort_3   = 0 Merkur
+Antwort_4   = 1 Erde
+
+[197]
+FZ1         =
+FZ2         =  Wie viele Astronauten können an Bord
+FZ3         =  des Spaceshuttles mitfliegen ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 4
+Antwort_2   = 0 5
+Antwort_3   = 0 6
+Antwort_4   = 1 7
+
+[198]
+FZ1         =
+FZ2         =  Woraus besteht die Atmosphäre der
+FZ3         =  Venus hauptsächlich ?
+Min         = 8000
+Max         = 250000
+Antwort_1   = 0 Sauerstoff
+Antwort_2   = 0 Wasserstoff
+Antwort_3   = 1 Kohlendioxid
+Antwort_4   = 0 Ozon
+
+[199]
+FZ1         =  Wie heißt die Wolke am Rande unseres 
+FZ2         =  Sonnensystems, aus der wahrscheinlich
+FZ3         =  die Kometen stammen ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Oortsche Wolke
+Antwort_2   = 0 Magellansche Wolke
+Antwort_3   = 0 Andromeda Wolke
+Antwort_4   = 0 Komet Wolke
+
+[200]
+FZ1         =
+FZ2         =  Wie groß ist der Durchmesser
+FZ3         =  des Planeten Pluto ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 4.500 km 
+Antwort_2   = 0 12.800 km
+Antwort_3   = 1 2.300 km
+Antwort_4   = 0 560.000 km
+
+[201]
+FZ1         =    
+FZ2         =  Was ist ein Planet ?
+FZ3         =   
+Min         = 0
+Max         = 100 
+Antwort_1   = 1 Pluto
+Antwort_2   = 0 Goofy
+Antwort_3   = 0 Donald
+Antwort_4   = 0 Dagobert
+
+[202]
+FZ1         =
+FZ2         =  Was ist ein Planet ?
+FZ3         =  
+Min         = 0
+Max         = 100
+Antwort_1   = 0 Bounty
+Antwort_2   = 0 Kitkat
+Antwort_3   = 1 Mars
+Antwort_4   = 0 Milky Way
+
+[203]
+FZ1         =
+FZ2         =  Was ist kein Planet ?
+FZ3         =  
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Venus
+Antwort_2   = 0 Uranus
+Antwort_3   = 0 Merkur
+Antwort_4   = 1 Sonne
+
+[204]
+FZ1         =
+FZ2         =  Welcher Planet wird auch 
+FZ3         =  "Blauer Planet" genannt ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Mars
+Antwort_2   = 0 Venus
+Antwort_3   = 0 Pluto
+Antwort_4   = 1 Erde
+
+[205]
+FZ1         =
+FZ2         =  Mit welchem griechischen Wort wird
+FZ3         =  das Weltall bezeichnet ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 Gyros
+Antwort_2   = 1 Kosmos
+Antwort_3   = 0 Rhodos
+Antwort_4   = 0 Tauboss
+
+[206]
+FZ1         =
+FZ2         =  Auf welchem Planeten (außer der Erde)
+FZ3         =  fuhr das erste Planetenfahrzeug ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 Mars
+Antwort_2   = 0 Venus
+Antwort_3   = 0 Pluto
+Antwort_4   = 0 Merkur
+
+ [207]
+FZ1         =
+FZ2         =  Wie hieß das erste "Planetenfahrzeug"
+FZ3         =  außerhalb der Erde ?
+Min         = 64000
+Max         = 1000000
+Antwort_1   = 0 Bon Jovi
+Antwort_2   = 1 Sojourner
+Antwort_3   = 0 Wostok
+Antwort_4   = 0 Planetcar
+
+[208]
+FZ1         =
+FZ2         =  Wie teuer war die erste außerirdische
+FZ3         =  "Planetenfahrzeugmission" ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 0 359 Millionen Dollar
+Antwort_2   = 0 659 Millionen Dollar
+Antwort_3   = 0 1 Milliarde Dollar
+Antwort_4   = 1 267 Milliarden Dollar
+
+[209]
+FZ1         =
+FZ2         =  Wie groß ist der Durchmesser unseres Mondes ?
+FZ3         =   
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 2.000 km
+Antwort_2   = 1 3.500 km
+Antwort_3   = 0 5.000 km
+Antwort_4   = 0 7.500 km
+
+[210]
+FZ1         =
+FZ2         =  Wie viele Monde passen in
+FZ3         =  die Erde ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 50
+Antwort_2   = 0 10
+Antwort_3   = 0 100
+Antwort_4   = 0 25
+
+[211]
+FZ1         =
+FZ2         =  Wie viel mal leichter als die
+FZ3         =  Erde ist unser Mond ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 24 - mal
+Antwort_2   = 0 52 - mal
+Antwort_3   = 0 65 - mal
+Antwort_4   = 1 81 - mal
+
+[212]
+FZ1         =
+FZ2         =  Welche Sonde landete zuerst
+FZ3         =  auf dem Mond ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Lunik 1
+Antwort_2   = 1 Lunik 2
+Antwort_3   = 0 Sputnik 1
+Antwort_4   = 0 Ranger 3
+
+
+[213]
+FZ1         =
+FZ2         =  Wann landete die erste Sonde
+FZ3         =  auf dem Mond ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 1958
+Antwort_2   = 0 1957
+Antwort_3   = 1 1959
+Antwort_4   = 0 1960
+
+[214]
+FZ1         =
+FZ2         =  Wie hießen die Vorläufer
+FZ3         =  der Apollo - Raumschiffe ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Mercury - Raumschiffe
+Antwort_2   = 1 Gemini - Raumschiffe
+Antwort_3   = 0 Ranger - Raumschiffe
+Antwort_4   = 0 Explorer - Raumschiffe 
+
+
+[215]
+FZ1         =
+FZ2         =  Wie heißt der Mond des 
+FZ3         =  Planeten Pluto ?
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1 Charon
+Antwort_2   = 0 Chaos
+Antwort_3   = 0 Chamel
+Antwort_4   = 0 Charme
+
+[216]
+FZ1         =
+FZ2         =  Wie groß ist der Durchmesser
+FZ3         =   des Plutomondes ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 4.500 km
+Antwort_2   = 0 3.400 km
+Antwort_3   = 1 1.200 km
+Antwort_4   = 0 2.300 km
+
+
+[217]
+FZ1         =
+FZ2         =  Zu welchem Planet gehört
+FZ3         =  der Mond Ananke ?
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 0 Uranus
+Antwort_2   = 1 Jupiter
+Antwort_3   = 0 Saturn
+Antwort_4   = 0 Mars
+
+[218]
+FZ1         =
+FZ2         =   Wie werden die vier inneren Planeten
+FZ3         =   auch genannt ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Staubplaneten
+Antwort_2   = 1 Gesteinsplaneten
+Antwort_3   = 0 Gasplaneten
+Antwort_4   = 0 Metallplaneten
+
+
+[219]
+FZ1         =
+FZ2         =  Wie heißt der hellste Stern ?
+FZ3         =   
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Procyon
+Antwort_2   = 0 Wega
+Antwort_3   = 1 Sirius
+Antwort_4   = 0 Hadar
+
+[220]
+FZ1         =
+FZ2         =  Wie heißt der größte bekannte Stern ?
+FZ3         =   
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1 Mu Cephei
+Antwort_2   = 0 VV Cephei B
+Antwort_3   = 0 Antares
+Antwort_4   = 0 Ras Algethi

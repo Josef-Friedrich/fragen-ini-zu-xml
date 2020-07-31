@@ -1,0 +1,314 @@
+[Thema]
+Thema=Entwicklungen in der Nachrichtentechnik, Stand 14.3,01
+Fragen=28
+Autor=Alfred Bergkemper, 3/2001
+
+
+[1]
+FZ1=Auf welche Weise haben die Indianer früher wichtige
+FZ2=Kurzbotschaften verschickt?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Mit Rauchzeichen
+Antwort_2=0Mit Brieftauben
+Antwort_3=0Mit der Post
+Antwort_4=0Mit dem Taxi
+
+[2]
+FZ1=Wer hat das nach ihm benannte System von Punkten und Strichen
+FZ2=erfunden, mit dem man erstmalig lange Botschaften
+FZ3=blitzschnell durch das ganze Land schicken konnte?
+Min=500
+Max=16000
+Antwort_1=1Samuel Morse
+Antwort_2=0Stefan Raab
+Antwort_3=0Albert Einstein
+Antwort_4=0Alexander Bell
+
+[3]
+FZ1=Welcher Teil des Telefons setzt die Schallschwingungen um
+FZ2=in Schwingungen des elektrischen Stroms?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1Mikrofon
+Antwort_2=0Wählscheibe
+Antwort_3=0Hörkapsel
+Antwort_4=0Schwingungsgeber
+
+[4]
+FZ1=Welches dieser Bauteile benötigt man nicht, wenn man mit
+FZ2=einem herkömmlichen Telefon nur telefonieren will?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=0die Telefonleitung
+Antwort_2=0den Hörer
+Antwort_3=0das Mikrofon
+Antwort_4=1die Wählscheibe
+
+[5]
+FZ1=Wie nennt man eine Anlage zur Übermittlung von Zeichen
+FZ2=in schriftlicher Form?
+FZ3=
+Min=8000
+Max=1000000
+Antwort_1=1Telegraf
+Antwort_2=0Rabigramm
+Antwort_3=0Telefon
+Antwort_4=0Morsephon
+
+[6]
+FZ1=Was bedeutet beim Morsen die Zeichenkombination
+FZ2=dreimal kurz, dreimal lang, dreimal kurz?
+FZ3=
+Min=200
+Max=125000
+Antwort_1=1Rettet unsere Seelen!
+Antwort_2=0Das Bier ist alle!
+Antwort_3=0Das Schiff sinkt!
+Antwort_4=0... und tschüss!
+
+[7]
+FZ1=Was war der Erfinder des Telefons von Beruf, bevor
+FZ2=er sich mit der Erfindung beschäftigte?
+FZ3=
+Min=1000
+Max=1000000
+Antwort_1=0Metzger
+Antwort_2=0Priester
+Antwort_3=0Kantinenwirt
+Antwort_4=1Taubstummenlehrer
+
+[8]
+FZ1=
+FZ2=Wer gilt als der Erfinder des Telefons?
+FZ3=
+Min=100
+Max=125000
+Antwort_1=1Alexander Graham Bell
+Antwort_2=0Otto von Bismarck
+Antwort_3=0Alessandro Volta
+Antwort_4=0Ron Sommer
+
+[9]
+FZ1=
+FZ2=Wer hat das Telefon um 1900 in Deutschland entscheidend verbessert?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1Werner von Siemens
+Antwort_2=0Konrad Zuse
+Antwort_3=0Henry Ford
+Antwort_4=0Nikolaus Otto
+
+[10]
+FZ1=
+FZ2=In welchem Medium breitet sich der Schall am langsamsten aus?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=1Luft
+Antwort_2=0Alkohol
+Antwort_3=0Stahl
+Antwort_4=0Blei
+
+[11]
+FZ1=
+FZ2=Welches Zeichen wird beim Morsen durch *einen kurzen Ton* übermittelt?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=1 ein E
+Antwort_2=0 ein T
+Antwort_3=0 ein I
+Antwort_4=0 ein X
+
+[12]
+FZ1=Wie hieß die Maschine, mit der deutsche Funker im
+FZ2=2. Weltkrieg die wichtigsten Botschaften verschlüsselten?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1Enigma
+Antwort_2=0Zaratustra
+Antwort_3=0Kristmichnich
+Antwort_4=0U2000-B
+
+[13]
+FZ1=In welchem Land wurden früher Nachrichten durch ein Stück Holz
+FZ2=übermittelt, das an einem Seil herumgeschleudert wurde
+FZ3=und dabei einen sehr tiefen Ton von sich gab?
+Min=16000
+Max=1000000
+Antwort_1=0Amerika
+Antwort_2=0Süditalien
+Antwort_3=0Afrika
+Antwort_4=1Australien
+
+[14]
+FZ1=In welchem Land wurde eine Telegrafensystem gebaut, das Zeichen
+FZ2=mit Hilfe von beweglichen Brettern optisch von Turm zu Turm
+FZ3=übermittelte und schließlich über 200 Km weit reichte?
+Min=16000
+Max=1000000
+Antwort_1=0Deutschland
+Antwort_2=0Großbritannien
+Antwort_3=1Frankreich
+Antwort_4=0Nordamerika
+
+[15]
+FZ1=Welche Tierart wird noch heute manchmal zur Übermittlung von
+FZ2=Botschaften eingesetzt?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Brieftauben
+Antwort_2=0Briefschweine
+Antwort_3=0Briefhunde
+Antwort_4=0Briefelefanten
+
+[16]
+FZ1=
+FZ2=Wer gilt als Erfinder der drahtlosen Tegrafie?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1Marconi
+Antwort_2=0Bell
+Antwort_3=0Reis
+Antwort_4=0Siemens
+
+[17]
+FZ1=Welches elektronische Bauteil hat seit 1948 die Technik
+FZ2=der Datenübermittlung revolutioniert?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1der Transistor
+Antwort_2=0die Radioröhre
+Antwort_3=0das Relais
+Antwort_4=0der Elektromotor
+
+[18]
+FZ1=
+FZ2=Wie weit kann sich ein elektrisches Signal in einer Sekunde ausbreiten?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=03x bis zum Mond
+Antwort_2=030.000 Km
+Antwort_3=09,5 cm
+Antwort_4=07 1/2 mal um die Erde
+
+[19]
+FZ1=Welcher Teil des Telefons setzt Schwingungen des elektrischen
+FZ2=Stroms um in Schwingungen des Schalls?
+FZ3=
+Min=4000
+Max=1000000
+Antwort_1=0Mikrofon
+Antwort_2=0Wählscheibe
+Antwort_3=1Hörkapsel
+Antwort_4=0Schwingungsgeber
+
+[20]
+FZ1=
+FZ2=Wieviel verschiedene Zeichen kennt das Morsealphabet?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=1zwei
+Antwort_2=0drei
+Antwort_3=0vier
+Antwort_4=0fünf
+
+[21]
+FZ1=Wie wurden früher Nachrichten auf kurze Entfernung von einem
+FZ2=Schiff auf ein anderes übermittelt?
+FZ3=
+Min=500
+Max=32000
+Antwort_1=1mit Flaggen
+Antwort_2=0mit einem Gummischlauch
+Antwort_3=0mit Brieftauben
+Antwort_4=0mit kleinen Booten
+
+[22]
+FZ1=
+FZ2=Wann wurde das Telefon erfunden?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=11876
+Antwort_2=01786
+Antwort_3=01678
+Antwort_4=01867
+
+[23]
+FZ1=
+FZ2=In welcher Einheit wird die elektrische Spannung gemessen?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=0in Ampere
+Antwort_2=1in Volt
+Antwort_3=0in Ohm
+Antwort_4=0in Öxle
+
+[24]
+FZ1=
+FZ2=In welcher Einheit wird der elektrische Strom gemessen?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1in Ampere
+Antwort_2=0in Volt
+Antwort_3=0in Ohm
+Antwort_4=0in Quadratmeter
+
+[25]
+FZ1=Welches Material lässt sich nicht zur Weiterleitung elektrischer
+FZ2=Schwingungen für eine Telefonleitung nutzen?
+FZ3=
+Min=8000
+Max=1000000
+Antwort_1=0Kupfer
+Antwort_2=0Aluminium
+Antwort_3=1Seide
+Antwort_4=0Eisen
+
+[26]
+FZ1=
+FZ2=Was ist nicht Bestandteil einer Hörerkapsel?
+FZ3=
+Min=2000
+Max=1000000
+Antwort_1=1Kohlekörner
+Antwort_2=0Spule
+Antwort_3=0Eisenplättchen
+Antwort_4=0Magnet
+
+[27]
+FZ1=Wie wurden vor 100 Jahren die Verbindungen zwischen zwei
+FZ2=Telefonteilnehmern hergestellt?
+FZ3=
+Min=1000
+Max=1000000
+Antwort_1=1Fräulein vom Amt
+Antwort_2=0Computer
+Antwort_3=0Schaltrelais
+Antwort_4=0Roboter
+
+[28]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=
+Antwort_2=
+Antwort_3=
+Antwort_4=
+

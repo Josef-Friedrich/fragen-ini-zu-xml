@@ -1,0 +1,316 @@
+[Thema]
+Thema     = Finde das Tunwort (Verb) !  
+Fragen    = 27
+Autor       = Manfred Hartisch, 5/2001
+
+
+[1]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 0
+Max       = 500
+Antwort_1 = 1suchen
+Antwort_2 = 0staubig
+Antwort_3 = 0schön
+Antwort_4 = 0selber
+
+[2]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       =  
+Min       = 500
+Max       = 16000
+Antwort_1 = 1bringen
+Antwort_2 = 0böse
+Antwort_3 = 0bald
+Antwort_4 = 0brinden
+
+[3]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 4000
+Max       = 125000
+Antwort_1 = 1malen
+Antwort_2 = 0munter
+Antwort_3 = 0modern
+Antwort_4 = 0masen
+
+[4]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 8000
+Max       = 32000
+Antwort_1 = 0laren
+Antwort_2 = 0leise
+Antwort_3 = 0leider
+Antwort_4 = 1lachen
+
+[5]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 8000
+Max       = 1000000
+Antwort_1 = 1weinen
+Antwort_2 = 0wenig
+Antwort_3 = 0wichtig
+Antwort_4 = 0wammen
+
+[6]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 200
+Max       = 125000
+Antwort_1 = 1rennen
+Antwort_2 = 0rot
+Antwort_3 = 0rüstig
+Antwort_4 = 0ruben
+
+[7]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 1000
+Max       = 1000000
+Antwort_1 = 0relen
+Antwort_2 = 0rot
+Antwort_3 = 0rund
+Antwort_4 = 1rauben
+
+[8]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 100
+Max       = 125000
+Antwort_1 = 1weinen
+Antwort_2 = 0weiß
+Antwort_3 = 0wild
+Antwort_4 = 0weren
+
+[9]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 32000
+Max       = 1000000
+Antwort_1 = 1schlagen
+Antwort_2 = 0schlau
+Antwort_3 = 0schlecht
+Antwort_4 = 0schlemen
+
+[10]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 1rufen
+Antwort_2 = 0riesig
+Antwort_3 = 0rund
+Antwort_4 = 0rechten
+
+[11]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 1 fliegen
+Antwort_2 = 0 fein
+Antwort_3 = 0 gieben
+Antwort_4 = 0 grün
+
+[12]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 125000
+Max       = 1000000
+Antwort_1 = 1schwimmen
+Antwort_2 = 0schwer
+Antwort_3 = 0schwarz
+Antwort_4 = 0schwaunen
+
+[13]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       =  
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 0hoch
+Antwort_2 = 0hütten
+Antwort_3 = 0hübsch
+Antwort_4 = 1hüpfen
+
+[14]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       =  
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 0zart
+Antwort_2 = 0zieken
+Antwort_3 = 1zanken
+Antwort_4 = 0zum
+
+[15]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 1schreiben
+Antwort_2 = 0schwierig
+Antwort_3 = 0schraulen
+Antwort_4 = 0schräg
+
+[16]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 32000
+Max       = 1000000
+Antwort_1 = 1legen
+Antwort_2 = 0leicht
+Antwort_3 = 0lennen
+Antwort_4 = 0lecker
+
+[17]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 64000
+Max       = 1000000
+Antwort_1 = 1bauen
+Antwort_2 = 0bunt
+Antwort_3 = 0bauzen
+Antwort_4 = 0bald
+
+[18]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 0kellen
+Antwort_2 = 0kaputt
+Antwort_3 = 0kernig
+Antwort_4 = 1kegeln
+
+[19]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?  
+FZ2       =  
+FZ3       = 
+Min       = 4000
+Max       = 1000000
+Antwort_1 = 0beim
+Antwort_2 = 0bald
+Antwort_3 = 1baden
+Antwort_4 = 0Sbaren
+
+[20]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 1000
+Max       = 125000
+Antwort_1 = 1hören
+Antwort_2 = 0höher
+Antwort_3 = 0höven
+Antwort_4 = 0höllisch
+
+[21]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?  
+FZ2       =  
+FZ3       = 
+Min       = 500
+Max       = 32000
+Antwort_1 = 1reiten
+Antwort_2 = 0reizend
+Antwort_3 = 0reif
+Antwort_4 = 0reippen
+
+[22]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 1rechnen
+Antwort_2 = 0rege
+Antwort_3 = 0rechts
+Antwort_4 = 0remmeln
+
+[23]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 500
+Max       = 8000
+Antwort_1 = 0ideal
+Antwort_2 = 1impfen
+Antwort_3 = 0immer
+Antwort_4 = 0irchen
+
+[24]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 500
+Max       = 8000
+Antwort_1 = 1angeln
+Antwort_2 = 0anders
+Antwort_3 = 0alt
+Antwort_4 = 0akkeln
+
+[25]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?  
+FZ2       =  
+FZ3       = 
+Min       = 8000
+Max       = 1000000
+Antwort_1 = 0spät
+Antwort_2 = 0spröde
+Antwort_3 = 1sprechen
+Antwort_4 = 0sprannen
+
+[26]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ3       = 
+Min       = 2000
+Max       = 1000000
+Antwort_1 = 1küssen
+Antwort_2 = 0kühl
+Antwort_3 = 0künstlich
+Antwort_4 = 0kümmeln
+
+[27]
+FZ1       = Welches von den folgenden Wörtern ist ein Tunwort (Verb) ?
+FZ2       =  
+FZ3       = 
+Min       = 1000
+Max       = 1000000
+Antwort_1 = 1basteln
+Antwort_2 = 0basseln
+Antwort_3 = 0bange
+Antwort_4 = 0backeln
+
+[28]
+FZ1       = 
+FZ2       = 
+FZ3       = 
+Min       = 2000000
+Max       = 1000000
+Antwort_1 = 
+Antwort_2 = 
+Antwort_3 = 
+Antwort_4 = 
+
+
+

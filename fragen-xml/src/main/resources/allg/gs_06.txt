@@ -1,0 +1,1105 @@
+[Thema]
+Thema= Grundschule 6
+Fragen=100
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welchen Beruf hatte Charlie Chaplin ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Schauspieler
+Antwort_2=0	 Raubtierbändiger
+Antwort_3=0	 Clown
+Antwort_4=0	  Bäcker
+
+[2]
+FZ1=
+FZ2=Woraus werden Gummibärchen hergestellt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Gummi
+Antwort_2=1	 Gelatine
+Antwort_3=0	 Kautschuk
+Antwort_4=0	 Plastik
+
+[3]
+FZ1=
+FZ2=Wer oder was ist der Islam ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 ein wertvoller Teppich
+Antwort_2=1	 eine Weltreligion
+Antwort_3=0	 ein arabischer Männername
+Antwort_4=0	 der Sonnenuntergang
+
+[4]
+FZ1=
+FZ2=Wie hießen die ersten Menschen in der Bibel ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Josef und Maria
+Antwort_2=0	 Cäsar und Kleopatra
+Antwort_3=1	 Adam und Eve
+Antwort_4=0	 Romeo und Julia
+
+[5]
+FZ1=
+FZ2=Wodurch bildet sich Rost auf Eisen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 durch Hitze und Luft
+Antwort_2=1	 durch Feuchtigkeit und Luft
+Antwort_3=0	 durch Kälte und Luft
+Antwort_4=0	 durch Farbe und Wasser
+
+[6]
+FZ1=
+FZ2=Welches Nahrungsmittel wächst unter Wasser ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Hafer
+Antwort_2=0	 Mais
+Antwort_3=0	 Kartoffeln
+Antwort_4=1	 Reis
+
+[7]
+FZ1=
+FZ2=Was ist ein Bit ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 ein runder Behälter
+Antwort_2=0	 ein Stoß beim Billard
+Antwort_3=1	 die kleinste Computerrecheneinheit
+Antwort_4=0	 ein alkoholfreies Bier
+
+[8]
+FZ1=
+FZ2=Wo befindet sich das Trommelfell ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 in Afrika
+Antwort_2=0	 im Bauch des Gorillas
+Antwort_3=1	 im Ohr
+Antwort_4=0	 im Schlagzeug
+
+[9]
+FZ1=
+FZ2=Wer oder was ist ein Hydrant ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 ein Seemann
+Antwort_2=0	 ein Riese
+Antwort_3=1	 ein Wasseranschluss
+Antwort_4=0	 ein Gasanschluss
+
+[10]
+FZ1=
+FZ2=Woran wachsen Teeblätter ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0	 an einer Staude
+Antwort_2=1	 an einem Strauch
+Antwort_3=0	 an einem Baum
+Antwort_4=0	 an einer Blume
+
+[11]
+FZ1=
+FZ2=Was ist der Grundstoff von Papier ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Plastik
+Antwort_2=0	 Gummi
+Antwort_3=0	 Eisen
+Antwort_4=1	 Holz
+
+[12]
+FZ1=
+FZ2=Woraus bestehen Seifenblasen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Seife und Öl
+Antwort_2=1	 Seife und Wasser
+Antwort_3=0	 Seife und Fett
+Antwort_4=0	 Seife und Gelatine
+
+[13]
+FZ1=
+FZ2=Welche Farbe hat der 20 - Euro - Schein ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0	 grau
+Antwort_2=0	 rot
+Antwort_3=0	 grün
+Antwort_4=1	 blau
+
+[14]
+FZ1=
+FZ2=Welche Farbe hat der 50 - Euro - Schein ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 orange
+Antwort_2=0	 braun
+Antwort_3=0	 blau
+Antwort_4=0	 grün
+
+[15]
+FZ1=
+FZ2=Welche Farbe hat der 100 - Euro - Schein ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 grün
+Antwort_2=0	 hellblau
+Antwort_3=0	 hellrot
+Antwort_4=0	 grau
+
+[16]
+FZ1=
+FZ2=Welche Farbe hat der 200 - Euro - Schein ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 gelb - braun
+Antwort_2=0	 grau - grün
+Antwort_3=0	 schwarz -weiß
+Antwort_4=0	 blau - braun
+
+[17]
+FZ1=
+FZ2=Welche Farbe hat der 500 - Euro - Schein ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0	 grau
+Antwort_2=0	  grün
+Antwort_3=1	 lila
+Antwort_4=0	 gelb
+
+[18]
+FZ1=
+FZ2=Was ist ein Pfauenauge ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 ein Cocktail
+Antwort_2=1	 ein Schmetterling
+Antwort_3=0	 ein Strickmuster
+Antwort_4=0	 ein Sternbild
+
+[19]
+FZ1=
+FZ2=Wie viel Pfund sind ein Kilo ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=0	 3
+Antwort_2=0	 4
+Antwort_3=0	 5
+Antwort_4=1	 2
+
+[20]
+FZ1=
+FZ2=Wie hoch ist die Körpertemperatur eines gesunden Menschen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0	 50° C
+Antwort_2=0	 30° C
+Antwort_3=0	 27° C
+Antwort_4=1	 37° C
+
+[21]
+FZ1=
+FZ2=Welche Sprossen kann man essen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=0	 Sommersprossen
+Antwort_2=0	 Leitersprossen
+Antwort_3=1	 Bambussprossen
+Antwort_4=0	 Gartensprossen
+
+[22]
+FZ1=
+FZ2=Wie viel Schlaf braucht ein einjähriges Kind pro Tag ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 10 Stunden
+Antwort_2=0	 8 Stunden
+Antwort_3=1	 15 Stunden
+Antwort_4=0	 3 Stunden
+
+[23]
+FZ1=
+FZ2=Welche Farbe hat der 5 - Euro - Schein ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 grau
+Antwort_2=0	 blau
+Antwort_3=0	 grün
+Antwort_4=0	 gelb
+
+[24]
+FZ1=
+FZ2=Welche Farbe hat der 10 - Euro - Schein ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0	 violett
+Antwort_2=1	 rot
+Antwort_3=0	 gelb
+Antwort_4=0	 grün
+
+[25]
+FZ1=
+FZ2=Welches Lebensmittel besteht vorwiegend aus Kohlenhydraten ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0	 Fleisch
+Antwort_2=0	 Fisch
+Antwort_3=1	 Kartoffel
+Antwort_4=0	 Reis
+
+[26]
+FZ1=
+FZ2=Welche Tiere atmen durch Kiemen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Fische
+Antwort_2=0	 Krokodile
+Antwort_3=0	 Schlangen
+Antwort_4=0	 Frösche
+
+[27]
+FZ1=
+FZ2=Wie viele Knochen hat der Mensch ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 1004
+Antwort_2=0	 512
+Antwort_3=1	 206
+Antwort_4=0	 145
+
+[28]
+FZ1=
+FZ2=Wo befindet sich der größte Knochen des Menschen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0	 im Rücken
+Antwort_2=0	 im Arm
+Antwort_3=0	 im Kopf
+Antwort_4=1	 im Bein
+
+[29]
+FZ1=
+FZ2=Wo befindet sich der kleinste Knochen des Menschen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0	 im Fuß
+Antwort_2=1	 im Ohr
+Antwort_3=0	 in der Hand
+Antwort_4=0	 im Arm
+
+[30]
+FZ1=
+FZ2=In welcher Maßeinheit wird der Energieverbrauch angegeben ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Kilometer
+Antwort_2=0	 Kilogramm
+Antwort_3=1	 Kilojoule
+Antwort_4=0	 Kilowatt
+
+[31]
+FZ1=
+FZ2=Wer weitsichtig ist, kann besser ...
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 nah sehen
+Antwort_2=0	 hellsehen
+Antwort_3=0	 schwarzsehen
+Antwort_4=1	 weit sehen
+
+[32]
+FZ1=
+FZ2=Wie viele Hautschichten hat der Mensch ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 2
+Antwort_2=0	 4
+Antwort_3=0	 5
+Antwort_4=1	 3
+
+[33]
+FZ1=
+FZ2=Wie viele Milchzähne haben Kinder ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 25
+Antwort_2=0	 30
+Antwort_3=1	 20
+Antwort_4=0	 12
+
+[34]
+FZ1=
+FZ2=Welches Tier bekommt im Leben mehrmals neue Zähne ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Krokodil
+Antwort_2=0	 Giraffe
+Antwort_3=0	 Affe
+Antwort_4=0	 Vogel
+
+[35]
+FZ1=
+FZ2=Welches Lebensmittel besteht hauptsächlich aus Eiweiß ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Salat
+Antwort_2=0	 Kartoffeln
+Antwort_3=0	 Blumenkohl
+Antwort_4=1	 Quark
+
+[36]
+FZ1=
+FZ2=Wie viele Haare hat man auf dem Kopf ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 10.000 - 20.000
+Antwort_2=0	 30.000 - 70.000
+Antwort_3=1	 80.000 - 100.000
+Antwort_4=0	 120.000 -200.000
+
+[37]
+FZ1=
+FZ2=Welche Haarfarbe hat Pippi Langstrumpf ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 rot
+Antwort_2=0	 schwarz
+Antwort_3=0	 blond
+Antwort_4=0	 braun
+
+[38]
+FZ1=
+FZ2=Wie viele cm wächst ein Kopfhaar im Monat ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 0 - 5 mm
+Antwort_2=0	 2 - 3 cm
+Antwort_3=0	 3 - 5 cm
+Antwort_4=1	 1 - 2 cm
+
+[39]
+FZ1=
+FZ2=Das Haar wird grau durch den Mangel an ...
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 Aspirin
+Antwort_2=1	 Melanin
+Antwort_3=0	 Karotin
+Antwort_4=0	 Adrenalin
+
+[40]
+FZ1=
+FZ2=Was ist ein Hämatom?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 ein Sternbild
+Antwort_2=0	 ein Werkzeug
+Antwort_3=0	 eine chemische Verbindung
+Antwort_4=1	 ein "blauer Fleck"
+
+[41]
+FZ1=
+FZ2=Wer kurzsichtig ist, kann nicht gut ...
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0	 nah sehen
+Antwort_2=0	 geradeaus sehen
+Antwort_3=0	 hellsehen
+Antwort_4=1	 weit sehen
+
+[42]
+FZ1=
+FZ2=Wie viele Arme hat ein Krake ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0	 2
+Antwort_2=0	 4
+Antwort_3=1	 8
+Antwort_4=0	 6
+
+[43]
+FZ1=
+FZ2=In welchem Land steht der schiefe Turm zu Pisa ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Italien
+Antwort_2=0	 Frankreich
+Antwort_3=0	 Belgien
+Antwort_4=0	 Polen
+
+[44]
+FZ1=
+FZ2=Wie heißt der Planet mit den Ringen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Saturn
+Antwort_2=0	 Jupiter
+Antwort_3=0	 Uranus
+Antwort_4=0	 Venus
+
+[45]
+FZ1=
+FZ2=Welches Tier frisst ausschließlich Eukalyptusblätter ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Koala
+Antwort_2=0	 Panda
+Antwort_3=0	 Grizzly
+Antwort_4=0	 Wombat
+
+[46]
+FZ1=
+FZ2=Welches Tier ernährt sich von Bambus ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0	 Heuschrecke
+Antwort_2=0	 Braunbär
+Antwort_3=1	 Pandabär
+Antwort_4=0	 Maulwurf
+
+[47]
+FZ1=
+FZ2=Wo steht der Eiffelturm ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1	 Paris
+Antwort_2=0	 Rom
+Antwort_3=0	 Amsterdam
+Antwort_4=0	 Berlin
+
+[48]
+FZ1=
+FZ2=Welchen Beruf hat Popeye ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Seemann
+Antwort_2=0	 Maurer
+Antwort_3=0	 Boxer
+Antwort_4=0	 Metzger
+
+[49]
+FZ1=
+FZ2=Wie heißt die Trickfigur, die durch Spinat stark wird ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Madeye
+Antwort_2=1	 Popeye
+Antwort_3=0	 Rob Eye
+Antwort_4=0	 Snoopy
+
+[50]
+FZ1=
+FZ2=Woraus wird Popcorn gemacht ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Mais
+Antwort_2=0	 Gerste
+Antwort_3=0	 Reis
+Antwort_4=0	 Hafer
+
+[51]
+FZ1=
+FZ2=Wer oder was ist das Kolosseum ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 ein griechischer Turm
+Antwort_2=1	 eine römische Arena
+Antwort_3=0	 ein mexikanischer Berg
+Antwort_4=0	 eine französische Riesenhöhle
+
+[52]
+FZ1=
+FZ2=Was ist ein Mausoleum ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 eine Totenstätte
+Antwort_2=0	 eine Mausefalle
+Antwort_3=0	 ein Öllager
+Antwort_4=0	 eine Sternwarte
+
+[53]
+FZ1=
+FZ2=Wie viele Beine hat eine Spinne ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 2
+Antwort_2=1	 8
+Antwort_3=0	 6
+Antwort_4=0	 4
+
+[54]
+FZ1=
+FZ2=Wo steht das Empire State Building ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 New York
+Antwort_2=0	 San Franzisko
+Antwort_3=0	 Washington
+Antwort_4=0	 Tokio
+
+[55]
+FZ1=
+FZ2=Wie heißt die Frau von Fred Feuerstein ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=0	 Berta
+Antwort_2=0	 Anna
+Antwort_3=0	 Lucy
+Antwort_4=1	 Wilma
+
+[56]
+FZ1=
+FZ2=Welches Haustier hat Fred Feuerstein ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Dinosaurier
+Antwort_2=0	 Schildkröte
+Antwort_3=0	 Goldfisch
+Antwort_4=0	 Krokodil
+
+[57]
+FZ1=
+FZ2=Wie heißt der beste Freund von Fred Feuerstein ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Barney Geröllheimer
+Antwort_2=0	 Bodo Backstein
+Antwort_3=0	 Manfred Kümmelbein
+Antwort_4=0	 Johannes Kieselstein
+
+[58]
+FZ1=
+FZ2=Wer oder was ist Mozarella ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 ein nörgelndes Kind
+Antwort_2=1	 eine Käsesorte
+Antwort_3=0	 ein Bazillus
+Antwort_4=0	 ein Dinosaurier
+
+[59]
+FZ1=
+FZ2=Wie heißen die Neffen von Donald Duck ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Tick, Trick, Track
+Antwort_2=0	 Tick, Tick, Tuck
+Antwort_3=0	 Mick, Mack, Muck
+Antwort_4=0	 Pliff, Plaff, Pluff
+
+[60]
+FZ1=
+FZ2=Was sind Stalaktiten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 hängende Tropfsteine
+Antwort_2=0	 Edelsteine
+Antwort_3=0	 Meteoritentrümmer
+Antwort_4=0	 Westernstiefel
+
+[61]
+FZ1=
+FZ2=Was ist eine Pupille ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=0	 Medikament
+Antwort_2=0	 Messgerät
+Antwort_3=0	 kleine Puppe
+Antwort_4=1	 Teil des Auges
+
+[62]
+FZ1=
+FZ2=Was ist eine Mondfinsternis ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Erdschatten auf dem Mond
+Antwort_2=0	 Mondschatten
+Antwort_3=0	 dunkle Mondseite
+Antwort_4=0	 Sonnenflecken
+
+[63]
+FZ1=
+FZ2=Welche Giftschlange ist am größten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Königskobra
+Antwort_2=0	 Korallenschlange
+Antwort_3=0	 Klapperschlange
+Antwort_4=0	 Viper
+
+[64]
+FZ1=
+FZ2=Welcher Baum hat eine weiße Rinde ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Buche
+Antwort_2=0	 Ahorn
+Antwort_3=0	 Kastanie
+Antwort_4=1	 Birke
+
+[65]
+FZ1=
+FZ2=Wo steht die Freiheitsstatue ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	 New York
+Antwort_2=0	 Sydney
+Antwort_3=0	 London
+Antwort_4=0	 Moskau
+
+[66]
+FZ1=
+FZ2=Was macht man mit einem Mörser ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1	 Gewürze zerkleinern
+Antwort_2=0	 Nachrichten senden
+Antwort_3=0	 Mörtel anrühren
+Antwort_4=0	 Flugzeuge landen
+
+[67]
+FZ1=
+FZ2=Woraus besteht Elfenbein ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1	 Elefantenzähnen
+Antwort_2=0	 Pferdezähnen
+Antwort_3=0	 Büffelhörnern
+Antwort_4=0	 Ziegenhörnern
+
+[68]
+FZ1=
+FZ2=Was ist ein Stiefmütterchen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 eine Zierpflanze
+Antwort_2=0	 eine Nutzpflanze
+Antwort_3=0	 eine Heilpflanze
+Antwort_4=0	 eine Futterpflanze
+
+[69]
+FZ1=
+FZ2=Was sind Kakerlaken ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0	 schmutzige Betttücher
+Antwort_2=1	 Insekten
+Antwort_3=0	 Tiefseefische
+Antwort_4=0	 Schokoladenkekse
+
+[70]
+FZ1=
+FZ2=Was ist ein Octopus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 eine Hundeart
+Antwort_2=0	 ein Transportmittel
+Antwort_3=0	 ein Edelstein
+Antwort_4=1	 ein Tintenfisch
+
+[71]
+FZ1=
+FZ2=Wo ist die Milchstraße ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 im Weltall
+Antwort_2=0	 in der Flasche
+Antwort_3=0	 in Frankfurt
+Antwort_4=0	 auf dem Bauernhof
+
+[72]
+FZ1=
+FZ2=Was frisst ein Schneehase im Winter ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Schnee
+Antwort_2=0	 Gras
+Antwort_3=0	 Zapfen
+Antwort_4=1	 Knospen
+
+[73]
+FZ1=
+FZ2=Welche Farbe hat eine Advokado ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 dunkelgrün
+Antwort_2=0	 hellblau
+Antwort_3=0	 dunkelrot
+Antwort_4=0	 hellgelb
+
+[74]
+FZ1=
+FZ2=Welche Frucht gehört nicht zu den Steinfrüchten ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Kirsche
+Antwort_2=0	 Pflaume
+Antwort_3=1	 Apfel
+Antwort_4=0	 Pfirsich
+
+[75]
+FZ1=
+FZ2=Wie tötet ein Skorpion seine Beute ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0	 durch Erwürgen
+Antwort_2=0	 durch Beißen
+Antwort_3=0	 durch Ersticken
+Antwort_4=1	 durch Gift
+
+[76]
+FZ1=
+FZ2=Welches Land besitzt eine Fahne mit 50 Sternen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 USA
+Antwort_2=0	 Russland
+Antwort_3=0	 China
+Antwort_4=0	 Kanada
+
+[77]
+FZ1=
+FZ2=Was ist ein Äquadukt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 eine römische Wasserleitung
+Antwort_2=0	 eingriechischer Torbogen
+Antwort_3=0	 eine englische Lokomotive
+Antwort_4=0	 ein finnisches Heizungssystem
+
+[78]
+FZ1=
+FZ2=Welche Farbe hat ein Chamäleon ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 grün
+Antwort_2=0	 braun
+Antwort_3=0	 schwarz
+Antwort_4=1	 wechselnde Farbe
+
+[79]
+FZ1=
+FZ2=Wo steht die Golden Gate Bridge ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Manchester
+Antwort_2=1	 San Franzisko
+Antwort_3=0	 Los Angeles
+Antwort_4=0	 Kuala Lumpur
+
+[80]
+FZ1=
+FZ2=Wie viele Jünger hatte Jesus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 12
+Antwort_2=0	 15
+Antwort_3=0	 19
+Antwort_4=0	 10
+
+[81]
+FZ1=
+FZ2=Wie heißt der Hund von Mickey Maus ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Pluto
+Antwort_2=0	 Planeto
+Antwort_3=0	 Neptun
+Antwort_4=0	 Snoopy
+
+[82]
+FZ1=
+FZ2=Wie vermehren sich Bakterien ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 durch Teilung
+Antwort_2=0	 durch Niesen
+Antwort_3=0	 durch Samen
+Antwort_4=0	 durch Schnupfen
+
+[83]
+FZ1=
+FZ2=Welches Tier ist das schnellste Landtier ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Gepard
+Antwort_2=0	 Ziege
+Antwort_3=0	 Tiger
+Antwort_4=0	 Antilope
+
+[84]
+FZ1=
+FZ2=In welcher Stadt wohnt Donald Duck ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Entenhausen
+Antwort_2=0	 Entenstadt
+Antwort_3=0	 Entendorf
+Antwort_4=0	 Entenburg
+
+[85]
+FZ1=
+FZ2=In welchem Monat feiert man Weihnachten ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Dezember
+Antwort_2=0	 Oktober
+Antwort_3=0	 April
+Antwort_4=0	 Juli
+
+[86]
+FZ1=
+FZ2=Wo gibt es Dünen ?
+FZ3=
+Min=100
+Max=2000
+Antwort_1=1	 am Meer
+Antwort_2=0	 im Urwald
+Antwort_3=0	 im Meer
+Antwort_4=0	 am Gletscher
+
+[87]
+FZ1=
+FZ2=Wie viele Schachfiguren erhält jeder Spieler in einem Schachspiel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 32
+Antwort_2=1	 16
+Antwort_3=0	 48
+Antwort_4=0	 64
+
+[88]
+FZ1=
+FZ2=Was sammelt ein Philatelist  ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	  Briefmarken
+Antwort_2=0	 Münzen
+Antwort_3=0	 Bierdeckel
+Antwort_4=0	 Edelsteine
+
+[89]
+FZ1=
+FZ2=Was ist ein Philodendron ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 eine Pflanzenart
+Antwort_2=0	 eine Saurierart
+Antwort_3=0	 eine Fischart
+Antwort_4=0	 eine Schwalbenart
+
+[90]
+FZ1=
+FZ2=Was ist das ZDF ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 ein Fernsehsender
+Antwort_2=0	 eine politische Partei
+Antwort_3=0	 eine Hilfsorganisation
+Antwort_4=0	 eine Chemiefabrik
+
+[91]
+FZ1=
+FZ2=Wie heißt das französische Stangenweißbrot ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	 Baguette
+Antwort_2=0	 Plakette
+Antwort_3=0	 Stilett
+Antwort_4=0	 Minarett
+
+[92]
+FZ1=
+FZ2=Wie heißt die Freundin von Micky Maus ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Minnie
+Antwort_2=0	 Linny
+Antwort_3=0	 Ninnie
+Antwort_4=0	 Susi
+
+[93]
+FZ1=
+FZ2=Wie heißt der amerikanische Geheimdienst ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 CIA
+Antwort_2=0	 FBI
+Antwort_3=0	 KGB
+Antwort_4=0	 CDU
+
+[94]
+FZ1=
+FZ2=Welcher Fluss fließt durch Ägypten ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	 Nil
+Antwort_2=0	 Amazonas
+Antwort_3=0	 Mississippi
+Antwort_4=0	 Elbe
+
+[95]
+FZ1=
+FZ2=Was ist ein Computervirus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 zerstörendes Programm
+Antwort_2=0	 kleiner Hammer
+Antwort_3=0	 Computerspiel
+Antwort_4=0	 Krankheit mit Fieber
+
+[96]
+FZ1=
+FZ2=Was trinkt ein Vampir am liebsten ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Blut
+Antwort_2=0	 Knoblauchsaft
+Antwort_3=0	 Tomatensaft
+Antwort_4=0	 Milch
+
+[97]
+FZ1=
+FZ2=Welches Getränk wird mit Hefe zubereitet ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Wein
+Antwort_2=0	 Limonade
+Antwort_3=0	 Cola
+Antwort_4=0	 Milch
+
+[98]
+FZ1=
+FZ2=Was zeigt der Kompass an ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 die Himmelsrichtung
+Antwort_2=0	 die Uhrzeit
+Antwort_3=0	 das Gewicht
+Antwort_4=0	 den Luftdruck
+
+[99]
+FZ1=
+FZ2=Wodurch wird eine Galeere angetrieben ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Menschenkraft
+Antwort_2=0	 Außenbordmotor
+Antwort_3=0	 Segel
+Antwort_4=0	 Elektromotor
+
+[100]
+FZ1=
+FZ2=Wie heißt der Sohn von Abraham ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Isaak
+Antwort_2=0	 Josef
+Antwort_3=0	 Moses
+Antwort_4=0	 Noah
+

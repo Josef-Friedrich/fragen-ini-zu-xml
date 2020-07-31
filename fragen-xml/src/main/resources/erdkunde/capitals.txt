@@ -1,0 +1,2304 @@
+[Thema]
+Thema= Länder und ihre Hauptstädte (Stand 1994)
+Fragen=209
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Deutschland
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Berlin
+Antwort_2=0	 Rom
+Antwort_3=0	 Paris
+Antwort_4=0	  Wien
+
+[2]
+FZ1=
+FZ2=Finnland
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Helsinki
+Antwort_2=0	 Berlin
+Antwort_3=0	 Athen
+Antwort_4=0	 Oslo
+
+[3]
+FZ1=
+FZ2=Dänemark
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Kopenhagen
+Antwort_2=0	 Oslo
+Antwort_3=0	 Berlin
+Antwort_4=0	  Paris
+
+[4]
+FZ1=
+FZ2=Frankreich
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Paris
+Antwort_2=0	 Berlin
+Antwort_3=0	 Rom
+Antwort_4=0	 Wien
+
+[5]
+FZ1=
+FZ2=Griechenland
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Athen
+Antwort_2=0	 Amsterdam
+Antwort_3=0	 Madrid
+Antwort_4=0	 Helsinki
+
+[6]
+FZ1=
+FZ2=Großbritannien
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 London
+Antwort_2=0	 Kopenhagen
+Antwort_3=0	 Paris
+Antwort_4=0	 Berlin
+
+[7]
+FZ1=
+FZ2=Liechtenstein
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1	 Vaduz
+Antwort_2=0	 Luxemburg
+Antwort_3=0	  Monrovia
+Antwort_4=0	  Beirut
+
+[8]
+FZ1=
+FZ2=Luxemburg
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Luxemburg
+Antwort_2=0	 Rom
+Antwort_3=0	 Paris
+Antwort_4=0	 Brüssel
+
+[9]
+FZ1=
+FZ2=Monaco
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	 Monaco
+Antwort_2=0	 Vaduz
+Antwort_3=0	 Helsinki
+Antwort_4=0	  Warschau
+
+[10]
+FZ1=
+FZ2=Norwegen
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Oslo
+Antwort_2=0	 Kopenhagen
+Antwort_3=0	 Helsinki
+Antwort_4=0	 Paris
+
+[11]
+FZ1=
+FZ2=Österreich
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Wien
+Antwort_2=0	 Paris
+Antwort_3=0	 Rom
+Antwort_4=0	 London
+
+[12]
+FZ1=
+FZ2=Polen
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Warschau
+Antwort_2=0	 Wien
+Antwort_3=0	 Lissabon
+Antwort_4=0	 Paris
+
+[13]
+FZ1=
+FZ2=Portugal
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Lissabon
+Antwort_2=0	 London
+Antwort_3=0	 Madrid
+Antwort_4=0	 Wien
+
+[14]
+FZ1=
+FZ2=Rumänien
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Bukarest
+Antwort_2=0	 San Marino
+Antwort_3=0	 Moskau
+Antwort_4=0	 Stockholm
+
+[15]
+FZ1=
+FZ2=Russland
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Moskau
+Antwort_2=0	 Madrid
+Antwort_3=0	 Oslo
+Antwort_4=0	 Athen
+
+[16]
+FZ1=
+FZ2=San Marino
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 San Marino
+Antwort_2=0	 Luxemberg
+Antwort_3=0	 Stockholm
+Antwort_4=0	 Andorra
+
+[17]
+FZ1=
+FZ2=Schweden
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Stockholm
+Antwort_2=0	 Helsinki
+Antwort_3=0	 Paris
+Antwort_4=0	 London
+
+[18]
+FZ1=
+FZ2=Schweiz
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Bern
+Antwort_2=0	 Budapest
+Antwort_3=0	 Berlin
+Antwort_4=0	 Wien
+
+[19]
+FZ1=
+FZ2=Slowakei
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Bratislava
+Antwort_2=0	 Ljubljana
+Antwort_3=0	 Athen
+Antwort_4=0	  Harare
+
+[20]
+FZ1=
+FZ2=Slowenien
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Ljubljana
+Antwort_2=0	 Bratislava
+Antwort_3=0	 Madrid
+Antwort_4=0	 Victoria
+
+[21]
+FZ1=
+FZ2=Spanien
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Madrid
+Antwort_2=0	 Lissabon
+Antwort_3=0	 Bern
+Antwort_4=0	 Kopenhagen
+
+[22]
+FZ1=
+FZ2=Tschechien
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Prag
+Antwort_2=0	 Oslo
+Antwort_3=0	 Paris
+Antwort_4=0	 Wien
+
+[23]
+FZ1=
+FZ2=Türkei
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Ankara
+Antwort_2=0	 Athen
+Antwort_3=0	 Aschchabad
+Antwort_4=0	 Budapest
+
+[24]
+FZ1=
+FZ2=Ukraine
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Kiew
+Antwort_2=0	 Budapest
+Antwort_3=0	 Taschkent
+Antwort_4=0	 Kampala
+
+[25]
+FZ1=
+FZ2=Ungarn
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Budapest
+Antwort_2=0	 Ljubljana
+Antwort_3=0	 Warschau
+Antwort_4=0	 Moskau
+
+[26]
+FZ1=
+FZ2=USA
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Washington D.C.
+Antwort_2=0	  New York
+Antwort_3=0	 London
+Antwort_4=0	 Dallas
+
+[27]
+FZ1=
+FZ2=Usbekistan
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Taschkent
+Antwort_2=0	 Kiew
+Antwort_3=0	 Caracas
+Antwort_4=0	 Nikosia
+
+[28]
+FZ1=
+FZ2=Zypern
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Nikosia
+Antwort_2=0	 Kinshasa
+Antwort_3=0	 Budapest
+Antwort_4=0	 Paramaribo
+
+[29]
+FZ1=
+FZ2=Afghanistan
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Kabul
+Antwort_2=0	 Kairo
+Antwort_3=0	 Tirana
+Antwort_4=0	 Algier
+
+[30]
+FZ1=
+FZ2=Ägypten
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Kairo
+Antwort_2=0	 Pago Pago
+Antwort_3=0	 Kabul
+Antwort_4=0	 Luanda
+
+[31]
+FZ1=
+FZ2=Albanien
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Tirana
+Antwort_2=0	 Kairo
+Antwort_3=0	 Malabo
+Antwort_4=0	 Baku
+
+[32]
+FZ1=
+FZ2=Algerien
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Algier
+Antwort_2=0	 Athen
+Antwort_3=0	 Amsterdam
+Antwort_4=0	 Buenos Aires
+
+[33]
+FZ1=
+FZ2=Amerikanisch-Samoa
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Pago Pago
+Antwort_2=0	 Andorra La Vella
+Antwort_3=0	 Luanda
+Antwort_4=0	 Saint John's
+
+[34]
+FZ1=
+FZ2=Andorra
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Andorra La Vella
+Antwort_2=0	 Buenos Aires
+Antwort_3=0	 Eriwan
+Antwort_4=0	 Canberra
+
+[35]
+FZ1=
+FZ2=Angola
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Luanda
+Antwort_2=0	 Baku
+Antwort_3=0	 Malabo
+Antwort_4=0	 Nassau
+
+[36]
+FZ1=
+FZ2=Antigua
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Saint John's
+Antwort_2=0	 Oranjestad
+Antwort_3=0	 Addis Abeba
+Antwort_4=0	 Hamilton
+
+[37]
+FZ1=
+FZ2=Äquatorialguinea
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Malabo
+Antwort_2=0	 Porto-Novo
+Antwort_3=0	 Belmopan
+Antwort_4=0	 Georgetown
+
+[38]
+FZ1=
+FZ2=Argentinien
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1	 Buenos Aires
+Antwort_2=0	 Addis Abeba
+Antwort_3=0	 Al Manama
+Antwort_4=0	 Porto-Novo
+
+[39]
+FZ1=
+FZ2=Bangladesch
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Dhaka
+Antwort_2=0	 Minsk
+Antwort_3=0	 Rangun
+Antwort_4=0	 Santiago
+
+[40]
+FZ1=
+FZ2=Burkina
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Ouagadougou
+Antwort_2=0	 Bujumbura
+Antwort_3=0	 Yamoussoukro
+Antwort_4=0	 Cayenne
+
+[41]
+FZ1=
+FZ2=Französisch-Guyana
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Cayenne
+Antwort_2=0	 Banjul
+Antwort_3=0	 Agana
+Antwort_4=0	 Bissau
+
+[42]
+FZ1=
+FZ2=Guam
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Agana
+Antwort_2=0	 Conakry
+Antwort_3=0	 Jakarta
+Antwort_4=0	 Sana
+
+[43]
+FZ1=
+FZ2=Japan
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Tokio
+Antwort_2=0	 Peking
+Antwort_3=0	 Phnom Penh
+Antwort_4=0	 Alma-Ata
+
+[44]
+FZ1=
+FZ2=Kenia
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Nairobi
+Antwort_2=0	 Bischkek
+Antwort_3=0	 Kuwait
+Antwort_4=0	 Tripolis
+
+[45]
+FZ1=
+FZ2=Litauen
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Vilnius (Wilnjus)
+Antwort_2=0	 Antananarivo
+Antwort_3=0	 Kuala Lumpur
+Antwort_4=0	 Nouakchott
+
+[46]
+FZ1=
+FZ2=Marokko
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Rabat
+Antwort_2=0	 Rom
+Antwort_3=0	 Monaco
+Antwort_4=0	 Dubrovnik
+
+[47]
+FZ1=
+FZ2=Myanmar
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Yangon
+Antwort_2=0	 Kischinjow
+Antwort_3=0	 Nouméa
+Antwort_4=0	 Abuja
+
+[48]
+FZ1=
+FZ2=Paraguay
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Asunción
+Antwort_2=0	 Manila
+Antwort_3=0	 Saint-Denis
+Antwort_4=0	 Basseterre
+
+[49]
+FZ1=
+FZ2=Saint Vincent
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Kingstown
+Antwort_2=0	 Lusaka
+Antwort_3=0	 Harare
+Antwort_4=0	 Khartum
+
+[50]
+FZ1=
+FZ2=Syrien
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Damaskus
+Antwort_2=0	 Taipeh
+Antwort_3=0	 Bratislava
+Antwort_4=0	 Daressalam
+
+[51]
+FZ1=
+FZ2=Trinidad
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Port of Spain
+Antwort_2=0	 Nukualofa
+Antwort_3=0	 Fongafale
+Antwort_4=0	 Port Vila
+
+[52]
+FZ1=
+FZ2=Venezuela
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Caracas
+Antwort_2=0	 Bangui
+Antwort_3=0	 Duschanbe
+Antwort_4=0	 Mogadischu
+
+[53]
+FZ1=
+FZ2=Armenien
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Eriwan
+Antwort_2=0	 Luanda
+Antwort_3=0	 Minsk
+Antwort_4=0	 Thimbu
+
+[54]
+FZ1=
+FZ2=Bermuda
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Hamilton
+Antwort_2=0	 Gaborone
+Antwort_3=0	 Roseau
+Antwort_4=0	 Asmara
+
+[55]
+FZ1=
+FZ2=El Salvador
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 San Salvador
+Antwort_2=0	 Suva
+Antwort_3=0	 Libreville
+Antwort_4=0	 Saint George's
+
+[56]
+FZ1=
+FZ2=Papua
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Port Moresby
+Antwort_2=0	 Port Vila
+Antwort_3=0	 Port of Spain
+Antwort_4=0	 Port Louis
+
+[57]
+FZ1=
+FZ2=Italien
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Rom
+Antwort_2=0	 Paris
+Antwort_3=0	 Berlin
+Antwort_4=0	 Wien
+
+[58]
+FZ1=
+FZ2=Iran
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	 Teheran
+Antwort_2=0	 Jerusalem
+Antwort_3=0	 Kairo
+Antwort_4=0	 Kabul
+
+[59]
+FZ1=
+FZ2=Estland
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Tallinn
+Antwort_2=0	 Stanley
+Antwort_3=0	 Helsinki
+Antwort_4=0	 Tiflis
+
+[60]
+FZ1=
+FZ2=Georgien
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Tiflis
+Antwort_2=0	 Minsk
+Antwort_3=0	 Agana
+Antwort_4=0	 Amman
+
+[61]
+FZ1=
+FZ2=Jugoslawien (Serbien)
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	 Belgrad
+Antwort_2=0	 Sofia
+Antwort_3=0	 Tirana
+Antwort_4=0	 Bukarest
+
+[62]
+FZ1=
+FZ2=Jemen
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Sana
+Antwort_2=0	 Ottawa
+Antwort_3=0	 Praia
+Antwort_4=0	 Alma-Ata
+
+[63]
+FZ1=
+FZ2=Katar
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Ad Dauha (Doha)
+Antwort_2=0	 Addis Abeba
+Antwort_3=0	 Alma-Ata
+Antwort_4=0	 Andorra
+
+[64]
+FZ1=
+FZ2=Komoren
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Moroni
+Antwort_2=0	 Zagreb
+Antwort_3=0	 Vientiane
+Antwort_4=0	 Riga
+
+[65]
+FZ1=
+FZ2=Libyen
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Tripolis
+Antwort_2=0	 Beirut
+Antwort_3=0	 Skopje
+Antwort_4=0	 Jerusalem
+
+[66]
+FZ1=
+FZ2=Madagaskar
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Antananarivo
+Antwort_2=0	 Fort-de-France
+Antwort_3=0	 Dubrovnik
+Antwort_4=0	 Willemstad
+
+[67]
+FZ1=
+FZ2=Neuseeland
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Wellington
+Antwort_2=0	 Managua
+Antwort_3=0	 Manila
+Antwort_4=0	 Lusaka
+
+[68]
+FZ1=
+FZ2=Seychellen
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Victoria
+Antwort_2=0	  Freetown
+Antwort_3=0	 Colombo
+Antwort_4=0	 Mbabane
+
+[69]
+FZ1=
+FZ2=Thailand
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Bangkok
+Antwort_2=0	 Daressalam
+Antwort_3=0	 Ar Rijad
+Antwort_4=0	 Kingstown
+
+[70]
+FZ1=
+FZ2=Simbabwe
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Harare
+Antwort_2=0	 Mogadischu
+Antwort_3=0	 Khartum
+Antwort_4=0	 Duschanbe
+
+[71]
+FZ1=
+FZ2=Uruguay
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1	 Montevideo
+Antwort_2=0	 Bangui
+Antwort_3=0	 Colombo
+Antwort_4=0	 Castries
+
+[72]
+FZ1=
+FZ2=Saudi-Arabien
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Ar Rijad
+Antwort_2=0	 El Alaiun
+Antwort_3=0	 Ulan Bator
+Antwort_4=0	 Kuala Lumpur
+
+[73]
+FZ1=
+FZ2=Malediven
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Male
+Antwort_2=0	 Rabat
+Antwort_3=0	 Riga
+Antwort_4=0	 Praia
+
+[74]
+FZ1=
+FZ2=Kambodscha
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Phnom Penh
+Antwort_2=0	 Charlotte Amalie
+Antwort_3=0	 Jakarta
+Antwort_4=0	 Basse-Terre
+
+[75]
+FZ1=
+FZ2=Guinea-Bissau
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Bissau
+Antwort_2=0	 Tegucigalpa
+Antwort_3=0	 Georgetown
+Antwort_4=0	 Reykjavik
+
+[76]
+FZ1=
+FZ2=Island
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Reykjavik
+Antwort_2=0	 Dublin
+Antwort_3=0	 Amman
+Antwort_4=0	 Bischkek
+
+[77]
+FZ1=
+FZ2=Kolumbien (Colombia)
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Bogotá
+Antwort_2=0	  Moroni
+Antwort_3=0	  Brazzaville
+Antwort_4=0	 Maseru
+
+[78]
+FZ1=
+FZ2=Libanon
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Beirut
+Antwort_2=0	 Kairo
+Antwort_3=0	 Jerusalem
+Antwort_4=0	 Kabul
+
+[79]
+FZ1=
+FZ2=Liberia
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Monrovia
+Antwort_2=0	 Maseru
+Antwort_3=0	  Lilongwe
+Antwort_4=0	 Bamako
+
+[80]
+FZ1=
+FZ2=Mali
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Bamako
+Antwort_2=0	 Valletta
+Antwort_3=0	 Monaco
+Antwort_4=0	 Nouméa
+
+[81]
+FZ1=
+FZ2=Pakistan
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Islamabad
+Antwort_2=0	 Kabul
+Antwort_3=0	 San Juan
+Antwort_4=0	 Duschanbe
+
+[82]
+FZ1=
+FZ2=Tansania
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Daressalam
+Antwort_2=0	 Tunis
+Antwort_3=0	 Port Vila
+Antwort_4=0	 Apia
+
+[83]
+FZ1=
+FZ2=Zentralafrikanische Republik
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Bangui
+Antwort_2=0	 Kinshasa
+Antwort_3=0	 Abu Dhabi
+Antwort_4=0	 Kampala
+
+[84]
+FZ1=
+FZ2=Turkmenistan
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1	 Aschchabad
+Antwort_2=0	  Fongafale
+Antwort_3=0	  Duschanbe
+Antwort_4=0	 Honiara
+
+[85]
+FZ1=
+FZ2=Singapur
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Singapur City
+Antwort_2=0	 El Alaiun
+Antwort_3=0	 Basseterre
+Antwort_4=0	 Port Moresby
+
+[86]
+FZ1=
+FZ2=Oman
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Mascat
+Antwort_2=0	 Lima
+Antwort_3=0	 Manila
+Antwort_4=0	 Kigali
+
+[87]
+FZ1=
+FZ2=Saint Christopher und Nevis
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Basseterre
+Antwort_2=0	 Honiara
+Antwort_3=0	  Victoria
+Antwort_4=0	 Khartum
+
+[88]
+FZ1=
+FZ2=Sudan
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Khartum
+Antwort_2=0	 Seoul
+Antwort_3=0	 Lome
+Antwort_4=0	 Kampala
+
+[89]
+FZ1=
+FZ2=Vatikan
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Vatikan
+Antwort_2=0	 Caracas
+Antwort_3=0	  Hanoi
+Antwort_4=0	 Rom
+
+[90]
+FZ1=
+FZ2=Vereinigte Arabische Emirate
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Abu Dhabi
+Antwort_2=0	 Apia
+Antwort_3=0	 Kinshasa
+Antwort_4=0	 Nukualofa
+
+[91]
+FZ1=
+FZ2=Tunesien
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Tunis
+Antwort_2=0	 Paris
+Antwort_3=0	 Ankara
+Antwort_4=0	 Taipeh
+
+[92]
+FZ1=
+FZ2=Swasiland
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 Mbabane
+Antwort_2=0	  Duschanbe
+Antwort_3=0	 Lome
+Antwort_4=0	 Nukualofa
+
+[93]
+FZ1=
+FZ2=Ruanda
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Kigali
+Antwort_2=0	  Castries
+Antwort_3=0	  Honiara
+Antwort_4=0	 Dakar
+
+[94]
+FZ1=
+FZ2=Südafrika
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Pretoria
+Antwort_2=0	  Paramaribo
+Antwort_3=0	 Daressalam
+Antwort_4=0	 Kampala
+
+[95]
+FZ1=
+FZ2=Aruba
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Oranjestad
+Antwort_2=0	 Canberra
+Antwort_3=0	 Malabo
+Antwort_4=0	 Belmopan
+
+[96]
+FZ1=
+FZ2=Belgien
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Brüssel
+Antwort_2=0	 Paris
+Antwort_3=0	 Rom
+Antwort_4=0	Berlin
+
+[97]
+FZ1=
+FZ2=Bolivien
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 La Paz
+Antwort_2=0	 Bandar Seri Begawan
+Antwort_3=0	 San José
+Antwort_4=0	 San Salvador
+
+[98]
+FZ1=
+FZ2=Eritrea
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 Asmara
+Antwort_2=0	 Suva
+Antwort_3=0	 Accra
+Antwort_4=0	 Agana
+
+[99]
+FZ1=
+FZ2=Hongkong
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Victoria
+Antwort_2=0	  Jakarta
+Antwort_3=0	  Kingston
+Antwort_4=0	 Jaunde
+
+[100]
+FZ1=
+FZ2=Kongo
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Brazzaville
+Antwort_2=0	 Kuwait
+Antwort_3=0	 Antananarivo
+Antwort_4=0	 Bamako
+
+[101]
+FZ1=
+FZ2=Malta
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	 Valletta
+Antwort_2=0	 Maputo
+Antwort_3=0	 Yaren
+Antwort_4=0	  Abuja
+
+[102]
+FZ1=
+FZ2=Nord-Korea
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 Pjongjang
+Antwort_2=0	 Islamabad
+Antwort_3=0	 Basseterre
+Antwort_4=0	  Paramaribo
+
+[103]
+FZ1=
+FZ2=Süd-Korea
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Seoul
+Antwort_2=0	 Pretoria
+Antwort_3=0	 Lome
+Antwort_4=0	  Hanoi
+
+[104]
+FZ1=
+FZ2=Zaire
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1	 Kinshasa
+Antwort_2=0	 Duschanbe
+Antwort_3=0	 Daressalam
+Antwort_4=0	 Khartum
+
+[105]
+FZ1=
+FZ2=Tadschikistan
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Duschanbe
+Antwort_2=0	 Taipeh
+Antwort_3=0	 Bangkok
+Antwort_4=0	 Ankara
+
+[106]
+FZ1=
+FZ2=Tuvalu
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Fongafale
+Antwort_2=0	 Montevideo
+Antwort_3=0	 Apia
+Antwort_4=0	 Sao Tome
+
+[107]
+FZ1=
+FZ2=Surinam
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Paramaribo
+Antwort_2=0	 Mbabane
+Antwort_3=0	 Kampala
+Antwort_4=0	 Kinshasa
+
+[108]
+FZ1=
+FZ2=Vietnam
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1	 Hanoi
+Antwort_2=0	 Bangui
+Antwort_3=0	 Seoul
+Antwort_4=0	 Pretoria
+
+[109]
+FZ1=
+FZ2=Aserbaidschan
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Baku
+Antwort_2=0	 Minsk
+Antwort_3=0	 Thimbu
+Antwort_4=0	 Tallinn
+
+[110]
+FZ1=
+FZ2=Ecuador
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Quito
+Antwort_2=0	 Dschibuti
+Antwort_3=0	 Asmara
+Antwort_4=0	 Accra
+
+[111]
+FZ1=
+FZ2=Grenada
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Saint George's
+Antwort_2=0	 Charlotte Amalie
+Antwort_3=0	 Lilongwe
+Antwort_4=0	 Port Louis
+
+[112]
+FZ1=
+FZ2=Martinique
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Fort-de-France
+Antwort_2=0	 Rabat
+Antwort_3=0	 Nouakchott
+Antwort_4=0	 Maputo
+
+[113]
+FZ1=
+FZ2=Mongolei
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Ulan Bator
+Antwort_2=0	 Saint-Denis
+Antwort_3=0	 Ar Rijad
+Antwort_4=0	 Pago Pago
+
+[114]
+FZ1=
+FZ2=
+FZ3=Äthiopien
+Min=16000
+Max=125000
+Antwort_1=1	 Addis Abeba
+Antwort_2=0	 Basse-Terre
+Antwort_3=0	 Ad Dauha (Doha)
+Antwort_4=0	 El Alaiun
+
+[115]
+FZ1=
+FZ2=Sahara
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 El Alaiun
+Antwort_2=0	 Sao Tome
+Antwort_3=0	 Ar Rijad
+Antwort_4=0	 Abu Dhabi
+
+[116]
+FZ1=
+FZ2=Westsamoa
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Apia
+Antwort_2=0	 Hanoi
+Antwort_3=0	 Bangui
+Antwort_4=0	 Lome
+
+[117]
+FZ1=
+FZ2=Tonga
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Nukualofa
+Antwort_2=0	 Aschchabad
+Antwort_3=0	 Paramaribo
+Antwort_4=0	 Niamey
+
+[118]
+FZ1=
+FZ2=Niederlande
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Amsterdam
+Antwort_2=0	 Stockholm
+Antwort_3=0	 Kopenhagen
+Antwort_4=0	 Athen
+
+[119]
+FZ1=
+FZ2=Nicaragua
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 Managua
+Antwort_2=0	 Wellington
+Antwort_3=0	 Pjongjang
+Antwort_4=0	 Mascat
+
+[120]
+FZ1=
+FZ2=Niger
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Niamey
+Antwort_2=0	 Abuja
+Antwort_3=0	 Mascat
+Antwort_4=0	 Manila
+
+[121]
+FZ1=
+FZ2=Peru
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Lima
+Antwort_2=0	 Manila
+Antwort_3=0	 Lusaka
+Antwort_4=0	 Sao Tome
+
+[122]
+FZ1=
+FZ2=Sambia
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Lusaka
+Antwort_2=0	 Castries
+Antwort_3=0	 Victoria
+Antwort_4=0	 Colombo
+
+[123]
+FZ1=
+FZ2=Somalia
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Mogadischu
+Antwort_2=0	 Ljubljana
+Antwort_3=0	 Khartum
+Antwort_4=0	 Daressalam
+
+[124]
+FZ1=
+FZ2=Taiwan (Formosa)
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Taipeh
+Antwort_2=0	 Bangkok
+Antwort_3=0	 Daressalam
+Antwort_4=0	 Tunis
+
+[125]
+FZ1=
+FZ2=Togo
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Lome
+Antwort_2=0	 Fongafale
+Antwort_3=0	 Bangui
+Antwort_4=0	 Apia
+
+[126]
+FZ1=
+FZ2=Vanuatu
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Port Vila
+Antwort_2=0	 Port of Spain
+Antwort_3=0	 Port Moresby
+Antwort_4=0	 Port Louis
+
+[127]
+FZ1=
+FZ2=Mauretanien
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Nouakchott
+Antwort_2=0	 Kischinjow
+Antwort_3=0	 Maseru
+Antwort_4=0	 Bischkek
+
+[128]
+FZ1=
+FZ2=Kiribati
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Bairiki/Tarawa
+Antwort_2=0	 Nuuk (Godthab)
+Antwort_3=0	 Bandar Seri Begawan
+Antwort_4=0	 Ad Dauha (Doha)
+
+[129]
+FZ1=
+FZ2=Kirgisistan
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Bischkek
+Antwort_2=0	 Riga
+Antwort_3=0	 Vilnius (Wilnjus)
+Antwort_4=0	 Kischinjow
+
+[130]
+FZ1=
+FZ2=Montenegro
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 Dubrovnik
+Antwort_2=0	 Bukarest
+Antwort_3=0	 Lusaka
+Antwort_4=0	 Ljubljana
+
+[131]
+FZ1=
+FZ2=Sierra Leone
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Freetown
+Antwort_2=0	 Victoria
+Antwort_3=0	 Dakar
+Antwort_4=0	 Harare
+
+[132]
+FZ1=
+FZ2=Senegal
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Dakar
+Antwort_2=0	 Mogadischu
+Antwort_3=0	 Khartum
+Antwort_4=0	 Mbabane
+
+[133]
+FZ1=
+FZ2=Sri Lanka (Ceylon)
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Colombo
+Antwort_2=0	 Pretoria
+Antwort_3=0	 Taipeh
+Antwort_4=0	 Taschkent
+
+[134]
+FZ1=
+FZ2=Uganda
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Kampala
+Antwort_2=0	 Kinshasa
+Antwort_3=0	 Bangui
+Antwort_4=0	 Honiara
+
+[135]
+FZ1=
+FZ2=Sao Tome
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Sao Tome
+Antwort_2=0	 San Marino
+Antwort_3=0	 San Juan
+Antwort_4=0	 Kuala Lumpur
+
+[136]
+FZ1=
+FZ2=Macao
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Macao
+Antwort_2=0	 Skopje
+Antwort_3=0	 Male
+Antwort_4=0	 Bamako
+
+[137]
+FZ1=
+FZ2=Makedonien
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	 Skopje
+Antwort_2=0	 Dubrovnik
+Antwort_3=0	 Bukarest
+Antwort_4=0	 Ljubljana
+
+[138]
+FZ1=
+FZ2=Salomon-Inseln
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Honiara
+Antwort_2=0	 Castries
+Antwort_3=0	 Asunción
+Antwort_4=0	 Managua
+
+[139]
+FZ1=
+FZ2=Nigeria
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Abuja
+Antwort_2=0	 Maputo
+Antwort_3=0	 Yangon
+Antwort_4=0	 Bamako
+
+[140]
+FZ1=
+FZ2=Malawi
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Lilongwe
+Antwort_2=0	 Antananarivo
+Antwort_3=0	 Maseru
+Antwort_4=0	 Agana
+
+[141]
+FZ1=
+FZ2=Grönland
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Nuuk (Godthab)
+Antwort_2=0	 Beijing (Peking)
+Antwort_3=0	 Ad Dauha (Doha)
+Antwort_4=0	 Vilnius (Wilnjus)
+
+[142]
+FZ1=
+FZ2=Malaysia
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Kuala Lumpur
+Antwort_2=0	 Ulan Bator
+Antwort_3=0	 Abu Dhabi
+Antwort_4=0	 Pago Pago
+
+[143]
+FZ1=
+FZ2=Australien
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Canberra
+Antwort_2=0	 Nassau
+Antwort_3=0	 Bridgetown
+Antwort_4=0	 Sydney
+
+[144]
+FZ1=
+FZ2=Bahamas
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Nassau
+Antwort_2=0	 Dhaka
+Antwort_3=0	 Hamilton
+Antwort_4=0	 Roseau
+
+[145]
+FZ1=
+FZ2=Costa Rica
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 San José
+Antwort_2=0	 Santo Domingo
+Antwort_3=0	 San Salvador
+Antwort_4=0	 San Juan
+
+[146]
+FZ1=
+FZ2=Philippinen
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Manila
+Antwort_2=0	 Lima
+Antwort_3=0	 Kigali
+Antwort_4=0	 Castries
+
+[147]
+FZ1=
+FZ2=Saint Lucia
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Castries
+Antwort_2=0	 Colombo
+Antwort_3=0	 Caracas
+Antwort_4=0	 Cayenne
+
+[148]
+FZ1=
+FZ2=Französisch-Polynesien
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Papette
+Antwort_2=0	 Port-au-Prince
+Antwort_3=0	 Phnom Penh
+Antwort_4=0	 Praia
+
+[149]
+FZ1=
+FZ2=Kasachstan
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Alma-Ata
+Antwort_2=0	 Phnom Penh
+Antwort_3=0	 Road Town
+Antwort_4=0	 El Alaiun
+
+[150]
+FZ1=
+FZ2=Réunion
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Saint-Denis
+Antwort_2=0	 San Juan
+Antwort_3=0	 Saint John's
+Antwort_4=0	 Thimbu
+
+[151]
+FZ1=
+FZ2=Belize
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Belmopan
+Antwort_2=0	 Rangun
+Antwort_3=0	 Ouagadougou
+Antwort_4=0	 Yamoussoukro
+
+[152]
+FZ1=
+FZ2=Côte d'Ivoire (Elfenbeinküste)
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Yamoussoukro
+Antwort_2=0	 Bujumbura
+Antwort_3=0	 Asmara
+Antwort_4=0	 Suva
+
+[153]
+FZ1=
+FZ2=Falkland-Inseln
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Stanley
+Antwort_2=0	 Papette
+Antwort_3=0	 Georgetown
+Antwort_4=0	 Road Town
+
+[154]
+FZ1=
+FZ2=Jordanien
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Amman
+Antwort_2=0	 Kuwait
+Antwort_3=0	 Tripolis
+Antwort_4=0	 Rabat
+
+[155]
+FZ1=
+FZ2=Mauritius
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Port Louis
+Antwort_2=0	 Port Moresby
+Antwort_3=0	 Port of Spain
+Antwort_4=0	 Port Vila
+
+[156]
+FZ1=
+FZ2=Panama
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Panama
+Antwort_2=0	 Islamabad
+Antwort_3=0	 Lima
+Antwort_4=0	 Manila
+
+[157]
+FZ1=
+FZ2=Puerto Rico
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 San Juan
+Antwort_2=0	 Saint-Denis
+Antwort_3=0	 Sao Tome
+Antwort_4=0	 San José
+
+[158]
+FZ1=
+FZ2=China
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Peking
+Antwort_2=0	 Roseau
+Antwort_3=0	 Quito
+Antwort_4=0	 Banjul
+
+[159]
+FZ1=
+FZ2=Gabun
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Libreville
+Antwort_2=0	 Accra
+Antwort_3=0	 Agana
+Antwort_4=0	 Kingston
+
+[160]
+FZ1=
+FZ2=Jamaika
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Kingston
+Antwort_2=0	 Nouméa
+Antwort_3=0	 Wellington
+Antwort_4=0	 San Juan
+
+[161]
+FZ1=
+FZ2=Neukaledonien
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Nouméa
+Antwort_2=0	 Yaren
+Antwort_3=0	 Bamako
+Antwort_4=0	 Tripolis
+
+[162]
+FZ1=
+FZ2=Lettland
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Riga
+Antwort_2=0	 Minsk
+Antwort_3=0	 Tallinn
+Antwort_4=0	 Eriwan
+
+[163]
+FZ1=
+FZ2=Bahrain
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Al Manama
+Antwort_2=0	 La Paz
+Antwort_3=0	 Bandar Seri Begawan
+Antwort_4=0	 Kigali
+
+[164]
+FZ1=
+FZ2=Barbados
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Bridgetown
+Antwort_2=0	 Georgetown
+Antwort_3=0	 Road Town
+Antwort_4=0	 Kingstown
+
+[165]
+FZ1=
+FZ2=Neue Antillen
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Willemstad
+Antwort_2=0	 Kathmandu
+Antwort_3=0	 Yaren
+Antwort_4=0	 Nouméa
+
+[166]
+FZ1=
+FZ2=Nepal
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Kathmandu
+Antwort_2=0	 Kischinjow
+Antwort_3=0	 Bamako
+Antwort_4=0	 Moroni
+
+[167]
+FZ1=
+FZ2=Kroatien
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Zagreb
+Antwort_2=0	 Sofia
+Antwort_3=0	 Sarajewo
+Antwort_4=0	 Skopje
+
+[168]
+FZ1=
+FZ2=Bulgarien
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1	 Sofia
+Antwort_2=0	 Skopje
+Antwort_3=0	 Sarajewo
+Antwort_4=0	 Zagreb
+
+[169]
+FZ1=
+FZ2=Belarus (Weissrussland)
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Minsk
+Antwort_2=0	 Tallinn
+Antwort_3=0	 Tiflis
+Antwort_4=0	 Riga
+
+[170]
+FZ1=
+FZ2=Gambia
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Banjul
+Antwort_2=0	 Accra
+Antwort_3=0	 Agana
+Antwort_4=0	 Bissau
+
+[171]
+FZ1=
+FZ2=Guyana
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Georgetown
+Antwort_2=0	 Road Town
+Antwort_3=0	 Brazzaville
+Antwort_4=0	 Kingstown
+
+[172]
+FZ1=
+FZ2=Mosambik (Moçambique)
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Maputo
+Antwort_2=0	 Yangon
+Antwort_3=0	 Managua
+Antwort_4=0	 Manila
+
+[173]
+FZ1=
+FZ2=Namibia
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Windhuk
+Antwort_2=0	 Islamabad
+Antwort_3=0	 El Alaiun
+Antwort_4=0	 Mogadischu
+
+[174]
+FZ1=
+FZ2=Nauru
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Yaren
+Antwort_2=0	 Nouméa
+Antwort_3=0	 Asunción
+Antwort_4=0	 Algier
+
+[175]
+FZ1=
+FZ2=Benin
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Porto-Novo
+Antwort_2=0	 Rangun
+Antwort_3=0	 Saint George's
+Antwort_4=0	 Charlotte Amalie
+
+[176]
+FZ1=
+FZ2=Jungfern Inseln, GB
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Road Town
+Antwort_2=0	 Charlotte Amalie
+Antwort_3=0	 Jaunde
+Antwort_4=0	 Vientiane
+
+[177]
+FZ1=
+FZ2=Kuba
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Havanna (La Habana)
+Antwort_2=0	 Vilnius (Wilnjus)
+Antwort_3=0	 Willemstad
+Antwort_4=0	 Mascat
+
+[178]
+FZ1=
+FZ2=Moldau (Moldawien)
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Kischinjow
+Antwort_2=0	 Dubrovnik
+Antwort_3=0	 Kigali
+Antwort_4=0	 Bratislava
+
+[179]
+FZ1=
+FZ2=Mexiko
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Mexiko-Stadt (México, D.F.)
+Antwort_2=0	 Fort-de-France
+Antwort_3=0	 Port Moresby
+Antwort_4=0	 Singapur City
+
+[180]
+FZ1=
+FZ2=Lesotho
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Maseru
+Antwort_2=0	 Vientiane
+Antwort_3=0	 Moroni
+Antwort_4=0	 Jaunde
+
+[181]
+FZ1=
+FZ2=Kap Verde
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Praia
+Antwort_2=0	 Prag
+Antwort_3=0	 Papette
+Antwort_4=0	 Gaborone
+
+[182]
+FZ1=
+FZ2=Bosnien-Herzegowina
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	 Sarajewo
+Antwort_2=0	 Zagreb
+Antwort_3=0	 Sofia
+Antwort_4=0	 Skopje
+
+[183]
+FZ1=
+FZ2=Laos
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Vientiane
+Antwort_2=0	 Bischkek
+Antwort_3=0	 Amman
+Antwort_4=0	 Sana
+
+[184]
+FZ1=
+FZ2=Jungfern Inseln, USA
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Charlotte Amalie
+Antwort_2=0	 Jakarta
+Antwort_3=0	 Cayenne
+Antwort_4=0	 Stanley
+
+[185]
+FZ1=
+FZ2=Dschibuti
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Dschibuti
+Antwort_2=0	 Quito
+Antwort_3=0	 Asmara
+Antwort_4=0	 Suva
+
+[186]
+FZ1=
+FZ2=Fidschi
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Suva
+Antwort_2=0	 Stanley
+Antwort_3=0	 Accra
+Antwort_4=0	 Victoria
+
+[187]
+FZ1=
+FZ2=Haiti
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Port-au-Prince
+Antwort_2=0	 Port Louis
+Antwort_3=0	 Port Moresby
+Antwort_4=0	 Port of Spain
+
+[188]
+FZ1=
+FZ2=Kuwait
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Kuwait
+Antwort_2=0	 Beirut
+Antwort_3=0	 Tripolis
+Antwort_4=0	 Lilongwe
+
+[189]
+FZ1=
+FZ2=Kanada
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	 Ottawa
+Antwort_2=0	 Oslo
+Antwort_3=0	 Victoria
+Antwort_4=0	 Conakry
+
+[190]
+FZ1=
+FZ2=Guinea
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Conakry
+Antwort_2=0	 Basse-Terre
+Antwort_3=0	 Roseau
+Antwort_4=0	 Gaborone
+
+[191]
+FZ1=
+FZ2=Brasilien
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Brasilia
+Antwort_2=0	 Sofia
+Antwort_3=0	 Berlin
+Antwort_4=0	 Moskau
+
+[192]
+FZ1=
+FZ2=Botswana
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Gaborone
+Antwort_2=0	 Belmopan
+Antwort_3=0	 Al Manama
+Antwort_4=0	 Luanda
+
+[193]
+FZ1=
+FZ2=Bhutan
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Thimbu
+Antwort_2=0	 Rangun
+Antwort_3=0	 Quito
+Antwort_4=0	 Libreville
+
+[194]
+FZ1=
+FZ2=Dominikanische Republik
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	 Santo Domingo
+Antwort_2=0	 Tallinn
+Antwort_3=0	 San Salvador
+Antwort_4=0	 Cayenne
+
+[195]
+FZ1=
+FZ2=Dominica
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Roseau
+Antwort_2=0	 Rom
+Antwort_3=0	 Dschibuti
+Antwort_4=0	 Banjul
+
+[196]
+FZ1=
+FZ2=Chile
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 Santiago
+Antwort_2=0	 San José
+Antwort_3=0	 Santo Domingo
+Antwort_4=0	 Georgetown
+
+[197]
+FZ1=
+FZ2=Honduras
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Tegucigalpa
+Antwort_2=0	 Victoria
+Antwort_3=0	 Reykjavik
+Antwort_4=0	 Brazzaville
+
+[198]
+FZ1=
+FZ2=Kamerun
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Jaunde
+Antwort_2=0	 Nairobi
+Antwort_3=0	 Bogotá
+Antwort_4=0	 Tripolis
+
+[199]
+FZ1=
+FZ2=Israel
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1	 Jerusalem
+Antwort_2=0	 Beirut
+Antwort_3=0	 Kairo
+Antwort_4=0	 Teheran
+
+[200]
+FZ1=
+FZ2=Irland
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	 Dublin
+Antwort_2=0	 Reykjavik
+Antwort_3=0	 London
+Antwort_4=0	 Kingston
+
+[201]
+FZ1=
+FZ2=Irak
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	 Baghdad
+Antwort_2=0	 Jakarta
+Antwort_3=0	 Teheran
+Antwort_4=0	 Beirut
+
+[202]
+FZ1=
+FZ2=Indonesien
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Jakarta
+Antwort_2=0	 Neu-Dehli
+Antwort_3=0	 Jerusalem
+Antwort_4=0	 Amman
+
+[203]
+FZ1=
+FZ2=Indien
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	 Neu-Dehli
+Antwort_2=0	 Dublin
+Antwort_3=0	 Nairobi
+Antwort_4=0	 Valletta
+
+[204]
+FZ1=
+FZ2=Guatemala
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Guatemala-Stadt
+Antwort_2=0	 Georgetown
+Antwort_3=0	 Kingston
+Antwort_4=0	 Moroni
+
+[205]
+FZ1=
+FZ2=Guadeloupe
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	 Basse-Terre
+Antwort_2=0	 Bairiki/Tarawa
+Antwort_3=0	 Vaduz
+Antwort_4=0	 Monaco
+
+[206]
+FZ1=
+FZ2=Cayman-Inseln
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Georgetown
+Antwort_2=0	 Road Town
+Antwort_3=0	 Kingstown
+Antwort_4=0	 Freetown
+
+[207]
+FZ1=
+FZ2=Burundi
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Bujumbura
+Antwort_2=0	 Bandar Seri Begawan
+Antwort_3=0	 Bridgetown
+Antwort_4=0	 Porto-Novo
+
+[208]
+FZ1=
+FZ2=Birma (Burma)
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Rangun
+Antwort_2=0	 Thimbu
+Antwort_3=0	 Dschibuti
+Antwort_4=0	 Suva
+
+[209]
+FZ1=
+FZ2=Brunei
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Bandar Seri Begawan
+Antwort_2=0	 Yamoussoukro
+Antwort_3=0	 Santo Domingo
+Antwort_4=0	 Tegucigalpa
+

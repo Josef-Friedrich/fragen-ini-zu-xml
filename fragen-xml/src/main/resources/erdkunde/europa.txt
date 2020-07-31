@@ -1,0 +1,1104 @@
+[Thema]
+Thema       = "Europa"
+Fragen      = 100
+Autor       = Werner Biermann, 31/3/2001
+
+[1]
+FZ1         = 
+FZ2         = Der längste Fluss in Europa ist ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1Wolga
+Antwort_2   = 0Rhein
+Antwort_3   = 0Donau
+Antwort_4   = 0Rhone
+
+[2]
+FZ1         = Welches europäische Land hat mit Deutschland
+FZ2         = keine gemeinsame Grenze?
+FZ3         =  
+Min         = 200
+Max         = 8000
+Antwort_1   = 0Frankreich
+Antwort_2   = 1Ungarn
+Antwort_3   = 0Schweiz
+Antwort_4   = 0Dänemark
+
+[3]
+FZ1         = 
+FZ2         = Wie heißt der höchste Berg in Europa?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0Matterhorn
+Antwort_2   = 1Mont Blanc
+Antwort_3   = 0Zugspitze
+Antwort_4   = 0Eiger
+
+[4]
+FZ1         = 
+FZ2         = Welcher dieser Berge ist kein Vulkan?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0Ätna
+Antwort_2   = 0Vesuv
+Antwort_3   = 1Marmolada
+Antwort_4   = 0Stromboli
+
+[5]
+FZ1         = 
+FZ2         = Welcher Staat hat die größte Landesfläche?
+FZ3         = 
+Min         = 200
+Max         = 8000
+Antwort_1   = 0Spanien
+Antwort_2   = 1Frankreich
+Antwort_3   = 0Portugal
+Antwort_4   = 0Österreich
+
+[6]
+FZ1         = 
+FZ2         = Dieser Fluss fließt nicht durch Europa
+FZ3         = 
+Min         = 200
+Max         = 4000
+Antwort_1   = 0Rhone
+Antwort_2   = 0Themse
+Antwort_3   = 0Seine
+Antwort_4   = 1Euphrat
+
+[7]
+FZ1         = 
+FZ2         = Sofia ist die Hauptstadt von
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0Rumänien
+Antwort_2   = 0Ungarn
+Antwort_3   = 1Bulgarien
+Antwort_4   = 0Albanien
+
+[8]
+FZ1         = 
+FZ2         = Dieses Land gehört nicht zu Europa
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0Dänemark
+Antwort_2   = 0Polen
+Antwort_3   = 1Algerien
+Antwort_4   = 0Frankreich
+
+[9]
+FZ1         = 
+FZ2         = Eine der Städte ist Landeshauptstadt
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0Danzig
+Antwort_2   = 0Malmö
+Antwort_3   = 0Stettin
+Antwort_4   = 1Riga
+
+[10]
+FZ1         = 
+FZ2         = Eine Landeshauptstadt liegt weitab der Küste.
+FZ3         = 
+Min         = 500
+Max         = 8000
+Antwort_1   = 0Rom
+Antwort_2   = 1Madrid
+Antwort_3   = 0Kopenhagen
+Antwort_4   = 0Helsinki
+
+[11]
+FZ1         = Dieses Land ist von Westen nach Osten länger
+FZ2         = als von Norden nach Süden.
+FZ3         = 
+Min         = 2000
+Max         = 160000
+Antwort_1   = 0Schweden
+Antwort_2   = 0Italien
+Antwort_3   = 0Norwegen
+Antwort_4   = 1Österreich
+
+[12]
+FZ1         = 
+FZ2         = Welche Insel gehört zu Frankreich?
+FZ3         = 
+Min         = 500
+Max         = 8000
+Antwort_1   = 0Sizilien
+Antwort_2   = 1Korsika
+Antwort_3   = 0Kreta
+Antwort_4   = 0Sardinien
+
+[13]
+FZ1         = 
+FZ2         = Welcher Staat gehört noch nicht zur EU?
+FZ3         = 
+Min         = 16000
+Max         = 1250000
+Antwort_1   = 0Schweden
+Antwort_2   = 0Finnland
+Antwort_3   = 0Dänemark
+Antwort_4   = 1Norwegen
+
+[14]
+FZ1         = 
+FZ2         = Hier kommt Europa Afrika am nächsten.
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1Straße von Gibraltar
+Antwort_2   = 0Straße von Sizilien
+Antwort_3   = 0Bosporus
+Antwort_4   = 0Straße von Dover
+
+[15]
+FZ1         = 
+FZ2         = Dieser europäische Staat hat die meisten Einwohner
+FZ3         = 
+Min         = 500
+Max         = 16000
+Antwort_1   = 1Deutschland
+Antwort_2   = 0Irland
+Antwort_3   = 0Italien
+Antwort_4   = 0Finnland
+
+[16]
+FZ1         = Von welchem dieser Meere aus könnte man nicht mit dem
+FZ2         = Schiff bis zum Atlantik fahren?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1Kaspisches Meer
+Antwort_2   = 0Schwarzes Meer
+Antwort_3   = 0Marmarameer
+Antwort_4   = 0Mittelmeer
+
+[17]
+FZ1         = 
+FZ2         = Keine europäische Urlaubsinsel im Mittelmeer ist
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0Mallorca
+Antwort_2   = 0Menorca
+Antwort_3   = 1Teneriffa
+Antwort_4   = 0Ibiza
+
+[18]
+FZ1         = 
+FZ2         = Dieser Fluss mündet nicht ins Mittelmeer
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 0Po
+Antwort_2   = 0Rhone
+Antwort_3   = 0Ebro
+Antwort_4   = 1Donau
+                
+[19]
+FZ1         = 
+FZ2         = Kein Alpenstaat ist
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0Deutschland
+Antwort_2   = 0Italien
+Antwort_3   = 0Frankreich
+Antwort_4   = 1Ungarn
+                
+[20]
+FZ1         = Durch Vertauschen der Buchstaben wird aus dieser Hauptstadt
+FZ2         = ein alkoholisches Getränk.
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0Prag
+Antwort_2   = 0Oslo
+Antwort_3   = 0Rom
+Antwort_4   = 1Wien
+
+[21]
+FZ1         = 
+FZ2         = Kein europäischer Binnensee ist der
+FZ3         = 
+Min         = 1000
+Max         = 64000
+Antwort_1   = 0Gardasee
+Antwort_2   = 0Bodensee
+Antwort_3   = 1Aral See
+Antwort_4   = 0Genfer See
+
+[22]
+FZ1         = 
+FZ2         = Einer dieser Flüsse fließt nicht durch Frankreich
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0Seine
+Antwort_2   = 1Ebro
+Antwort_3   = 0Rhone
+Antwort_4   = 0Loire
+
+[23]
+FZ1         = In welchem dieser EU-Länder wird im Jahr 2002 nicht
+FZ2         = mit dem EURO bezahlt?
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1Großbritannien
+Antwort_2   = 0Deutschland
+Antwort_3   = 0Italien
+Antwort_4   = 0Frankreich
+
+[24]
+FZ1         = 
+FZ2         = Welches Land gehört nicht zu Skandinavien?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0Norwegen
+Antwort_2   = 1Irland
+Antwort_3   = 0Finnland
+Antwort_4   = 0Schweden
+
+[25]
+FZ1         = 
+FZ2         = Einer dieser Staaten ist kein Inselstaat
+FZ3         = 
+Min         = 16000
+Max         = 1000000
+Antwort_1   = 0Irland
+Antwort_2   = 0Island
+Antwort_3   = 1Estland
+Antwort_4   = 0Großbritannien
+
+[26]
+FZ1         =  
+FZ2         = Ein Land wird nicht vom gemeinsamen Längenkreis durchschnitten.
+FZ3         = 
+Min         = 64000
+Max         = 1000000
+Antwort_1   = 1Spanien
+Antwort_2   = 0Norwegen
+Antwort_3   = 0Deutschland
+Antwort_4   = 0Italien
+
+[27]
+FZ1         = 
+FZ2         = Der Rhein entspringt 
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0im Schwarzwald
+Antwort_2   = 0im Bodensee
+Antwort_3   = 1in den Alpen
+Antwort_4   = 0in der Schwäbischen Alb
+
+[28]
+FZ1         = 
+FZ2         = Die Pyrenäen trennen
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0Italien von der Schweiz
+Antwort_2   = 0Frankreich von Deutschland
+Antwort_3   = 0Österreich von Ungarn
+Antwort_4   = 1Frankreich von Spanien
+
+[29]
+FZ1         = 
+FZ2         = Von Westen nach Osten aufgezählt
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0Schweden  - Norwegen - Finnland
+Antwort_2   = 1Norwegen - Schweden - Finnland
+Antwort_3   = 0Schweden - Finnland - Norwegen
+Antwort_4   = 0Finnland - Schweden - Norwegen
+
+[30]
+FZ1         = 
+FZ2         = Eine Stadt passt nicht in diese Reihe
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0Berlin
+Antwort_2   = 0Paris
+Antwort_3   = 1Genua
+Antwort_4   = 0Madrid
+
+[31]
+FZ1         = 
+FZ2         = Hier eine Nummer zu klein
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0Alpen
+Antwort_2   = 0Pyrenäen
+Antwort_3   = 0Karpaten
+Antwort_4   = 1Harz
+
+[32]
+FZ1         = 
+FZ2         = Polen hat keine gemeinsame Grenze mit
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0Deutschland
+Antwort_2   = 0Tschechische Republik
+Antwort_3   = 0Slowakei
+Antwort_4   = 1Estland
+
+[33]
+FZ1         = 
+FZ2         = Ein Land wird nicht vom gemeinsamen Breitenkreis durchzogen.
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0Niederlande
+Antwort_2   = 0Deutschland
+Antwort_3   = 1Ungarn
+Antwort_4   = 0Polen
+
+[34]
+FZ1         = 
+FZ2         = Ein Land liegt nicht an der Ostsee
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1Norwegen
+Antwort_2   = 0Deutschland
+Antwort_3   = 0Polen
+Antwort_4   = 0Finnland
+
+[35]
+FZ1         =
+FZ2         = EWG bedeutet:
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0Einer wird gewinnen
+Antwort_2   = 0Elektrizitätswerke Gelsenkirchen
+Antwort_3   = 0Europa wählt Grün
+Antwort_4   = 1Europ. Wirtschaftsgemeinschaft
+
+[36]
+FZ1         = 
+FZ2         = In Maastricht wurde folgender Umwandlungsvertrag unterzeichnet 
+FZ3         = 
+Min         = 64000
+Max         = 1000000
+Antwort_1   = 0Von der EWG zur EG
+Antwort_2   = 0Von der EG zur EWG
+Antwort_3   = 1Von der EG zur EU
+Antwort_4   = 0Von der EU zur EG
+
+[37]
+FZ1         =
+FZ2         = Ein Staat gehört nicht zu den EU-Ursprungsländern
+FZ3         = 
+Min         = 10000
+Max         = 100000
+Antwort_1   = 1Portugal
+Antwort_2   = 0Deutschland
+Antwort_3   = 0Frankreich
+Antwort_4   = 0Italien
+
+[38]
+FZ1         =
+FZ2         = Ein »Pärchen« von Land mit Hauptstadt ist falsch.
+FZ3         = 
+Min         = 10000
+Max         = 100000
+Antwort_1   = 0Dänemark - Kopenhagen
+Antwort_2   = 0Polen - Warschau
+Antwort_3   = 0Spanien - Madrid
+Antwort_4   = 1Finnland - Oslo
+
+[39]
+FZ1         =
+FZ2         = Welcher Kontinent hat eine kleinere Fläche als Europa
+FZ3         = 
+Min         = 100
+Max         = 2000
+Antwort_1   = 0Asien
+Antwort_2   = 1Australien
+Antwort_3   = 0Afrika
+Antwort_4   = 0Amerika
+
+[40]
+FZ1         = 
+FZ2         = Warschau, Moskau, Wien und Lissabon sind europäische Hauptstädte.
+FZ3         = 
+Min         = 2000
+Max         = 100000
+Antwort_1   = 0stimmt nur für eine Stadt
+Antwort_2   = 0stimmt für zwei Städte
+Antwort_3   = 0stimmt für drei Städte
+Antwort_4   = 1stimmt für alle Städte
+
+[41]
+FZ1         =
+FZ2         = In diesem Land gibt es mehr als eine Amtssprache
+FZ3         = 
+Min         = 2000
+Max         = 100000
+Antwort_1   = 0Deutschland
+Antwort_2   = 0Frankreich
+Antwort_3   = 0Polen
+Antwort_4   = 1Belgien
+
+[42]
+FZ1         =
+FZ2         = Skagerrak ist eine Verbindung zwischen
+FZ3         = 
+Min         = 5000
+Max         = 100000
+Antwort_1   = 0Nordsee und Atlantik
+Antwort_2   = 0Mittelmeer und Atlantik
+Antwort_3   = 1Nordsee und Ostsee
+Antwort_4   = 0Schwarzem Meer und Mittelmeer
+
+[43]
+FZ1         =
+FZ2         = Frankreich hat keinen direkten Grenzkontakt zu
+FZ3         = 
+Min         = 1000
+Max         = 10000
+Antwort_1   = 1Österreich
+Antwort_2   = 0Schweiz
+Antwort_3   = 0Spanien
+Antwort_4   = 0Luxemburg
+
+[44]
+FZ1         =
+FZ2         = Der EURO wird eingeteilt in
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 1Cent
+Antwort_2   = 0Schilling
+Antwort_3   = 0Eurinchen
+Antwort_4   = 0Cento
+
+[45]
+FZ1         =
+FZ2         = Europa wird nach Osten abgegrenzt durch
+FZ3         = 
+Min         = 1000
+Max         = 10000
+Antwort_1   = 1den Ural
+Antwort_2   = 0die Alpen
+Antwort_3   = 0die Karpaten
+Antwort_4   = 0den Kaukasus
+
+[46]
+FZ1         =
+FZ2         = An einer Klimazone hat Europa keinen Anteil.
+FZ3         = 
+Min         = 1000
+Max         = 10000
+Antwort_1   = 0subpolare Zone
+Antwort_2   = 0gemäßigte Zone
+Antwort_3   = 1tropische Zone
+Antwort_4   = 0mediterrane Zone
+
+[47]
+FZ1         =
+FZ2         = In diesem Land gibt es auch regional nur eine Amtssprache
+FZ3         = 
+Min         = 16000
+Max         = 100000
+Antwort_1   = 1Frankreich
+Antwort_2   = 0Belgien
+Antwort_3   = 0Schweiz
+Antwort_4   = 0Italien
+
+[48]
+FZ1         =
+FZ2         = Welcher dieser Kleinstaaten ist der kleinste?
+FZ3         = 
+Min         = 10000
+Max         = 100000
+Antwort_1   = 1Monaco
+Antwort_2   = 0Liechtenstein
+Antwort_3   = 0Andorra
+Antwort_4   = 0San Marino
+
+[49]
+FZ1         =
+FZ2         = Steht nicht auf dem europäischen Festland
+FZ3         = 
+Min         = 200
+Max         = 1000
+Antwort_1   = 0Louvre
+Antwort_2   = 1Tower Bridge
+Antwort_3   = 0Eiffelturm
+Antwort_4   = 0Brandenburger Tor
+
+[50]
+FZ1         = 
+FZ2         = Dublin, London, Kopenhagen und Reykjavik liegen auf Inseln.
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1stimmt
+Antwort_2   = 0davon nur eine
+Antwort_3   = 0davon nur zwei
+Antwort_4   = 0davon nur drei
+
+[51]
+FZ1         = 
+FZ2         = Diese »kontinentale Namensverbindung« gibt es.
+FZ3         = 
+Min         = 0
+Max         = 200
+Antwort_1   = 0Eustralien
+Antwort_2   = 1Eurasien
+Antwort_3   = 0Eurafrika
+Antwort_4   = 0Euramerika
+
+[52]
+FZ1         = 
+FZ2         = Ein Kanal kann nicht in Europa von Schiffen befahren werden.
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 1Suezkanal
+Antwort_2   = 0Mittellandkanal
+Antwort_3   = 0Nord-Ostsee-Kanal
+Antwort_4   = 0Kanal von Korinth
+
+[53]
+FZ1         =
+FZ2         = Weser, Donau, Ems und Elbe münden in der Nordsee.
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 0stimmt
+Antwort_2   = 1trifft auf drei Flüsse zu 
+Antwort_3   = 0trifft auf zwei Flüsse zu
+Antwort_4   = 0trifft auf einen Fluss zu
+
+[54]
+FZ1         = 
+FZ2         = Welches Land liegt nicht am Mittelmeer?
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 1Portugal
+Antwort_2   = 0Griechenland
+Antwort_3   = 0Italien
+Antwort_4   = 0Frankreich
+
+[55]
+FZ1         =
+FZ2         = Die Hauptstadt der Schweiz heißt
+FZ3         = 
+Min         = 1000
+Max         = 5000
+Antwort_1   = 0Genf
+Antwort_2   = 0Basel
+Antwort_3   = 0Zürich
+Antwort_4   = 1Bern
+
+[56]
+FZ1         =
+FZ2         = Sardinien gehört zu
+FZ3         = 
+Min         = 5000
+Max         = 10000
+Antwort_1   = 1Italien
+Antwort_2   = 0Frankreich
+Antwort_3   = 0Spanien
+Antwort_4   = 0Griechenland
+
+[57]
+FZ1         =
+FZ2         = Welcher Staat ist ein Binnenstaat?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1Ungarn
+Antwort_2   = 0Estland
+Antwort_3   = 0Polen
+Antwort_4   = 0Finnland
+
+[58]
+FZ1         =
+FZ2         = Paris liegt an der
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0Loire
+Antwort_2   = 1Seine
+Antwort_3   = 0Rhone
+Antwort_4   = 0Isere
+
+[59]
+FZ1         =
+FZ2         = Der Vulkan bei Neapel heißt
+FZ3         = 
+Min         = 5000
+Max         = 10000
+Antwort_1   = 1Vesuv
+Antwort_2   = 0Ätna
+Antwort_3   = 0Stromboli
+Antwort_4   = 0Mont Dore
+
+[60]
+FZ1         =
+FZ2         = An welchem Fluss liegt Wien?
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 1Donau
+Antwort_2   = 0Wolga
+Antwort_3   = 0Elbe
+Antwort_4   = 0Rhein
+
+[61]
+FZ1         =
+FZ2         = Fulda und Werra sind die Quellflüsse von/vom
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0Neckar
+Antwort_2   = 0Ems
+Antwort_3   = 0Ruhr
+Antwort_4   = 1Weser
+
+[62]
+FZ1         =
+FZ2         = Gibraltar gehört zu
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1England
+Antwort_2   = 0Spanien
+Antwort_3   = 0Portugal
+Antwort_4   = 0Marokko
+
+[63]
+FZ1         =
+FZ2         = Welcher Staat grenzt nicht an die Ostsee?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1Norwegen
+Antwort_2   = 0Polen
+Antwort_3   = 0Estland
+Antwort_4   = 0Finnland
+
+[64]
+FZ1         =
+FZ2         = Der Großglockner gehört zu
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0Italien
+Antwort_2   = 0Deutschland
+Antwort_3   = 0Schweiz
+Antwort_4   = 1Österreich
+
+[65]
+FZ1         =
+FZ2         = Der Brenner verbindet
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 1Österreich mit Italien
+Antwort_2   = 0Deutschland mit Österreich
+Antwort_3   = 0Schweiz mit Italien
+Antwort_4   = 0Deutschland mit Schweiz
+
+[66]
+FZ1         =
+FZ2         = Diese Stadt liegt nicht am Rhein.
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1Amsterdam
+Antwort_2   = 0Basel
+Antwort_3   = 0Mainz
+Antwort_4   = 0Düsseldorf
+
+[67]
+FZ1         =
+FZ2         = Kein direkter Nachbar von Luxemburg
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1Niederlande
+Antwort_2   = 0Deutschland
+Antwort_3   = 0Frankreich
+Antwort_4   = 0Belgien
+
+[68]
+FZ1         =
+FZ2         = Liegt am »Dreiländereck«
+FZ3         = 
+Min         = 200
+Max         = 2000
+Antwort_1   = 1Aachen
+Antwort_2   = 0Trier
+Antwort_3   = 0Flensburg
+Antwort_4   = 0Stuttgart
+
+[69]
+FZ1         =
+FZ2         = Die Halbinsel Krim liegt im
+FZ3         = 
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0Kaspischen Meer
+Antwort_2   = 1Schwarzen Meer
+Antwort_3   = 0Weißen Meer
+Antwort_4   = 0Ägäischen Meer
+
+[70]
+FZ1         =
+FZ2         = Die Insel Madeira gehört zu
+FZ3         = 
+Min         = 10000
+Max         = 1000000
+Antwort_1   = 0Spanien
+Antwort_2   = 0Italien
+Antwort_3   = 0Frankreich
+Antwort_4   = 1Portugal
+
+[71]
+FZ1         = 
+FZ2         = Diese österreichische Landschaft gibt es nicht.
+FZ3         = 
+Min         = 500
+Max         = 8000
+Antwort_1   = 1Weindrittel
+Antwort_2   = 0Mühlviertel
+Antwort_3   = 0Innviertel
+Antwort_4   = 0Waldviertel
+
+[72]
+FZ1         = 
+FZ2         = Passt nicht in die Reihe: Neckar, Mosel, Main, Weser
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0Neckar
+Antwort_2   = 0Mosel
+Antwort_3   = 0Main
+Antwort_4   = 1Weser
+
+[73]
+FZ1         = 
+FZ2         = Passt nicht in die Reihe: Ems, Weser, Elbe, Oder
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1Oder
+Antwort_2   = 0Ems
+Antwort_3   = 0Weser
+Antwort_4   = 0Elbe
+
+[74]
+FZ1         = 
+FZ2         = Werden direkt durch den Rhein getrennt:
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0Eifel-Hunsrück
+Antwort_2   = 0Taunus-Westerwald
+Antwort_3   = 1Hunsrück-Taunus
+Antwort_4   = 0Westerwald Hunsrück
+
+[75]
+FZ1         = 
+FZ2         = Passt nicht in die Reihe: Rügen, Fehmarn, Usedom, Sylt
+FZ3         = 
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0Rügen
+Antwort_2   = 0Fehmarn
+Antwort_3   = 0Usedom
+Antwort_4   = 1Sylt
+
+[76]
+FZ1         = 
+FZ2         = Spiekeroog, Ameland, Norderney und Borkum sind Ostfriesische Inseln.
+FZ3         = 
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1stimmt
+Antwort_2   = 0stimmt für 3 Inseln
+Antwort_3   = 0stimmt für 2 Inseln
+Antwort_4   = 0stimmt für 1 Insel
+
+[77]
+FZ1         = 
+FZ2         = Er trennt Schweden und Finnland über eine große Strecke.
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1Bottnischer Meerbusen
+Antwort_2   = 0Finnischer Meerbusen
+Antwort_3   = 0Schwedischer Meerbusen
+Antwort_4   = 0Norwegischer Meerbusen
+
+[78]
+FZ1         =
+FZ2         = Ist kein Nachbarstaat von Griechenland
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0Mazedonien
+Antwort_2   = 0Bulgarien
+Antwort_3   = 0Albanien
+Antwort_4   = 1Kroatien
+
+[79]
+FZ1         =
+FZ2         = Zwischen Griechenland und der Türkei liegt das
+FZ3         = 
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0Jonische Meer
+Antwort_2   = 1Ägäische Meer
+Antwort_3   = 0Adriatische Meer
+Antwort_4   = 0Ligurische Meer
+
+[80]
+FZ1         =
+FZ2         = Westlich vom Schwarzwald 
+FZ3         = 
+Min         = 64000
+Max         = 1000000
+Antwort_1   = 1Vogesen
+Antwort_2   = 0Schwäbische Alb
+Antwort_3   = 0Bayrischer Wald
+Antwort_4   = 0Odenwald
+
+[81]
+FZ1         = 
+FZ2         = Wieviel DM ist ein EURO? 
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 11,95
+Antwort_2   = 00,95
+Antwort_3   = 02,95
+Antwort_4   = 019,55
+
+[82]
+FZ1         = 
+FZ2         = An welchem Fluss liegt die Hauptstadt Nordrhein-Westfalens?
+FZ3         = 
+Min         = 100
+Max         = 200
+Antwort_1   = 1Rhein
+Antwort_2   = 0Ruhr
+Antwort_3   = 0Main 
+Antwort_4   = 0Donau
+
+[83]
+FZ1         = 
+FZ2         = Reihenfolge der Staaten von Norden nach Süden
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1Finnland; Estland; Lettland; Litauen
+Antwort_2   = 0Estland; Lettland; Finnland; Litauen
+Antwort_3   = 0Finnland; Lettland; Estland; Litauen
+Antwort_4   = 0Lettland; Finnland; Litauen; Estland
+
+[84]
+FZ1         = 
+FZ2         = Größte Insel im Mittelmeer
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1Sizilien
+Antwort_2   = 0Sardinien
+Antwort_3   = 0Korsika
+Antwort_4   = 0Kreta
+
+[85]
+FZ1         = 
+FZ2         = Zu welchem Land gehören die Walliser Alpen
+FZ3         = 
+Min         = 100
+Max         = 2000
+Antwort_1   = 1Schweiz
+Antwort_2   = 0Österreich
+Antwort_3   = 0Deutschland
+Antwort_4   = 0Italien
+
+[86]
+FZ1         = 
+FZ2         = Wer wird durch den Eurotunnel verbunden?
+FZ3         = 
+Min         = 100
+Max         = 300
+Antwort_1   = 1Frankreich mit Großbritannien
+Antwort_2   = 0Deutschland mit Neuseeland
+Antwort_3   = 0Spanien mit Marokko
+Antwort_4   = 0Griechenland mit Türkei
+
+[87]
+FZ1         = 
+FZ2         = Was bedeutet EUROPOL
+FZ3         = 
+Min         = 2000
+Max         = 4000
+Antwort_1   = 1Europäisches Polizeiamt
+Antwort_2   = 0Vereinigung europ. Politiker
+Antwort_3   = 0Polen für Europa
+Antwort_4   = 0Vereinigung europ. Polarforscher
+
+[88]
+FZ1         = 
+FZ2         = Wo liegt Preßburg?
+FZ3         = 
+Min         = 250000
+Max         = 500000
+Antwort_1   = 1Slowakei
+Antwort_2   = 0Slowenien
+Antwort_3   = 0Österreich 
+Antwort_4   = 0Deutschland
+
+[89]
+FZ1         = 
+FZ2         = Wieviele Nachbarländer hat die Schweiz?
+FZ3         = 
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1fünf
+Antwort_2   = 0drei
+Antwort_3   = 0vier
+Antwort_4   = 0sechs
+
+[90]
+FZ1         = 
+FZ2         = Welcher See liegt nicht in der Schweiz?
+FZ3         = 
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1Neusiedler See
+Antwort_2   = 0Genfer See
+Antwort_3   = 0Neuenburger See
+Antwort_4   = 0Vierwaldstätter See
+
+[91]
+FZ1         = 
+FZ2         = Die größte Einwohnerzahl hat
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 1Russland
+Antwort_2   = 0Deutschland
+Antwort_3   = 0Frankreich
+Antwort_4   = 0Italien
+
+[92]
+FZ1         = 
+FZ2         = Welches Land grenzt nicht an Österreich?
+FZ3         = 
+Min         = 16000
+Max         = 32000
+Antwort_1   = 1Kroatien
+Antwort_2   = 0Liechtenstein
+Antwort_3   = 0Slowenien
+Antwort_4   = 0Slowakei
+
+[93]
+FZ1         = 
+FZ2         = Wieviele Länder gehören bisher (April/2001) zur EU? 
+FZ3         = 
+Min         = 100
+Max         = 300
+Antwort_1   = 115
+Antwort_2   = 014
+Antwort_3   = 016
+Antwort_4   = 017
+
+[94]
+FZ1         = 
+FZ2         = Wieviele wertverschiedene Euro-Geldscheine und Münzen gibt es?
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 17 Scheine; 8 Münzen
+Antwort_2   = 06 Scheine; 7 Münzen
+Antwort_3   = 09 Scheine; 10 Münzen
+Antwort_4   = 02 Scheine: 3 Münzen
+
+[95]
+FZ1         = Zu welchem europäischen Staat gehörte bis 1975
+FZ2         = das heutige Surinam?
+FZ3         =  
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1Niederlande
+Antwort_2   = 0England
+Antwort_3   = 0Frankreich
+Antwort_4   = 0Deutschland
+
+[96]
+FZ1         = 
+FZ2         = CH ist das internationale Autokennzeichen von
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1der Schweiz
+Antwort_2   = 0Chile
+Antwort_3   = 0China
+Antwort_4   = 0der Tschechischen Republik
+
+[97]
+FZ1         = 
+FZ2         = E ist das internationale Autokennzeichen von
+FZ3         = 
+Min         = 100
+Max         = 4000
+Antwort_1   = 1Spanien
+Antwort_2   = 0Eritrea
+Antwort_3   = 0England
+Antwort_4   = 0Estland
+
+[98]
+FZ1         = 
+FZ2         = Palermo
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 1Größte Stadt Siziliens
+Antwort_2   = 0In der italienischen »Stiefelspitze«
+Antwort_3   = 0Größte Stadt Sardiniens
+Antwort_4   = 0Zwischen Rom und Neapel
+
+[99]
+FZ1         = 
+FZ2         = Zählt nicht zu den Ostfriesischen Inseln
+FZ3         = 
+Min         = 100
+Max         = 500
+Antwort_1   = 1Helgoland
+Antwort_2   = 0Baltrum
+Antwort_3   = 0Juist
+Antwort_4   = 0Borkum
+
+[100]
+FZ1         = Sind Berge in deutschen Mittelgebirgen
+FZ2         = Große Blöße; Großer Arber; 
+FZ3         = Großer Beerberg; Großer Feldberg
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1stimmt
+Antwort_2   = 0stimmt für drei
+Antwort_3   = 0stimmt für zwei
+Antwort_4   = 0stimmt für einen

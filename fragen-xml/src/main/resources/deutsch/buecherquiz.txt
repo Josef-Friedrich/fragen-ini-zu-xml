@@ -1,0 +1,918 @@
+[Thema]
+Thema=Bücherquiz
+Fragen=83
+Autor=Manfred Hartisch 5/2001
+
+[1]
+FZ1=
+FZ2=Wie heißt der berühmte Detektiv bei Astrid Lindgren ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Kalle Blomquist
+Antwort_2=0 Kalle Wirsch
+Antwort_3=0 Karl - Heinz
+Antwort_4=0 Karl - Egon
+
+[2]
+FZ1=
+FZ2=Womit erlöste die Prinzessin den Froschkönig ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Sie küsste ihn.
+Antwort_2=1 Sie warf ihn an die Wand.
+Antwort_3=0 mit einem Zauberspruch
+Antwort_4=0 mit viel Gold
+
+[3]
+FZ1=
+FZ2=Was ist ein Autor ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 der Leser eines Buches
+Antwort_2=1 der Schreiber eines Buches
+Antwort_3=0 der Käufer eines Buches
+Antwort_4=0 der Verkäufer eines Buches
+
+[4]
+FZ1=
+FZ2=Woran erkennt man, dass Pinocchio lügt ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 sein Ohr wächst
+Antwort_2=0 seine Haare wachsen
+Antwort_3=1 seine Nase wächst
+Antwort_4=0 seine Finger wachsen
+
+[5]
+FZ1=
+FZ2=In welchem Land spielt das Kinderbuch "Heidi" ?
+FZ3=
+Min=0
+Max=64000
+Antwort_1=0 Österreich
+Antwort_2=1 Schweiz
+Antwort_3=0 Deutschland
+Antwort_4=0 Schweden
+
+[6]
+FZ1=
+FZ2=Wie heißt die berühmteste Indianerfigur bei Karl May ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Old Shatterhand
+Antwort_2=0 Old Surehand
+Antwort_3=0 Der letzte Mohikaner
+Antwort_4=1 Winnetou
+
+[7]
+FZ1=
+FZ2=Wo kommt "Sesam öffne dich" vor ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Aschenputtel
+Antwort_2=0 Die unendliche Geschichte
+Antwort_3=1 Ali Baba und die 40 Räuber
+Antwort_4=0 Pippi Langstrumpf
+
+[8]
+FZ1=Wie heißt das Kinderbuch, in dem ein
+FZ2=kleines Mädchen die gestohlene Zeit wiederbringt ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Lomo
+Antwort_2=0 Komo
+Antwort_3=1 Momo
+Antwort_4=0 Nomo
+
+[9]
+FZ1=
+FZ2=Welches ist das meistgedruckte Buch der Welt ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Pan Tau
+Antwort_2=0 Prinz Löwenherz
+Antwort_3=0 Mein Märchenbuch
+Antwort_4=1 Die Bibel
+
+[10]
+FZ1=
+FZ2=Wie heißt das Geschwisterpaar, mit dem Pippi Langstrumpf befreundet ist ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Thomas und Monika
+Antwort_2=1 Thomas und Annika
+Antwort_3=0 Thorsten und Annika
+Antwort_4=0 Fabian und Felicitas
+
+[11]
+FZ1=
+FZ2=Welche Tiere stahlen Max und Moritz der Witwe Bolte ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Enten
+Antwort_2=0 Gänse
+Antwort_3=0 Katzen
+Antwort_4=1 Hühner
+
+[12]
+FZ1=
+FZ2=In welchem Märchen wird ein Schuh verloren ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Dornröschen
+Antwort_2=1 Aschenputtel
+Antwort_3=0 Rumpelstilzchen
+Antwort_4=0 Rapunzel
+
+[13]
+FZ1=
+FZ2=Wie heißt der Junge, dessen Teddy "Pu, der Bär" ist ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0 Christian Hans
+Antwort_2=0 Karl - Heinz
+Antwort_3=0 Lars Friedrich
+Antwort_4=1 Christopher Robin
+
+[14]
+FZ1=
+FZ2=Wer musste ein Vogel bleiben, weil er das Zauberwort vergaß ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 Kalif Storch
+Antwort_2=0 Karl Kranich
+Antwort_3=0 Kurt Geier
+Antwort_4=0 Konrad Meise
+
+[15]
+FZ1=Was bekam der Küchenjunge in dem Märchen "Dornröschen"
+FZ2=nach dem 100-jährigen Schlaf ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 eine Ohrfeige
+Antwort_2=0 einen Schlag auf den Po
+Antwort_3=0 einen Kuchen
+Antwort_4=0 seinen Lohn
+
+[16]
+FZ1=
+FZ2=Wie heißen die bösen Brüder im Buch von Wilhelm Busch ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 Max und Moritz
+Antwort_2=0 Max und Anton
+Antwort_3=0 Karl und Moritz
+Antwort_4=0 Anton und Karl
+
+[17]
+FZ1=
+FZ2=Was ist ein Bestseller ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0 ein Taschenbuch
+Antwort_2=0  ein billiges Buch
+Antwort_3=1 ein Buch, das sehr oft gekauft wird
+Antwort_4=0 ein sehr altes Buch
+
+[18]
+FZ1=
+FZ2=Wie heißt der Freund von Robinson Crusoe ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0 Donnerstag
+Antwort_2=0 Mittwoch
+Antwort_3=0 Samstag
+Antwort_4=1 Freitag
+
+[19]
+FZ1=
+FZ2=Wo erlebt Robinson Crusoe seine Abenteuer ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0 am Südpol
+Antwort_2=0 in Indien
+Antwort_3=0 in Afrika
+Antwort_4=1 auf einer Insel
+
+[20]
+FZ1=
+FZ2=In welchem Märchen kommt eine Standuhr vor ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Hänsel und Gretel
+Antwort_2=0 Schneewittchen
+Antwort_3=0 Rotkäppchen
+Antwort_4=1 Der Wolf und die 7 Geißlein
+
+[21]
+FZ1=
+FZ2=Was ist kein Märchen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Frau Holle
+Antwort_2=0 Der Froschkönig
+Antwort_3=1 Pokémon
+Antwort_4=0 Das tapfere Schneiderlein
+
+[22]
+FZ1=
+FZ2=Ein berühmtes Buch von Erich Kästner heißt »..... und die Detektive«
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Paul
+Antwort_2=1 Emil
+Antwort_3=0 Erwin
+Antwort_4=0 Peter
+
+[23]
+FZ1=
+FZ2=Welche vergiftet Frucht aß Schneewittchen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 Apfel
+Antwort_2=0 Birne
+Antwort_3=0 Kirsche
+Antwort_4=0 Pflaume
+
+[24]
+FZ1=In welchem Märchen läuft ein Mädchen an
+FZ2=einem Backofen mit sprechenden Broten vorbei ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Schneeweißchen und Rosenrot
+Antwort_2=1 Frau Holle
+Antwort_3=0 Aschenputtel
+Antwort_4=0 Dornröschen
+
+[25]
+FZ1=
+FZ2=Wie heißt das Haus, in dem Pippi Langstrumpf wohnt ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Villa Hügel
+Antwort_2=0 Schloss Kunterbunt
+Antwort_3=1 Villa Kunterbunt
+Antwort_4=0 Burg Pippilotta
+
+[26]
+FZ1=
+FZ2=Wen bezeichnet man als "Bücherwurm" ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 Jemanden, der viel liest.
+Antwort_2=0 Jemanden, der nicht liest.
+Antwort_3=0 Jemanden, der Tierbücher liest.
+Antwort_4=0 einen kleinen Käfer
+
+[27]
+FZ1=
+FZ2=Erich Kästner schrieb auch »Das fliegende .....«
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Wohnmobil
+Antwort_2=0 Zelt
+Antwort_3=1 Klassenzimmer
+Antwort_4=0 Schloss
+
+[28]
+FZ1=
+FZ2=Wie heißen die Wesen in einem Kinderbuch, die gerne im Müll leben ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 die Molchis
+Antwort_2=0 die Müllis
+Antwort_3=0 die Güllis
+Antwort_4=1 die Olchis
+
+[29]
+FZ1=
+FZ2=Wie heißen die vier Helden der Kinderbuchserie "Ein Fall für TKKG" ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0 Tom, Karin, Kurt und Gerd
+Antwort_2=1 Tarzan, Klößchen, Karl und Gaby
+Antwort_3=0 Theo, Klärchen, Karl und Gustav
+Antwort_4=0 Tarzan, Kleiner, Klaus und Gero
+
+[30]
+FZ1=
+FZ2=Wie heißt das Kinderbuch ? "Meister Eder und sein ....."
+FZ3=
+Min=0
+Max=64000
+Antwort_1=0 Kobold
+Antwort_2=0 Puschel
+Antwort_3=1 Pumuckl
+Antwort_4=0 Fridolin
+
+[31]
+FZ1=
+FZ2=Otfried Preußler schrieb "Der Räuber ........"
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Klotzkopf
+Antwort_2=0 Potzblitz
+Antwort_3=0 Großkotz
+Antwort_4=1 Hotzenplotz
+
+[32]
+FZ1=
+FZ2=Ein schönes Bilderbuch für die Kleinsten heißt: "Die Raupe ....."
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Immersatt
+Antwort_2=0 Immergrün
+Antwort_3=0 Nimm es weg
+Antwort_4=1 Nimmersatt
+
+[33]
+FZ1=
+FZ2=Ein bekanntes Bilderbuch heißt "Wo die wilden ..... wohnen"
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Affen
+Antwort_2=0 Monster
+Antwort_3=1 Kerle
+Antwort_4=0 Tiere
+
+[34]
+FZ1=
+FZ2=Astrid Lindgren schrieb auch: "Die Kinder aus ....."
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 Bullerbü
+Antwort_2=0 Wuppertal
+Antwort_3=0 Bielefeld
+Antwort_4=0 Magdeburg
+
+[35]
+FZ1=
+FZ2=Wie heißt die Räubertochter in einem Buch von Astrid Lindgren ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Sonja
+Antwort_2=0 Monja
+Antwort_3=0 Anna
+Antwort_4=1 Ronja
+
+[36]
+FZ1=
+FZ2=Astrid Lindgren schrieb auch: "Ferien auf ....."
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0 Sylt
+Antwort_2=0 Juist
+Antwort_3=1 Saltkrotan
+Antwort_4=0 Sansibar
+
+[37]
+FZ1=
+FZ2=Ein Buch von Enid Blyton heißt: "..... Freunde"
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 5
+Antwort_2=0 6
+Antwort_3=0 4
+Antwort_4=0 3
+
+[38]
+FZ1=
+FZ2=Ein Buch von Enid Blyton heißt: "Die schwarze ....."
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 5
+Antwort_2=0 6
+Antwort_3=0 8
+Antwort_4=1 7
+
+[39]
+FZ1=
+FZ2=Ein Buchreihe von Enid Blyton heißt: "Hanni und ....."
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Hansi
+Antwort_2=1 Nanni
+Antwort_3=0 Maria
+Antwort_4=0 Heidi
+
+[40]
+FZ1=In welchem Buch muss man eine gefährliche
+FZ2=Mutprobe bestehen, um in eine
+FZ3=Bande aufgenommen zu werden ?
+Min=64000
+Max=0
+Antwort_1=0 Die Stadtleoparden
+Antwort_2=0 Die Landratten
+Antwort_3=0 Die Dorflöwen
+Antwort_4=1 Die Vorstadtkrokodile
+
+[41]
+FZ1=
+FZ2=Wie alt ist "Die kleine Hexe" in dem Kinderbuch von Otfried Preußler ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 12 Jahre
+Antwort_2=0 65 Jahre
+Antwort_3=0 234 Jahre
+Antwort_4=1 127 Jahre
+
+[42]
+FZ1=
+FZ2=Ein Kinderbuch von Peter Härtling heißt: "Ben liebt ....."
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0 Heidi
+Antwort_2=0 Britta
+Antwort_3=1 Anna
+Antwort_4=0 Susen
+
+[43]
+FZ1=
+FZ2=Wie heißt eine Kinderbuchserie zum "Gruseln" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1 Gänsehaut
+Antwort_2=0 Entenhaut
+Antwort_3=0 Elefantenhaut
+Antwort_4=0 Gespensterspuk
+
+[44]
+FZ1=Wie heißt das Buch von Otfried Preußler, in dem
+FZ2=aus dem weißen Nachtgespenst ein
+FZ3=schwarzes Taggespenst wird ?
+Min=4000
+Max=64000
+Antwort_1=1 Das kleine Gespenst
+Antwort_2=0 Der kleine Geist
+Antwort_3=0 Das Nachtgespenst
+Antwort_4=0 Das Taggespenst
+
+[45]
+FZ1=
+FZ2=Michael Ende schrieb auch: "Jim Knopf und Lukas, der ....."
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Lokomotivführer
+Antwort_2=0 Autofahrer
+Antwort_3=0 Fahrradfahrer
+Antwort_4=0 Schiffskapitän
+
+[46]
+FZ1=
+FZ2=Michael Ende schrieb auch: "Jim Knopf und die wilde ....."
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Horde
+Antwort_2=0 Meute
+Antwort_3=1 13
+Antwort_4=0 7
+
+[47]
+FZ1=
+FZ2=Astrid Lindgren schrieb auch: "Mio, mein ....."
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1Mio
+Antwort_2=0Leo
+Antwort_3=0Schatz
+Antwort_4=0Freund
+
+[48]
+FZ1=
+FZ2=In welchem Buch meistert Dorothy mit ihrem kleinen Hund Toto viele Gefahren ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1Der Zauberer von Oz
+Antwort_2=0Die Hexe von Ex
+Antwort_3=0Der Vampir von Um
+Antwort_4=0Das Gespenst von Hi
+
+[49]
+FZ1=
+FZ2=Wie heißt das stärkste Mädchen in Kinderbüchern ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Roberta Kräftig
+Antwort_2=1 Pippi Langstrumpf
+Antwort_3=0 Karla Stark
+Antwort_4=0 Monika Mutig
+
+[50]
+FZ1=
+FZ2=Wie heißt die Frau von Micky Maus ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 Minnie
+Antwort_2=0 Mausi
+Antwort_3=0 Cheeky
+Antwort_4=0 Diddle
+
+[51]
+FZ1=
+FZ2=Wie heißt der Hund von Obelix ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Asterix
+Antwort_2=1 Idefix
+Antwort_3=0 Majestix
+Antwort_4=0 Garnix
+
+[52]
+FZ1=
+FZ2=Wie heißt der Freund von Obelix ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 Asterix
+Antwort_2=0 Freundix
+Antwort_3=0 Geofix
+Antwort_4=0 Beimix
+
+[53]
+FZ1=
+FZ2=Wie heißt der Hund von Charly Brown ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Pluto
+Antwort_2=1Snoopy
+Antwort_3=0Idefix
+Antwort_4=0Wuffy
+
+[54]
+FZ1=
+FZ2=Wie heißt der 1. Band von "Harry Potter" ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=1H.P. und der Stein der Weisen
+Antwort_2=0H.P. und die Kammer des Schreckens
+Antwort_3=0H.P. und der Gefangene von Askaban
+Antwort_4=0H.P. und der Feuerkelch
+
+[55]
+FZ1=
+FZ2=Wie heißt der 2. Band von "Harry Potter" ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0H.P. und der Stein der Weisen
+Antwort_2=1H.P. und die Kammer des Schreckens
+Antwort_3=0H.P. und der Gefangene von Askaban
+Antwort_4=0H.P. und der Feuerkelch
+
+[56]
+FZ1=
+FZ2=Wie heißt der 3. Band von "Harry Potter" ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0H.P. und der Stein der Weisen
+Antwort_2=0H.P. und die Kammer des Schreckens
+Antwort_3=1H.P. und der Gefangene von Askaban
+Antwort_4=0H.P. und der Feuerkelch
+
+[57]
+FZ1=
+FZ2=Wie heißt der 4. Band von "Harry Potter" ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0H.P. und der Stein der Weisen
+Antwort_2=0H.P. und die Kammer des Schreckens
+Antwort_3=0H.P. und der Gefangene von Askaban
+Antwort_4=1H.P. und der Feuerkelch
+
+[58]
+FZ1=
+FZ2=Was wird "Harry Potter" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0ein Riese
+Antwort_2=1ein Zauberer
+Antwort_3=0ein Mönch
+Antwort_4=0ein Vampir
+
+[59]
+FZ1=
+FZ2=Was ist eine Fibel ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1ein Lesebuch für das 1. Schuljahr
+Antwort_2=0eine Bibel für Frauen
+Antwort_3=0ein Kochbuch
+Antwort_4=0ein Lexikon
+
+[60]
+FZ1=
+FZ2=Was ist ein "Comic" ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 Bildergeschichte mit Sprechblasen
+Antwort_2=0 ein komisches Buch
+Antwort_3=0 ein kostbares Buch
+Antwort_4=0 ein olles Buch
+
+[61]
+FZ1=
+FZ2=Wie heißt eine Bücherreihe für Erstleser ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Leseelefanten
+Antwort_2=0 Lesepferde
+Antwort_3=0 Lesehunde
+Antwort_4=1 Leselöwen
+
+[62]
+FZ1=
+FZ2=Wer schrieb "Pippi Langstrumpf" ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 Astrid Lindgren
+Antwort_2=0 Erich Kästner
+Antwort_3=0 Wilhelm Busch
+Antwort_4=0 Enid Blyton
+
+[63]
+FZ1=
+FZ2=In welchem Land wohnt Astrid Lindgren ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 Schweden
+Antwort_2=0 Norwegen
+Antwort_3=0 Dänemark
+Antwort_4=0 Finnland
+
+[64]
+FZ1=
+FZ2=Wie heißt die Katze von Herrn Petterson ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Linus
+Antwort_2=0 Minus
+Antwort_3=0 Fauchi
+Antwort_4=1 Findus
+
+[65]
+FZ1=
+FZ2=Ein berühmtes Piratenbuch heißt:
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1 Die Schatzinsel
+Antwort_2=0 Der Seeräuber
+Antwort_3=0 Das Piratenschiff
+Antwort_4=0 Der Piratenschatz
+
+[66]
+FZ1=
+FZ2=Wie heißt der Drache in Michael Endes »Unendlicher Geschichte« ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Fuchur
+Antwort_2=0 Tabaluga
+Antwort_3=0 Strolchi
+Antwort_4=0 Damokles
+
+[67]
+FZ1=
+FZ2=Wer schrieb »O wie schön ist Panama!« ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Janosch
+Antwort_2=0 Jakob
+Antwort_3=0 Palamino
+Antwort_4=0 Sarazena
+
+[68]
+FZ1=
+FZ2=Wie heißen die beiden Hauptfiguren von "O wie schön ist Panama!" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Tiger und Bär
+Antwort_2=0 Tiger und Löwe
+Antwort_3=0 Bär und Löwe
+Antwort_4=0 Löwe und Bär
+
+[69]
+FZ1=
+FZ2=Wie heißt das Märchenbuch ? "Märchen aus ..... Nacht"
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 101
+Antwort_2=1 1001
+Antwort_3=0 einer langen
+Antwort_4=0 einer dunklen
+
+[70]
+FZ1=
+FZ2=Wie heißt das Märchen ? "Ali Baba und die ..... Räuber"
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 20
+Antwort_2=0 60
+Antwort_3=0 80
+Antwort_4=1 40
+
+[71]
+FZ1=
+FZ2=Wie heißt das Kinderbuch ? "Eine Woche voller ....."
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Samstage
+Antwort_2=0 Montage
+Antwort_3=0 Sonntage
+Antwort_4=0 Freitage
+
+[72]
+FZ1=
+FZ2=Wie heißt das Kinderbuch ? "Urmel aus dem ....."
+FZ3=
+Min=500
+Max=2000
+Antwort_1=0 Ei
+Antwort_2=0 Sand
+Antwort_3=0 Fels
+Antwort_4=1 Eis
+
+[73]
+FZ1=
+FZ2=Was ist eine Bibliothek ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 eine Bücherei
+Antwort_2=0 eine Bibelfabrik
+Antwort_3=0 eine kleine Bibel
+Antwort_4=0 eine französische Bank
+
+[74]
+FZ1=
+FZ2=Wie heißt der Blutsbruder des berühmtesten Indianers bei Karl May ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 Old Shatterhand
+Antwort_2=0 Old Surehand
+Antwort_3=0 Kara Ben Nemsi
+Antwort_4=0 Hadschi Halef Omar
+
+[75]
+FZ1=Der berühmte Kriminalschriftsteller Alfred Hitchcock
+FZ2=schrieb auch die Kinderbücher "Die drei ....."
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 Fragezeichen
+Antwort_2=0 Ausrufezeichen
+Antwort_3=0 Punkte
+Antwort_4=0 Verkehrszeichen
+
+[76]
+FZ1=
+FZ2=Wie heißt das Pferd von Pippi Langstrumpf ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 Kleiner Onkel
+Antwort_2=0 Großer Onkel
+Antwort_3=0 Kleine Tante
+Antwort_4=0 Große Tante
+
+[77]
+FZ1=
+FZ2=Wie heißt das Kinderbuch ? "Kleiner König Kalle ....."
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Wirsch
+Antwort_2=0Hirsch
+Antwort_3=0Blomquist
+Antwort_4=0Rummenigge
+
+[78]
+FZ1=
+FZ2=Astrid Lindgren schrieb auch: "Die Kinder aus der ....."
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Krachmacherstraße
+Antwort_2=0Lärmgasse
+Antwort_3=0Brüllsiedlung
+Antwort_4=0Schreilautstraße
+
+[79]
+FZ1=
+FZ2=Wie heißt der Pinguin in den Urmel - Büchern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ping
+Antwort_2=0Wawa
+Antwort_3=0Wutz
+Antwort_4=0Schusch
+
+[80]
+FZ1=
+FZ2=Wie heißt der Junge in den Urmel - Büchern ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1Tim Tintenklecks
+Antwort_2=0Karl Klecks
+Antwort_3=0Toni Tintenfleck
+Antwort_4=0Kurt Kleckerer
+
+[81]
+FZ1=
+FZ2=Wie heißt der Vampir in dem Buch "Der kleine Vampir" ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Rüdiger
+Antwort_2=0Anton
+Antwort_3=0Rudolf
+Antwort_4=0Albert
+
+[82]
+FZ1=Wie heißt das Kinderbuch, in dem ein kleiner Wicht
+FZ2=fast so aussieht wie ein Vampir ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Das Vamperl
+Antwort_2=0Die Fledermaus
+Antwort_3=0Der Vampirwicht
+Antwort_4=0Wichtelchen
+
+[83]
+FZ1=
+FZ2=Was ist ein Lexikon ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1ein Buch zum Nachschlagen
+Antwort_2=0ein Liederbuch
+Antwort_3=0ein Kochbuch
+Antwort_4=0ein Buch über Mexiko
+

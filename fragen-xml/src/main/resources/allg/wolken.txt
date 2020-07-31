@@ -1,0 +1,303 @@
+[Thema]
+Thema=Rund um die Wolken
+Fragen=27
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie hoch ist das oberste Wolkenstockwerk ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=17 - 13 km	
+Antwort_2=05 - 11 km	
+Antwort_3=06 - 12 km	
+Antwort_4=04 - 10 km	
+
+[2]
+FZ1=
+FZ2=Wie hoch ist das mittlere Wolkenstockwerk ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=12 - 7 km	
+Antwort_2=05 - 10 km	
+Antwort_3=01 - 3 km	
+Antwort_4=07 - 16 km	
+
+[3]
+FZ1=
+FZ2=Wie hoch ist das unterste Wolkenstockwerk ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=10 - 2 km	
+Antwort_2=02 - 4 km	
+Antwort_3=01 - 3 km	
+Antwort_4=04 - 6 km	
+
+[4]
+FZ1=
+FZ2=Wie viele Wolkenstockwerke gibt es nach internationaler Vereinbarung ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=13	
+Antwort_2=05	
+Antwort_3=04	
+Antwort_4=06	
+
+[5]
+FZ1=
+FZ2=Wie viele Wolkenfamilien gibt es nach internationaler Vereinbarung ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=14	
+Antwort_2=02	
+Antwort_3=03	
+Antwort_4=06	
+
+[6]
+FZ1=
+FZ2=Wie viele Wolkengattungen werden nach internationaler Vereinbarung
+FZ3=unterschieden ?
+Min=250000
+Max=500000
+Antwort_1=110	
+Antwort_2=08	
+Antwort_3=014	
+Antwort_4=06	
+
+[7]
+FZ1=
+FZ2=Welche Höhe können aufgetürmte Haufenwolken in den Tropen erreichen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=116 km	
+Antwort_2=08 km	
+Antwort_3=012 km	
+Antwort_4=06 km	
+
+[8]
+FZ1=
+FZ2=Wie werden die Haufenwolken auch genannt ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1Quellwolken	
+Antwort_2=0Schlechtwetterwolken	
+Antwort_3=0Mündungswolken	
+Antwort_4=0Schneewolken	
+
+[9]
+FZ1=
+FZ2=Wie nennt man die harmlosen Wolken, die sich bei schönem Wetter bilden und aus
+FZ3=denen kein Regen fällt, solange sie nicht zu dick werden ?
+Min=16000
+Max=500000
+Antwort_1=1Haufenwolken	
+Antwort_2=0Schichtwolken	
+Antwort_3=0Schäfchenwolken	
+Antwort_4=0Federwolken	
+
+[10]
+FZ1=
+FZ2=Aus welchen Wolken kommt der kleintropfige Landregen ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1Schichtwolken	
+Antwort_2=0Haufenwolken	
+Antwort_3=0Schäfchenwolken	
+Antwort_4=0Gewitterwolken	
+
+[11]
+FZ1=
+FZ2=Welche Wolken entstehen, wenn sich warme Luft über kalte Luft schiebt ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1Schichtwolken	
+Antwort_2=0Schäfchenwolken	
+Antwort_3=0Haufenwolken	
+Antwort_4=0Federwolken	
+
+[12]
+FZ1=
+FZ2=Welche Wettervorhersage kann man machen, wenn sich in großer Höhe
+FZ3=Schäfchenwolken bilden ?
+Min=500
+Max=64000
+Antwort_1=1Das Wetter ändert sich.	
+Antwort_2=0Es wird gleich regnen.	
+Antwort_3=0Das Wetter bleibt so wie es ist.	
+Antwort_4=0Es wird bald schneien.	
+
+[13]
+FZ1=
+FZ2=Wie nennt man die Wolken in großer Höhe, die wellige Streifen haben und
+FZ3=anzeigen, dass sich das Wetter ändern wird ?
+Min=16000
+Max=500000
+Antwort_1=1Schäfchenwolken	
+Antwort_2=0Haufenwolken	
+Antwort_3=0Schichtwolken	
+Antwort_4=0Federwolken	
+
+[14]
+FZ1=
+FZ2=Wie nennt man die Wolken, die sehr hoch am Himmel dünne weiße Streifen bilden
+FZ3=und schlechtes Wetter ankündigen ?
+Min=16000
+Max=500000
+Antwort_1=1Federwolken	
+Antwort_2=0Schäfchenwolken	
+Antwort_3=0Haufenwolken	
+Antwort_4=0Gewitterwolken	
+
+[15]
+FZ1=
+FZ2=Welche drei Stoffe in der Luft sind für die Entstehung von Wolken verantwortlich ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Wasserdampf, Staub und kleinste	Eiskörnchen	
+Antwort_2=0Wasserdampf, Sauerstoff und Neon	
+Antwort_3=0Wasserdampf, Hagel und Stickstoff	
+Antwort_4=0Wasserdampf, Eiskristalle und	Meteoriten	
+
+[16]
+FZ1=
+FZ2=Wie nennt man es, wenn die Luft viel Wasserdampf enthält,
+FZ3=also eine hohe Luftfeuchtigkeit herrscht ?
+Min=0
+Max=32000
+Antwort_1=1Es ist schwül.	
+Antwort_2=0Es ist frostig.	
+Antwort_3=0Es ist heiter.	
+Antwort_4=0Es ist lau.	
+
+[17]
+FZ1=
+FZ2=Was heißt "Wasser kondensiert" ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1Wasserdampf wird zu flüssigem Wasser	
+Antwort_2=0flüssiges Wasser wird zu Wasserdampf	
+Antwort_3=0Eis wird zu flüssigem Wasser	
+Antwort_4=0Wasser wird zu Eis	
+
+[18]
+FZ1=
+FZ2=Welche Wettervorhersage kann man machen, wenn am blauen Himmel
+FZ3=Federwolken auftauchen ?
+Min=16000
+Max=500000
+Antwort_1=1Das Wetter wird schlechter.	
+Antwort_2=0Es bleibt so wie es ist.	
+Antwort_3=0Das Wetter wird besser.	
+Antwort_4=0Es fängt bald an zu schneien.	
+
+[19]
+FZ1=
+FZ2=Wie hoch können Gewitterwolken werden ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=110 km	
+Antwort_2=01.500 m	
+Antwort_3=02 - 3 km	
+Antwort_4=0über 100 km	
+
+[20]
+FZ1=
+FZ2=Wie muss sich die Temperatur der Luft ändern, damit Wolken entstehen ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1Sie muss sinken.	
+Antwort_2=0Sie ändert sich nicht.	
+Antwort_3=0Sie muss steigen.	
+Antwort_4=0Sie wechselt häufig von kalt nach	warm.	
+
+[21]
+FZ1=
+FZ2=Wie ändert sich die Temperatur nach einem Gewitter ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Es wird kälter.	
+Antwort_2=0Es bleibt so wie es ist.	
+Antwort_3=0Es wird wärmer.	
+Antwort_4=0Es wird mal wärmer und mal kälter.	
+
+[22]
+FZ1=
+FZ2=Welche Art von Niederschlag fällt aus den Gewitterwolken ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1dicke Regentropfen und Hagel	
+Antwort_2=0Sprudelwasser	
+Antwort_3=0Nieselregen und Schnee	
+Antwort_4=0Eiskristalle	
+
+[23]
+FZ1=
+FZ2=Welche Wolken gibt es ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Schichtwolken	
+Antwort_2=0Schluchtwolken	
+Antwort_3=0Schachtwolken	
+Antwort_4=0Schlammwolken	
+
+[24]
+FZ1=
+FZ2=Welche Wolken gibt es ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Federwolken	
+Antwort_2=0Wollewolken	
+Antwort_3=0Balkenwolken	
+Antwort_4=0Mauerwolken	
+
+[25]
+FZ1=
+FZ2=Welche Wolken gibt es ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1Schäfchenwolken	
+Antwort_2=0Kätzchenwolken	
+Antwort_3=0Kükenwolken	
+Antwort_4=0Pferdchenwolken	
+
+[26]
+FZ1=
+FZ2=Welche Farbe hat der Wasserdampf ?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1durchsichtig	
+Antwort_2=0weiß	
+Antwort_3=0grau	
+Antwort_4=0schwarz	
+
+[27]
+FZ1=
+FZ2=Woraus bestehen Wolken ?
+FZ3=
+Min=0
+Max=64000
+Antwort_1=1Wassertropfen	
+Antwort_2=0gasförmiges Wasser	
+Antwort_3=0Wasserdampf	
+Antwort_4=0Nebel	
+
+

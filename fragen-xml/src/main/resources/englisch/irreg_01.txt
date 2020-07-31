@@ -1,0 +1,346 @@
+[Thema]
+Thema=Unregelmäßige Verben
+Fragen=31
+Autor=A. Bergkemper, Stand 15.7.01
+
+[1]
+FZ1=
+FZ2=laufen (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1ran
+Antwort_2=0run
+Antwort_3=0jump
+Antwort_4=0jumped
+
+[2]
+FZ1=
+FZ2=tun, machen (3. Pers. Präsens)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1does
+Antwort_2=0did
+Antwort_3=0do
+Antwort_4=0done
+
+[3]
+FZ1=
+FZ2=beißen (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1bitten
+Antwort_2=0bites
+Antwort_3=0bite
+Antwort_4=0bit
+
+[4]
+FZ1=
+FZ2=geboren (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1born
+Antwort_2=0bore
+Antwort_3=0bear
+Antwort_4=0borne
+
+[5]
+FZ1=
+FZ2=werden (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1became
+Antwort_2=0was
+Antwort_3=0become
+Antwort_4=0been
+
+[6]
+FZ1=
+FZ2=zur Welt bringen, gebären
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1bear  - bore - born
+Antwort_2=0bear  - bore - bore
+Antwort_3=0bear  - bore - borne
+Antwort_4=0wear - wore - worn
+
+[7]
+FZ1=
+FZ2=blasen, wehen (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1blew
+Antwort_2=0blow
+Antwort_3=0blown
+Antwort_4=0blowed
+
+[8]
+FZ1=
+FZ2=anfangen (Präsens)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1begin
+Antwort_2=0begun
+Antwort_3=0began
+Antwort_4=0begone
+
+[9]
+FZ1=
+FZ2=biegen, krümmen (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1bent
+Antwort_2=0bend
+Antwort_3=0band
+Antwort_4=0bant
+
+[10]
+FZ1=
+FZ2=brechen, zerbrechen (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1broken
+Antwort_2=0broke
+Antwort_3=0breake
+Antwort_4=0breaked
+
+[11]
+FZ1=
+FZ2=bringen (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1brought
+Antwort_2=0brang
+Antwort_3=0bring
+Antwort_4=0brung
+
+[12]
+FZ1=
+FZ2=bauen (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1built
+Antwort_2=0bold
+Antwort_3=0build
+Antwort_4=0bolt
+
+[13]
+FZ1=
+FZ2=kaufen (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1bought
+Antwort_2=0buyed
+Antwort_3=0buy
+Antwort_4=0buied
+
+[14]
+FZ1=
+FZ2=wählen, auswählen (Prätertitum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1chose
+Antwort_2=0chosen
+Antwort_3=0choose
+Antwort_4=0choosen
+
+[15]
+FZ1=
+FZ2=kommen, ankommen (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1come
+Antwort_2=0comed
+Antwort_3=0came
+Antwort_4=0become
+
+[16]
+FZ1=
+FZ2=schneiden (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1cut
+Antwort_2=0cutted
+Antwort_3=0cot
+Antwort_4=0cutten
+
+[17]
+FZ1=
+FZ2=handeln (von), sich beschäftigen (mit) (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1dealt
+Antwort_2=0deales
+Antwort_3=0deal
+Antwort_4=0dealed
+
+[18]
+FZ1=
+FZ2=trinken (Präsens)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1drink
+Antwort_2=0drunk
+Antwort_3=0drank
+Antwort_4=0dronk
+
+[19]
+FZ1=
+FZ2=graben (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1dug
+Antwort_2=0dag
+Antwort_3=0dig
+Antwort_4=0dog
+
+[20]
+FZ1=
+FZ2=zeichnen (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1drawn
+Antwort_2=0drew
+Antwort_3=0draw
+Antwort_4=0drewn
+
+[21]
+FZ1=
+FZ2=fahren (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1driven
+Antwort_2=0drove
+Antwort_3=0drive
+Antwort_4=0droved
+
+[22]
+FZ1=
+FZ2=essen (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1ate
+Antwort_2=0eaten
+Antwort_3=0eat
+Antwort_4=0eated
+
+[23]
+FZ1=
+FZ2=fallen (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1fell
+Antwort_2=0fallen
+Antwort_3=0fall
+Antwort_4=0falled
+
+[24]
+FZ1=
+FZ2=fühlen (Partizip Perfekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1felt
+Antwort_2=0feel
+Antwort_3=0fellen
+Antwort_4=0fallen
+
+[25]
+FZ1=
+FZ2=kämpfen (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1fought
+Antwort_2=0fighted
+Antwort_3=0fight
+Antwort_4=0foughten
+
+[26]
+FZ1=
+FZ2=finden (Partizip Pefekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1found
+Antwort_2=0finded
+Antwort_3=0find
+Antwort_4=0founden
+
+[27]
+FZ1=
+FZ2=flüchten (Partizip Pefekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1fled
+Antwort_2=0flown
+Antwort_3=0flee
+Antwort_4=0flew
+
+[28]
+FZ1=
+FZ2=fliegen (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1flew
+Antwort_2=0flown
+Antwort_3=0fly
+Antwort_4=0fled
+
+[29]
+FZ1=
+FZ2=verbieten (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1forbade
+Antwort_2=0forbidden
+Antwort_3=0forbid
+Antwort_4=0forgotten
+
+[30]
+FZ1=
+FZ2=vergessen (Präteritum)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1forgot
+Antwort_2=0forgotten
+Antwort_3=0forget
+Antwort_4=0forbidden
+
+[31]
+FZ1=
+FZ2=frieren, erfrieren (Partizip Pefekt)
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1frozen
+Antwort_2=0freeze
+Antwort_3=0froze
+Antwort_4=0frost
+

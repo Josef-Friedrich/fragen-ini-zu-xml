@@ -1,0 +1,444 @@
+[Thema]
+Thema       = Tierquiz 4
+Fragen      = 40
+Autor       = Manfred Hartisch 5/2001
+
+[1]
+FZ1         = 
+FZ2         =  Was ist ein Piranha ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 ein Raubfisch
+Antwort_2   = 0 ein Raubvogel
+Antwort_3   = 0 eine Raubkatze
+Antwort_4   = 0  ein giftiger Frosch
+
+[2]
+FZ1         =  
+FZ2         =  Wie groß wird ein Piranha ?
+FZ3         =  
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 ca. 2 cm
+Antwort_2   = 1 ca. 20 cm
+Antwort_3   = 0 ca. 2 Meter
+Antwort_4   = 0 ca. 20 Meter
+
+[3]
+FZ1         = 
+FZ2         =  Welcher Affe kann so laut brüllen, dass man 
+FZ3         =   ihn 3 km durch den Urwald hört ?
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 der Schreiaffe
+Antwort_2   = 1 der Brüllaffe
+Antwort_3   = 0 der Rufaffe
+Antwort_4   = 0 der Heulaffe
+
+[4]
+FZ1         = 
+FZ2         =  Was ist eine "Schwarze Witwe" ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 eine Giftschlange
+Antwort_2   = 0 ein giftiger Fisch
+Antwort_3   = 1 eine Giftspinne
+Antwort_4   = 0 ein giftiger Frosch
+
+[5]
+FZ1         = 
+FZ2         =  Was ist ein Orca ?
+FZ3         = 
+Min         = 200
+Max         = 4000
+Antwort_1   = 0 eine Bergziege
+Antwort_2   = 1 ein Schwertwal
+Antwort_3   = 0 ein junger Orang - Utan
+Antwort_4   = 0 ein weiblicher Otter
+
+[6]
+FZ1         = 
+FZ2         =  Wie weit ist das Gebrüll eines Löwen in der
+FZ3         =  Savanne zu hören ?
+Min         = 12000
+Max         = 125000
+Antwort_1   = 0 ca. 2 Kilometer
+Antwort_2   = 0 ca. 4 Kilometer
+Antwort_3   = 0 ca. 6 Kilometer
+Antwort_4   = 1 ca. 8 Kilometer
+
+[7]
+FZ1         = 
+FZ2         =  Wie hoch kann ein Menschenfloh springen ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 ca. 20 cm
+Antwort_2   = 0 ca. 30 cm
+Antwort_3   = 1 ca. 40 cm
+Antwort_4   = 0 ca. 50 cm
+
+[8]
+FZ1         = 
+FZ2         =  Wie nennt man ein junges Schaf ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Zicklein 
+Antwort_2   = 0 Küken
+Antwort_3   = 1 Lamm
+Antwort_4   = 0 Kälbchen
+
+[9]
+FZ1         = 
+FZ2         =  Wie öffnet der Schmutzgeier ein Ei ?
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 mit seinem spitzen Schnabel
+Antwort_2   = 0 Er springt darauf.
+Antwort_3   = 0 Er wirft es in eine Schlucht.
+Antwort_4   = 1 Er wirft einen Stein darauf. 
+
+[10]
+FZ1         = 
+FZ2         =  Zu welcher Tierart gehört die "Kleine Hufeisennase" ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 zu den Pferden
+Antwort_2   = 1 zu den Fledermäusen 
+Antwort_3   = 0 zu den Libellen
+Antwort_4   = 0 zu den Schlangen
+
+[11]
+FZ1         =  
+FZ2         =  Wie heißt das weibliche Reh ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Zicke
+Antwort_2   = 0 Wicke
+Antwort_3   = 0 Bicke
+Antwort_4   = 1 Ricke
+
+[12]
+FZ1         = 
+FZ2         =  Wie groß ist das Baby des Riesenkängurus
+FZ3         =  bei der Geburt ?
+Min         = 500
+Max         = 8000
+Antwort_1   = 0 etwa so groß wie ein Arm
+Antwort_2   = 1 etwa so groß wie ein Finger
+Antwort_3   = 0 ca. 1 Meter
+Antwort_4   = 0 ca. 48 cm
+
+[13]
+FZ1         = 
+FZ2         =  Was ist eine Klappmütze ?
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 ein Schmetterling
+Antwort_2   = 0 ein Singvogel
+Antwort_3   = 0 eine Maulwurfart
+Antwort_4   = 1 eine Robbe
+
+[14]
+FZ1         = 
+FZ2         =  Wie groß werden die Vorderbeine der
+FZ3         =   japanischen Seespinne ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 ca. 1,50 m
+Antwort_2   = 0 ca. 30 cm
+Antwort_3   = 0 ca. 89 cm
+Antwort_4   = 0 ca. 3 Meter
+
+[15]
+FZ1         = 
+FZ2         =  Wie kommt der Igelfisch zu seinem Namen ?
+FZ3         = 
+Min         = 500
+Max         = 16000
+Antwort_1   = 1 Er hat Stacheln.
+Antwort_2   = 0 Er kann sich auch zusammenrollen.
+Antwort_3   = 0 Er frisst auch gerne Regenwürmer.
+Antwort_4   = 0 Er frisst gerne Igel.
+
+[16]
+FZ1         =  
+FZ2         =  Welche Möwe ist als einzige Möwe ganz weiß ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 Elfenbeinmöwe
+Antwort_2   = 0 Schneemöwe
+Antwort_3   = 0 Sahnemöwe
+Antwort_4   = 0 Weißmöwe
+
+[17]
+FZ1         = 
+FZ2         =  Worauf macht der Seeleopard auch Jagd ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Eisbären
+Antwort_2   = 0 Schneehasen 
+Antwort_3   = 1 Pinguine
+Antwort_4   = 0 Flamingos
+
+[18]
+FZ1         = 
+FZ2         =  Wie wird das Ren auch genannt ?
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 0 Marabu
+Antwort_2   = 0 Haribo
+Antwort_3   = 0 Malibu
+Antwort_4   = 1 Karibu
+                
+[19]
+FZ1         = 
+FZ2         =  Welche Farbe hat der Polarfuchs ?
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 schwarz
+Antwort_2   = 0 pink
+Antwort_3   = 0 blau
+Antwort_4   = 1 weiß
+                
+[20]
+FZ1         =  
+FZ2         =  Was fressen Biber ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Blätter, Zweige, Obst
+Antwort_2   = 0 Zweige, Rinde, Abfall
+Antwort_3   = 0 Rinde, Blätter, Nüsse
+Antwort_4   = 1 Blätter, Zweige, Rinde
+
+[21]
+FZ1         = 
+FZ2         =  Welcher Vogel ist ein Greifvogel ?
+FZ3         = 
+Min         = 1000
+Max         = 64000
+Antwort_1   = 0 Gimpel
+Antwort_2   = 0 Dompfaff
+Antwort_3   = 1 Habicht
+Antwort_4   = 0 Meise
+
+[22]
+FZ1         = 
+FZ2         =  Was frisst der Koalabär fast nur ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 Colablätter
+Antwort_2   = 1 Eukalyptusblätter
+Antwort_3   = 0 Honig
+Antwort_4   = 0 Birkenblätter
+
+[23]
+FZ1         =  
+FZ2         =  Wie heißt der Käfer, der in warmen Sommernächten wie ein
+FZ3         =  kleines Geisterlicht leuchtet ?
+Min         = 300
+Max         = 2000
+Antwort_1   = 1 Glühwürmchen
+Antwort_2   = 0 Geisterkäfer
+Antwort_3   = 0 Leuchtchen
+Antwort_4   = 0 Laternenkäfer
+
+[24]
+FZ1         = 
+FZ2         =  Wie heißt der größte Frosch der Welt ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Riesenfrosch
+Antwort_2   = 1 Goliathfrosch
+Antwort_3   = 0 Herkulesfrosch
+Antwort_4   = 0 Monsterfrosch
+
+[25]
+FZ1         = 
+FZ2         =  Wie lang wird der größte Frosch der Welt ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 1 Meter
+Antwort_2   = 0 50 cm
+Antwort_3   = 1 ca. 15 cm
+Antwort_4   = 0 ca. 25 cm
+
+[26]
+FZ1         =  
+FZ2         =  Welches Tier gibt es wirklich ?
+FZ3         = 
+Min         = 2000
+Max         = 125000
+Antwort_1   = 1 Ameisenlöwe
+Antwort_2   = 0 Käferluchs
+Antwort_3   = 0 Spinnentiger
+Antwort_4   = 0 Bienenpanter
+
+[27]
+FZ1         = 
+FZ2         =  Wie schnell wird der Wanderfalke beim Sturzflug ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 100 km / h
+Antwort_2   = 0 150 km / h
+Antwort_3   = 1 250 km / h
+Antwort_4   = 0 200 km / h
+
+[28]
+FZ1         = 
+FZ2         =  Wie viele Federn hat ein Schwan ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 250
+Antwort_2   = 0 2500
+Antwort_3   = 0 250000
+Antwort_4   = 1 25000
+
+[29]
+FZ1         = 
+FZ2         =  Wie alt können Schwäne werden ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 30 - 40 Jahre
+Antwort_2   = 1 20 - 30 Jahre
+Antwort_3   = 0 40 - 50 Jahre
+Antwort_4   = 0 50 - 60 Jahre
+
+[30]
+FZ1         = 
+FZ2         =  Wie viele Blüten besucht eine Erdhummel  
+FZ3         =  an einem warmen Tag ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ca. 1000
+Antwort_2   = 0 ca. 3000
+Antwort_3   = 1 ca. 2000
+Antwort_4   = 0 ca. 4000
+
+[31]
+FZ1         = 
+FZ2         =  Wie tief kann der Pottwal tauchen ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 ca. 100 Meter
+Antwort_2   = 0 ca. 100 Kilometer
+Antwort_3   = 0 ca. 10 Meter
+Antwort_4   = 1 ca. 1000 Meter
+
+[32]
+FZ1         = 
+FZ2         =  Was macht die Kreuzspinne abends mit ihrem Nest ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 Sie faltet es zusammen.
+Antwort_2   = 0 Sie rollt es zusammen.
+Antwort_3   = 0 Sie wickelt es auf.
+Antwort_4   = 1 Sie frisst es auf.
+
+[33]
+FZ1         = 
+FZ2         =  Wie viele Hörner hatte Triceratops ?
+FZ3         = 
+Min         = 2000
+Max         = 125000
+Antwort_1   = 0 1
+Antwort_2   = 0 2
+Antwort_3   = 1 3
+Antwort_4   = 0 4
+
+[34]
+FZ1         = 
+FZ2         =  Wie heißen die langen, dünnen Fische
+FZ3         =  ohne Bauchflossen ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 Seenadeln
+Antwort_2   = 0 Seefäden
+Antwort_3   = 0 Seeschnüre
+Antwort_4   = 0 Seenägel
+
+[35]
+FZ1         =
+FZ2         =  Von welchem Tier bekommen wir die Wolle ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Tiger
+Antwort_2   = 0 Ziege
+Antwort_3   = 0 Kuh
+Antwort_4   = 1 Schaf
+
+[36]
+FZ1         = 
+FZ2         =  Welches Tier gibt es ?
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Kungo
+Antwort_2   = 0 Lungo
+Antwort_3   = 1 Mungo
+Antwort_4   = 0 Nungo
+
+[37]
+FZ1         =
+FZ2         =  Welches Tier gibt es ?
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 1 Lemming
+Antwort_2   = 0 Hemming
+Antwort_3   = 0 Kemming
+Antwort_4   = 0 Bemming
+
+[38]
+FZ1         =
+FZ2         =  Die Spitzmausfamilie geht oft hintereinander, wobei
+FZ3         =  sie sich an den Schwänzen festhalten. Stimmt das ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 nein
+Antwort_2   = 0 nur im Winter
+Antwort_3   = 0 nur am Tag
+Antwort_4   = 1 ja
+
+[39]
+FZ1         =
+FZ2         =  Wie oft muss ein Wal normalerweise auftauchen,
+FZ3         =  um Luft zu holen ?
+Min         = 100
+Max         = 2000
+Antwort_1   = 0 gar nicht
+Antwort_2   = 1 alle 3 - 5 Minuten
+Antwort_3   = 0 alle 3 Stunden
+Antwort_4   = 0 zweimal in der Nacht
+
+[40]
+FZ1         = 
+FZ2         =  Wie schreit der Hahn ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 kuckuck
+Antwort_2   = 0 krä krä kräh
+Antwort_3   = 0 kiwitt kiwitt
+Antwort_4   = 1 kikeriki

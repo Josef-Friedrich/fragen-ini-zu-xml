@@ -1,0 +1,1105 @@
+[Thema]
+Thema= Grundschule 2
+Fragen=100
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie heißt Hanni ´s  Zwillingsschwester im Buch ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Nanni	
+Antwort_2=0Betty	
+Antwort_3=0Fanni	
+Antwort_4=0Gabi	
+
+[2]
+FZ1=
+FZ2=Durch welchen Stoff werden die Blätter grün ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Chloroform	
+Antwort_2=1Chlorophyll	
+Antwort_3=0Chlormatrium	
+Antwort_4=0Chlorobet	
+
+[3]
+FZ1=
+FZ2=Wie hieß der Maler Hundertwasser mit Vornamen ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Friedhelm	
+Antwort_2=1Friedensreich	
+Antwort_3=0Friedhof	
+Antwort_4=0Friedbert	
+
+[4]
+FZ1=
+FZ2=Was ist ein Wigwam ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0eine indische Tierart	
+Antwort_2=0ein Vogel	
+Antwort_3=1ein indianisches Zelt	
+Antwort_4=0ein Sternbild	
+
+[5]
+FZ1=
+FZ2=Mit welchem Klebstoff wird Holz verbunden ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Sekundenkleber	
+Antwort_2=1Leim	
+Antwort_3=0Klebeband	
+Antwort_4=0Teer	
+
+[6]
+FZ1=
+FZ2=Wofür braucht man einen Feldstecher ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0zum Löcher machen	
+Antwort_2=1zum vergrößerten Sehen	
+Antwort_3=0als Waffe	
+Antwort_4=0zum besseren Hören	
+
+[7]
+FZ1=
+FZ2=Wie heißt das Wasserfahrzeug aus
+FZ3=verbundenen Hölzern ?
+Min=0
+Max=2000
+Antwort_1=0Kanu	
+Antwort_2=0Katamaran	
+Antwort_3=1Floß	
+Antwort_4=0Jolle	
+
+[8]
+FZ1=
+FZ2=Welcher dunkle Geselle begleitet
+FZ3=den Nikolaus ?
+Min=0
+Max=2000
+Antwort_1=0Knecht Ronald	
+Antwort_2=0Knecht Robert	
+Antwort_3=1Knecht Ruprecht	
+Antwort_4=0Knecht Rudi	
+
+[9]
+FZ1=
+FZ2=Aus welchem Land stammt das Sushi ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0China	
+Antwort_2=0Indien	
+Antwort_3=0Korea	
+Antwort_4=1Japan	
+
+[10]
+FZ1=
+FZ2=Bei welchem Sport gibt es einen Doppelten Rittberger ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0beim Reiten	
+Antwort_2=1beim Eiskunstlauf	
+Antwort_3=0beim Fechten	
+Antwort_4=0beim Judo	
+
+[11]
+FZ1=
+FZ2=Wie bewegt sich eine Schlange fort ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Sie schleicht.	
+Antwort_2=0Sie springt.	
+Antwort_3=0Sie wälzt sich.	
+Antwort_4=1Sie kriecht.	
+
+[12]
+FZ1=
+FZ2=Wie nennt man das Spiel, bei dem Wörter gebildet werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Monopoly	
+Antwort_2=1Scrabble	
+Antwort_3=0Memory	
+Antwort_4=0Domino	
+
+[13]
+FZ1=
+FZ2=Welche Berufsgruppe gehört nicht zur Marine ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Kapitän	
+Antwort_2=0Kadett	
+Antwort_3=0Admiral	
+Antwort_4=1Fischer	
+
+[14]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Brandenburg ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1Potsdam	
+Antwort_2=0Amsterdam	
+Antwort_3=0Leerdam	
+Antwort_4=0Hamburg	
+
+[15]
+FZ1=
+FZ2=Welche Figur macht Werbung für Salamanderschuhe ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Lurchi	
+Antwort_2=0Fuchur	
+Antwort_3=0Suschi	
+Antwort_4=0Burschi	
+
+[16]
+FZ1=Wie heißt das Sprichwort ?
+FZ2="Jeder ist seines Glückes ... "
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schmied	
+Antwort_2=0Bäcker	
+Antwort_3=0Maurer	
+Antwort_4=0Arzt	
+
+[17]
+FZ1=
+FZ2=Wie nennt man die Tierwelt eines bestimmten Gebietes ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Flora	
+Antwort_2=0Lebewelt	
+Antwort_3=1Fauna	
+Antwort_4=0Sauna	
+
+[18]
+FZ1=
+FZ2=Wie bezeichnet man Filme, die in der Zukunft spielen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sciencefiction	
+Antwort_2=0Western	
+Antwort_3=0Techno	
+Antwort_4=0Horror	
+
+[19]
+FZ1=
+FZ2=Wer oder was sind die Bahamas ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0eine Volksgruppe	
+Antwort_2=0eine Musikgruppe	
+Antwort_3=0eine Tiergruppe	
+Antwort_4=1eine Inselgruppe	
+
+[20]
+FZ1=
+FZ2=Wie heißt das Sprichwort ?
+FZ3="Man soll den Tag nicht vor dem Abend ... "
+Min=4000
+Max=64000
+Antwort_1=0preisen	
+Antwort_2=0beenden	
+Antwort_3=0anfangen	
+Antwort_4=1loben	
+
+[21]
+FZ1=
+FZ2=Was misst ein IQ - Test ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0den Blutdruck	
+Antwort_2=0die Begeisterungsfähigkeit	
+Antwort_3=1die Intelligenz	
+Antwort_4=0die Kraftausdauer	
+
+[22]
+FZ1=
+FZ2=In welchem Alphabet kommt der Buchstabe Sigma vor ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0im lateinischen	
+Antwort_2=1im griechischen	
+Antwort_3=0im finnischen	
+Antwort_4=0im italienischen	
+
+[23]
+FZ1=
+FZ2=Am wievielten Dezember feiert man Weihnachten ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=124.	
+Antwort_2=031.	
+Antwort_3=06.	
+Antwort_4=010.	
+
+[24]
+FZ1=
+FZ2=Welches Teil am Fahrrad erzeugt Strom ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0das Pedal	
+Antwort_2=1der Dynamo	
+Antwort_3=0das Rücklicht	
+Antwort_4=0der Scheinwerfer	
+
+[25]
+FZ1=
+FZ2=Welche Landesflagge hat einen
+FZ3=gelben Stern auf rotem Grund ?
+Min=125000
+Max=1000000
+Antwort_1=0Deutschland	
+Antwort_2=0USA	
+Antwort_3=1Vietnam	
+Antwort_4=0Indien	
+
+[26]
+FZ1=
+FZ2=Woran erinnern die Umrisse Italiens
+FZ3=auf der Landkarte ?
+Min=0
+Max=2000
+Antwort_1=1Stiefel	
+Antwort_2=0Hose	
+Antwort_3=0Birne	
+Antwort_4=0Apfel	
+
+[27]
+FZ1=
+FZ2=Was befand sich im trojanischen Pferd ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Stroh	
+Antwort_2=0Heuballen	
+Antwort_3=1Soldaten	
+Antwort_4=0ein Virus	
+
+[28]
+FZ1=
+FZ2=Zu welcher Tierfamilie gehört der Flughahn ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0zu den Hähnen	
+Antwort_2=0zu den Vögeln	
+Antwort_3=1zu den Fischen	
+Antwort_4=0zu den Reptilien	
+
+[29]
+FZ1=
+FZ2=Welche Blätter wachsen nicht an Bäumen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Eichenblätter	
+Antwort_2=1Löschblätter	
+Antwort_3=0Birkenblätter	
+Antwort_4=0Buchenblätter	
+
+[30]
+FZ1=
+FZ2=Was sind Muffins ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1amerikanische Törtchen	
+Antwort_2=0englische Bonbons	
+Antwort_3=0Handpuppen	
+Antwort_4=0Handschuhe	
+
+[31]
+FZ1=
+FZ2=In welcher Einheit wird die Stromstärke gemessen ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Volt	
+Antwort_2=0Watt	
+Antwort_3=0Flut	
+Antwort_4=1Ampere	
+
+[32]
+FZ1=
+FZ2=Was bekommen Kinder von ihren Eltern ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Noten	
+Antwort_2=0Rubbellose	
+Antwort_3=0Zeugnisse	
+Antwort_4=1Taschengeld	
+
+[33]
+FZ1=
+FZ2=Welche Stadt ist berühmt für ihren Karneval ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Bochum	
+Antwort_2=0Kassel	
+Antwort_3=1Köln	
+Antwort_4=0Hannover	
+
+[34]
+FZ1=
+FZ2=Welcher Fisch ähnelt in seiner Form der Schlange ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Aal	
+Antwort_2=0Hai	
+Antwort_3=0Lachs	
+Antwort_4=0Goldfisch	
+
+[35]
+FZ1=
+FZ2=Auf welcher Bank kann man nicht sitzen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Holzbank	
+Antwort_2=0Gartenbank	
+Antwort_3=0Parkbank	
+Antwort_4=1Datenbank	
+
+[36]
+FZ1=
+FZ2=Wie nennt man ein rundes Fenster ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Rondell	
+Antwort_2=0Guckloch	
+Antwort_3=1Bullauge	
+Antwort_4=0Kuhauge	
+
+[37]
+FZ1=
+FZ2=Wie heißt das Ergänzungsteil der Schraube ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Mutter	
+Antwort_2=0Vater	
+Antwort_3=0Onkel	
+Antwort_4=0Bruder	
+
+[38]
+FZ1=
+FZ2=Wie bezeichnet man einen Faden mit
+FZ3=einem Gewicht am Ende ?
+Min=125000
+Max=1000000
+Antwort_1=0Jojo	
+Antwort_2=0Woter	
+Antwort_3=0Mot	
+Antwort_4=1Lot	
+
+[39]
+FZ1=
+FZ2=Was machen die Schauspieler in einer Oper ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0sprechen und singen	
+Antwort_2=1singen	
+Antwort_3=0sprechen	
+Antwort_4=0schweigen	
+
+[40]
+FZ1=
+FZ2=Wie viele Tierkreiszeichen hat ein Horoskop ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=010	
+Antwort_2=014	
+Antwort_3=016	
+Antwort_4=112	
+
+[41]
+FZ1=
+FZ2=Wer war einer der Hauptfiguren in "Star Wars" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Lucky Luke	
+Antwort_2=0Sky Dumont	
+Antwort_3=0Diamant Sky	
+Antwort_4=1Luke Skywalker	
+
+[42]
+FZ1=
+FZ2=Auf welcher Insel begrüßt man sich mit "Aloa " ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0Helgoland	
+Antwort_2=0Kuba	
+Antwort_3=0Zypern	
+Antwort_4=1Hawaii	
+
+[43]
+FZ1=
+FZ2=Wie heißt ein anderes Wort für Ehefrau ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Gattin	
+Antwort_2=0Genossin	
+Antwort_3=0Kumpeline	
+Antwort_4=0Kameradin	
+
+[44]
+FZ1=
+FZ2=Mit welchem Körperteil lesen blinde Menschen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Finger	
+Antwort_2=0Nase	
+Antwort_3=0Fuß	
+Antwort_4=0Ohr	
+
+[45]
+FZ1=
+FZ2=Wie heißt der hintere Teil eines Schiffes ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Heck	
+Antwort_2=0Bug	
+Antwort_3=0Leck	
+Antwort_4=0Front	
+
+[46]
+FZ1=
+FZ2=Was ist "4711" ?
+FZ3=
+Min=0
+Max=64000
+Antwort_1=0eine Telefonnummer	
+Antwort_2=0eine Postleitzahl	
+Antwort_3=1ein Parfüm	
+Antwort_4=0eine Käsesorte	
+
+[47]
+FZ1=
+FZ2=Wie heißt der Vater von Jesus ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Joseph	
+Antwort_2=0Johann	
+Antwort_3=0Jakob	
+Antwort_4=0Jürgen	
+
+[48]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Frankreich ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Paris	
+Antwort_2=0Rom	
+Antwort_3=0Berlin	
+Antwort_4=0Athen	
+
+[49]
+FZ1=
+FZ2=Wie viele Cent hat ein Euro ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=050	
+Antwort_2=1100	
+Antwort_3=0200	
+Antwort_4=030	
+
+[50]
+FZ1=
+FZ2=Wer oder was erzeugt Sauerstoff ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Pflanzen	
+Antwort_2=0Wasser	
+Antwort_3=0Menschen	
+Antwort_4=0Tiere	
+
+[51]
+FZ1=
+FZ2=Wie viele Farben hat ein Regenbogen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=05	
+Antwort_2=17	
+Antwort_3=06	
+Antwort_4=08	
+
+[52]
+FZ1=
+FZ2=Welches Teil des Essbestecks hat Zinken ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Gabel	
+Antwort_2=0Löffel	
+Antwort_3=0Messer	
+Antwort_4=0Pizzamesser	
+
+[53]
+FZ1=
+FZ2=Wie heißt die Notenskala für Musik ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Tonsur	
+Antwort_2=1Tonleiter	
+Antwort_3=0Tontreppe	
+Antwort_4=0Tonspur	
+
+[54]
+FZ1=
+FZ2=Wer schrieb Harry Potter ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Joanne K. Rowling	
+Antwort_2=0Jeanne d´Arc	
+Antwort_3=0Claude van Damme	
+Antwort_4=0Jenny B. Overhoff	
+
+[55]
+FZ1=
+FZ2=Wodurch verderben Lebensmittel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0durch Luft	
+Antwort_2=0durch Wasser	
+Antwort_3=0durch Viren	
+Antwort_4=1durch Bakterien	
+
+[56]
+FZ1=
+FZ2=Bei welchem Spiel gibt es einen Bauern ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schach	
+Antwort_2=0Mühle	
+Antwort_3=0Dame	
+Antwort_4=0Halma	
+
+[57]
+FZ1=
+FZ2=Was ist ein Sari ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1ein indisches Kleid	
+Antwort_2=0ein Reisgericht	
+Antwort_3=0ein Gewürz	
+Antwort_4=0eine japanische Hose	
+
+[58]
+FZ1=
+FZ2=Wie heißt der Reiter eines Rennpferdes ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Caddie	
+Antwort_2=1Jockey	
+Antwort_3=0Hockey	
+Antwort_4=0Keeper	
+
+[59]
+FZ1=
+FZ2=Wer war Buddha ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ein weiser Mann	
+Antwort_2=0ein König	
+Antwort_3=0ein Kapitän	
+Antwort_4=0ein Staatsmann	
+
+[60]
+FZ1=
+FZ2=Worauf kann nur ein Fakir sitzen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Nagelbrett	
+Antwort_2=0Fensterbrett	
+Antwort_3=0Federbett	
+Antwort_4=0Holzbrett	
+
+[61]
+FZ1=
+FZ2=Wer oder was ist ein Geysir ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0ein arabischer Fürst	
+Antwort_2=1eine heiße Quelle	
+Antwort_3=0ein Kobold	
+Antwort_4=0ein Gletscher	
+
+[62]
+FZ1=
+FZ2=Wie heißt Pikachus Trainer ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Ash	
+Antwort_2=0Mautzi	
+Antwort_3=0Rocco	
+Antwort_4=0Draco	
+
+[63]
+FZ1=
+FZ2=Wo befindet sich der Kreml ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Moskau	
+Antwort_2=0New York	
+Antwort_3=0Sidney	
+Antwort_4=0Peking	
+
+[64]
+FZ1=
+FZ2=Welche Frucht hat hellgrünes Fruchtfleisch ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Papaya	
+Antwort_2=0Banane	
+Antwort_3=0Mango	
+Antwort_4=1Kiwi	
+
+[65]
+FZ1=
+FZ2=Wie viele Pole hat ein Magnet ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 2
+Antwort_2=0 3
+Antwort_3=0 4
+Antwort_4=0 5
+
+[66]
+FZ1=
+FZ2=Wer oder was ist eine Synagoge ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 ein jüdisches Gotteshaus
+Antwort_2=0 ein Wissenschaftler
+Antwort_3=0 eine Vase
+Antwort_4=0 eine Bildungsreise
+
+[67]
+FZ1=
+FZ2=Wie viele Monate hat ein Jahr ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1 12
+Antwort_2=0 10
+Antwort_3=0 14
+Antwort_4=0 6
+
+[68]
+FZ1=
+FZ2=Wo lebt der Moschushirsch ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1 in Asien
+Antwort_2=0 in Europa
+Antwort_3=0 in Amerika
+Antwort_4=0 in Afrika
+
+[69]
+FZ1=
+FZ2=Wie heißen getrocknete Trauben ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 Rosen
+Antwort_2=1 Rosinen
+Antwort_3=0 Turbinen
+Antwort_4=0 Traublinge
+
+[70]
+FZ1=
+FZ2=In welchem Gebäude steht ein Teleskop ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Planetarium
+Antwort_2=0 Rathaus
+Antwort_3=0 Telefonladen
+Antwort_4=1 Sternwarte
+
+[71]
+FZ1=
+FZ2=Zu wie viel Prozent bestehen Pilze aus Wasser ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1 90 %
+Antwort_2=0 70 %
+Antwort_3=0 50 %
+Antwort_4=0 10 %
+
+[72]
+FZ1=
+FZ2=Aus welchem Grundmaterial besteht Glas ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Knochen
+Antwort_2=0 Schlacke
+Antwort_3=0 Kristall
+Antwort_4=1 Quarzsand
+
+[73]
+FZ1=
+FZ2=Welcher Kater mag am liebsten Lasagne ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Garfield
+Antwort_2=0 Fritz
+Antwort_3=0 Mikesch
+Antwort_4=0 Snoopy
+
+[74]
+FZ1=
+FZ2=Was ist ein Kobold ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 ein Zwerg
+Antwort_2=0 ein Riese
+Antwort_3=1 ein Geist
+Antwort_4=0 ein Zauberer
+
+[75]
+FZ1=
+FZ2=Was ist ein Internat ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 eine Kaserne
+Antwort_2=0 ein Parlamentsgebäude
+Antwort_3=0 eine Universität
+Antwort_4=1 ein Schülerwohnheim
+
+[76]
+FZ1=
+FZ2=Wie nennt man eine große Gruppe von Fischen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Schwarm
+Antwort_2=0 Herde
+Antwort_3=0 Rudel
+Antwort_4=0 Haufen
+
+[77]
+FZ1=
+FZ2=Wer ist der Gegenspieler von Robin Hood ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 Sheriff von Nottingham
+Antwort_2=0 Sheriff von York
+Antwort_3=0 Sheriff von London
+Antwort_4=0 Sheriff von Lanchaster
+
+[78]
+FZ1=
+FZ2=Welchen Stoff braucht der Mensch zum Atmen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Kohlenstoff
+Antwort_2=0 Süßstoff
+Antwort_3=0 Stickstoff
+Antwort_4=1 Sauerstoff
+
+[79]
+FZ1=
+FZ2=Wie heißt die Insel mit den großen Ahnenstatuen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0 Weihnachtsinsel
+Antwort_2=1 Osterinseln
+Antwort_3=0 Pfingstinsel
+Antwort_4=0 Haiti
+
+[80]
+FZ1=
+FZ2=Woraus werden Frikadellen gemacht ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1 Hackfleisch
+Antwort_2=0 Nudeln
+Antwort_3=0 Schnitzel
+Antwort_4=0 Weißwurst
+
+[81]
+FZ1=
+FZ2=Wie nennt man ein weißes Pferd ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1 Schimmel
+Antwort_2=0 Blanko
+Antwort_3=0 Araber
+Antwort_4=0 Rappe
+
+[82]
+FZ1=
+FZ2=Wie nennt man ein weibliches Pferd ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1 Stute
+Antwort_2=0 Stufe
+Antwort_3=0 Stulpe
+Antwort_4=0 Stube
+
+[83]
+FZ1=
+FZ2=Was sind Stalagmiten ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1 Tropfsteine am Boden
+Antwort_2=0 Kristalle
+Antwort_3=0 Holz fressende Insekten
+Antwort_4=0 Stahlträger
+
+[84]
+FZ1=
+FZ2=Warum schwimmt Eis auf Wasser ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1 weil es leichter ist
+Antwort_2=0 weil es kälter ist
+Antwort_3=0 weil es härter ist
+Antwort_4=0 weil es farbig ist
+
+[85]
+FZ1=
+FZ2=Was ist ein Tornado ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 ein Wirbelsturm
+Antwort_2=0 ein Steak
+Antwort_3=0 ein Stierkämpfer
+Antwort_4=0 eine große Torte
+
+[86]
+FZ1=
+FZ2=Wer oder was ist Kurkuma ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=1 ein Gewürz
+Antwort_2=0 ein Berg in Afrika
+Antwort_3=0 ein afrikanisches Fest
+Antwort_4=0 ein indisches Getränk
+
+[87]
+FZ1=
+FZ2=Wie groß ist die Entfernung zwischen
+FZ3=Sonne und Erde ?
+Min=32000
+Max=125000
+Antwort_1=1 ca. 150 Millionen km
+Antwort_2=0 ca. 50 Millionen km
+Antwort_3=0 ca. 10 Millionen km
+Antwort_4=0 ca. 70 Millionen km
+
+[88]
+FZ1=
+FZ2=Welcher Vogel hat eine sehr schöne Stimme ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1  Nachtigall
+Antwort_2=0 Rabe
+Antwort_3=0 Elster
+Antwort_4=0 Meise
+
+[89]
+FZ1=
+FZ2=Welcher Pilz ist giftig ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Knollenblätterpilz
+Antwort_2=0 Pfifferling
+Antwort_3=0 Steinpilz
+Antwort_4=0 Totentrompete
+
+[90]
+FZ1=
+FZ2=Welches Tier ist keine Schlange ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 Blindschleiche
+Antwort_2=0 Kobra
+Antwort_3=0 Natter
+Antwort_4=0 Kreuzotter
+
+[91]
+FZ1=
+FZ2=Wer überflog als Erster den Ärmelkanal ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=1 Louis Blériot
+Antwort_2=0 Charles Lindbergh
+Antwort_3=0 Umberto Nobile
+Antwort_4=0 der rote Baron
+
+[92]
+FZ1=
+FZ2=Wer war Konfuzius ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 ein Gelehrter
+Antwort_2=0 ein Fußballspieler
+Antwort_3=0 ein zerstreuter Professor
+Antwort_4=0 ein indischer Arzt
+
+[93]
+FZ1=
+FZ2=Wie heißt der vordere Teil eines Schiffes ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1 Bug
+Antwort_2=0 Heck
+Antwort_3=0 Top
+Antwort_4=0 Mast
+
+[94]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Portugal ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Lissabon
+Antwort_2=0 Madrid
+Antwort_3=0 Brüssel
+Antwort_4=0 Pisa
+
+[95]
+FZ1=
+FZ2=Woraus bestehen Gletscher ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 gefrorenem Schnee
+Antwort_2=0 harter Erde
+Antwort_3=0 Pulverschnee
+Antwort_4=0 Sandstein
+
+[96]
+FZ1=
+FZ2=Wie heißt der Zoowärter von Benjamin Blümchen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 Karl
+Antwort_2=0 Georg
+Antwort_3=0 Hans
+Antwort_4=0 Otto
+
+[97]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Island ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=1 Reykjavik
+Antwort_2=0 Dublin
+Antwort_3=0 Stockholm
+Antwort_4=0 Riga
+
+[98]
+FZ1=
+FZ2=Welches Fahrzeug schwimmt unter Wasser ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1 U - Boot
+Antwort_2=0 Katamaran
+Antwort_3=0 Kanu
+Antwort_4=0 Amphibienfahrzeug
+
+[99]
+FZ1=
+FZ2=Welches Insektenvolk hat keine Königin ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1 Heuschrecken
+Antwort_2=0 Ameisen
+Antwort_3=0 Bienen
+Antwort_4=0 Hornissen
+
+[100]
+FZ1=
+FZ2=Aus welchem Land stammt die
+FZ3=Automarke Peugeot ?
+Min=4000
+Max=64000
+Antwort_1=1 Frankreich
+Antwort_2=0 Polen
+Antwort_3=0 Portugal
+Antwort_4=0 Belgien
+

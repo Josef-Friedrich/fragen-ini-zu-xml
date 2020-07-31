@@ -1,0 +1,1380 @@
+[Thema]
+Thema= Wale
+Fragen=125
+Autor=Manfred Hartisch Juli 2001
+
+[1]
+FZ1=
+FZ2=Wale sind ....
+FZ3=
+Min=0
+Max=100
+Antwort_1=1 Säugetiere
+Antwort_2=0 Reptilien
+Antwort_3=0 Fische
+Antwort_4=0 Vögel
+
+[2]
+FZ1=
+FZ2=Wie viele Walarten sind heute bekannt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0 ca. 10
+Antwort_2=1 ca. 80
+Antwort_3=0 ca. 20
+Antwort_4=0 ca. 60
+
+[3]
+FZ1=
+FZ2=In welche zwei große Gruppen werden die Wale unterteilt ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=0 Augen -  und Ohrwale
+Antwort_2=1 Zahn -  und Bartenwale
+Antwort_3=0 Rücken -  und Bauchwale
+Antwort_4=0 Grau -  und Schwarzwale
+
+[4]
+FZ1=
+FZ2=Welcher Wal hat einen langen "Stoßzahn" ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 Finnwal
+Antwort_2=0 Blauwal
+Antwort_3=1 Narwal
+Antwort_4=0 Pottwal
+
+[5]
+FZ1=
+FZ2=Gehören die Delfine zu den Walen ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=0 nein
+Antwort_2=1 ja
+Antwort_3=0 nur die Männchen
+Antwort_4=0 nur die Weibchen
+
+[6]
+FZ1=
+FZ2=Wo leben die Wale ?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=0 nur am Nordpol
+Antwort_2=0 nur am Südpol
+Antwort_3=0 nur im Mittelmeer
+Antwort_4=1 in allen Meeren
+
+[7]
+FZ1=
+FZ2=Welche Walarten legen große
+FZ3=Entfernungen zurück ?
+Min=2000
+Max=16000
+Antwort_1=0 Walhaie
+Antwort_2=0 alle Wale
+Antwort_3=1 Bartenwale
+Antwort_4=0 Zahnwale
+
+[8]
+FZ1=
+FZ2=Was sind die bevorzugten Lebensräume
+FZ3=der Bartenwale ?
+Min=4000
+Max=32000
+Antwort_1=0 die tropischen Meere
+Antwort_2=0 die Flussmündungen
+Antwort_3=1 die Polargewässer
+Antwort_4=0 die norwegischen Fjorde
+
+[9]
+FZ1=
+FZ2=Wie nennt man die Schwanzflosse
+FZ3=des Wales ?
+Min=1000
+Max=32000
+Antwort_1=0 Luke
+Antwort_2=0 Klappe
+Antwort_3=0 Welle
+Antwort_4=1 Fluke
+
+[10]
+FZ1=
+FZ2=Wie nennt man die Rückenflosse
+FZ3=des Wales ?
+Min=1000
+Max=32000
+Antwort_1=0 Rinne
+Antwort_2=1 Finne
+Antwort_3=0 Pinne
+Antwort_4=0 Zinne
+
+[11]
+FZ1=
+FZ2=Wie nennt man die Vorderflossen
+FZ3=des Wales ?
+Min=1000
+Max=32000
+Antwort_1=0 Klipper
+Antwort_2=0 Schlipper
+Antwort_3=0 Ripper
+Antwort_4=1 Flipper
+
+[12]
+FZ1=
+FZ2=Woraus hat sich das "Blasloch"
+FZ3=des Wales entwickelt ?
+Min=500
+Max=8000
+Antwort_1=0 aus dem Ohr
+Antwort_2=1 aus der Nase
+Antwort_3=0 aus der Lippe
+Antwort_4=0 aus dem Rachen
+
+[13]
+FZ1=
+FZ2=Wo befindet sich das "Blasloch"
+FZ3=des Wales ?
+Min=500
+Max=2000
+Antwort_1=0 Unterseite des Kopfes
+Antwort_2=0 Oberseite des Rückens
+Antwort_3=0 Unterseite des Schwanzes
+Antwort_4=1 Oberseite des Kopfes
+
+[14]
+FZ1=
+FZ2=Wann lebte der Urwal Dorudon ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=1 vor ca. 40 Millionen Jahren
+Antwort_2=0 vor ca. 20 Millionen Jahren
+Antwort_3=0 vor ca. 10 Millionen Jahren
+Antwort_4=0 vor ca. 80 Millionen Jahren
+
+[15]
+FZ1=
+FZ2=Wie hieß der Urwal, der vor
+FZ3=45 Millionen Jahren lebte ?
+Min=500000
+Max=1000000
+Antwort_1=0 Protoceraptor
+Antwort_2=0 Proconsul
+Antwort_3=1 Protocetus
+Antwort_4=0 Prototyp
+
+[16]
+FZ1=
+FZ2=Welche Körpertemperatur
+FZ3=haben die Wale ?
+Min=8000
+Max=125000
+Antwort_1=1 ca. 37 Grad
+Antwort_2=0 ca. 42 Grad
+Antwort_3=0 ca. 25 Grad
+Antwort_4=0 ca. 49 Grad
+
+[17]
+FZ1=
+FZ2=Wie nennt man die Fettschicht, die
+FZ3=die Wale gleichmäßig warm hält ?
+Min=16000
+Max=250000
+Antwort_1=0 Flubber
+Antwort_2=0 Glibber
+Antwort_3=1 Blubber
+Antwort_4=0 Glubber
+
+[18]
+FZ1=
+FZ2=Wie dick wird die Fettschicht beim Grönlandwal ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=0 10 cm
+Antwort_2=0 25 cm
+Antwort_3=0 5 mm
+Antwort_4=1 50 cm
+
+[19]
+FZ1=
+FZ2=Wie lange können Wale die Luft anhalten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0 10 - 20 Minuten
+Antwort_2=0 30 - 40 Minuten
+Antwort_3=0 bis 200 Minuten
+Antwort_4=1 bis 90 Minuten
+
+[20]
+FZ1=
+FZ2=Wie nennt man die Luft, die ein Wal
+FZ3=nach dem Auftauchen ausstößt ?
+Min=16000
+Max=125000
+Antwort_1=0 Fontäne
+Antwort_2=0 Sprudel
+Antwort_3=0 Strom
+Antwort_4=1 Blas
+
+[21]
+FZ1=Wie nennt man die kleinen Krebschen,
+FZ2=die in unvorstellbaren Mengen auftreten
+FZ3=und den Bartenwalen als Nahrung dienen ?
+Min=1000
+Max=64000
+Antwort_1=0 Dill
+Antwort_2=0 Trill
+Antwort_3=1 Krill
+Antwort_4=0 Bill
+
+[22]
+FZ1=Wie nennt man riesige Schwärme aus Algen
+FZ2=und winzigen Meerestieren, die den
+FZ3=Bartenwalen als Nahrung dienen ?
+Min=1000
+Max=16000
+Antwort_1=0 Brei
+Antwort_2=1 Plankton
+Antwort_3=0 Watt
+Antwort_4=0 Planken
+
+[23]
+FZ1=
+FZ2=Wie lang können die Barten
+FZ3=eines Wales werden ?
+Min=32000
+Max=250000
+Antwort_1=1 bis zu vier Metern
+Antwort_2=0 bis zu drei Metern
+Antwort_3=0 1 - 2 Meter
+Antwort_4=0 2,25 m
+
+[24]
+FZ1=
+FZ2=Wie orientieren sich Wale ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Sie sehen sehr gut.
+Antwort_2=1 Sie stoßen Töne aus.
+Antwort_3=0 Sie riechen sehr gut.
+Antwort_4=0 nach den Sternen
+
+[25]
+FZ1=
+FZ2=Was fressen Bartenwale ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=0 Unmengen von Fisch
+Antwort_2=0 Unmengen von Robben
+Antwort_3=1 Unmengen von winzigen Krebsen
+Antwort_4=0 Unmengen von Quallen
+
+[26]
+FZ1=
+FZ2=Was fressen Zahnwale nicht ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=1 Müsli
+Antwort_2=0 Fische
+Antwort_3=0 Quallen
+Antwort_4=0 Tintenfische
+
+[27]
+FZ1=
+FZ2=Welcher Zahn des Narwalmännchens
+FZ3=ist der lange "Stoßzahn" ?
+Min=32000
+Max=250000
+Antwort_1=0 der untere rechte Zahn
+Antwort_2=0 der untere linke Zahn
+Antwort_3=1 der obere linke Zahn
+Antwort_4=0 der obere rechte Zahn
+
+[28]
+FZ1=
+FZ2=Wie lang kann der "Stoßzahn" des
+FZ3=Narwals werden ?
+Min=2000
+Max=16000
+Antwort_1=0 bis 1 m
+Antwort_2=0 bis 2 m
+Antwort_3=0 bis 4 m
+Antwort_4=1 bis 3 m
+
+[29]
+FZ1=Wie nennt man das "Organ" des Wales,
+FZ2=das die ausgehenden Schallwellen
+FZ3=bündelt ?
+Min=125000
+Max=1000000
+Antwort_1=0 Apfel
+Antwort_2=1 Melone
+Antwort_3=0 Kürbis
+Antwort_4=0 Birne
+
+[30]
+FZ1=
+FZ2=Können Wale auch über Wasser sehen  ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 nein
+Antwort_2=0 nur unscharf
+Antwort_3=1 ja
+Antwort_4=0 nur die Männchen
+
+[31]
+FZ1=
+FZ2=Wie wird ein Walbaby genannt ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0 Kitz
+Antwort_2=0 Laich
+Antwort_3=0 Fohlen
+Antwort_4=1 Kalb
+
+[32]
+FZ1=
+FZ2=Wie groß ist ein Blauwalbaby ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 2 m
+Antwort_2=1 7 m
+Antwort_3=0 4 m
+Antwort_4=0 3 m
+
+[33]
+FZ1=
+FZ2=Wie schwer ist ein Blauwalbaby ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 200 kg
+Antwort_2=0 4000 kg
+Antwort_3=1 2500 kg
+Antwort_4=0 800 kg
+
+[34]
+FZ1=
+FZ2=Welchen Wal gibt es ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=1 Buckelwal
+Antwort_2=0 Huckelwal
+Antwort_3=0 Zuckelwal
+Antwort_4=0 Ruckelwal
+
+[35]
+FZ1=
+FZ2=Wie groß werden die Minikrebschen (Krill),
+FZ3=die den Bartenwalen als Nahrung dienen ?
+Min=1000
+Max=8000
+Antwort_1=0 3 - 5 cm
+Antwort_2=1 bis 7 cm
+Antwort_3=0 25 mm
+Antwort_4=0 ca. 1 cm
+
+[36]
+FZ1=
+FZ2=Wie lang kann ein Blauwal werden ?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=0 22 Meter
+Antwort_2=0 28 Meter
+Antwort_3=1 35 Meter
+Antwort_4=0 31 Meter
+
+[37]
+FZ1=
+FZ2=Wie schwer kann ein Blauwal werden ?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=1 130 Tonnen
+Antwort_2=0 95 Tonnen
+Antwort_3=0 76 Tonnen
+Antwort_4=0 220 Tonnen
+
+[38]
+FZ1=
+FZ2=Wie schwer kann ein Blauwal werden ?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=0 wie 20 Elefanten
+Antwort_2=0 wie 14 Elefanten
+Antwort_3=0 wie 29 Elefanten
+Antwort_4=1 wie 37 Elefanten
+
+[39]
+FZ1=
+FZ2=Wie schnell kann ein Schwertwal schwimmen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 ca. 40 km/h
+Antwort_2=1 ca. 55 km/h
+Antwort_3=0 ca. 35 km/h
+Antwort_4=0 ca. 40 km/h
+
+[40]
+FZ1=
+FZ2=Wie schnell kann ein Finnwal schwimmen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 ca. 40 km/h
+Antwort_2=0 ca. 60 km/h
+Antwort_3=0 ca. 30 km/h
+Antwort_4=1 ca. 50 km/h
+
+[41]
+FZ1=
+FZ2=Wie alt können Blauwale werden ?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0 ca. 50 Jahre
+Antwort_2=0 ca. 60 Jahre
+Antwort_3=0 ca. 70 Jahre
+Antwort_4=1 ca. 80 Jahre
+
+[42]
+FZ1=
+FZ2=Wie alt können Finnwale werden ?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0 70 Jahre
+Antwort_2=0 90 Jahre
+Antwort_3=1 80 Jahre
+Antwort_4=0 100 Jahre
+
+[43]
+FZ1=
+FZ2=Woran kann man das Alter
+FZ3=eines Wales feststellen ?
+Min=8000
+Max=125000
+Antwort_1=1 an den Zähnen
+Antwort_2=0 am Gewicht
+Antwort_3=0 an der Länge
+Antwort_4=0 an der Farbe
+
+[44]
+FZ1=
+FZ2=Wie nennt man das Walfett ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0 Gel
+Antwort_2=0 Öl
+Antwort_3=1 Tran
+Antwort_4=0 Bran
+
+[45]
+FZ1=
+FZ2=Welchen Wal gibt es ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1 Pottwal
+Antwort_2=0 Topfwal
+Antwort_3=0 Tassenwal
+Antwort_4=0 Becherwal
+
+[46]
+FZ1=
+FZ2=Welchen Wal gibt es ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=0 Gänsewal
+Antwort_2=0 Hühnerwal
+Antwort_3=1 Entenwal
+Antwort_4=0 Adlerwal
+
+[47]
+FZ1=
+FZ2=Welchen Wal gibt es ?
+FZ3=
+Min=100
+Max=2000
+Antwort_1=1 Schweinswal
+Antwort_2=0 Lämmerwal
+Antwort_3=0 Schafswal
+Antwort_4=0 Ziegenwal
+
+[48]
+FZ1=
+FZ2=Welchen Wal gibt es ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0 Gelbwal
+Antwort_2=0 Rotwal
+Antwort_3=1 Blauwal
+Antwort_4=0 Grünwal
+
+[49]
+FZ1=
+FZ2=Welchen Wal gibt es auch in der Nordsee ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0 Grönlandwal
+Antwort_2=1 Schweinswal
+Antwort_3=0 Entenwal
+Antwort_4=0 Grindwal
+
+[50]
+FZ1=
+FZ2=Welchen Wal gibt es ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1 Grauwal
+Antwort_2=0 Weißwal
+Antwort_3=0 Schwarzwal
+Antwort_4=0 Braunwal
+
+[51]
+FZ1=
+FZ2=Wie wird der Schwertwal manchmal
+FZ3=auch genannt ?
+Min=1000
+Max=32000
+Antwort_1=0 Ritterwal
+Antwort_2=1 Killerwal
+Antwort_3=0 Degenwal
+Antwort_4=0 Räuberwal
+
+[52]
+FZ1=
+FZ2=Wie lang kann der Pottwal werden ?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=1 max. 18 Meter
+Antwort_2=0 max. 6 Meter
+Antwort_3=0 max. 12 Meter
+Antwort_4=0 max. 24 Meter
+
+[53]
+FZ1=
+FZ2=Wie schwer kann der Pottwal werden ?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0 ca. 20 Tonnen
+Antwort_2=1  ca. 40 Tonnen
+Antwort_3=0 ca. 60 Tonnen
+Antwort_4=0 ca. 80 Tonnen
+
+[54]
+FZ1=
+FZ2=Wie viele Pottwale gibt es noch ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1 ca. 500.000
+Antwort_2=0 ca. 125.000
+Antwort_3=0 ca. 250.000
+Antwort_4=0 ca. 750.000
+
+[55]
+FZ1=
+FZ2=Wie lang wird der Schweinswal ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=0 ca. 9,40 m
+Antwort_2=0 ca. 6,30 m
+Antwort_3=0 ca. 3,10 m
+Antwort_4=1 ca. 1,40 m
+
+[56]
+FZ1=
+FZ2=Wie viele Schweinswale gibt es noch ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1 ca. 300
+Antwort_2=0 ca. 600
+Antwort_3=0 ca. 1.200
+Antwort_4=0 ca. 2.400
+
+[57]
+FZ1=
+FZ2=Wie lang wird der Entenwal ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 ca. 8 Meter
+Antwort_2=0 ca. 6 Meter
+Antwort_3=0 ca. 4 Meter
+Antwort_4=1 ca. 10 Meter
+
+[58]
+FZ1=
+FZ2=Wie schwer wird der Entenwal ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 ca. 10 Tonnen
+Antwort_2=1 ca. 5 Tonnen
+Antwort_3=0 ca. 15 Tonnen
+Antwort_4=0 ca. 20 Tonnen
+
+[59]
+FZ1=
+FZ2=Wo lebt der Entenwal ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1 Nordpazifik
+Antwort_2=0 Südpazifik
+Antwort_3=0 Nordatlantik
+Antwort_4=0 Südatlantik
+
+[60]
+FZ1=
+FZ2=Wie viele Blauwale gibt es noch ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0 50 - 150
+Antwort_2=0 2000 - 3000
+Antwort_3=0 400.000
+Antwort_4=1 200 - 1100
+
+[61]
+FZ1=
+FZ2=Wie lang wird der Buckelwal ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=0 ca. 12 Meter
+Antwort_2=0 ca. 21 Meter
+Antwort_3=0 ca. 30 Meter
+Antwort_4=1 ca. 15 Meter
+
+[62]
+FZ1=
+FZ2=Wie schwer wird der Buckelwal ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1 ca. 5 Tonnen
+Antwort_2=0 ca. 3 Tonnen
+Antwort_3=0 ca. 9 Tonnen
+Antwort_4=0 ca. 14 Tonnen
+
+[63]
+FZ1=
+FZ2=Wo lebt der Buckelwal ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=0 im Mittelmeer
+Antwort_2=0 in der Ostsee
+Antwort_3=1 im Nordpazifik
+Antwort_4=0 in der Nordsee
+
+[64]
+FZ1=
+FZ2=Wie viele Buckelwale gibt es heute noch ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 ca. 5.000
+Antwort_2=0 ca. 10.000
+Antwort_3=0 ca. 20.000
+Antwort_4=1 ca. 15.000
+
+[65]
+FZ1=
+FZ2=Wie viele Buckelwale gab es einmal ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 100.000
+Antwort_2=0 200.000
+Antwort_3=0 300.000
+Antwort_4=0 500.000
+
+[66]
+FZ1=
+FZ2=Wie lang wird der Finnwal ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=0 ca. 10 Meter
+Antwort_2=0 ca. 15 Meter
+Antwort_3=0 ca. 20 Meter
+Antwort_4=1 ca. 25 Meter
+
+[67]
+FZ1=
+FZ2=Wie schwer wird der Finnwal ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 ca. 70 Tonnen
+Antwort_2=0 ca. 90 Tonnen
+Antwort_3=0 ca. 120 Tonnen
+Antwort_4=0 ca. 50 Tonnen
+
+[68]
+FZ1=
+FZ2=Wie viele Finnwale gibt es heute noch ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 ca. 44.000
+Antwort_2=1 ca. 22.000
+Antwort_3=0 ca. 66.000
+Antwort_4=0 ca. 88.000
+
+[69]
+FZ1=
+FZ2=Wie viele Finnwale gab es einmal ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 ca. 500.000
+Antwort_2=1 ca. 1 Millionen
+Antwort_3=0 ca. 250.000
+Antwort_4=0 ca. 750.000
+
+[70]
+FZ1=Heute gibt es weniger als 10.000 Blauwale.
+FZ2=Wie viele Blauwale gab es noch vor
+FZ3=70 Jahren ?
+Min=16000
+Max=250000
+Antwort_1=0 50.000
+Antwort_2=0 100.000
+Antwort_3=0 170.000
+Antwort_4=1 210.000
+
+[71]
+FZ1=
+FZ2=Wie lang ist der Grönlandwal ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 ca. 15 Meter
+Antwort_2=0 ca. 20 Meter
+Antwort_3=0 ca. 8 Meter
+Antwort_4=0 ca. 4 Meter
+
+[72]
+FZ1=
+FZ2=Wie schwer ist der Grönlandwal ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 ca. 10 Tonnen
+Antwort_2=0 ca. 50 Tonnen
+Antwort_3=0 ca. 25 Tonnen
+Antwort_4=1 ca. 90 Tonnen
+
+[73]
+FZ1=
+FZ2=Wo lebt der Grönlandwal ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1 im arktischen Meer
+Antwort_2=0 in der Südsee
+Antwort_3=0 in der Nordsee
+Antwort_4=0 im indischen Ozean
+
+[74]
+FZ1=
+FZ2=Wie viele Grönlandwale gibt es heute noch ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 ca. 6.000
+Antwort_2=0 ca. 400
+Antwort_3=1 ca. 3.000
+Antwort_4=0 ca. 15.000
+
+[75]
+FZ1=
+FZ2=Welchen Wal gibt es nicht ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0 Grindwal
+Antwort_2=0 Grauwal
+Antwort_3=0 Blauwal
+Antwort_4=1 Blindwal
+
+[76]
+FZ1=
+FZ2=Wie heißt der berühmteste Wal
+FZ3=in einem Roman ?
+Min=2000
+Max=32000
+Antwort_1=1 Moby Dick
+Antwort_2=0 Orca
+Antwort_3=0 Flipper
+Antwort_4=0 Molly
+
+[77]
+FZ1=
+FZ2=Wo lebt der Jacobita (einer der kleinsten Wale) ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 am Nordpol
+Antwort_2=0 am Südpol
+Antwort_3=1 vor Südamerika
+Antwort_4=0 im indischen Ozean
+
+[78]
+FZ1=
+FZ2=Wie heißt der kleinste Bartenwal ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 Miniwal
+Antwort_2=0 Gnomwal
+Antwort_3=0 Wichtelwal
+Antwort_4=1 Zwergwal
+
+[79]
+FZ1=
+FZ2=Wie groß wird der kleinste Bartenwal ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0 ca. 4 m
+Antwort_2=1 ca. 10 m
+Antwort_3=0 ca. 6 m
+Antwort_4=0 ca. 8 m
+
+[80]
+FZ1=
+FZ2=Wie nennt man die hornigen, zerfaserten Platten
+FZ3=mit denen einige Wale ihre Nahrung filtern ?
+Min=32000
+Max=250000
+Antwort_1=1 Barten
+Antwort_2=0 Warften
+Antwort_3=0 Latten
+Antwort_4=0 Marten
+
+[81]
+FZ1=
+FZ2=Wie tief kann der Pottwal tauchen ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0 200 m
+Antwort_2=1 mindestens 1000 m
+Antwort_3=0 450 m
+Antwort_4=0 600 - 900 m
+
+[82]
+FZ1=
+FZ2=Welche Wale haben keine Rückenflosse ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 Gründelwale
+Antwort_2=0 Finnwale
+Antwort_3=0 Blauwale
+Antwort_4=0 Grindwale
+
+[83]
+FZ1=
+FZ2=Wie wird der Weißwal auch noch genannt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0 Pantimos
+Antwort_2=0 Romanov
+Antwort_3=0 Habakuk
+Antwort_4=1 Beluga
+
+[84]
+FZ1=
+FZ2=Wie wird der Schweinswal auch genannt ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 Kleine Tümmler
+Antwort_2=0 Große Tümmler
+Antwort_3=0 Kleiner Lümmler
+Antwort_4=0 Großer Lümmler
+
+[85]
+FZ1=
+FZ2=Wie nennt man die Gruppen der Delfine ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0 Rudel
+Antwort_2=0 Herde
+Antwort_3=1 Schule
+Antwort_4=0 Klasse
+
+[86]
+FZ1=
+FZ2=Wie viele Blaslöcher haben die Bartenwale ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1 2
+Antwort_2=0 3
+Antwort_3=0 4
+Antwort_4=0 1
+
+[87]
+FZ1=Die Walknochen sind schwammartig porös und
+FZ2=vergleichsweise leicht. Damit sie das spezifische
+FZ3=Gewicht der Wale verringern sind sie gefüllt. Womit ?
+Min=250000
+Max=1000000
+Antwort_1=0 Luft
+Antwort_2=0 Gas
+Antwort_3=0 Wachs
+Antwort_4=1 Öl
+
+[88]
+FZ1=
+FZ2=Haben Wale Ohrmuscheln ?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1 nein
+Antwort_2=0 ja
+Antwort_3=0 nur die Jungtiere
+Antwort_4=0 nur die Weibchen
+
+[89]
+FZ1=
+FZ2=Welcher Wal hat die längsten Barten ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 Grönlandwal
+Antwort_2=0 Blauwal
+Antwort_3=0 Grauwal
+Antwort_4=0 Zwergwal
+
+[90]
+FZ1=
+FZ2=Wie breit wird die Schwanzflosse
+FZ3=des Blauwales ?
+Min=8000
+Max=32000
+Antwort_1=0 2 m
+Antwort_2=0 3,40 m
+Antwort_3=0 12 m
+Antwort_4=1 4,5 m
+
+[91]
+FZ1=
+FZ2=Was ist bei einem Buckelwal
+FZ3=besonders lang ?
+Min=2000
+Max=32000
+Antwort_1=1 Brustflossen
+Antwort_2=0 Rückenflosse
+Antwort_3=0 Schwanzflosse
+Antwort_4=0 Unterkiefer
+
+[92]
+FZ1=
+FZ2=Welcher Wal hat eine besonders
+FZ3=ausgeprägte Rückenflosse ?
+Min=32000
+Max=250000
+Antwort_1=0 Narwal
+Antwort_2=1 Schwertwal
+Antwort_3=0 Finnwal
+Antwort_4=0 Grindwal
+
+[93]
+FZ1=
+FZ2=Womit kämpfen große
+FZ3=Pottwalmännchen in der Tiefsee ?
+Min=125000
+Max=1000000
+Antwort_1=1 mit bis zu 17 Meter langen Riesenkraken
+Antwort_2=0 mit einem Rudel Hammerhaie
+Antwort_3=0 mit Killerwalen
+Antwort_4=0 mit Tiefseemuränen
+
+[94]
+FZ1=
+FZ2=Wie lange dümpeln Pottwale ruhig an der Oberfläche
+FZ3=und atmen tief, bevor sie auf Tauchjagd gehen ?
+Min=32000
+Max=125000
+Antwort_1=0 5 Minuten
+Antwort_2=0 20 Minuten
+Antwort_3=1 10 Minuten
+Antwort_4=0 40 Minuten
+
+[95]
+FZ1=
+FZ2=Wie groß wird der Jacobita
+FZ3=(auch Commerson - Delfin genannt) ?
+Min=8000
+Max=125000
+Antwort_1=1 ca. 1,60 m
+Antwort_2=0 ca. 5,70 m
+Antwort_3=0 ca. 12,50 m
+Antwort_4=0 ca. 8,30 m
+
+[96]
+FZ1=
+FZ2=Wo lebt der Weißwal ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 in der Südsee
+Antwort_2=0 vor Südamerika
+Antwort_3=1 in der Arktis
+Antwort_4=0 in der Antarktis
+
+[97]
+FZ1=
+FZ2=Wie weit kann ein Wal mit seinem Echolot
+FZ3=die Umgebung erforschen ?
+Min=125000
+Max=500000
+Antwort_1=1 mehr als 1.500 m
+Antwort_2=0 bis 300 m
+Antwort_3=0 400 - 700 m
+Antwort_4=0 ca. 1.200 m
+
+[98]
+FZ1=
+FZ2=Wie weit können die Walgesänge
+FZ3=noch wahrgenommen werden ?
+Min=64000
+Max=500000
+Antwort_1=0 50 Kilometer
+Antwort_2=0 20 Kilometer
+Antwort_3=0 40 Kilometer
+Antwort_4=1 30 Kilometer
+
+[99]
+FZ1=
+FZ2=Wie weit können Stöhn- und Schnalzlaute
+FZ3=der Wale noch wahrgenommen werden ?
+Min=64000
+Max=500000
+Antwort_1=1 bis fast 200 km
+Antwort_2=0 bis fast 20 km
+Antwort_3=0 bis fast 100 km
+Antwort_4=0 bis fast 70 km
+
+[100]
+FZ1=Wie viel Fett fressen sich die Grauwalweibchen
+FZ2=bis zum Oktober an, bevor sie im November
+FZ3=wieder nach Kalifornien zurückkehren ?
+Min=125000
+Max=500000
+Antwort_1=0 ca. ein Viertel ihres Körpergewichtes
+Antwort_2=0 ca. ein Drittel ihres Körpergewichtes
+Antwort_3=1 ca. die Hälfte ihres Körpergewichtes
+Antwort_4=0 ca. ein Achtel ihres Körpergewichtes
+
+[101]
+FZ1=
+FZ2=Wie lang ist die Tragzeit der Grauwalweibchen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 13 Monate
+Antwort_2=0 20 Monate
+Antwort_3=0 6 Monate
+Antwort_4=0 26 Monate
+
+[102]
+FZ1=Wie viele Junge bekommt das Grauwalweibchen
+FZ2=bei einer Geburt ?
+FZ3=
+Min=0
+Max=125000
+Antwort_1=0  2 - 3
+Antwort_2=0 immer Zwillinge
+Antwort_3=1 immer nur eins
+Antwort_4=0  3 - 5
+
+[103]
+FZ1=Die Grauwale halten den Langstreckenwanderrekord unter
+FZ2=den Säugetieren. Wie lang ist ihre Wanderung
+FZ3=von der Arktis bis Kalifornien  und wieder zurück ?
+Min=64000
+Max=500000
+Antwort_1=1 ca. 10.000 km
+Antwort_2=0 etwa 6.000 km
+Antwort_3=0 ungefähr 3.500 km
+Antwort_4=0 fast 8.300 km
+
+[104]
+FZ1=
+FZ2=Welchen Wal gibt es nicht ?
+FZ3=
+Min=100
+Max=500
+Antwort_1=0 Weißwal
+Antwort_2=0 Grauwal
+Antwort_3=1 Schwarzwal
+Antwort_4=0 Blauwal
+
+[105]
+FZ1=
+FZ2=Wie wird der Schwertwal auch genannt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0 Ozelot
+Antwort_2=0 Orbit
+Antwort_3=0 Omot
+Antwort_4=1 Orca
+
+[106]
+FZ1=
+FZ2=Was ist das "Hauptantriebsorgan" der Wale ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0 die Brustflossen
+Antwort_2=0 die Rückenflosse
+Antwort_3=1 die Schwanzflosse
+Antwort_4=0 der lange Unterkiefer
+
+[107]
+FZ1=
+FZ2=Welcher Wal ist der "Meister unter den Musikanten" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 Buckelwal
+Antwort_2=0 Grauwal
+Antwort_3=0  Grönlandwal
+Antwort_4=0  Finnwal
+
+[108]
+FZ1=Wie groß ist der Kopf eines Pottwals ?
+FZ2=
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 ca. ein Viertel seines Körpers
+Antwort_2=1 ca. ein Drittel seines Körpers
+Antwort_3=0 ca. die Hälfte seines Körpers
+Antwort_4=0 ca. ein Achtel seines Körpers
+
+[109]
+FZ1=Wie groß ist die Rückenflosse
+FZ2=des Schwertwals ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 ca. 80 cm
+Antwort_2=0 ca. 1,50 m
+Antwort_3=1 ca. 2 m
+Antwort_4=0 ca. 3,70 m
+
+[110]
+FZ1=
+FZ2=Wie heißt der größte Schnabelwal ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 Baird - Wal
+Antwort_2=0 Gaird - Wal
+Antwort_3=0 Laird - Wal
+Antwort_4=0 Haird - Wal
+
+[111]
+FZ1=
+FZ2=Wie groß wird der größte Schnabelwal ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 ca. 8 m
+Antwort_2=0 ca. 18 m
+Antwort_3=1 ca. 12 m
+Antwort_4=0 ca. 32 m
+
+[112]
+FZ1=
+FZ2=Wo lebt der größte Schnabelwal ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0 im südlichen Pazifik
+Antwort_2=0 im südlichen Atlantik
+Antwort_3=0 im nördlichen Atlantik
+Antwort_4=1 im nördlichen Pazifik
+
+[113]
+FZ1=
+FZ2=Woraus bestehen die Barten ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 Knochen
+Antwort_2=0 Haut
+Antwort_3=1 Horn
+Antwort_4=0 Muskeln
+
+[114]
+FZ1=
+FZ2=Wie viel Muttermilch trinkt ein
+FZ3=Blauwalbaby an einem Tag ?
+Min=8000
+Max=64000
+Antwort_1=0 50 Liter
+Antwort_2=1 400 Liter
+Antwort_3=0 100 Liter
+Antwort_4=0 200 Liter
+
+[115]
+FZ1=Wie nennt man die riesigen, ziehharmonikaartigen
+FZ2=Hautfalten, die vom Kinn bis zu den
+FZ3=Brustflossen reichen ?
+Min=16000
+Max=125000
+Antwort_1=0 Falten
+Antwort_2=0 Säcke
+Antwort_3=1 Furchen
+Antwort_4=0 Taschen
+
+[116]
+FZ1=Wie nennt man den Verschluss am Eingang
+FZ2=der Lunge, der verhindert, dass Wasser durch Mund
+FZ3=und Speiseröhre in die Lunge dringt ?
+Min=125000
+Max=1000000
+Antwort_1=0 Entenschnabel
+Antwort_2=0 Hühnerschnabel
+Antwort_3=0  Adlerschnabel
+Antwort_4=1 Gänseschnabel
+
+[117]
+FZ1=
+FZ2=Welche Farbe hat der Kinnfleck des Grönlandwals ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 weiß
+Antwort_2=0 schwarz
+Antwort_3=0 grau
+Antwort_4=0 braun
+
+[118]
+FZ1=
+FZ2=Wie nennt man die Waffe, mit der
+FZ3=Wale gejagt werden ?
+Min=2000
+Max=32000
+Antwort_1=0 Walmesser
+Antwort_2=0 Armbrust
+Antwort_3=1 Harpune
+Antwort_4=0 Tornado
+
+[119]
+FZ1=
+FZ2=Welchen Glattwal gibt es ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 Ostkaper
+Antwort_2=0 Westkaper
+Antwort_3=0  Südkaper
+Antwort_4=1 Nordkaper
+
+[120]
+FZ1=
+FZ2=Wie heißt kleinste Wal ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 Chiquita
+Antwort_2=1 Vaquita
+Antwort_3=0 Zabaquita
+Antwort_4=0 Raquita
+
+[121]
+FZ1=
+FZ2=Wie schwer wird der kleinste Wal ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 ca. 25 kg
+Antwort_2=0 60 - 100 kg
+Antwort_3=1  30 - 50 kg
+Antwort_4=0 ca. 120 kg
+
+[122]
+FZ1=
+FZ2=Wie groß wird der kleinste Wal ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1 1,20 - 1,50 m
+Antwort_2=0  1,60 - 2 m
+Antwort_3=0  2,20 - 2,80 m
+Antwort_4=0 3 m - 3,50 m
+
+[123]
+FZ1=
+FZ2=Welche Wale sind besonders zutraulich ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0  die kleinen, dünnen
+Antwort_2=0 die männlichen Jungtiere
+Antwort_3=1 die großen, dicken
+Antwort_4=0 die weiblichen Alttiere
+
+[124]
+FZ1=
+FZ2=Wie lang sind die Barten eines Byrde - Wales ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 ca. 2 m
+Antwort_2=0 2,30 - 3 m
+Antwort_3=0 ca. 80 cm
+Antwort_4=1 ca. 46 cm
+
+[125]
+FZ1=
+FZ2=Wie viele Furchen hat  der Finnwal ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 bis zu 100
+Antwort_2=0 100 - 200
+Antwort_3=0  ca. 300
+Antwort_4=0 mehr als 400
+

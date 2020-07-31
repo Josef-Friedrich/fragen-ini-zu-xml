@@ -1,0 +1,2558 @@
+[Thema]
+Thema=Rund um die Pferde
+Fragen=232
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie alt sollte ein Fohlen sein, um es an ein Fohlenhalfter zu gewöhnen ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=16 Monate	
+Antwort_2=09 Monate	
+Antwort_3=02 Monate	
+Antwort_4=04 Monate	
+
+[2]
+FZ1=
+FZ2=Wie viele Reiter gehören zu einer Polomannschaft ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=14	
+Antwort_2=06	
+Antwort_3=05	
+Antwort_4=03	
+
+[3]
+FZ1=
+FZ2=Wie heißt die berühmte Galopprennbahn bei Berlin ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hoppegarten	
+Antwort_2=0Englischer Garten	
+Antwort_3=0Pferdepark	
+Antwort_4=0Berliner Garten	
+
+[4]
+FZ1=
+FZ2=Wie heißt das Gebiss, das in der Mitte beweglich ist ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Trense	
+Antwort_2=0Tremel	
+Antwort_3=0Trosse	
+Antwort_4=0Tragge	
+
+[5]
+FZ1=
+FZ2=Wie heißt die langsamste Gangart des Pferdes ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Schritt	
+Antwort_2=0Galopp	
+Antwort_3=0Trab	
+Antwort_4=0Spurt	
+
+[6]
+FZ1=
+FZ2=Wie nennt man die Zulassung eines Hengstes als Deckhengst, 
+FZ3=die durch eine besondere Kommission erfolgt ?
+Min=125000
+Max=250000
+Antwort_1=1Körung	
+Antwort_2=0Trimmung	
+Antwort_3=0Klärung	
+Antwort_4=0Trauung	
+
+[7]
+FZ1=
+FZ2=Wie heißt die sehr seltene Kreuzung zwischen Zebra und Pferd ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Pferdezebroid	
+Antwort_2=0Pferbra	
+Antwort_3=0Zeppo	
+Antwort_4=0Zerd	
+
+[8]
+FZ1=
+FZ2=Wie nennt man einen landwirtschaftlichen Hof, auf dem Pferde gezüchtet werden ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Gestüt	
+Antwort_2=0Gepferd	
+Antwort_3=0Pferdehof	
+Antwort_4=0Hengstfarm	
+
+[9]
+FZ1=
+FZ2=Welche Scheckenhaben ein Fell mit vielen kleinen, gleichmäßig verteilten Flecken ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Tigerschecken	
+Antwort_2=0Tüpfelschecken	
+Antwort_3=0Sternchenschecken	
+Antwort_4=0Mosaikschecken	
+
+[10]
+FZ1=
+FZ2=Welches deutsche Bundesland gilt als das größte zusammenhängende 
+FZ3=Pferdezuchtgebiet Europas ?
+Min=125000
+Max=500000
+Antwort_1=1Niedersachsen	
+Antwort_2=0Nordrhein - Westfalen	
+Antwort_3=0Sachsen	
+Antwort_4=0Schleswig - Holstein	
+
+[11]
+FZ1=
+FZ2=Wie nennen die Fachleute den nachweisbaren Stammbaum eines Pferdes ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Pedigree	
+Antwort_2=0Pürree	
+Antwort_3=0Pediküre	
+Antwort_4=0Pedell	
+
+[12]
+FZ1=
+FZ2=Wie nennt man ein Pferd, dessen Fell unterschiedlich große, 
+FZ3=klar abgegrenzte Flecken aufweist ?
+Min=4000
+Max=64000
+Antwort_1=1Schecke	
+Antwort_2=0Gecke	
+Antwort_3=0Flecke	
+Antwort_4=0Recke	
+
+[13]
+FZ1=
+FZ2=Wie wird das Europäische Wildpferd noch genannt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Tarpan	
+Antwort_2=0Trapez	
+Antwort_3=0Turban	
+Antwort_4=0Tornado	
+
+[14]
+FZ1=
+FZ2=Wie hoch sollte die Luftfeuchtigkeit in einem Stall sein ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=160%	
+Antwort_2=010%	
+Antwort_3=090%	
+Antwort_4=030%	
+
+[15]
+FZ1=
+FZ2=Warum sollte ein Offenstall immer über zwei Türöffnungen verfügen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1um rangniederen Tieren eine	Fluchtmöglichkeit zu bieten	
+Antwort_2=0damit man in den Stall kommt, wenn	eine Tür mal klemmt	
+Antwort_3=0damit die Tiere eine Abwechslung	haben	
+Antwort_4=0damit Schwalben gefahrlos hindurch	fliegen können	
+
+[16]
+FZ1=
+FZ2=Wofür sollte in jedem Stall unbedingt gesorgt werden ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1gute, zugfreie Belüftung	
+Antwort_2=0beruhigende Musik	
+Antwort_3=0blendfreie Beleuchtung	
+Antwort_4=0genügend Fliegenfallen	
+
+[17]
+FZ1=
+FZ2=Was fressen Ponys während des Fellwechsels besonders gerne ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Baumrinde	
+Antwort_2=0Knoblauch	
+Antwort_3=0Gänseblümchen	
+Antwort_4=0Brennnessel	
+
+[18]
+FZ1=
+FZ2=Wie oft sollte ein Hufschmied die Hufe eines Ponys ausschneiden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1dreimal im Jahr	
+Antwort_2=0jeden Monat	
+Antwort_3=0einmal im Jahr	
+Antwort_4=0wöchentlich	
+
+[19]
+FZ1=
+FZ2=An welchem Mangel leiden viele Freizeit -  und Wochenendpferde ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Bewegungsmangel	
+Antwort_2=0Salzmangel	
+Antwort_3=0Schlafmangel	
+Antwort_4=0Kalziummangel	
+
+[20]
+FZ1=
+FZ2=Wie lange muss Heu gelagert werden, bevor es verfüttert werden darf ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 8 Wochen	
+Antwort_2=0ca. 18 Wochen	
+Antwort_3=0ca. 2 Wochen	
+Antwort_4=0ca. 80 Wochen	
+
+[21]
+FZ1=
+FZ2=Welche Temperatur sollte in einem Stall herrschen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=110°C - 12 °C	
+Antwort_2=018°C - 20 °C	
+Antwort_3=014°C - 16 °C	
+Antwort_4=022°C - 24 °C	
+
+[22]
+FZ1=
+FZ2=Wie nennt man das Aufrichten eines Hengstes, der seine Rangordnung verteidigt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Steigen	
+Antwort_2=0Drohen	
+Antwort_3=0Richten	
+Antwort_4=0Bäumen	
+
+[23]
+FZ1=
+FZ2=Wie nennt man die Verhaltenstörung, bei der das Pferd
+FZ3= regelmäßig Luft herunterschluckt ?
+Min=500000
+Max=500000
+Antwort_1=1Koppen	
+Antwort_2=0Schoppen	
+Antwort_3=0Foppen	
+Antwort_4=0Doppen	
+
+[24]
+FZ1=
+FZ2=Welches Gerät benutzt man, um das Fett aus dem Fell zu bürsten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kardätsche	
+Antwort_2=0Karawane	
+Antwort_3=0Kartusche	
+Antwort_4=0Karmuffel	
+
+[25]
+FZ1=
+FZ2=Was sollte nach jedem Ritt gereinigt werden ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Gebiss	
+Antwort_2=0Zügel	
+Antwort_3=0Sattel	
+Antwort_4=0Schweif	
+
+[26]
+FZ1=
+FZ2=Wie oft müssen die Hufe eines Pferdes gereinigt werden ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1täglich	
+Antwort_2=0monatlich	
+Antwort_3=0wöchentlich	
+Antwort_4=0jährlich	
+
+[27]
+FZ1=
+FZ2=Wie nennt man den Gang der zwischen den Pferdeboxen durch einen Stall führt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Stallgasse	
+Antwort_2=0Stallweg	
+Antwort_3=0Stallpfad	
+Antwort_4=0Stallgang	
+
+[28]
+FZ1=
+FZ2=In welchem Raum lagert man Sättel, Zäume und Geschirr ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in der Sattelkammer	
+Antwort_2=0im Reiterstübchen	
+Antwort_3=0in der Pferdebox	
+Antwort_4=0im Geschirrschrank	
+
+[29]
+FZ1=
+FZ2=Wer hat im 16. Jahrhundert die ersten Pferde nach Amerika gebracht ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Spanier	
+Antwort_2=0Portugiesen	
+Antwort_3=0Engländer	
+Antwort_4=0Holländer	
+
+[30]
+FZ1=
+FZ2=Welche Sattelart hat einen Knauf, an dem ein Lasso befestigt werden kann ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Westernsattel	
+Antwort_2=0Nordensattel	
+Antwort_3=0Ostsattel	
+Antwort_4=0Südensattel	
+
+[31]
+FZ1=
+FZ2=Gibt es bei den Pferden auch einen Zahnwechsel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ja, zwischen dem 2. und 4. Lebensjahr	
+Antwort_2=0ja, aber nur bei den Hengsten	
+Antwort_3=0ja, sogar zweimal	
+Antwort_4=0nein	
+
+[32]
+FZ1=
+FZ2=Wie lange dauert die Ausbildung zum Pferdewirt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=13 Jahre	
+Antwort_2=04 Jahre	
+Antwort_3=02 Jahre	
+Antwort_4=05 Jahre	
+
+[33]
+FZ1=
+FZ2=Wie viele Pferde gibt es ungefähr in Deutschland ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1600.000	
+Antwort_2=0200.000	
+Antwort_3=0400.000	
+Antwort_4=0800.000	
+
+[34]
+FZ1=
+FZ2=Wie heißt das Pferd von Kara Ben Nemsi ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Rih	
+Antwort_2=0Artax	
+Antwort_3=0Iltschi	
+Antwort_4=0Hatatittla	
+
+[35]
+FZ1=
+FZ2=Neben weißen gibt es auch fast schwarze Schimmel. Wie werden sie genannt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Rappschimmel	
+Antwort_2=0Darkschimmel	
+Antwort_3=0Blackschimmel	
+Antwort_4=0Nightschimmel	
+
+[36]
+FZ1=
+FZ2=Wie nennt man den Kopf, die Vorderbeine und die Brust eines Pferdes ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Vorhand
+Antwort_2=0Vorbein
+Antwort_3=0Rückhand
+Antwort_4=0Vorschulter
+
+[37]
+FZ1=
+FZ2=Wie heißen die verwilderten Pferde Nordamerikas ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Mustangs
+Antwort_2=0Lippizaner
+Antwort_3=0Pintos
+Antwort_4=0Trakehner
+
+[38]
+FZ1=
+FZ2=Wie heißt das Pferd von Atreju aus der "Unendlichen Geschichte",
+FZ3=auf dem er losreitet, um Phantasien zu retten ?
+Min=4000
+Max=64000
+Antwort_1=1Artax
+Antwort_2=0Sting Ray
+Antwort_3=0Fury
+Antwort_4=0Rih
+
+[39]
+FZ1=
+FZ2=Wie nennt man ein ganz junges Pferd ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Fohlen
+Antwort_2=0Welpe
+Antwort_3=0Kalb
+Antwort_4=0Frischling
+
+[40]
+FZ1=
+FZ2=Wie heißt Winnetous Pferd ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Iltschi
+Antwort_2=0Jolly Jumper
+Antwort_3=0Hatschi
+Antwort_4=0Son Goku
+
+[41]
+FZ1=
+FZ2=Wie viele Pferde gibt es schätzungsweise auf der Erde ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 70 Millionen
+Antwort_2=0ca. 100 Millionen
+Antwort_3=0ca. 30 Millionen
+Antwort_4=0ca. 70 Milliarden
+
+[42]
+FZ1=
+FZ2=Wie nennt man das kleine Abzeichen, das manche Pferde
+FZ3=zwischen den Augen tragen ?
+Min=4000
+Max=4000
+Antwort_1=1Flocke	
+Antwort_2=0Pünktchen	
+Antwort_3=0Krümel	
+Antwort_4=0Fleck	
+
+[43]
+FZ1=
+FZ2=Wie nennt man die Nasenöffnungen des Pferdes ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Nüstern
+Antwort_2=0Küster
+Antwort_3=0Lüster
+Antwort_4=0Pfüstern
+
+[44]
+FZ1=
+FZ2=Wie heißt das Pferd von Pippi Langstrumpf ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kleiner Onkel
+Antwort_2=0Kleine Tante
+Antwort_3=0Großer Onkel
+Antwort_4=0Große Tante
+
+[45]
+FZ1=
+FZ2=Wie werden Zebras auch genannt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Tigerpferde
+Antwort_2=0Schwarz - weiß - Pferde
+Antwort_3=0Streifenpferde
+Antwort_4=0Ringelpferde
+
+[46]
+FZ1=
+FZ2=Wie viele weiße Hufe soll ein Pferd nach einer alten Regel besitzen,
+FZ3=um besonders gut zu sein ?
+Min=32000
+Max=250000
+Antwort_1=11
+Antwort_2=03
+Antwort_3=02
+Antwort_4=04
+
+[47]
+FZ1=
+FZ2=Was sollte man gerade noch fühlen, wenn ein Pferd nicht zu dick ist ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1die Rippen
+Antwort_2=0das Brustbein
+Antwort_3=0den Widerrist
+Antwort_4=0die Wirbelsäule
+
+[48]
+FZ1=
+FZ2=Durch Streicheln welches Körperteils kann man ein Pferd normalerweise
+FZ3=am schnellsten beruhigen ?
+Min=2000
+Max=32000
+Antwort_1=1durch das Streicheln des Ohres
+Antwort_2=0durch das Streicheln des Schweifes
+Antwort_3=0durch das Streicheln des Halses
+Antwort_4=0durch das Streicheln des Vorderbeines
+
+[49]
+FZ1=
+FZ2=Wer prüft das Pferd, ob es für den anstrengenden Querfeldeinritt
+FZ3=mit Rennstrecke überhaupt geeignet ist ?
+Min=1000
+Max=16000
+Antwort_1=1der Tierarzt
+Antwort_2=0der Reiter
+Antwort_3=0der Trainer
+Antwort_4=0der Starter
+
+[50]
+FZ1=
+FZ2=Wie viele Fehlerpunkte gibt es für einen Abwurf bei einem Springturnier ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=14
+Antwort_2=02
+Antwort_3=03
+Antwort_4=01
+
+[51]
+FZ1=
+FZ2=Wie nennt man zwei oder drei Hindernisse nacheinander,
+FZ3=die recht nah zusammenstehen ?
+Min=2000
+Max=32000
+Antwort_1=1Kombination
+Antwort_2=0Nation
+Antwort_3=0Option
+Antwort_4=0Kumulation
+
+[52]
+FZ1=
+FZ2=Wie nennt man die Endausscheidung bei einem Turnier,
+FZ3=wenn es mehrere Nullfehlerritte gegeben hat ?
+Min=1000
+Max=8000
+Antwort_1=1Stechen	
+Antwort_2=0Schlagen	
+Antwort_3=0Hauen	
+Antwort_4=0Ringen	
+
+[53]
+FZ1=
+FZ2=Was passiert, wenn ein Pferd dreimal ein Hindernis verweigert ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Pferd und Reiter werden disqualifiziert.
+Antwort_2=0Der Reiter muss absteigen und das	Pferd muss alleine über das Hindernis	springen.
+Antwort_3=0Pferd und Reiter müssen von vorne	beginnen.
+Antwort_4=0Der Reiter muss drei Strafrunden reiten.
+
+[54]
+FZ1=
+FZ2=Wie nennt man Bodenricks noch ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Cavaletti
+Antwort_2=0Tortelini
+Antwort_3=0Canneloni
+Antwort_4=0Makkaroni
+
+[55]
+FZ1=
+FZ2=An welchen niedrigen Hindernissen schult man Springpferde und auch Springreiter ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1am Bodenrick
+Antwort_2=0am Wassergraben
+Antwort_3=0am Doppeloxer
+Antwort_4=0am Luftgatter
+
+[56]
+FZ1=
+FZ2=Wie nennt man es, wenn ein Pferd in der hohen Kunst der Dressur absichtlich
+FZ3=zum Steigen gebracht wird ?
+Min=16000
+Max=250000
+Antwort_1=1Levade
+Antwort_2=0Rochade
+Antwort_3=0Panade
+Antwort_4=0Palisade
+
+[57]
+FZ1=
+FZ2=Wie nennt man die Zäumung, die eine zusätzliche Gebissstange hat, folglich zwei
+FZ3=Zügel, und die erst erfahrene Reiter in die Hand nehmen dürfen ?
+Min=4000
+Max=64000
+Antwort_1=1Kandare
+Antwort_2=0Kormoran
+Antwort_3=0Kanaille
+Antwort_4=0Kapitel
+
+[58]
+FZ1=
+FZ2=Wie viele Schritte sollte das Pferd beim Rückwärtsgehen höchstens gehen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=16
+Antwort_2=08
+Antwort_3=04
+Antwort_4=010
+
+[59]
+FZ1=
+FZ2=Mit wie viel Schritt Durchmesser wird eine Kehrtwendung geritten ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=16
+Antwort_2=04
+Antwort_3=03
+Antwort_4=05
+
+[60]
+FZ1=
+FZ2=Warum nimmt man beim Reiten in der Halle die Gerte in die "innere" Hand ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1um den inneren Schenkel, der meist der	treibende ist, unterstützen zu können
+Antwort_2=0damit das Pferd die Gerte besser sehen	kann
+Antwort_3=0um damit nicht an der Bande	entlangzustreifen
+Antwort_4=0damit das Pferd die Gerte nicht sehen	kann
+
+[61]
+FZ1=
+FZ2=Welcher Tag ist der klassische "Stehtag" in Reitbetrieben ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Montag
+Antwort_2=0Samstag
+Antwort_3=0Sonntag
+Antwort_4=0Mittwoch
+
+[62]
+FZ1=
+FZ2=Wie viele Schritt Durchmesser hat eine Volte ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=16	
+Antwort_2=010	
+Antwort_3=08	
+Antwort_4=012	
+
+[63]
+FZ1=
+FZ2=Was ist  k e i n  Gangmaß beim Galopp ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ruhiger Galopp
+Antwort_2=0Mittelgalopp
+Antwort_3=0Arbeitsgalopp
+Antwort_4=0starker Galopp
+
+[64]
+FZ1=
+FZ2=Wie viele Gangmaße gibt es beim Galopp ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=14
+Antwort_2=02
+Antwort_3=03
+Antwort_4=05
+
+[65]
+FZ1=
+FZ2=In welchem Takt springt das Pferd, wenn es galoppiert ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1im Dreitakt
+Antwort_2=0im Zweitakt
+Antwort_3=0im Dreivierteltakt
+Antwort_4=0im Vierteltakt
+
+[66]
+FZ1=
+FZ2=Wie nennt man es in der Fachsprache, wenn man das Pferd von einer schnelleren
+FZ3=in eine langsamere Gangart zurückführt ?
+Min=16000
+Max=125000
+Antwort_1=1das Pferd durchparieren
+Antwort_2=0das Pferd beruhigen
+Antwort_3=0das Pferd bremsen
+Antwort_4=0das Pferd stoppen
+
+[67]
+FZ1=
+FZ2=Wie heißt die wichtigste Hilfe beim Reiten ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Gewichtshilfe
+Antwort_2=0Sporenhilfe
+Antwort_3=0Zügelhilfe
+Antwort_4=0Peitschenhilfe
+
+[68]
+FZ1=
+FZ2=Wie heißt die Hilfe, die das Pferd zum Stehen bringt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ganze Parade
+Antwort_2=0Versammlung
+Antwort_3=0halbe Parade
+Antwort_4=0Stillstand
+
+[69]
+FZ1=
+FZ2=Wie heißt der Reitstock, mit dem der Reiter dem Pferd Hilfen geben kann ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Gerte
+Antwort_2=0Stange
+Antwort_3=0Stöckchen
+Antwort_4=0Merte
+
+[70]
+FZ1=
+FZ2=Wie nennt man das Traben, wenn der Reiter nicht jeden Tritt aussitzt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Leichttraben
+Antwort_2=0Schwertraben
+Antwort_3=0Mitteltraben
+Antwort_4=0Austraben
+
+[71]
+FZ1=
+FZ2=Was macht der Reiter, sobald er korrekt auf dem Pferderücken sitzt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Er nimmt die Zügel auf.
+Antwort_2=0Er pfeift laut los.
+Antwort_3=0Er ruft: "Hü hott!"
+Antwort_4=0Er tritt das Pferd mit den Hacken.
+
+[72]
+FZ1=
+FZ2=Wie nennt man das Metallteil im Maul des Pferdes, an dem die Zügel befestigt sind ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Gebiss	
+Antwort_2=0Krone	
+Antwort_3=0Kiefer	
+Antwort_4=0Welle	
+
+[73]
+FZ1=
+FZ2=Welche Körperteile sollte man beim Reiten immer schützen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Fußknöchel und Kopf
+Antwort_2=0Gesäß und Knie
+Antwort_3=0Ellbogen und Finger
+Antwort_4=0Schulter und Rücken
+
+[74]
+FZ1=
+FZ2=Wie heißen die Metallteile, mit deren Hilfe man in den Sattel steigt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Steigbügel
+Antwort_2=0Steigtreppen
+Antwort_3=0Steigleitern
+Antwort_4=0Steigstäbe
+
+[75]
+FZ1=
+FZ2=Wie nennt man eine Satteldecke, die meist eine viereckige Form hat
+FZ3=und viel größer ist als der Sattel selbst ?
+Min=4000
+Max=64000
+Antwort_1=1Schabracke
+Antwort_2=0Barkasse
+Antwort_3=0Baracke
+Antwort_4=0Schabernack
+
+[76]
+FZ1=
+FZ2=Wann bekommt ein Pferd Bandagen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1wenn es vor Verletzungen geschützt	werden soll
+Antwort_2=0vor jeder Mahlzeit
+Antwort_3=0nach dem Ausritt
+Antwort_4=0wenn es zu dicke Beine hat
+
+[77]
+FZ1=
+FZ2=Wie nennt man den Unterstand eines Pferdes im Stall,
+FZ3=in dem es sich frei bewegen kann ?
+Min=1000
+Max=16000
+Antwort_1=1Box
+Antwort_2=0Bau
+Antwort_3=0Garage
+Antwort_4=0Raufe
+
+[78]
+FZ1=
+FZ2=Wie heißt die Krankheit der Pferde, bei der sie Bauchkrämpfe und Blähungen quälen
+FZ3=und an der sie ohne Hilfe sogar sterben können ?
+Min=64000
+Max=250000
+Antwort_1=1Kolik
+Antwort_2=0Epistek
+Antwort_3=0Druse
+Antwort_4=0Mergel
+
+[79]
+FZ1=
+FZ2=Wie nennt man einen Hautausschlag, der entweder durch Schmutz und Feuchtigkeit
+FZ3=oder durch zu eiweißhaltiges Futter entsteht ?
+Min=250000
+Max=500000
+Antwort_1=1Mauke
+Antwort_2=0Gauke
+Antwort_3=0Frauke
+Antwort_4=0Rauke
+
+[80]
+FZ1=
+FZ2=Wie viele Tage benötigt ein Fohlen nach der Geburt, um laufen zu können ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1weniger als 1 Tag
+Antwort_2=03 - 5 Tage
+Antwort_3=02 - 3 Tage
+Antwort_4=07 - 12 Tage
+
+[81]
+FZ1=
+FZ2=Wie lange dauert die Trächtigkeit der Stute, bis ein Fohlen geboren wird ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 11 Monate
+Antwort_2=0ca. 15 Monate
+Antwort_3=0ca. 7 Monate
+Antwort_4=0ca. 19 Monate
+
+[82]
+FZ1=
+FZ2=Wie nennt man die Fehler eines Pferdes, also Krankheiten oder extreme
+FZ3=Verhaltensstörungen, die einen Kauf wieder rückgängig machen können ?
+Min=16000
+Max=125000
+Antwort_1=1Hauptmängel	
+Antwort_2=0Supermängel	
+Antwort_3=0Maximalmängel	
+Antwort_4=0Turbomängel	
+
+[83]
+FZ1=
+FZ2=Wo befinden sich die "Kastanien" bei den Pferden ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1an den Beinen
+Antwort_2=0am Schweif
+Antwort_3=0hinter den Ohren
+Antwort_4=0über den Augen
+
+[84]
+FZ1=
+FZ2=Wie nennt man die zurückgebildeten Zehen des Pferdes, die vor unendlich langer
+FZ3=Zeit den Pferden zum Laufen dienten ?
+Min=32000
+Max=125000
+Antwort_1=1Kastanien
+Antwort_2=0Linsen
+Antwort_3=0Eicheln
+Antwort_4=0Erbsen
+
+[85]
+FZ1=
+FZ2=Wie nennt man das Auszupfen von langen Mähnen -  oder Schweifhaaren ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Verziehen
+Antwort_2=0Aufziehen
+Antwort_3=0Abziehen
+Antwort_4=0Wegziehen
+
+[86]
+FZ1=
+FZ2=Was sollte man machen, wenn man sich einem Pferd von hinten nähert ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1es ruhig ansprechen
+Antwort_2=0laut singen
+Antwort_3=0auf keinen Fall sprechen
+Antwort_4=0dreimal kräftig pfeifen
+
+[87]
+FZ1=
+FZ2=Wo geht man, wenn man ein Pferd am Halfter führt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1links auf Schulterhöhe des Pferdes
+Antwort_2=0hinterher
+Antwort_3=0voraus
+Antwort_4=0abwechselnd immer um das Pferd	herum
+
+[88]
+FZ1=
+FZ2=Wenn man ein Pferd anbinden will, nimmt man am besten einen Strick mit einem
+FZ3=bestimmten Haken daran. Wie heißt dieser Haken ?
+Min=8000
+Max=125000
+Antwort_1=1Panikhaken
+Antwort_2=0Fluchthaken
+Antwort_3=0Pferdehaken
+Antwort_4=0Standhaken
+
+[89]
+FZ1=
+FZ2=Wie oft am Tage braucht ein Pferd seine Futterration,
+FZ3=wenn es im Stall untergebracht ist ?
+Min=2000
+Max=32000
+Antwort_1=1dreimal
+Antwort_2=0viermal
+Antwort_3=0zweimal
+Antwort_4=0einmal
+
+[90]
+FZ1=
+FZ2=Was bedeutet es, wenn ein Pferd seine Ohren ganz eng nach hinten
+FZ3=an den Kopf anlegt ?
+Min=1000
+Max=8000
+Antwort_1=1Das Pferd ist unwillig.
+Antwort_2=0Das Pferd möchte spielen.
+Antwort_3=0Das Pferd ist müde.
+Antwort_4=0Das Pferd freut sich.
+
+[91]
+FZ1=
+FZ2=Welche gesunden Naschereien kann man einem Pferd öfter einmal zustecken ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Äpfel und Karotten
+Antwort_2=0Hustenbonbons
+Antwort_3=0Zuckerstückchen
+Antwort_4=0Honig
+
+[92]
+FZ1=
+FZ2=Was sollte man bei einem Pferd vor und nach jedem Ritt unbedingt kontrollieren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die Hufe	
+Antwort_2=0die Ohren	
+Antwort_3=0die Augen	
+Antwort_4=0die Zähne	
+
+[93]
+FZ1=
+FZ2=Wie hoch ist die Temperatur eines gesunden Pferdes ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=137,5°C bis 38,2°C
+Antwort_2=030,4°C bis 36,9°C
+Antwort_3=027,5°C bis 32,5°C
+Antwort_4=041,4°C bis 48,2°C
+
+[94]
+FZ1=
+FZ2=Wie verhält sich ein Pferd, wenn es erschrickt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Es flieht.
+Antwort_2=0Es fällt um.
+Antwort_3=0Es greift an.
+Antwort_4=0Es erstarrt.
+
+[95]
+FZ1=
+FZ2=Wie nennt man das Gerät, um das nasse Pferdefell etwas abzutrocknen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schweißmesser
+Antwort_2=0Schweißkelle
+Antwort_3=0Schweißlöffel
+Antwort_4=0Schweißgabel
+
+[96]
+FZ1=
+FZ2=Wie wird es genannt, wenn man die Schweifhaare des Pferdes
+FZ3=einzeln mit der Hand entwirrt ?
+Min=1000
+Max=16000
+Antwort_1=1Schweifhaare verlesen
+Antwort_2=0Schweifhaare vermalen
+Antwort_3=0Schweifhaare verrechnen
+Antwort_4=0Schweifhaare verschreiben
+
+[97]
+FZ1=
+FZ2=In welcher Farbe ist der Achal Tekkiner am begehrtesten ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1in Gold
+Antwort_2=0in Braun
+Antwort_3=0in Weiß
+Antwort_4=0in Schwarz
+
+[98]
+FZ1=
+FZ2=Wie nennt man die verschiedenen Register, in die reinrassige Pferde
+FZ3=eingetragen werden ?
+Min=8000
+Max=125000
+Antwort_1=1Stutbücher
+Antwort_2=0Fohlenbücher
+Antwort_3=0Hengstbücher
+Antwort_4=0Pferdebücher
+
+[99]
+FZ1=
+FZ2=Was ist beim südamerikanischen Pasopferd am auffälligsten ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1seine bequeme Gangart
+Antwort_2=0seine stolze Wildheit
+Antwort_3=0seine überdurchschnittliche Größe
+Antwort_4=0seine Sturheit
+
+[100]
+FZ1=
+FZ2=Aus welchem Land stammt der Berber ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Marokko
+Antwort_2=0Algerien
+Antwort_3=0Ägypten
+Antwort_4=0Tunesien
+
+[101]
+FZ1=
+FZ2=Was muss beim "Braunen" alles braun sein ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1nur das Deckhaar
+Antwort_2=0Deckhaar, Mähne, Schweif und Hufe
+Antwort_3=0Deckhaar, Mähne und Schweif
+Antwort_4=0alles
+
+[102]
+FZ1=
+FZ2=Woher stammt der Orlow - Traber ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Russland	
+Antwort_2=0Bulgarien	
+Antwort_3=0Polen	
+Antwort_4=0Rumänien	
+
+[103]
+FZ1=
+FZ2=Bei welcher Pferderasse sind Zeichnungen wie "Leopardenbunt", "Schneeflocke"
+FZ3=oder "Deckenbunt" erwünscht ?
+Min=32000
+Max=250000
+Antwort_1=1bei den Appaloosas
+Antwort_2=0bei den Holsteinern
+Antwort_3=0bei den Lippizanern
+Antwort_4=0bei den Pintos
+
+[104]
+FZ1=
+FZ2=Wie heißt die Pferderasse aus Portugal,
+FZ3=die den Stierkämpfer in die Arena begleitet ?
+Min=125000
+Max=500000
+Antwort_1=1Lusitaner
+Antwort_2=0Pinto
+Antwort_3=0Appaloosa
+Antwort_4=0Altér Real
+
+[105]
+FZ1=
+FZ2=Welches Pferderasse bringt die schnellsten Pferde der Welt hervor ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1das Englische Vollblut
+Antwort_2=0die Haflinger
+Antwort_3=0das Russische Kaltblut
+Antwort_4=0die Trakehner
+
+[106]
+FZ1=
+FZ2=Ab welchem Alter können sich Pferde nicht mehr fortpflanzen und sind deshalb zur
+FZ3=Zucht nicht mehr geeignet ?
+Min=8000
+Max=125000
+Antwort_1=1Nie, sowohl Stuten als auch Hengste	können sich ihr ganzes Leben lang	fortpflanzen.
+Antwort_2=0ab ca. 18 Jahre
+Antwort_3=0ab ca. 15 Jahre
+Antwort_4=0ab ca. 26 Jahre
+
+[107]
+FZ1=
+FZ2=Welche amerikanische Pferderasse wurde gezüchtet,
+FZ3=um kurze Rennen zu bestreiten ?
+Min=8000
+Max=125000
+Antwort_1=1das Quarter Horse
+Antwort_2=0der Hunter
+Antwort_3=0der Mustang
+Antwort_4=0der Morgan
+
+[108]
+FZ1=
+FZ2=Wie lautet die andere Bezeichnung für Warmblut ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Halbblut
+Antwort_2=0Haltblut
+Antwort_3=0Faltblut
+Antwort_4=0Handblut
+
+[109]
+FZ1=
+FZ2=Wie groß wird das Falabella - Pony, das kleinste Pferd der Welt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1bis zu 72 cm
+Antwort_2=0bis zu 92 cm
+Antwort_3=0bis zu 52 cm
+Antwort_4=0bis zu 112 cm
+
+[110]
+FZ1=
+FZ2=Wie heißt die größte heute lebende Pferderasse ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Shire - Horse
+Antwort_2=0Noriker
+Antwort_3=0Wire - Horse
+Antwort_4=0Russisches Kaltblut
+
+[111]
+FZ1=
+FZ2=Wie nennt man den nach oben gewölbten Nasenrücken eines Pferdes ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Ramsnase
+Antwort_2=0Gamsnase
+Antwort_3=0Bamsnase
+Antwort_4=0Wamsnase
+
+[112]
+FZ1=
+FZ2=Wie nennt man Pferde mit einem gefleckten Fell ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Knabstrupper	
+Antwort_2=0Knebstübber	
+Antwort_3=0Knibstopper	
+Antwort_4=0Knobstipper	
+
+[113]
+FZ1=
+FZ2=Woher stammt der Haflinger ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Italien
+Antwort_2=0Belgien
+Antwort_3=0Norwegen
+Antwort_4=0Frankreich
+
+[114]
+FZ1=
+FZ2=Welche Pferderasse gibt es  n i c h t  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Dortmunder
+Antwort_2=0Oldenburger
+Antwort_3=0Hannoveraner
+Antwort_4=0Trakehner
+
+[115]
+FZ1=
+FZ2=Welche Farbe haben Camargue - Pferde am häufigsten ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1weiß
+Antwort_2=0schwarz
+Antwort_3=0braun
+Antwort_4=0grau
+
+[116]
+FZ1=
+FZ2=Wie nennt man eine Art Bürste zum Putzen des Pferdes ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Kardätsche
+Antwort_2=0Kartoffel
+Antwort_3=0Kartusche
+Antwort_4=0Kardanwelle
+
+[117]
+FZ1=
+FZ2=Was ist ein Woilach ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1die Satteldecke
+Antwort_2=0ein kastriertes Pferd
+Antwort_3=0ein erfahrener Pferdeknecht
+Antwort_4=0ein sehr langes Hindernisrennen
+
+[118]
+FZ1=
+FZ2=Wie nennt man die Satteldecke ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Woilach
+Antwort_2=0Voillant
+Antwort_3=0Wallach
+Antwort_4=0Vauxhall
+
+[119]
+FZ1=
+FZ2=Wie heißt das Rennpferd, das die meisten Aussichten auf den Sieg hat ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Favorit
+Antwort_2=0Star
+Antwort_3=0Aspirant
+Antwort_4=0Debütant
+
+[120]
+FZ1=
+FZ2=Was bedeutet es, wenn ein Pferd heftig mit dem Schweif schlägt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Ängstlickeit und Unwohlsein
+Antwort_2=0Freude und Ausgelassenheit
+Antwort_3=0Imponiergehabe
+Antwort_4=0Wut und Boshaftigkeit
+
+[121]
+FZ1=
+FZ2=Wie nennt man den Probegalopp, der vor einem Rennen an den Zuschauertribünen
+FZ3=vorbei durchgeführt wird ?
+Min=4000
+Max=64000
+Antwort_1=1Aufgalopp
+Antwort_2=0Durchgalopp
+Antwort_3=0Abgalopp
+Antwort_4=0Weggalopp
+
+[122]
+FZ1=
+FZ2=Wie nennt man ein Zweigespann, bei dem die Pferde nicht nebeneinander,
+FZ3=sondern hintereinander gespannt sind ?
+Min=8000
+Max=250000
+Antwort_1=1Tandem	
+Antwort_2=0Duo	
+Antwort_3=0Duett	
+Antwort_4=0Zwilling	
+
+[123]
+FZ1=
+FZ2=Was ist ein Handpferd ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1das in einem Zweigespann rechts	gehende Pferd
+Antwort_2=0ein Pferd, das vor den Pflug gespannt	wird
+Antwort_3=0ein zahmes Pferd,	das aus der Hand frisst
+Antwort_4=0ein gezähmtes Wildpferd
+
+[124]
+FZ1=
+FZ2=Wie nennt man das Pferd, das bei einem Zweigespann rechts geht ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Handpferd
+Antwort_2=0Kopfpferd
+Antwort_3=0Fußpferd
+Antwort_4=0Halspferd
+
+[125]
+FZ1=
+FZ2=Wie nennt man den schwarzbraunen Sirup, der bei der Zuckergewinnung
+FZ3=zurückbleibt und der als Pferdefutter dient ?
+Min=8000
+Max=125000
+Antwort_1=1Melasse
+Antwort_2=0Melange
+Antwort_3=0Melone
+Antwort_4=0Metro
+
+[126]
+FZ1=
+FZ2=Was ist der Behang ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Behaarung an den Gliedmaßen	eines Pferdes
+Antwort_2=0die letzten, dünnen Haare der Mähne
+Antwort_3=0der festliche Schmuck an Zügeln und	Sattel
+Antwort_4=0die dicken, zottigen Schweifhaare
+
+[127]
+FZ1=
+FZ2=Was bedeutet es, wenn ein Pferd die Ohren nach vorne spitzt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Freundlichkeit, Neugier, Vertrauen,	Aufmerksamkeit
+Antwort_2=0Aggressivität, Feindlichkeit,	Boshaftigkeit
+Antwort_3=0Ängstlichkeit, Schüchternheit
+Antwort_4=0Müdigkeit
+
+[128]
+FZ1=
+FZ2=Wie heißt das griechische Fabelwesen mit dem Oberkörper eines Menschen
+FZ3=und dem Leib eines Pferdes ?
+Min=2000
+Max=32000
+Antwort_1=1Zentaur
+Antwort_2=0Zyklop
+Antwort_3=0Medusa
+Antwort_4=0Sphinx
+
+[129]
+FZ1=
+FZ2=Wie nennt man die berittenen südamerikanischen Viehhirten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Gauchos
+Antwort_2=0Caballeros
+Antwort_3=0Cowboys
+Antwort_4=0Toreros
+
+[130]
+FZ1=
+FZ2=Wie nennt man ein Zuchtrennen für dreijährige Pferde ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Derby
+Antwort_2=0Werby
+Antwort_3=0Lerby
+Antwort_4=0Rerby
+
+[131]
+FZ1=
+FZ2=Wie nennt man eine große Blesse, die sich vom Maul bis über die Augen erstreckt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Laterne
+Antwort_2=0Stern
+Antwort_3=0Schnippe
+Antwort_4=0Komet
+
+[132]
+FZ1=
+FZ2=Was bedeutet "stichelhaarig" ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1einzelne weiße Haare in dunklem Fell	
+Antwort_2=0ein besonders struppiges Fell	
+Antwort_3=0ein krankhaft dünnes Fell	
+Antwort_4=0ein Fell, in das viel Pferdefliegen	gestochen haben	
+
+[133]
+FZ1=
+FZ2=Wie heißt die wissenschaftliche Lehre vom Pferd ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Hippologie
+Antwort_2=0Hippopotamus
+Antwort_3=0Hippokrates
+Antwort_4=0Hippoholos
+
+[134]
+FZ1=
+FZ2=Wie nennt man ein fleischfarbenes Maul ohne Farbpigmente ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Krötenmaul
+Antwort_2=0Honigmaul
+Antwort_3=0Schweineschnauze
+Antwort_4=0Bleichschnute
+
+[135]
+FZ1=
+FZ2=Was bedeutet es, wenn ein Pferd als "durchgeritten" bezeichnet wird ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Das Pferd ist absolut gehorsam und	reagiert richtig auf die Hilfen	des Reiters.
+Antwort_2=0Das Pferd hat vom vielen Reiten einen	krummen Rücken.
+Antwort_3=0Das Pferd ist nach einem langen Ritt	erschöpft und nicht mehr in der Lage,	auf die Hilfen des Reiters zu hören.
+Antwort_4=0Das Pferd hat seinen Reiter abgeworfen	und ist auf und davon geritten.
+
+[136]
+FZ1=
+FZ2=Wie nennt man eine Reitbahn, die heute oft mit Musik
+FZ3=und Restaurant betrieben wird ?
+Min=16000
+Max=125000
+Antwort_1=1Hippodrom
+Antwort_2=0Hippogolf
+Antwort_3=0Hippodrama
+Antwort_4=0Hipponotes
+
+[137]
+FZ1=
+FZ2=Was ist ein Pferdebock ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1eine zu den Säbelantilopen gehörende	Antilopenart
+Antwort_2=0ein Pferd, das gut Bocksprünge machen	kann
+Antwort_3=0ein männliches Pferd
+Antwort_4=0ein männliches Seepferdchen
+
+[138]
+FZ1=
+FZ2=Echte Schimmel werden dunkel geboren. Wo beginnt meistens die Umfärbung ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1am Kopf
+Antwort_2=0am Schweif
+Antwort_3=0an den Hufen
+Antwort_4=0am Bauch
+
+[139]
+FZ1=
+FZ2=Mit wie vielen Jahren sind echte Schimmel komplett weiß ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1mit ca. 10 Jahren
+Antwort_2=0mit ca. 7 Jahren
+Antwort_3=0mit ca. 3 Jahren
+Antwort_4=0mit ca. 15 Jahren
+
+[140]
+FZ1=
+FZ2=Wie nennt man den schwebenden, langsamen Trab, auch Spanischer Tritt genannt,
+FZ3=der in Dressurprüfungen der Hohen Schule gezeigt wird ?
+Min=16000
+Max=250000
+Antwort_1=1Passage
+Antwort_2=0Visage
+Antwort_3=0Blamage
+Antwort_4=0Drenage
+
+[141]
+FZ1=
+FZ2=Was ist ein Heupferd ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1eine grüne Laubheuschrecke
+Antwort_2=0ein Pferd, das nur im Heu schläft
+Antwort_3=0ein Pferd, das nur Heu frisst
+Antwort_4=0ein vertrocknetes Seepferdchen
+
+[142]
+FZ1=
+FZ2=Wie nennt man den hinteren Teil des Pferderückens ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Kruppe	
+Antwort_2=0Kappe	
+Antwort_3=0Kuppe	
+Antwort_4=0Krappe	
+
+[143]
+FZ1=
+FZ2=Was ist eine Kruppe ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1gewöhnliches Pferdefutter
+Antwort_2=0der hintere Teil des Pferderückens
+Antwort_3=0der Trog für das Pferdefutter
+Antwort_4=0der vordere Teil des Pferderückens
+
+[144]
+FZ1=
+FZ2=Wie nennt man das lange Haar am hinteren Teil des Fesselgelenks ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Kötenzopf
+Antwort_2=0Flötenzopf
+Antwort_3=0Fesselmähne
+Antwort_4=0Gelenkhaar
+
+[145]
+FZ1=
+FZ2=Wie alt wird ein Pferd im Durchschnitt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=120 - 30 Jahre
+Antwort_2=030 - 40 Jahre
+Antwort_3=010 - 20 Jahre
+Antwort_4=040 - 50 Jahre
+
+[146]
+FZ1=
+FZ2=Wie nennt man es, wenn das Pferd aus einer Bewegung heraus zum Stillstand
+FZ3=gebracht wird ?
+Min=1000
+Max=8000
+Antwort_1=1parieren
+Antwort_2=0probieren
+Antwort_3=0pürieren
+Antwort_4=0fixieren
+
+[147]
+FZ1=
+FZ2=Welche westeuropäische Landschaft ist wegen ihrer wild lebenden Pferde berühmt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Camargue
+Antwort_2=0Toskana
+Antwort_3=0Bretagne
+Antwort_4=0Alpen
+
+[148]
+FZ1=
+FZ2=Was sind die beiden wichtigsten Futtermittel für Pferde ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Hafer und Heu
+Antwort_2=0Mais und Heu
+Antwort_3=0Hafer und Gerste
+Antwort_4=0Weizen und Gras
+
+[149]
+FZ1=
+FZ2=Wo leben in Deutschland noch Pferde in freier Wildbahn ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1im Merfelder Bruch bei Dülmen in	Westfalen
+Antwort_2=0im Heidekraut der Lüneburger Heide
+Antwort_3=0in den Donauwiesen in Niederbayern
+Antwort_4=0auf den Salzwiesen an der	Nordseeküste
+
+[150]
+FZ1=
+FZ2=Wie nennt man ein Pferd mit rötlichem Fell sowie rötlicher Mähne
+FZ3=und rötlichem Schweif ?
+Min=1000
+Max=8000
+Antwort_1=1Fuchs
+Antwort_2=0Dachs
+Antwort_3=0Eichhörnchen
+Antwort_4=0Marder
+
+[151]
+FZ1=Wie nennt man eine Vielseitigkeitsprüfung, bei der an drei aufeinander
+FZ2=folgenden Tagen ein Geländeritt, ein Springparcours
+FZ3=und eine Dressurprüfung zu bewältigen sind ?
+Min=4000
+Max=64000
+Antwort_1=1Military
+Antwort_2=0Dreikampf
+Antwort_3=0Hilibilly
+Antwort_4=0Triole
+
+[152]
+FZ1=
+FZ2=Wie nennt man eine Pferderasse mit getüpfeltem Fell ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Appaloosa
+Antwort_2=0Eppikosa
+Antwort_3=0Uppermusa
+Antwort_4=0Ippimena
+
+[153]
+FZ1=
+FZ2=Was ist das Appaloosa ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1eine Pferderasse mit getüpfeltem Fell
+Antwort_2=0ein nordamerikanisches Rodeo
+Antwort_3=0ein Stierkampf zu Pferde
+Antwort_4=0eine Ausdauerprüfung für Rennpferde
+
+[154]
+FZ1=
+FZ2=Wie nennt man eine paarungsbereite Stute ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1rossig
+Antwort_2=0lustig
+Antwort_3=0läufig
+Antwort_4=0brünftig
+
+[155]
+FZ1=
+FZ2=Wie nennt man die Figur aus der Hohen Schule, bei der das Pferd einen Luftsprung
+FZ3=mit gleichzeitigem Ausschlag macht ?
+Min=4000
+Max=64000
+Antwort_1=1Kapriole
+Antwort_2=0Diode
+Antwort_3=0Gladiole
+Antwort_4=0Methode
+
+[156]
+FZ1=
+FZ2=Wie nennt man die Hindernisbahn bei Turnieren und Wettkämpfen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Parcours	
+Antwort_2=0Parfüm	
+Antwort_3=0Parflait	
+Antwort_4=0Palas	
+
+[157]
+FZ1=
+FZ2=Wie nennt man das weiße Abzeichen zwischen den Nüstern des Pferdes ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Schnippe	
+Antwort_2=0Schüppe	
+Antwort_3=0Stern	
+Antwort_4=0Stich	
+
+[158]
+FZ1=
+FZ2=Welche Höchstgeschwindigkeiten können Traber erreichen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=150 km / h	
+Antwort_2=030 km / h	
+Antwort_3=040 km / h	
+Antwort_4=070 km / h	
+
+[159]
+FZ1=
+FZ2=Was diente früher als Heilmittel für kranke Pferde ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Rosskastanien
+Antwort_2=0Rosmarien
+Antwort_3=0Bucheckern
+Antwort_4=0Hagebutten
+
+[160]
+FZ1=
+FZ2=Wie nennt man ein Pferd, das nur im Sommer tiefschwarz,
+FZ3=im Winter aber braunschwarz ist ?
+Min=8000
+Max=125000
+Antwort_1=1Sommerrappe
+Antwort_2=0Wechselrappe
+Antwort_3=0Winterbrauner
+Antwort_4=0Wechselbrauner
+
+[161]
+FZ1=
+FZ2=Wie nennt man einen Trank für erschöpfte Pferde aus Hafermehl
+FZ3=und warmen Wasser ?
+Min=500000
+Max=500000
+Antwort_1=1Gruel
+Antwort_2=0Truel
+Antwort_3=0Bruel
+Antwort_4=0Druel
+
+[162]
+FZ1=
+FZ2=Wie schnell traben die besten Pferde heute 1.000 Meter ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 70 Sekunden
+Antwort_2=0ca. 90 Sekunden
+Antwort_3=0ca. 50 Sekunden
+Antwort_4=0ca. 110 Sekunden
+
+[163]
+FZ1=
+FZ2=Wie nennt man eine Kreuzung zwischen einer Pferdestute und einem Eselhengst ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Maultier
+Antwort_2=0Pony
+Antwort_3=0Maulesel
+Antwort_4=0Tapir
+
+[164]
+FZ1=
+FZ2=Wie heißt der direkte Stammvater unserer Hauspferde ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Przewalski - Pferd
+Antwort_2=0Galoppinski - Pferd
+Antwort_3=0Schimanski - Pferd
+Antwort_4=0Grzybowski - Pferd
+
+[165]
+FZ1=
+FZ2=Wie heißt der Reiter eines Pferdes bei Pferderennen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Jockey
+Antwort_2=0Jolly
+Antwort_3=0Hockey
+Antwort_4=0Page
+
+[166]
+FZ1=
+FZ2=Wie nennt man ein Pferd mit rotbraunem oder dunkelbraunem Fell sowie schwarzer
+FZ3=Mähne und schwarzem Schweif ?
+Min=1000
+Max=8000
+Antwort_1=1Brauner
+Antwort_2=0Fuchs
+Antwort_3=0Rappe
+Antwort_4=0Schimmel
+
+[167]
+FZ1=
+FZ2=Was ist der Tölt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1eine bestimmte Gangart
+Antwort_2=0eine lederne Pferdedecke
+Antwort_3=0ein zweirädriger Kutschwagen
+Antwort_4=0ein Damensattel
+
+[168]
+FZ1=
+FZ2=Was ist ein Groom ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ein Pferdeknecht
+Antwort_2=0ein Springturnier
+Antwort_3=0eine große Reithalle
+Antwort_4=0ein altes Pferd
+
+[169]
+FZ1=
+FZ2=Wie heißt der zweirädrige Wagen für Trabrennen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sulky
+Antwort_2=0Pulky
+Antwort_3=0Gulky
+Antwort_4=0Mulky
+
+[170]
+FZ1=
+FZ2=Wie nennt man die Kinnbacke des Pferdes ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Ganasche
+Antwort_2=0Kalusche
+Antwort_3=0Gamasche
+Antwort_4=0Kartusche
+
+[171]
+FZ1=
+FZ2=Wie oft werden Pferde meist vom Hufschmied beschlagen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1etwa alle sechs Wochen
+Antwort_2=0etwa alle vier Wochen
+Antwort_3=0etwa alle acht Wochen
+Antwort_4=0etwa alle zehn Wochen
+
+[172]
+FZ1=
+FZ2=Wie heißt die Figur aus der Hohen Schule, bei der das Pferd auf der Stelle "trabt",
+FZ3=also von einem diagonalen Beinpaar auf das andere tritt ?
+Min=4000
+Max=64000
+Antwort_1=1Piaffe
+Antwort_2=0Karaffe
+Antwort_3=0Diagonale
+Antwort_4=0Trabant
+
+[173]
+FZ1=
+FZ2=Wie nennt man das Grundgestell eines Sattels ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Sattelbaum
+Antwort_2=0Sattelstrauch
+Antwort_3=0Sattelbusch
+Antwort_4=0Sattelstamm
+
+[174]
+FZ1=
+FZ2=Wie nennt man die gesamte Anlage von Pferdeställen und Wagenschuppen eines
+FZ3=fürstlichen Hofes einschließlich der Pferde ?
+Min=4000
+Max=125000
+Antwort_1=1Marstall
+Antwort_2=0Borstall
+Antwort_3=0Serstall
+Antwort_4=0Turstall
+
+[175]
+FZ1=
+FZ2=Wie nennt man einen Schimmel, dessen Fell mit kleinen dunklen Flecken
+FZ3=durchsetzt ist ?
+Min=2000
+Max=32000
+Antwort_1=1Fliegenschimmel
+Antwort_2=0Tüpfchenschimmel
+Antwort_3=0Fleckenschimmel
+Antwort_4=0Pünktchenschimmel
+
+[176]
+FZ1=
+FZ2=Wie nennt man die Dressur eines Pferdes auf bestimmte Gangarten und
+FZ3=vorgeschriebene Sprünge ?
+Min=1000
+Max=16000
+Antwort_1=1Hohe Schule
+Antwort_2=0Neue Schule
+Antwort_3=0Alte Schule
+Antwort_4=0Gute Schule
+
+[177]
+FZ1=
+FZ2=Wie nennt man eine gebisslose Zäumung, die über Druck auf das Nasenbein des
+FZ3=Pferdes wirkt und in der Westernreiterei sehr verbreitet ist ?
+Min=16000
+Max=125000
+Antwort_1=1Hackamore
+Antwort_2=0Grantamore
+Antwort_3=0Baltimore
+Antwort_4=0Heckolore
+
+[178]
+FZ1=
+FZ2=Wie wird der Ansatz des Schweifes genannt ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Rübe
+Antwort_2=0Möhre
+Antwort_3=0Karotte
+Antwort_4=0Gurke
+
+[179]
+FZ1=
+FZ2=Wie nennt man ein Fohlen, das nicht mehr bei seiner Mutter trinken darf ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Absetzer
+Antwort_2=0Nichttrinker
+Antwort_3=0Aufhörer
+Antwort_4=0Selbstfresser
+
+[180]
+FZ1=
+FZ2=Wie nennt man Pferde mit einem cremefarbenen bis gelblichen Fell, weißer Mähne
+FZ3=und weißem Schweif ?
+Min=2000
+Max=32000
+Antwort_1=1Isabellen
+Antwort_2=0Mirabellen
+Antwort_3=0Libellen
+Antwort_4=0Fontanellen
+
+[181]
+FZ1=
+FZ2=Wie nennt man eine lange Laufleine, an der sich das Pferd im Kreis
+FZ3=um seinen Ausbilder bewegt ?
+Min=1000
+Max=8000
+Antwort_1=1Longe
+Antwort_2=0Lasso
+Antwort_3=0Zügel
+Antwort_4=0Seil
+
+[182]
+FZ1=
+FZ2=Wie heißt eine für Wettkämpfe ausgewählte Reitermannschaft ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Equipe
+Antwort_2=0Team
+Antwort_3=0Equipage
+Antwort_4=0Quartett
+
+[183]
+FZ1=
+FZ2=Ab wie viel Jahren werden Stuten zur Zucht zugelassen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ab ca. 3 Jahren
+Antwort_2=0ab ca. 5 Jahren
+Antwort_3=0ab ca. 4 Jahren
+Antwort_4=0ab ca. 6 Jahren
+
+[184]
+FZ1=
+FZ2=Wie nennt man eine Kreuzung aus einem Pferdehengst und einer Eselstute ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Maulesel
+Antwort_2=0Maultier
+Antwort_3=0Lama
+Antwort_4=0Tapir
+
+[185]
+FZ1=
+FZ2=Wie groß wird ein argentinisches Zwergpferd ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=150 - 70 cm
+Antwort_2=070 - 90 cm
+Antwort_3=020 - 50 cm
+Antwort_4=090 - 120 cm
+
+[186]
+FZ1=
+FZ2=Was ist ein Falabella ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ein argentinisches Zwergpferd
+Antwort_2=0ein finnisches Reitpferd
+Antwort_3=0eine Falbe mit weißer Mähne und	weißem Schweif
+Antwort_4=0eine einjährige Stute
+
+[187]
+FZ1=
+FZ2=Wie groß darf ein Pferd höchstens sein, um noch als Pony bezeichnet zu werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1148 cm
+Antwort_2=0160 cm
+Antwort_3=0123 cm
+Antwort_4=0173 cm
+
+[188]
+FZ1=
+FZ2=Wie nennt man eine für den Reiter sehr angenehme Gangart, bei der das Pferd
+FZ3=immer das Beinpaar einer Körperseite nach vorne setzt ?
+Min=1000
+Max=16000
+Antwort_1=1Passgang
+Antwort_2=0Trabgang
+Antwort_3=0Seitengang
+Antwort_4=0Schaukelgang
+
+[189]
+FZ1=
+FZ2=Wie lange dauert es, bis ein Schweifhaar nachgewachsen ist ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1zwei Jahre
+Antwort_2=0drei Jahre
+Antwort_3=0ein Jahr
+Antwort_4=0vier Jahre
+
+[190]
+FZ1=
+FZ2=Warum wälzen sich Pferde im Staub ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1um ihre Haut von Ungeziefer zu	befreien
+Antwort_2=0um ihren Pfleger zu ärgern
+Antwort_3=0aus Ausgelassenheit
+Antwort_4=0um sich zu tarnen
+
+[191]
+FZ1=
+FZ2=Wie nennt man weiße Haarstellen im Fell eines Pferdes ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Abzeichen
+Antwort_2=0Lichtung
+Antwort_3=0Flecken
+Antwort_4=0Schonung
+
+[192]
+FZ1=
+FZ2=Wie nennt man eine dunkle Linie entlang der Wirbelsäule eines Pferdes  ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Aalstrich
+Antwort_2=0Hechtstrich
+Antwort_3=0Forellenstrich
+Antwort_4=0Walstrich
+
+[193]
+FZ1=
+FZ2=Wie heißt das afrikanische Wildpferd ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Zebra
+Antwort_2=0Muli
+Antwort_3=0Pony
+Antwort_4=0Lama
+
+[194]
+FZ1=
+FZ2=Wie heißt das geflügelte Ross der griechischen Mythologie,
+FZ3=das Sinnbild der Dichter ist ?
+Min=32000
+Max=250000
+Antwort_1=1Pegasus
+Antwort_2=0Zentaur
+Antwort_3=0Phönix
+Antwort_4=0Zyklop
+
+[195]
+FZ1=Wie nennt man ein um den Pferdehals gelegten gepolsterten Bügel aus Leder oder
+FZ2=Stoff, der die Zuglast auf Brust und Schultern verteilt und die Atmung des Pferdes
+FZ3=nicht behindert ?
+Min=500000
+Max=500000
+Antwort_1=1Kummet
+Antwort_2=0Summet
+Antwort_3=0Wummet
+Antwort_4=0Lummet
+
+[196]
+FZ1=
+FZ2=Aus welchem Land stammt der Brabanter (eine Kaltblutrasse) ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Belgien
+Antwort_2=0Frankreich
+Antwort_3=0Luxemburg
+Antwort_4=0Bulgarien
+
+[197]
+FZ1=
+FZ2=Wie heißt die beliebteste Pferderasse der Cowboys ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Quarter - Horse
+Antwort_2=0Pinto
+Antwort_3=0Palomino
+Antwort_4=0Lipizzaner
+
+[198]
+FZ1=
+FZ2=Wie nannte man im Mittelalter ein elegantes, leichtes Reitpferd, das vor allem von
+FZ3=Damen und Reisenden geritten wurde ?
+Min=500000
+Max=500000
+Antwort_1=1Zelter
+Antwort_2=0Welter
+Antwort_3=0Felter
+Antwort_4=0Relter
+
+[199]
+FZ1=
+FZ2=Wie nennt man die Größe eines Pferdes ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Stockmaß
+Antwort_2=0Stabmaß
+Antwort_3=0Pferdemaß
+Antwort_4=0Stiftmaß
+
+[200]
+FZ1=
+FZ2=Welche Farbe haben die Fohlen der Andalusier, die meist Schimmel sind ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1weiß
+Antwort_2=0braun
+Antwort_3=0schwarz
+Antwort_4=0scwarz - weiß gefleckt
+
+[201]
+FZ1=
+FZ2=Welche Farbe hat das Friesenpferd ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1schwarz
+Antwort_2=0weiß
+Antwort_3=0braun
+Antwort_4=0braun - weiß
+
+[202]
+FZ1=
+FZ2=Wie viele Stunden verbringt ein im Freien lebendes Pferd täglich mit Fressen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=112 - 14 Stunden
+Antwort_2=08 - 10 Stunden
+Antwort_3=06 - 8 Stunden
+Antwort_4=010 - 12 Stunden
+
+[203]
+FZ1=
+FZ2=Was befestigt man am Zaumzeug von Zugpferden,
+FZ3=damit sie sich nicht so leicht erschrecken ?
+Min=0
+Max=1000
+Antwort_1=1Scheuklappen
+Antwort_2=0Federn
+Antwort_3=0Glöckchen
+Antwort_4=0Zuckerstangen
+
+[204]
+FZ1=
+FZ2=Wie hieß das achtbeinige graue Pferd des germanischen Gottes Odin ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Sleipnir
+Antwort_2=0Gallopa
+Antwort_3=0Walhalla
+Antwort_4=0Seimur
+
+[205]
+FZ1=
+FZ2=Aus welchem Land stammt das Connemara - Pony ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Irland
+Antwort_2=0England
+Antwort_3=0USA
+Antwort_4=0Chile
+
+[206]
+FZ1=
+FZ2=Was ist ein Kaltblut ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein sehr schwer gebautes Pferd mit	ruhigem Wesen
+Antwort_2=0ein Pferd, das sehr leicht friert
+Antwort_3=0ein sehr leicht gebautes Pferd mit	unruhigem Wesen
+Antwort_4=0eine junge Stute
+
+[207]
+FZ1=
+FZ2=Woran erkennt man das Alter eines Pferdes ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1an den Zähnen
+Antwort_2=0an den Augen
+Antwort_3=0an den Ohren
+Antwort_4=0an den Schwanzhaaren
+
+[208]
+FZ1=
+FZ2=Wie nennt man Turnübungen auf einem galoppierenden Pferd ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Voltigieren
+Antwort_2=0Tranchieren
+Antwort_3=0Multiplizieren
+Antwort_4=0Probieren
+
+[209]
+FZ1=
+FZ2=Wo wird die Größe eines Pferdes gemessen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1am Widerrist
+Antwort_2=0an den Ohren
+Antwort_3=0an der Kruppe
+Antwort_4=0am Schweif
+
+[210]
+FZ1=
+FZ2=Wie nennt man ein schwarzes Pferd ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Rappe
+Antwort_2=0Fuchs
+Antwort_3=0Schimmel
+Antwort_4=0Hengst
+
+[211]
+FZ1=
+FZ2=Für welche Arbeit wurden die Shetland - Ponys im 18. Jahrhundert oft benutzt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Grubenpferde
+Antwort_2=0Reitpferde für Kinder
+Antwort_3=0Zirkuspferde
+Antwort_4=0Kutschpferde
+
+[212]
+FZ1=
+FZ2=In welchem Alter sind die meisten Pferde ausgewachsen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1mit ca. fünf Jahren
+Antwort_2=0mit ca. sieben Jahren
+Antwort_3=0mit ca. drei Jahren
+Antwort_4=0mit ca. neun Jahren
+
+[213]
+FZ1=
+FZ2=Welche Pferderasse wurde durch die "Spanische Reitschule" in Wien weltberühmt ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Lipizzaner
+Antwort_2=0Araber
+Antwort_3=0Paparazzi
+Antwort_4=0Shetland - Pony
+
+[214]
+FZ1=
+FZ2=Was ist der Widerrist eines Pferdes ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der vordere höchste Teil des Rückens
+Antwort_2=0das Genick
+Antwort_3=0der mittlere Teil des Rückens
+Antwort_4=0der hintere höchste Teil des Rückens
+
+[215]
+FZ1=
+FZ2=Wo wurde das Pferd zuerst gezähmt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Asien
+Antwort_2=0Afrika
+Antwort_3=0Europa
+Antwort_4=0Amerika
+
+[216]
+FZ1=
+FZ2=Wie viele erwachsene Leithengste gibt es in einer Pferdeherde ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1immer nur einen
+Antwort_2=0vier
+Antwort_3=0zwei
+Antwort_4=05 - 10
+
+[217]
+FZ1=
+FZ2=Wie viele Pferderassen gibt es ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 180
+Antwort_2=0ca. 60
+Antwort_3=0ca. 120
+Antwort_4=0ca. 30
+
+[218]
+FZ1=
+FZ2=Welche Pferde sind robuster ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1kleine
+Antwort_2=0schwarze
+Antwort_3=0große
+Antwort_4=0weiße
+
+[219]
+FZ1=
+FZ2=In welchem Land lebt das Camargue - Pferd ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Frankreich
+Antwort_2=0Spanien
+Antwort_3=0Portugal
+Antwort_4=0Italien
+
+[220]
+FZ1=
+FZ2=Was ist für ein Pferd die wichtigste Verteidigungsart ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Flucht
+Antwort_2=0das Beißen
+Antwort_3=0das Ausschlagen mit den Vorderhufen
+Antwort_4=0das Ausschlagen mit den Hinterhufen
+
+[221]
+FZ1=
+FZ2=Welche Pferderasse wurde schon von den Wikingern gezüchtet ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1das Fjordpferd
+Antwort_2=0das Friesenpferd
+Antwort_3=0der Isländer
+Antwort_4=0der Holsteiner
+
+[222]
+FZ1=
+FZ2=Wie groß war das Urpferd ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1so groß wie ein Fuchs
+Antwort_2=0so groß wie ein Esel
+Antwort_3=0so groß wie ein Wolf
+Antwort_4=0so groß wie ein Büffel
+
+[223]
+FZ1=
+FZ2=Wie viel Wasser nimmt ein Pferd pro Tag auf ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=130 - 45 Liter
+Antwort_2=050 - 70 Liter
+Antwort_3=010 - 20 Liter
+Antwort_4=02 - 10 Liter
+
+[224]
+FZ1=
+FZ2=Welches waren die ersten Gespanntiere ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Ochsen
+Antwort_2=0Maultiere
+Antwort_3=0Pferde
+Antwort_4=0Kamele
+
+[225]
+FZ1=
+FZ2=Warum sollten Pferde niemals allein gehalten werden ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1weil sie Herdentiere sind
+Antwort_2=0weil sie dann nicht mehr fressen
+Antwort_3=0weil das zu teuer ist
+Antwort_4=0weil sie dann blind werden
+
+[226]
+FZ1=
+FZ2=Was ist ein Jährling ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1ein einjähriges Pferd
+Antwort_2=0ein Rennpferd, das mit einem Jahr	seinen ersten Sieg feierte
+Antwort_3=0ein Rennpferd, das bereits ein Jahr	Rennerfahrung besitzt
+Antwort_4=0ein zweijähriges Pferd
+
+[227]
+FZ1=
+FZ2=Wie nennt man einen kastrierten Hengst ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Wallach
+Antwort_2=0Gaul
+Antwort_3=0Stute
+Antwort_4=0Rappe
+
+[228]
+FZ1=
+FZ2=Was ist das feinfühligste Tastorgan der Pferde ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1die weichen Lippen mit den langen	Tasthaaren
+Antwort_2=0die Vorderhufe
+Antwort_3=0die Haare an den Innenohren
+Antwort_4=0die langen Schweifhaare
+
+[229]
+FZ1=
+FZ2=Was ist das "Gebäude" eines Pferdes ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1seine äußere Erscheinung
+Antwort_2=0sein Stall
+Antwort_3=0sein Skelett
+Antwort_4=0sein Gebiss
+
+[230]
+FZ1=
+FZ2=Wie heißt das Urpferd, der älteste Vorfahr unserer Pferde ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Eohippus
+Antwort_2=0Euto pferdus
+Antwort_3=0Equus caballus
+Antwort_4=0Przewalski - Pferd
+
+[231]
+FZ1=
+FZ2=Wann wurden die ersten Pferde von Menschen gezähmt
+FZ3=und zu Haustieren gemacht ?
+Min=16000
+Max=125000
+Antwort_1=1vor ca. 5.000 Jahren
+Antwort_2=0vor ca. 7.000 Jahren
+Antwort_3=0vor ca. 3.000 Jahren
+Antwort_4=0vor ca. 9.000 Jahren
+
+[232]
+FZ1=
+FZ2=Wie nennt man die Satteldecke ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Woilach
+Antwort_2=0Voillant
+Antwort_3=0Wallach
+Antwort_4=0Vauxhall
+
+

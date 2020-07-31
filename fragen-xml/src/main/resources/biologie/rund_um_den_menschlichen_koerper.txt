@@ -1,0 +1,3668 @@
+[Thema]
+Thema=Rund um den menschlichen Körper
+Fragen=333
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welchen Knochen gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kniescheibe	
+Antwort_2=0Knieteller	
+Antwort_3=0Kniebrett	
+Antwort_4=0Knietasse	
+
+[2]
+FZ1=
+FZ2=Wie nennt man die Blutbahnen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Adern	
+Antwort_2=0Odern	
+Antwort_3=0Idern	
+Antwort_4=0Udern	
+
+[3]
+FZ1=
+FZ2=Was sind Adern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Blutbahnen	
+Antwort_2=0große Knochen	
+Antwort_3=0kleine Sehnen	
+Antwort_4=0Muskeln	
+
+[4]
+FZ1=
+FZ2=Was ist  k e i n e  Blutgruppe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1C	
+Antwort_2=0B	
+Antwort_3=0A	
+Antwort_4=00	
+
+[5]
+FZ1=
+FZ2=In welchem Körperteil findet man die Bandscheibe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1zwischen den Wirbeln
+Antwort_2=0im Oberarmgelenk
+Antwort_3=0im Kniegelenk
+Antwort_4=0zwischen den Fußwurzelknochen
+
+[6]
+FZ1=
+FZ2=Wie nennt man den Knochenbau des Menschen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Skelett
+Antwort_2=0Skribent
+Antwort_3=0Skalpell
+Antwort_4=0Spinett
+
+[7]
+FZ1=
+FZ2=Wie heißt der größte Fußwurzelknochen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Fersenbein
+Antwort_2=0Würfelbein
+Antwort_3=0Sprungbein
+Antwort_4=0Keilbein
+
+[8]
+FZ1=
+FZ2=Welchen Fußknochen gibt es ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kahnbein
+Antwort_2=0Dampferbein
+Antwort_3=0Bootbein
+Antwort_4=0Kutterbein
+
+[9]
+FZ1=
+FZ2=Wie nennt man das Organ, das sich mit Urin füllt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Blase
+Antwort_2=0Beutel
+Antwort_3=0Ballon
+Antwort_4=0Becher
+
+[10]
+FZ1=
+FZ2=Wie groß ist die Gallenblase ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1ca. 10 cm
+Antwort_2=0ca. 5 cm
+Antwort_3=0ca. 20 cm
+Antwort_4=0ca. 2 cm
+
+[11]
+FZ1=
+FZ2=Wie viel Liter Galle produziert die Leber am Tag ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ca. 1 Liter
+Antwort_2=0ca. 1,5 Liter
+Antwort_3=0ca. 0,5 Liter
+Antwort_4=0ca. 2 Liter
+
+[12]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[13]
+FZ1=
+FZ2=In wie viele Äste teilt sich die Milzarterie, bevor sie das Organ erreicht ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=03
+Antwort_2=07
+Antwort_3=15
+Antwort_4=09
+
+[14]
+FZ1=
+FZ2=Wie groß sind die Leberläppchen im Querschnitt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=12 mm
+Antwort_2=00,5 mm
+Antwort_3=01 mm
+Antwort_4=00,1 mm
+
+[15]
+FZ1=
+FZ2=Aus wie vielen Leberläppchen besteht das Innere der Leber ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ca. 75.000
+Antwort_2=0ca. 100.000
+Antwort_3=0ca. 50.000
+Antwort_4=0ca. 150.000
+
+[16]
+FZ1=
+FZ2=Wie nennt man es, wenn man Luft aus dem Magen wieder durch die Speiseröhre
+FZ3=ausstößt ?
+Min=0
+Max=1000
+Antwort_1=1rülpsen
+Antwort_2=0niesen
+Antwort_3=0gähnen
+Antwort_4=0schnarchen
+
+[17]
+FZ1=
+FZ2=Aus wie vielen Schichten besteht die Magenwand ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=14
+Antwort_2=03
+Antwort_3=02
+Antwort_4=05
+
+[18]
+FZ1=
+FZ2=Wie viele Mittelhandknochen gibt es ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=15
+Antwort_2=09
+Antwort_3=07
+Antwort_4=011
+
+[19]
+FZ1=
+FZ2=Wie viele Knochen bilden das Grundgerüst der Hand ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=127
+Antwort_2=033
+Antwort_3=023
+Antwort_4=021
+
+[20]
+FZ1=
+FZ2=Wie viele Wirbel sind zum dreieckigen Kreuzbein verschmolzen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=15
+Antwort_2=07
+Antwort_3=03
+Antwort_4=02
+
+[21]
+FZ1=
+FZ2=Welche beiden Hirnnerven - sie stellen die Verbindung zu den Sinnesorganen her -
+FZ3=bezeichnet man auch als Ausstülpungen des Gehirns ?
+Min=4000
+Max=64000
+Antwort_1=1Riechnerv und Sehnerv
+Antwort_2=0Eingeweidenerv und Beinnerv
+Antwort_3=0Gesichtsnerv und Augenmuskelnerv
+Antwort_4=0Augenrollnerv und Drillingsnerv
+
+[22]
+FZ1=
+FZ2=Wo sind die Gene im Körper gespeichert ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1in jedem Zellkern
+Antwort_2=0nur in den Eizellen
+Antwort_3=0nur in den Herzzellen
+Antwort_4=0nur in den Gehirnzellen
+
+[23]
+FZ1=
+FZ2=Aus wie vielen verschiedenen Zelltypen ist der menschliche Körper gebaut ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 200
+Antwort_2=0ca. 100
+Antwort_3=0ca. 150
+Antwort_4=0ca. 50
+
+[24]
+FZ1=
+FZ2=Welche Zellen müssen ein Leben lang ihren Dienst tun, ohne sich zu erneuern ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Nervenzellen
+Antwort_2=0Blutzellen
+Antwort_3=0Hautzellen
+Antwort_4=0Leberzellen
+
+[25]
+FZ1=
+FZ2=Wie vermehren sich die Zellen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1durch Teilung
+Antwort_2=0durch Eiablage
+Antwort_3=0durch Verschmelzung
+Antwort_4=0Zellen vermehren sich nicht
+
+[26]
+FZ1=
+FZ2=Wie nennt man den kleinsten Baustein, aus dem der Mensch besteht ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Zelle
+Antwort_2=0Muskel
+Antwort_3=0Knochen
+Antwort_4=0Knorpel
+
+[27]
+FZ1=
+FZ2=Was ist Melatonin ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ein Hormon, das schläfrig macht
+Antwort_2=0eine ansteckende Hautkrankheit
+Antwort_3=0der rote Farbstoff im Blut
+Antwort_4=0ein Hormon, das munter macht
+
+[28]
+FZ1=
+FZ2=Wie heißt das Hormon, das schläfrig macht ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Melatonin
+Antwort_2=0Kelatonin
+Antwort_3=0Belatonin
+Antwort_4=0Selatonin
+
+[29]
+FZ1=
+FZ2=Welcher Teil des Gehirns steuert den Schlaf ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1die Zirbeldrüse
+Antwort_2=0das Zwischenhirn
+Antwort_3=0der Hirnstamm
+Antwort_4=0das Großhirn
+
+[30]
+FZ1=
+FZ2=Wann fand die erste erfolgreiche Herztransplantation statt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11967
+Antwort_2=01987
+Antwort_3=01977
+Antwort_4=01957
+
+[31]
+FZ1=
+FZ2=Wie nennt man einen Menschen, der sich einbildet, krank zu sein ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Hypochonder
+Antwort_2=0Hysteriker
+Antwort_3=0Hypnotiseure
+Antwort_4=0Historiker
+
+[32]
+FZ1=
+FZ2=Was sind Thrombozyten ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Blutplättchen
+Antwort_2=0Schweißdrüsen
+Antwort_3=0Haarwurzeln
+Antwort_4=0Gallensteine
+
+[33]
+FZ1=
+FZ2=Wozu benötigt der Körper den Mineralstoff Eisen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1zur Blutbildung
+Antwort_2=0zur Erkältungsabwehr
+Antwort_3=0zur Zellerneuerung
+Antwort_4=0zur Bildung der Fuß- und Fingernägel
+
+[34]
+FZ1=
+FZ2=Wie alt können Leberzellen werden ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ca. 18 Monate
+Antwort_2=0ca. 26 Monate
+Antwort_3=0ca. 12 Monate
+Antwort_4=0ca. 48 Monate
+
+[35]
+FZ1=
+FZ2=Wie alt können Blutzellen werden ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1etwa 120 Tage
+Antwort_2=0etwa 240 Tage
+Antwort_3=0etwa 10 Tage
+Antwort_4=0etwa 60 Tage
+
+[36]
+FZ1=
+FZ2=Wie alt können Nervenzellen werden ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1mehr als 100 Jahre
+Antwort_2=0ca. 10 Jahre
+Antwort_3=040 - 60 Jahre
+Antwort_4=024 Monate
+
+[37]
+FZ1=
+FZ2=Welche der folgenden Zellen haben die längste Lebensdauer ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Nervenzellen
+Antwort_2=0Hautzellen
+Antwort_3=0Leberzellen
+Antwort_4=0Blutzellen
+
+[38]
+FZ1=
+FZ2=Womit sind die Muskeln an den Knochen verankert ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1mit Sehnen
+Antwort_2=0mit Bändern
+Antwort_3=0mit Knorpeln
+Antwort_4=0mit Drähten
+
+[39]
+FZ1=
+FZ2=Wodurch entsteht Muskelkater ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1durch winzige Muskelrisse, die bei	Überbeanspruchung eines Muskels	entstehen können
+Antwort_2=0durch Abkühlung der Muskulatur
+Antwort_3=0durch einseitige, zu geringe Belastung	des Muskels
+Antwort_4=0durch zu schnelles Aufwärmen der	Muskulatur, z.B. auf einer Sonnenbank
+
+[40]
+FZ1=
+FZ2=Wie viele verschiedene Gerüche können unsere Riechzellen registrieren ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1über 1.000
+Antwort_2=0ca. 500
+Antwort_3=0700 - 900
+Antwort_4=0345
+
+[41]
+FZ1=
+FZ2=Wie heißt der kleinste Muskel des Körpers ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Steigbügelspanner
+Antwort_2=0Daumenspanner
+Antwort_3=0Ellebogenspanner
+Antwort_4=0Zaumzeugspanner
+
+[42]
+FZ1=
+FZ2=Wo liegt der kleinste Muskel des Körpers ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1im Ohr
+Antwort_2=0in der Hand
+Antwort_3=0im Auge
+Antwort_4=0im Fuß
+
+[43]
+FZ1=
+FZ2=Wie nennt man Nerven, die Signale vom Körper an das Gehirn übermitteln ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1sensorische Nerven
+Antwort_2=0Nerventransmitter
+Antwort_3=0notorische Nerven
+Antwort_4=0motorische Nerven
+
+[44]
+FZ1=
+FZ2=Was passiert, wenn Luft aus dem Magen wieder in die Speiseröhre hochkommt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Man muss aufstoßen.
+Antwort_2=0Man muss weinen.
+Antwort_3=0Man muss lachen.
+Antwort_4=0Man wird rot.
+
+[45]
+FZ1=
+FZ2=Wie nennt man es, wenn sich ein Muskel zusammengezogen hat und sich nicht
+FZ3=wieder auseinander ziehen lässt ?
+Min=2000
+Max=32000
+Antwort_1=1Krampf
+Antwort_2=0Muskelkater
+Antwort_3=0Hexenschuss
+Antwort_4=0Verdauung
+
+[46]
+FZ1=
+FZ2=Wie nennt man die Phasen des Schlafes, in denen wir träumen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1REM - Schlaf
+Antwort_2=0Leichtschlaf
+Antwort_3=0BMW - Schlaf
+Antwort_4=0Tiefschlaf
+
+[47]
+FZ1=
+FZ2=In welche Richtung drehen sich die Augen,
+FZ3=wenn man Dinge aus der Nähe anschaut ?
+Min=4000
+Max=64000
+Antwort_1=1einwärts
+Antwort_2=0nach unten
+Antwort_3=0auswärts
+Antwort_4=0nach oben
+
+[48]
+FZ1=
+FZ2=Wie viele Zähne hat das vollständige Gebiss eines Erwachsenen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=132
+Antwort_2=028
+Antwort_3=024
+Antwort_4=036
+
+[49]
+FZ1=
+FZ2=Wie nennt man das Fachgebiet der Medizin, das sich mit dem menschlichen
+FZ3=Bewegungsapparat beschäftigt ?
+Min=8000
+Max=125000
+Antwort_1=1Orthopädie
+Antwort_2=0Odysee
+Antwort_3=0Ornitologie
+Antwort_4=0Okkultismus
+
+[50]
+FZ1=
+FZ2=Was wird man, wenn es im Gehirn kurzfristig zu einer Durchblutungsstörung kommt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ohnmächtig
+Antwort_2=0albern
+Antwort_3=0munter
+Antwort_4=0stark
+
+[51]
+FZ1=
+FZ2=Wie heißt das Instrument, mit dem der Arzt das Herz abhört ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Stethoskop
+Antwort_2=0Katalog
+Antwort_3=0Mikroskop
+Antwort_4=0Periskop
+
+[52]
+FZ1=
+FZ2=Wie viele Haare verliert man im Durchschnitt an einem Tag ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=150 - 100
+Antwort_2=0150 - 300
+Antwort_3=010 - 40
+Antwort_4=0500 - 1.000
+
+[53]
+FZ1=
+FZ2=Was befindet sich über dem Racheneingang und verhindert, dass beim Essen
+FZ3=Nahrung in die Nase gelangt ?
+Min=200
+Max=2000
+Antwort_1=1das Zäpfchen
+Antwort_2=0das Röllchen
+Antwort_3=0das Stäbchen
+Antwort_4=0das Häkchen
+
+[54]
+FZ1=
+FZ2=Was ist bei Kindern die häufigste chronische Krankheit ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Asthma
+Antwort_2=0Röteln
+Antwort_3=0Windpocken
+Antwort_4=0Masern
+
+[55]
+FZ1=
+FZ2=Welches sind die kleinsten Zellen im Körper ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1rote Blutzellen
+Antwort_2=0Muskelzellen
+Antwort_3=0Gehirnzellen
+Antwort_4=0Fettzellen
+
+[56]
+FZ1=
+FZ2=Welches Gas produzieren die Arterien, das die Muskeln entspannt, damit das Blut
+FZ3=besser fließen kann ?
+Min=500000
+Max=500000
+Antwort_1=1Stickstoffoxid
+Antwort_2=0Wasserstoff
+Antwort_3=0Kohlendioxid
+Antwort_4=0Neon
+
+[57]
+FZ1=
+FZ2=In wie vielen Chromosomen sind die menschlichen Gene gespeichert ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=146
+Antwort_2=058
+Antwort_3=024
+Antwort_4=066
+
+[58]
+FZ1=
+FZ2=Was ist die Iris ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der farbige Muskelring im Auge
+Antwort_2=0das Mittelstück der Speiseröhre
+Antwort_3=0die linke Herzklappe
+Antwort_4=0eine Sehne im Kniegelenk
+
+[59]
+FZ1=
+FZ2=Wie nennt man den farbigen Muskelring im Auge ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Iris
+Antwort_2=0Pia
+Antwort_3=0Linda
+Antwort_4=0Rosi
+
+[60]
+FZ1=
+FZ2=Wie nennt man das Gewebe im Herzen, das den Herzschlag steuert ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Schrittmacher
+Antwort_2=0Impulsgeber
+Antwort_3=0Steuerzentrum
+Antwort_4=0Kontraktionsgewebe
+
+[61]
+FZ1=
+FZ2=Welcher Finger hat nur zwei Glieder ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Daumen
+Antwort_2=0Zeigefinger
+Antwort_3=0Mittelfinger
+Antwort_4=0der kleine Finger
+
+[62]
+FZ1=
+FZ2=Wie viele Rippen hat gewöhnlich ein Mensch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=124
+Antwort_2=032
+Antwort_3=028
+Antwort_4=020
+
+[63]
+FZ1=
+FZ2=Was für eine Art  Gelenk ist das Hüftgelenk ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kugelgelenk
+Antwort_2=0Sattelgelenk
+Antwort_3=0Scharniergelenk
+Antwort_4=0Winkelgelenk
+
+[64]
+FZ1=
+FZ2=Wie lang ist die Achillessehne ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ca. 15 cm
+Antwort_2=0ca. 5 cm
+Antwort_3=0ca. 10 cm
+Antwort_4=0ca. 2cm
+
+[65]
+FZ1=
+FZ2=Wie heißt die längste Sehne im menschlichen Körper ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Achillessehne
+Antwort_2=0Prometeussehne
+Antwort_3=0Odysseussehne
+Antwort_4=0Kolumbussehne
+
+[66]
+FZ1=
+FZ2=Wo sitzt der Musikantenknochen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1am Ellenbogen
+Antwort_2=0im Knie
+Antwort_3=0im Ohr
+Antwort_4=0an der Ferse
+
+[67]
+FZ1=
+FZ2=Wie nennt man lange Knochen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Röhrenknochen
+Antwort_2=0Hauptknochen
+Antwort_3=0Längsknochen
+Antwort_4=0Stabknochen
+
+[68]
+FZ1=
+FZ2=Welcher Mineralstoff wird hauptsächlich im Knochen gespeichert ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kalzium
+Antwort_2=0Aluminium
+Antwort_3=0Kalium
+Antwort_4=0Helium
+
+[69]
+FZ1=
+FZ2=Wie nennt man die harte, schützende Schale, die um die schwammige Markhöhle
+FZ3=eines Knochens herum verläuft ?
+Min=2000
+Max=32000
+Antwort_1=1Knochenrinde
+Antwort_2=0Knochenschale
+Antwort_3=0Knochenstamm
+Antwort_4=0Knochenrüstung
+
+[70]
+FZ1=
+FZ2=Wie heißt die äußere Schicht des Knochens ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Knochenhaut
+Antwort_2=0Knochenmantel
+Antwort_3=0Knochenröhre
+Antwort_4=0Knochenring
+
+[71]
+FZ1=
+FZ2=Das Innere eines Knochens wird aus leichtem, schwammigem Gitterwerk geformt.
+FZ3=Was befindet sich in den Zwischenräumen des Gitterwerks ?
+Min=1000
+Max=16000
+Antwort_1=1Knochenmark
+Antwort_2=0Knochenpaste
+Antwort_3=0Knochenbrei
+Antwort_4=0Knochensand
+
+[72]
+FZ1=
+FZ2=Wie nennt man das Verkürzen eines Muskels in der Fachsprache ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kontraktion
+Antwort_2=0Explosion
+Antwort_3=0Kondition
+Antwort_4=0Mutation
+
+[73]
+FZ1=
+FZ2=Wie heißen die zwei kräftigen Wadenmuskeln ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Zwillingsmuskel
+Antwort_2=0doppelter Wadenmuskel
+Antwort_3=0Duomuskel
+Antwort_4=0Spiegelmuskel
+
+[74]
+FZ1=
+FZ2=Welche Muskeln sind die aktivsten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Augenmuskeln
+Antwort_2=0Armmuskeln
+Antwort_3=0Kaumuskeln
+Antwort_4=0Fingermuskeln
+
+[75]
+FZ1=
+FZ2=Wie heißen die feinen, lang gestreckten Zellen, aus denen die einzelnen
+FZ3=Faserbündel der Skelettmuskeln bestehen ?
+Min=500000
+Max=500000
+Antwort_1=1Fibrillen
+Antwort_2=0Fibrallen
+Antwort_3=0Fibrollen
+Antwort_4=0Fibrullen
+
+[76]
+FZ1=
+FZ2=Welchen Körperteil bewegen Trizeps und Bizeps ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1den Unterarm
+Antwort_2=0das Augenlid
+Antwort_3=0den Oberschenkel
+Antwort_4=0den Mittelfuß
+
+[77]
+FZ1=
+FZ2=Warum soll man nicht gleichzeitig sprechen und kauen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1weil man sich verschlucken kann
+Antwort_2=0weil man dann keine Luft bekommt
+Antwort_3=0weil so die Stimmbänder geschädigt	werden
+Antwort_4=0weil dann das Essen nicht schmeckt
+
+[78]
+FZ1=
+FZ2=Wie heißen die kleinen Erhöhungen auf der Zunge,
+FZ3=die man mit bloßem Auge sehen kann ?
+Min=64000
+Max=500000
+Antwort_1=1Papillen
+Antwort_2=0Popillen
+Antwort_3=0Pupillen
+Antwort_4=0Pepillen
+
+[79]
+FZ1=
+FZ2=Bei welcher Sinneswahrnehmung ist das Riechen stark beteiligt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1beim Schmecken
+Antwort_2=0beim Hören
+Antwort_3=0beim Sehen
+Antwort_4=0beim Fühlen
+
+[80]
+FZ1=
+FZ2=Wie heißen die Härchen in der Nase, die dafür sorgen, dass Schmutz und sogar
+FZ3=kleines Ungeziefer nicht weiter nach innen dringen können ?
+Min=2000
+Max=32000
+Antwort_1=1Flimmerhärchen
+Antwort_2=0Schimmerhärchen
+Antwort_3=0Glimmerhärchen
+Antwort_4=0Bimmelhärchen
+
+[81]
+FZ1=
+FZ2=Wie viele verschiedene Gerüche können die Riechzellen der Nase unterscheiden ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1ca. 1.000
+Antwort_2=0250 - 400
+Antwort_3=0ca. 500
+Antwort_4=0etwa 120
+
+[82]
+FZ1=
+FZ2=Wie viele verschiedene Geschmacksrichtungen können wir mit unserem
+FZ3=Geschmackssinn unterscheiden ?
+Min=16000
+Max=250000
+Antwort_1=14
+Antwort_2=08
+Antwort_3=06
+Antwort_4=010
+
+[83]
+FZ1=
+FZ2=Wie nennt man die durch HI-Viren verursachte Krankheit,
+FZ3=die zum Zusammenbruch des Immunsystems führt ?
+Min=8000
+Max=64000
+Antwort_1=1Aids
+Antwort_2=0Leukämie
+Antwort_3=0Bronchitis
+Antwort_4=0Galeteries
+
+[84]
+FZ1=
+FZ2=Wie lang braucht das Blut, um einmal durch den ganzen Körper zu fließen,
+FZ3=wenn dieser ruht ?
+Min=64000
+Max=500000
+Antwort_1=1ungefähr 1 Minute
+Antwort_2=0ungefähr 15 Minuten
+Antwort_3=0ungefähr 10 Minuten
+Antwort_4=0ungefähr 5 Minuten
+
+[85]
+FZ1=
+FZ2=Aus wie vielen Schichten bestehen die Wände von Arterien und Venen ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=13
+Antwort_2=04
+Antwort_3=02
+Antwort_4=05
+
+[86]
+FZ1=
+FZ2=Was sind Endorphine ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Schmerzmittel, die das Gehirn selbst	produzieren kann
+Antwort_2=0Antikörper, die die Bauchspeicheldrüse	produziert
+Antwort_3=0Drüsenabsonderungen der Haut
+Antwort_4=0zusammengewachsene Knochen
+
+[87]
+FZ1=
+FZ2=Wie nennt man die Schmerzmittel, die das Gehirn selbst produzieren kann ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Endorphine
+Antwort_2=0Halluzinogene
+Antwort_3=0Opiate
+Antwort_4=0Aspirinate
+
+[88]
+FZ1=
+FZ2=Wie lang können Nervenzellen werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1über 1 m
+Antwort_2=0ca. 15 cm
+Antwort_3=020 - 30 cm
+Antwort_4=046 cm
+
+[89]
+FZ1=
+FZ2=Wie oft atmet man im Ruhestand pro Minute ein und aus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 15 - mal
+Antwort_2=0ca. 5 - mal
+Antwort_3=0ca. 10 - mal
+Antwort_4=0ca. 20 - mal
+
+[90]
+FZ1=
+FZ2=Wie oft schlägt das Herz eines Säuglings in der Minute ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 120 - mal
+Antwort_2=0ca. 90 - mal
+Antwort_3=0ca. 70 - mal
+Antwort_4=0ca. 50 - mal
+
+[91]
+FZ1=
+FZ2=Wie oft schlägt das Herz eines Kindes in der Minute ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 90 - mal
+Antwort_2=0ca. 50 - mal
+Antwort_3=0ca. 70 - mal
+Antwort_4=0ca. 30 - mal
+
+[92]
+FZ1=
+FZ2=Wie oft schlägt das Herz eines Erwachsenen in der Minute ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 70 - mal
+Antwort_2=0ca. 90 - mal
+Antwort_3=0ca. 50 - mal
+Antwort_4=0ca. 30 - mal
+
+[93]
+FZ1=
+FZ2=Warum schlägt das Herz eines Kindes schneller als das Herz eines Erwachsenen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weil das Wachsen viel Energie erfordert
+Antwort_2=0weil Kinder immer in Bewegung sind
+Antwort_3=0weil das Herz kleiner ist
+Antwort_4=0weil Kinder schneller atmen
+
+[94]
+FZ1=
+FZ2=Welche Länge haben alle Blutgefäße zusammen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=196.000 km
+Antwort_2=02.000 km
+Antwort_3=06.000 m
+Antwort_4=04 km
+
+[95]
+FZ1=
+FZ2=Welcher Nuss sieht das Großhirn ähnlich ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Walnuss
+Antwort_2=0Paranuss
+Antwort_3=0Kokosnuss
+Antwort_4=0Erdnuss
+
+[96]
+FZ1=
+FZ2=Wie heißen die Eiweißverbindungen, die bei der Bekämpfung von
+FZ3=Krankheitserregern helfen ?
+Min=4000
+Max=64000
+Antwort_1=1Antikörper
+Antwort_2=0Makrophagen
+Antwort_3=0Hämoglobin
+Antwort_4=0Mikroplasmen
+
+[97]
+FZ1=
+FZ2=Wie nennt man die Lehre vom Körperbau ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Anatomie
+Antwort_2=0Chirurgie
+Antwort_3=0Anästhesie
+Antwort_4=0Philosophie
+
+[98]
+FZ1=
+FZ2=An welchem Ort im Gehirn liegt bei den meisten Menschen das Sprachzentrum ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1in der linken Hälfte
+Antwort_2=0in der vorderen Hälfte
+Antwort_3=0in der rechten Hälfte
+Antwort_4=0in der hinteren Hälfte
+
+[99]
+FZ1=
+FZ2=Wie heißt die gallertartige Flüssigkeit, mit der das Auge gefüllt ist ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Glaskörper
+Antwort_2=0Iris
+Antwort_3=0Linse
+Antwort_4=0Glasbrei
+
+[100]
+FZ1=
+FZ2=Welcher Teil des Körpers entscheidet, wie viel Luft eingeatmet wird ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1das Atemzentrum im Gehirn
+Antwort_2=0das Herz
+Antwort_3=0die Lunge
+Antwort_4=0der Mund
+
+[101]
+FZ1=
+FZ2=Welche Muskeln sind am stärksten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Kaumuskeln
+Antwort_2=0die Beinmuskeln
+Antwort_3=0die Armmuskeln
+Antwort_4=0die Handmuskeln
+
+[102]
+FZ1=
+FZ2=Wie groß ist die Oberfläche aller Lungenbläschen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 100 qm
+Antwort_2=0ca. 25 qm
+Antwort_3=0ca. 50 qm
+Antwort_4=0ca. 6 qm
+
+[103]
+FZ1=
+FZ2=Wo liegen Hammer, Amboss und Steigbügel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1im Ohr
+Antwort_2=0in der Bauchhöhle
+Antwort_3=0in der Nase
+Antwort_4=0im Fuß
+
+[104]
+FZ1=
+FZ2=Wie viele winzigen Kammern gibt es in der Lunge, in denen die Atemluft
+FZ3=hin- und herpendelt ?
+Min=250000
+Max=500000
+Antwort_1=1400 Millionen
+Antwort_2=0200 Millionen
+Antwort_3=0300 Millionen
+Antwort_4=0100 Millionen
+
+[105]
+FZ1=
+FZ2=Wie nennt man die winzigen Kammern, in der Lunge, in denen die Atemluft
+FZ3=hin- und herpendelt ?
+Min=32000
+Max=250000
+Antwort_1=1Alveolen
+Antwort_2=0Bromelien
+Antwort_3=0Bronchien
+Antwort_4=0Lungenalkoven
+
+[106]
+FZ1=
+FZ2=Welchen Stoff erzeugen die Drüsenzellen des Magens,
+FZ3=um die Eiweißketten der Nahrung zu zerlegen ?
+Min=8000
+Max=125000
+Antwort_1=1Pepsin
+Antwort_2=0Coca
+Antwort_3=0Pepsi
+Antwort_4=0Cola
+
+[107]
+FZ1=
+FZ2=Welcher Teil der Luft wird in der Lunge aufgenommen und an das Blut
+FZ3=weitergegeben ?
+Min=0
+Max=1000
+Antwort_1=1Sauerstoff
+Antwort_2=0Kohlendioxid
+Antwort_3=0Stickstoff
+Antwort_4=0Schwefeldioxid
+
+[108]
+FZ1=
+FZ2=Welche Menge an Luft atmet ein Mensch an jedem Tag ein und aus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 18.000 l
+Antwort_2=0ca. 9.000 l
+Antwort_3=0ca. 12.000 l
+Antwort_4=0ca. 3.000 l
+
+[109]
+FZ1=
+FZ2=Wie viele Lungenlappen hat der Mensch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=15
+Antwort_2=04
+Antwort_3=02
+Antwort_4=07
+
+[110]
+FZ1=
+FZ2=Wie viele Lungenflügel hat der Mensch ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=12
+Antwort_2=04
+Antwort_3=03
+Antwort_4=05
+
+[111]
+FZ1=
+FZ2=Was ist ein Elektrokardiogramm ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1eine mit Apparaten aufgezeichnete	Herzstromkurve
+Antwort_2=0eine besondere Art der	Röntgenaufnahme
+Antwort_3=0die elektrische Stimulation bei einer	Wiederbelebung
+Antwort_4=0ein Rollstuhl mit Elektromotor
+
+[112]
+FZ1=
+FZ2=Wie nennt man eine mit Apparaten aufgezeichnete Herzstromkurve ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1EKG
+Antwort_2=0ERT
+Antwort_3=0EEG
+Antwort_4=0EWG
+
+[113]
+FZ1=
+FZ2=Wie heißt der mit Flüssigkeit gefüllte Gang im Ohr ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schnecke
+Antwort_2=0Käfer
+Antwort_3=0Wurm
+Antwort_4=0Muschel
+
+[114]
+FZ1=
+FZ2=Welcher Körperteil verhindert, dass beim Schlucken die Nahrung
+FZ3=in die Luftröhre gerät ?
+Min=2000
+Max=32000
+Antwort_1=1der Kehldeckel
+Antwort_2=0die Mandeln
+Antwort_3=0der Gaumen
+Antwort_4=0die Zunge
+
+[115]
+FZ1=
+FZ2=Welcher Teil des Auges ist für das Farbensehen zuständig ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1die Zapfen
+Antwort_2=0die Linse
+Antwort_3=0die Stäbchen
+Antwort_4=0die Pupille
+
+[116]
+FZ1=
+FZ2=Wie heißt die größte Körperschlagader ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Aorta
+Antwort_2=0Arterie
+Antwort_3=0Arteriole
+Antwort_4=0Aquamarin
+
+[117]
+FZ1=
+FZ2=Was hilft im hinteren Teil des Mundes Bakterien zu bekämpfen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mandeln
+Antwort_2=0Rosinen
+Antwort_3=0Nüsse
+Antwort_4=0Pistazien
+
+[118]
+FZ1=
+FZ2=Wie nennt man es, wenn ein Teil des Gehirns nicht mehr genug
+FZ3=durchblutet wird und abstirbt ?
+Min=4000
+Max=64000
+Antwort_1=1Schlaganfall
+Antwort_2=0Gehirnblutung
+Antwort_3=0Herzinfarkt
+Antwort_4=0Ohnmacht
+
+[119]
+FZ1=
+FZ2=Welche Funktion hat die Linse im Auge ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Sie sorgt dafür, dass man scharf sehen	kann.
+Antwort_2=0Sie reguliert den Tränenfluss.
+Antwort_3=0Sie sorgt dafür, dass man das Auge	schließen kann.
+Antwort_4=0Sie unterscheidet die einzelnen Farben.
+
+[120]
+FZ1=
+FZ2=Wie nennt man es, wenn die Muskelspannung der beiden Augen verschieden ist und
+FZ3=von der normalen parallelen Blickrichtung in die Ferne abweicht ?
+Min=2000
+Max=32000
+Antwort_1=1schielen
+Antwort_2=0zwinkern
+Antwort_3=0biegen
+Antwort_4=0blinzeln
+
+[121]
+FZ1=
+FZ2=Welches Teil des Auges sorgt dafür, dass man scharf sehen kann ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Linse
+Antwort_2=0Erbse
+Antwort_3=0Bohne
+Antwort_4=0Reis
+
+[122]
+FZ1=
+FZ2=Wie nennt man Kranke, bei denen die Gerinnung des Blutes gestört ist ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Bluter
+Antwort_2=0Blutamus
+Antwort_3=0Blutino
+Antwort_4=0Blutolli
+
+[123]
+FZ1=
+FZ2=Wie nennt man eine überempfindliche Reaktion des Körpers
+FZ3=gegen bestimmte Stoffe ?
+Min=1000
+Max=16000
+Antwort_1=1Allergie
+Antwort_2=0Bronchitis
+Antwort_3=0Anämie
+Antwort_4=0Leukämie
+
+[124]
+FZ1=
+FZ2=Wie heißen zwei häufige Arten von Krankheitserregern ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Bakterien und Viren
+Antwort_2=0Salmonellen und Pilze
+Antwort_3=0Karius und Baktus
+Antwort_4=0Eiter und Lymphe
+
+[125]
+FZ1=
+FZ2=Welches Organ kann man als die Waschmaschine des Blutes bezeichnen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Nieren
+Antwort_2=0Lunge
+Antwort_3=0Magen
+Antwort_4=0Herz
+
+[126]
+FZ1=
+FZ2=Mit wie viel Stundenkilometern saust die Luft beim Niesen durch die Nase ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 160 km/h
+Antwort_2=0ca. 80 km/h
+Antwort_3=0ca. 120 km/h
+Antwort_4=0ca. 60 km/h
+
+[127]
+FZ1=
+FZ2=Was ist ein Reflex ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1eine unwillkürliche Reaktion, die ohne	Beteiligung des Gehirns abläuft
+Antwort_2=0ein kleiner Knochen im Handgelenk
+Antwort_3=0eine willkürliche Muskelanspannung
+Antwort_4=0ein Rückenmuskel
+
+[128]
+FZ1=
+FZ2=Wie nennt man eine unwillkürliche Reaktion, die ohne Beteiligung
+FZ3=des Gehirns abläuft ?
+Min=4000
+Max=64000
+Antwort_1=1Reflex
+Antwort_2=0Impuls
+Antwort_3=0Reflexion
+Antwort_4=0Aktion
+
+[129]
+FZ1=
+FZ2=Wie heißen die Träger der Erbinformationen im Zellkern ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Chromosomen
+Antwort_2=0Chlorophyll
+Antwort_3=0Chronographen
+Antwort_4=0Colesterin
+
+[130]
+FZ1=
+FZ2=Wie heißen Organe, die Substanzen wie Schweiß oder Speichel absondern ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Drüsen
+Antwort_2=0Dünen
+Antwort_3=0Düsen
+Antwort_4=0Dosen
+
+[131]
+FZ1=
+FZ2=Wie erscheint das Bild, das wir sehen, auf der Netzhaut ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1auf dem Kopf stehend
+Antwort_2=0seitenverkehrt
+Antwort_3=0richtig herum
+Antwort_4=0schwarz - weiß
+
+[132]
+FZ1=
+FZ2=Was ist Seitenstechen ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1ein Krampf im Zwerchfell
+Antwort_2=0eine Grippeschutzimpfung
+Antwort_3=0eine besondere Art der Akupunktur
+Antwort_4=0ein zu hoher Blutdruck
+
+[133]
+FZ1=
+FZ2=Wie nennt man einen Krampf im Zwerchfell ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Seitenstechen
+Antwort_2=0Schluckauf
+Antwort_3=0Muskelkater
+Antwort_4=0Niesen
+
+[134]
+FZ1=
+FZ2=Wie nennt man erhöhte Körpertemperatur ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Fieber
+Antwort_2=0Kieber
+Antwort_3=0Zieber
+Antwort_4=0Dieber
+
+[135]
+FZ1=
+FZ2=Ab welcher Temperatur wird Fieber gefährlich ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ab 40 Grad
+Antwort_2=0ab 45 Grad
+Antwort_3=0ab 38 Grad
+Antwort_4=0ab 36 Grad
+
+[136]
+FZ1=
+FZ2=Wie lange dauert eine normale Schwangerschaft ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=19 Monate
+Antwort_2=010 Monate
+Antwort_3=08 Monate
+Antwort_4=011 Monate
+
+[137]
+FZ1=
+FZ2=Welcher Körperteil des Kindes wird normalerweise zuerst geboren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1der Kopf
+Antwort_2=0das Bein
+Antwort_3=0der Arm
+Antwort_4=0der Po
+
+[138]
+FZ1=
+FZ2=Aus wie vielen Schichten besteht die Haut ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=13
+Antwort_2=04
+Antwort_3=02
+Antwort_4=05
+
+[139]
+FZ1=
+FZ2=Woraus bestehen Muskeln ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1aus dicken Faserbündeln
+Antwort_2=0aus einem einheitlichen Gewebe
+Antwort_3=0aus übereinanderliegenden Schichten
+Antwort_4=0aus biegsamen Knochen
+
+[140]
+FZ1=
+FZ2=Wie viele Knochen hat ein Säugling bei der Geburt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 350
+Antwort_2=0ca. 200
+Antwort_3=0ca. 300
+Antwort_4=0ca. 250
+
+[141]
+FZ1=
+FZ2=Was ist Leukämie ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1die krankhafte Vermehrung der weißen	Blutkörperchen
+Antwort_2=0eine Entzündung der	Bauchspeicheldrüse
+Antwort_3=0die krankhafte Vermehrung der roten	Blutkörperchen
+Antwort_4=0die Verdickung der Gallenblase
+
+[142]
+FZ1=
+FZ2=Wie nennt man die krankhafte Vermehrung der weißen Blutkörperchen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Leukämie
+Antwort_2=0Legasthenie
+Antwort_3=0Dyskalkulie
+Antwort_4=0Gelbsucht ?
+
+[143]
+FZ1=
+FZ2=Welcher Muskel ist für unsere Atmung am wichtigsten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1das Zwerchfell
+Antwort_2=0die Lunge
+Antwort_3=0der linke Herzmuskel
+Antwort_4=0der obere Brustmuskel
+
+[144]
+FZ1=
+FZ2=Zu wie viel Prozent stimmt das Erbgut von Menschen und Schimpansen überein ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=198,4 %
+Antwort_2=077,2 %
+Antwort_3=089,5 %
+Antwort_4=069,1 %
+
+[145]
+FZ1=
+FZ2=Was ist Akne ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1eine Hauterkrankung, die durch	überschüssige Talgproduktion	der Haut entsteht
+Antwort_2=0eine Nebenhöhle der	Bauchspeicheldrüse
+Antwort_3=0die Umwandlung der roten	Blutkörperchen
+Antwort_4=0eine Haarerkrankung, bei der die Haare	langsam ausfallen
+
+[146]
+FZ1=
+FZ2=Wie heißt die Hauterkrankung, die durch überschüssige Talgproduktion
+FZ3=der Haut entsteht ?
+Min=8000
+Max=8000
+Antwort_1=1Akne
+Antwort_2=0Allergie
+Antwort_3=0Albinismus
+Antwort_4=0Akmisum
+
+[147]
+FZ1=
+FZ2=Wie geben die Nerven Signale weiter ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1durch winzige elektrische Impulse
+Antwort_2=0durch magnetische Felder
+Antwort_3=0durch Muskelkontraktionen
+Antwort_4=0durch Blutkörperchen
+
+[148]
+FZ1=
+FZ2=Wie viel Prozent Wasser enthält das Blut ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 90 %
+Antwort_2=0ca. 50 %
+Antwort_3=0ca. 70 %
+Antwort_4=0ca. 98 %
+
+[149]
+FZ1=
+FZ2=Wie heißt das Protein (Eiweiß), aus dem Haare und Nägel aufgebaut sind ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Keratin
+Antwort_2=0Hämoglobin
+Antwort_3=0Kerosin
+Antwort_4=0Sacharin
+
+[150]
+FZ1=
+FZ2=Wie viele Zentimeter wachsen die Fingernägel im Jahr ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 4 cm
+Antwort_2=0ca. 2 cm
+Antwort_3=0ca. 8 cm
+Antwort_4=0ca. 10 cm
+
+[151]
+FZ1=
+FZ2=Wie viele Blutzellen bildet der Körper täglich neu ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1ca. 200 Milliarden
+Antwort_2=0ca. 100 Milliarden
+Antwort_3=0ca. 400 Milliarden
+Antwort_4=0ca. 200 Millionen
+
+[152]
+FZ1=
+FZ2=Warum verliert der Mensch die Milchzähne ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1weil Menschenzähne nicht wachsen	können
+Antwort_2=0weil sie zu weich sind
+Antwort_3=0weil sie zu lose sind
+Antwort_4=0weil sie zu klein sind
+
+[153]
+FZ1=
+FZ2=Wie nennt man die ersten Zähne ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Milchzähne
+Antwort_2=0Kaffeezähne
+Antwort_3=0Kakaozähne
+Antwort_4=0Teezähne
+
+[154]
+FZ1=
+FZ2=Was bezeichnet man als Epidermis ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1die oberste Hautschicht
+Antwort_2=0eine Knochenkrankheit
+Antwort_3=0eine ansteckende Krankheit
+Antwort_4=0die unterste Hautschicht
+
+[155]
+FZ1=
+FZ2=Wie nennt man die oberste Hautschicht ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Epidermis
+Antwort_2=0Epidemie
+Antwort_3=0Epilog
+Antwort_4=0Epilepsie
+
+[156]
+FZ1=
+FZ2=Was zeigt eine Gänsehaut an ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1dass man friert
+Antwort_2=0dass man neugierig ist
+Antwort_3=0dass man schwitzt
+Antwort_4=0dass man Langeweile hat
+
+[157]
+FZ1=
+FZ2=Welche Drüsen sorgen dafür, dass die Haut gefettet und somit geschmeidig bleibt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Talgdrüsen
+Antwort_2=0Bauchspeicheldrüse
+Antwort_3=0Fettdrüsen
+Antwort_4=0Schmalzdrüse
+
+[158]
+FZ1=
+FZ2=Wie viel Haut verliert ein Mensch im Laufe seines Lebens ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 35 kg
+Antwort_2=0ca. 10 kg
+Antwort_3=0ca. 15 kg
+Antwort_4=0ca. 5 kg
+
+[159]
+FZ1=
+FZ2=Wie viele Muskeln benötigt man zum Laufen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 200
+Antwort_2=0ca. 100
+Antwort_3=0ca. 150
+Antwort_4=0ca. 50
+
+[160]
+FZ1=
+FZ2=Wie verhindern die Venen, dass das Blut in Arme und Beine zurückfließt ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Sie enthalten Klappen, die wie Ventile	funktionieren.
+Antwort_2=0Sie sind innen mit kleinen Widerhaken	versehen, die ein Zurückfließen	verhindern.
+Antwort_3=0Sie ziehen sich im Rhythmus des	Herzschlages zusammen.
+Antwort_4=0Durch kleine Venendüsen wird der	Blutfluss beschleunigt.
+
+[161]
+FZ1=
+FZ2=Wie nennt man durch Viren hervorgerufene Hautwucherungen,
+FZ3=die ansteckend sein können ?
+Min=2000
+Max=32000
+Antwort_1=1Warzen
+Antwort_2=0Pickel
+Antwort_3=0Muttermale
+Antwort_4=0Eiterbeulen
+
+[162]
+FZ1=
+FZ2=Wo werden die Blutzellen und Blutplättchen gebildet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1im Knochenmark
+Antwort_2=0in der Lunge
+Antwort_3=0im Herzen
+Antwort_4=0in der Leber
+
+[163]
+FZ1=
+FZ2=Wie hoch ist die durchschnittliche Lebenserwartung in Europa ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=176 Jahre
+Antwort_2=056 Jahre
+Antwort_3=086 Jahre
+Antwort_4=066 Jahre
+
+[164]
+FZ1=
+FZ2=Wie kommt man eine Grippe ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1durch Viren
+Antwort_2=0durch erbliche Veranlagung
+Antwort_3=0durch Bakterien
+Antwort_4=0durch Übung
+
+[165]
+FZ1=
+FZ2=Schlafen die Zellen auch, wenn man schläft ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nein, Zellen arbeiten unermüdlich Tag	und Nacht.
+Antwort_2=0ja
+Antwort_3=0Nein, die Zellen haben einen anderen	Schlafrhythmus.
+Antwort_4=0Nein, die Zellen benötigen nur zwei	Stunden Schlaf am Tag.
+
+[166]
+FZ1=
+FZ2=Wozu werden die Fettzellen gebraucht ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie schützen Gelenke und Organe,	liefern Wärme und speichern Energie.
+Antwort_2=0Sie überwachen das Hungergefühl.
+Antwort_3=0Sie sorgen für ausreichenden	Speichelfluss und regulieren die	Tränenflüssigkeit.
+Antwort_4=0Sie unterstützen den Knochenaufbau	und sind für die Wundheilung	verantwortlich.
+
+[167]
+FZ1=
+FZ2=Wo werden die Zellen gebildet, die Eindringlinge im Körper aufspüren
+FZ3=und unschädlich machen ?
+Min=500000
+Max=500000
+Antwort_1=1in der Thymusdrüse
+Antwort_2=0in der Schilddrüse
+Antwort_3=0in der Bauchspeicheldrüse
+Antwort_4=0in der Lymphdrüse
+
+[168]
+FZ1=
+FZ2=Wie heißen die Zellen, die Eindringlinge im Körper aufspüren und unschädlich
+FZ3=machen ?
+Min=500000
+Max=500000
+Antwort_1=1T - Zellen
+Antwort_2=0A - Zellen
+Antwort_3=0K - Zellen
+Antwort_4=0Z - Zellen
+
+[169]
+FZ1=
+FZ2=Wie viele Knochen sind an einem Achselzucken beteiligt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=164
+Antwort_2=038
+Antwort_3=046
+Antwort_4=024
+
+[170]
+FZ1=
+FZ2=Wie nennt man eine schwere Durchblutungsstörung des Herzmuskels ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Herzinfarkt
+Antwort_2=0Herzrhythmusstörung
+Antwort_3=0Schlaganfall
+Antwort_4=0Muskelkater
+
+[171]
+FZ1=
+FZ2=Wie heißt die Gehirnkrankheit, bei der es zu plötzlicher Bewusstlosigkeit, Krämpfen
+FZ3=und Gliederzucken kommt ?
+Min=2000
+Max=32000
+Antwort_1=1Epilepsie
+Antwort_2=0Diabetis
+Antwort_3=0Leukämie
+Antwort_4=0Aids
+
+[172]
+FZ1=Wie nennt man es, wenn sich winzige Muskeln, die mit den Hautvertiefungen, in
+FZ2=denen die Haare wachsen verbunden sind, sich zusammenziehen, damit keine
+FZ3=warme Luft entweicht ?
+Min=0
+Max=1000
+Antwort_1=1Gänsehaut
+Antwort_2=0Hühnerhaut
+Antwort_3=0Entenhaut
+Antwort_4=0Wachtelhaut
+
+[173]
+FZ1=
+FZ2=Wie nennt man die Menschen, denen Farbstoffe (Pigmente) in Haut, Haaren und
+FZ3=Augen fehlen ?
+Min=1000
+Max=8000
+Antwort_1=1Albinos
+Antwort_2=0Fermente
+Antwort_3=0Albatross
+Antwort_4=0Daktylus
+
+[174]
+FZ1=
+FZ2=Von welchem Teil des Verdauungssystems aus gelangen die Nährstoffe ins Blut ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1vom Dünndarm
+Antwort_2=0vom Magen
+Antwort_3=0vom Dockdarm
+Antwort_4=0von der Speiseröhre
+
+[175]
+FZ1=
+FZ2=Welches Hormon ist für die Stressbewältigung zuständig ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Adrenalin
+Antwort_2=0Cedrenalin
+Antwort_3=0Bedrenalin
+Antwort_4=0Dedrenalin
+
+[176]
+FZ1=
+FZ2=Wofür ist das Hormon Adrenalin zuständig ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1für die Stressbewältigung
+Antwort_2=0für die Verdauung
+Antwort_3=0für das Wachstum
+Antwort_4=0für die Atmung
+
+[177]
+FZ1=
+FZ2=Wie viele Muskeln bewegen den Augapfel, wenn er die Blickrichtung ändert ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=16
+Antwort_2=08
+Antwort_3=04
+Antwort_4=02
+
+[178]
+FZ1=
+FZ2=Wie viel Prozent der Informationen, die im Gehirn verarbeitet werden,
+FZ3=kommen von den Augen ?
+Min=2000
+Max=32000
+Antwort_1=175 %
+Antwort_2=090 %
+Antwort_3=050 %
+Antwort_4=025 %
+
+[179]
+FZ1=
+FZ2=Wie heißt eine eitrige Entzündung am Augenlid ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Gerstenkorn
+Antwort_2=0Maiskorn
+Antwort_3=0Weizenkorn
+Antwort_4=0Roggenkorn
+
+[180]
+FZ1=
+FZ2=Wo ist die Haut am dicksten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1an den Fußsohlen
+Antwort_2=0im Gesicht
+Antwort_3=0an den Handflächen
+Antwort_4=0am Popo
+
+[181]
+FZ1=
+FZ2=Warum muss man blinzeln ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Beim Blinzeln wird Tränenflüssigkeit	über das Auge gespült. Sie hat Sub-	stanzen, die Krankheitskeime abtöten.
+Antwort_2=0Beim Blinzeln stellt sich die Sehschärfe	immer wieder neu ein.
+Antwort_3=0Damit die Augenmuskeln nicht	erschlaffen.
+Antwort_4=0Das Blinzeln verhindert, dass man	unaufmerksam wird.
+
+[182]
+FZ1=
+FZ2=Wo wird die Galle produziert ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1in der Leber
+Antwort_2=0im Zwölffingerdarm
+Antwort_3=0in der Bauchspeicheldrüse
+Antwort_4=0in der Milz
+
+[183]
+FZ1=
+FZ2=Wozu sind die Augenbrauen da ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie verhindern, dass Schweiß und	Staub in die Augen gerät.
+Antwort_2=0Sie sorgen dafür, dass eine Brille nicht	drückt.
+Antwort_3=0Sie werfen einen Schatten, damit es für	die Pupille nicht zu hell ist.
+Antwort_4=0Sie verschönern das Gesicht.
+
+[184]
+FZ1=
+FZ2=Zu wie vielen Prozent besteht der menschliche Körper aus Wasser ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 60 %
+Antwort_2=0ca. 20 %
+Antwort_3=0ca. 40 %
+Antwort_4=0ca. 80 %
+
+[185]
+FZ1=
+FZ2=Was geschieht mit den Gehirnzellen, wenn die Blutzufuhr für ein paar Minuten
+FZ3=unterbrochen wird ?
+Min=1000
+Max=16000
+Antwort_1=1Sie sterben ab.
+Antwort_2=0Sie werden größer.
+Antwort_3=0Sie werden kleiner.
+Antwort_4=0Sie vermehren sich.
+
+[186]
+FZ1=
+FZ2=Was geschieht mit dem  Gehirn des Menschen im Alter ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Es wird kleiner.
+Antwort_2=0Es bleibt immer gleich groß.
+Antwort_3=0Es wird kleiner.
+Antwort_4=0Es wird abwechselnd größer und	kleiner.
+
+[187]
+FZ1=
+FZ2=Was ist eine Epidemie ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1die schnelle Ausbreitung einer	Infektionskrankheit
+Antwort_2=0eine ansteckende Hautkrankheit
+Antwort_3=0eine vorbeugende Schutzimpfung
+Antwort_4=0das langsame Ansteigen der	Körpertemperatur
+
+[188]
+FZ1=
+FZ2=Wie heißt die schnelle Ausbreitung einer Infektionskrankheit ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Epidemie
+Antwort_2=0Epilog
+Antwort_3=0Episode
+Antwort_4=0Epilepsie
+
+[189]
+FZ1=
+FZ2=Was ist eine Embolie ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1ein plötzlicher Verschluss eines	Blutgefäßes durch einen Pfropf aus	geronnenem  Blut
+Antwort_2=0eine plötzliche Erhöhung der	Atemfrequenz
+Antwort_3=0die Entzündung des Magen- Darmtraktes
+Antwort_4=0eine langsame Verkalkung der	Blutgefäße
+
+[190]
+FZ1=
+FZ2=Wie nennt man einen plötzlichen Verschluss eines Blutgefäßes durch einen Pfropf
+FZ3=aus geronnenem  Blut ?
+Min=250000
+Max=250000
+Antwort_1=1Embolie
+Antwort_2=0Entzündung
+Antwort_3=0Enzym
+Antwort_4=0Empathie
+
+[191]
+FZ1=
+FZ2=Wann fand Alexander Fleming das erste Antibiotikum ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11928
+Antwort_2=01928
+Antwort_3=01908
+Antwort_4=01938
+
+[192]
+FZ1=
+FZ2=Wer fand 1928 das erste Antibiotikum ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alexander Fleming
+Antwort_2=0Albert Einstein
+Antwort_3=0Robert Koch
+Antwort_4=0Sigmund Freud
+
+[193]
+FZ1=
+FZ2=Wie lange dauert es, bis das Herz eines Embryos zu schlagen beginnt ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 3 Wochen
+Antwort_2=0ca. 3 Stunden
+Antwort_3=0ca. 3 Tage
+Antwort_4=0ca. 3 Monate
+
+[194]
+FZ1=
+FZ2=Wie viele Samenzellen werden in den Hoden des Mannes täglich gebildet ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 300 Millionen
+Antwort_2=0ca. 3 Millionen
+Antwort_3=0ca. 30 Millionen
+Antwort_4=0ca. 300.000
+
+[195]
+FZ1=
+FZ2=Was ist eine Angina ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1eine Halsentzündung, bei der vor allem	die Mandeln betroffen sind
+Antwort_2=0eine Entzündung der rechten	Herzkammer
+Antwort_3=0eine Verstauchung des Fußknöchels
+Antwort_4=0eine Blinddarmentzündung
+
+[196]
+FZ1=
+FZ2=Wie heißt eine Halsentzündung, bei der vor allem die Mandeln betroffen sind ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Angina
+Antwort_2=0Grippe
+Antwort_3=0Erkältung
+Antwort_4=0Bronchitis
+
+[197]
+FZ1=
+FZ2=Welche Wegstrecke legt die Nahrung auf dem Weg durch das Verdauungssystem
+FZ3=zurück ?
+Min=4000
+Max=64000
+Antwort_1=19 m
+Antwort_2=00,50 cm
+Antwort_3=02,50 m
+Antwort_4=03,80 m
+
+[198]
+FZ1=
+FZ2=Wie nennt man unverdauliche Bestandteile der Nahrung,
+FZ3=die die Verdauung fördern ?
+Min=1000
+Max=16000
+Antwort_1=1Ballaststoffe
+Antwort_2=0Vitamine
+Antwort_3=0Nährstoffe
+Antwort_4=0Kohlenhydrate
+
+[199]
+FZ1=
+FZ2=Wodurch entstehen die Herztöne ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1durch das Öffnen und das Schließen der	Herzklappen
+Antwort_2=0durch das heftige Atmen
+Antwort_3=0durch die Bewegung der	darüberliegenden Lunge
+Antwort_4=0durch das Zwerchfell, das das Herz hin-	und herbewegt
+
+[200]
+FZ1=
+FZ2=Was ist der Bizeps ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ein Armmuskel
+Antwort_2=0ein Beinmuskel
+Antwort_3=0ein Knochen
+Antwort_4=0der Mageneingang
+
+[201]
+FZ1=
+FZ2=Wie heißt der Ringmuskel, der den Nahrungsbrei aus dem Magen
+FZ3=in den Darm drückt ?
+Min=4000
+Max=64000
+Antwort_1=1Pförtner
+Antwort_2=0Türsteher
+Antwort_3=0Drücker
+Antwort_4=0Wächter
+
+[202]
+FZ1=
+FZ2=Warum ist der linke Lungenflügel etwas kleiner als der rechte Lungenflügel ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Er hat eine Einbuchtung, um Platz für	das Herz zu machen.
+Antwort_2=0Durch den linken Lungenflügel strömt	nicht so viel Luft.
+Antwort_3=0Er entwickelt sich etwas später.
+Antwort_4=0Er hat eine Einbuchtung, um Platz für	den Magen zu machen.
+
+[203]
+FZ1=
+FZ2=Welches ist der längste Knochen im Körper ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1der Oberschenkelknochen
+Antwort_2=0der Unterarmknochen
+Antwort_3=0der Oberarmknochen
+Antwort_4=0das Wadenbein
+
+[204]
+FZ1=
+FZ2=Wie nennt man die Verbindung zwischen Niere und Blase ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Harnleiter
+Antwort_2=0Harntunnel
+Antwort_3=0Harntreppe
+Antwort_4=0Harnbrücke
+
+[205]
+FZ1=
+FZ2=Welche Menge an Flüssigkeit läuft täglich durch die Nieren ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ca. 180 Liter
+Antwort_2=0ca. 90 Liter
+Antwort_3=0ca. 120 Liter
+Antwort_4=0ca. 35 Liter
+
+[206]
+FZ1=
+FZ2=Welche Organe sind dafür zuständig, körpereigenes Wasser sauber zu halten ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1die Nieren
+Antwort_2=0die Ohren
+Antwort_3=0die Lungen
+Antwort_4=0die Mandeln
+
+[207]
+FZ1=
+FZ2=Wie nennt man ein kleines Stück Darm am Übergang vom Dünndarm in den
+FZ3=Dickdarm, das sich manchmal entzündet ?
+Min=8000
+Max=125000
+Antwort_1=1Wurmfortsatz
+Antwort_2=0Krummdarm
+Antwort_3=0Blindarm
+Antwort_4=0Käferbein
+
+[208]
+FZ1=
+FZ2=Welche Krankheit kann man bekommen, wenn die Bauchspeicheldrüse nicht mehr
+FZ3=richtig funktioniert ?
+Min=8000
+Max=125000
+Antwort_1=1Diabetes
+Antwort_2=0Dabolo
+Antwort_3=0Diogenes
+Antwort_4=0Diarama
+
+[209]
+FZ1=
+FZ2=Wie heißt die Hauptverdauungsdrüse beim Menschen,
+FZ3=die ihre Säfte in den ersten Abschnitt des Darms abgibt ?
+Min=4000
+Max=64000
+Antwort_1=1Bauchspeicheldrüse
+Antwort_2=0Bauchnebendrüse
+Antwort_3=0Bauchsaftdrüse
+Antwort_4=0Bauchhauptdrdüse
+
+[210]
+FZ1=
+FZ2=Wie heißt das Darmstück, in das der Magen die Nahrung weiterleitet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Zwölffingerdarm
+Antwort_2=0Zehndaumendarm
+Antwort_3=0Vierzehendarm
+Antwort_4=0Neunhändedarm
+
+[211]
+FZ1=
+FZ2=Welches Organ dient vor allem dazu, Fett aufzuspalten und verdaulich zu machen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1die Galle
+Antwort_2=0die Milz
+Antwort_3=0die Niere
+Antwort_4=0die Lunge
+
+[212]
+FZ1=
+FZ2=Wovon wird der gesamte Herzmuskel umspannt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1vom zweischichtigen Herzbeutel
+Antwort_2=0vom dreifachen Herznetz
+Antwort_3=0von der einlagigen Herzlederhaut
+Antwort_4=0von der doppelten Herztüte
+
+[213]
+FZ1=
+FZ2=Wie groß ist der Innendurchmesser der Aorta ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1ca. 25 mm
+Antwort_2=0ca. 35 mm
+Antwort_3=0ca. 18 mm
+Antwort_4=0ca. 12 mm
+
+[214]
+FZ1=
+FZ2=Wie heißt der unterste Teil des Brustbeins ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Schwertfortsatz
+Antwort_2=0Degenfortsatz
+Antwort_3=0Messerfortsatz
+Antwort_4=0Gabelfortsatz
+
+[215]
+FZ1=
+FZ2=Was ist am Eingang zum Mittelohr aufgespannt und bildet einen
+FZ3=luftdichten Abschluss ?
+Min=0
+Max=1000
+Antwort_1=1Trommelfell
+Antwort_2=0Paukenfell
+Antwort_3=0Zwerchfell
+Antwort_4=0Kesselfell
+
+[216]
+FZ1=
+FZ2=Wie viele Zapfen gibt es in der Netzhaut ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ca.  7 Millionen
+Antwort_2=0ca. 55 Millionen
+Antwort_3=0ca. 120 Millionen
+Antwort_4=0ca. 80 Millionen
+
+[217]
+FZ1=
+FZ2=Welche Haut gehört  n i c h t  zum Auge ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Fadenhaut
+Antwort_2=0Lederhaut
+Antwort_3=0Hornhaut
+Antwort_4=0Bindehaut
+
+[218]
+FZ1=
+FZ2=Wie heißt das Gehirnwasser, das in dem Raum zwischen Schädelknochen und
+FZ3=Hirnoberfläche fließt ?
+Min=2000
+Max=32000
+Antwort_1=1Liquor
+Antwort_2=0Sekt
+Antwort_3=0Rum
+Antwort_4=0Gin
+
+[219]
+FZ1=
+FZ2=Wie viele Milchzähne hat ein Kind ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=120
+Antwort_2=018
+Antwort_3=016
+Antwort_4=024
+
+[220]
+FZ1=
+FZ2=Wie heißen die beiden Teile eines Zahnes ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Krone und Wurzel
+Antwort_2=0Ast und Zweig
+Antwort_3=0Stamm und Blatt
+Antwort_4=0Rinde und Nadel
+
+[221]
+FZ1=
+FZ2=Wo ist die Haut am dünnsten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1an den Augenlidern
+Antwort_2=0am Ellenbogen
+Antwort_3=0am kleinen Zeh
+Antwort_4=0am Bauchnabel
+
+[222]
+FZ1=
+FZ2=Wo befinden sich die Stimmbänder ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1im Kehlkopf
+Antwort_2=0neben der Speiseröhre
+Antwort_3=0in der Nasenhöhle
+Antwort_4=0unter dem Zwerchfell
+
+[223]
+FZ1=
+FZ2=Welche Drüse hilft bei der Regulierung des Körperwachstums ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Schilddrüse
+Antwort_2=0Talgdrüse
+Antwort_3=0Bauchspeicheldrüse
+Antwort_4=0Speicheldrüse
+
+[224]
+FZ1=
+FZ2=Wie viele Knochen hat ein Fuß ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=126
+Antwort_2=030
+Antwort_3=028
+Antwort_4=032
+
+[225]
+FZ1=
+FZ2=Wie heißen die Knochen des Unterarmes ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Speiche und Elle
+Antwort_2=0Felge und Stab
+Antwort_3=0Bogen und Faden
+Antwort_4=0Stock und Haken
+
+[226]
+FZ1=
+FZ2=Was geschieht mit den verwertbaren Bestandteilen der Nahrung im Darm ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sie werden ans Blut abgegeben.
+Antwort_2=0Sie werden ausgeschieden.
+Antwort_3=0Sie werden im Darm gespeichert.
+Antwort_4=0Sie werden zum Magen transportiert.
+
+[227]
+FZ1=
+FZ2=Wie nennt man die vielen verschiedenen Stoffe, die im Verdauungstrakt produziert
+FZ3=werden, um die Nahrung aufzuspalten ?
+Min=4000
+Max=64000
+Antwort_1=1Enzyme
+Antwort_2=0Zypressen
+Antwort_3=0Phosphate
+Antwort_4=0Vitamine
+
+[228]
+FZ1=
+FZ2=Wie heißt die ätzende Flüssigkeit, die von der Magenschleimhaut produziert wird ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Salzsäure
+Antwort_2=0Pfeffersäure
+Antwort_3=0Zuckersäure
+Antwort_4=0Zimtsäure
+
+[229]
+FZ1=
+FZ2=Wie nennt man die Knet- und Vorwärtsbewegung im Magen oder im Darm,
+FZ3=die den Speisebrei befördert ?
+Min=500000
+Max=500000
+Antwort_1=1Peristaltik
+Antwort_2=0Hydraulik
+Antwort_3=0Magenta
+Antwort_4=0Motorik
+
+[230]
+FZ1=
+FZ2=Wie viele Liter Nahrung kann der Magen aufnehmen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1bis zu 2,5 l
+Antwort_2=0ca. 0,5 l
+Antwort_3=01 - 2 l
+Antwort_4=01,75 l
+
+[231]
+FZ1=
+FZ2=Wie ist der Unterkiefer mit dem Oberkiefer verbunden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Sie halten durch Gelenke zusammen.
+Antwort_2=0Sie sind durch zwei feste Bänder	verbunden.
+Antwort_3=0Sie sind zusammengewachsen.
+Antwort_4=0Sie sind durch zahlreiche, feine Sehnen	miteinander verbunden.
+
+[232]
+FZ1=
+FZ2=Wie nennt man das weichere Innere des Zahnes ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Zahnmark
+Antwort_2=0Zahnstein
+Antwort_3=0Zahnschmelz
+Antwort_4=0Zahnbrei
+
+[233]
+FZ1=
+FZ2=Welchen Knochen gehört zur Hand ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Erbsenbein
+Antwort_2=0Möhrenbein
+Antwort_3=0Bohnenbein
+Antwort_4=0Maisbein
+
+[234]
+FZ1=
+FZ2=Wie heißt der lange Knochen, der von der Schulter bis zum Brustbein reicht ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Schlüsselbein
+Antwort_2=0Schlussbein
+Antwort_3=0Schlossbein
+Antwort_4=0Klingelbein
+
+[235]
+FZ1=
+FZ2=Wie heißt der zweite Halswirbel von oben, der so gebaut ist,
+FZ3=dass man den Kopf drehen kann ?
+Min=500000
+Max=500000
+Antwort_1=1Axis
+Antwort_2=0Asia
+Antwort_3=0Atlas
+Antwort_4=0Ayers
+
+[236]
+FZ1=
+FZ2=Wie heißt der erste (oberste) Halswirbel ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Atlas
+Antwort_2=0Alex
+Antwort_3=0Axis
+Antwort_4=0Axion
+
+[237]
+FZ1=
+FZ2=Wie nennt man die Polster zwischen den einzelnen Wirbeln ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Bandscheiben
+Antwort_2=0Drehgelenke
+Antwort_3=0Schnurscheiben
+Antwort_4=0Dornfortsätze
+
+[238]
+FZ1=
+FZ2=Was ist eine Fontanelle ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1das Loch in der Schädeldecke eines	Säuglings, das nur durch	Haut geschützt ist
+Antwort_2=0eine schmerzhafte Verdickung der	Speiseröhre
+Antwort_3=0eine einzelne Zelle im Hirnstamm, die	für die Gefühle verantwortlich ist
+Antwort_4=0eine angebrochene Rippe
+
+[239]
+FZ1=
+FZ2=Wie nennt man das Loch in der Schädeldecke eines Säuglings, das nur durch Haut
+FZ3=geschützt ist ?
+Min=250000
+Max=500000
+Antwort_1=1Fontanelle
+Antwort_2=0Bagatelle
+Antwort_3=0Pimpanelle
+Antwort_4=0Grisuzelle
+
+[240]
+FZ1=
+FZ2=Wie nennt man das elastische Stützgewebe, das sich an den Gelenken, in der
+FZ3=Ohrmuschel oder in den Zwischenwirbeln befindet ?
+Min=2000
+Max=32000
+Antwort_1=1Knorpel
+Antwort_2=0Gelenkschmiere
+Antwort_3=0Fettgewebe
+Antwort_4=0Knochenmark
+
+[241]
+FZ1=
+FZ2=Wie nennt man es, wenn sich das Zwerchfell ruckartig zusammenzieht ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schluckauf
+Antwort_2=0Niesen
+Antwort_3=0Schluckab
+Antwort_4=0Gähnen
+
+[242]
+FZ1=
+FZ2=Wo liegen auf der Zunge die Geschmacksknospen, die auf süßen Geschmack
+FZ3=reagieren ?
+Min=8000
+Max=125000
+Antwort_1=1ganz vorne
+Antwort_2=0in der Mitte
+Antwort_3=0ganz hinten
+Antwort_4=0an der rechten Seite
+
+[243]
+FZ1=
+FZ2=Was sondert der Körper an entzündeten Stellen ab ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Eiter
+Antwort_2=0Hormone
+Antwort_3=0Blut
+Antwort_4=0Talg
+
+[244]
+FZ1=
+FZ2=Wie heißt das Abtöten von Krankheitserregern ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Desinfektion
+Antwort_2=0Destillation
+Antwort_3=0Detonation
+Antwort_4=0Denunziation
+
+[245]
+FZ1=
+FZ2=Wie nennt man die Vereinigung einer männlichen und einer weiblichen
+FZ3=Geschlechtszelle ?
+Min=1000
+Max=16000
+Antwort_1=1Befruchtung
+Antwort_2=0Fortpflanzung
+Antwort_3=0Geschlechtsverkehr
+Antwort_4=0Pubertät
+
+[246]
+FZ1=
+FZ2=Wie heißt die Krankheit, die das Gehirn befällt
+FZ3=und dort einen schleichenden Verfall bewirkt ?
+Min=1000
+Max=16000
+Antwort_1=1Alzheimer
+Antwort_2=0Tuberkulose
+Antwort_3=0Diabetes
+Antwort_4=0Meningitis
+
+[247]
+FZ1=
+FZ2=Welchen Anteil aller Knochen unseres Körpers enthalten Hände und Füße ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1mehr als die Hälfte
+Antwort_2=0genau ein Viertel
+Antwort_3=0etwa ein Drittel
+Antwort_4=0ungefähr ein Zehntel
+
+[248]
+FZ1=
+FZ2=Welches Teil des Ohres hilft uns, das Gleichgewicht zu halten ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1die Bogengänge
+Antwort_2=0das Trommelfell
+Antwort_3=0der Steigbügel
+Antwort_4=0die Zügel
+
+[249]
+FZ1=
+FZ2=Wie ändert sich die Farbe der Haut, wenn wir frieren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Sie wird blass.
+Antwort_2=0Sie wird schwärzlich.
+Antwort_3=0Sie wird rötlich.
+Antwort_4=0Sie wird grünlich.
+
+[250]
+FZ1=
+FZ2=Wie nennt man die Strahlen, mit denen man ins Körperinnere sehen kann ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Röntgenstrahlen
+Antwort_2=0Infrarotstrahlen
+Antwort_3=0Laserstrahlen
+Antwort_4=0Gammastrahlen
+
+[251]
+FZ1=
+FZ2=Wie heißt das chinesische Heilverfahren, bei dem Nadeln an bestimmten
+FZ3=Körperstellen eingestochen werden ?
+Min=1000
+Max=16000
+Antwort_1=1Akupunktur
+Antwort_2=0Akumulator
+Antwort_3=0Akupressur
+Antwort_4=0Akustik
+
+[252]
+FZ1=
+FZ2=Welcher Teil des Gehirns ist für die rechte Körperseite zuständig ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1die linke Gehirnhälfte
+Antwort_2=0die vordere Gehirnhälfte
+Antwort_3=0die rechte Gehirnhälfte
+Antwort_4=0die hintere Gehirnhälfte
+
+[253]
+FZ1=
+FZ2=Wie heißt die Wissenschaft, die die Lebensvorgänge
+FZ3=und die Funktion der Organe untersucht ?
+Min=64000
+Max=500000
+Antwort_1=1Physiologie
+Antwort_2=0Pathologie
+Antwort_3=0Psychologie
+Antwort_4=0Pädagogoik
+
+[254]
+FZ1=
+FZ2=Was verbindet Rachen und Mageneingang ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Speiseröhre
+Antwort_2=0Nahrungsschacht
+Antwort_3=0Essenskanal
+Antwort_4=0Futterbrücke
+
+[255]
+FZ1=
+FZ2=Wie lange können wir pro Tag wegen des Lidschlages nichts sehen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=130 Minuten
+Antwort_2=05 Minuten
+Antwort_3=01 Stunde
+Antwort_4=015 Minuten
+
+[256]
+FZ1=
+FZ2=An welchen Stellen des Körpers ist die Haut unempfindlicher ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Rücken
+Antwort_2=0Zehen
+Antwort_3=0Finger
+Antwort_4=0Lippen
+
+[257]
+FZ1=
+FZ2=Was schützt das Ohr vor Schmutz und Bakterien ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ohrenschmalz
+Antwort_2=0Ohrenmargarine
+Antwort_3=0Ohrenbutter
+Antwort_4=0Ohrenöl
+
+[258]
+FZ1=
+FZ2=Womit werden die Wirbel der Wirbelsäule zusammengehalten ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1durch Bandscheiben und Bänder
+Antwort_2=0durch Knorpel und Muskeln
+Antwort_3=0durch elastische Knochen und Sehnen
+Antwort_4=0durch Leukozyten und Neuronen
+
+[259]
+FZ1=
+FZ2=Aus wie vielen beweglichen Wirbeln besteht unsere Wirbelsäule ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=124
+Antwort_2=012
+Antwort_3=018
+Antwort_4=048
+
+[260]
+FZ1=
+FZ2=Mit welcher Gruppe von Zähnen wird die Nahrung zermahlen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1mit den Backenzähnen
+Antwort_2=0mit den Schneidezähnen
+Antwort_3=0mit den Eckzähnen
+Antwort_4=0mit den Weisheitszähnen
+
+[261]
+FZ1=
+FZ2=Wie viele Muskeln enthält der menschliche Körper ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 150
+Antwort_2=0ca. 290
+Antwort_3=0300 - 500
+Antwort_4=0über 600
+
+[262]
+FZ1=
+FZ2=Wo im Körper der Frau befinden sich die Eizellen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in den Eierstöcken
+Antwort_2=0in der Gebärmutter
+Antwort_3=0im Eileiter
+Antwort_4=0in den Eiertaschen
+
+[263]
+FZ1=
+FZ2=Wie viel Blut enthält der menschliche Körper ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 5 l
+Antwort_2=0ca. 3 l
+Antwort_3=0ca. 2 l
+Antwort_4=0ca. 9 l
+
+[264]
+FZ1=
+FZ2=Wie heißt das Gas, das als Abfallprodukt bei unserer Atmung entsteht ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Kohlendioxid
+Antwort_2=0Kohlenmonoxid
+Antwort_3=0Kohlenhydrat
+Antwort_4=0Kohlenwasserstoff
+
+[265]
+FZ1=
+FZ2=Wofür sind die Neuronen zuständig ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1für die Übermittlung von Nachrichten
+Antwort_2=0für den Sauerstofftransport
+Antwort_3=0für die Blutgerinnung
+Antwort_4=0für das Haarwachstum
+
+[266]
+FZ1=
+FZ2=Wie nennt man die Zellen, die im Körper für die Übermittlung von Nachrichten
+FZ3=zuständig sind ?
+Min=16000
+Max=16000
+Antwort_1=1Neuronen
+Antwort_2=0Arterien
+Antwort_3=0Leukozyten
+Antwort_4=0Plutonen
+
+[267]
+FZ1=
+FZ2=Welches Hormon ist für die Regulierung des Blutzuckerspiegels zuständig ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Insulin
+Antwort_2=0Adrenalin
+Antwort_3=0Sacharin
+Antwort_4=0Bergolin
+
+[268]
+FZ1=
+FZ2=Wofür ist das Hormon Insulin zuständig ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1für die Regulierung des	Blutzuckerspiegels
+Antwort_2=0für das Knochenwachstum
+Antwort_3=0für die Regulierung der Atemfrequenz
+Antwort_4=0für die Stärkung des Immunsystems
+
+[269]
+FZ1=
+FZ2=Wie viel Prozent unseres Gewichts machen die Muskeln aus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 40 %
+Antwort_2=0ca. 60 %
+Antwort_3=0ca. 50 %
+Antwort_4=0ca. 70 %
+
+[270]
+FZ1=
+FZ2=Welche Aufgabe haben die weißen Blutkörperchen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sie bekämpfen Krankheitserreger.
+Antwort_2=0Sie verursachen die Blutgerinnung.
+Antwort_3=0Sie transportieren den Sauerstoff.
+Antwort_4=0Sie verdünnen das Blut, damit es besser	fließen kann.
+
+[271]
+FZ1=
+FZ2=Aus wie vielen Knochen besteht das menschliche Skelett ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1206
+Antwort_2=0104
+Antwort_3=0308
+Antwort_4=0410
+
+[272]
+FZ1=
+FZ2=Wie viele Haare hat der Mensch auf dem Kopf ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=180.000 - 140.000
+Antwort_2=0140.000 - 200.000
+Antwort_3=050.000 - 80.000
+Antwort_4=0200.000 - 300.000
+
+[273]
+FZ1=
+FZ2=Wie lange dauert es, bis die Fingernägel 1mm gewachsen sind ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 10 -12 Tage
+Antwort_2=0ca. 3 Wochen
+Antwort_3=03 - 4 Tage
+Antwort_4=01 Monat
+
+[274]
+FZ1=
+FZ2=Wie viele Schweißdrüsen hat die Haut ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ca. 2 Millionen
+Antwort_2=0ca. 3 Millionen
+Antwort_3=0ca. 1 Million
+Antwort_4=0ca. 4 Millionen
+
+[275]
+FZ1=
+FZ2=In wie vielen Tagen wachsen die Wimpern um ihre eigene Länge nach ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ca. 100
+Antwort_2=0ca. 200
+Antwort_3=0ca. 50
+Antwort_4=0ca. 300
+
+[276]
+FZ1=
+FZ2=Welche Farbe haben die äußeren Gehirnzellen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1grau
+Antwort_2=0rot
+Antwort_3=0weiß
+Antwort_4=0blau
+
+[277]
+FZ1=
+FZ2=Wie viele Muskelpaare hat die Frau ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1315
+Antwort_2=0245
+Antwort_3=0295
+Antwort_4=0213
+
+[278]
+FZ1=
+FZ2=Wie viele Muskelpaare hat der Mann ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1316
+Antwort_2=0378
+Antwort_3=0288
+Antwort_4=0232
+
+[279]
+FZ1=
+FZ2=Wann fallen die Milchzähne aus ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1im Alter von 6 - 7 Jahren
+Antwort_2=0im Alter von 8 - 9 Jahren
+Antwort_3=0im Alter von 4 - 5 Jahren
+Antwort_4=0im Alter von 9 - 11 Jahren
+
+[280]
+FZ1=
+FZ2=Wie heißen die Blutgefäße, die das Blut zum Herzen zurückführen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Venen
+Antwort_2=0Vasen
+Antwort_3=0Arterien
+Antwort_4=0Turkmenen
+
+[281]
+FZ1=
+FZ2=Wie heißen die Blutgefäße, die das sauerstoffreiche Blut vom Herzen wegführen ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Arterien
+Antwort_2=0Venen
+Antwort_3=0Alveolen
+Antwort_4=0Artillen
+
+[282]
+FZ1=
+FZ2=Warum hört sich die eigene Stimme fremd an, wenn sie vom Rekorder kommt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Schallwellen erreichen einen nur	durch die Luft und nicht  auch durch die	Schädelknochen
+Antwort_2=0die Schallwellen können mit dem	Rekorder laut und leise gestellt werden
+Antwort_3=0die Schallwellen werden durch den	Rekorder verstärkt
+Antwort_4=0die Schallwellen treffen oft nur auf ein	Ohr
+
+[283]
+FZ1=
+FZ2=Welcher Teil unseres Gehirns steuert die Atmung ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der Hirnstamm
+Antwort_2=0das Kleinhirn
+Antwort_3=0das Großhirn
+Antwort_4=0das Mittelhirn
+
+[284]
+FZ1=
+FZ2=Wie viel Prozent des Sauerstoffs, den wir einatmen, verbraucht unser Gehirn ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 20 Prozent
+Antwort_2=0ca. 10 Prozent
+Antwort_3=0ca. 30 Prozent
+Antwort_4=0ca. 40 Prozent
+
+[285]
+FZ1=
+FZ2=Welcher Bestandteil des Blutes ist für den Transport von Sauerstoff zuständig ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die roten Blutkörperchen
+Antwort_2=0die Blutplättchen
+Antwort_3=0die weißen Blutkörperchen
+Antwort_4=0das Hämoglobin
+
+[286]
+FZ1=
+FZ2=Wer braucht am meisten Schlaf ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Säugling
+Antwort_2=0ein alter Mensch
+Antwort_3=0ein Jugendlicher
+Antwort_4=0ein Beamter
+
+[287]
+FZ1=
+FZ2=Was ist das größte Organ des Körpers ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Haut
+Antwort_2=0Leber
+Antwort_3=0Herz
+Antwort_4=0Lunge
+
+[288]
+FZ1=
+FZ2=Wofür ist Melanin verantwortlich ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1für die Augen-, Haut- und Haarfarbe
+Antwort_2=0für die Verdauung
+Antwort_3=0für das Wachstum
+Antwort_4=0für die Blutgerinnung
+
+[289]
+FZ1=
+FZ2=Welcher Stoff ist für die Haarfarbe verantwortlich ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Melanin
+Antwort_2=0Thrombin
+Antwort_3=0Adrenalin
+Antwort_4=0Kerubim
+
+[290]
+FZ1=
+FZ2=Wie viele Muskeln braucht man zum Lächeln ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 30
+Antwort_2=0ca. 10
+Antwort_3=0ca. 20
+Antwort_4=0ca. 40
+
+[291]
+FZ1=
+FZ2=Gegen welche Krankheit wurde der erste Impfstoff gefunden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Pocken
+Antwort_2=0Tuberkulose
+Antwort_3=0Aids
+Antwort_4=0Malaria
+
+[292]
+FZ1=
+FZ2=Wann wurde der erste Impfstoff gefunden ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11796
+Antwort_2=01911
+Antwort_3=01643
+Antwort_4=01834
+
+[293]
+FZ1=
+FZ2=Wie viele verschiedene Blutgruppen gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=14
+Antwort_2=03
+Antwort_3=02
+Antwort_4=05
+
+[294]
+FZ1=
+FZ2=Wie viel Blut pumpt das Herz bei jedem Schlag in die Arterien ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=170 Milliliter
+Antwort_2=0500 Milliliter
+Antwort_3=0150 Milliliter
+Antwort_4=010 Milliliter
+
+[295]
+FZ1=
+FZ2=Wie nennt man die chemischen Botenstoffe im Körper ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hormone
+Antwort_2=0Chromosomen
+Antwort_3=0Proteine
+Antwort_4=0Leukozyten
+
+[296]
+FZ1=
+FZ2=Was ist die härteste Substanz im Körper ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Zähne
+Antwort_2=0Knochen
+Antwort_3=0Fingernägel
+Antwort_4=0Muskeln
+
+[297]
+FZ1=
+FZ2=Was geschieht, wenn über einen längeren Zeitraum auf einem Nerv im Bein Druck
+FZ3=ausgeübt wird ?
+Min=2000
+Max=32000
+Antwort_1=1Es schläft ein.
+Antwort_2=0Es wird dünner.
+Antwort_3=0Es wird dicker.
+Antwort_4=0Es wird rot.
+
+[298]
+FZ1=
+FZ2=Wie nennt man die winzigen Lücken zwischen den einzelnen Neuronen, die
+FZ3=überbrückt werden müssen ?
+Min=250000
+Max=500000
+Antwort_1=1Synapsen
+Antwort_2=0Berberitze
+Antwort_3=0Kollapse
+Antwort_4=0Glukose
+
+[299]
+FZ1=
+FZ2=Mit welcher Geschwindigkeit können die Nerven eine Nachricht
+FZ3=durch den Körper weiterleiten ?
+Min=250000
+Max=500000
+Antwort_1=1ca. 90 km/h
+Antwort_2=0ca. 30 km/h
+Antwort_3=0ca. 60 km/h
+Antwort_4=0ca. 15 km/h
+
+[300]
+FZ1=
+FZ2=Wie oft wandern die roten Blutzellen durch den Körper,
+FZ3=bevor sie nach ca. 120 Tagen absterben ?
+Min=16000
+Max=250000
+Antwort_1=1ca. 300.000 - mal
+Antwort_2=0ca. 500.000 - mal
+Antwort_3=0ca. 100.000 - mal
+Antwort_4=0ca. 10.000 - mal
+
+[301]
+FZ1=
+FZ2=Welcher Teil des Gehirns ist dafür zuständig, dass man sich z.B. Vokabeln merken
+FZ3=kann ?
+Min=32000
+Max=250000
+Antwort_1=0Kleinhirn
+Antwort_2=1Großhirn
+Antwort_3=0Mittelhirn
+Antwort_4=0Hirnstamm
+
+[302]
+FZ1=
+FZ2=Wie wird der dicke Nervenstrang genannt, der die beiden Halbkugeln des Gehirns
+FZ3=miteinander verbindet ?
+Min=32000
+Max=250000
+Antwort_1=1Balken
+Antwort_2=0Stange
+Antwort_3=0Brett
+Antwort_4=0Stempel
+
+[303]
+FZ1=
+FZ2=Wo befindet sich die Spinnwebenhaut ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1über dem Gehirn
+Antwort_2=0über dem Schulterblatt
+Antwort_3=0unter dem Zwerchfell
+Antwort_4=0am Oberschenkel
+
+[304]
+FZ1=
+FZ2=Wie viele verschiedene Hirnhäute gibt es ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=13
+Antwort_2=04
+Antwort_3=02
+Antwort_4=05
+
+[305]
+FZ1=
+FZ2=Wie heißen die Hüllen, die sich als Polsterung zwischen Schädel und Gehirn
+FZ3=befinden ?
+Min=1000
+Max=16000
+Antwort_1=1Hirnhäute
+Antwort_2=0Hirnkissen
+Antwort_3=0Hirnpolster
+Antwort_4=0Hirndecken
+
+[306]
+FZ1=
+FZ2=Welche Folgen haben sehr laute Geräusche für das Ohr ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schwerhörigkeit
+Antwort_2=0Mittelohrentzündung
+Antwort_3=0Leichthörigkeit
+Antwort_4=0das  Ohrenschmalz verflüssigt sich
+
+[307]
+FZ1=
+FZ2=Wie viele Hörzellen befinden sich am cortischen Organ ?
+FZ3=(Dieses Organ nimmt den Schall auf.)
+Min=500000
+Max=500000
+Antwort_1=1ca. 20.000
+Antwort_2=0ca. 5.000
+Antwort_3=0ca. 10.000
+Antwort_4=0ca. 1.000
+
+[308]
+FZ1=
+FZ2=Wie heißt das Organ, das den Schall tatsächlich aufnimmt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1das cortische Organ
+Antwort_2=0das xeritische Organ
+Antwort_3=0das monolithe Organ
+Antwort_4=0das labiale Organ
+
+[309]
+FZ1=
+FZ2=Wie nennt man den äußeren, sichtbaren Teil des Ohrs ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ohrmuschel
+Antwort_2=0Ohrqualle
+Antwort_3=0Ohrschale
+Antwort_4=0Ohrschnecke
+
+[310]
+FZ1=
+FZ2=Wofür ist der stammesgeschichtlich älteste Teil des Gehirns zuständig ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Atmung und Blutkreislauf
+Antwort_2=0Wachstum und Gleichgewicht
+Antwort_3=0Nahrungsaufnahme und Fortpflanzung
+Antwort_4=0Sehen und Riechen
+
+[311]
+FZ1=
+FZ2=Wie heißt der stammesgeschichtlich älteste Teil des Gehirns ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hirnstamm
+Antwort_2=0Großhirn
+Antwort_3=0Kleinhirn
+Antwort_4=0Hirnanhangdrüse
+
+[312]
+FZ1=
+FZ2=Wie viele Hirnnerven (Hauptnervenpaare) entspringen direkt am Gehirn ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=112
+Antwort_2=08
+Antwort_3=010
+Antwort_4=06
+
+[313]
+FZ1=
+FZ2=Wie schwer ist das menschliche Gehirn im Durchschnitt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 1.300 g
+Antwort_2=0ca. 2 kg
+Antwort_3=0ca. 900 g
+Antwort_4=0500 - 800 g
+
+[314]
+FZ1=
+FZ2=Von wo geht der Impuls aus, wenn man eine Tür schließen will ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1vom Gehirn
+Antwort_2=0vom Auge
+Antwort_3=0von der Hand
+Antwort_4=0vom Arm
+
+[315]
+FZ1=
+FZ2=Das schwarze Sehloch wird auch Pupille genannt. Wie heißt dies aus dem
+FZ3=Lateinischen übersetzt ?
+Min=250000
+Max=500000
+Antwort_1=1kleines Püppchen
+Antwort_2=0kleiner Punkt
+Antwort_3=0kleine Pille
+Antwort_4=0kleines Mädchen
+
+[316]
+FZ1=
+FZ2=Wie nennt man den Punkt auf der Netzhaut, der mit dem Sehnerv verbunden ist ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1blinder Fleck
+Antwort_2=0schwarzer Fleck
+Antwort_3=0heller Fleck
+Antwort_4=0runder Fleck
+
+[317]
+FZ1=
+FZ2=Wie heißt die Haut hinten im Auge, die die Lichtreize direkt an den Sehnerv
+FZ3=weitergibt ?
+Min=1000
+Max=16000
+Antwort_1=1Netzhaut
+Antwort_2=0Hornhaut
+Antwort_3=0Lederhaut
+Antwort_4=0Beutelhaut
+
+[318]
+FZ1=
+FZ2=Wie nennt man das Auge, seiner Form entsprechend ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Augapfel
+Antwort_2=0Augkirsche
+Antwort_3=0Augbirne
+Antwort_4=0Augbanane
+
+[319]
+FZ1=
+FZ2=Wofür ist der stammesgeschichtlich älteste Teil des Gehirns zuständig ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Atmung und Blutkreislauf
+Antwort_2=0Wachstum und Gleichgewicht
+Antwort_3=0Nahrungsaufnahme und Fortpflanzung
+Antwort_4=0Sehen und Riechen
+
+[320]
+FZ1=
+FZ2=Auf welche Haut des Auges trifft das Licht zuerst ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1auf die Hornhaut
+Antwort_2=0auf die Feinhaut
+Antwort_3=0auf die Schutzhaut
+Antwort_4=0auf die Netzhaut
+
+[321]
+FZ1=
+FZ2=Wie nennt man das Pochen in den Arterien, das jeder Herzschlag erzeugt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Puls
+Antwort_2=0Muls
+Antwort_3=0Sulz
+Antwort_4=0Gruls
+
+[322]
+FZ1=
+FZ2=Wie viele Kammern hat das Herz ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=14
+Antwort_2=06
+Antwort_3=02
+Antwort_4=08
+
+[323]
+FZ1=
+FZ2=Wie viele verschiedene Geschmacksrichtungen können wir mit unserem
+FZ3=Geschmackssinn unterscheiden ?
+Min=16000
+Max=250000
+Antwort_1=14
+Antwort_2=08
+Antwort_3=06
+Antwort_4=010
+
+[324]
+FZ1=
+FZ2=Woraus besteht die Nasenscheidewand im vorderen Teil ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Knorpel
+Antwort_2=0Muskelgewebe
+Antwort_3=0Knochen
+Antwort_4=0Sehnen
+
+[325]
+FZ1=Es kann vorkommen, dass sich das Immunsystem gegen den eigenen Körper richtet
+FZ2=oder harmlose Eindringlinge als gefährlich einstuft.
+FZ3=Wie nennt man solche Erkrankungen ?
+Min=2000
+Max=32000
+Antwort_1=1Allergien
+Antwort_2=0Röteln
+Antwort_3=0Masern
+Antwort_4=0Keuchhusten
+
+[326]
+FZ1=
+FZ2=Wie nennt man die Schutzeinrichtung, die dem Körper hilft,
+FZ3=Krankheiten abzuwehren ?
+Min=2000
+Max=32000
+Antwort_1=1Immunsystem
+Antwort_2=0Gesundheitssystem
+Antwort_3=0Schutzsystem
+Antwort_4=0Emmonsystem
+
+[327]
+FZ1=
+FZ2=Welche besonderen Wirkstoffe steuern zusammen mit dem Nervensystem den
+FZ3=menschlichen Organismus ?
+Min=2000
+Max=32000
+Antwort_1=1Hormone
+Antwort_2=0Tormone
+Antwort_3=0Mormone
+Antwort_4=0Bormone
+
+[328]
+FZ1=
+FZ2=Wie viel Blutzellen produziert das Knochenmark in einer Sekunde ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11 Millionen
+Antwort_2=0250.000
+Antwort_3=0500.000
+Antwort_4=0100.000
+
+[329]
+FZ1=
+FZ2=In welchem Organ werden abgestorbene rote Blutkörperchen aussortiert und zudem
+FZ3=weiße Blutzellen gebildet ?
+Min=8000
+Max=125000
+Antwort_1=1in der Milz
+Antwort_2=0in den Nieren
+Antwort_3=0in der Leber
+Antwort_4=0im Magen
+
+[330]
+FZ1=
+FZ2=Welche Farbe hat das Blut, wenn es den Sauerstoff an die Zellen abgegeben hat ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bläulich
+Antwort_2=0grünlich
+Antwort_3=0rötlich
+Antwort_4=0gräulich
+
+[331]
+FZ1=
+FZ2=Wie heißt die Hauptschlagader ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Aorta
+Antwort_2=0Cuirta
+Antwort_3=0Beatra
+Antwort_4=0Dourta
+
+[332]
+FZ1=
+FZ2=Woraus bestehen Muskeln ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1aus dicken Faserbündeln
+Antwort_2=0aus einem einheitlichen Gewebe
+Antwort_3=0aus übereinanderliegenden Schichten
+Antwort_4=0aus biegsamen Knochen
+
+[333]
+FZ1=
+FZ2=Wie heißen die Blutgefäße, die das sauerstoffreiche Blut vom Herzen wegführen ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Arterien
+Antwort_2=0Venen
+Antwort_3=0Alveolen
+Antwort_4=0Artillen
+

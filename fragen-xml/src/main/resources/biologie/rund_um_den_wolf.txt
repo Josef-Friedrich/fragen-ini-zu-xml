@@ -1,0 +1,1359 @@
+[Thema]
+Thema=
+Fragen=123
+Autor=
+
+[1]
+FZ1=
+FZ2=Wie hießen die Zwillingsbrüder, die von einer Wölfin groß gezogen wurden
+FZ3= und Rom gegründet haben ?
+Min=250000
+Max=500000
+Antwort_1=1Romulus und Remus	
+Antwort_2=0Romario und Ronaldo	
+Antwort_3=0Chip & Chap	
+Antwort_4=0Pat und Patterchon	
+
+[2]
+FZ1=
+FZ2=Nach wie vielen Tagen öffnen die Welpen ihre Augen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1nach ca. 10 Tagen	
+Antwort_2=0nach ca. 20 Tagen	
+Antwort_3=0nach ca. 3 Tagen	
+Antwort_4=0sofort	
+
+[3]
+FZ1=
+FZ2=Wie nennt man das Laufen des Wolfes, wenn er seine Pfoten 
+FZ3=genau voreinander setzt ?
+Min=16000
+Max=125000
+Antwort_1=1Der Wolf schnürt.	
+Antwort_2=0Der Wolf schleift.	
+Antwort_3=0Der Wolf bindet.	
+Antwort_4=0Der Wolf fädelt.	
+
+[4]
+FZ1=
+FZ2=Wie viele Zitzen hat eine Wolfsmutter ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=18	
+Antwort_2=04	
+Antwort_3=06	
+Antwort_4=012	
+
+[5]
+FZ1=
+FZ2=Wann findet die Paarung bei den Wölfen statt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1im Winter	
+Antwort_2=0im Herbst	
+Antwort_3=0im Sommer	
+Antwort_4=0im Frühling	
+
+[6]
+FZ1=
+FZ2=Wer darf direkt nach dem Leitwolf fressen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1die Partnerin des Leitwolfes	
+Antwort_2=0das älteste Weibchen	
+Antwort_3=0der jüngste Welpe	
+Antwort_4=0niemand mehr	
+
+[7]
+FZ1=
+FZ2=Wie viele Kilometer kann ein einzeln jagender Wolf in einer Nacht zurücklegen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 100 km	
+Antwort_2=0ca. 50 km	
+Antwort_3=0ca. 10 km	
+Antwort_4=0ca. 300 km	
+
+[8]
+FZ1=
+FZ2=Wann gehen die einzeln jagenden Wölfe meistens auf die Jagd ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1eine Stunde nach Sonnenuntergang	
+Antwort_2=0um Mitternacht	
+Antwort_3=0eine Stunde vor Sonnenuntergang	
+Antwort_4=0mittags	
+
+[9]
+FZ1=
+FZ2=Wie nennt man es, wenn der Wolf seine Zähne zeigt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Er bleckt seine Zähne.	
+Antwort_2=0Er reckt seine Zähne.	
+Antwort_3=0Er fleckt seine Zähne.	
+Antwort_4=0Er jeckt seine Zähne.	
+
+[10]
+FZ1=
+FZ2=Wie nennt man den Wolf, der das Rudel anführt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Leitwolf	
+Antwort_2=0Chefwolf	
+Antwort_3=0Führwolf	
+Antwort_4=0Hauptwolf	
+
+[11]
+FZ1=
+FZ2=Wie alt ist meistens der Leitwolf ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=14 - 5 Jahre	
+Antwort_2=07 -9 Jahre	
+Antwort_3=02 - 3 Jahre	
+Antwort_4=010 - 14 Jahre	
+
+[12]
+FZ1=
+FZ2=Was machen einzeln lebende Wölfe nicht ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1heulen	
+Antwort_2=0schlafen	
+Antwort_3=0fressen	
+Antwort_4=0jagen	
+
+[13]
+FZ1=
+FZ2=Mit welcher Durchschnittsgeschwindigkeit kann ein gesunder erwachsener Wolf 
+FZ3=stundenlang laufen ?
+Min=8000
+Max=64000
+Antwort_1=120 km/h	
+Antwort_2=030 km/h	
+Antwort_3=015 km/h	
+Antwort_4=045 km/h	
+
+[14]
+FZ1=
+FZ2=Wie wird der Graue Wolf auch genannt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Tundrawolf	
+Antwort_2=0Urwaldwolf	
+Antwort_3=0Steppenwolf	
+Antwort_4=0Savannenwolf	
+
+[15]
+FZ1=
+FZ2=Wie lang kann der Schwanz eines Wolfes werden ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=130 - 50 cm	
+Antwort_2=03 - 5 cm	
+Antwort_3=0Wölfe haben keinen Schwanz.	
+Antwort_4=080 - 130 cm	
+
+[16]
+FZ1=
+FZ2=Wie groß (Länge) kann ein Wolf werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1100 -150 cm	
+Antwort_2=0120 - 190 cm	
+Antwort_3=060 - 90 cm	
+Antwort_4=0170 - 250 cm	
+
+[17]
+FZ1=
+FZ2=Wie heißt der Graue Wolf bei den Wissenschaftlern ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Canis lupus	
+Antwort_2=0Earl grey	
+Antwort_3=0Wildus wolfus	
+Antwort_4=0Rex lupo	
+
+[18]
+FZ1=
+FZ2=Welchen Wolf gibt es ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Grauwolf	
+Antwort_2=0Grünwolf	
+Antwort_3=0Blauwolf	
+Antwort_4=0Gelbwolf	
+
+[19]
+FZ1=
+FZ2=Wie nennt man einen jungen Wolf ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Welpe	
+Antwort_2=0Fohlen	
+Antwort_3=0Kalb	
+Antwort_4=0Kitz	
+
+[20]
+FZ1=
+FZ2=In welchem Märchen kommt ein Wolf vor ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Rotkäppchen	
+Antwort_2=0Aschenputtel	
+Antwort_3=0Dornröschen	
+Antwort_4=0Rapunzel	
+
+[21]
+FZ1=
+FZ2=Wer hat das Rotkäppchen gefressen ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=1Wolf	
+Antwort_2=0Tiger	
+Antwort_3=0Fuchs	
+Antwort_4=0Löwe	
+
+[22]
+FZ1=
+FZ2=Wie nennt man die Lebensgemeinschaft von Wölfen ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Rudel	
+Antwort_2=0Haufen	
+Antwort_3=0Herde	
+Antwort_4=0Sippe	
+
+[23]
+FZ1=
+FZ2=Welchen Wolf gibt es nicht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Wüstenwolf	
+Antwort_2=0Mähnenwolf	
+Antwort_3=0Päriewolf	
+Antwort_4=0Polarwolf	
+
+[24]
+FZ1=
+FZ2=Werden Wölfe vom Staat geschützt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ja, in den Vereinigten Staaten und in	der Europäischen Union	
+Antwort_2=0nur in der Europäischen Union	
+Antwort_3=0nur in den Vereinigten Saaten	
+Antwort_4=0nein	
+
+[25]
+FZ1=
+FZ2=Was ist ein Werwolf ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1ein Mensch in der Gestalt eines Wolfs
+Antwort_2=0ein alter, schwacher Wolf
+Antwort_3=0ein Wolf, der Menschen getötet hat
+Antwort_4=0der Leitwolf
+
+[26]
+FZ1=
+FZ2=Welche Stadt wurde früher "Stadt der Wölfe" genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Delphi
+Antwort_2=0New York
+Antwort_3=0Rom
+Antwort_4=0Wolfsburg
+
+[27]
+FZ1=
+FZ2=Wer waren Amala und Kamala ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1zwei Wolfskinder in Indien	
+Antwort_2=0die ersten Wölfe in Europa	
+Antwort_3=0ein berühmtes Wolfspaar in Polen	
+Antwort_4=0die ersten gezähmten Wölfe in Asien	
+
+[28]
+FZ1=
+FZ2=Warum kann man Wölfe als nützliche Tiere bezeichnen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1weil sie schwache und kranke Tiere aus	den Herden der Huftiere entfernen
+Antwort_2=0weil sie warme Pelze liefern
+Antwort_3=0weil sie viele schädliche Tiere töten
+Antwort_4=0weil sie viele Insekten fressen
+
+[29]
+FZ1=
+FZ2=Warum jagen Wölfe ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1um am Leben zu bleiben
+Antwort_2=0um das Zusammenhörigkeitsgefühl zu	stärken
+Antwort_3=0weil sie gerne töten
+Antwort_4=0weil sie gerne rennen
+
+[30]
+FZ1=
+FZ2=Was ist Hundetollwut ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1eine gefährliche und oft tödliche	Krankheit	
+Antwort_2=0eine angeborene Krankheit	
+Antwort_3=0eine lange dauernde, aber	ungefährliche Krankheit	
+Antwort_4=0eine kurze und harmlose Krankheit	
+
+[31]
+FZ1=
+FZ2=Was geschieht mit alten, schwachen Wölfen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Sie werden meist ausgestoßen.
+Antwort_2=0Sie werden immer vom Rudel versorgt.
+Antwort_3=0Sie werden getötet.
+Antwort_4=0Sie rotten sich zusammen und werden	von den jungen Wölfen einmal in der	Woche versorgt.
+
+[32]
+FZ1=
+FZ2=Wie alt wird ein Wolf im Durchschnitt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=18 - 14 Jahre
+Antwort_2=014 - 18 Jahre
+Antwort_3=06 - 8 Jahre
+Antwort_4=016 - 22 Jahre
+
+[33]
+FZ1=
+FZ2=Wie lange wird ein Welpe gesäugt ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1acht bis zehn Wochen
+Antwort_2=0zwölf bis sechzehn Wochen
+Antwort_3=0zwei bis vier Wochen
+Antwort_4=03 - 6 Monate
+
+[34]
+FZ1=
+FZ2=Was bekommt ein Welpe in seinem ersten Lebensmonat zu fressen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nur Milch
+Antwort_2=0nur erbrochenes Fleisch
+Antwort_3=0Milch und erbrochenes Fleisch
+Antwort_4=0Milch und Insekten
+
+[35]
+FZ1=
+FZ2=Ab welchem Alter kann ein Welpe für seine eigene Ernährung sorgen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ab einem Jahr
+Antwort_2=0ab einer Woche
+Antwort_3=0ab einem Monat
+Antwort_4=0ab zwei Jahren
+
+[36]
+FZ1=
+FZ2=In welchem Alter beginnt ein Welpe, die Außenwelt zu erkunden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1mit einem Monat
+Antwort_2=0mit einem halben Jahr
+Antwort_3=0mit drei Monaten
+Antwort_4=0mit einem Jahr
+
+[37]
+FZ1=
+FZ2=Wie viele Welpen kann eine Wölfin jährlich bekommen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1drei bis acht
+Antwort_2=0sechs bis zwölf
+Antwort_3=0einen bis vier
+Antwort_4=0immer genau zwei
+
+[38]
+FZ1=
+FZ2=Wer darf in einem Rudel Junge bekommen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1das Weibchen des Leitwolfs
+Antwort_2=0die Weibchen, die älter als drei Jahre	sind
+Antwort_3=0alle Weibchen
+Antwort_4=0nur das älteste Weibchen
+
+[39]
+FZ1=
+FZ2=Wie lange dauert die Tragzeit einer Wölfin ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1neun Wochen
+Antwort_2=0neun Stunden
+Antwort_3=0neun Tage
+Antwort_4=0neun Monate
+
+[40]
+FZ1=
+FZ2=Fressen Wölfe Tiere, die sie nicht selbst getötet haben ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ja, manchmal	
+Antwort_2=0ja, immer	
+Antwort_3=0nein, niemals	
+Antwort_4=0nur im Sommer	
+
+[41]
+FZ1=
+FZ2=Warum leben in der Wüste keine Wölfe ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Dort finden sie kein Wasser.
+Antwort_2=0Dort stehen keine Bäume.
+Antwort_3=0Dort ist es zu warm.
+Antwort_4=0Dort ist es zu kalt.
+
+[42]
+FZ1=
+FZ2=Wie lange können Wölfe mit leerem Magen herumlaufen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1länger als eine Woche
+Antwort_2=0fünf Tage
+Antwort_3=0nicht länger als einen Tag
+Antwort_4=0bis sie Rotkäppchen treffen
+
+[43]
+FZ1=
+FZ2=Wird bei jeder Jagd Beute gemacht ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Nein, im Durchschnitt ist nur einer von	zehn Angriffen erfolgreich.
+Antwort_2=0Nein, nur bei jeder zweiten Jagd, die	sie unternehmen, machen sie Beute.
+Antwort_3=0Ja, Wölfe geben nicht auf, bevor sie ein	Beutetier getötet haben.
+Antwort_4=0Nein, im Durchschnitt ist nur einer von	fünf Angriffen erfolgreich.
+
+[44]
+FZ1=
+FZ2=Wer darf als erster von der Beute fressen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1das Leittier
+Antwort_2=0das älteste Weibchen
+Antwort_3=0der hungrigste Wolf
+Antwort_4=0die Welpen
+
+[45]
+FZ1=
+FZ2=Wie verteidigen sich Moschusochsen gegen Wölfe ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie bilden einen Kreis.
+Antwort_2=0Sie stellen sich auf die Hinterbeine.
+Antwort_3=0Sie ergreifen die Flucht.
+Antwort_4=0Sie greifen in Keilform an.
+
+[46]
+FZ1=
+FZ2=Warum töten Wölfe vor allem schwache oder verletzte Herdentiere ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1weil gesunde Tiere gefährlich sein	können
+Antwort_2=0weil sie auf diese Weise die Herde	gesund halten wollen
+Antwort_3=0weil ihr Fleisch leckerer ist
+Antwort_4=0weil das Fleisch von gesunden Tieren	zu zäh ist
+
+[47]
+FZ1=
+FZ2=Warum verfolgen Wölfe ihre Beute erst eine Weile ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1um festzustellen, welche Tiere schwach	oder verletzt sind
+Antwort_2=0aus Freude an der Jagd
+Antwort_3=0um den Appetit anzuregen
+Antwort_4=0weil sie gerne lange Entfernungen	zurücklegen
+
+[48]
+FZ1=
+FZ2=Welche Tiere sind bevorzugte Beute der Wölfe ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1Huftiere
+Antwort_2=0Fische
+Antwort_3=0andere Raubtiere
+Antwort_4=0Hasen und Kaninchen
+
+[49]
+FZ1=
+FZ2=Warum jagen Wölfe möglichst große Beutetiere ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weil es dann für das ganze Rudel zu	fressen gibt
+Antwort_2=0weil die nicht so schnell laufen können
+Antwort_3=0weil die leichter zu töten sind
+Antwort_4=0weil dann alle bei der Jagd mitmachen	können
+
+[50]
+FZ1=
+FZ2=Warum wälzen sich Wölfe manchmal in den Ausscheidungen anderer Tiere ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1um während der Jagd ihren eigenen	Geruch zu verbergen	
+Antwort_2=0um Weibchen anzulocken	
+Antwort_3=0weil es für das Fell gesund ist	
+Antwort_4=0um andere Tiere anzulocken	
+
+[51]
+FZ1=
+FZ2=Fressen Wölfe auch Fisch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Ja, sie fischen selbst Lachse.
+Antwort_2=0nein
+Antwort_3=0Ja, wenn sie einen toten Fisch finden.
+Antwort_4=0Nur die trächtigen Weibchen fressen	Fische.
+
+[52]
+FZ1=
+FZ2=Welche Tiere jagt der Wolf nicht ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Zebras
+Antwort_2=0Kaninchen
+Antwort_3=0Bisons
+Antwort_4=0Karibus
+
+[53]
+FZ1=
+FZ2=Kann ein Wolf einen über 500 kg schweren Bison töten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Ja, wenn er im Rudel jagt.
+Antwort_2=0Nein, 500 kg sind zu schwer.
+Antwort_3=0Nein, denn er lebt nicht in Gebieten, in	denen es Bisons gibt.
+Antwort_4=0Ja, ein einzelner Wolf kann sogar	Beutetiere bis zu 1.000 kg töten.
+
+[54]
+FZ1=
+FZ2=Wann jagen Wölfe vor allem tagsüber ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1wenn sie im Rudel jagen
+Antwort_2=0wenn sie alleine jagen
+Antwort_3=0im Sommer
+Antwort_4=0im Winter
+
+[55]
+FZ1=
+FZ2=Gibt es Wölfe, die Insekten fressen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ja, wenn kaum andere Beutetiere zu	finden sind.
+Antwort_2=0Ja, sie sind für sie ein Leckerbissen.
+Antwort_3=0Nein, Wölfe fressen nur Wirbeltiere.
+Antwort_4=0Nur die Welpen unter einem Jahr	fressen Insekten.
+
+[56]
+FZ1=
+FZ2=Wo jagen Wölfe allein ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1In Gebieten, in denen nur kleine	Beutetiere zu finden sind.
+Antwort_2=0In Gebieten, wo sie sich nur schwer	verstecken können.
+Antwort_3=0In Gebieten, in denen nur wenige	Wölfe leben.
+Antwort_4=0In Gebieten, in denen es genug große	Beutetiere gibt.
+
+[57]
+FZ1=
+FZ2=Wie droht der Wolf ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Er fletscht die Zähne.
+Antwort_2=0Er legt seine Ohren an den Hals.
+Antwort_3=0Er peitscht seinen Schwanz hin und	her.
+Antwort_4=0Er stellt sich auf die Hinterpfoten.
+
+[58]
+FZ1=
+FZ2=Was drückt der Wolf aus, wenn er mit dem Schwanz wedelt ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Freude
+Antwort_2=0Boshaftigkeit
+Antwort_3=0Angst
+Antwort_4=0Hunger
+
+[59]
+FZ1=
+FZ2=Woran erkennt man einen ängstlichen Wolf ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Er legt die Ohren nach hinten.
+Antwort_2=0Er richtet die Ohren auf.
+Antwort_3=0Er dreht die Ohren hin und her.
+Antwort_4=0Er legt die Ohren zur Seite.
+
+[60]
+FZ1=
+FZ2=Welches Geräusch macht ein untertäniger Wolf ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1Er winselt.	
+Antwort_2=0Er bellt.	
+Antwort_3=0Er heult.	
+Antwort_4=0Er pfeift.	
+
+[61]
+FZ1=
+FZ2=Heulen alle Wölfe auf dieselbe Weise ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Nein, jeder Wolf hat seine eigene	Stimme.
+Antwort_2=0Nein, nur Wölfe desselben Rudels tun	das.
+Antwort_3=0Ja, alle Wölfe heulen auf dieselbe	Weise.
+Antwort_4=0Nur alle Männchen heulen auf dieselbe	Weise.
+
+[62]
+FZ1=
+FZ2=Wie lange dauert das Geheul der Wölfe im Durchschnitt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1sechs Sekunden
+Antwort_2=0sechs Minuten
+Antwort_3=0eine Minute
+Antwort_4=0drei Minuten
+
+[63]
+FZ1=
+FZ2=Warum heulen Wölfe ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1um sich untereinander zu verständigen
+Antwort_2=0weil sie so traurig sind
+Antwort_3=0um ihre Stimmbänder zu üben
+Antwort_4=0um die Beute zu warnen
+
+[64]
+FZ1=
+FZ2=Wer beginnt meistens als erster mit dem Heulen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1das Leittier
+Antwort_2=0der jüngste Welpe
+Antwort_3=0das älteste Weibchen
+Antwort_4=0der ängstlichste Wolf
+
+[65]
+FZ1=
+FZ2=Aus welcher Entfernung kann man das Heulen von Wölfen hören ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1aus 8 Kilometern
+Antwort_2=0aus 12 Kilometern
+Antwort_3=0aus 4 Kilometern
+Antwort_4=0aus 16 Kilometern
+
+[66]
+FZ1=
+FZ2=Wie begrüßen sich Wölfe einander ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie lecken sich gegenseitig ab.
+Antwort_2=0Sie stellen sich einander gegenüber.
+Antwort_3=0Sie fangen an zu heulen.
+Antwort_4=0Sieeis herum.
+
+[67]
+FZ1=
+FZ2=Was machen Welpen, wenn sie Nahrung bekommen wollen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie drücken ihre Nase gegen die	Schnauze eines älteren Wolfes.
+Antwort_2=0Sie legen eine Pfote auf den Kopf eines	älteren Wolfs.
+Antwort_3=0Sie gehen auf die Jagd.
+Antwort_4=0Sie heulen ganz jämmerlich.
+
+[68]
+FZ1=
+FZ2=Was macht der Wolf, der einen Kampf gewinnt ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Er markiert den Kampfplatz mit seinem	Geruch.
+Antwort_2=0Er beißt den anderen Wolf kräftig in	den Schwanz.
+Antwort_3=0Er tötet den anderen Wolf.
+Antwort_4=0Er macht ein langes Freudengeheul.
+
+[69]
+FZ1=
+FZ2=Welches sind die wichtigsten Waffen eines Wolfes ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1sein starker Kiefer und seine scharfen	Zähne
+Antwort_2=0sein Gewicht
+Antwort_3=0seine scharfen Klauen
+Antwort_4=0sein kräftiger Schwanz
+
+[70]
+FZ1=
+FZ2=Warum darf man einem Wolf niemals direkt in die Augen schauen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Das fasst der Wolf als eine	Herausforderung auf.	
+Antwort_2=0Dann läuft er weg.	
+Antwort_3=0das macht ihn verlegen.	
+Antwort_4=0Dann fängt er für eine halbe Stunde an	zu heulen.	
+
+[71]
+FZ1=
+FZ2=Warum kämpfen manchmal Wölfe aus demselben Rudel miteinander ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1um herauszufinden, wer der stärkste	Wolf ist
+Antwort_2=0um das Jagen zu üben
+Antwort_3=0weil sie das Kämpfen lustig finden
+Antwort_4=0weil der Weg zum nächsten Rudel zu	weit ist
+
+[72]
+FZ1=
+FZ2=Würden Wölfe desselben Rudels sich gegenseitig töten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nein
+Antwort_2=0nur wenn sie um ein Weibchen	kämpfen
+Antwort_3=0nur wenn sie Hunger haben
+Antwort_4=0nur wenn sie nachts kämpfen
+
+[73]
+FZ1=
+FZ2=Wie gibt ein Wolf während eines Kampfes zu erkennen, dass er sich ergibt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Er legt sich auf den Rücken.
+Antwort_2=0Er richtet den Schwanz auf.
+Antwort_3=0Er läuft weg.
+Antwort_4=0Er heult dreimal.
+
+[74]
+FZ1=
+FZ2=Welcher Wolf wird als dominant bezeichnet ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1der Leitwolf
+Antwort_2=0die Wölfin, die trächtig ist
+Antwort_3=0der größte Wolf
+Antwort_4=0ein gezähmter Wolf
+
+[75]
+FZ1=
+FZ2=Was tun zwei Wölfe, die sich nicht kennen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Sie beschnüffeln einander.
+Antwort_2=0Sie legen sich auf den Boden.
+Antwort_3=0Sie heulen.
+Antwort_4=0Sie machen ein Wettrennen.
+
+[76]
+FZ1=
+FZ2=Wie trägt das Leittier eines Rudels seinen Schwanz ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1hoch
+Antwort_2=0waagerecht
+Antwort_3=0niedrig
+Antwort_4=0schräg
+
+[77]
+FZ1=
+FZ2=Wer steht an der Spitze eines Rudels ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ein starkes erwachsenes Männchen
+Antwort_2=0das schönste Männchen
+Antwort_3=0ein starkes erwachsenes Weibchen
+Antwort_4=0das älteste Weibchen
+
+[78]
+FZ1=
+FZ2=Was ist ein solitärer Wolf ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Ein Wolf, der allein umherzieht.
+Antwort_2=0ein männlicher Wolf
+Antwort_3=0ein weiblicher Wolf
+Antwort_4=0der Anführer eines Rudels
+
+[79]
+FZ1=
+FZ2=Wann sind die Rudel meistens klein ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in Gegenden, in denen wenige große	Beutetiere leben
+Antwort_2=0in Gegenden mit vielen Bäumen
+Antwort_3=0in Gegenden mit vielen Herdentieren
+Antwort_4=0in Gegenden mit wenig Bäumen
+
+[80]
+FZ1=
+FZ2=Wann ist das Rudel am größten ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1im Winter	
+Antwort_2=0im Sommer	
+Antwort_3=0im Frühling	
+Antwort_4=0im Herbst	
+
+[81]
+FZ1=
+FZ2=Aus wie vielen Wölfen besteht ein durchschnittliches Rudel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1aus fünf bis zwanzig Wölfen
+Antwort_2=0aus dreißig bis fünfzig Wölfen
+Antwort_3=0aus fünf bis zehn Wölfen
+Antwort_4=0aus mindestens einem bis höchstens	fünf Wölfen
+
+[82]
+FZ1=
+FZ2=Was bedeutet die Geruchsmarke eines Wolfes ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1"Verschwinde von hier, das ist mein	Territorium !"
+Antwort_2=0"Komm her, ich warte auf dich !"
+Antwort_3=0"Riech nur, dann weißt du, wie stark	ich bin !"
+Antwort_4=0"Folge mir, ich gehe schon voran !"
+
+[83]
+FZ1=
+FZ2=Wie verhindern Wölfe, dass andere Rudel in ihr Territorium eindringen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Sie markieren die Grenzen mit Urin.
+Antwort_2=0Sie stellen sich in einem Kreis auf.
+Antwort_3=0Sie stellen Wachtposten auf.
+Antwort_4=0Sie graben Fallen an den Grenzen.
+
+[84]
+FZ1=
+FZ2=Welche durchschnittliche Größe hat das Territorium eines Rudels ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1100 bis 1.000 Quadratkilometer
+Antwort_2=050 bis 500 Quadratkilometer
+Antwort_3=010 bis 100 Quadratkilometer
+Antwort_4=01.000 bis 10.000 Quadratkilometer
+
+[85]
+FZ1=
+FZ2=Wer kann besser riechen, der Löwe oder der Wolf ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der Wolf
+Antwort_2=0Beide können gleich gut riechen.
+Antwort_3=0der Löwe
+Antwort_4=0Die Löwin riecht besser als die Wölfin,	aber das Wolfsmännchen riecht besser	als das Löwenmännchen.
+
+[86]
+FZ1=
+FZ2=Wie stellt der Wolf fest, aus welcher Richtung der Wind weht ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Das erfährt er durch seine feuchte Nase.
+Antwort_2=0Indem er seine Ohren dreht.
+Antwort_3=0Indem er den Schwanz hochhält.
+Antwort_4=0Das erfährt er, indem er die Blätter an	den Bäumen beobachtet.
+
+[87]
+FZ1=
+FZ2=Aus welcher Entfernung kann der Wolf das Geheul anderer Wölfe hören ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1aus 6 Kilometern
+Antwort_2=0aus 52 Kilometern
+Antwort_3=0aus 24 Kilometern
+Antwort_4=0aus 17 Kilometern
+
+[88]
+FZ1=
+FZ2=Aus welcher Entfernung kann der Wolf seine Beute wittern ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1aus 300 Metern
+Antwort_2=0aus 3.000 Metern
+Antwort_3=0aus 30 Metern
+Antwort_4=0aus 3 Metern
+
+[89]
+FZ1=
+FZ2=Können Wölfe schwimmen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ja, und sie tun es gerne.
+Antwort_2=0nein
+Antwort_3=0Ja, aber nur, wenn es sein muss.
+Antwort_4=0Nur die männlichen Wölfe können	schwimmen.
+
+[90]
+FZ1=
+FZ2=Welcher Satz ist richtig ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Die Katze kann ihre Klauen einziehen.	
+Antwort_2=0Wolf und Katze können ihre Klauen	einziehen.	
+Antwort_3=0Der Wolf kann seine Klauen einziehen.	
+Antwort_4=0Der Hund kann seine Klauen einziehen.	
+
+[91]
+FZ1=
+FZ2=Warum setzen jagende Wölfe ihre Pfoten in die Spuren
+FZ3=des vorauslaufenden Tieres ?
+Min=4000
+Max=64000
+Antwort_1=1weil sie auf diese Weise nicht so	schnell müde werden
+Antwort_2=0u ihre Pfoten nicht dreckig zu machen
+Antwort_3=0um leicht den Weg zu finden
+Antwort_4=0damit die Beutetiere nicht erkennen,	wie viele Wölfe es sind
+
+[92]
+FZ1=
+FZ2=Wie hoch ist die durchschnittliche Geschwindigkeit eines jagenden Wolfes ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=135 km/h
+Antwort_2=015 km/h
+Antwort_3=050 km/h
+Antwort_4=075 km/h
+
+[93]
+FZ1=
+FZ2=Welche Beschreibung passt zu den Pfoten des Wolfes ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1dünn und hoch
+Antwort_2=0dünn und flach
+Antwort_3=0dick und flach
+Antwort_4=0spitz und flauschig
+
+[94]
+FZ1=
+FZ2=Wie viele Zähne hat der Wolf ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=142
+Antwort_2=022
+Antwort_3=032
+Antwort_4=052
+
+[95]
+FZ1=
+FZ2=Wo befinden sich die Schneidebackenzähne des Wolfes ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1hinten im Maul
+Antwort_2=0zwischen den Schneide- und den	Eckzähnen
+Antwort_3=0vorne im Maul
+Antwort_4=0unter dem Unterkiefer
+
+[96]
+FZ1=
+FZ2=Wie groß können die Eckzähne des Wolfes werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=17 cm
+Antwort_2=012 cm
+Antwort_3=04 cm
+Antwort_4=018 cm
+
+[97]
+FZ1=
+FZ2=Woran erkennt man ein Raubtiergebiss wie das des Wolfes ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1an den vier Eckzähnen
+Antwort_2=0am Platz zwischen den Eck- und den	Schneidezähnen
+Antwort_3=0an den langen Schneidezähnen
+Antwort_4=0an den fehlenden Milchzähnen
+
+[98]
+FZ1=
+FZ2=Welche Farbe hat der Pelz eines jungen Welpen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1schwarz
+Antwort_2=0grau
+Antwort_3=0weiß
+Antwort_4=0braun
+
+[99]
+FZ1=
+FZ2=Wann ist der Wolfspelz am dichtesten ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1im Winter
+Antwort_2=0im Herbst
+Antwort_3=0im Sommer
+Antwort_4=0im Frühling
+
+[100]
+FZ1=
+FZ2=Welche Farbe hat der Pelz des Polarwolfs ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Er ist fast ganz weiß.	
+Antwort_2=0Er ist gelbbraun.	
+Antwort_3=0Er ist grau mit weißen Flecken.	
+Antwort_4=0Es gibt keinen Polarwolf, sondern nur	einen Polarfuchs.	
+
+[101]
+FZ1=
+FZ2=Welche Grundfarben hat der Wolfspelz ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1weiß, grau und schwarz	
+Antwort_2=0schwarz und gelbbraun	
+Antwort_3=0grau und braun	
+Antwort_4=0schwarz und gelb	
+
+[102]
+FZ1=
+FZ2=Was frisst der Wolf ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Fleisch und manchmal auch Aas	
+Antwort_2=0nur Aas	
+Antwort_3=0nur Fleisch	
+Antwort_4=0nur Fisch	
+
+[103]
+FZ1=
+FZ2=Wie alt kann ein Wolf in Gefangenschaft werden ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=15 Jahre	
+Antwort_2=015 Jahre	
+Antwort_3=010 Jahre	
+Antwort_4=020 Jahre	
+
+[104]
+FZ1=
+FZ2=Wie hoch ist das Durchschnittsgewicht des grauen Wolfes ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=140 - 55 kg	
+Antwort_2=060 - 75 kg	
+Antwort_3=055 - 60 kg	
+Antwort_4=070 - 85 kg	
+
+[105]
+FZ1=
+FZ2=Welches Merkmal unterscheidet den Wolf deutlich von einem Hund ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Die vorderen Knie des Wolfs sind nach	innen gerichtet.	
+Antwort_2=0Der Wolf kann besser riechen.	
+Antwort_3=0Der Wolf hat längere Ohren.	
+Antwort_4=0Der Wolf hat einen kürzeren Schwanz.	
+
+[106]
+FZ1=
+FZ2=Wie viele Wölfe gibt es (Schätzungen zufolge) noch ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1100.000	
+Antwort_2=01.000.000	
+Antwort_3=010.000	
+Antwort_4=01.000	
+
+[107]
+FZ1=
+FZ2=Wo lebt der rote Wolf ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1in Amerika	
+Antwort_2=0in Afrika	
+Antwort_3=0in Asien	
+Antwort_4=0in Europa	
+
+[108]
+FZ1=
+FZ2=Warum gibt es in Europa kaum noch Wölfe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weil es nur noch wenige unberührte	Gebiete mit vielen Beutetieren gibt	
+Antwort_2=0weil sie fast alle an Krankheiten	gestorben sind	
+Antwort_3=0weil sie fast alle erschossen worden	sind	
+Antwort_4=0weil es den Wölfen in Europa zu kalt	geworden ist	
+
+[109]
+FZ1=
+FZ2=Wo leben die meisten Wölfe ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1in Nordamerika und Asien
+Antwort_2=0in Asien und Europa
+Antwort_3=0in Nordamerika und Europa
+Antwort_4=0in Europa und Afrika
+
+[110]
+FZ1=
+FZ2=Wie viele Arten von Wölfen gibt es ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=12
+Antwort_2=022
+Antwort_3=012
+Antwort_4=032
+
+[111]
+FZ1=
+FZ2=Welcher Hund ähnelt dem Wolf am meisten ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1der deutsche Schäferhund
+Antwort_2=0der Windhund
+Antwort_3=0der Dingo
+Antwort_4=0der Pudel
+
+[112]
+FZ1=
+FZ2=Wann wurde der Hund zum Haustier gemacht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1vor ungefähr 10.000 Jahren
+Antwort_2=0vor ungefähr 5.000 Jahren
+Antwort_3=0vor ungefähr 1.000 Jahren
+Antwort_4=0vor ungefähr 100.000 Jahren
+
+[113]
+FZ1=
+FZ2=Können Wölfe und Hunde sich paaren ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Ja, und sie bringen fruchtbare Jungen	zur Welt.
+Antwort_2=0nein
+Antwort_3=0Ja, aber ihre Jungen sterben.
+Antwort_4=0Ja, aber das Weibchen stirbt nach der	Paarung.
+
+[114]
+FZ1=
+FZ2=Wo lebt der Dingo ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1in Australien
+Antwort_2=0in Europa
+Antwort_3=0in Amerika
+Antwort_4=0in Afrika
+
+[115]
+FZ1=
+FZ2=Wie lautet der wissenschaftliche Name für die Gattung der Hunde ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Canis
+Antwort_2=0Vulpes
+Antwort_3=0Lupus
+Antwort_4=0Humus
+
+[116]
+FZ1=
+FZ2=Welches Raubtier ist weltweit am meisten verbreitet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1der Fuchs
+Antwort_2=0der Tiger
+Antwort_3=0der Wolf
+Antwort_4=0der Löwe
+
+[117]
+FZ1=
+FZ2=Welches Tier ist das größte innerhalb der Hundefamilie ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1der Wolf
+Antwort_2=0die Hyäne
+Antwort_3=0der Schakal
+Antwort_4=0der Fuchs
+
+[118]
+FZ1=
+FZ2=Wie viele Arten umfasst die Familie der hundeartigen Tiere ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=135
+Antwort_2=015
+Antwort_3=025
+Antwort_4=045
+
+[119]
+FZ1=
+FZ2=Warum findet man in den tropischen Regenwäldern keine Wölfe ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1weil dort keine großen Huftiere leben
+Antwort_2=0weil es dort zu warm ist
+Antwort_3=0weil dort zu viele Bäume wachsen
+Antwort_4=0weil es dort zu viel regnet
+
+[120]
+FZ1=
+FZ2=In welchem Land haben niemals Wölfe gelebt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Australien
+Antwort_2=0Russland
+Antwort_3=0Polen
+Antwort_4=0Deutschland
+
+[121]
+FZ1=
+FZ2=Seit wann gibt es Wölfe ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1seit 2 Millionen Jahren
+Antwort_2=0seit 50 Millionen Jahren
+Antwort_3=0seit 12 Millionen Jahren
+Antwort_4=0seit 7 Millionen Jahren
+
+[122]
+FZ1=
+FZ2=Welchem Tier ähnelte der erste Hund ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1der Ginsterkatze
+Antwort_2=0dem Dingo
+Antwort_3=0dem Kojoten
+Antwort_4=0dem Tiger
+
+[123]
+FZ1=
+FZ2=Zu welcher Tierart gehört der Wolf ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1zur Familie der Hunde
+Antwort_2=0zur Familie der Katzen
+Antwort_3=0zur Familie der Füchse
+Antwort_4=0zur Familie der Marder
+
+

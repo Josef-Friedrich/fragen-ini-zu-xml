@@ -1,0 +1,3558 @@
+[Thema]
+Thema       = Nordsee
+Fragen      = 322
+Autor       = Manfred Hartisch 6/2001
+
+[1]
+FZ1         = 
+FZ2         =  Wie nennt man die schwimmenden Seezeichen,
+FZ3         =  die am Meeresgrund verankert sind ?
+Min         = 200
+Max         = 2000
+Antwort_1   = 1 Bojen
+Antwort_2   = 0 Boote
+Antwort_3   = 0 Kojen
+Antwort_4   = 0 Leuchtturm
+
+[2]
+FZ1         =  
+FZ2         =  Welche Boje gibt es  n i c h t  ?
+FZ3         =  
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Heulboje
+Antwort_2   = 1 Schreiboje
+Antwort_3   = 0 Leuchtboje
+Antwort_4   = 0 Ankerboje
+
+[3]
+FZ1         = 
+FZ2         =  Wie nennt man die Mischung aus Salz- und Süßwasser
+FZ3         =  im Mündungsbereich von Flüssen ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Flachwasser
+Antwort_2   = 1 Brackwasser
+Antwort_3   = 0 Schlackwasser
+Antwort_4   = 0 Bitterwasser
+
+[4]
+FZ1         = 
+FZ2         =  Wie nennt man rechtwinklig zum Ufer gebaute Dämme,
+FZ3         =  die ins Meer oder in Flüsse hinausragen ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Duhnen
+Antwort_2   = 0 Puhnen
+Antwort_3   = 1 Buhnen
+Antwort_4   = 0 Kluhnen
+
+[5]
+FZ1         = 
+FZ2         =  Welche Funktion haben die Buhnen ?
+FZ3         = 
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 Sie erzeugen Wellen.
+Antwort_2   = 1 Sie lenken die Strömung ab.
+Antwort_3   = 0 Sie vertreiben Fische.
+Antwort_4   = 0 Sie erzeugen Strom.
+
+[6]
+FZ1         = 
+FZ2         =  Welche ostfriesische Insel errichtete 1857 die 
+FZ3         =  ersten Küstenschutz - Bollwerke (Buhnen) ?
+Min         = 6400
+Max         = 250000
+Antwort_1   = 0 Wangerooge
+Antwort_2   = 0 Juist
+Antwort_3   = 0 Langeoog
+Antwort_4   = 1 Norderney
+
+[7]
+FZ1         = Wie nennt man einen Schutzdamm am Fluss-
+FZ2         =  oder Meeresufer zum Schutz gegen die
+FZ3         =  Überflutung des Hinterlandes ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 Burg
+Antwort_2   = 0 Wall
+Antwort_3   = 1 Deich
+Antwort_4   = 0 Ring
+
+[8]
+FZ1         = 
+FZ2         =  Wie nennt man das Binnendeichland - also
+FZ3         =  das Land hinter dem Deich - auch noch ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 Watt
+Antwort_2   = 0 Schlick
+Antwort_3   = 1 Polder
+Antwort_4   = 0 Holder
+
+[9]
+FZ1         = 
+FZ2         = Wie nennt man eine Anhäufung aus feinem 
+FZ3         =  Sand durch den Wind ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Küste
+Antwort_2   = 0 Bühne
+Antwort_3   = 0 Berg
+Antwort_4   = 1 Düne
+
+[10]
+FZ1         = 
+FZ2         =  Womit sind die meisten Deiche bewachsen ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Kiefern
+Antwort_2   = 1 Gras
+Antwort_3   = 0 Farn
+Antwort_4   = 0 Moos
+
+[11]
+FZ1         =  
+FZ2         =  Wie nennt man die dem Wind 
+FZ3         =  zugekehrte Seite ?
+Min          = 32000
+Max         = 250000
+Antwort_1   = 0 Lee
+Antwort_2   = 0 Tee
+Antwort_3   = 0 Buv
+Antwort_4   = 1 Luv
+
+[12]
+FZ1         = 
+FZ2         =  Wie nennt man die dem Wind
+FZ3         =  abgekehrte Seite ?
+Min          = 32000
+Max         = 250000
+Antwort_1   = 0 See
+Antwort_2   = 1 Lee
+Antwort_3   = 0 Guv
+Antwort_4   = 0 Luv
+
+[13]
+FZ1         = 
+FZ2         =  Wie nennt man die sich seitwärts 
+FZ3         =  fortbewegenden Strandkrabben ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Quarsgänger (Quergänger)
+Antwort_2   = 0 Länglupper (Längsläufer)
+Antwort_3   = 0 Schiipranner (Schiefrenner)
+Antwort_4   = 1 Dwarslöper (Querläufer)
+
+[14]
+FZ1         = 
+FZ2         =  Wie nennt man "ablaufendes Wasser" ?
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 Ebbe
+Antwort_2   = 0 Flut
+Antwort_3   = 0 Gezeiten
+Antwort_4   = 0 Tide
+
+[15]
+FZ1         = 
+FZ2         =  Wie nennt man "auflaufendes Wasser" ?
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 Flut
+Antwort_2   = 0 Ebbe
+Antwort_3   = 0 Gezeiten
+Antwort_4   = 0 Tide
+
+[16]
+FZ1         =  
+FZ2         =  Wie nennt man "Ebbe und Flut" ?
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 Gezeiten
+Antwort_2   = 0 Hochzeiten
+Antwort_3   = 0 Mahlzeiten
+Antwort_4   = 0 Urzeiten
+
+[17]
+FZ1         =  Wie nennt man die zusammengeklebten
+FZ2         =  Eier von Schnecken und Fischen, die
+FZ3         =  im Wasser treiben ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Treibeier
+Antwort_2   = 0 Klebeier 
+Antwort_3   = 1 Eiballen
+Antwort_4   = 0 Eizellen
+
+[18]
+FZ1         = Wie nennt man natürliche Fahrrinnen
+FZ2         =  für Schiffe im Wattenmeer ?
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 0 Siele
+Antwort_2   = 0 Stiele
+Antwort_3   = 0 Kanäle
+Antwort_4   = 1 Priele
+                
+[19]
+FZ1         = Wie nennt man die Fahrrinnen für Schiffe
+FZ2         =  im Wattenmeer, die ausgebaggert wurden 
+FZ3         =  und ständig auf Tiefe gehalten werden müssen ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Waljen
+Antwort_2   = 0 Knaljen
+Antwort_3   = 0 Traljen
+Antwort_4   = 1 Baljen
+                
+[20]
+FZ1         =  
+FZ2         =  Wie heißt die linke Schiffsseite ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 steuerbord
+Antwort_2   = 0 bugbord
+Antwort_3   = 0 heckbord
+Antwort_4   = 1 backbord
+
+[21]
+FZ1         = 
+FZ2         =  Welche Farbe hat die Signallampe
+FZ3         =  an der Backbordseite eines Schiffes ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 gelb
+Antwort_2   = 0 grün
+Antwort_3   = 1 rot
+Antwort_4   = 0 weiß
+
+[22]
+FZ1         = 
+FZ2         =   Welche Farbe hat die Signallampe
+FZ3         =  an der Steuerbordseite eines Schiffes ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 gelb
+Antwort_2   = 1 grün
+Antwort_3   = 0 rot 
+Antwort_4   = 0 weiß
+
+[23]
+FZ1         =  
+FZ2         =  Wie heißt die rechte Schiffsseite ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 steuerbord
+Antwort_2   = 0 backbord
+Antwort_3   = 0 bugbord
+Antwort_4   = 0 heckbord
+
+[24]
+FZ1         = 
+FZ2         =  Was waren "Feuerschiffe" ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 brennende Schiffe
+Antwort_2   = 1 schwimmende Seezeichen
+Antwort_3   = 0 Löschboote
+Antwort_4   = 0 rote Schiffe
+
+[25]
+FZ1         = 
+FZ2         =  Weshalb wurden die "Feuerschiffe"
+FZ3         =  außer Dienst gestellt ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Sie leuchteten zu schwach.
+Antwort_2   = 0 Sie leuchteten zu stark.
+Antwort_3   = 1 Der Unterhalt wurde zu teuer.
+Antwort_4   = 0 Sie wurden zu klein.
+
+[26]
+FZ1         =  
+FZ2         =  Wann wurden die "Feuerschiffe"
+FZ3         =  außer Dienst gestellt ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1 in den 80 - ziger Jahren
+Antwort_2   = 0 in den 90 - ziger Jahren
+Antwort_3   = 0 in den 20 - ziger Jahren
+Antwort_4   = 0 in den 50 - ziger Jahren
+
+[27]
+FZ1         = 
+FZ2         =  Wie nennt man den höchsten Wasserstand ?
+FZ3         = 
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 Niedrigwasser
+Antwort_2   = 0 Ebbe
+Antwort_3   = 1 Hochwasser
+Antwort_4   = 0 Springflut
+
+[28]
+FZ1         = 
+FZ2         =  Wie nennt man den tiefsten Wasserstand ?
+FZ3         = 
+Min          = 200
+Max         = 1000
+Antwort_1   = 0 Hochwasser
+Antwort_2   = 0 Frühwasser
+Antwort_3   = 0 Nullwasser
+Antwort_4   = 1 Niedrigwasser
+
+[29]
+FZ1         = 
+FZ2         =  Wodurch entsteht "Ebbe und Flut" ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 durch den Sonnenwind
+Antwort_2   = 1 Anziehungskraft von Sonne und Mond
+Antwort_3   = 0 Mondfinsternis
+Antwort_4   = 0 durch Sternschnuppen
+
+[30]
+FZ1         = 
+FZ2         =  Wie oft kommt "Ebbe und Flut" 
+FZ3         =  an einem Tag ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 3 mal
+Antwort_2   = 0 4 mal
+Antwort_3   = 1 2 mal
+Antwort_4   = 0 5 mal
+
+[31]
+FZ1         = Wie viel Zeit vergeht von Hochwasser zu 
+FZ2         =  Hochwasser, bzw. von Niedrigwasser
+FZ3         =  zu Niedrigwasser ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 3 Stunden 12 Minuten
+Antwort_2   = 0 6 Stunden 24 Minuten
+Antwort_3   = 0 9 Stunden 36 Minuten
+Antwort_4   = 1 12 Stunden 25 Minuten
+
+[32]
+FZ1         = 
+FZ2         =  Wie nennt man die Gezeiten bei
+FZ3         =  Voll- und Neumond ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 Neutiden
+Antwort_2   = 0 Volltiden
+Antwort_3   = 0 Lauftiden
+Antwort_4   = 1 Springtiden
+
+[33]
+FZ1         = 
+FZ2         =  Bei Neu- und Vollmond sind die Gezeiten ....
+FZ3         = 
+Min          = 64000
+Max         = 500000
+Antwort_1   = 0 schwächer
+Antwort_2   = 0 wechselhaft
+Antwort_3   = 1 stärker
+Antwort_4   = 0 gleichbleibend
+
+[34]
+FZ1         = 
+FZ2         =  Bei Halbmond sind die Gezeiten ....
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 1 besonders schwach
+Antwort_2   = 0 besonders stark
+Antwort_3   = 0 besonders wechselhaft
+Antwort_4   = 0 nicht vorhanden
+
+[35]
+FZ1         =
+FZ2         =  Wie nennt man die Gezeiten bei Halbmond ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 Wipptiden
+Antwort_2   = 0 Springtiden
+Antwort_3   = 0 Halbtiden
+Antwort_4   = 1 Nipptiden
+
+[36]
+FZ1         = 
+FZ2         =  Welche Muschel gibt es ?
+FZ3         = 
+Min         =  200
+Max         = 1000
+Antwort_1   = 0 Magenmuschel
+Antwort_2   = 0 Lungenmuschel
+Antwort_3   = 1 Herzmuschel
+Antwort_4   = 0 Nierenmuschel
+
+[37]
+FZ1         =
+FZ2         =  Wodurch sind die Halligen vor der
+FZ3         =  nordfriesischen Küste entstanden ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Schlick
+Antwort_2   = 0 Schilf
+Antwort_3   = 0 Sand
+Antwort_4   = 0 Moor
+
+[38]
+FZ1         =
+FZ2         =  Wie viele Halligen gibt es vor
+FZ3         =  der nordfriesischen Küste ?
+Min         =  64000
+Max         = 500000
+Antwort_1   = 0 8
+Antwort_2   = 0 12
+Antwort_3   = 0 14
+Antwort_4   = 1 10
+
+[39]
+FZ1         =
+FZ2         =  Was ist keine Hallig ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Hooge
+Antwort_2   = 1 Sylt
+Antwort_3   = 0 Langeneß
+Antwort_4   = 0 Oland
+
+[40]
+FZ1         = 
+FZ2         =  Was ist keine Hallig ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Norderoog
+Antwort_2   = 0 Süderoog
+Antwort_3   = 0 Südfall
+Antwort_4   = 1 Langeoog
+
+[41]
+FZ1         =
+FZ2         =  Was ist keine Hallig ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Hooge
+Antwort_2   = 0 Norderoog
+Antwort_3   = 0 Süderoog
+Antwort_4   = 1 Spiekeroog
+
+[42]
+FZ1         =
+FZ2         =  Was ist keine Hallig ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Nordstrandischmoor
+Antwort_2   = 0 Hamburger Hallig
+Antwort_3   = 1 Baltrum
+Antwort_4   = 0 Gröde
+
+[43]
+FZ1         =
+FZ2         =  Wie nennt man es, wenn eine Hallig 
+FZ3         =  mit Meerwasser überspült ist ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Land unter
+Antwort_2   = 0 Land über
+Antwort_3   = 0 Meer unter
+Antwort_4   = 0 Meer über
+
+[44]
+FZ1         =
+FZ2         =  Wovon leben die Menschen auf 
+FZ3         =  den Halligen ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 Weidewirtschaft und Tourismus
+Antwort_2   = 0 Ackerbau und Viehzucht
+Antwort_3   = 0 Rohöl und Viehzucht
+Antwort_4   = 0 Industrie und Obstanbau
+
+[45]
+FZ1         =
+FZ2         =  Wie nennt man die Erdhügel auf den Halligen,
+FZ3         =  auf denen die Häuser stehen ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 Warften
+Antwort_2   = 0 Schwarten
+Antwort_3   = 0 Burgen
+Antwort_4   = 0 Kronen
+
+[46]
+FZ1         =
+FZ2         = Wie heißt die deutsche Hochseeinsel ? 
+FZ3         = 
+Min         = 4000
+Max         = 1250000
+Antwort_1   = 0 Sylt
+Antwort_2   = 0 Norderney
+Antwort_3   = 1 Helgoland
+Antwort_4   = 0 Borkum
+
+[47]
+FZ1         =
+FZ2         =  Helgoland liegt ca.  .... Kilometer
+FZ3         =  vor der Weser- und Elbemündung.
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 70
+Antwort_2   = 0 125
+Antwort_3   = 0 30
+Antwort_4   = 0 6
+
+[48]
+FZ1         =
+FZ2         =  Wie nennt man jungen Robben, die 
+FZ3         =  den Kontakt zur Mutter verloren haben ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 1 Heuler
+Antwort_2   = 0 Brüller
+Antwort_3   = 0 Schreier
+Antwort_4   = 0 Rufer
+
+[49]
+FZ1         =
+FZ2         =  Wie nennt man ein Schiff für die
+FZ3         = Fischerei im Küstenbereich ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 Schlepper
+Antwort_2   = 1 Kutter
+Antwort_3   = 0 Kajak
+Antwort_4   = 0 Fähre
+
+[50]
+FZ1         = 
+FZ2         =  Wie nennt man ein feststehendes 
+FZ3         =  Leuchtfeuer im Küstenbereich ?
+Min         = 1000
+Max         = 64000
+Antwort_1   = 1 Leuchtturm
+Antwort_2   = 0 Lagerfeuer
+Antwort_3   = 0 Leuchtstab
+Antwort_4   = 0 Feuerscheinwerfer
+
+[51]
+FZ1         = 
+FZ2         =  Wie nennt man einen Ankerplatz für Schiffe,
+FZ3         =  der durch einen Damm geschützt ist ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 Anker
+Antwort_2   = 1 Mole
+Antwort_3   = 0 Steg
+Antwort_4   = 0 Buhne
+
+[52]
+FZ1         = 
+FZ2         =  Wie nennt man eine Anlegestelle für Schiffe, 
+FZ3         =  die ins Wasser hineinreicht ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 1 Pier
+Antwort_2   = 0 Stier
+Antwort_3   = 0 Steg
+Antwort_4   = 0 Deich
+
+[53]
+FZ1         = Wie nennt man das Birken- oder Eichenbäumchen, das
+FZ2         =  als festes Seezeichen zur Kennzeichnung der Fahrrinne
+FZ3         =  in den Wattboden gesteckt wird ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Fricke
+Antwort_2   = 1 Pricke
+Antwort_3   = 0 Wricke
+Antwort_4   = 0 Micke
+
+[54]
+FZ1         = 
+FZ2         =  Weshalb können Priele für unkundige Wattwanderer
+FZ3         =  sehr gefährlich sein ?
+Min         = 2000
+Max         = 64000
+Antwort_1   = 1 Sie laufen bei Flut schnell voll.
+Antwort_2   = 0 Der Boden ist sehr glatt.
+Antwort_3   = 0 Dort liegen scharfe Muscheln.
+Antwort_4   = 0 Man kann dort leicht stolpern.
+
+[55]
+FZ1         = Wie nennt man eine Schleuse im Deich zum
+FZ2         =  Durchtritt eines Süßwasserlaufes aus dem
+FZ3         =  Binnenland ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Priel
+Antwort_2   = 0 Kai
+Antwort_3   = 0 Mole
+Antwort_4   = 1 Siel
+
+[56]
+FZ1         = Wie nennt man den Meeresboden, der bei Ebbe
+FZ2         =  "trockenfällt" und bei Flut überflutet wird ?
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 Watt
+Antwort_2   = 0 Strand
+Antwort_3   = 0 Küste
+Antwort_4   = 0 Insel
+
+[57]
+FZ1         =
+FZ2         =  Welchen Ort gibt es an der Nordsee ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Hooksiel
+Antwort_2   = 0 Hückeswagen
+Antwort_3   = 0 Cloppenburg
+Antwort_4   = 0 Rostock
+
+[58]
+FZ1         =
+FZ2         =  Wie weit ist die Insel Borkum 
+FZ3         =  vom Festland entfernt ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 8 km
+Antwort_2   = 1 20 km
+Antwort_3   = 0 40 km
+Antwort_4   = 0 12 km
+
+[59]
+FZ1         =
+FZ2         =  Wie nennen die Küstenbewohner
+FZ3         =  die Nordsee ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 1 Blanke Hans
+Antwort_2   = 0 Schlanker Klaus
+Antwort_3   = 0 Glatte Frieda
+Antwort_4   = 0 Rauer Otto
+
+[60]
+FZ1         =
+FZ2         =  Wie heißt die mit 36 Quadratkilometern größte 
+FZ3         =  ostfriesische Insel ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Borkum
+Antwort_2   = 0 Baltrum
+Antwort_3   = 0 Norderney
+Antwort_4   = 0 Sylt
+
+[61]
+FZ1         =
+FZ2         =  Wann wurde der Alte Leuchtturm
+FZ3         =  auf Borkum erbaut ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 1134
+Antwort_2   = 0 1609
+Antwort_3   = 0 1743
+Antwort_4   = 1 1576
+
+[62]
+FZ1         =
+FZ2         =  Welches Tier lebt  n i c h t
+FZ3         =  im Watt ?
+Min         = 0
+Max         = 400
+Antwort_1   = 1 Steinbock
+Antwort_2   = 0 Schnecke
+Antwort_3   = 0 Krebs
+Antwort_4   = 0 Seestern
+
+[63]
+FZ1         =
+FZ2         =  Wer wird auch der
+FZ3         =  "Straßenkehrer des Meeres" genannt ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 die Wellhornschnecke
+Antwort_2   = 0 die Herzmuschel
+Antwort_3   = 0 der Seestern
+Antwort_4   = 0 die Qualle
+
+[64]
+FZ1         =
+FZ2         =  Was bringt der Einsiedlerkrebs in einem 
+FZ3         =  leeren Schneckenhaus in Sicherheit  ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 seine empfindlichen Fühler
+Antwort_2   = 0 seine dünnen Beinchen
+Antwort_3   = 0 seine zarten Scheren
+Antwort_4   = 1 sein weiches Hinterteil
+
+[65]
+FZ1         =
+FZ2         =  Wie heißt die längste 
+FZ3         =  ostfriesische Insel ?
+Min         = 300
+Max         = 2000
+Antwort_1   = 1 Juist
+Antwort_2   = 0 Langeoog
+Antwort_3   = 0 Wangerooge
+Antwort_4   = 0 Norderney
+
+[66]
+FZ1         =
+FZ2         =  Wie breit ist die Insel Juist ?
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 ca. 500 m
+Antwort_2   = 0 ca. 150 m
+Antwort_3   = 0 ca. 50 m
+Antwort_4   = 0 ca. 5000 m
+
+[67]
+FZ1         =
+FZ2         =  Wie heißt der Binnensee 
+FZ3         =  der Insel Juist ?
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 Hammersee
+Antwort_2   = 0 Zangensee
+Antwort_3   = 0 Feilensee
+Antwort_4   = 0 Sägensee
+
+[68]
+FZ1         =
+FZ2         =  Der Binnensee der Insel
+FZ3         =  Juist hat ....
+Min         = 2000
+Max         = 16000
+Antwort_1   = 1 Süßwasser
+Antwort_2   = 0 Salzwasser
+Antwort_3   = 0 Mischwasser
+Antwort_4   = 0 Sprudelwasser
+
+[69]
+FZ1         =
+FZ2         =  Wie lang ist die Insel Juist ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 5 km
+Antwort_2   = 1 17 km
+Antwort_3   = 0 23 km
+Antwort_4   = 0 9 km
+
+[70]
+FZ1         =
+FZ2         =  In welcher Himmelsrichtung liegt der 
+FZ3         =  Binnensee der Insel Juist ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 im Süden
+Antwort_2   = 0 im Norden
+Antwort_3   = 0 im Osten
+Antwort_4   = 1 im Westen
+
+[71]
+FZ1         = 
+FZ2         =  Was gibt es nicht auf Juist ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 1 Gletscher
+Antwort_2   = 0 Sandstrand
+Antwort_3   = 0 Dünen
+Antwort_4   = 0 Salzwiesen
+
+[72]
+FZ1         = 
+FZ2         =  Wie heißt die Domäne im Westen der 
+FZ3         =  Insel Juist ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 Domäne Will
+Antwort_2   = 0 Domäne Still
+Antwort_3   = 0 Domäne Kill
+Antwort_4   = 1 Domäne Bill
+
+[73]
+FZ1         = 
+FZ2         =  Wie lange dauert die Schifffahrt von Norddeich aus 
+FZ3         =  nach Juist ?
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1 ca. 90 Minuten
+Antwort_2   = 0 ca. 45 Minuten
+Antwort_3   = 0 ca. 65 Minuten
+Antwort_4   = 0 ca. 30 Minuten
+
+[74]
+FZ1         = 
+FZ2         =  Wie nennt man die Inseln, die Reste einer 
+FZ3         =  untergegangenen Landschaft sind ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Düneninseln
+Antwort_2   = 0 Felseninseln
+Antwort_3   = 1 Geestinseln
+Antwort_4   = 0 Sooginseln
+
+[75]
+FZ1         = Wie nennt man die Inseln, die aus Sandbänken
+FZ2         =  entstanden sind und noch heute ihre Form
+FZ3         =  durch Sturm und Meer verändern ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Koralleninseln
+Antwort_2   = 0 Vogelinseln
+Antwort_3   = 0 Sandinseln
+Antwort_4   = 1 Düneninseln
+
+[76]
+FZ1         = 
+FZ2         =  Wie viel Zeit vergeht zwischen dem höchsten 
+FZ3         =  und dem niedrigsten Wasserstand ?
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1 6 Stunden 12 1/2 Minuten
+Antwort_2   = 0 4 Stunden 8 1/4 Minuten
+Antwort_3   = 0 12 Stunden 24 2/3 Minuten
+Antwort_4   = 0 8 Stunden 10 3/4 Minuten
+
+[77]
+FZ1         = 
+FZ2         =  Wie viel Salz enthält 1 Liter Nordseewasser ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 35 g
+Antwort_2   = 0 70 g
+Antwort_3   = 0 125 g
+Antwort_4   = 0 9 g
+
+[78]
+FZ1         =
+FZ2         =  Wie breit ist die Ohrenqualle ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 20 - 30 cm
+Antwort_2   = 0 30 - 40 cm
+Antwort_3   = 0 40 - 50 cm
+Antwort_4   = 1 10 - 20 cm
+
+[79]
+FZ1         =
+FZ2         =  Wie viele Fangarme hat die Ohrenqualle ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 12
+Antwort_2   = 1 4
+Antwort_3   = 0 8
+Antwort_4   = 0 36
+
+[80]
+FZ1         =
+FZ2         =  Welche Qualle gibt es ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Ohrenqualle
+Antwort_2   = 0 Nasenqualle
+Antwort_3   = 0 Augenqualle
+Antwort_4   = 0 Mundqualle
+
+[81]
+FZ1         = 
+FZ2         =  Wie tief unter dem Wattboden 
+FZ3         =  lebt der Wattwurm ?
+Min         = 300
+Max         = 1000
+Antwort_1   = 1 ca. 25 cm
+Antwort_2   = 0 ca. 5 cm
+Antwort_3   = 0 ca. 50 cm
+Antwort_4   = 0 ca. 75 cm
+
+[82]
+FZ1         = 
+FZ2         =  Was frisst der Wattwurm mit und scheidet
+FZ3         =  anschließend wieder aus ?
+Min         = 100
+Max         = 2000
+Antwort_1   = 1 Sand
+Antwort_2   = 0 Muscheln
+Antwort_3   = 0 Krebse
+Antwort_4   = 0 Algen
+
+[83]
+FZ1         = 
+FZ2         =  Wie breit wird eine Strandkrabbe ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 ca. 6 cm
+Antwort_2   = 0 ca. 4 cm
+Antwort_3   = 0 ca. 2 cm
+Antwort_4   = 0 ca. 10 cm
+
+[84]
+FZ1         = 
+FZ2         =  Wie läuft eine Strandkrabbe ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 seitwärts
+Antwort_2   = 0 rückwärts
+Antwort_3   = 0 vorwärts
+Antwort_4   = 0 aufwärts
+
+[85]
+FZ1         = 
+FZ2         =  Wächst der Panzer 
+FZ3         =  einer Strandkrabbe mit ?
+Min         = 100
+Max         = 2000
+Antwort_1   = 1 nein
+Antwort_2   = 0 ja
+Antwort_3   = 0 nur bei den Männchen
+Antwort_4   = 0 nur bei den Weibchen
+
+[86]
+FZ1         = 
+FZ2         =  Welches Tier an der Nordsee
+FZ3         =  hat keinen Kopf ?
+Min         = 100
+Max         = 1000
+Antwort_1   = 1 Seestern
+Antwort_2   = 0 Garnele
+Antwort_3   = 0 Wattschnecke
+Antwort_4   = 0 Lachmöwe
+
+[87]
+FZ1         = 
+FZ2         =  Wie viele Schalen hat eine Muschel ?
+FZ3         = 
+Min         = 200
+Max         = 2000
+Antwort_1   = 1 2
+Antwort_2   = 0 1
+Antwort_3   = 0 3
+Antwort_4   = 0 4
+
+[88]
+FZ1         = 
+FZ2         =  Wie lang wird die Sandklaffmuschel ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 ca. 12 cm
+Antwort_2   = 0 ca. 10 cm 
+Antwort_3   = 0 ca. 16 cm
+Antwort_4   = 0 ca. 20 cm
+
+[89]
+FZ1         = 
+FZ2         =  Wie tief gräbt sich die Sandklaffmuschel
+FZ3         =  in den Wattboden ein ?
+Min          = 2000
+Max         = 16000
+Antwort_1   = 1 ca. 30 cm
+Antwort_2   = 0 ca. 15 cm
+Antwort_3   = 0 ca. 45 cm
+Antwort_4   = 0 gar nicht
+
+[90]
+FZ1         = 
+FZ2         =  Wie groß wird die Herzmuschel ?
+FZ3         = 
+Min         = 4000
+Max         = 2000
+Antwort_1   = 1 ca. 5 cm
+Antwort_2   = 0 ca. 8 cm
+Antwort_3   = 0 ca. 2 cm
+Antwort_4   = 0 ca. 12 cm
+
+[91]
+FZ1         = 
+FZ2         =  Wie tief gräbt sich die Miesmuschel ein ?
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 1 gar nicht
+Antwort_2   = 0 ca. 10 cm
+Antwort_3   = 0 ca. 15 cm
+Antwort_4   = 0 ca. 25 cm
+
+[92]
+FZ1         = 
+FZ2         = Welche Möwe gibt es ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Silbermöwe
+Antwort_2   = 0 Goldmöwe
+Antwort_3   = 0 Bronzemöwe
+Antwort_4   = 0 Kupfermöwe
+
+[93]
+FZ1         = 
+FZ2         =  Welche Möwe gibt es ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Mantelmöwe
+Antwort_2   = 0 Rockmöwe
+Antwort_3   = 0 Hosenmöwe
+Antwort_4   = 0 Jackenmöwe
+
+[94]
+FZ1         = 
+FZ2         =  Welche Möwe gibt es ?
+FZ3         = 
+Min          = 1000
+Max         = 8000
+Antwort_1   = 1 Lachmöwe
+Antwort_2   = 0 Weinmöwe
+Antwort_3   = 0 Grinsmöwe
+Antwort_4   = 0 Heulmöwe
+
+[95]
+FZ1         =  
+FZ2         =  Wie heißen die größten Tiere
+FZ3         =  an der Nordsee ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 1 Seehunde
+Antwort_2   = 0 Strandkrabben
+Antwort_3   = 0 Heringsmöwe
+Antwort_4   = 0 Austernfischer
+
+[96]
+FZ1         = 
+FZ2         =  Wie lang werden Seehunde ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 1,50 m - 2 m
+Antwort_2   = 0 0,75 cm - 1,15 m
+Antwort_3   = 0 30 cm - 90 cm
+Antwort_4   = 0 1,80 m - 3,20 m
+
+[97]
+FZ1         = 
+FZ2         =  Wie schwer werden Seehunde ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 50 kg - 100 kg
+Antwort_2   = 0 10 kg - 20 kg
+Antwort_3   = 0 30 kg - 40 kg
+Antwort_4   = 0 60 kg - 80 kg
+
+[98]
+FZ1         = 
+FZ2         =  Wie lange können Seehunde unter Wasser bleiben ?
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 1 bis zu 15 Minuten
+Antwort_2   = 0 1 - 2 Stunden
+Antwort_3   = 0 weniger als 10 Minuten
+Antwort_4   = 0 genau 27 Minuten
+
+[99]
+FZ1         = 
+FZ2         =  Was jagen Seehunde  n i c h t  ?
+FZ3         = 
+Min         = 100
+Max         = 500
+Antwort_1   = 1 Möwen
+Antwort_2   = 0 Fische
+Antwort_3   = 0 Krebse
+Antwort_4   = 0 Weichtiere
+
+[100]
+FZ1         =  
+FZ2         =   Wie entstehen die Wellen ?
+FZ3         =  
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 durch die Schiffe
+Antwort_2   = 0 durch die Flut
+Antwort_3   = 1 durch den Wind
+Antwort_4   = 0 durch die Erddrehung
+
+
+[101]
+FZ1         = 
+FZ2         =  Was ist das Gegenteil von "Flut" ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Sturm
+Antwort_2   = 0 Gischt
+Antwort_3   = 1 Ebbe
+Antwort_4   = 0 Brise
+
+[102]
+FZ1         = 
+FZ2         =  Was ist das Gegenteil von "Ebbe" ?
+FZ3         = 
+Min          = 0
+Max         = 1000
+Antwort_1   = 0 Sturm
+Antwort_2   = 0 Brandung
+Antwort_3   = 0 Brise
+Antwort_4   = 1 Flut
+
+[103]
+FZ1         = 
+FZ2         =  Auf welcher Insel gibt es 
+FZ3         =  keinen Autoverkehr ?
+Min          = 2000
+Max         = 32000
+Antwort_1   = 0 Sylt
+Antwort_2   = 1 Juist
+Antwort_3   = 0 Norderney
+Antwort_4   = 0 Föhr
+
+[104]
+FZ1         = 
+FZ2         =  Was ist  k e i n e  ostfriesische Insel ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Borkum
+Antwort_2   = 0 Juist
+Antwort_3   = 1 Amrum
+Antwort_4   = 0 Norderney
+
+[105]
+FZ1         = 
+FZ2         = Was ist  k e i n e  ostfriesische Insel ? 
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Wangerooge
+Antwort_2   = 0 Spiekeroog
+Antwort_3   = 0 Langeoog
+Antwort_4   = 1 Kurzeoog
+
+[106]
+FZ1         = 
+FZ2         =  Was ist  k e i n e  ostfriesische Insel ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Baltrum
+Antwort_2   = 0 Borkum
+Antwort_3   = 0 Juist
+Antwort_4   = 1 Amrum
+
+[107]
+FZ1         = 
+FZ2         =  Was ist  k e i n e  nordfriesische Insel ?
+FZ3         = 
+Min          = 1000
+Max         = 16000
+Antwort_1   = 0 Sylt 
+Antwort_2   = 0 Amrum
+Antwort_3   = 1 Juist
+Antwort_4   = 0 Föhr
+
+[108]
+FZ1         = 
+FZ2         =  Was ist  k e i n e  nordfriesische Insel ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Helgoland
+Antwort_2   = 0 Pellworm
+Antwort_3   = 0 Amrum
+Antwort_4   = 0 Föhr
+
+[109]
+FZ1         =
+FZ2         =  Was bedeutet der Name "Helgoland" ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 helles Land
+Antwort_2   = 0 hinter dem Land
+Antwort_3   = 0 heftiges Land
+Antwort_4   = 1 heiliges Land
+
+[110]
+FZ1         = 
+FZ2         =  Welcher Fluss fließt   n i c h t   in die Nordsee ?
+FZ3         = 
+Min          = 2000
+Max         = 64000
+Antwort_1   = 0 Ems 
+Antwort_2   = 0 Elbe
+Antwort_3   = 1 Ruhr
+Antwort_4   = 0 Weser
+
+[111]
+FZ1         =
+FZ2         =  Welcher Fluss fließt in die Nordsee ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Ems
+Antwort_2   = 0 Donau
+Antwort_3   = 0 Main
+Antwort_4   = 0 Mosel
+
+[112]
+FZ1         =
+FZ2         =  Welcher Fluss fließt in die Nordsee ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Neckar
+Antwort_2   = 0 Lahn
+Antwort_3   = 0 Inn
+Antwort_4   = 1 Elbe
+
+[113]
+FZ1         =
+FZ2         = Welcher Fluss fließt in die Nordsee ? 
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Lippe
+Antwort_2   = 1 Rhein
+Antwort_3   = 0 Emscher
+Antwort_4   = 0 Regen
+
+[114]
+FZ1         = 
+FZ2         =  Welcher Fluss fließt in die Nordsee ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Fulda
+Antwort_2   = 0 Isar
+Antwort_3   = 0 Nil
+Antwort_4   = 1 Weser
+
+[115]
+FZ1         =
+FZ2         = Welche Stadt liegt  n i c h t  an der Nordsee ?  
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 Cuxhaven
+Antwort_2   = 0 Wilhelmshaven
+Antwort_3   = 0 Bremerhaven
+Antwort_4   = 1 Friedrichshafen
+
+[116]
+FZ1         = Zu welcher Inselgruppe gehören: 
+FZ2         =  Borkum, Juist, Norderney, Baltrum,
+FZ3         =  Langeoog, Spiekeroog, Wangerooge ?
+Min          = 4000
+Max         = 32000
+Antwort_1   = 0 westfriesische Inseln
+Antwort_2   = 0 nordfriesische Inseln
+Antwort_3   = 1 ostfriesisiche Inseln
+Antwort_4   = 0 südfriesische Inseln
+
+[117]
+FZ1         = Zu welcher Inselgruppe gehören: 
+FZ2         =  Sylt, Amrum, Föhr, Pellworm ?
+FZ3         = 
+Min          = 4000
+Max         = 32000
+Antwort_1   = 1 nordfriesische Inseln
+Antwort_2   = 0 südfriesische Inseln
+Antwort_3   = 0 westfriesische Inseln
+Antwort_4   = 0 ostfriesische Inseln
+
+[118]
+FZ1         =
+FZ2         =  Wie heißt die größte
+FZ3         =  nordfriesische Insel ?
+Min          = 500
+Max         = 1000
+Antwort_1   = 1 Sylt
+Antwort_2   = 0 Pellworm
+Antwort_3   = 0 Amrum
+Antwort_4   = 0 Föhr
+
+[119]
+FZ1         =
+FZ2         =  Wie nennt man die kleinen "Inseln", auf denen
+FZ3         =  man Seehunde beobachten kann ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Seehundbänke
+Antwort_2   = 0 Seehundstühle
+Antwort_3   = 0 Seehundtische
+Antwort_4   = 0 Seehundsessel
+
+[120]
+FZ1         =
+FZ2         =  Was ist "Hooksiel" ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 ein alter Pirat
+Antwort_2   = 0 ein versunkenes Schiff
+Antwort_3   = 1 ein Ort an der Nordsee
+Antwort_4   = 0 eine Schifffahrtsrinne
+
+[121]
+FZ1         =
+FZ2         =  Wie nennt man ein Schiff, das regelmäßig vom
+FZ3         =  Festland zur Insel fährt ?
+Min          = 1000
+Max         = 8000
+Antwort_1   = 1 Fähre
+Antwort_2   = 0 Kutter
+Antwort_3   = 0 Schlepper
+Antwort_4   = 0 Dampfer
+
+[122]
+FZ1         =
+FZ2         =  Weshalb ist das Baden bei
+FZ3         =  Ebbe gefährlich ?
+Min          = 1000
+Max         = 16000
+Antwort_1   = 0 Das Wasser wird zu kalt.
+Antwort_2   = 0 Man stößt auf den Grund.
+Antwort_3   = 1 wegen der Strömung
+Antwort_4   = 0 Man gefährdet die Tiere.
+
+[123]
+FZ1         =
+FZ2         =  Welches Bundesland hat  e i n e n
+FZ3         =  Nordseestrand ?
+Min         =  200
+Max         = 2000
+Antwort_1   = 0 Rheinland - Pfalz
+Antwort_2   = 1 Schleswig - Holstein
+Antwort_3   = 0 Baden - Württemberg
+Antwort_4   = 0 Nordrhein - Westfalen
+
+[124]
+FZ1         = 
+FZ2         =  Welches Bundesland hat  e i n e n
+FZ3         =  Nordseestrand ?
+Min          = 200
+Max         = 2000
+Antwort_1   = 1 Niedersachsen
+Antwort_2   = 0 Sachsen
+Antwort_3   = 0 Sachsen - Anhalt
+Antwort_4   = 0 Thüringen
+
+[125]
+FZ1         = 
+FZ2         =  Welche Vögel trifft man an der Nordsee 
+FZ3         =  am häufigsten an ?
+Min          = 0
+Max         = 1000
+Antwort_1   = 0 Spechte
+Antwort_2   = 1 Möwen
+Antwort_3   = 0 Meisen
+Antwort_4   = 0 Amseln
+
+[126]
+FZ1         = 
+FZ2         =  Welcher Krebs hat einen 
+FZ3         =  weichen Hinterleib ?
+Min          = 1000
+Max         = 8000
+Antwort_1   = 1 Einsiedlerkrebs
+Antwort_2   = 0 Taschenkrebs
+Antwort_3   = 0 Softkrebs
+Antwort_4   = 0 Weichkrebs
+
+[127]
+FZ1         =
+FZ2         =  Welchen Krebs gibt es ?
+FZ3         = 
+Min          = 1000
+Max         = 8000
+Antwort_1   = 0 Beutelkrebs
+Antwort_2   = 1 Taschenkrebs
+Antwort_3   = 0 Tütenkrebs
+Antwort_4   = 0 Netzkrebs
+
+[128]
+FZ1         = 
+FZ2         =  Welche Muschel kann sich  
+FZ3         =  schnell eingraben ?
+Min          = 2000
+Max         = 64000
+Antwort_1   = 1 Herzmuschel
+Antwort_2   = 0 Sandklaffmuschel
+Antwort_3   = 0 Miesmuschel
+Antwort_4   = 0 Taschenmessermuschel
+
+[129]
+FZ1         =
+FZ2         = Wie heißt die kleinste ostfriesische Insel ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Juist
+Antwort_2   = 0 Borkum
+Antwort_3   = 0 Norderney
+Antwort_4   = 1 Baltrum
+
+[130]
+FZ1         =
+FZ2         =  Wie lang ist der Sandstrand von Langeoog ?
+FZ3         = 
+Min          = 8000
+Max         = 32000
+Antwort_1   = 1 14 km
+Antwort_2   = 0 10 km
+Antwort_3   = 0 20 km
+Antwort_4   = 0 6 km
+
+[131]
+FZ1         =
+FZ2         =  Wie heißt das älteste deutsche
+FZ3         =  Nordseeheilbad ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 1 Norderney
+Antwort_2   = 0 Sylt
+Antwort_3   = 0 Föhr
+Antwort_4   = 0 Juist
+
+[132]
+FZ1         =
+FZ2         =  Wann wurde das erste deutsche
+FZ3         =  Nordseeheilbad gegründet ?
+Min          = 500000
+Max         = 1000000
+Antwort_1   = 0 1697
+Antwort_2   = 1 1797
+Antwort_3   = 0 1745
+Antwort_4   = 0 1812
+
+[133]
+FZ1         =
+FZ2         =  Wie heißt die höchste Erhebung Ostfrieslands ?
+FZ3         = 
+Min          = 500000
+Max         = 1000000
+Antwort_1   = 1 Düne Melkhörn
+Antwort_2   = 0 Domäne Bill
+Antwort_3   = 0 Wilhelmshöhe
+Antwort_4   = 0 Hoge Hörn
+
+[134]
+FZ1         =
+FZ2         =  Auf welcher Insel befindet sich die höchste
+FZ3         =  Erhebung Ostfrieslands ?
+Min          = 125000
+Max         = 500000
+Antwort_1   = 0 Juist 
+Antwort_2   = 0 Norderney
+Antwort_3   = 1 Langeoog
+Antwort_4   = 0 Wangerooge
+
+[135]
+FZ1         =
+FZ2         =  Wie hoch ist die 
+FZ3         =  höchste Erhebung Ostfrieslands ?
+Min          = 64000
+Max         = 250000
+Antwort_1   = 0 12 Meter
+Antwort_2   = 0 20 Meter
+Antwort_3   = 0 35 Meter
+Antwort_4   = 1 29 Meter
+
+[136]
+FZ1         =
+FZ2         =  Wie nennt man kleine Modellschiffe
+FZ3         =  in leeren Flaschen ?
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 Flaschenschiffe
+Antwort_2   = 0 Museumsschiffe
+Antwort_3   = 1 Buddelschiffe
+Antwort_4   = 0 Pfandschiffe
+
+[137]
+FZ1         =  Zu welchem Land hat die Insel
+FZ2         =  Wangerooge in der Vergangenheit
+FZ3         =  n i c h t  gehört ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Niederlande 
+Antwort_2   = 0 Frankreich
+Antwort_3   = 0 Rußland
+Antwort_4   = 1 Spanien
+
+[138]
+FZ1         =
+FZ2         =  Emden ist bekannt für seinen großen ....
+FZ3         = 
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 Nordseekanal
+Antwort_2   = 1 Exporthafen
+Antwort_3   = 0 Sandstrand
+Antwort_4   = 0 Leuchtturm
+
+[139]
+FZ1         =
+FZ2         =  Wie nennt man einen alten
+FZ3         =  "Wintersport" der Ostfriesen ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 Stoßeln 
+Antwort_2   = 0 Woßeln
+Antwort_3   = 0 Kloßeln
+Antwort_4   = 1 Boßeln
+
+[140]
+FZ1         =
+FZ2         =  Wie heißt die älteste
+FZ3         =  Stadt Ostfrieslands ?
+Min         = 200
+Max         = 4000
+Antwort_1   = 0 Süden
+Antwort_2   = 0 Westen
+Antwort_3   = 1 Norden
+Antwort_4   = 0 Osten
+
+[141]
+FZ1         =
+FZ2         =  Wilhelmshaven liegt am ....
+FZ3         = 
+Min          = 1000
+Max         = 8000
+Antwort_1   = 1 Jadebusen
+Antwort_2   = 0 Bernsteinrücken
+Antwort_3   = 0 Rubinbauch
+Antwort_4   = 0 Smaragthals
+
+[142]
+FZ1         =
+FZ2         =  Welchen bedeutenden Hafen
+FZ3         =  besitzt Wilhelmshaven ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 Überseehafen
+Antwort_2   = 0 Exporthafen
+Antwort_3   = 1 Ölhafen
+Antwort_4   = 0 Touristenhafen
+
+[143]
+FZ1         =
+FZ2         =   Wie viele Menschen machen jährlich 
+FZ3         =  an der Nordsee Urlaub ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 ca. 1 Millionen
+Antwort_2   = 1 ca. 3 Millionen
+Antwort_3   = 0 ca. 12 Millionen
+Antwort_4   = 0 ca. 750 000
+
+[144]
+FZ1         =
+FZ2         =  Wie viele Nationalparks gibt es 
+FZ3         =  an der Nordseeküste ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 1
+Antwort_2   = 0 2
+Antwort_3   = 0 4
+Antwort_4   = 1 3
+
+[145]
+FZ1         =  Wann ist der Nationalpark
+FZ2         =   "Niedersächsisches Wattenmeer"
+FZ3         =   entstanden ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 1986
+Antwort_2   = 0 1995
+Antwort_3   = 0 1970
+Antwort_4   = 0 1899
+
+[146]
+FZ1         = 
+FZ2         =  Wann sollte man eine Wattwanderung 
+FZ3         =  beginnen ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 1 Stunde vor Hochwasser
+Antwort_2   = 0 1 Stunde nach Hochwasser
+Antwort_3   = 0 1 Stunde vor Niedrigwasser
+Antwort_4   = 1 mehrere Stunden vor Niedrigwasser
+
+[147]
+FZ1         = 
+FZ2         =  Was gehört nicht zum 
+FZ3         =  "Niedersächsischen Nationalpark" ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Flussmündungen
+Antwort_2   = 0 Inseln
+Antwort_3   = 0 Watt
+Antwort_4   = 0 Sandbänke
+
+[148]
+FZ1         = 
+FZ2         =  Wie viele Autos können am Strand
+FZ3         =  von St. Peter - Ording parken ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 keines
+Antwort_2   = 0 1000
+Antwort_3   = 1 6000
+Antwort_4   = 0 3000
+
+[149]
+FZ1         = 
+FZ2         =  Warum darf man die Pfade in
+FZ3         =  den Dünen nicht verlassen ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 Man kann sich verlaufen.
+Antwort_2   = 0 Man sinkt tief ein.
+Antwort_3   = 0 Die Anwohner werden gestört.
+Antwort_4   = 1 Die Pflanzendecke geht kaputt.
+
+[150]
+FZ1         = 
+FZ2         =  Wie viele Flugzeuge landen und starten 
+FZ3         =  jährlich auf Sylt ?
+Min         =  8000
+Max         = 32000
+Antwort_1   = 1 ca. 35 000
+Antwort_2   = 0 ca. 12 000
+Antwort_3   = 0  ca. 21 000
+Antwort_4   = 0 ca. 8 0000
+
+[151]
+FZ1         = 
+FZ2         =  Warum ist für die Küste der
+FZ3         =  Tourismus wichtig ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Er ist die Haupterwerbsquelle.
+Antwort_2   = 0 Damit die Menschen nicht einsam sind.
+Antwort_3   = 0 Damit die Hotels voll sind.
+Antwort_4   = 0 Damit die Schiffe voll sind.
+
+[152]
+FZ1         =
+FZ2         =  Warum sind die Fahrten zu den 
+FZ3         =  Seehundbänken gefährlich ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 Die Strömung ist zu stark.
+Antwort_2   = 0 Das Wasser ist zu flach.
+Antwort_3   = 0 Das Wetter verändert sich schnell.
+Antwort_4   = 1 Die Tiere werden gestört.
+
+[153]
+FZ1         =
+FZ2         =  Worauf muss man beim Baden
+FZ3         =  an der Nordseeküste achten ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 auf den Wind
+Antwort_2   = 1 auf die starke Strömung
+Antwort_3   = 0 auf Haie
+Antwort_4   = 0 auf die spitzen Felsen
+
+[154]
+FZ1         =
+FZ2         =  Warum nehmen Robben Sonnenbäder ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 um ihren Vitamin - D - Haushalt aufzubessern
+Antwort_2   = 0 um ihr Fell zu trocknen
+Antwort_3   = 0 um schön braun zu werden
+Antwort_4   = 0 um sich auszuruhen
+
+[155]
+FZ1         = 
+FZ2         =  Wie heißt die flachste Stelle 
+FZ3         =  der Nordsee ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 Doggerbank
+Antwort_2   = 0 Dackelbank
+Antwort_3   = 0 Deutsche Bucht
+Antwort_4   = 0 Skagerrak
+
+[156]
+FZ1         = 
+FZ2         =  Wie tief ist die flachste Stelle
+FZ3         =  der Nordsee ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 13 - 30 m
+Antwort_2   = 0 2 - 6 m
+Antwort_3   = 0 32 - 45 m
+Antwort_4   = 0 51 - 88 m
+
+[157]
+FZ1         = 
+FZ2         =  Wie heißt die tiefste Stelle
+FZ3         =  der Nordsee ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 Dänische Kuhle
+Antwort_2   = 0 Deutsche Bucht
+Antwort_3   = 1 Norwegische Rinne
+Antwort_4   = 0 Englisches Loch
+
+[158]
+FZ1         = 
+FZ2         =  Wie tief ist die 
+FZ3         =  tiefste Stelle der Nordsee ?
+Min         = 16000
+Max         = 500000
+Antwort_1   = 0 305 m
+Antwort_2   = 0 556 m
+Antwort_3   = 0 923 m
+Antwort_4   = 1 712 m
+
+[159]
+FZ1         = 
+FZ2         =  Wie heißen die Inselbewohner 
+FZ3         =  von Sylt ?
+Min         = 4000
+Max         = 16000
+Antwort_1   = 1 Syltringer
+Antwort_2   = 0 Syltaner
+Antwort_3   = 0 Syltener
+Antwort_4   = 0 Syltsen
+
+[160]
+FZ1         = 
+FZ2         =  Auf welcher Insel liegt Kampen ? 
+FZ3         = 
+Min         = 100
+Max         = 2000
+Antwort_1   = 0 Norderney
+Antwort_2   = 1 Sylt
+Antwort_3   = 0 Borkum
+Antwort_4   = 0 Föhr
+
+[161]
+FZ1         =  Wie heißt der Damm,
+FZ2         =  der die Insel Sylt mit dem
+FZ3         =  Festland verbindet ?
+Min         = 2000
+Max         = 8000
+Antwort_1   = 1 Hindenburg - Damm
+Antwort_2   = 0 Bismarck - Damm
+Antwort_3   = 0 Friesen - Damm
+Antwort_4   = 0 Kaiser Wilhelm - Damm
+
+[162]
+FZ1         = 
+FZ2         =  Wie lang ist die Insel Sylt ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 ca. 26 km
+Antwort_2   = 0 ca. 18 km
+Antwort_3   = 0 ca. 32 km
+Antwort_4   = 0 ca. 38 km
+
+[163]
+FZ1         = 
+FZ2         =  Wie breit ist die Insel Sylt 
+FZ3         =  an der breitesten Stelle ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 12 km
+Antwort_2   = 0 16 km
+Antwort_3   = 0 8 km
+Antwort_4   = 0 23 km
+
+[164]
+FZ1         = 
+FZ2         =  Wie breit ist die Insel Sylt
+FZ3         =  an der schmalsten Stelle ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 800 m
+Antwort_2   = 0 1400 m
+Antwort_3   = 1  500 m
+Antwort_4   = 0 1000 m
+
+[165]
+FZ1         = 
+FZ2         =  Wie viele Einwohner 
+FZ3         =  hat die Insel Sylt ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 ca. 24 000
+Antwort_2   = 0 ca. 16 000
+Antwort_3   = 0 ca. 38 000
+Antwort_4   = 0 ca. 57 000
+
+[166]
+FZ1         = 
+FZ2         =  Wie heißt der südlichste 
+FZ3         =  Inselort von Sylt ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 Kampen
+Antwort_2   = 1 Hörnum
+Antwort_3   = 0 Westerland
+Antwort_4   = 0 List
+
+[167]
+FZ1         = 
+FZ2         =  Auf welcher Insel befindet sich
+FZ3         =  der Ort Wyk ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Föhr
+Antwort_2   = 0 Amrum
+Antwort_3   = 0 Baltrum
+Antwort_4   = 0 Juist
+
+[168]
+FZ1         = 
+FZ2         =  Von welchem Hafen kommt man
+FZ3         =  am schnellsten nach Föhr ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 Bremerhaven
+Antwort_2   = 0 Wilhelmshaven
+Antwort_3   = 1 Dagebüll
+Antwort_4   = 0 Norden - Norddeich
+
+[169]
+FZ1         =  
+FZ2         =  Wie heißt die kleinste der
+FZ3         =   nordfriesischen Inseln ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 1 Amrum
+Antwort_2   = 0 Sylt
+Antwort_3   = 0 Föhr
+Antwort_4   = 0 Pellworm
+
+[170]
+FZ1         = 
+FZ2         =  Wie hoch ist die 
+FZ3         =  höchste Düne auf Amrum ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 15 m
+Antwort_2   = 0 20 m
+Antwort_3   = 0 45 m
+Antwort_4   = 1 32 m
+
+[171]
+FZ1         = 
+FZ2         =  Auf welcher nordfriesischen Insel   
+FZ3         =  liegt der Ort Norddorf ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 Amrum 
+Antwort_2   = 0 Sylt
+Antwort_3   = 0 Föhr
+Antwort_4   = 0 Norderney
+
+[172]
+FZ1         = 
+FZ2         =  Wie lang ist der Deich,
+FZ3         =  der die Insel Pellworm umgibt ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 16 km 
+Antwort_2   = 1 26 km
+Antwort_3   = 0 36 km
+Antwort_4   = 0 46 km
+
+[173]
+FZ1         = 
+FZ2         =  Wie heißt die größte Hallig ?
+FZ3         = 
+Min         = 12500
+Max         = 500000
+Antwort_1   = 1 Langeneß
+Antwort_2   = 0 Oland
+Antwort_3   = 0 Norderoog
+Antwort_4   = 0 Hamburger Hallig
+
+[174]
+FZ1         =  
+FZ2         =  Wie lang ist der Klippenrundweg 
+FZ3         =  von Helgoland ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 2000 m
+Antwort_2   = 0 2200 m
+Antwort_3   = 0 2500 m
+Antwort_4   = 1 2800 m
+
+[175]
+FZ1         = 
+FZ2         =  Welcher Teil gehört
+FZ3         =  nicht zu Helgoland ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1 Mittelland
+Antwort_2   = 0 Oberland
+Antwort_3   = 0 Unterland
+Antwort_4   = 0  Düne
+
+[176]
+FZ1         =  
+FZ2         =  Wie heißt das Wahrzeichen
+FZ3         =   der Insel Helgoland ?
+Min         = 2000
+Max         = 8000
+Antwort_1   = 0  "Kurze Berta"
+Antwort_2   = 1 "Lange Anna"
+Antwort_3   = 0 "Dicke Frieda"
+Antwort_4   = 0 "Dünne Dern"
+
+[177]
+FZ1         = 
+FZ2         =  Wie groß ist die Nordsee ?
+FZ3         = 
+Min         = 4000
+Max         = 125000
+Antwort_1   = 0 so groß wie Deutschland
+Antwort_2   = 1 doppelt so groß wie Deutschland
+Antwort_3   = 0 so groß wie die Schweiz
+Antwort_4   = 0 so groß wie die USA
+
+[178]
+FZ1         = 
+FZ2         =  Die mittlere Tiefe der Nordsee beträgt ...
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 40 m
+Antwort_2   = 0 120 m
+Antwort_3   = 1 70 m
+Antwort_4   = 0 260 m
+
+[179]
+FZ1         = 
+FZ2         =  Die Nordsee ist ein Randmeer des ...
+FZ3         = 
+Min         = 200
+Max         = 4000
+Antwort_1   = 0 Pazifischen Ozeans
+Antwort_2   = 1 Atlantischen Ozeans
+Antwort_3   = 0 Stillen Ozeans
+Antwort_4   = 0 Indischen Ozeans
+
+[180]
+FZ1         = 
+FZ2         =  Woher fließt das meiste
+FZ3         =  Wasser in die Nordsee ?
+Min         = 200
+Max         = 4000
+Antwort_1   = 0 aus den Flüssen
+Antwort_2   = 0 aus der Ostsee
+Antwort_3   = 0 aus den Kanälen
+Antwort_4   = 1 aus dem Atlantik
+
+[181]
+FZ1         = 
+FZ2         =  Welche Stadt liegt an der Elbe ?
+FZ3         = 
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 Wilhelmshaven
+Antwort_2   = 0 Bremerhaven
+Antwort_3   = 1 Hamburg
+Antwort_4   = 0 Emden
+
+[182]
+FZ1         = 
+FZ2         =  Die Weser mündet in ...
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 die Ostsee
+Antwort_2   = 0 den Ärmelkanal
+Antwort_3   = 1 die Deutsche Bucht
+Antwort_4   = 0 den Skagerrak
+
+[183]
+FZ1         =  Von der Nordsee fahren die
+FZ2         =   Schiffe zur Ostsee durch ...
+FZ3         =  
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 den Ärmelkanal
+Antwort_2   = 0 die Straße von Gibraltar
+Antwort_3   = 1 den Skagerrak
+Antwort_4   = 0 die Deutsche Bucht
+
+[184]
+FZ1         = 
+FZ2         =  Für wie viele Vogelarten
+FZ3         =  ist das Wattenmeer lebenswichtig ?
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 ca. 10
+Antwort_2   = 1 ca. 50
+Antwort_3   = 0 ca. 20
+Antwort_4   = 0 ca. 35
+
+[185]
+FZ1         =  
+FZ2         =  Wie wird der "Knutt"
+FZ3         =  auch noch genannt ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 Küstenrenner
+Antwort_2   = 0 Strandgeher
+Antwort_3   = 0 Wattspazierer
+Antwort_4   = 1 Küstenstrandläufer
+
+[186]
+FZ1         = 
+FZ2         =  Wie viele "Knutts" fliegen manchmal 
+FZ3         =  in einer "Wolke" zusammen ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 2 000
+Antwort_2   = 1 30 000
+Antwort_3   = 0 15 000
+Antwort_4   = 0 8 000
+
+[187]
+FZ1         = 
+FZ2         =  Welcher Wurm baut feine
+FZ3         =  Röhren aus Sand ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Regenwurm
+Antwort_2   = 0 Wattwurm
+Antwort_3   = 0 Dünenwurm
+Antwort_4   = 1 Bäumchenröhrenwurm
+
+[188]
+FZ1         = Wer hat früher regelmäßig im
+FZ2         =  Watt gelebt und gilt heute
+FZ3         =   dort als ausgestorben ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Große Tümmler
+Antwort_2   = 0 Seehund
+Antwort_3   = 0 Silbermöwe
+Antwort_4   = 0 Einsiedlerkrebs
+
+[189]
+FZ1         =  Wer ist es ?
+FZ2         =  Er hat lange Tentakeln und wenn
+FZ3         =  man ihn anfasst, brennt es.
+Min         = 400
+Max         = 1000
+Antwort_1   = 1 eine blaue Nesselqualle
+Antwort_2   = 0 eine Ohrenqualle
+Antwort_3   = 0 ein Tintenfisch
+Antwort_4   = 0 eine Garnele
+
+[190]
+FZ1         =  
+FZ2         =  Wie viele Eier produziert 
+FZ3         =  eine Miesmuschel ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 10 Millionen
+Antwort_2   = 0 100 000
+Antwort_3   = 0 1 Milliarde
+Antwort_4   = 0 1 Millionen
+
+[191]
+FZ1         = 
+FZ2         =  Welche Pflanze blüht lila
+FZ3         =  in riesigen Mengen in den Salzwiesen ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 das Milchkraut
+Antwort_2   = 0  die Veilchen
+Antwort_3   = 1 die Strandaster
+Antwort_4   = 0 die Silberdistel
+
+[192]
+FZ1         = 
+FZ2         =  Was frisst eine Wattschnecke ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Muscheln
+Antwort_2   = 0 Krebse
+Antwort_3   = 0 Tintenfische
+Antwort_4   = 1 Kieselalgen
+                
+[193]
+FZ1         = 
+FZ2         =  Was frisst der Seeringelwurm ?
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 Muscheln
+Antwort_2   = 0 Kieselalgen
+Antwort_3   = 0 Watt
+Antwort_4   = 1 Würmer
+                
+[194]
+FZ1         =  
+FZ2         =  Die Tragzeit der Seehunde beträgt ...
+FZ3         = 
+Min         = 16000
+Max         = 250000
+Antwort_1   = 0 9 Monate
+Antwort_2   = 0 6 Monate
+Antwort_3   = 0 16 Monate
+Antwort_4   = 1 11 Monate
+
+[195]
+FZ1         = 
+FZ2         =  Was ist ein "Petermännchen" ?
+FZ3         = 
+Min         = 1000
+Max         = 64000
+Antwort_1   = 0 der Wattführer von St. Peter - Ording
+Antwort_2   = 0 eine Schnecke
+Antwort_3   = 1 ein Fisch
+Antwort_4   = 0 eine Muschel
+
+[196]
+FZ1         = 
+FZ2         =  Wie groß wird der Schlickkrebs ?
+FZ3         = 
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 ca. 2 cm
+Antwort_2   = 1 ca. 1 cm
+Antwort_3   = 0 ca. 3 cm
+Antwort_4   = 0 ca. 4 cm
+
+[197]
+FZ1         =  
+FZ2         =  Wie nennt man festsitzende Krebse ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 Seepocken
+Antwort_2   = 0 Seerochen
+Antwort_3   = 0 Landkrebs
+Antwort_4   = 0 Mieskrebs
+
+[198]
+FZ1         = 
+FZ2         =  Wie wird die Nordseegarnele 
+FZ3         =  auch genannt ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Spinat
+Antwort_2   = 1 Granat
+Antwort_3   = 0 Salat
+Antwort_4   = 0 Zutat
+
+[199]
+FZ1         = 
+FZ2         =  Wie groß ist das Gehäuse 
+FZ3         =  der Strandschnecke ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 ca. 1 cm
+Antwort_2   = 0 ca. 3 cm
+Antwort_3   = 1 ca. 2 cm
+Antwort_4   = 0 ca. 4 cm
+
+[200]
+FZ1         =  
+FZ2         =  Wie groß wird das Gehäuse
+FZ3         =  der Wattschnecke ?
+Min         =  4000
+Max         = 32000
+Antwort_1   = 1 ca. 6 mm
+Antwort_2   = 0 ca. 10 mm
+Antwort_3   = 0 ca. 14 mm
+Antwort_4   = 0 ca. 16 mm
+
+[201]
+FZ1         = 
+FZ2         =  Wie lang wird das Gehäuse
+FZ3         =  der Wellhornschnecke ?
+Min         =  4000
+Max         = 32000
+Antwort_1   = 0 ca. 6 cm
+Antwort_2   = 0 ca. 8 cm
+Antwort_3   = 1 ca. 11 cm
+Antwort_4   = 0 ca. 15 cm
+
+[202]
+FZ1         = 
+FZ2         =  Wie wird der Wattwurm auch
+FZ3         =  noch genannt ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Regenwurm
+Antwort_2   = 0 Borstenwurm
+Antwort_3   = 0 Kriechwurm
+Antwort_4   = 1 Sandpierwurm
+
+[203]
+FZ1         = 
+FZ2         =  Wie lang wird der Seeringelwurm ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 ca. 4 cm
+Antwort_2   = 1 ca. 20 cm
+Antwort_3   = 0 ca. 10 cm
+Antwort_4   = 0 ca. 14 cm
+
+[204]
+FZ1         = 
+FZ2         =  Wie groß wird der 
+FZ3         =  Bäumchenröhrenwurm ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 1 - 4 cm
+Antwort_2   = 0 2 - 6 cm
+Antwort_3   = 1 5 - 8 cm
+Antwort_4   = 0 8 - 12 cm
+
+[205]
+FZ1         = 
+FZ2         =  Wie wird der Kotpillenwurm
+FZ3         =  noch genannt ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Hosenträger - Wurm
+Antwort_2   = 0 Tischdecken - Wurm
+Antwort_3   = 0 Wollfaden - Wurm
+Antwort_4   = 1 Gummiband - Wurm
+
+[206]
+FZ1         = 
+FZ2         =  Wie lang wird der Kotpillenwurm ?
+FZ3         = 
+Min         = 2000
+Max         = 64000
+Antwort_1   = 0 ca. 3 cm
+Antwort_2   = 0 ca. 6 cm
+Antwort_3   = 0 ca. 10 cm
+Antwort_4   = 1 ca. 15 cm
+
+[207]
+FZ1         = 
+FZ2         =  Wie lang kann die Miesmuschel werden ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 ca. 3 cm
+Antwort_2   = 0 ca. 11 cm
+Antwort_3   = 1 ca. 7 cm
+Antwort_4   = 0 ca. 15 cm
+
+[208]
+FZ1         = 
+FZ2         =  Wie heißt die bekannteste Wattmuschel ?
+FZ3         = 
+Min         = 8000
+Max         = 64000
+Antwort_1   = 1 Miesmuschel
+Antwort_2   = 0 Plattmuschel
+Antwort_3   = 0 Taschenmessermuschel
+Antwort_4   = 0 Pfeffermuschel
+
+[209]
+FZ1         =
+FZ2         =  Wie viele "Rippen" hat eine Herzmuschel ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 ca. 6
+Antwort_2   = 0 ca. 12
+Antwort_3   = 0 ca. 18
+Antwort_4   = 1 ca. 24
+
+[210]
+FZ1         = 
+FZ2         =  Wie viele Eier stößt die
+FZ3         =  weibliche Herzmuschel im Mai aus ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ca. 1 Millionen
+Antwort_2   = 0 ca. 500 000
+Antwort_3   = 1 ca. 50 000
+Antwort_4   = 0 ca. 10 000
+
+[211]
+FZ1         =
+FZ2         =  Wie viele von 100 jungen Herzmuscheln 
+FZ3         =  leben noch nach einem Jahr ?
+Min         = 1000
+Max         = 64000
+Antwort_1   = 1 1
+Antwort_2   = 0 10
+Antwort_3   = 0 20
+Antwort_4   = 0 50
+
+[212]
+FZ1         =
+FZ2         =  Wie alt können Herzmuscheln werden ?
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 3 Jahre
+Antwort_2   = 0 5 Jahre
+Antwort_3   = 0 11 Jahre
+Antwort_4   = 1 16 Jahre
+
+[213]
+FZ1         =
+FZ2         =  Wovon ernähren sich Herzmuscheln ? 
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Salat
+Antwort_2   = 1 Plankton
+Antwort_3   = 0 Krebse
+Antwort_4   = 0 Fische
+
+[214]
+FZ1         = 
+FZ2         =  Wie wird die Baltische Plattmuschel
+FZ3         =  auch noch genannt ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 grüne Erbse
+Antwort_2   = 0 braune Linse
+Antwort_3   = 0 gelbes Maiskorn
+Antwort_4   = 1 rote Bohne
+
+[215]
+FZ1         =
+FZ2         =  Wie lang wird die
+FZ3         =  Baltische Plattmuschel ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 ca. 1 cm
+Antwort_2   = 0 ca. 4 cm
+Antwort_3   = 0 ca. 7 cm
+Antwort_4   = 1 ca. 2 cm
+
+[216]
+FZ1         =
+FZ2         =  Wie lang wird die
+FZ3         =  Pfeffermuschel ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 ca. 22 mm
+Antwort_2   = 0 ca. 33 mm
+Antwort_3   = 1 ca. 55 mm
+Antwort_4   = 0 ca. 44 mm
+
+[217]
+FZ1         =
+FZ2         =  Wie viele verschiedene Fischarten leben im 
+FZ3         =  Wattenmeer ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 mehr als 70
+Antwort_2   = 0 weniger als 20
+Antwort_3   = 0 30 - 40
+Antwort_4   = 0 50 - 60
+
+[218]
+FZ1         = Wie nennt man die Gruppe von Fischen,
+FZ2         =  die ihr ganzes Leben im Wattenmeer
+FZ3         =   verbringen ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 1 Standfische
+Antwort_2   = 0 Nordseefische
+Antwort_3   = 0 Wattfische
+Antwort_4   = 0 Bleibfische
+
+[219]
+FZ1         =
+FZ2         =  Welcher Fisch ist kein 
+FZ3         =  Standfisch ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 1 Makrele
+Antwort_2   = 0 Aalmutter
+Antwort_3   = 0 Seeskorpion
+Antwort_4   = 0 Butterfisch
+
+[220]
+FZ1         =
+FZ2         =  Für welchen Fisch ist das Wattenmeer
+FZ3         =  n i c h t die Kinderstube ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Scholle
+Antwort_2   = 0 Hering
+Antwort_3   = 1 Karpfen
+Antwort_4   = 0 Seezunge
+
+[221]
+FZ1         =
+FZ2         =  Wie lange bleibt die Seezunge
+FZ3         =  in der Kinderstube Wattenmeer ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 2 - 3 Jahre
+Antwort_2   = 0 6 Monate
+Antwort_3   = 0 12 Wochen
+Antwort_4   = 0 1 Jahr
+
+[222]
+FZ1         =
+FZ2         =  Welchen Meeressäuger gibt es
+FZ3         =  n i c h t  im deutschen Wattenmeer?
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 Kegelrobbe
+Antwort_2   = 0 Seehund
+Antwort_3   = 1 Schwertwal
+Antwort_4   = 0 Schweinswal
+
+[223]
+FZ1         =
+FZ2         =  Wie lang wird der Schweinswal ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 ca. 2,90 m
+Antwort_2   = 1 ca. 1,80 m
+Antwort_3   = 0 ca. 4,50 m
+Antwort_4   = 0 ca. 8,80 m
+
+[224]
+FZ1         = 
+FZ2         =  Wie tief kann ein Seehund tauchen ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 mehrere hundert Meter
+Antwort_2   = 0 50 Meter
+Antwort_3   = 0 zwischen 30 und 45 Meter
+Antwort_4   = 0 weniger als 30 Meter
+
+[225]
+FZ1         = 
+FZ2         =  Wo haben die Seehunde
+FZ3         =  k e i n e   Tasthaare ?
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 Mund
+Antwort_2   = 1 Ohren
+Antwort_3   = 0 Nase
+Antwort_4   = 0 Augen
+
+[226]
+FZ1         = 
+FZ2         =  Wo ist der typische Lebensraum
+FZ3         =  der Kegelrobben ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Sandstrand 
+Antwort_2   = 0 Flussmündung
+Antwort_3   = 0 Inselhäfen
+Antwort_4   = 1 Felsenküste
+
+[227]
+FZ1         =
+FZ2         =  Vor welcher  Insel
+FZ3         =  gibt es Kegelrobben ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Juist
+Antwort_2   = 1 Amrum
+Antwort_3   = 0 Rügen
+Antwort_4   = 0 Baltrum
+
+[228]
+FZ1         = 
+FZ2         =  Wie schwer ist ein ausgewachsener
+FZ3         =   Kegelrobbenbulle ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 ca. 100 kg
+Antwort_2   = 0 100 - 200 kg
+Antwort_3   = 1 ca. 300 kg
+Antwort_4   = 0 über 500 kg
+
+[229]
+FZ1         =
+FZ2         =  Wie lang wird ein ausgewachsener
+FZ3         =  Kegelrobbenbulle ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 1 m
+Antwort_2   = 0 ca. 3,50 m
+Antwort_3   = 0 4 - 6 m
+Antwort_4   = 1 ca. 2,30 m
+
+[230]
+FZ1         =
+FZ2         =  Wann werden die 
+FZ3         =  Kegelrobbenbabys geboren ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 1 in den Wintermonaten
+Antwort_2   = 0 in den Sommermonaten
+Antwort_3   = 0 in den Herbstmonaten
+Antwort_4   = 0 in den Frühlingsmonaten
+
+[231]
+FZ1         =
+FZ2         =  Welche Farbe hat das Fell der
+FZ3         =  Kegelrobbenbabys ?
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 weiß
+Antwort_2   = 0 braun
+Antwort_3   = 0 schwarz
+Antwort_4   = 0 grau
+
+[232]
+FZ1         =
+FZ2         =  Wie schwer wird das
+FZ3         =  Schweinswalweibchen ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 ca. 100 kg
+Antwort_2   = 1 40 -70 kg
+Antwort_3   = 0 weniger als 40 kg
+Antwort_4   = 0 ca. 180 kg
+
+[233]
+FZ1         =
+FZ2         =  Wann werden die Schweinswalbabys
+FZ3         =  geboren ?
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 Mai - Juli
+Antwort_2   = 0 Januar - April
+Antwort_3   = 0 August - November
+Antwort_4   = 0 nur im Oktober
+
+[234]
+FZ1         =
+FZ2         =  Wie schwer sind die 
+FZ3         =  Schweinswalbabys bei der Geburt ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 ca. 2 kg
+Antwort_2   = 0 9 - 12 kg
+Antwort_3   = 1 5 - 8 kg
+Antwort_4   = 0 ca. 4 kg
+
+[235]
+FZ1         =
+FZ2         =  Wie lang sind die 
+FZ3         =  Schweinswalbabys bei der Geburt ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 ca. 1,20 m
+Antwort_2   = 0 50 - 80 cm
+Antwort_3   = 0 ca. 1,80 m
+Antwort_4   = 1 70 - 90 cm
+
+[236]
+FZ1         =
+FZ2         =  Vor welcher Insel liegt ein wichtiges
+FZ3         =  Aufzuchtgebiet für Schweinswale ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 Borkum
+Antwort_2   = 1 Sylt
+Antwort_3   = 0 Norderney
+Antwort_4   = 0 Juist
+
+[237]
+FZ1         =
+FZ2         =  Wie groß können die Seesterne des 
+FZ3         =  Wattenmeeres werden ?
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 bis zu 10 cm
+Antwort_2   = 0 bis zu 15 cm
+Antwort_3   = 1 bis zu 30 cm
+Antwort_4   = 0 bis zu 20 cm
+
+[238]
+FZ1         =
+FZ2         = Wie viele Arme hat ein Seestern ? 
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 4
+Antwort_2   = 0 6
+Antwort_3   = 0 7
+Antwort_4   = 1 5
+
+[239]
+FZ1         = Wenn ein Seestern einen
+FZ2         =   seiner Arme verliert,
+FZ3         =    dann ...
+Min         = 300
+Max         = 2000
+Antwort_1   = 1 wächst ein Arm nach.
+Antwort_2   = 0 stirbt der Seestern.
+Antwort_3   = 0 passiert nichts.
+Antwort_4   = 0 wachsen zwei Arme nach.
+
+[240]
+FZ1         = Die Witwenrose gehört zu den
+FZ2         =  Blumentieren. Wie viele Tentakel
+FZ3         =  hat sie an ihrer Mundscheibe ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 100 - 200
+Antwort_2   = 0 200 - 300
+Antwort_3   = 0 300 - 400
+Antwort_4   = 0 400 -500
+
+[241]
+FZ1         =
+FZ2         =  Wie lang wird eine 
+FZ3         =  ausgestreckte Witwenrose ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 3 - 6 cm
+Antwort_2   = 0 7 - 11 cm
+Antwort_3   = 0 über 18 cm
+Antwort_4   = 1 ca. 12 cm
+
+[242]
+FZ1         =
+FZ2         =  Wie lang kann die Seenelke werden ?
+FZ3         = 
+Min         = 200
+Max         = 2000
+Antwort_1   = 1 ca. 25 cm
+Antwort_2   = 0 10 - 14 cm
+Antwort_3   = 0 ca. 5 cm
+Antwort_4   = 0 30 - 40 cm
+
+[243]
+FZ1         =
+FZ2         =  Wie viele Tentakeln hat eine Seenelke ?
+FZ3         = 
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 ca. 10
+Antwort_2   = 1 ca. 1000
+Antwort_3   = 0 ca. 100
+Antwort_4   = 0 ca. 10000
+
+[244]
+FZ1         =
+FZ2         =  Was geschieht mit gestrandeten Quallen ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Sie graben sich ein.
+Antwort_2   = 0 Sie schwimmen zurück.
+Antwort_3   = 0 Sie leben noch 2 - 3 Stunden.
+Antwort_4   = 1 Sie sterben sofort.
+
+[245]
+FZ1         = 
+FZ2         =  In welcher Farbe blüht im
+FZ3         =  Sommer der Strandflieder ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 blauviolett
+Antwort_2   = 0 hellgelb
+Antwort_3   = 0 dunkelrot
+Antwort_4   = 0 zartgrün
+
+[246]
+FZ1         = 
+FZ2         =  In welcher Farbe blüht 
+FZ3         =  die Strandaster ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 grüngelb
+Antwort_2   = 0 hellorange
+Antwort_3   = 0 blau - weiß
+Antwort_4   = 1 gelblila
+
+[247]
+FZ1         = 
+FZ2         =  Wie groß wird die Strandaster ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 ca. 70 cm
+Antwort_2   = 0 ca. 25 cm
+Antwort_3   = 0 ca. 52 cm
+Antwort_4   = 0 ca. 120 cm
+
+[248]
+FZ1         = 
+FZ2         =  Wie hoch wird das
+FZ3         =  Strand - Milchkraut ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 ca. 10 cm
+Antwort_2   = 0 12 - 16 cm
+Antwort_3   = 1 3 - 5 cm
+Antwort_4   = 0 ca. 25 cm
+
+[249]
+FZ1         = 
+FZ2         =  Welche Farbe hat die Blüte
+FZ3         =  des Strand - Milchkrautes ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 gelb - grünlich
+Antwort_2   = 0 blau - gräulich
+Antwort_3   = 0 grün - bräunlich
+Antwort_4   = 1 weiß - rötlich
+
+[250]
+FZ1         = 
+FZ2         =  Welche Farbe haben die  Äste und 
+FZ3         =  Zweige des Strand - Beifußes ?
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1 silbergrau
+Antwort_2   = 0 braunschwarz
+Antwort_3   = 0 dunkelblau
+Antwort_4   = 0 hellrosa
+
+[251]
+FZ1         = 
+FZ2         =  Wie hoch wird die Krähenbeere ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 bis 50 cm
+Antwort_2   = 0 bis 30 cm
+Antwort_3   = 0 bis 80 cm
+Antwort_4   = 0 bis 10 cm
+
+[252]
+FZ1         =
+FZ2         =  Welche Farbe haben die Früchte
+FZ3         =  der Krähenbeere ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 rot
+Antwort_2   = 0 gelb
+Antwort_3   = 0 blau
+Antwort_4   = 1 schwarz
+
+[253]
+FZ1         =
+FZ2         =  Wie groß kann der 
+FZ3         =  Sanddorn werden ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 bis 120 cm
+Antwort_2   = 1 bis 4 m
+Antwort_3   = 0 bis 2,50 m
+Antwort_4   = 0 bis 80 cm
+
+[254]
+FZ1         =
+FZ2         =  Welche Farbe haben die
+FZ3         =  Sanddornfrüchte ?
+Min         =  4000
+Max         = 32000
+Antwort_1   = 1 orangerot
+Antwort_2   = 0 gelbgrün
+Antwort_3   = 0 weißblau
+Antwort_4   = 0 schwarzgrau
+
+[255]
+FZ1         = 
+FZ2         =  Wie groß kann die Stranddistel werden ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 bis 70 cm
+Antwort_2   = 0 bis 200 cm
+Antwort_3   = 0 bis 110 cm
+Antwort_4   = 0 bis 45 cm
+
+[256]
+FZ1         = 
+FZ2         =  Wie groß wird das
+FZ3         =  Kali - Salzkraut ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 ca. 20 cm 
+Antwort_2   = 1 ca. 50 cm
+Antwort_3   = 0 ca. 100 cm
+Antwort_4   = 0 ca. 140 cm
+
+[257]
+FZ1         = 
+FZ2         =  Wie groß kann Meersenf werden ?
+FZ3         = 
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 bis 60 cm 
+Antwort_2   = 0 bis 120 cm
+Antwort_3   = 0 bis 180 cm
+Antwort_4   = 1 bis 80 cm
+
+[258]
+FZ1         = 
+FZ2         =  Wie groß kann die Salzmiere werden ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 5 - 30 cm
+Antwort_2   = 0 40 - 80 cm
+Antwort_3   = 0 80 - 120 cm
+Antwort_4   = 0 2 - 3 m
+
+[259]
+FZ1         = 
+FZ2         =  Welche Aussage trifft für das 
+FZ3         =  Wattenmeer zu ?
+Min         = 100
+Max         = 2000
+Antwort_1   = 0 Das Wasser ist immer kalt. 
+Antwort_2   = 0 Hier gibt es keine Tiere.
+Antwort_3   = 1 Mal ist es Land, mal Meer.
+Antwort_4   = 0 Im Meer schwimmt Watte.
+
+[260]
+FZ1         = 
+FZ2         =  Wie viele europäische Länder 
+FZ3         =  haben einen Nordseestrand ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 5
+Antwort_2   = 1 7
+Antwort_3   = 0 9
+Antwort_4   = 0 11
+
+[261]
+FZ1         = 
+FZ2         =  Welches europäische Land
+FZ3         =  hat keinen Nordseestrand ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 1 Spanien
+Antwort_2   = 0 Norwegen
+Antwort_3   = 0 Großbritannien
+Antwort_4   = 0 Dänemark
+
+[262]
+FZ1         = 
+FZ2         =  Welches europäische Land
+FZ3         =  hat keinen Nordseestrand ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Deutschland 
+Antwort_2   = 0 Niederlande
+Antwort_3   = 0 Belgien
+Antwort_4   = 1 Schweiz
+
+[263]
+FZ1         = 
+FZ2         =   Wie alt ist die Nordsee ?
+FZ3         =   
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0  1000 Jahre
+Antwort_2   = 1 10 000 Jahre
+Antwort_3   = 0 100 000 Jahre
+Antwort_4   = 0 1 000 000 Jahre
+
+[264]
+FZ1         = 
+FZ2         =  Wodurch ist die Nordsee
+FZ3         =  entstanden ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1 Gletscher sind geschmolzen
+Antwort_2   = 0 Atlantik ist übergelaufen
+Antwort_3   = 0  durch eine lange Regenzeit
+Antwort_4   = 0  der Grundwasserspiegel stieg
+
+[265]
+FZ1         = 
+FZ2         =  Wie entstanden die großen 
+FZ3         =  Meeresbuchten ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 Das Land senkte sich.
+Antwort_2   = 0 Die Flüsse hatten Hochwasser.
+Antwort_3   = 1 durch Sturmfluten 
+Antwort_4   = 0 Die Menschen bauten sie.
+
+[266]
+FZ1         = 
+FZ2         =  Wie heißt die größte Meeresbucht
+FZ3         =  an der Nordsee ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Ijsselmeer
+Antwort_2   = 0 Dollart
+Antwort_3   = 0 Leybucht
+Antwort_4   = 0 Jadebusen
+
+[267]
+FZ1         = 
+FZ2         =  Wann war die verheerende
+FZ3         =  "Marcellusflut" (Sturmflut) ? 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 14. Februar 1509
+Antwort_2   = 0 22. März 1793
+Antwort_3   = 1 16. Januar 1362
+Antwort_4   = 0 3. November 1456
+
+[268]
+FZ1         = 
+FZ2         =  Wie viele Menschen kamen bei
+FZ3         =  der "Marcellusflut" ums Leben ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 10 000 - 20 000
+Antwort_2   = 1 100 000 - 200 000
+Antwort_3   = 0 1 - 2 Millionen
+Antwort_4   = 0 ca. 7 500
+
+[269]
+FZ1         =  
+FZ2         =  Wann gab es an der deutschen Nordseeküste
+FZ3         =  die letzte große Sturmflut ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 1 Februar 1962
+Antwort_2   = 0 März 1978
+Antwort_3   = 0 Dezember 1953
+Antwort_4   = 0 Januar 1997
+
+[270]
+FZ1         = 
+FZ2         =  Was ist das "Nationalgetränk"
+FZ3         =  der Friesen ?
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Cola 
+Antwort_2   = 0 Fanta
+Antwort_3   = 1 Tee
+Antwort_4   = 0 Wasser
+
+[271]
+FZ1         = 
+FZ2         =  Welche Wiesen gibt es an der Nordsee ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 1 Salzwiesen
+Antwort_2   = 0 Zuckerwiesen
+Antwort_3   = 0 Pfefferwiesen
+Antwort_4   = 0 Muskatwiesen
+
+[272]
+FZ1         = Wie lange dauert es, bis das Wasser in 
+FZ2         =  der Deutschen Bucht durch die Strömung
+FZ3         =   wieder ausgetauscht wird ? 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 6 Monate
+Antwort_2   = 0 10 Wochen
+Antwort_3   = 0 1 Jahr
+Antwort_4   = 1 3 Jahre
+
+[273]
+FZ1         = 
+FZ2         =  Wie heißt der wichtigste deutsche
+FZ3         =   Seehafen ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Hamburg
+Antwort_2   = 0 Bremen
+Antwort_3   = 0 Cuxhaven
+Antwort_4   = 0 Duisburg
+
+[274]
+FZ1         =  
+FZ2         =   Wie weit ist Hamburg von der 
+FZ3         =   offenen Nordsee entfernt ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 50 km
+Antwort_2   = 0 15 km
+Antwort_3   = 1 110 km
+Antwort_4   = 0 86 km
+
+[275]
+FZ1         = 
+FZ2         =  Wie breit ist die Doggerbank ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 100 km
+Antwort_2   = 0 250 km
+Antwort_3   = 0 70 km
+Antwort_4   = 0  580 km
+
+[276]
+FZ1         =  
+FZ2         =  Wie lang ist die Doggerbank ?
+FZ3         =  
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 300 km
+Antwort_2   = 0 500 km
+Antwort_3   = 0 900 km 
+Antwort_4   = 0 2300 km
+
+[277]
+FZ1         = 
+FZ2         =  Welche Fische werden  n i c h t
+FZ3         =  an der Doggerbank gefangen ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 Kabeljau
+Antwort_2   = 1 Aal
+Antwort_3   = 0 Scholle
+Antwort_4   = 0 Hering
+
+[278]
+FZ1         = Wie breit ist der  Ärmelkanal
+FZ2         =  an der schmalsten Stelle
+FZ3         =  (Straße von Dover) ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 8 km
+Antwort_2   = 0 27 km
+Antwort_3   = 1 32 km
+Antwort_4   = 0 98 km
+
+[279]
+FZ1         = 
+FZ2         =  Wie breit ist der Ärmelkanal
+FZ3         =  an seiner breitesten Stelle ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 45 km
+Antwort_2   = 1 240 km
+Antwort_3   = 0 120 km
+Antwort_4   = 0 470 km
+
+[280]
+FZ1         = 
+FZ2         =  Seit wann gibt es einen Tunnel
+FZ3         =  unter dem Ärmelkanal ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 1875
+Antwort_2   = 0 1941
+Antwort_3   = 0 1967
+Antwort_4   = 1 1994
+
+[281]
+FZ1         = 
+FZ2         =  Wie lang ist die
+FZ3         =  Norwegische Rinne ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 250 km
+Antwort_2   = 0 100 - 200 km
+Antwort_3   = 1 über 900 km
+Antwort_4   = 0 560 km
+
+[282]
+FZ1         = 
+FZ2         =  Wie breit ist der Meeresarm,
+FZ3         =  der die Nordsee mit der Ostsee verbindet ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 50 - 70 km
+Antwort_2   = 0 15 - 35 km
+Antwort_3   = 1 110 - 150 km
+Antwort_4   = 0 160 - 200 km
+
+[283]
+FZ1         = 
+FZ2         =  Wie wird der innere Teil
+FZ3         =  der Deutschen Bucht genannt ?
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 Juister Bucht
+Antwort_2   = 0 Sylter Bucht
+Antwort_3   = 0 Borkumer Bucht
+Antwort_4   = 1 Helgoländer Bucht
+
+[284]
+FZ1         = 
+FZ2         =  Welche Insel gehört  n i c h t
+FZ3         =  zu den westfriesischen Inseln ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Texel
+Antwort_2   = 1 Juist
+Antwort_3   = 0 Ameland
+Antwort_4   = 0 Terschelling
+
+[285]
+FZ1         =  
+FZ2         =  Welche Küstenform findet
+FZ3         =  man am Ärmelkanal ?
+Min         = 2000
+Max         = 8000
+Antwort_1   = 0 Sandküste
+Antwort_2   = 0 Flachküste
+Antwort_3   = 0 Grasküste
+Antwort_4   = 1 Steilküste
+
+[286]
+FZ1         = 
+FZ2         =  Welche Farbe hat die Miesmuschel ?
+FZ3         = 
+Min         = 400
+Max         = 1000
+Antwort_1   = 0 weiß
+Antwort_2   = 1 blauschwarz
+Antwort_3   = 0 rotbraun
+Antwort_4   = 0 grau
+
+[287]
+FZ1         = 
+FZ2         =  Wie groß wird die Pfuhlschnepfe ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 ca. 20 cm
+Antwort_2   = 0 ca. 12 cm
+Antwort_3   = 0 ca. 7 cm
+Antwort_4   = 1 ca. 38 cm
+
+[288]
+FZ1         = 
+FZ2         =  Was frisst die Eiderente hauptsächlich ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Miesmuscheln
+Antwort_2   = 0 Brot
+Antwort_3   = 0 Strandhafer
+Antwort_4   = 0 Borkenkäfer
+
+[289]
+FZ1         = 
+FZ2         =  Wie tief kann die Eiderente tauchen ?
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 ca. 50 m
+Antwort_2   = 0 ca. 5 m
+Antwort_3   = 0 ca. 20 m
+Antwort_4   = 0 ca. 35 m
+
+[290]
+FZ1         =  
+FZ2         =  Welche Farbe hat der Schnabel 
+FZ3         =  des Austernfischers ?
+Min         =  1000
+Max         = 16000
+Antwort_1   = 1 tiefrot
+Antwort_2   = 0 hellgelb
+Antwort_3   = 0 weiß
+Antwort_4   = 0 orange
+
+[291]
+FZ1         = 
+FZ2         =  Wie viele Eier legt die Brandgans ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 4
+Antwort_2   = 0  5 - 7
+Antwort_3   = 1 7 -12
+Antwort_4   = 0 20
+
+[292]
+FZ1         = 
+FZ2         =  Silbermöwen sind ...
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Allesfresser
+Antwort_2   = 0 Pflanzenfresser
+Antwort_3   = 0 Fleischfresser
+Antwort_4   = 0 Fischfresser
+                
+[293]
+FZ1         =  Wie viel Kilometer Erdöl-
+FZ2         =  und Erdgaspipelines verlaufen kreuz
+FZ3         =  und quer über dem Nordseemeeresboden ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 500 km
+Antwort_2   = 0 1500 km
+Antwort_3   = 0 12 000 km
+Antwort_4   = 1 6 000 km
+                
+[294]
+FZ1         =  Im Oktober 1998 brannte vor Dänemark
+FZ2         =  der Holzfrachter Pallas und verlor 50 t Öl.
+FZ3         =  Wie viele Vögel starben damals ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 2 500
+Antwort_2   = 0 10 000
+Antwort_3   = 0 27 000
+Antwort_4   = 1 16 000
+
+[295]
+FZ1         = Welche Nordseeinsel ist durch
+FZ2         =  einen Damm mit dem Festland
+FZ3         =  verbunden ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Juist
+Antwort_2   = 0 Norderney
+Antwort_3   = 1 Sylt
+Antwort_4   = 0 Borkum
+
+[296]
+FZ1         = 
+FZ2         =  Wie lang sind die Wurzeln 
+FZ3         =  des Strandhafers ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ca. 4 m
+Antwort_2   = 1 ca. 60 m
+Antwort_3   = 0 ca. 16 m
+Antwort_4   = 0 ca. 28 m
+
+[297]
+FZ1         = 
+FZ2         =  Wie grüßen sich die Menschen 
+FZ3         =  in Ostfriesland ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 0 Tach Tach
+Antwort_2   = 1 Moin Moin
+Antwort_3   = 0 Hallo Hallo
+Antwort_4   = 0 See Ahoi
+
+[298]
+FZ1         =  Wie heißen die überdachten Stühle,
+FZ2         =  die man sich im Sommer an den 
+FZ3         =  Nordseestränden leihen kann ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 Strandstühle
+Antwort_2   = 0 Strandsessel
+Antwort_3   = 1 Strandkörbe
+Antwort_4   = 0 Strandhocker
+
+[299]
+FZ1         =   
+FZ2         =   Was frisst der Austernfischer am häufigsten ?
+FZ3         =   
+Min         =  32000
+Max         = 125000
+Antwort_1   = 0 Austern  
+Antwort_2   = 1 Herzmuscheln
+Antwort_3   = 0 Krebse
+Antwort_4   = 0 Schnecken
+
+[300]
+FZ1         =   
+FZ2         =   Wo haben die Brandenten ihre Nester ?
+FZ3         =   
+Min         =  64000
+Max         = 250000
+Antwort_1   = 0  in den Dünen
+Antwort_2   = 0  in den Salzwiesen
+Antwort_3   = 1  in Höhlen von Wildkaninchen
+Antwort_4   = 0  auf einer Sandbank
+
+[301]
+FZ1         =   
+FZ2         =   Wie viele Junge haben Brandgänse in der Regel ?
+FZ3         =   
+Min         =  16000
+Max         = 125000
+Antwort_1   = 0 immer nur 1  
+Antwort_2   = 0  2 - 3
+Antwort_3   = 0  5 - 7
+Antwort_4   = 1 8 - 10
+
+[302]
+FZ1         =   
+FZ2         =   Wie tief kann die Eiderente tauchen ?
+FZ3         =   
+Min         =  125000
+Max         = 500000
+Antwort_1   = 1 ca. 20 m  
+Antwort_2   = 0 ca. 12 m
+Antwort_3   = 0  ca. 7 m
+Antwort_4   = 0  ca. 4 m
+
+[303]
+FZ1         =   
+FZ2         =  Womit sind die Eiderentennester 
+FZ3         =   üppig ausgepolstert ?
+Min         =  500
+Max         = 2000
+Antwort_1   = 0 Muscheln 
+Antwort_2   = 0  Möwenfedern
+Antwort_3   = 1  Daunen
+Antwort_4   = 0  Gras
+
+[304]
+FZ1         =   
+FZ2         =   Welche Farbe haben die Eier der Eiderente ?
+FZ3         =   
+Min         =  250000
+Max         = 1000000
+Antwort_1   = 0 grauschwarz  
+Antwort_2   = 0  graubraun
+Antwort_3   = 0  graubraun
+Antwort_4   = 1  graugrün
+
+[305]
+FZ1         =   
+FZ2         =  Wo brüten die Silbermöwen ? 
+FZ3         =   
+Min         =  8000
+Max         = 125000
+Antwort_1   = 0  auf Bäumen
+Antwort_2   = 0  in Büschen
+Antwort_3   = 1  am Boden
+Antwort_4   = 0  in Felshöhlen
+
+[306]
+FZ1         =   
+FZ2         =  Welche Möwe gibt es ? 
+FZ3         =   
+Min         =  1000
+Max         = 8000
+Antwort_1   = 0  Orkanmöwe
+Antwort_2   = 0  Hurrikanmöwe
+Antwort_3   = 1  Sturmmöwe
+Antwort_4   = 0  Taifunmöwe
+
+[307]
+FZ1         =   
+FZ2         =  Wie brüten die Sturmmöwen ? 
+FZ3         =   
+Min         =  8000
+Max         = 64000
+Antwort_1   = 1 in großen Brutkolonien 
+Antwort_2   = 0 einzeln und einsam
+Antwort_3   = 0 immer zuzweit
+Antwort_4   = 0 immer höchstens 30
+
+[308]
+FZ1         =   
+FZ2         =   Wie groß sind die Brutkolonien der Sturmmöwen ?
+FZ3         =   
+Min         =  125000
+Max         = 500000
+Antwort_1   = 0  20 - 40 Brutpaare
+Antwort_2   = 0  90 Brutpaare
+Antwort_3   = 1  100 bis über 1000 Brutpaare
+Antwort_4   = 0  über 2 Millionen Brutpaare
+
+[309]
+FZ1         =   
+FZ2         =  Wie viele Eier liegen normalerweise 
+FZ3         =   in einem Möwennest ?
+Min         =  16000
+Max         = 125000
+Antwort_1   = 0 2  
+Antwort_2   = 1  3
+Antwort_3   = 0  4
+Antwort_4   = 0  5
+
+[310]
+FZ1         =   Die Eier des Sandregenpfeifers zeigen mit ihren
+FZ2         =   spitzen Polen immer zur Nestmitte. Wie viele
+FZ3         =   Eier bebrütet der Sandregenpfeifer ?
+Min         =  32000
+Max         = 250000
+Antwort_1   = 0  2
+Antwort_2   = 0  3
+Antwort_3   = 1  4
+Antwort_4   = 0  5
+
+[311]
+FZ1         =   
+FZ2         =   Wo lebt der Sandregenpfeifer
+FZ3         =   im Winter ?
+Min         =  250000
+Max         = 1000000
+Antwort_1   = 0 in Norwegen oder Schweden  
+Antwort_2   = 0 in Spanien oder Italien
+Antwort_3   = 0 am Bodensee oder in Österreich
+Antwort_4   = 1 am Mittelmeer oder in Afrika
+
+[312]
+FZ1         =   
+FZ2         =   Wie lang sind die leicht gebogenen
+FZ3         =   Schwertmuscheln ?
+Min         =  8000
+Max         = 64000
+Antwort_1   = 0  ca. 5 cm
+Antwort_2   = 0  ca. 10 cm
+Antwort_3   = 1  ca. 15 cm
+Antwort_4   = 0  ca. 20 cm
+
+[313]
+FZ1         =   
+FZ2         =   Wo leben die Schwertmuscheln ?
+FZ3         =   
+Min         =  16000
+Max         = 64000
+Antwort_1   = 1 im Sandboden  
+Antwort_2   = 0 im Wasser an Felsblöcken 
+Antwort_3   = 0 an versunkenen Piratenschiffen
+Antwort_4   = 0 an der Felsküste
+
+[313]
+FZ1         =   
+FZ2         =   Wie graben sich die Schwertmuscheln ein ?
+FZ3         =   
+Min         =  8000
+Max         = 125000
+Antwort_1   = 0  senkrecht mit dem Kopf nach oben
+Antwort_2   = 0  waagerecht mit dem Kopf nach links
+Antwort_3   = 1  senkrecht mit dem Kopf nach unten
+Antwort_4   = 0  waagerecht mit dem Kopf nach rechts
+
+[314]
+FZ1         =   
+FZ2         =   Wie nennt man die Kalkschale des
+FZ3         =   Tintenfisches, die man manchmal am Strand findet ?
+Min         =  125000
+Max         = 500000
+Antwort_1   = 0 Schalp  
+Antwort_2   = 1 Schulp
+Antwort_3   = 0 Schelp
+Antwort_4   = 0 Scholp
+
+[315]
+FZ1         =  Der Tintenfisch ist gar kein Fisch. 
+FZ2         =    Mit welchen Tieren ist er am
+FZ3         =    nächsten verwandt ?
+Min         =  64000
+Max         = 250000
+Antwort_1   = 0  mit den Säugetieren
+Antwort_2   = 0  mit den Quallen
+Antwort_3   = 1  mit den Schnecken
+Antwort_4   = 0  mit den Würmern
+
+[316]
+FZ1         =   
+FZ2         =  Wie viele gabelartige Muster sind auf
+FZ3         =   der Glocke der Kompassqualle zu sehen ?
+Min         =  64000
+Max         = 250000
+Antwort_1   = 1 16  
+Antwort_2   = 0  24
+Antwort_3   = 0  8
+Antwort_4   = 0  32
+
+[317]
+FZ1         =   
+FZ2         = Wie groß wird die Blaue  Nesselqualle ?
+FZ3         =   
+Min         =  32000
+Max         = 125000
+Antwort_1   = 0  ca. 10 cm
+Antwort_2   = 0  ca. 20 cm
+Antwort_3   = 0  ca. 70 cm
+Antwort_4   = 1  ca. 30 cm
+
+[318]
+FZ1         =   
+FZ2         =   Wie viele große Beinpaare hat eine Strandkrabbe ?
+FZ3         =   
+Min         =  16000
+Max         = 125000
+Antwort_1   = 0 4 
+Antwort_2   = 0  6
+Antwort_3   = 1  5
+Antwort_4   = 0  7
+
+[319]
+FZ1         =   
+FZ2         =  Was befindet sich in den Blasen des Blasentangs ? 
+FZ3         =   
+Min         =  64000
+Max         = 250000
+Antwort_1   = 0 die Nahrung 
+Antwort_2   = 0 die Eier
+Antwort_3   = 0 Wasser
+Antwort_4   = 1 Luft
+
+[320]
+FZ1         =   
+FZ2         =  Wie lang kann der Blasentang in 
+FZ3         =   Büscheln heranwachsen ?
+Min         =  16000
+Max         = 125000
+Antwort_1   = 0 ca. 30 cm 
+Antwort_2   = 0 ca. 60 cm
+Antwort_3   = 1 ca. 100 cm
+Antwort_4   = 0 ca. 160 cm
+
+[321]
+FZ1         =   
+FZ2         =   Wie nennt man die Algen, die große grüne Lappen bilden ?
+FZ3         =   
+Min         =  64000
+Max         = 250000
+Antwort_1   = 1 Meersalat  
+Antwort_2   = 0 Meerblätter
+Antwort_3   = 0 Meergurken
+Antwort_4   = 0 Meerlappen
+
+[322]
+FZ1         =   
+FZ2         =  Welches Dünengras ist am weitesten verbreitet ? 
+FZ3         =   
+Min         =  16000
+Max         = 125000
+Antwort_1   = 0 Strandweizen 
+Antwort_2   = 0  Strandroggen
+Antwort_3   = 1  Strandhafer
+Antwort_4   = 0  Strandgerste

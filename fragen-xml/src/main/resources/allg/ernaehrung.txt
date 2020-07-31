@@ -1,0 +1,554 @@
+[Thema]
+Thema=Ernährung
+Fragen=50
+Autor=Klasse 8, GHS Stephan, KN, 05/06
+
+[1]
+FZ1=
+FZ2=Bleibt man besser fit,  wenn man ... 
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ein dickes großes 250 g schweres 	Steak pro Tag  isst
+Antwort_2=1mehrere kleine Mahlzeiten 	(ca. 5 am Tag ) zu sich nimmt 
+Antwort_3=0sich am besten nur 	von Brot ernährt
+Antwort_4=0zweimal pro Tag eine große 	Portion Salat verdrückt
+
+[2]
+FZ1=Meine Gesundheit bleibt wahrscheinlich dann stabil,
+FZ2=wenn ich jeden Tag ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0drei Scheiben Weißbrot 	mit Lyoner esse 
+Antwort_2=0drei Tafeln 	Nussschokolade vertilge
+Antwort_3=1Knäckebrot mit 2 Scheiben 	Bündnerfleisch esse 
+Antwort_4=0250 g Quark (40% Fett) vermischt 	mit 100g Erdbeermarmelade esse
+
+[3]
+FZ1=
+FZ2=Einen gesunden Blutdruck erhält man am besten, ....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0wenn man tägl. Rühreier mit lange 	gebratenen Speckstreifen isst
+Antwort_2=0wenn man sich mit viel 	Blutwurst verköstigt
+Antwort_3=0wenn man ein Schnitzel mit 	viel Soße und Pommes isst
+Antwort_4=1wenn man ein Birchermüsli	zu sich nimmt 
+
+[4]
+FZ1=Wenn ich meinem Körper gesunde Nährstoffe 
+FZ2=zuführen will, dann ....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0esse ich viel Kakaocreme auf mit Butter 	bestrichenem Weißbrot
+Antwort_2=0trinke ich eine 0.5 l-Cola und 	esse dazu Paprika-Chips
+Antwort_3=1trinke ich ein Glas	frisch gepressten Orangensaft  
+Antwort_4=0trinke ich eine Dose Red Bull
+
+[5]
+FZ1=
+FZ2=Kraft und ein Sättigungsgefühl erhält man	 
+FZ3=am günstigsten, wenn man ...
+Min=0
+Max=500000
+Antwort_1=1Vollkornnudeln und Salat zu sich nimmt 
+Antwort_2=0Bandnudeln mit Zucker und 	Zimt als Nachtisch isst
+Antwort_3=0nach der Schlachtplatte noch 	eine Caramelcreme vertilgt
+Antwort_4=0eine Schweinshaxe mit Sauerkraut 	vollständig in sich aufnimmt
+
+[6]
+FZ1=Gute Vitamin-C-Spender, 
+FZ2=die du für die Stärkung deiner Anwehrkräfte 
+FZ3=gegen Infektionen brauchst sind ....
+Min=0
+Max=500000
+Antwort_1=0alle colahaltigen Getränke
+Antwort_2=1Gemüse, Kartoffeln und Obst 
+Antwort_3=0Eistee vermischt mit Orangennektar
+Antwort_4=0Zitronenteepulver
+
+[7]
+FZ1=Gefährlich für Gesundheit kann die Einnahme von zu viel Fett sein. 
+FZ2=Suche die Lebensmittel mit geringem Fettgehalt heraus.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Butter und Schmalz
+Antwort_2=1Lachsschinken, Puten- 	und Hühnerfleisch 
+Antwort_3=0Chips, Knabbereien, Erdnüsse
+Antwort_4=0Bratwurst, Leberwurst, Mettwurst
+
+[8]
+FZ1=Beim Essen sollte eine für die Gesundheit 
+FZ2=günstige Situation gesucht werden ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1in Ruhe, bei gemütlicher Atmosphäre 
+Antwort_2=0mit einem Döner in der Hand 	durch die Stadt laufend
+Antwort_3=0gemütlich vor dem Fernseher 	beim Gespräch mit der Familie
+Antwort_4=0am besten ganz alleine
+
+[9]
+FZ1=
+FZ2=Damit das Essen einen guten Geschmack bekommt, ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0sollte man mit dem Salz nicht sparen
+Antwort_2=1nimmt man passende 	frische Kräuter und Gewürze 
+Antwort_3=0benützt man weder Salz 	noch Gewürze
+Antwort_4=0sollte auch der Zucker 	nicht fehlen
+
+[10]
+FZ1=Eine stimmige Ernährung bezüglich des 
+FZ2=Cholesterins wird erreicht, wenn ich ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0jeden Tag ein Ei esse
+Antwort_2=0jeden Tag Rühreier 	mit Schinken verzehre
+Antwort_3=1maximal drei Eier 	pro Woche esse
+Antwort_4=0nur gekochte Eier 	zu mir nehme
+
+[11]
+FZ1=Wenig süße Sachen kann man ohne schlechtes Gewissen ...
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1einmal pro Tag essen. 
+Antwort_2=0dreimal am Tag verzehren
+Antwort_3=0soviel essen, wie man will
+Antwort_4=0nur einmal in der Woche genießen
+
+[12]
+FZ1=Viele Milch- und Schokoriegel pro Tag....
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0sind eine gute Nervennahrung
+Antwort_2=1machen dick und 	schädigen die Zähne 
+Antwort_3=0spenden viel Kraft 	und Energie
+Antwort_4=0erhalten auf jeden Fall 	die Gesundheit
+
+[13]
+FZ1=Frisch zubereitete Speisen sollte man ...
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0nur einmal im Monat essen
+Antwort_2=0einmal in der Woche vertilgen
+Antwort_3=0links liegen lassen
+Antwort_4=1so oft, wie möglich 	zu sich nehmen 
+
+[14]
+FZ1=Die Basis für eine vollwertige Ernährung sind ...  
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Milch, Fleisch, Eier 	und Wurst
+Antwort_2=0Kohl, Salat, Rettich 	und Radieschen
+Antwort_3=1Getreideprodukte und 	Kartoffeln 
+Antwort_4=0Sahne, Kuchen, Schokolade 	und Plätzchen
+
+[15]
+FZ1=Die Versorgung meines Körpers mit Jod 
+FZ2=ist dann günstig, wenn ich ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1ein- bis zweimal die 	Woche Seefisch esse 
+Antwort_2=0die Speisen mit viel 	Jodsalz würze
+Antwort_3=0jeden Tag Felchen esse
+Antwort_4=0jeden Tag eine 	Jodtablette schlucke
+
+[16]
+FZ1=
+FZ2=Die Nahrung wird super gut verwertet, wenn ich ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0sie so schnell wie möglich 	runterschlucke
+Antwort_2=0möglichst viel Cola 	dazu trinke
+Antwort_3=1sie möglichst gut zerkaue 	und einspeichle 
+Antwort_4=0auf jeden Fall vorher 	einen Aperitif trinke
+
+[17]
+FZ1=Wenn ich meinen Körper nicht durch eine ungesunde 
+FZ2=Ernährung belasten will, dann esse ich ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0kandierte Annanas
+Antwort_2=1frisches Obst und Gemüse 
+Antwort_3=0Tiefkühlgemüse
+Antwort_4=0Pfirsiche und Erdbeeren aus Dosen
+
+[18]
+FZ1=Viele wichtige Mineralstoffe, 
+FZ2=Vitamine und hochwertiges Eiweiß liefern ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0einmal die Woche 	Kartoffeln und Nudeln
+Antwort_2=0zweimal die Woche 	nur Salat
+Antwort_3=1zwei- bis dreimal die Woche 	Fleisch und Wurst
+Antwort_4=0dreimal die Woche 	vegetarische Lebensmittel
+
+[19]
+FZ1=Zuviel Nahrungsfett führt zu Übergewicht 
+FZ2=und begünstigt langfristig die Entstehung von ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Knochenerweichung
+Antwort_2=0Plattfüßen
+Antwort_3=1Herz-Kreislauferkrankungen 	und Krebs 
+Antwort_4=0Lungenembolie 
+
+[20]
+FZ1=Für einen gesunden Körper ist nicht nur eine 
+FZ2=gesunde Ernährung wichtig, sondern auch ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ein prima Fernsehsessel
+Antwort_2=1viel Bewegung 
+Antwort_3=0möglichst wenig Bewegung
+Antwort_4=0die häufige Benutzung 	eines Aufzuges 
+
+[21]
+FZ1= 
+FZ2=Damit dir nichts an die Nieren geht, solltest du ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0nicht so viel trinken
+Antwort_2=1genug trinken, damit Schad- 	und Giftstoffe rausgespült werden 
+Antwort_3=0nur Milch trinken
+Antwort_4=0zur Desinfektion einen 	Schnaps runterschütten
+
+[22]
+FZ1= 
+FZ2=Ist der Körper mit Wasser unterversorgt, dann ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ist das prima für eine Gewichtsabnahme
+Antwort_2=0spart das Energie
+Antwort_3=1wird das Blut dickflüssig 	und der Kreislauf instabil
+Antwort_4=0bekommt man gute Laune
+
+[23]
+FZ1= 
+FZ2=Für eine gesunde Haut ist es wichtig, dass man ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0viele Äpfel isst
+Antwort_2=0möglichst oft 	ins Solarium geht
+Antwort_3=1dem Körper genügend 	Wasser zuführt
+Antwort_4=0dreimal pro Tag 	Nivea-Creme draufschmiert
+
+[24]
+FZ1=Vermeidet man bei sportlichen Aktivitäten 
+FZ2=das Trinken von Flüssigkeit, dann ... 
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1können Muskelkrämpfe 	ausgelöst werden 
+Antwort_2=0sieht man alt aus
+Antwort_3=0wird man sofort 	disqualifiziert
+Antwort_4=0braucht man keine Angst 	vor Doping haben
+
+[25]
+FZ1= 
+FZ2=Welches sind die wasserhaltigsten Organe in unserem Körper ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Darm, Adern 	und Ohren 
+Antwort_2=0Knochen, Nägel 	und Haare
+Antwort_3=1Gehirn, Blut, Leber 	und Muskulatur 
+Antwort_4=0Hände, Gesäß 	und Füße
+
+[26]
+FZ1=Für eine gute Gesundheit gibt man  
+FZ2=dem Körper am besten Flüssigkeit ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0in Form von Bier
+Antwort_2=0in Form von Wein
+Antwort_3=0in Form von viel Cola-Mix
+Antwort_4=1in Form von Mineralwasser
+
+[27]
+FZ1=Die Deutsche Gesellschaft für Ernährung (DGE)  
+FZ2=empfiehlt allen Erwachsenen 
+FZ3=das tägliche Trinken von ...
+Min=0
+Max=500000
+Antwort_1=0einem halben Liter Wasser
+Antwort_2=0mindestens drei Liter Wasser
+Antwort_3=1mindestens 1,5 – 2 Liter Flüssigkeit
+Antwort_4=0einem Liter Flüssigkeit
+
+[28]
+FZ1=Wichtig für gesunde Knochen und Zähne  
+FZ2=ist das Versorgen des Körpers mit ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Milch, Käse und Joghurt
+Antwort_2=0Fleisch und Wurst
+Antwort_3=0Salat und Obst
+Antwort_4=0Müsli und Schokolade
+
+[29]
+FZ1=Das maßvolle Essen von Käse ist für die Ernährung ... 
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0schlecht, weil er 	Verstopfung verursacht
+Antwort_2=1gesund, weil er hochwertige 	Eiweißbausteine enthält
+Antwort_3=0wegen dem vielen Fettgehalt 	nicht gut
+Antwort_4=0unbedeutend
+
+[30]
+FZ1= 
+FZ2=Das Trinken von einem Glas Milch pro Tag  ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0erzeugt oft nur Durchfall
+Antwort_2=0bringt viel zu viel Fett 	in den Körper
+Antwort_3=1ist wegen dem Inhalt ein 	wahrer Fitmacher-Cocktail
+Antwort_4=0schadet den Nieren
+
+[31]
+FZ1=Legt man während des Essens kleine Pausen ein, 
+FZ2=so merkt man besser, ... 
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1wann man satt ist
+Antwort_2=0wie gut das Essen schmeckt
+Antwort_3=0was es noch alles auf dem 	Tisch zum Essen gibt
+Antwort_4=0ob man noch vor den anderen 	etwas mehr abbekommt
+
+[32]
+FZ1= 
+FZ2=Ein Pausenbrot zum Essen in der Schule ist ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0nicht so wichtig
+Antwort_2=0schlecht für das Lernen
+Antwort_3=1gut für den Energienachschub 
+Antwort_4=0das Geld nicht wert
+
+[33]
+FZ1=Frühstück, das erste zu Hause, 
+FZ2=das zweite zur Pause, ist  .... 
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ein unsinniger Werbegag
+Antwort_2=0nicht machbar, 	wegen Zeitmangel
+Antwort_3=1gut für eine ausgewogene 	Nährstoffversorgung des Körpers 
+Antwort_4=0ohne die Mitnahme von 	Geld nicht zu machen
+
+[34]
+FZ1=Ein gute Ernährung für den Körper  
+FZ2=in der Pause besteht aus ....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0einem Nutellabrot
+Antwort_2=0einem vollwertigen 	Schoko-Riegel
+Antwort_3=0einer Schneckennudel 	vom Pausenbäcker
+Antwort_4=1einem dunklen Brot mit 	Salat und Gurkenscheiben 
+
+[35]
+FZ1= 
+FZ2=Ein beispielhaftes Pausenbrot wäre ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ein Roggenbrot mit Nutella, 	dazu Eistee
+Antwort_2=0ein Mehrkornbrötchen mit 	Waldhonig, dazu Schokomilch
+Antwort_3=1ein Brötchen mit Salami, 	dazu Radieschen 
+Antwort_4=0ein Roggenbrötchen mit 	Marmelade, dazu Fanta
+
+[36]
+FZ1=Wie hoch sollte die Energiezufuhr pro Tag 
+FZ3=für 10 – 12-jährige Mädchen  sein? 
+FZ2=
+Min=0
+Max=500000
+Antwort_1=12000 Kilokalorien 
+Antwort_2=02500 Kilokalorien
+Antwort_3=01800 Kilokalorien
+Antwort_4=03000 Kilokalorien
+
+[37]
+FZ1=Wie hoch sollte die Energiezufuhr pro Tag 
+FZ2=für 10 – 12-jährige Jungen sein? 
+FZ3=
+Min=0
+Max=500000
+Antwort_1=02000 Kilokalorien 
+Antwort_2=12300 Kilokalorien 
+Antwort_3=01900 Kilokalorien
+Antwort_4=03500 Kilokalorien
+
+[38]
+FZ1=Die empfohlene Zufuhr an Eiweiß pro Tag 
+FZ2=für 10-12-jährige Mädchen ist ... 
+FZ3=
+Min=0
+Max=500000
+Antwort_1=040 g
+Antwort_2=050 g
+Antwort_3=135 g 
+Antwort_4=030 g
+
+[39]
+FZ1=
+FZ2=Welches Brot hält länger frisch ? 
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Weißbrot
+Antwort_2=0Mischbrot
+Antwort_3=1Dunkles Brot 
+Antwort_4=0Mehrkornbrot
+
+[40]
+FZ1= 
+FZ2=Wie viele Brotsorten gibt es in Deutschland ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ca. 150 
+Antwort_2=0ca. 200
+Antwort_3=0ca. 350
+Antwort_4=1ca. 300
+
+[41]
+FZ1=Das Forschungsinstitut für Kinderernährung (FKE)  
+FZ2=gibt die Empfehlung, dass Kinder reichlich ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0tierische Lebensmittel 	essen sollten
+Antwort_2=0fettreiche Speisen 	zu sich nehmen sollten
+Antwort_3=1pflanzliche Lebensmittel 	essen sollten 
+Antwort_4=0Milchprodukte zu sich 	nehmen sollten
+
+[42]
+FZ1=Optimix, eine Ernährungsempfehlung des FKE 
+FZ2=(Forschungsinst. f. Kinderernährg.) besagt, dass
+FZ3=folgende Lebensmittel mäßig gegessen werden sollten ...
+Min=0
+Max=500000
+Antwort_1=0Öl, Margarine, Butter
+Antwort_2=0Schokolade, Kuchen, Kekse
+Antwort_3=1Milchprodukte, Fleisch, 	Wurst, Eier, Fisch 
+Antwort_4=0Kartoffeln, Nudeln, 	Brot, Obst
+
+[43]
+FZ1=Mineralstoffe, wie Magnesium u. Eisen, die 
+FZ2=Vitamine B1 u. B6, Ballaststoffe, Eiweiße und
+FZ3=hochwertige Fette, sind vor allem im ...
+Min=0
+Max=500000
+Antwort_1=0Weißbrot enthalten
+Antwort_2=0Mischbrot enthalten
+Antwort_3=1Vollkornbrot enthalten 
+Antwort_4=0Kuchenbrot enthalten
+
+[44]
+FZ1=Wichtige Grundnahrungsmittel im unteren Bereich 
+FZ2=der Nahrungsmittelpyramide sind ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Zwieback, Kekse 	und Müsliriegel
+Antwort_2=0Butter, Öl 	und Margarine
+Antwort_3=1Brot, Nudeln, 	Reis, Kartoffeln 
+Antwort_4=0Käse, Milch 	und Joghurt
+
+[45]
+FZ1=Dein Körper besteht auch aus Wasser,  
+FZ2=was glaubst du, zu wie viel Prozent ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ca. 35 %
+Antwort_2=0ca. 50 %
+Antwort_3=1ca. 70 % 
+Antwort_4=0ca. 33 %
+
+[46]
+FZ1=Mädchen, im Alter von 10-12 Jahren 
+FZ2=haben pro Tag einen Fett-Bedarf von ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ca. 150 g
+Antwort_2=1ca.  72 g 
+Antwort_3=0ca.  53 g
+Antwort_4=0ca.  33 g
+
+[47]
+FZ1=Jungen, im Alter von 10-12 Jahren 
+FZ2=haben pro Tag einen Fett-Bedarf von ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ca. 100 g
+Antwort_2=0ca.  59 g
+Antwort_3=1ca.  77 g  
+Antwort_4=0ca.  25 g
+
+[48]
+FZ1= 
+FZ2=Schätze den Fettgehalt von 50 g Kartoffelchips!
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ca. 10 g
+Antwort_2=0ca.  7 g
+Antwort_3=1ca. 20 g 
+Antwort_4=0ca. 13 g
+
+[49]
+FZ1=Welches Lebensmittel hat deiner Meinung nach 
+FZ2=den größten Fettgehalt ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=015 g Salami
+Antwort_2=030 g Gouda-Käse
+Antwort_3=150 g Kartoffelchips 
+Antwort_4=010 g Butter
+
+[50]
+FZ1=Welches Lebensmittel hat wohl  
+FZ2=den geringsten Fettgehalt ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0 50 g Mehrkornbrot
+Antwort_2=0100 g Croissant (Hörnchen)
+Antwort_3=0 30 g Schokolade
+Antwort_4=1200 g Karotten 

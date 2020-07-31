@@ -1,0 +1,664 @@
+[Thema]
+Thema=Musik
+Fragen=54
+Autor=Theo Sander 4/2001
+
+[1]
+FZ1=
+FZ2=Die Klarinette ist ein 
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Holzblasinstrument
+Antwort_2=0Blechblasinstrument
+Antwort_3=0Zupfinstrument
+Antwort_4=0Saiteninstrument
+
+[2]
+FZ1=
+FZ2=Die Trompete gehört zur Gruppe der
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Blechbläser
+Antwort_2=0Holzbläser
+Antwort_3=0Percussions
+Antwort_4=0Luftballons
+
+[3]
+FZ1=
+FZ2=Wie heißt der Ton oberhalb von "e"
+FZ3=
+Min=0
+Max=500
+Antwort_1=1f
+Antwort_2=0es
+Antwort_3=0fis
+Antwort_4=0fes
+
+[4]
+FZ1=
+FZ2="Für Elise" schrieb
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Beethoven
+Antwort_2=0Mozart
+Antwort_3=0Smetana
+Antwort_4=0Haydn
+
+[5]
+FZ1=
+FZ2="m f" bedeutet in der Musik
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0mezzofortissimo
+Antwort_2=1mezzoforte
+Antwort_3=0mit Flöte
+Antwort_4=0molto forte
+
+[6]
+FZ1=
+FZ2="decrescendo" bedeutet
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0dezent singend
+Antwort_2=1leiser werdend
+Antwort_3=0Ruhe bewahren
+Antwort_4=0lauter werden
+
+[7]
+FZ1="Die Kluge" (Die Geschichte vom König und der klugen Frau) ist
+FZ2=geschrieben worden nach einem Märchen von
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1den Gebrüdern Grimm
+Antwort_2=0Hans Christian Andersen
+Antwort_3=0Theodor Storm
+Antwort_4=0Paul Hindemith
+
+[8]
+FZ1=
+FZ2=Welches Instrument gehört nicht zu einem Streichquartett?
+FZ3=
+Min=1000
+Max=5000
+Antwort_1=1Harfe
+Antwort_2=0Violine
+Antwort_3=0Bratsche
+Antwort_4=0Cello
+
+[9]
+FZ1=
+FZ2="Die Moldau" ist von
+FZ3=
+Min=200
+Max=4000
+Antwort_1=1Smetana
+Antwort_2=0Carl Orff
+Antwort_3=0Beethoven
+Antwort_4=0Mozart
+
+[10]
+FZ1=
+FZ2="Peter und der Wolf" ist von
+FZ3=
+Min=200
+Max=8000
+Antwort_1=1Sergej Prokofieff
+Antwort_2=0Peter Tschaikowsky
+Antwort_3=0Peter Ustinov
+Antwort_4=0Michail Gorbatschow
+
+[11]
+FZ1=
+FZ2="Eine Alpensymphonie" schrieb
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Anton Bruckner
+Antwort_2=0Ludwig van Beethoven
+Antwort_3=0Johann Strauss
+Antwort_4=1Richard Strauss
+
+[12]
+FZ1=
+FZ2="Let it be" wurde gesungen von
+FZ3=
+Min=300
+Max=2000
+Antwort_1=0ABBA
+Antwort_2=0Peter Maffay
+Antwort_3=1Beatles
+Antwort_4=0Emilia
+
+[13]
+FZ1=
+FZ2=Die "kleine Trommel" nennt man auch
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Tamburin
+Antwort_2=0Schellenkranz
+Antwort_3=1snare
+Antwort_4=0little hihat
+
+[14]
+FZ1=
+FZ2=Die "Eroica" ist eine Sinfonie von
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0Mozart
+Antwort_2=0Bach
+Antwort_3=0Haydn
+Antwort_4=1Beethoven
+
+[15]
+FZ1=
+FZ2=Die Schwester von Wolfgang Amadeus Mozart war
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0Hannerl
+Antwort_2=1Nannerl
+Antwort_3=0Manderl
+Antwort_4=0Manderli
+
+[16]
+FZ1=
+FZ2=Welche Notenfolge ist falsch?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1e - fis - g
+Antwort_2=0c - des - d
+Antwort_3=0e - f  - fis
+Antwort_4=0h - c  - cis
+
+[17]
+FZ1=
+FZ2="Pacific 231" ist von
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Arthur Homann
+Antwort_2=0Arthur Schnitzler
+Antwort_3=0Arthuer Homeister
+Antwort_4=1Arthur Honegger
+
+[18]
+FZ1=
+FZ2=Die Symphonie Nr.9, "Aus der Neuen Welt" ist von
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Anton Dvorak
+Antwort_2=0Ludwig van Beethoven
+Antwort_3=0Edvard Grieg
+Antwort_4=0Paul Dukas
+
+[19]
+FZ1=
+FZ2="Morgenstimmung" ist von
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Paul Hindemith
+Antwort_2=1Edvard Grieg
+Antwort_3=0Anton Dvorak
+Antwort_4=0Carl Orff
+
+[20]
+FZ1=
+FZ2=Das Saxophon gehört zu den
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Holzblasinstrumenten
+Antwort_2=0Saiteninstrumenten
+Antwort_3=0Zupfinstrumenten
+Antwort_4=0Streichinstrumenten
+
+[21]
+FZ1=
+FZ2=In der Musik bedeutet "sehr leise"
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0piano
+Antwort_2=0mezzo piano
+Antwort_3=0molto pianissimo
+Antwort_4=1pianissimo
+
+[22]
+FZ1=
+FZ2=Welches Instrument gehört nicht zur Familie der Oboen?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Flöte
+Antwort_2=0Oboe
+Antwort_3=0Fagott
+Antwort_4=0Englisch Horn
+
+[23]
+FZ1=
+FZ2=Welches Instrument gehört nicht zur Familie der Blechblasinstrumente?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Saxophon
+Antwort_2=0Trompete
+Antwort_3=0Horn
+Antwort_4=0Tuba
+
+[24]
+FZ1=
+FZ2="Die Vier Jahreszeiten" schrieb
+FZ3=
+Min=1000
+Max=1000000
+Antwort_1=1Antonio Vivaldi
+Antwort_2=0Joseph Haydn
+Antwort_3=0Franz Lehar
+Antwort_4=0Anton Bruckner
+
+[25]
+FZ1=
+FZ2=Wie heißt der Ton über f ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ges
+Antwort_2=0g
+Antwort_3=0es
+Antwort_4=0fes
+
+[26]
+FZ1=
+FZ2=Die "Kleine Trommel" nennt man auch
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1snare
+Antwort_2=0bass-snare
+Antwort_3=0hihat
+Antwort_4=0toms
+
+[27]
+FZ1=
+FZ2=Die große Trommel nennt man auch
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0Pauke
+Antwort_2=0Große Pauke
+Antwort_3=1bass-drum
+Antwort_4=0low-drum
+
+[28]
+FZ1=
+FZ2=Ein Ton unterhalb von f heißt
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0fis
+Antwort_2=0es
+Antwort_3=1e
+Antwort_4=0d
+
+[29]
+FZ1=
+FZ2=Zu welcher Musikepoche gehört Richard Wagner?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Barock
+Antwort_2=0Empire
+Antwort_3=0Klassik
+Antwort_4=1Romantik
+
+[30]
+FZ1=
+FZ2=Zu welcher Musikepoche gehört Peter Iljitsch Tschaikowsky?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Klassik
+Antwort_2=0Barock
+Antwort_3=0Modernart
+Antwort_4=1Romantik
+
+[31]
+FZ1=
+FZ2=Die tiefste Männerstimme istFZ3=
+Min=4000
+Max=125000
+Antwort_1=0der Mezzosopran
+Antwort_2=0der Baryton
+Antwort_3=0das Kontrafagott
+Antwort_4=1der Bass
+
+[32]
+FZ1=
+FZ2=Der Leiter eines Opernhauses ist der
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Regisseur
+Antwort_2=0Erste Geiger
+Antwort_3=1Intendant
+Antwort_4=0Tonmeister
+
+[33]
+FZ1=
+FZ2=Einer, der ein Orchester leitet, heißt
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Orchesterführer
+Antwort_2=1Dirigent
+Antwort_3=0Regisseur
+Antwort_4=0Erster Geiger
+
+[34]
+FZ1=
+FZ2=Von ihm stammt die berühmte Oper "Aida".
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Bartok
+Antwort_2=1Verdi
+Antwort_3=0Wagner
+Antwort_4=0Beethoven
+
+[35]
+FZ1=
+FZ2=Seinen "Bolero" kennt jeder; er ist von
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1Ravel
+Antwort_2=0Debussy
+Antwort_3=0Duval
+Antwort_4=0Sartre
+
+[36]
+FZ1=
+FZ2=Lehre vom Schall ?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=1Akustik
+Antwort_2=0Phonetik
+Antwort_3=0Optik
+Antwort_4=0Lautstärke
+
+[37]
+FZ1=
+FZ2=Zupfinstrument mit vielen Saiten, das zu den ältesten Instrumenten zählt ?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0Gitarre
+Antwort_2=1Harfe
+Antwort_3=0Zither
+Antwort_4=0Banjo
+
+[38]
+FZ1=Gehört zur Geigenfamilie, wird im Sitzen gespielt und auf
+FZ2=einem Stachel aufgesetzt.
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0Laute
+Antwort_2=0Harfe
+Antwort_3=1Cello
+Antwort_4=0Kontrabass
+
+[39]
+FZ1=
+FZ2=Blasinstrument aus Schottland?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1Dudelsack
+Antwort_2=0Blockflöte
+Antwort_3=0Fagott
+Antwort_4=0Flöte
+
+[40]
+FZ1=
+FZ2=Wie heißt der Ton unter c ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1h
+Antwort_2=0hes
+Antwort_3=0cis
+Antwort_4=0b
+
+[41]
+FZ1=
+FZ2=Das tiefste Streichinstrument ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kontrabass
+Antwort_2=0Cello
+Antwort_3=0Gitarre
+Antwort_4=0Bratsche
+
+[42]
+FZ1=
+FZ2=Einer, der Musik schreibt, heißt
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Komponist
+Antwort_2=0Korrepetitor
+Antwort_3=0Choreograph
+Antwort_4=0Intendant
+
+[43]
+FZ1=
+FZ2="Die kleine Nachtmusik" schrieb
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Mozart
+Antwort_2=0Bach
+Antwort_3=0Beethoven
+Antwort_4=0Haydn
+
+[44]
+FZ1=
+FZ2=Die Melodie des Deutschlandliedes schrieb
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Haydn
+Antwort_2=0Bach
+Antwort_3=0Beethoven
+Antwort_4=0Mozart
+
+[45]
+FZ1=
+FZ2=Den Text des Deutschlandliedes schrieb
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hoffmann von Fallersleben
+Antwort_2=0Hugo von Hoffmannsthal
+Antwort_3=0Hoffmann von Erxleben
+Antwort_4=0E.T.A. Hoffmann
+
+[46]
+FZ1=
+FZ2=Die Sinfonie "Eroica" schrieb
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Beethoven
+Antwort_2=0Haydn
+Antwort_3=0Mozart
+Antwort_4=0Carl Orff
+
+[47]
+FZ1=
+FZ2=Ein anderes Wort für Posaune ist
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1Trombone
+Antwort_2=0Trumpet
+Antwort_3=0Trambolin
+Antwort_4=0Trumget
+
+[48]
+FZ1=
+FZ2="Violoncello" bedeutet
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Kniegeige
+Antwort_2=0Stehgeiger
+Antwort_3=0Standgeige
+Antwort_4=0Pixelgeige
+
+[49]
+FZ1=
+FZ2=Die Königin der Instrumente ist die
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Orgel
+Antwort_2=0Harfe
+Antwort_3=0Geige
+Antwort_4=0Gitarre
+
+[50]
+FZ1=
+FZ2=Die Lure ist ein
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Blasinstrument
+Antwort_2=0Saiteninstrument
+Antwort_3=0Tasteninstrument
+Antwort_4=0Gradmesser für Lichtstärke
+
+[51]
+FZ1=
+FZ2=Ein "Flügel" ist ein
+FZ3=
+Min=200
+Max=16000
+Antwort_1=1Tasteninstrument
+Antwort_2=0Zupfinstrument
+Antwort_3=0Schlaginstrument
+Antwort_4=0schwingendes Schilfrohr
+
+[52]
+FZ1=
+FZ2=Welche Tonfolge ist falsch?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1C - D - F
+Antwort_2=0C - D - E
+Antwort_3=0C - H - A
+Antwort_4=0F - G - A
+
+[53]
+FZ1=
+FZ2="Die Moldau" schrieb
+FZ3=
+Min=4000
+Max=10000
+Antwort_1=1Smetana
+Antwort_2=0Dvorak
+Antwort_3=0Bartok
+Antwort_4=0Hindemith
+
+[54]
+FZ1=
+FZ2=Peter Tschaikowsky war ein
+FZ3=
+Min=100
+Max=16000
+Antwort_1=1Russe
+Antwort_2=0Tscheche
+Antwort_3=0Deutscher
+Antwort_4=0Serbe
+
+[55]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[56]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[57]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[58]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[59]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[60]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+

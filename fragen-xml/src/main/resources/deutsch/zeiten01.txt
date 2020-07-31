@@ -1,0 +1,401 @@
+[Thema]
+Thema=Finde die richtige Zeit!
+Fragen=36
+Autor=Andrea Unold / Alfred Bergkemper
+
+[1]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Er aß eine Bratwurst.	
+Antwort_2=0Peter hat eine Birne gegessen.	
+Antwort_3=1Ich esse einen Teller Spaghetti.	
+Antwort_4=0Du hast gerne Schokoladenmousse	gegessen.	
+
+[2]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Er aß eine Bratwurst.	
+Antwort_2=0Peter hat eine Birne gegessen.	
+Antwort_3=0Ich esse einen Teller Spaghetti.	
+Antwort_4=0Du hast gerne Schokoladenmousse	gegessen.	
+
+[3]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Fritz stahl ein Bonbon.	
+Antwort_2=0Ich habe noch nie gestohlen.	
+Antwort_3=0Wir haben gestern etwas gestohlen.	
+Antwort_4=0Stiehlst du manchmal?	
+
+[4]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Fritz stahl ein Bonbon.	
+Antwort_2=0Ich habe noch nie gestohlen.	
+Antwort_3=0Wir haben gestern etwas gestohlen.	
+Antwort_4=1Stiehlst du manchmal?	
+
+[5]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Hast du das Kleid gekauft?	
+Antwort_2=0Ich habe Gemüse und Fisch für die	Suppe gekauft.	
+Antwort_3=0Peter kauft sich eine Krawatte.	
+Antwort_4=1Wir kauften neue Möbel.	
+
+[6]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Hast du das Kleid gekauft?	
+Antwort_2=0Ich habe Gemüse und Fisch für die	Suppe gekauft.	
+Antwort_3=1Peter kauft sich eine Krawatte.	
+Antwort_4=0Wir kauften neue Möbel.	
+
+[7]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Anna fand den Witz gar nicht lustig.	
+Antwort_2=0Wir haben eine Muschel gefunden.	
+Antwort_3=1Tante Bertha findet mein Kleid schön.	
+Antwort_4=0Philip fand keine bessere Ausrede.	
+
+[8]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Anna findet den Witz gar nicht lustig.	
+Antwort_2=0Wir haben eine Muschel gefunden.	
+Antwort_3=0Tante Bertha findet mein Kleid schön.	
+Antwort_4=1Philip fand keine bessere Ausrede.	
+
+[9]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Melanie schreibt sehr schön.	
+Antwort_2=0Max hat mir einen Brief geschrieben.	
+Antwort_3=0Sie schrieb einen Artikel für die Zeitung.	
+Antwort_4=0Oma schrieb die Nummern immer auf.	
+
+[10]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Melanie schreibt sehr schön.	
+Antwort_2=0Max hat mir einen Brief geschrieben.	
+Antwort_3=1Sie schrieb einen Artikel für die Zeitung.	
+Antwort_4=0Oma schreibt die Nummern immer auf.	
+
+[11]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Der Chor sang wunderschöne Lieder.	
+Antwort_2=0Wir haben früher nie gesungen.	
+Antwort_3=1Ich singe gern.	
+Antwort_4=0Peter hat zwei Lieder gesungen.	
+
+[12]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Der Chor sang wunderschöne Lieder.	
+Antwort_2=0Wir haben früher nie gesungen.	
+Antwort_3=0Ich singe gern.	
+Antwort_4=0Peter hat zwei Lieder gesungen.	
+
+[13]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Paul hat ein Haus gezeichnet.	
+Antwort_2=1Sie zeichneten alle dasselbe.	
+Antwort_3=0Meine Schwester zeichnet den ganzen	Tag.	
+Antwort_4=0Manchmal zeichnet ihr dummes Zeug.	
+
+[14]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Paul hat ein Haus gezeichnet.	
+Antwort_2=0Sie zeichneten alle dasselbe.	
+Antwort_3=0Meine Schwester zeichnete den ganzen	Tag.	
+Antwort_4=1Manchmal zeichnet ihr dummes Zeug.	
+
+[15]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Detlef rannte bis zum Berg.	
+Antwort_2=0Kannst du auch so schnell rennen?	
+Antwort_3=0Der Fuchs ist in den Wald gerannt.	
+Antwort_4=0Anna ist zwei Kilometer weit gerannt.	
+
+[16]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0Detlef rannte bis zum Berg.	
+Antwort_2=1Kannst du auch so schnell rennen?	
+Antwort_3=0Der Fuchs ist in den Wald gerannt.	
+Antwort_4=0Anna ist zwei Kilometer weit gerannt.	
+
+[17]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Ich kann dreißig Minuten lang hüpfen.	
+Antwort_2=0Das Auto fuhr sehr schnell.	
+Antwort_3=0Im Wald war es schon dunkel.	
+Antwort_4=0Der Tee war noch sehr heiß.	
+
+[18]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Ich kann dreißig Minuten lang hüpfen.	
+Antwort_2=0Das Auto fährt  sehr schnell.	
+Antwort_3=1Im Wald war es schon dunkel.	
+Antwort_4=0Der Tee ist noch sehr heiß.	
+
+[19]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Ich erkenne alle Verben.	
+Antwort_2=0Ich habe nichts gesehen.	
+Antwort_3=0Deine Füllfeder tropfte.	
+Antwort_4=0Die Nadel hat weh getan.	
+
+[20]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Ich erkenne alle Verben.	
+Antwort_2=0Ich habe nichts gesehen.	
+Antwort_3=1Deine Füllfeder tropfte.	
+Antwort_4=0Die Nadel hat weh getan.	
+
+[21]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Zeus hat Europa entführt.	
+Antwort_2=1Es regnet schon den ganzen Tag.	
+Antwort_3=0Stefanie hatte eine Grippe.	
+Antwort_4=0Ich war schwimmen.	
+
+[22]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Zeus hat Europa entführt.	
+Antwort_2=0Es regnet schon den ganzen Tag.	
+Antwort_3=0Stefanie hat eine Grippe.	
+Antwort_4=1Ich war schwimmen.	
+
+[23]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Ich habe gestern eine schöne	Geschichte gelesen.	
+Antwort_2=1Wir redeten die ganze Nacht.	
+Antwort_3=0Früher habe ich gestrickt.	
+Antwort_4=0Erna spürt den Luftzug.	
+
+[24]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Ich habe gestern eine schöne	Geschichte gelesen.	
+Antwort_2=0Wir redeten die ganze Nacht.	
+Antwort_3=0Früher habe ich gestrickt.	
+Antwort_4=1Erna spürt den Luftzug.	
+
+[25]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Die Pflanze blühte vor zwei Wochen.	
+Antwort_2=0Sie haben sich verlaufen.	
+Antwort_3=0Die Karte ist schon alt.	
+Antwort_4=0Die Vase ist runtergefallen.	
+
+[26]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Die Pflanze blühte vor zwei Wochen.	
+Antwort_2=0Sie haben sich verlaufen.	
+Antwort_3=1Die Karte ist schon alt.	
+Antwort_4=0Die Vase ist runtergefallen.	
+
+[27]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Mein Etui ist ganz neu.	
+Antwort_2=1Das Bett war angenehmer als der	Boden.	
+Antwort_3=0Hast du die Aufgaben schon gemacht?	
+Antwort_4=0Es hat geregnet.	
+
+[28]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Mein Etui ist ganz neu.	
+Antwort_2=0Das Bett war angenehmer als der	Boden.	
+Antwort_3=0Hast du die Aufgaben schon gemacht?	
+Antwort_4=0Es hat geregnet.	
+
+[29]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Die Tasse war sauber.	
+Antwort_2=0Karl hat gehustet.	
+Antwort_3=0Er ist verhungert.	
+Antwort_4=1Papa geht mit mir in den Wald.	
+
+[30]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Die Tasse war sauber.	
+Antwort_2=0Karl hat gehustet.	
+Antwort_3=0Er ist verhungert.	
+Antwort_4=0Papa geht mit mir in den Wald.	
+
+[31]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Ich ziehe mich jetzt an.	
+Antwort_2=1Die Sterne strahlten.	
+Antwort_3=0Früher habe ich nichts gemerkt.	
+Antwort_4=0Weshalb habt ihr gerufen?	
+
+[32]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Ich ziehe mich jetzt an.	
+Antwort_2=0Die Sterne strahlten.	
+Antwort_3=0Früher habe ich nichts gemerkt.	
+Antwort_4=0Weshalb habt ihr gerufen?	
+
+[33]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Das Kino war voll.	
+Antwort_2=1Er zieht die Linien immer gerade.	
+Antwort_3=0Draußen hat es geschneit.	
+Antwort_4=0Peter hat gestern das Velo repariert.	
+
+[34]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Ich sehe nichts.	
+Antwort_2=0Ich habe ein Reh gesehen.	
+Antwort_3=1Der Onkel sah einen hellen Stern.	
+Antwort_4=0Hast du ein Heft gesehen?	
+
+[35]
+FZ1=Welches Verb steht im Präsens?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Ich sehe nichts.	
+Antwort_2=0Ich habe ein Reh gesehen.	
+Antwort_3=0Der Onkel sah einen hellen Stern.	
+Antwort_4=0Hast du ein Heft gesehen?	
+
+[36]
+FZ1=Welches Verb steht im Präteritum?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Das Kino war voll.	
+Antwort_2=0Er zieht die Linien immer gerade.	
+Antwort_3=0Draußen hat es geschneit.	
+Antwort_4=0Peter hat gestern das Velo repariert.	
+

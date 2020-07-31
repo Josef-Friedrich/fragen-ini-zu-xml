@@ -1,0 +1,1105 @@
+[Thema]
+Thema=Sport leicht
+Fragen=100
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie nennt man das Hemd eines Fußballspielers ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Trikot
+Antwort_2=0Leibchen
+Antwort_3=0Shirt
+Antwort_4=0Pullover
+
+[2]
+FZ1=
+FZ2=Bei welcher Sportart benutzt man  k e i n e n  Schläger ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Basketball
+Antwort_2=0Badminton
+Antwort_3=0Tennis
+Antwort_4=0Squash
+
+[3]
+FZ1=
+FZ2=Bei welcher Sportart muss man rückwärts gehen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Tauziehen
+Antwort_2=0Dreisprung
+Antwort_3=0Hürdenlauf
+Antwort_4=0Gehen
+
+[4]
+FZ1=
+FZ2=Wo findet das berühmteste Tennisturnier statt ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Wimbledon
+Antwort_2=0Winterberg
+Antwort_3=0Wuppertal
+Antwort_4=0Wyoming
+
+[5]
+FZ1=
+FZ2=Welche Sportart übte Pele aus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Fußball
+Antwort_2=0Basketball
+Antwort_3=0Tennis
+Antwort_4=0Schwimmen
+
+[6]
+FZ1=
+FZ2=Welche Sportart übte Muhamed Ali aus ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Boxen
+Antwort_2=0Schwimmen
+Antwort_3=0Ringen
+Antwort_4=0Turnen
+
+[7]
+FZ1=
+FZ2=Wie werden die Mercedes - Rennautos genannt ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Silberpfeile
+Antwort_2=0Bronzeflitzer
+Antwort_3=0Goldspeere
+Antwort_4=0Laserblitze
+
+[8]
+FZ1=
+FZ2=Wie lang ist ein Marathonlauf ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=142,195 km
+Antwort_2=036,150 km
+Antwort_3=020,250 km
+Antwort_4=014,455 km
+
+[9]
+FZ1=
+FZ2=Wie heißt der Lauf über 42,195 km ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Marathonlauf
+Antwort_2=0Monsterlauf
+Antwort_3=0Giantlauf
+Antwort_4=0Riesenlauf
+
+[10]
+FZ1=
+FZ2=An welchem Turngerät turnen keine Männer ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schwebebalken
+Antwort_2=0Reck
+Antwort_3=0Boden
+Antwort_4=0Ringe
+
+[11]
+FZ1=
+FZ2=Wie wird ein Rennreiter genannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Jockey
+Antwort_2=0Horseman
+Antwort_3=0DJ
+Antwort_4=0Galopper
+
+[12]
+FZ1=
+FZ2=Welche Schwimmart gibt es ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Delfinschwimmen
+Antwort_2=0Haischwimmen
+Antwort_3=0Walschwimmen
+Antwort_4=0Heringsschwimmen
+
+[13]
+FZ1=
+FZ2=Wie heißt die Kampfstätte der Boxer ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Ring
+Antwort_2=0Quadrat
+Antwort_3=0Kreis
+Antwort_4=0Dreieck
+
+[14]
+FZ1=
+FZ2=Bis wann zählt der Ringrichter, bevor ein Boxer k.o. ist ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=19
+Antwort_2=03
+Antwort_3=05
+Antwort_4=012
+
+[15]
+FZ1=
+FZ2=Was geschieht mit einem Boxer nach einem Niederschlag ?
+FZ3=Er wird ...
+Min=16000
+Max=16000
+Antwort_1=1angezählt
+Antwort_2=0ausgeschimpft
+Antwort_3=0angeschrien
+Antwort_4=0ausgelacht
+
+[16]
+FZ1=
+FZ2=Wie heißt die Sportart, bei der mit Handschuhen gekämpft wird ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Boxen
+Antwort_2=0Schlagen
+Antwort_3=0Hauen
+Antwort_4=0Kämpfen
+
+[17]
+FZ1=
+FZ2=Welche Sportart gibt es ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Dreisprung
+Antwort_2=0Viersprung
+Antwort_3=0Zweisprung
+Antwort_4=0Fünfsprung
+
+[18]
+FZ1=
+FZ2=Welche Sportart übte Franz Beckenbauer aus ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Fußball
+Antwort_2=0Schwimmen
+Antwort_3=0Tennis
+Antwort_4=0Handball
+
+[19]
+FZ1=
+FZ2=Wie heißt Deutschlands berühmtester Fußballspieler ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Franz Beckenbauer
+Antwort_2=0Günther Netzer
+Antwort_3=0Helmut Haller
+Antwort_4=0Oliver Kahn
+
+[20]
+FZ1=
+FZ2=Welche Sportart übte Boris Becker aus ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Tennis
+Antwort_2=0Handball
+Antwort_3=0Fußball
+Antwort_4=0Golf
+
+[21]
+FZ1=
+FZ2=Wie heißt Deutschlands berühmtester Tennisspieler ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Boris Becker
+Antwort_2=0Jörg Martin
+Antwort_3=0Wilhelm Bungert
+Antwort_4=0Carl Uwe Steeb
+
+[22]
+FZ1=
+FZ2=Was ist die Tour de France ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Radrennen
+Antwort_2=0Pferderennen
+Antwort_3=0Autorennen
+Antwort_4=0Motorradrennen
+
+[23]
+FZ1=
+FZ2=Welche Sportart gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hammerwurf
+Antwort_2=0Feilenwurf
+Antwort_3=0Zangenwurf
+Antwort_4=0Sägenwurf
+
+[24]
+FZ1=
+FZ2=Wie heißt die Sportart, bei der ein langer Stab geworfen wird ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Speerwurf
+Antwort_2=0Stockwurf
+Antwort_3=0Stabwurf
+Antwort_4=0Stangenwurf
+
+[25]
+FZ1=
+FZ2=Welches Bobrennen gibt es ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=12 - er Bob
+Antwort_2=03 - er Bob
+Antwort_3=01 - er  Bob
+Antwort_4=05 - er Bob
+
+[26]
+FZ1=
+FZ2=Welches Bobrennen gibt es ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=14 - er  Bob
+Antwort_2=03 -er Bob
+Antwort_3=01 - er Bob
+Antwort_4=05 - er Bob
+
+[27]
+FZ1=
+FZ2=Wie nennt man die Sportart, die aus Skilanglauf und Schießen besteht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Biathlon
+Antwort_2=0Skeleton
+Antwort_3=0Triathlon
+Antwort_4=0Marathon
+
+[28]
+FZ1=
+FZ2=Bei welcher Sportart gibt es einen Boxenstopp ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Formel 1 Autorennen
+Antwort_2=0Boxen
+Antwort_3=0Trabrennen
+Antwort_4=0Badminton
+
+[29]
+FZ1=
+FZ2=Was bedeutet die gelbe Karte beim Fußballspiel ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Verwarnung
+Antwort_2=0Pause
+Antwort_3=0Platzverweis
+Antwort_4=0Verlängerung
+
+[30]
+FZ1=
+FZ2=Was bedeutet die rote Karte beim Fußballspiel ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Platzverweis
+Antwort_2=0Pause
+Antwort_3=0Verwarnung
+Antwort_4=0Verlängerung
+
+[31]
+FZ1=
+FZ2=Welche Farbe hat beim Fußball die Karte für einen Platzverweis ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1rot
+Antwort_2=0grün
+Antwort_3=0gelb
+Antwort_4=0blau
+
+[32]
+FZ1=
+FZ2=Welche Farbe haben die Ferrari - Formel 1 Rennwagen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1rot
+Antwort_2=0grün
+Antwort_3=0gelb
+Antwort_4=0weiß
+
+[33]
+FZ1=
+FZ2=Welche Farbe hat beim Fußball die Karte für eine Verwarnung ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1gelb
+Antwort_2=0grün
+Antwort_3=0rot
+Antwort_4=0blau
+
+[34]
+FZ1=
+FZ2=Bei welcher Sportart sind die Mannschaften durch ein Netz getrennt ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Volleyball
+Antwort_2=0Handball
+Antwort_3=0Basketball
+Antwort_4=0Fußball
+
+[35]
+FZ1=
+FZ2=Wo wurde die deutsche Nationalmannschaft zum dritten Mal Fußballweltmeister ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Italien
+Antwort_2=0England
+Antwort_3=0Argentinien
+Antwort_4=0Frankreich
+
+[36]
+FZ1=
+FZ2=Wo wurde die deutsche Nationalmannschaft zum zweiten Mal Fußballweltmeister ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1München
+Antwort_2=0Madrid
+Antwort_3=0London
+Antwort_4=0Rom
+
+[37]
+FZ1=
+FZ2=Wo wurde die deutsche Nationalmannschaft zum ersten Mal Fußballweltmeister ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Bern
+Antwort_2=0Paris
+Antwort_3=0Berlin
+Antwort_4=0Rom
+
+[38]
+FZ1=
+FZ2=Wann wurde die deutsche Nationalmannschaft zum dritten Mal Fußballweltmeister ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=11990
+Antwort_2=01954
+Antwort_3=01974
+Antwort_4=01966
+
+[39]
+FZ1=
+FZ2=Wann wurde die deutsche Nationalmannschaft
+FZ3=zum zweiten Mal Fußballweltmeister ?
+Min=8000
+Max=64000
+Antwort_1=11974
+Antwort_2=01990
+Antwort_3=01954
+Antwort_4=01966
+
+[40]
+FZ1=
+FZ2=Wann wurde die deutsche Nationalmannschaft zum ersten Mal Fußballweltmeister ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=11954
+Antwort_2=01990
+Antwort_3=01974
+Antwort_4=01962
+
+[41]
+FZ1=
+FZ2=Wie nennt man den Spielleiter beim Fußball ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schiedsrichter
+Antwort_2=0Pfeifenmann
+Antwort_3=0Aufpasser
+Antwort_4=0Spielwächter
+
+[42]
+FZ1=
+FZ2=Bei welcher Sportart ist der Ball am größten ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Basketball
+Antwort_2=0Volleyball
+Antwort_3=0Fußball
+Antwort_4=0Handball
+
+[43]
+FZ1=
+FZ2=Bei welcher Sportart ist der Ball am kleinsten ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Tischtennis
+Antwort_2=0Handball
+Antwort_3=0Tennis
+Antwort_4=0Fußball
+
+[44]
+FZ1=
+FZ2=Bei welcher Sportart wird ein kleiner Ball eingelocht ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Golf
+Antwort_2=0Handball
+Antwort_3=0Kegeln
+Antwort_4=0Basketball
+
+[45]
+FZ1=
+FZ2=Wie heißt die höchste deutsche Spielklasse beim Fußball ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Bundesliga
+Antwort_2=0Landesliga
+Antwort_3=0Regionalliga
+Antwort_4=0Kreisliga
+
+[46]
+FZ1=
+FZ2=Wie heißt das große Sportereignis, das alle 4 Jahre stattfindet ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Olympische Spiele
+Antwort_2=0Grand Prix
+Antwort_3=0Weltmeisterschaft
+Antwort_4=0Champions League
+
+[47]
+FZ1=
+FZ2=Bei welchem Spiel dürfen die Feldspieler den Ball nicht mit der Hand berühren ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Fußball
+Antwort_2=0Basketball
+Antwort_3=0Volleyball
+Antwort_4=0Handball
+
+[48]
+FZ1=
+FZ2=Bei welchem Spiel ist der Ball nicht rund ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Football
+Antwort_2=0Basketball
+Antwort_3=0Fußball
+Antwort_4=0Volleyball
+
+[49]
+FZ1=
+FZ2=Wie nennt man das sportliche Federballspiel ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Badminton	
+Antwort_2=0Squash	
+Antwort_3=0Goodminton	
+Antwort_4=0Tennis	
+
+[50]
+FZ1=
+FZ2=Wie nennt man das "Spielgerät" beim Eishockey ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Puck
+Antwort_2=0Ruck
+Antwort_3=0Muck
+Antwort_4=0Zuck
+
+[51]
+FZ1=
+FZ2=Aus wie vielen Meter wird ein Strafwurf beim Handball ausgeführt ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=17
+Antwort_2=09
+Antwort_3=06
+Antwort_4=011
+
+[52]
+FZ1=
+FZ2=Aus wie vielen Meter wird ein Strafstoß beim Fußball ausgeführt ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=111
+Antwort_2=09
+Antwort_3=07
+Antwort_4=016
+
+[53]
+FZ1=
+FZ2=Bei welcher Sportart werden "Körbe" erzielt ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Basketball
+Antwort_2=0Baseball
+Antwort_3=0Volleyball
+Antwort_4=0Handball
+
+[54]
+FZ1=
+FZ2=Wie nennt man die Sportler, die mit ihrem Sport Geld verdienen ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Profis
+Antwort_2=0Installateure
+Antwort_3=0Amateure
+Antwort_4=0Prolos
+
+[55]
+FZ1=
+FZ2=Wie nennt man die Sportler, die mit ihrem Sport  k e i n  Geld verdienen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Amateure
+Antwort_2=0Animateure
+Antwort_3=0Profis
+Antwort_4=0Monteure
+
+[56]
+FZ1=
+FZ2=In welchem Abstand werden die Olympischen Spiele ausgetragen ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=14 Jahre
+Antwort_2=06 Jahre
+Antwort_3=02 Jahre
+Antwort_4=010 Jahre
+
+[57]
+FZ1=
+FZ2=Wie nennt man beim Fußball das erste Tor in der Verlängerung,
+FZ3=das dann das Spiel beendet ?
+Min=250000
+Max=500000
+Antwort_1=1Golden Goal
+Antwort_2=0Lucky Punch
+Antwort_3=0Sudden Death
+Antwort_4=0Big Point
+
+[58]
+FZ1=
+FZ2=Auf welchem Untergrund spielen "Beach - Volleyballer" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Sand
+Antwort_2=0Kunstrasen
+Antwort_3=0Gras
+Antwort_4=0Tartarn
+
+[59]
+FZ1=
+FZ2=Was wird beim "Hammerwurf" eigentlich geworfen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1eine Kugel
+Antwort_2=0eine Scheibe
+Antwort_3=0ein Hammer
+Antwort_4=0ein Stab
+
+[60]
+FZ1=
+FZ2=Wie schwer ist ungefähr die Kugel beim Kugelstoßen der Männer ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ca. 7 kg
+Antwort_2=0ca. 9 kg
+Antwort_3=0ca. 5 kg
+Antwort_4=0ca. 12 kg
+
+[61]
+FZ1=
+FZ2=Welche Sportler werden in der Leichtathletik "Könige der Athleten" genannt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Zehnkämpfer
+Antwort_2=0Marathonläufer
+Antwort_3=0Stabhochspringer
+Antwort_4=050 - km - Geher
+
+[62]
+FZ1=
+FZ2=Wie nennt man es, wenn ein Sportler Wimbledon, die US - Open,
+FZ3=die French - Open und die Australien - Open gewinnt ?
+Min=500000
+Max=500000
+Antwort_1=1Grand Slam
+Antwort_2=0Grand Tennis
+Antwort_3=0Grand Prix
+Antwort_4=0Grand Tour
+
+[63]
+FZ1=
+FZ2=Wofür stehen die fünf olympischen Ringe ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1für die fünf Erdteile
+Antwort_2=0für die fünf Mannschaften
+Antwort_3=0für die fünf Finger
+Antwort_4=0Am Anfang wurden nur fünf	Wettbewerbe durchgeführt.
+
+[64]
+FZ1=
+FZ2=Wie wird ein besonderer Schwimmstil auch noch genannt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Schmetterling
+Antwort_2=0Hornisse
+Antwort_3=0Hummel
+Antwort_4=0Libelle
+
+[65]
+FZ1=
+FZ2=Wie nennt man einen Olympiasieger ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Olympionike
+Antwort_2=0Olympiade
+Antwort_3=0Olympus
+Antwort_4=0Olympiachampion
+
+[66]
+FZ1=
+FZ2=Wie heißt die Sportart, bei der man über 6 Meter hoch springen kann ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Stabhochsprung
+Antwort_2=0Pferdsprung
+Antwort_3=0Dreisprung
+Antwort_4=0Hochsprung
+
+[67]
+FZ1=
+FZ2=Welche Farbe gehört  n i c h t  zu den olympischen Ringen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1grau
+Antwort_2=0blau
+Antwort_3=0schwarz
+Antwort_4=0rot
+
+[68]
+FZ1=
+FZ2=Welche Farbe gehört  n i c h t  zu den olympischen Ringen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1weiß
+Antwort_2=0blau
+Antwort_3=0schwarz
+Antwort_4=0gelb
+
+[69]
+FZ1=
+FZ2=Welche Farbe gehört  n i c h t  zu den olympischen Ringen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1braun
+Antwort_2=0grün
+Antwort_3=0rot
+Antwort_4=0gelb
+
+[70]
+FZ1=
+FZ2=Aus wie vielen Ringen besteht das Wahrzeichen der Olympischen Spiele ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=15
+Antwort_2=06
+Antwort_3=04
+Antwort_4=09
+
+[71]
+FZ1=
+FZ2=Wie lautet die Abkürzung für
+FZ3="Internationales Olympisches Komitee" ?
+Min=4000
+Max=64000
+Antwort_1=1I O C
+Antwort_2=0U E F A
+Antwort_3=0I N O L K O
+Antwort_4=0F I F A
+
+[72]
+FZ1=
+FZ2=Wie nennt man einen Lauf, bei dem sich vier Läufer abwechseln ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Staffelllauf
+Antwort_2=0Viererlauf
+Antwort_3=0Wechsellauf
+Antwort_4=0Gruppenlauf
+
+[73]
+FZ1=
+FZ2=Wie nennt man die Sportart, die aus Laufen, Schwimmen und Radfahren besteht ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Triathlon
+Antwort_2=0Monolog
+Antwort_3=0Biathlon
+Antwort_4=0Marathon
+
+[74]
+FZ1=
+FZ2=Welchen "Vogel" gibt es manchmal beim Fußballspiel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schwalbe
+Antwort_2=0Geier
+Antwort_3=0Adler
+Antwort_4=0Kuckuck
+
+[75]
+FZ1=
+FZ2=Wie nennt man ein großes "Sprungtuch" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Trampolin
+Antwort_2=0Turngut
+Antwort_3=0Springhoch
+Antwort_4=0Sprungfeder
+
+[76]
+FZ1=
+FZ2=Wie groß kann die Geschwindigkeit eines Tennisballs beim Aufschlag sein ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1über 200 km/h
+Antwort_2=0über 400 km/h
+Antwort_3=0über 300 km/h
+Antwort_4=0über 500 km/h
+
+[77]
+FZ1=
+FZ2=Was ist Squash ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ein Rückschlagspiel
+Antwort_2=0eine Figur beim Bodenturnen
+Antwort_3=0eine Schwimmart
+Antwort_4=0ein Tor beim Eishockey
+
+[78]
+FZ1=
+FZ2=Wie viele Personen sitzen insgesamt in einem Achter - Ruderboot ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=19
+Antwort_2=010
+Antwort_3=08
+Antwort_4=011
+
+[79]
+FZ1=
+FZ2=Wie nennt man es, wenn man durch Einnahme von Medikamenten seine
+FZ3=Leistungsfähigkeit steigern möchte ?
+Min=8000
+Max=125000
+Antwort_1=1Doping
+Antwort_2=0Whoping
+Antwort_3=0Hoping
+Antwort_4=0Moving
+
+[80]
+FZ1=
+FZ2=Was ist  k e i n  Turngerät ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Mauer
+Antwort_2=0Barren
+Antwort_3=0Reck
+Antwort_4=0Seitpferd
+
+[81]
+FZ1=
+FZ2=Wie viele Läufer gehören zu einer Staffel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=14
+Antwort_2=06
+Antwort_3=03
+Antwort_4=08
+
+[82]
+FZ1=
+FZ2=Aus welchem Metall ist die Medaille für den Dritten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Bronze
+Antwort_2=0Silber
+Antwort_3=0Gold
+Antwort_4=0Platin
+
+[83]
+FZ1=
+FZ2=Aus welchem Metall ist die Medaille für den Zweiten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Silber
+Antwort_2=0Bronze
+Antwort_3=0Gold
+Antwort_4=0Platin
+
+[84]
+FZ1=
+FZ2=Aus welchem Metall ist die Medaille für den Sieger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Gold
+Antwort_2=0Bronze
+Antwort_3=0Silber
+Antwort_4=0Platin
+
+[85]
+FZ1=
+FZ2=Wie nennt man das verbotene Medikament zum Muskelaufbau ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Anabolika
+Antwort_2=0Anakonda
+Antwort_3=0Muskulator
+Antwort_4=0Muskelmus
+
+[86]
+FZ1=
+FZ2=Was wird von Olympia in einem Fackellauf in das Olympiastadion gebracht ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die olympische Flamme
+Antwort_2=0die olympischen Trikots
+Antwort_3=0die olympischen Medaillen
+Antwort_4=0die olympischen Startnummern
+
+[87]
+FZ1=
+FZ2=Wie nennt man die Dornen an der Unterseite von Laufschuhen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Spikes
+Antwort_2=0Stachels
+Antwort_3=0Dorns
+Antwort_4=0Stollen
+
+[88]
+FZ1=
+FZ2=Wie nennt man den zweirädrigen Wagen, der von einem Pferd gezogen wird ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Sulky
+Antwort_2=0Kutsche
+Antwort_3=0Puky
+Antwort_4=0Rikscha
+
+[89]
+FZ1=
+FZ2=Wie nennt man die Spur für die Skilangläufer ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1Loipe
+Antwort_2=0Spürli
+Antwort_3=0Lupe
+Antwort_4=0Lupine
+
+[90]
+FZ1=
+FZ2=Wie nennt man einen Dauerlauf mit geringer Geschwindigkeit ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Jogging
+Antwort_2=0Doping
+Antwort_3=0Mobbing
+Antwort_4=0Running
+
+[91]
+FZ1=
+FZ2=Wie viele verschiedene Schwimmarten gibt es bei Schwimmwettkämpfen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=14
+Antwort_2=05
+Antwort_3=03
+Antwort_4=06
+
+[92]
+FZ1=
+FZ2=Zu welcher Sportart gehören
+FZ3="Schritt, Trab und Galopp" ?
+Min=500
+Max=4000
+Antwort_1=1Pferdesport
+Antwort_2=0Skisport
+Antwort_3=0Tanzsport
+Antwort_4=0Leichtathletik
+
+[93]
+FZ1=
+FZ2=Wie heißt eine berühmte Segelveranstaltung ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Kieler Woche
+Antwort_2=0Bremer Tag
+Antwort_3=0Hamburger Monat
+Antwort_4=0Flensburger Stunde
+
+[94]
+FZ1=
+FZ2=In welcher Sportart gibt es ein 6 - Tage - Rennen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Radrennsport
+Antwort_2=0Motorsport
+Antwort_3=0Pferdesport
+Antwort_4=0Schwimmsport
+
+[95]
+FZ1=
+FZ2=Wie nennt man bei den speziellen 110 - m und 400 - m Läufen die Hindernisse ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hürden
+Antwort_2=0Schwellen
+Antwort_3=0Mauern
+Antwort_4=0Hecken
+
+[96]
+FZ1=
+FZ2=Wie lang ist eine Runde in einem Leichtathletikstadion ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1400 m
+Antwort_2=0100 m
+Antwort_3=0300 m
+Antwort_4=0200 m
+
+[97]
+FZ1=
+FZ2=Bei welcher Sportart ist der Ball  n i c h t  rund ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Badminton
+Antwort_2=0Tischtennis
+Antwort_3=0Tennis
+Antwort_4=0Squash
+
+[98]
+FZ1=
+FZ2=Wer darf beim Fußballspiel den Ball in die Hand nehmen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Torwart
+Antwort_2=0Verteidiger
+Antwort_3=0Mittelstürmer
+Antwort_4=0Mannschaftskapitän
+
+[99]
+FZ1=
+FZ2=Womit beginnt ein Fußballspiel ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Anstoß
+Antwort_2=0Einwurf
+Antwort_3=0Eckball
+Antwort_4=0Abschlag
+
+[100]
+FZ1=
+FZ2=Was ist Squash ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ein Rückschlagspiel
+Antwort_2=0eine Figur beim Bodenturnen
+Antwort_3=0eine Schwimmart
+Antwort_4=0ein Tor beim Eishockey
+

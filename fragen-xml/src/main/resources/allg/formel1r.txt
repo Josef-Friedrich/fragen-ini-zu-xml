@@ -1,0 +1,3812 @@
+[Thema]
+Thema=Rund um die Formel 1
+Fragen=346
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wer wurde in der Saison 2002 Vize - Weltmeister ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Rubens Barrichello	
+Antwort_2=0Juan Pablo Montoya	
+Antwort_3=0Ralf Schumacher	
+Antwort_4=0Kimi Räikkönen	
+
+[2]
+FZ1=
+FZ2=Wie hieß der Formel 1 Weltpräsident in der Saison 2002 ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Max Mosley	
+Antwort_2=0Max Schmeling	
+Antwort_3=0Max Morlock	
+Antwort_4=0Max und Moritz	
+
+[3]
+FZ1=
+FZ2=Wie oft fuhr Michael Schumacher bis zum Ende der Saison 2002
+FZ3=an der Spitze des Feldes ?
+Min=2000
+Max=32000
+Antwort_1=118.089 km	
+Antwort_2=07.381 km	
+Antwort_3=0102.674 km	
+Antwort_4=0812 km	
+
+[4]
+FZ1=
+FZ2=Wie viele Punkte hat Michael Schumacher bis zum Ende der Saison 2002
+FZ3=gesammelt und damit so viele wie bisher kein anderer ?
+Min=250000
+Max=500000
+Antwort_1=1945	
+Antwort_2=0899	
+Antwort_3=01035	
+Antwort_4=0761	
+
+[5]
+FZ1=
+FZ2=Wie viele Rennen hat Michael Schumacher bis zum Ende der Saison 2002
+FZ3=gewonnen ?
+Min=16000
+Max=125000
+Antwort_1=164	
+Antwort_2=044	
+Antwort_3=054	
+Antwort_4=034	
+
+[6]
+FZ1=
+FZ2=Wie viele Ferrari - Doppelsiege gab es in der Saison 2002 ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=19	
+Antwort_2=07	
+Antwort_3=011	
+Antwort_4=05	
+
+[7]
+FZ1=
+FZ2=Wie oft stand Michael Schumacher in der Saison 2002 auf dem Podest ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1immer	
+Antwort_2=012 - mal	
+Antwort_3=010 - mal	
+Antwort_4=015 - mal	
+
+[8]
+FZ1=
+FZ2=Wie oft schied Michael Schumacher in der Saison 2002 aus ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=10	
+Antwort_2=02	
+Antwort_3=01	
+Antwort_4=03	
+
+[9]
+FZ1=
+FZ2=Wie viele Siege erzielte Michael beim Gewinn seiner 5. Weltmeisterschaft in der
+FZ3=Saison 2002 ?
+Min=8000
+Max=64000
+Antwort_1=111	
+Antwort_2=013	
+Antwort_3=012	
+Antwort_4=014	
+
+[10]
+FZ1=
+FZ2=Was war das Besondere bei der Siegerehrung des Auftaktrennens in Australien in
+FZ3=der Saison 2003 ?
+Min=1000
+Max=8000
+Antwort_1=1Seit 53 Rennen stand erstmals kein	Ferrari-Fahrer auf dem Treppchen.	
+Antwort_2=0Es standen nur zwei Fahrer auf dem	Treppchen, weil alle anderen Fahrer	ausgeschieden waren.	
+Antwort_3=0Es standen erstmals drei Ferrari-Fahrer	auf dem Treppchen.	
+Antwort_4=0Michael Schumacher vergoss Milch	anstatt Champagner.	
+
+[11]
+FZ1=
+FZ2=Wie viele Konstrukteurs - Titel gewann Ferrari seit 1950
+FZ3=bis zum Ende der Saison 2002  ?
+Min=125000
+Max=500000
+Antwort_1=112	
+Antwort_2=014	
+Antwort_3=010	
+Antwort_4=08	
+
+[12]
+FZ1=
+FZ2=Wie viele Rennen fuhr Ferrari seit 1950 bis zum Ende der Saison 2002 ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1670	
+Antwort_2=0820	
+Antwort_3=01040	
+Antwort_4=0410	
+
+[13]
+FZ1=
+FZ2=Wie viele Siege fuhr Ferrari bis zur Saison 2002 in 670 Rennen heraus ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1159	
+Antwort_2=0219	
+Antwort_3=069	
+Antwort_4=0109	
+
+[14]
+FZ1=
+FZ2=Welcher Rennstall fuhr bis zur Saison 2002 in 670 Rennen die meisten Siege -
+FZ3=nämlich 159 - heraus ?
+Min=300
+Max=2000
+Antwort_1=1Ferrari	
+Antwort_2=0McLaren - Mercedes	
+Antwort_3=0BMW - Williams	
+Antwort_4=0Benetton - Ford	
+
+[15]
+FZ1=
+FZ2=An welche Änderung wurde - wegen der Überlegenheit von Ferrari in der Saison
+FZ3=2002 - ernsthaft gedacht ?
+Min=1000
+Max=16000
+Antwort_1=1Für die ersten zehn Rennen wurde ein	"Fahrertausch" angedacht.	
+Antwort_2=0Für die drei ersten Fahrer sollte zehn	Runden lang ein Überholverbot gelten.	
+Antwort_3=0Der Führende in der Gesamtwertung	sollte ein Rennen aussetzen.	
+Antwort_4=0Der Zeitschnellste im Training sollte im	Rennen nur einen Boxenstopp machen	dürfen.	
+
+[16]
+FZ1=
+FZ2=An welche Änderung wurde - wegen der Überlegenheit von Ferrari in der Saison
+FZ3=2002 - ernsthaft gedacht ?
+Min=1000
+Max=16000
+Antwort_1=1Für jeden Punkt Vorsprung sollte ein	Kilo Zusatzgewicht in den Wagen	gepackt werden.	
+Antwort_2=0Der Führende der Gesamtwertung sollte	immer vom letzten Startplatz starten.	
+Antwort_3=0Die drei führenden Autos sollten im	nächsten Rennen nur mit 4 Gängen	fahren.	
+Antwort_4=0Die schwächeren Fahrer sollten eine	Runde Vorsprung bekommen.	
+
+[17]
+FZ1=
+FZ2=Welches Formel 1 Team ist seit der WM - Gründung 1950 bis zur Saison 2002
+FZ3=als einziges immer dabei ?
+Min=200
+Max=2000
+Antwort_1=1Ferrari	
+Antwort_2=0BMW - Williams	
+Antwort_3=0McLaren - Mercedes	
+Antwort_4=0Jaguar	
+
+[18]
+FZ1=
+FZ2=Was war das Besondere beim Sieg von Michael Schumacher beim
+FZ3=Großen Preis von Österreich im Jahr 2002 ?
+Min=2000
+Max=32000
+Antwort_1=1Schumacher siegte per Stallorder, als	sein Teamkollege Barrichello ihn kurz	vor dem Ziel vorbeilassen musste.	
+Antwort_2=0Schumacher siegte trotz eines	Plattfußes in der letzten Runde.	
+Antwort_3=0Schumacher siegte aus der	Boxengasse, weil sein Ferrari beim	Start nicht ansprang.	
+Antwort_4=0Schumacher rollte die letzten 200 m	ohne Benzin ins Ziel.	
+
+[19]
+FZ1=
+FZ2=Wie groß war die Durchschnittsgeschwindigkeit von Michael Schumacher beim
+FZ3=Großen Preis von Frankreich 2002 ?
+Min=4000
+Max=64000
+Antwort_1=1305,88 km/h	
+Antwort_2=0285,88 km/h	
+Antwort_3=0295,88 km/h	
+Antwort_4=0325,88 km/h	
+
+[20]
+FZ1=
+FZ2=Nach wie vielen von 17 Rennen stand Michael Schumacher im Jahr 2002 als
+FZ3=Weltmeister fest ?
+Min=1000
+Max=16000
+Antwort_1=1nach 11	
+Antwort_2=0nach 13	
+Antwort_3=0nach 12	
+Antwort_4=0nach 10	
+
+[21]
+FZ1=
+FZ2=Bei welchem Rennen sicherte sich Michael Schumacher
+FZ3=vorzeitig den WM - Titel 2002 ?
+Min=2000
+Max=32000
+Antwort_1=1Große Preis von Frankreich	
+Antwort_2=0Große Preis von Italien	
+Antwort_3=0Große Preis von Deutschland	
+Antwort_4=0Große Preis von Monaco	
+
+[22]
+FZ1=
+FZ2=Was war das Besondere am Weltmeistertitel 2002 von Michael Schumacher ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Michael Schumacher wurde der	früheste Titelgewinner aller Zeiten.	
+Antwort_2=0Michael Schumacher gewann in dieser	Saison nur ein Rennen.	
+Antwort_3=0Michael Schumacher gewann in dieser	Saison alle Rennen.	
+Antwort_4=0Michael Schumacher gewann den Titel	erst im letzten Rennen.	
+
+[23]
+FZ1=
+FZ2=Wer wurde 2002 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Michael Schumacher	
+Antwort_2=0Rubens Barrichello	
+Antwort_3=0Ralf Schumacher	
+Antwort_4=0Pablo Montoya	
+
+[24]
+FZ1=
+FZ2=Wie oft wurde Michael Schumacher bis zum Jahr 2002 F - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=15 - mal	
+Antwort_2=03 - mal	
+Antwort_3=04 - mal	
+Antwort_4=02 - mal	
+
+[25]
+FZ1=
+FZ2=Welche Automarke belegte bei der Weltmeisterschaft 1952
+FZ3=die ersten drei Plätze ?
+Min=4000
+Max=64000
+Antwort_1=1Ferrari	
+Antwort_2=0Mercedes	
+Antwort_3=0Maserati	
+Antwort_4=0Alfa Romeo	
+
+[26]
+FZ1=
+FZ2=Welche Automarke belegte bei der ersten Weltmeisterschaft 1950
+FZ3=die ersten drei Plätze ?
+Min=4000
+Max=64000
+Antwort_1=1Alfa Romeo	
+Antwort_2=0Mercedes	
+Antwort_3=0Ferrari	
+Antwort_4=0Maserati	
+
+[27]
+FZ1=
+FZ2=Wer fuhr von 1996 - 2001 keine Rennen für Ferrari ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Jean Alesi	
+Antwort_2=0Mika Salo	
+Antwort_3=0Eddie Irvine	
+Antwort_4=0Rubens Barrichello	
+
+[28]
+FZ1=
+FZ2=Welcher Rennfahrer brach sich 1997 beide Beine ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Oliver Panis	
+Antwort_2=0Michael Schumacher	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Alessandro Nannini	
+
+[29]
+FZ1=
+FZ2=Wer wurde 2001 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0David Coulthard	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Rubens Barrichello	
+
+[30]
+FZ1=
+FZ2=Wer wurde 2000 Formel - 1 - Weltmeister ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0Jacques Villeneuve	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Damon Hill	
+
+[31]
+FZ1=
+FZ2=Wer wurde 1999 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Mika Häkkinen	
+Antwort_2=0Jacques Villeneuve	
+Antwort_3=0Michael Schumacher	
+Antwort_4=0Nigel Mansell	
+
+[32]
+FZ1=
+FZ2=Wer wurde 1998 Formel - 1 - Weltmeister ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Mika Häkkinen	
+Antwort_2=0Jacques Villeneuve	
+Antwort_3=0Michael Schumacher	
+Antwort_4=0Damon Hill	
+
+[33]
+FZ1=
+FZ2=Wer wurde 1997 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jacques Villeneuve	
+Antwort_2=0Michael Schumacher	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Damon Hill	
+
+[34]
+FZ1=
+FZ2=Wer wurde 1996 Formel - 1 - Weltmeister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Damon Hill	
+Antwort_2=0Mika Häkkinen	
+Antwort_3=0Jacques Villeneuve	
+Antwort_4=0Michael Schumacher	
+
+[35]
+FZ1=
+FZ2=Wer wurde 1995 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0Damon Hill	
+Antwort_3=0Jacques Villeneuve	
+Antwort_4=0Mika Häkkinen	
+
+[36]
+FZ1=
+FZ2=Wer wurde 1994 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0Gerhard Berger	
+Antwort_3=0Damon Hill	
+Antwort_4=0Jacques Villeneuve	
+
+[37]
+FZ1=
+FZ2=Wer wurde 1993 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alain Prost	
+Antwort_2=0Damon Hill	
+Antwort_3=0Ayrton Senna	
+Antwort_4=0Nigel Mansell	
+
+[38]
+FZ1=
+FZ2=Wer wurde 1992 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Nigel Mansell	
+Antwort_2=0Michael Schumacher	
+Antwort_3=0Riccardo Patrese	
+Antwort_4=0Alain Prost	
+
+[39]
+FZ1=
+FZ2=Wer wurde 1991 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ayrton Senna	
+Antwort_2=0Riccardo Patrese	
+Antwort_3=0Nigel Mansell	
+Antwort_4=0Nelson Piquet	
+
+[40]
+FZ1=
+FZ2=Wer wurde 1990 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ayrton Senna	
+Antwort_2=0Nelson Piquet	
+Antwort_3=0Alain Prost	
+Antwort_4=0Nigel Mansell	
+
+[41]
+FZ1=
+FZ2=Wer wurde 1989 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alain Prost	
+Antwort_2=0Riccardo Patrese	
+Antwort_3=0Ayrton Senna	
+Antwort_4=0Nigel Mansell	
+
+[42]
+FZ1=
+FZ2=Wer wurde 1988 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ayrton Senna	
+Antwort_2=0Gerhard Berger	
+Antwort_3=0Alain Prost	
+Antwort_4=0Niki Lauda	
+
+[43]
+FZ1=
+FZ2=Wer wurde 1987 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Nelson Piquet	
+Antwort_2=0Ayrton Senna	
+Antwort_3=0Nigel Mansell	
+Antwort_4=0Alain Prost	
+
+[44]
+FZ1=
+FZ2=Wer wurde 1986 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alain Prost	
+Antwort_2=0Nigel Mansell	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Nelson Piquet	
+
+[45]
+FZ1=
+FZ2=Wer wurde 1985 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alain Prost	
+Antwort_2=0Nelson Piquet	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Keke Rosberg	
+
+[46]
+FZ1=
+FZ2=Wer wurde 1984 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Niki Lauda	
+Antwort_2=0Alain Prost	
+Antwort_3=0Nelson Piquet	
+Antwort_4=0Keke Rosberg	
+
+[47]
+FZ1=
+FZ2=Wer wurde 1983 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Nelson Piquet	
+Antwort_2=0Niki Lauda	
+Antwort_3=0Alain Prost	
+Antwort_4=0Alan Jones	
+
+[48]
+FZ1=
+FZ2=Wer wurde 1982 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Keke Rosberg	
+Antwort_2=0Nelson Piquet	
+Antwort_3=0Didier Pironi	
+Antwort_4=0Alan Jones	
+
+[49]
+FZ1=
+FZ2=Wer wurde 1981 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Nelson Piquet	
+Antwort_2=0Alan Jones	
+Antwort_3=0Carlos Reutemann	
+Antwort_4=0Keke Rosberg	
+
+[50]
+FZ1=
+FZ2=Wer wurde 1980 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alan Jones	
+Antwort_2=0Carlos Reutemann	
+Antwort_3=0Nelson Piquet	
+Antwort_4=0Niki Lauda	
+
+[51]
+FZ1=
+FZ2=Wer wurde 1979 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jody Scheckter	
+Antwort_2=0Gilles Villeneuve	
+Antwort_3=0NIki Lauda	
+Antwort_4=0Alan Jones	
+
+[52]
+FZ1=
+FZ2=Wer wurde 1978 Formel - 1 - Weltmeister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Mario Andretti	
+Antwort_2=0Ronnie Peterson	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Carlos Reutemann	
+
+[53]
+FZ1=
+FZ2=Wer wurde 1977 Formel - 1 - Weltmeister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Niki Lauda	
+Antwort_2=0Alan Jones	
+Antwort_3=0Jody Scheckter	
+Antwort_4=0Mario Andretti	
+
+[54]
+FZ1=
+FZ2=Wer wurde 1976 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1James Hunt	
+Antwort_2=0Jody Scheckter	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Mario Andretti	
+
+[55]
+FZ1=
+FZ2=Wer wurde 1975 Formel - 1 - Weltmeister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Niki Lauda	
+Antwort_2=0Carlos Reutemann	
+Antwort_3=0Emerson Fittipaldi	
+Antwort_4=0James Hunt	
+
+[56]
+FZ1=
+FZ2=Wer wurde 1974 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Emerson Fittipaldi	
+Antwort_2=0Jody Scheckter	
+Antwort_3=0Clay Regazzoni	
+Antwort_4=0Jackie Stewart	
+
+[57]
+FZ1=
+FZ2=Wer wurde 1973 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jackie Stewart	
+Antwort_2=0Ronnie Peterson	
+Antwort_3=0Emerson Fittipaldi	
+Antwort_4=0Clay Regazzoni	
+
+[58]
+FZ1=
+FZ2=Wer wurde 1972 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Emerson Fittipaldi	
+Antwort_2=0Denis Hulme	
+Antwort_3=0Jackie Stewart	
+Antwort_4=0Jack Brabham	
+
+[59]
+FZ1=
+FZ2=Wer wurde 1971 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jackie Stewart	
+Antwort_2=0Francois Cevert	
+Antwort_3=0Ronnie Peterson	
+Antwort_4=0Clay Regazzoni	
+
+[60]
+FZ1=
+FZ2=Wer wurde 1970 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jochen Rindt	
+Antwort_2=0Clay Regazzoni	
+Antwort_3=0Jacky Ickx	
+Antwort_4=0Ronnie Peterson	
+
+[61]
+FZ1=
+FZ2=Wer wurde 1969 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jackie Stewart	
+Antwort_2=0Jacky Ickx	
+Antwort_3=0Denis Hulme	
+Antwort_4=0Bruce McLaren	
+
+[62]
+FZ1=
+FZ2=Wer wurde 1968 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Graham Hill	
+Antwort_2=0Denis Hulme	
+Antwort_3=0Jackie Stewart	
+Antwort_4=0John Surtees	
+
+[63]
+FZ1=
+FZ2=Wer wurde 1967 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Denis Hulme	
+Antwort_2=0Jim Clark	
+Antwort_3=0Jack Brabham	
+Antwort_4=0John Surtees	
+
+[64]
+FZ1=
+FZ2=Wer wurde 1966 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jack Brabham	
+Antwort_2=0Jochen Rindt	
+Antwort_3=0John Surtees	
+Antwort_4=0Denis Hulme	
+
+[65]
+FZ1=
+FZ2=Wer wurde 1965 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jim Clark	
+Antwort_2=0Graham Hill	
+Antwort_3=0John Surtees	
+Antwort_4=0Jackie Stewart	
+
+[66]
+FZ1=
+FZ2=Wer wurde 1964 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1John Surtees	
+Antwort_2=0Jim Clark	
+Antwort_3=0Graham Hill	
+Antwort_4=0Jack Brabham	
+
+[67]
+FZ1=
+FZ2=Wer wurde 1963 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jim Clark	
+Antwort_2=0Phil Hill	
+Antwort_3=0Graham Hill	
+Antwort_4=0Richie Ginther	
+
+[68]
+FZ1=
+FZ2=Wer wurde 1962 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Graham Hill	
+Antwort_2=0Jim Clark	
+Antwort_3=0Phil Hill	
+Antwort_4=0Bruce McLaren	
+
+[69]
+FZ1=
+FZ2=Wer wurde 1961 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Phil Hill	
+Antwort_2=0Stirling Moss	
+Antwort_3=0Wolfgang Graf Berghe von Trips	
+Antwort_4=0Jack Brabham	
+
+[70]
+FZ1=
+FZ2=Wer wurde 1960 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jack Brabham	
+Antwort_2=0Bruce McLaren	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Phil Hill	
+
+[71]
+FZ1=
+FZ2=Wer wurde 1959 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jack Brabham	
+Antwort_2=0Tony Brooks	
+Antwort_3=0Mike Hawthorn	
+Antwort_4=0Stirling Moss	
+
+[72]
+FZ1=
+FZ2=Wer wurde 1958 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Mike Hawthorn	
+Antwort_2=0Tony Brooks	
+Antwort_3=0Juan Manuel Fangio	
+Antwort_4=0Peter Collins	
+
+[73]
+FZ1=
+FZ2=Wer wurde 1957 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Luigi Musso	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Mike Hawthorn	
+
+[74]
+FZ1=
+FZ2=Wer wurde 1956 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Peter Collins	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Luigi Musso	
+
+[75]
+FZ1=
+FZ2=Wer wurde 1955 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Alberto Ascari	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Eugenio Castellotti	
+
+[76]
+FZ1=
+FZ2=Wer wurde 1954 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0José Froilan González	
+Antwort_3=0Alberto Ascari	
+Antwort_4=0Mike Hawthorn	
+
+[77]
+FZ1=
+FZ2=Wer wurde 1953 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alberto Ascari	
+Antwort_2=0Piero Taruffi	
+Antwort_3=0Juan Manuel Fangio	
+Antwort_4=0Guiseppe Farina	
+
+[78]
+FZ1=
+FZ2=Wer wurde 1952 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alberto Ascari	
+Antwort_2=0Guiseppe Farina	
+Antwort_3=0Juan Manuel Fangio	
+Antwort_4=0Mike Hawthorn	
+
+[79]
+FZ1=
+FZ2=Wer wurde 1951 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Piero Taruffi	
+Antwort_3=0Alberto Ascari	
+Antwort_4=0Guiseppe Farina	
+
+[80]
+FZ1=
+FZ2=Wer wurde 1950 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Guiseppe Farina	
+Antwort_2=0Luigi Fagioli	
+Antwort_3=0Juan Manuel Fangio	
+Antwort_4=0Roberto Umbrella	
+
+[81]
+FZ1=
+FZ2=Was bedeutet eine grüne Flagge ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1freie Fahrt	
+Antwort_2=0Rennabbruch	
+Antwort_3=0Überholen lassen	
+Antwort_4=0Rennende	
+
+[82]
+FZ1=
+FZ2=Was bedeutet eine blaue Flagge ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Überholen lassen	
+Antwort_2=0rutschige Strecke	
+Antwort_3=0unsportliches Verhalten	
+Antwort_4=0freie Fahrt	
+
+[83]
+FZ1=
+FZ2=Was bedeutet eine rot - gelb gestreifte Flagge ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1rutschige Strecke	
+Antwort_2=0freie Fahrt	
+Antwort_3=0Überholen lassen	
+Antwort_4=0unsportliches Verhalten	
+
+[84]
+FZ1=
+FZ2=Wie lange dauert im Schnitt das Betanken eines F - 1 - Autos
+FZ3=während des Boxenstopps ?
+Min=8000
+Max=64000
+Antwort_1=16 Sekunden	
+Antwort_2=02 Sekunden	
+Antwort_3=04 Sekunden	
+Antwort_4=08 Sekunden	
+
+[85]
+FZ1=
+FZ2=Wer gewann 2001 den Großen Preis von Europa auf dem Nürburgring ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0David Coulthard	
+Antwort_3=0Ralf Schumacher	
+Antwort_4=0Mika Häkkinen	
+
+[86]
+FZ1=
+FZ2=Nach welcher Computerfirma wurde der Motor des Prost - Teams 2001 benannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Acer	
+Antwort_2=0Compaq	
+Antwort_3=0IBM	
+Antwort_4=0Microsoft	
+
+[87]
+FZ1=
+FZ2=Wie hießen die Ferrari V6 - Motoren und alle damit bestückten Rennwagen
+FZ3=nach 1956 viele Jahre lang ?
+Min=4000
+Max=64000
+Antwort_1=1Dino	
+Antwort_2=0Mario	
+Antwort_3=0Enzo	
+Antwort_4=0Nino	
+
+[88]
+FZ1=
+FZ2=Was bedeutet der englische Begriff "Misfire" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Motorexplosion	
+Antwort_2=0Frühstart	
+Antwort_3=0Fehlzündung	
+Antwort_4=0Formel - 1 - Mechanikerin	
+
+[89]
+FZ1=
+FZ2=In welchem Land liegt die Rennstrecke Imola ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Italien	
+Antwort_2=0Spanien	
+Antwort_3=0San Marino	
+Antwort_4=0Monaco	
+
+[90]
+FZ1=
+FZ2=Für welches Bier wird auf allen F - 1 - Rennstrecken geworben ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Foster´s	
+Antwort_2=0Budweiser	
+Antwort_3=0Beck´s	
+Antwort_4=0Bitburger	
+
+[91]
+FZ1=
+FZ2=Welcher Formel - 1 - Fahrer wurde auf seinem selbst konstruierten Wagen
+FZ3=Weltmeister ?
+Min=250000
+Max=500000
+Antwort_1=1Jack Brabham	
+Antwort_2=0Bruce McLaren	
+Antwort_3=0Jackie Stewart	
+Antwort_4=0Alain Prost	
+
+[92]
+FZ1=
+FZ2=Welches Unternehmen ist offizieller Zeitnehmer der Formel 1 ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1TAG Heuer	
+Antwort_2=0Swatch	
+Antwort_3=0Omega	
+Antwort_4=0IBM	
+
+[93]
+FZ1=
+FZ2=Von 1950 - 1959 gab es WM - Punkte für die ersten fünf eines Rennens und außerdem
+FZ3=einen Sonderpunkt. Wofür gab es diesen Sonderpunkt ?
+Min=4000
+Max=64000
+Antwort_1=1schnellste Runde	
+Antwort_2=0bester Start	
+Antwort_3=0Pole Position	
+Antwort_4=0größtes Team	
+
+[94]
+FZ1=
+FZ2=Wie wurde die berüchtigte Nordschleife des Nürburgrings
+FZ3=von den F - 1 - Fahrern genannt ?
+Min=1000
+Max=16000
+Antwort_1=1Grüne Hölle	
+Antwort_2=0Buckelpiste	
+Antwort_3=0Eifelpark	
+Antwort_4=0Berg -  und Talbahn	
+
+[95]
+FZ1=
+FZ2=Wie heißt die Rennstrecke in der Schweiz,
+FZ3=auf der früher der GP der Schweiz stattfand ?
+Min=32000
+Max=125000
+Antwort_1=1Bremgarten	
+Antwort_2=0Brummgarten	
+Antwort_3=0Bremsgarten	
+Antwort_4=0Renngarten	
+
+[96]
+FZ1=
+FZ2=Womit wird den Fahrern während des Rennens vom Team ihr Stand signalisiert,
+FZ3=wenn sie die Boxen passieren ?
+Min=2000
+Max=32000
+Antwort_1=1Zahlentafeln	
+Antwort_2=0gar nicht	
+Antwort_3=0lautes Rufen	
+Antwort_4=0Handzeichen	
+
+[97]
+FZ1=
+FZ2=Was wurde in den Anfangsjahren der Formel 1 als Aufprallschutz entlang der
+FZ3=Rennstrecken verwendet ?
+Min=200
+Max=1000
+Antwort_1=1Strohballen	
+Antwort_2=0Schaumstoffkissen	
+Antwort_3=0Metallzäune	
+Antwort_4=0Luftkissen	
+
+[98]
+FZ1=
+FZ2=Welche Grand - Prix - Strecke lag auf einem riesigen Parkplatz ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Las Vegas	
+Antwort_2=0Long Beach	
+Antwort_3=0Zandvoort	
+Antwort_4=0Silverstone	
+
+[99]
+FZ1=
+FZ2=Warum gab es für die Williams - Piloten Alan Jones und Clay Regazzoni 1979 auf
+FZ3=dem Treppchen keinen Champagner ?
+Min=125000
+Max=500000
+Antwort_1=1aus Respekt vor den arabischen	Sponsoren	
+Antwort_2=0Sie waren Anti - Alkoholiker.	
+Antwort_3=0Sie standen nie auf dem Podium.	
+Antwort_4=0Mitarbeit an einer Anti - Al	
+
+[100]
+FZ1=
+FZ2=Welches Team holte von 1992 bis 1994 drei Konstruktionstitel hintereinander ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Williams	
+Antwort_2=0McLaren	
+Antwort_3=0Ferrari	
+Antwort_4=0Benetton	
+
+[101]
+FZ1=
+FZ2=Innerhalb von wie vielen Sekunden musste ein Pilot in der Saison 2001 sein Cockpit
+FZ3=verlassen können ?
+Min=2000
+Max=32000
+Antwort_1=15	
+Antwort_2=015	
+Antwort_3=010	
+Antwort_4=020	
+
+[102]
+FZ1=
+FZ2=Haben moderne Formel - 1 - Autos einen Rückwärtsgang ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ja, alle	
+Antwort_2=0manche ja, manche nein	
+Antwort_3=0nein	
+Antwort_4=0Das weiß keiner so genau.	
+
+[103]
+FZ1=
+FZ2=An welcher Rennstrecke sind die Kurven durchnummeriert 
+FZ3=und haben keine Namen ?
+Min=16000
+Max=125000
+Antwort_1=1Budapest	
+Antwort_2=0Monza	
+Antwort_3=0Suzuka	
+Antwort_4=0Barcelona	
+
+[104]
+FZ1=
+FZ2=Was versteht man in der Formel 1 unter "Hairpin" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Haarnadelkurve	
+Antwort_2=0Flügel am Auto	
+Antwort_3=0feuerfeste Kapuze	
+Antwort_4=0Siegermedaille	
+
+[105]
+FZ1=
+FZ2=In der Formel 1 gab es Preise in Naturalien. Was gewann René Arnoux
+FZ3=1980 für seine Pole - Position in Zandvoort ?
+Min=16000
+Max=64000
+Antwort_1=1100 kg Gouda	
+Antwort_2=0100 Flaschen Heineken Champagner	
+Antwort_3=0100 Kilo Muscheln	
+Antwort_4=0100 Matjes Heringe	
+
+[106]
+FZ1=
+FZ2=Welches Team setzte als erstes einen Mittelmotor ein ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Cooper	
+Antwort_2=0Maserati	
+Antwort_3=0BRM	
+Antwort_4=0Ferrari	
+
+[107]
+FZ1=
+FZ2=Auf welchen Hubraum begrenzte die FIA ab 1995 die Formel - 1 - Motoren ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=13.000 ccm	
+Antwort_2=04.000 cmm	
+Antwort_3=03.500 ccm	
+Antwort_4=02.500 ccm	
+
+[108]
+FZ1=
+FZ2=Wie nennt man die Randsteine in den Kurven von Rennstrecken ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Curbs	
+Antwort_2=0Borders	
+Antwort_3=0Stones	
+Antwort_4=0Hedges	
+
+[109]
+FZ1=
+FZ2=Welcher Grand - Prix - Fahrer war immer an dem Schottenmuster
+FZ3=auf seinem Helm zu erkennen ?
+Min=125000
+Max=250000
+Antwort_1=1Jackie Stewart	
+Antwort_2=0Nigel Mansell	
+Antwort_3=0David Coulthard	
+Antwort_4=0Damon Hill	
+
+[110]
+FZ1=
+FZ2=Wie heißt der jüngste Formel - 1 - Sieger aller Zeiten (Stand 2001) ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Bruce McLaren	
+Antwort_2=0Jody Scheckter	
+Antwort_3=0Michael Schumacher	
+Antwort_4=0Emerson Fittipaldi	
+
+[111]
+FZ1=
+FZ2=Welches Team gewann 1988 von den 16 Saisonläufen 15 Rennen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1McLaren	
+Antwort_2=0Benetton	
+Antwort_3=0Ferrari	
+Antwort_4=0Williams	
+
+[112]
+FZ1=
+FZ2=Was ist die Voraussetzung, um Formel - 1 -  Rennen fahren zu dürfen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Super - Lizenz der FIA	
+Antwort_2=0Siege in der Formel 3000	
+Antwort_3=0Fahrergröße nicht mehr als 1,70 cm	
+Antwort_4=01 Millionen Euro Kaution	
+
+[113]
+FZ1=
+FZ2=Wie nennt man die Linie, um möglichst schnell durch die Kurven zu kommen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ideallinie	
+Antwort_2=0Speedline	
+Antwort_3=0Blue Line	
+Antwort_4=0Powerlinie	
+
+[114]
+FZ1=
+FZ2=Wie hieß die aerodynamische Veränderung, mit der Ferrari 1998 überraschte
+FZ3=und die kurz darauf verboten wurde ?
+Min=125000
+Max=250000
+Antwort_1=1Tower - Wings	
+Antwort_2=0Double - Wings	
+Antwort_3=0Power - Wings	
+Antwort_4=0High - Wings	
+
+[115]
+FZ1=
+FZ2=Wer war die erste Frau, die 1958 an einem Formel - 1 - Rennen teilnahm ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Maria - Teresa de Filippis	
+Antwort_2=0Felicitas Amorosa	
+Antwort_3=0Giovanna Amati	
+Antwort_4=0Lella Lombardi	
+
+[116]
+FZ1=
+FZ2=Welche englische Bezeichnung gibt es für das Ersatzauto eines Teams ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1T - Car	
+Antwort_2=0X - Car	
+Antwort_3=0A - Car	
+Antwort_4=0E - Car	
+
+[117]
+FZ1=
+FZ2=Wie viel Liter Benzin fließen beim Boxenstopp pro Sekunde in den Tank ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=112 Liter	
+Antwort_2=018 Liter	
+Antwort_3=06 Liter	
+Antwort_4=024 Liter	
+
+[118]
+FZ1=
+FZ2=Welche durchgreifende technische Neuerung erfand Lotus - Chef Colin Chapman
+FZ3=Ende der 70 - er Jahre ?
+Min=32000
+Max=250000
+Antwort_1=1Wing - Car	
+Antwort_2=0Allradantrieb	
+Antwort_3=0Überrollbügel	
+Antwort_4=0Sechsrad	
+
+[119]
+FZ1=
+FZ2=Wie viel Grad hat eine Haarnadelkurve ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ca. 180 Grad	
+Antwort_2=0ca. 360 Grad	
+Antwort_3=0ca. 90 Grad	
+Antwort_4=0ca. 45 Grad	
+
+[120]
+FZ1=
+FZ2=Wie viel PS hatte der BMW - Motor des Jahres 2001 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 850 PS	
+Antwort_2=0ca. 750 PS	
+Antwort_3=0ca. 950 PS	
+Antwort_4=0ca. 650 PS	
+
+[121]
+FZ1=
+FZ2=Welche Vorschrift wurde erst 2000 erlassen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Verbot von Slicks	
+Antwort_2=0Gummi - Tanks - Pflicht	
+Antwort_3=0Verbot von Flugbenzin	
+Antwort_4=0Fixierung der Räder durch Kabel	
+
+[122]
+FZ1=
+FZ2=Mit welchem englischen Wort wird die Startaufstellung bezeichnet ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Grid	
+Antwort_2=0Field	
+Antwort_3=0Grips	
+Antwort_4=0Lap	
+
+[123]
+FZ1=
+FZ2=Welcher Fahrer vertrat Michael Schumacher 1999 nach seinem Beinbruch
+FZ3=bei Ferrari ?
+Min=4000
+Max=64000
+Antwort_1=1Mika Salo	
+Antwort_2=0Kimi Räikkönen	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Jos Verstappen	
+
+[124]
+FZ1=
+FZ2=Welche Rennstrecke war ursprünglich als Fahrrad - Rennstrecke gebaut ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Barcelona	
+Antwort_2=0Sao Paulo	
+Antwort_3=0Suzuka	
+Antwort_4=0Budapest	
+
+[125]
+FZ1=
+FZ2=Wer gilt als herausragendster Fahrer und Formel - 1 - Idol der 60 - er Jahre ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Jim Clark	
+Antwort_2=0Juan Manuel Fangio	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Jackie Stewart	
+
+[126]
+FZ1=
+FZ2=Was versteht man unter einem Chassis ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Fahrwerk	
+Antwort_2=0Kupplung	
+Antwort_3=0Lenkung	
+Antwort_4=0Motorblock	
+
+[127]
+FZ1=
+FZ2=Wie viel PS leisteten die bis 1988 eingesetzten Turbo - Motoren maximal ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1bis 1.400 PS	
+Antwort_2=0ca. 1.000 PS	
+Antwort_3=0ca. 750 PS	
+Antwort_4=0bis 900 PS	
+
+[128]
+FZ1=
+FZ2=Wie viele Gänge haben die Wagen von Ferrari, McLaren und BMW (Saison 2001) ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=17 + Rückwärtsgang	
+Antwort_2=05 + Rückwärtsgang	
+Antwort_3=06 + Rückwärtsgang	
+Antwort_4=08 + Rückwärtsgang	
+
+[129]
+FZ1=
+FZ2=Wann findet die Formationsrunde statt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1unmittelbar vor dem Start	
+Antwort_2=0nach dem Rennen	
+Antwort_3=0am Tag vor dem Rennen	
+Antwort_4=0vor dem Training	
+
+[130]
+FZ1=
+FZ2=Wodurch verlor Nigel Mansell die sicher geglaubte WM 1986 im letzten Rennen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Reifenplatzer	
+Antwort_2=0Benzinmangel	
+Antwort_3=0Motoraussetzer beim Start	
+Antwort_4=0Nichtantritt wegen Krankheit	
+
+[131]
+FZ1=
+FZ2=Warum flog das Tyrell - Team 1984 aus der WM - Wertung ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Man kühlte das Benzin herunter.	
+Antwort_2=0Man hatte illegale Reservetanks an	Bord.	
+Antwort_3=0Man fuhr mit Methanol.	
+Antwort_4=0Man bestach die Zeitmesser.	
+
+[132]
+FZ1=
+FZ2=Wer war von 1992 - 1997 alleiniger Reifenlieferant der Formel 1 ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Goodyear	
+Antwort_2=0Michelin	
+Antwort_3=0Dunlop	
+Antwort_4=0Bridgestone	
+
+[133]
+FZ1=
+FZ2=Die Rennwagen welches Teams werden scherzhaft auch Postautos genannt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Jordan	
+Antwort_2=0Williams	
+Antwort_3=0Minardi	
+Antwort_4=0Jaguar	
+
+[134]
+FZ1=
+FZ2=Wie lange brauchten Formel - 1 - Autos 1975 für eine Umrundung des Nürburgrings ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 7 Minuten	
+Antwort_2=0ca. 9 Minuten	
+Antwort_3=0ca. 5 Minuten	
+Antwort_4=0ca. 11 Minuten	
+
+[135]
+FZ1=
+FZ2=Welche technische Variante hat sich in der Formel 1 nicht durchsetzen können ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Allradantrieb	
+Antwort_2=0Mittelmotor	
+Antwort_3=0Flügel	
+Antwort_4=0Turbo - Motor	
+
+[136]
+FZ1=
+FZ2=Wann wurden bei einem Formel - 1 - Rennen erstmals profillose Reifen eingesetzt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=11971	
+Antwort_2=01958	
+Antwort_3=01965	
+Antwort_4=01977	
+
+[137]
+FZ1=
+FZ2=Mit welchem englischen Begriff wird das Fahrerlager bezeichnet ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Paddock	
+Antwort_2=0Hangar	
+Antwort_3=0Pitlane	
+Antwort_4=0Drivers Area	
+
+[138]
+FZ1=
+FZ2=Auf welcher Rennstrecke gelang Michael Schumacher sein erster Sieg ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Spa - Francorchamps	
+Antwort_2=0Nürburgring	
+Antwort_3=0Monza	
+Antwort_4=0Imola	
+
+[139]
+FZ1=
+FZ2=Mit welchem Getränk werden die Siegerehrungen der Formel 1 begossen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Champagner	
+Antwort_2=0Limode	
+Antwort_3=0Mineralwasser	
+Antwort_4=0Bier	
+
+[140]
+FZ1=
+FZ2=Was bezeichnet das englische Wort "Grip" in der Formel 1 ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Bodenhaftung des Autos	
+Antwort_2=0Gehalt des Fahrers	
+Antwort_3=0Lenkrad	
+Antwort_4=0Übergabe des Siegerpokals	
+
+[141]
+FZ1=
+FZ2=Wie wird einem Rennfahrer das Ende des Rennens angezeigt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1schwarz - weiß karierte Flagge	
+Antwort_2=0rote Ampel	
+Antwort_3=0Funkspruch	
+Antwort_4=0rote Signalrakete	
+
+[142]
+FZ1=
+FZ2=Was wurde 1986 vorgeschrieben ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Turbomotoren	
+Antwort_2=0Hupe	
+Antwort_3=0Wagenheber an Bord	
+Antwort_4=0Handbremse	
+
+[143]
+FZ1=
+FZ2=Dürfen Formel - 1 - Piloten während eines Rennens trinken ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Ja, so viel sie möchten.	
+Antwort_2=0Nein, das ist streng verboten.	
+Antwort_3=0Ja, aber nur beim Boxenstopp.	
+Antwort_4=0Ja, sie dürfen aber nur Sprite trinken.	
+
+[144]
+FZ1=
+FZ2=Was ist die höchste Anzahl von Boxenstopps,
+FZ3=die je in einem Rennen gemacht wurden ?
+Min=250000
+Max=500000
+Antwort_1=169	
+Antwort_2=039	
+Antwort_3=049	
+Antwort_4=079	
+
+[145]
+FZ1=
+FZ2=In welchem Jahr wurde der Nürburgring eröffnet ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11927	
+Antwort_2=01948	
+Antwort_3=01935	
+Antwort_4=01954	
+
+[146]
+FZ1=
+FZ2=Auf welcher dieser Rennstrecken wird gegen den Uhrzeigersinn gefahren ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Sao Paulo	
+Antwort_2=0Nürburgring	
+Antwort_3=0Indianapolis	
+Antwort_4=0Spa	
+
+[147]
+FZ1=
+FZ2=Wodurch werden die Startnummern in der Formel 1 bestimmt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1nach Vorjahresplatzierung	
+Antwort_2=0nach Trainingsergebnis	
+Antwort_3=0per Auslosung	
+Antwort_4=0immer reihum, damit jeder einmal die	Nummer 1 bekommt	
+
+[148]
+FZ1=
+FZ2=Welchen Spitznamen trug Niki Lauda während seiner aktiven Zeit als Fahrer ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Niki the rat	
+Antwort_2=0Niki the snake	
+Antwort_3=0Niki the tiger	
+Antwort_4=0Niki the fox	
+
+[149]
+FZ1=
+FZ2=Wie viele Umdrehungen macht ein moderner Formel - 1 - Motor maximal ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=112.000	
+Antwort_2=016.000	
+Antwort_3=010.000	
+Antwort_4=022.000	
+
+[150]
+FZ1=
+FZ2=Welcher Fahrer wurde als erster Amerikaner Formel - 1 - Weltmeister ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Phil Hill	
+Antwort_2=0George Washington	
+Antwort_3=0Bill Clinton	
+Antwort_4=0Abraham Lincoln	
+
+[151]
+FZ1=
+FZ2=Wer darf in den Parc Fermé ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Fahrer und FIA - Kommissare	
+Antwort_2=0alle Zuschauer	
+Antwort_3=0Journalisten	
+Antwort_4=0nur VIP´s	
+
+[152]
+FZ1=
+FZ2=An welchem markanten Gebäude führt der Formel - 1 - Kurs in Kanada vorbei ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Casino	
+Antwort_2=0UN - Zentrale	
+Antwort_3=0Parlament	
+Antwort_4=0Kathedrale	
+
+[153]
+FZ1=
+FZ2=Was war das kleinste Hubraumvolumen in der Formel 1 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11,5 l	
+Antwort_2=02,2 l	
+Antwort_3=02 l	
+Antwort_4=03 l	
+
+[154]
+FZ1=
+FZ2=Was muss ein Formel - 1 - Auto unbedingt haben ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1rotes Rücklicht	
+Antwort_2=0Scheinwerfer	
+Antwort_3=0Hupe	
+Antwort_4=0Handbremse	
+
+[155]
+FZ1=
+FZ2=In welcher deutschen Landschaft liegt der Nürburgring ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Eifel	
+Antwort_2=0Siegerland	
+Antwort_3=0Sauerland	
+Antwort_4=0Taunus	
+
+[156]
+FZ1=
+FZ2=Wie nennt man die erste Stelle in der Startaufstellung ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Pole Position	
+Antwort_2=0Best Position	
+Antwort_3=0First Position	
+Antwort_4=0Start Position	
+
+[157]
+FZ1=
+FZ2=Wann stieg Porsche erstmals als Werksteam in die Formel 1 ein ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11961	
+Antwort_2=01971	
+Antwort_3=01951	
+Antwort_4=01981	
+
+[158]
+FZ1=
+FZ2=Was ist ein "fliegender Start" in der Formel 1 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Start hinter dem Safety - Car	
+Antwort_2=0Start über eine Startrampe	
+Antwort_3=0durchstarten nach der Formationsrunde	
+Antwort_4=0Start aus der Boxengasse	
+
+[159]
+FZ1=
+FZ2=Wo wurde bis 1958 ausschließlich der Motor der Formel - 1 - Rennwagen eingebaut
+FZ3=?
+Min=200
+Max=2000
+Antwort_1=1vorne	
+Antwort_2=0hinten	
+Antwort_3=0unter dem Fahrersitz	
+Antwort_4=0Er wurde im Seitenwagen	mitgenommen.	
+
+[160]
+FZ1=
+FZ2=Was gab es 1977 für die schnellsten Runden im Qualifying
+FZ3=und im Rennen zu gewinnen ?
+Min=1000
+Max=16000
+Antwort_1=150 Flaschen Champagner	
+Antwort_2=0einen Blumentopf	
+Antwort_3=0gar nichts	
+Antwort_4=0eine Geldprämie	
+
+[161]
+FZ1=
+FZ2=Wie viel wiegt ein Formel - 1 - Motor etwa ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1100 kg	
+Antwort_2=0200 kg	
+Antwort_3=050 kg	
+Antwort_4=0150 kg	
+
+[162]
+FZ1=
+FZ2=Wie scher musste ein Formel - 1 - Auto in der Saison 2001 mindestens sein ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1600 kg	
+Antwort_2=0500 kg	
+Antwort_3=0400 kg	
+Antwort_4=0300 kg	
+
+[163]
+FZ1=
+FZ2=Was bedeutet der Begriff "Slow puncture" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1schleichender Plattfuß	
+Antwort_2=0Warnung: langsamer fahren	
+Antwort_3=0Punkt für die langsamste Runde	
+Antwort_4=0Letzter im Qualifying	
+
+[164]
+FZ1=
+FZ2=In welchem Jahr wurden Michael Schumacher sämtliche WM - Punkte aberkannt,
+FZ3=weil er im letzten Rennen Villeneuve von der Strecke rammte  ?
+Min=64000
+Max=250000
+Antwort_1=11997	
+Antwort_2=01998	
+Antwort_3=01996	
+Antwort_4=01995	
+
+[165]
+FZ1=
+FZ2=Wie viele Zylinder hatten die Formel - 1 - Autos der Saison 2001 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=110	
+Antwort_2=08	
+Antwort_3=012	
+Antwort_4=06	
+
+[166]
+FZ1=
+FZ2=Wie hieß das deutsche Team, das von 1985 - 1989 eigene
+FZ3=Formel - 1 - Autos einsetzte ?
+Min=4000
+Max=64000
+Antwort_1=1Zakspeed	
+Antwort_2=0Zakzak	
+Antwort_3=0Zakowski	
+Antwort_4=0Zakrace	
+
+[167]
+FZ1=
+FZ2=Wie nennt man die letzte Trainingseinheit vor einem Rennen am Sonntagmorgen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Warm - up	
+Antwort_2=0Blow - up	
+Antwort_3=0Start - up	
+Antwort_4=0Go - up	
+
+[168]
+FZ1=
+FZ2=Wer stand beim ersten deutschen Doppelsieg in der Formel 1
+FZ3=1997 in Imola auf dem Treppchen ?
+Min=8000
+Max=125000
+Antwort_1=1Heinz - Harald Frentzen und	Michael Schumacher	
+Antwort_2=0Michael und Ralf	Schumacher	
+Antwort_3=0Heinz - Harald Frentzen und	Ralf Schumacher	
+Antwort_4=0Ralf Schumacher und Nick Heidfeld	
+
+[169]
+FZ1=
+FZ2=Wer wurde mit einem einzigen Sieg Formel - 1 - Weltmeister ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Keke Rosberg	
+Antwort_2=0Mario Andretti	
+Antwort_3=0Alan Jones	
+Antwort_4=0Jody Scheckter	
+
+[170]
+FZ1=
+FZ2=Aus welchem Material bestehen die Bremsscheiben heutiger Formel - 1 - Autos ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kohlefaser	
+Antwort_2=0Kunststoff	
+Antwort_3=0Stahl	
+Antwort_4=0Edelmetall	
+
+[171]
+FZ1=
+FZ2=Wie schnell beschleunigt ein Formel - 1 - Auto von 0 auf 100 km / h ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1ca. 3 Sekunden	
+Antwort_2=0ca. 5 Sekunden	
+Antwort_3=0ca. 1 Sekunden	
+Antwort_4=0ca. 7 Sekunden	
+
+[172]
+FZ1=
+FZ2=Was ist ein Skid - Block in der Formel 1 ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Kunststoffplanke unter dem Auto	
+Antwort_2=0Siegel an der Blackbox	
+Antwort_3=0überdachte Zuschauertribüne	
+Antwort_4=0verstärkte Bugspitze	
+
+[173]
+FZ1=
+FZ2=Ist eine Servolenkung am Formel - 1 - Auto erlaubt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ja	
+Antwort_2=0nur im Training	
+Antwort_3=0nein	
+Antwort_4=0nur in der Boxengasse	
+
+[174]
+FZ1=
+FZ2=Wann müssen die roten Rücklichter eingeschaltet werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bei Regen oder Nebel	
+Antwort_2=0bei Nachtrennen	
+Antwort_3=0beim Bremsen	
+Antwort_4=0nur beim Training	
+
+[175]
+FZ1=
+FZ2=Was wird in der Formel 1 als Muletto bezeichnet ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Testauto	
+Antwort_2=0neuer Fahrer	
+Antwort_3=0Testfahrer	
+Antwort_4=0Teststrecke	
+
+[176]
+FZ1=
+FZ2=Welche dieser Reifenfirma war bis zur Saison 2002 nie in der Formel 1 vertreten ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Fulda	
+Antwort_2=0Dunlop	
+Antwort_3=0Goodyear	
+Antwort_4=0Bridgestone	
+
+[177]
+FZ1=
+FZ2=Welcher Fahrer verunglückte 1970 vier Rennen vor Saisonende in Monza tödlich
+FZ3=und konnte nur posthum zum Weltmeister erklärt werden ?
+Min=4000
+Max=64000
+Antwort_1=1Jochen Rindt	
+Antwort_2=0Denis Hulme	
+Antwort_3=0Wolfgang Graf Berghe von Trips	
+Antwort_4=0Bruce McLaren	
+
+[178]
+FZ1=
+FZ2=Wie heißt die Grand Prix Strecke im australischen Melbourne ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Albert Park	
+Antwort_2=0Hyde Park	
+Antwort_3=0Jurassic Park	
+Antwort_4=0Central Park	
+
+[179]
+FZ1=
+FZ2=In welchem Land liegt die Rennstrecke Kyalami ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Südafrika	
+Antwort_2=0Australien	
+Antwort_3=0Neuseeland	
+Antwort_4=0Argentinien	
+
+[180]
+FZ1=
+FZ2=Wie oft war Niki Lauda Formel - 1 - Weltmeister ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=13 - mal	
+Antwort_2=04 - mal	
+Antwort_3=02 - mal	
+Antwort_4=05 - mal	
+
+[181]
+FZ1=
+FZ2=Wie lange dauert am Sonntagmorgen das Warm-up ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=130 Minuten	
+Antwort_2=045 Minuten	
+Antwort_3=015 Minuten	
+Antwort_4=060 Minuten	
+
+[182]
+FZ1=
+FZ2=Wie stellen sich die Rennfahrer vor einem Rennen meist den Fans vor ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1auf einem LKW	
+Antwort_2=0auf Fahrrädern	
+Antwort_3=0auf Pferden	
+Antwort_4=0auf Inlinern	
+
+[183]
+FZ1=
+FZ2=Zu welcher Rennstrecke gehört eine palmenartige Tribünenanlage ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Sepang, Malaysia	
+Antwort_2=0Melbourne, Australien	
+Antwort_3=0Suzuka, Japan	
+Antwort_4=0Sao Paulo, Brasilien	
+
+[184]
+FZ1=
+FZ2=Welcher dieser Firmen war bis zur Saison 2002 nie in der Formel 1 vertreten ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1VW	
+Antwort_2=0Porsche	
+Antwort_3=0Mercedes	
+Antwort_4=0BMW	
+
+[185]
+FZ1=
+FZ2=Welcher Ort ist der Firmensitz von Ferrari ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Maranello	
+Antwort_2=0Mailand	
+Antwort_3=0Monza	
+Antwort_4=0Marakesch	
+
+[186]
+FZ1=
+FZ2=Wie wird ein Frühstart bestraft ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=110 Sekunden Stop-and-go-Strafe	
+Antwort_2=010.000 Dollar Geldbuße	
+Antwort_3=0Disqualifikation	
+Antwort_4=0Neustart des ganzen Rennens	
+
+[187]
+FZ1=
+FZ2=Wie nennt man auch einen einsitzigen Rennwagen ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Bolide	
+Antwort_2=0Bebob	
+Antwort_3=0Bolero	
+Antwort_4=0Bonito	
+
+[188]
+FZ1=
+FZ2=Gab es jemals ein Rennen, bei dem alle gestarteten Autos ins Ziel kamen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Ja, das gab es.	
+Antwort_2=0Höchstens als abgebrochenes Rennen	
+Antwort_3=0Nein, das gab es nie.	
+Antwort_4=0ein Rennen hinter dem Safety - Car	
+
+[189]
+FZ1=
+FZ2=Wie lautet der englische Fachbegriff für Frühstart ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Jump Start	
+Antwort_2=0Quick Start	
+Antwort_3=0Early Start	
+Antwort_4=0Fast Start	
+
+[190]
+FZ1=
+FZ2=Wer bezeichnete einen Ferrari als Lastwagen und wurde daraufhin
+FZ3=als Ferrari - Pilot gefeuert ?
+Min=64000
+Max=250000
+Antwort_1=1Alain Prost	
+Antwort_2=0Jean Alesi	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Gilles Villeneuve	
+
+[191]
+FZ1=
+FZ2=Aus welchem Land stammt der BMW - Williams - Fahrer Juan - Pablo Montoya ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kolumbien	
+Antwort_2=0Btasilien	
+Antwort_3=0Venezuela	
+Antwort_4=0Puerto Rico	
+
+[192]
+FZ1=
+FZ2=Welcher Rennfahrer war selbst im Formel - 1 - Auto immer mit Fliege unterwegs ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Mike Hawthorn	
+Antwort_2=0Peter Collins	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Juan Manuel Fangio	
+
+[193]
+FZ1=
+FZ2=Welche Autofirma stellte das Safety - Car in der Saison 2001 und 2002 ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Mercedes	
+Antwort_2=0Opel	
+Antwort_3=0Porsche	
+Antwort_4=0BMW	
+
+[194]
+FZ1=
+FZ2=Wie hieß der legendäre Mercedes - Silberpfeil von 1954 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1W 196	
+Antwort_2=0D 1000	
+Antwort_3=0250 SF	
+Antwort_4=0Typ 16 F	
+
+[195]
+FZ1=
+FZ2=Welcher Motor ist mit 175 Siegen bis zur Saison 2001 der erfolgreichste Motor
+FZ3=der Formel 1 ?
+Min=250000
+Max=500000
+Antwort_1=1Ford - Cosworth	
+Antwort_2=0Mercedes	
+Antwort_3=0Ferrari	
+Antwort_4=0Honda	
+
+[196]
+FZ1=
+FZ2=Welcher Fahrer wechselte 1988 zu McLaren und wurde auf Anhieb Weltmeister ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Ayrton Senna	
+Antwort_2=0Niki Lauda	
+Antwort_3=0Alain Prost	
+Antwort_4=0Nelson Piquet	
+
+[197]
+FZ1=
+FZ2=Wodurch ergibt sich das Ergebnis der Konstrukteurs - WM ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Punkte beider Fahrer	
+Antwort_2=0Anzahl der Pole Positions	
+Antwort_3=0Punkte des besten Fahrers	
+Antwort_4=0Anzahl der insgesamt gefahrenen	Runden	
+
+[198]
+FZ1=
+FZ2=Welche Rennstrecke liegt in einem Vergnügungspark mit Riesenrad ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Suzuka	
+Antwort_2=0Nürburgring	
+Antwort_3=0Budapest	
+Antwort_4=0Imola	
+
+[199]
+FZ1=
+FZ2=Durch welche faire Geste verhalf Peter Collins 1956 Juan Manuel Fangio
+FZ3=zu dessen vierten WM - Titel ?
+Min=250000
+Max=500000
+Antwort_1=1Er überließ ihm im letzten Rennen sein	Auto, obwohl er selber WM - Chancen	hatte.	
+Antwort_2=0Er ließ sich von Fangio 300 m vor dem	Ziel überholen, obwohl er selber	WM - Chancen hatte.	
+Antwort_3=0Er schob ihn beim Start an, weil Fangio	den Motor abgewürgt hatte.	
+Antwort_4=0Er half ihm in der vorletzten Runde	beim Reifenwechsel.	
+
+[200]
+FZ1=
+FZ2=Wann siegte Heinz - Harald Frentzen zum ersten Mal in der Formel 1 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11997	
+Antwort_2=01998	
+Antwort_3=01996	
+Antwort_4=01999	
+
+[201]
+FZ1=
+FZ2=Welcher dieser Formel - 1 - Rennstrecken liegt auf einer Insel ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Circuit Gilles Villeneuve	
+Antwort_2=0Nürburgring	
+Antwort_3=0Silverstone Circuit	
+Antwort_4=0Circuit de Monaco	
+
+[202]
+FZ1=
+FZ2=Welcher Fahrer fuhr im Jahr 2000 als Team - Kollege von Michael Schumacher
+FZ3=bei Ferrari ?
+Min=100
+Max=1000
+Antwort_1=1Eddie Irvine	
+Antwort_2=0Ralf Schumacher	
+Antwort_3=0Nick Heidfeld	
+Antwort_4=0Rubens Barrichello	
+
+[203]
+FZ1=
+FZ2=Welcher Grand Prix gilt bis zum Saisonende 2001 als kürzester Grand Prix, weil er
+FZ3=wegen Regen bereits nach 15 Runden abgewunken wurde ?
+Min=250000
+Max=500000
+Antwort_1=1Australien 1991	
+Antwort_2=0Japan 1993	
+Antwort_3=0Deutschland 1954	
+Antwort_4=0Italien 1956	
+
+[204]
+FZ1=
+FZ2=Wann stehen auf den McLaren Autos die Vornamen der Fahrer ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1wenn in dem Land, in dem das Rennen	stattfindet, Zigarettenwerbung verboten	ist	
+Antwort_2=0nur im Qualifying	
+Antwort_3=0nach einem Sieg	
+Antwort_4=0wenn beide aus der ersten Reihe	starten	
+
+[205]
+FZ1=
+FZ2=Wie viele Rennen gewann Niki Lauda in der Formel 1 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=125	
+Antwort_2=035	
+Antwort_3=015	
+Antwort_4=045	
+
+[206]
+FZ1=
+FZ2=Welcher Formel - 1 - Fahrer trug den Spitznamen "Black Jack" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Jack Brabham	
+Antwort_2=0Jacky Ickx	
+Antwort_3=0Jackie Stewart	
+Antwort_4=0Jacques Villeneuve	
+
+[207]
+FZ1=
+FZ2=Welche Rennstrecke führt  n i c h t  durch einen Wald ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Monaco	
+Antwort_2=0Imola	
+Antwort_3=0Hockenheim	
+Antwort_4=0Monza	
+
+[208]
+FZ1=
+FZ2=Wie viele Fahrer bekommen ab der Saison 2003 bei einem Formel - 1 - Rennen
+FZ3=Punkte ?
+Min=2000
+Max=16000
+Antwort_1=18	
+Antwort_2=06	
+Antwort_3=010	
+Antwort_4=012	
+
+[209]
+FZ1=
+FZ2=Wie viele Fahrer bekamen bis zur Saison 2003 bei einem Formel - 1 - Rennen
+FZ3=Punkte ?
+Min=100
+Max=1000
+Antwort_1=16	
+Antwort_2=04	
+Antwort_3=05	
+Antwort_4=03	
+
+[210]
+FZ1=
+FZ2=Wie viele Punkte bekam der Sechste bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=200
+Max=1000
+Antwort_1=11	
+Antwort_2=06	
+Antwort_3=03	
+Antwort_4=00	
+
+[211]
+FZ1=
+FZ2=Wie viele Punkte bekam der Fünfte bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=200
+Max=1000
+Antwort_1=03	
+Antwort_2=01	
+Antwort_3=12	
+Antwort_4=00	
+
+[212]
+FZ1=
+FZ2=Wie viele Punkte bekam der Vierte bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=100
+Max=1000
+Antwort_1=13	
+Antwort_2=02	
+Antwort_3=04	
+Antwort_4=01	
+
+[213]
+FZ1=
+FZ2=Wie viele Punkte bekam der Dritte bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=100
+Max=1000
+Antwort_1=14	
+Antwort_2=02	
+Antwort_3=03	
+Antwort_4=01	
+
+[214]
+FZ1=
+FZ2=Wie viele Punkte bekam der Zweite bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=100
+Max=1000
+Antwort_1=16	
+Antwort_2=04	
+Antwort_3=05	
+Antwort_4=03	
+
+[215]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Zehnte bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=300
+Max=2000
+Antwort_1=10	
+Antwort_2=010	
+Antwort_3=01	
+Antwort_4=05	
+
+[216]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Neunte bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=1000000
+Max=0
+Antwort_1=10	
+Antwort_2=02	
+Antwort_3=01	
+Antwort_4=03	
+
+[217]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Achte bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=11	
+Antwort_2=04	
+Antwort_3=02	
+Antwort_4=08	
+
+[218]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Siebte bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=12	
+Antwort_2=07	
+Antwort_3=01	
+Antwort_4=05	
+
+[219]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Sechste bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=13	
+Antwort_2=09	
+Antwort_3=06	
+Antwort_4=01	
+
+[220]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Fünfte bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=14	
+Antwort_2=06	
+Antwort_3=05	
+Antwort_4=02	
+
+[221]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Vierte bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=15	
+Antwort_2=03	
+Antwort_3=04	
+Antwort_4=02	
+
+[222]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Dritte bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=16	
+Antwort_2=04	
+Antwort_3=08	
+Antwort_4=03	
+
+[223]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Zweite bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=18	
+Antwort_2=06	
+Antwort_3=010	
+Antwort_4=04	
+
+[224]
+FZ1=
+FZ2=Wie viele Punkte bekommt der Sieger bei einem Formel - 1 - Rennen
+FZ3=ab der Saison 2003 ?
+Min=1000
+Max=16000
+Antwort_1=110	
+Antwort_2=08	
+Antwort_3=012	
+Antwort_4=06	
+
+[225]
+FZ1=
+FZ2=Welche Regeländerung tritt ab dem 20. Juli 2003 in Kraft ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1völliges Verbot von Traktionskontrolle	und automatischen Getrieben	
+Antwort_2=0der Reifenwechsel darf maximal	20 Sekunden dauern	
+Antwort_3=0völliges Alkoholverbot in der	Boxengasse schon ab dem	Freitagstraining	
+Antwort_4=0die Rennautos starten aus der	Boxengasse	
+
+[226]
+FZ1=
+FZ2=Welche Regeländerung hinsichtlich der Teamorder trat ab Saisonbeginn 2003
+FZ3=in Kraft ?
+Min=1000
+Max=8000
+Antwort_1=1jegliche Form von Teamorder, die den	Ausgang des Rennens beeinflusst, ist	verboten	
+Antwort_2=0jegliche Form von Teamorder, die den	Ausgang des Rennens beeinflusst, ist in	der zweiten Hälfte verboten	
+Antwort_3=0jegliche Form von Teamorder, die den	Ausgang des Rennens beeinflusst, ist in	der letzten Runde verboten	
+Antwort_4=0jegliche Form von Teamorder, die den	Ausgang des Rennens beeinflusst, ist	jedes zweite Rennen verboten	
+
+[227]
+FZ1=
+FZ2=Was dürfen ab der Saison 2003 diejenigen Teams, die in der Zeit zwischen dem
+FZ3=1. März und dem 1. November nicht mehr als insgesamt zehn Tage getestet haben ?
+Min=1000
+Max=16000
+Antwort_1=1zusätzlich an jedem Rennwochenende	freitags von 9 - 11 Uhr auf der	GP - Strecke testen	
+Antwort_2=0mit einer Runde Vorsprung starten	
+Antwort_3=0mit einer halben Runde Vorsprung	starten	
+Antwort_4=0zusätzlich an jedem Rennwochenende	bis zum Sonnenuntergang testen	
+
+[228]
+FZ1=Welche Regeländerung trat ab Saisonbeginn 2003 in Kraft ?
+FZ2=Wie viele schnelle Runden darf jeder Fahrer pro Session beim
+FZ3=Qualifikationdurchgang fahren ?
+Min=8000
+Max=125000
+Antwort_1=1nur eine	
+Antwort_2=0beliebig viele	
+Antwort_3=0zwei bis drei	
+Antwort_4=010	
+
+[229]
+FZ1=
+FZ2=Welche Regeländerung trat ab Saisonbeginn 2003 in Kraft ?
+FZ3=Die beiden Qualifikationsdurchgänge müssen in der Zeit von ... bis ... stattfinden.
+Min=2000
+Max=32000
+Antwort_1=113 - 14 Uhr	
+Antwort_2=0morgens bis abends	
+Antwort_3=010 - 12 Uhr	
+Antwort_4=014 - 18 Uhr	
+
+[230]
+FZ1=
+FZ2=Welche Regeländerung trat ab Saisonbeginn 2003 in Kraft ?
+FZ3=Es gibt jeweils am Freitag und Samstag ... Qualifikationsdurchgänge.
+Min=4000
+Max=64000
+Antwort_1=12	
+Antwort_2=06	
+Antwort_3=04	
+Antwort_4=08	
+
+[231]
+FZ1=
+FZ2=Welche Regeländerung trat ab Saisonbeginn 2003 in Kraft ?
+FZ3=Die FIA stuft das Training am Freitag als ... ein.
+Min=1000
+Max=8000
+Antwort_1=1Privattest	
+Antwort_2=0überflüssig	
+Antwort_3=0Volksfest	
+Antwort_4=0Schützenfest	
+
+[232]
+FZ1=
+FZ2=Welche Regeländerung trat ab Saisonbeginn 2003 in Kraft ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1größere Veränderungen am Auto	zwischen Qualifikation und Rennen	bedürfen einer Sondergenehmigung	
+Antwort_2=0größere Veränderungen am Auto	zwischen Qualifikation und Rennen	sind strikt verboten	
+Antwort_3=0größere Veränderungen am Auto	zwischen Qualifikation und Rennen	sind nun erlaubt	
+Antwort_4=0größere Veränderungen am Auto	zwischen Qualifikation und Rennen	müssen immer vorgenommen werden	
+
+[233]
+FZ1=
+FZ2=Welche Regeländerung trat ab Saisonbeginn 2003 in Kraft ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1völliges Verbot der Übermittlung von	Telemetriedaten von der Box zum Auto	
+Antwort_2=0völliges Verbot der Übermittlung von	Telemetriedaten zur Pressetribüne	
+Antwort_3=0teilweises Verbot der Übermittlung von	Telemetriedaten von der Box zum Auto	
+Antwort_4=0teilweises Verbot der Übermittlung von	Telemetriedaten auf die	Zuschauertribünen	
+
+[234]
+FZ1=
+FZ2=Wie viele Punkte bekam der Zehnte bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=10	
+Antwort_2=02	
+Antwort_3=05	
+Antwort_4=010	
+
+[235]
+FZ1=
+FZ2=Wie viele Punkte bekam der Neunte bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=10	
+Antwort_2=02	
+Antwort_3=01	
+Antwort_4=03	
+
+[236]
+FZ1=
+FZ2=Wie viele Punkte bekam der Achte bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=10	
+Antwort_2=04	
+Antwort_3=02	
+Antwort_4=08	
+
+[237]
+FZ1=
+FZ2=Wie viele Punkte bekam der Siebte bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=2000
+Max=32000
+Antwort_1=10	
+Antwort_2=02	
+Antwort_3=01	
+Antwort_4=03	
+
+[238]
+FZ1=
+FZ2=Wie viele Punkte bekam der Sieger bei einem Formel - 1 - Rennen
+FZ3=bis zur Saison 2003 ?
+Min=0
+Max=500
+Antwort_1=110	
+Antwort_2=06	
+Antwort_3=08	
+Antwort_4=04	
+
+[239]
+FZ1=
+FZ2=Wie viele Punkte werden bei einem Formel - 1 - Rennen vergeben ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=126	
+Antwort_2=016	
+Antwort_3=022	
+Antwort_4=010	
+
+[240]
+FZ1=
+FZ2=Welcher französischer Autohersteller stieg 1994 als Motorenlieferant
+FZ3=in die Formel 1 ein ?
+Min=4000
+Max=64000
+Antwort_1=0Renault	
+Antwort_2=0Matra	
+Antwort_3=0Citroen	
+Antwort_4=1Peugeot	
+
+[241]
+FZ1=
+FZ2=Wie werden seit 1996 Formel - 1 - Rennen gestartet ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1durch Erlöschen der Rotlichter	
+Antwort_2=0durch einen Startschuss	
+Antwort_3=0mit grüner Flagge	
+Antwort_4=0mit grüner Ampel	
+
+[242]
+FZ1=
+FZ2=Welche Startnummer trug Michael Schumacher in der Saison 1996 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11	
+Antwort_2=027	
+Antwort_3=012	
+Antwort_4=03	
+
+[243]
+FZ1=
+FZ2=Welches Material wurde 2001 für den Motorenbau verboten ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Beryllium	
+Antwort_2=0Platin	
+Antwort_3=0Aluminium	
+Antwort_4=0Titan	
+
+[244]
+FZ1=
+FZ2=Wie werden in der Formel 1 Doping - Kontrollen durchgeführt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Urinproben	
+Antwort_2=0Blutproben	
+Antwort_3=0gar nicht	
+Antwort_4=0Pusten in Testgeräte	
+
+[245]
+FZ1=
+FZ2=Wie heißen die Hinweistafeln, die beim Boxenstopp dem Fahrer vors Auto
+FZ3=gehalten werden ?
+Min=2000
+Max=32000
+Antwort_1=1Lollipop	
+Antwort_2=0Hipphopp	
+Antwort_3=0Mollitop	
+Antwort_4=0Rolliflop	
+
+[246]
+FZ1=
+FZ2=Wie viele Lampen sind an der Startampel ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=120	
+Antwort_2=025	
+Antwort_3=016	
+Antwort_4=012	
+
+[247]
+FZ1=
+FZ2=Wie viele Fußpedale hat ein Formel - 1 - Auto ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=12	
+Antwort_2=03	
+Antwort_3=01	
+Antwort_4=04	
+
+[248]
+FZ1=
+FZ2=Wie heißt die feuerfeste Haube, die unter dem Helm getragen wird ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Balaclava	
+Antwort_2=0Bandareika	
+Antwort_3=0Balalaika	
+Antwort_4=0Bratislawa	
+
+[249]
+FZ1=
+FZ2=Wie lange dauert das Qualifikationstraining ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=11 Stunde	
+Antwort_2=015 Runden	
+Antwort_3=030 Minuten	
+Antwort_4=090 Minuten	
+
+[250]
+FZ1=
+FZ2=Seit welchem Jahr werden bei Rennen On - board - Kameras
+FZ3=an den F - 1 - Wagen montiert ?
+Min=4000
+Max=64000
+Antwort_1=11985	
+Antwort_2=01994	
+Antwort_3=01990	
+Antwort_4=02000	
+
+[251]
+FZ1=
+FZ2=Was bedeutet eine gelbe Fahne während des Rennens ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Gefahr und Überholverbot	
+Antwort_2=010 Sekunden Zeitstrafe	
+Antwort_3=0Disqualifikation	
+Antwort_4=0Rennabbruch	
+
+[252]
+FZ1=
+FZ2=Welche Fahne bedeutet Gefahr und Überholverbot während eines Rennens ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1gelbe Fahne	
+Antwort_2=0schwarze Fahne	
+Antwort_3=0rote Fahne	
+Antwort_4=0blaue Fahne	
+
+[253]
+FZ1=
+FZ2=Was sind Slicks ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1profillose Reifen	
+Antwort_2=0Heizdecken für die Reifen	
+Antwort_3=0Regenreifen	
+Antwort_4=0Trainingsreifen	
+
+[254]
+FZ1=
+FZ2=Wie nennt man die profillosen Reifen, die bis 1998 in der Formel 1
+FZ3=verwendet wurden ?
+Min=500
+Max=4000
+Antwort_1=1Slicks	
+Antwort_2=0Sides	
+Antwort_3=0Slimes	
+Antwort_4=0Sticks	
+
+[255]
+FZ1=
+FZ2=Auf welcher Rennstrecke befindet sich die berüchtigte Kurve "Eau Rouge" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Spa - Francorchamps	
+Antwort_2=0Monza	
+Antwort_3=0Magny - Cours	
+Antwort_4=0Monaco	
+
+[256]
+FZ1=
+FZ2=Zu welcher Ortszeit starten Formel - 1 - Rennen in der Regel ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=114 Uhr	
+Antwort_2=016 Uhr	
+Antwort_3=012 Uhr	
+Antwort_4=018 Uhr	
+
+[257]
+FZ1=
+FZ2=Warum werden bei Formel - 1 - Siegen keine Lorbeerkränze mehr verteilt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Die Kränze verdecken die Sponsoren -	Namen.	
+Antwort_2=0Die Kränze welken zu schnell.	
+Antwort_3=0Lorbeer steht unter Naturschutz.	
+Antwort_4=0Die Kränze sind zu schwer.	
+
+[258]
+FZ1=
+FZ2=Welches Formel - 1 - Team hatte in der Saison 2000 ein blau - weißes Auto ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1BMW - Williams	
+Antwort_2=0McLaren Mercedes	
+Antwort_3=0Ferrari	
+Antwort_4=0Renault	
+
+[259]
+FZ1=
+FZ2=Wie hieß der Hockenheimring bevor er nach dem 2. Weltkrieg umbenannt wurde ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Kurpfalzring	
+Antwort_2=0Deutschlandring	
+Antwort_3=0Rhein - Neckar - Ring	
+Antwort_4=0Neckar - Oval	
+
+[260]
+FZ1=
+FZ2=Wie viele Runden durfte ein Fahrer im Qualifying bis zur Saison 2003
+FZ3=maximal fahren ?
+Min=8000
+Max=125000
+Antwort_1=112	
+Antwort_2=015	
+Antwort_3=010	
+Antwort_4=0beliebig viele	
+
+[261]
+FZ1=
+FZ2=Zu welchem Autokonzern gehört Jaguar ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ford	
+Antwort_2=0Honda	
+Antwort_3=0General Motors	
+Antwort_4=0Renault	
+
+[262]
+FZ1=
+FZ2=Welcher Knopf befindet sich nicht an einem modernen Formel - 1 - Lenkrad ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hupe	
+Antwort_2=0Kupplung	
+Antwort_3=0Bremskraftverteiler	
+Antwort_4=0Schaltung	
+
+[263]
+FZ1=
+FZ2=In welcher Zeit war das Nachtanken beim Boxenstopp verboten ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11984 - 1993	
+Antwort_2=01974 - 1980	
+Antwort_3=01994 - 1999	
+Antwort_4=01999 - 2001	
+
+[264]
+FZ1=
+FZ2=Ab wann durfte beim Boxenstopp wieder nachgetankt werden ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11993	
+Antwort_2=01991	
+Antwort_3=01992	
+Antwort_4=01990	
+
+[265]
+FZ1=
+FZ2=Welche Rennfahrerlegende verbirgt sich hinter dem Spitznamen "El Chueco",
+FZ3=der Krummbeinige ?
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Ayrton Senna	
+Antwort_3=0Guiseppe Farina	
+Antwort_4=0Bernd Rosemeier	
+
+[266]
+FZ1=
+FZ2=Mit welchem Treibstoff fahren die Formel - 1 - Autos der Saison 2001 ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Super - plus - Benzin	
+Antwort_2=0Superbenzin	
+Antwort_3=0Methanol	
+Antwort_4=0Diesel	
+
+[267]
+FZ1=
+FZ2=Wo findet das einzige Stadtrennen der Formel - 1 statt ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Monaco	
+Antwort_2=0San Marino	
+Antwort_3=0Liechtenstein	
+Antwort_4=0Luxemburg	
+
+[268]
+FZ1=
+FZ2=Wie viele Zylinder hatte Michael Schumachers Weltmeistermotor von 1994 ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=18	
+Antwort_2=012	
+Antwort_3=010	
+Antwort_4=06	
+
+[269]
+FZ1=
+FZ2=Welches Team wurde 1986 in Benetton umbenannt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Toleman	
+Antwort_2=0Osella	
+Antwort_3=0Renault	
+Antwort_4=0ATS	
+
+[270]
+FZ1=
+FZ2=In welchem Land wurden in einem Jahr (1982) drei Formel - 1 - Rennen
+FZ3=ausgetragen ?
+Min=32000
+Max=250000
+Antwort_1=1USA	
+Antwort_2=0Italien	
+Antwort_3=0Deutschland	
+Antwort_4=0England	
+
+[271]
+FZ1=
+FZ2=Auf wie viel Grad werden die Reifen vor dem Start mittels Heizdecken aufgewärmt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=180 - 90 Grad	
+Antwort_2=060 - 70 Grad	
+Antwort_3=040 - 50 Grad	
+Antwort_4=0100 - 110 Grad	
+
+[272]
+FZ1=
+FZ2=Welche Nation stellt bis 2002 die meisten Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Großbritannien	
+Antwort_2=0Deutschland	
+Antwort_3=0Brasilien	
+Antwort_4=0Frankreich	
+
+[273]
+FZ1=
+FZ2=Welcher Automobilkonzern hält 90% der Anteile von Ferrari ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Fiat	
+Antwort_2=0Toyota	
+Antwort_3=0VW	
+Antwort_4=0BMW	
+
+[274]
+FZ1=
+FZ2=Wie nennt man die italienischen Formel - 1 - Fans ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Tifosi	
+Antwort_2=0Antipasti	
+Antwort_3=0Mafiosi	
+Antwort_4=0Paparazzi	
+
+[275]
+FZ1=
+FZ2=Unter welchem Spitznamen ist Michael Schumacher allgemein bekannt ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Schumi	
+Antwort_2=0Micky	
+Antwort_3=0Michi	
+Antwort_4=0Mischu	
+
+[276]
+FZ1=
+FZ2=Wozu dient die Airbox beim Formel - 1 - Auto ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Motorkühlung	
+Antwort_2=0Sauerstoffvorrat für Notfälle	
+Antwort_3=0Ventilator für den Fahrer	
+Antwort_4=0Datenaufzeichnung für den	Luftwiderstand	
+
+[277]
+FZ1=
+FZ2=Was macht der Pfarrer von Maranello, wenn Ferrari ein Rennen gewonnen hat ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Glocken läuten	
+Antwort_2=0Messe lesen	
+Antwort_3=0Kerze anzünden	
+Antwort_4=0Tauben fliegen lassen	
+
+[278]
+FZ1=
+FZ2=Wo wird die Aerodynamik von Formel - 1 - Rennwagen getestet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Windkanal	
+Antwort_2=0Sturmhalle	
+Antwort_3=0Tornado - Arena	
+Antwort_4=0Luftkissen	
+
+[279]
+FZ1=
+FZ2=Wie werden die McLaren - Mercedes Rennautos auch genannt ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Silberpfeile	
+Antwort_2=0Bronzeflitzer	
+Antwort_3=0Goldspeere	
+Antwort_4=0Platinraser	
+
+[280]
+FZ1=
+FZ2=Welche Formel - 1 - Renner werden auch "Silberpfeile" genannt ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1McLaren - Mercedes	
+Antwort_2=0BAR - Honda	
+Antwort_3=0Ferrari	
+Antwort_4=0BMW - Williams	
+
+[281]
+FZ1=
+FZ2=Welche Fahne zeigt einen Rennabbruch an ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1rote Fahne	
+Antwort_2=0weiße Fahne	
+Antwort_3=0schwarze Fahne	
+Antwort_4=0blaue Fahne	
+
+[282]
+FZ1=
+FZ2=Was bedeutet die rote Fahne während eines Formel - 1 - Rennens ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Rennabbruch	
+Antwort_2=0Überholverbot	
+Antwort_3=0Safety - Car - Phase	
+Antwort_4=0Disqualifikation	
+
+[283]
+FZ1=
+FZ2=Wie schnell darf ein Auto höchstens in der Boxengasse sein ?
+FZ3=(Es gibt aber auch streckenbedingte Ausnahmen.)
+Min=2000
+Max=32000
+Antwort_1=1120 km / h	
+Antwort_2=060 km / h	
+Antwort_3=0100 km / h	
+Antwort_4=080 km / h	
+
+[284]
+FZ1=
+FZ2=Welches Tier ziert das Ferrari - Wappen ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Rappe	
+Antwort_2=0Pony	
+Antwort_3=0Schimmel	
+Antwort_4=0Zebra	
+
+[285]
+FZ1=
+FZ2=Was war der knappste Punktevorsprung, mit dem ein Fahrer
+FZ3=Formel - 1 - Weltmeister  wurde ?
+Min=125000
+Max=250000
+Antwort_1=10,5 Punkte	
+Antwort_2=02 Punkte	
+Antwort_3=01 Punkt	
+Antwort_4=03 Punkte	
+
+[286]
+FZ1=
+FZ2=Wessen Vater war ebenfalls Formel - 1 - Weltmeister ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Damon Hill	
+Antwort_2=0Nigel Mansell	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Jacques Villeneuve	
+
+[287]
+FZ1=
+FZ2=Welche war 2001 mit 6,968 km die längste Formel - 1 - Rennstrecke ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Spa	
+Antwort_2=0Monaco	
+Antwort_3=0Nürburgring	
+Antwort_4=0Montreal	
+
+[288]
+FZ1=
+FZ2=Wie nennt man einen Rennfahrer, der seine erste Saison bestreitet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Rookie	
+Antwort_2=0Groupie	
+Antwort_3=0Premier	
+Antwort_4=0Guppy	
+
+[289]
+FZ1=
+FZ2=In welcher australischen Stadt findet seit 1996 der erste Grand Prix des Jahres statt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Melbourne	
+Antwort_2=0Auckland	
+Antwort_3=0Adelaide	
+Antwort_4=0Sydney	
+
+[290]
+FZ1=
+FZ2=Was ist ein Rollhoop ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Überrollbügel	
+Antwort_2=0schleichender Plattfuß	
+Antwort_3=0F- 1  Transportwagen	
+Antwort_4=0ein Überschlag	
+
+[291]
+FZ1=
+FZ2=Welche Spitzengeschwindigkeiten erreichten die Formel - 1 - Autos
+FZ3=der ersten Stunde 1950 ?
+Min=1000
+Max=16000
+Antwort_1=1bis zu 300 km / h	
+Antwort_2=0150 bis 200 km / h	
+Antwort_3=0unter 100 km / h	
+Antwort_4=0über 350 km / h	
+
+[292]
+FZ1=
+FZ2=Was ist während einer Safety - Car - Phase verboten ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Überholen	
+Antwort_2=0Funkkontakt zum Team	
+Antwort_3=0Reifenwechsel	
+Antwort_4=0Tanken	
+
+[293]
+FZ1=
+FZ2=Wie viele Rillen hatte ein Formel - 1 - Reifen der Saison 2001 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=14	
+Antwort_2=05	
+Antwort_3=03	
+Antwort_4=06	
+
+[294]
+FZ1=
+FZ2=Wie ist der Spitzname von Nick Heidfeld ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Quick Nick	
+Antwort_2=0Pick Nick	
+Antwort_3=0Little Nick	
+Antwort_4=0Punickel	
+
+[295]
+FZ1=
+FZ2=Was ist Dirty Air (schmutzige Luft) in der Rennfahrersprache ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Luftverwirbelungen  vorausfahrender	Fahrzeuge	
+Antwort_2=0Hitzstau beim Boxenstopp	
+Antwort_3=0hochgewirbelte Auspuffgase beim Start	
+Antwort_4=0zu wenig Luft in den Reifen	
+
+[296]
+FZ1=
+FZ2=Wie breit darf ein Formel - 1 - Auto der Saison 2001 maximal sein ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1180 cm	
+Antwort_2=0150 cm	
+Antwort_3=0100 cm	
+Antwort_4=0200 cm	
+
+[297]
+FZ1=
+FZ2=Auf welcher Formel - 1 - Rennstrecke gibt es einen Tunnel ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Monaco	
+Antwort_2=0Monza	
+Antwort_3=0Nürburgring	
+Antwort_4=0Silverstone	
+
+[298]
+FZ1=
+FZ2=Welches Team war 1950 noch nicht in der Formel 1 am Start ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Mercedes	
+Antwort_2=0Maserati	
+Antwort_3=0Alfa Romeo	
+Antwort_4=0Ferrari	
+
+[299]
+FZ1=
+FZ2=Wie nennt man den Boxenstopp im englischen Fachjargon der Formel 1 ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Pit Stop	
+Antwort_2=0Pit Break	
+Antwort_3=0Box Stop	
+Antwort_4=0Box Break	
+
+[300]
+FZ1=
+FZ2=Welcher Fahrer wurde der erste deutsche Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Michael Schumacher	
+Antwort_2=0Manfred Winkelhock	
+Antwort_3=0Jochen Maas	
+Antwort_4=0Karl Lang	
+
+[301]
+FZ1=
+FZ2=Unter welchem Namen nahm ein DDR - Team an einem Formel - 1 - Rennen teil ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1EMW	
+Antwort_2=0Wartburt	
+Antwort_3=0Trabant	
+Antwort_4=0keine Teilnahme	
+
+[302]
+FZ1=
+FZ2=Welcher deutsche Fernsehsender überträgt die Formel 1 Rennen ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1RTL	
+Antwort_2=0ARD	
+Antwort_3=0ZDF	
+Antwort_4=0SAT 1	
+
+[303]
+FZ1=
+FZ2=Wofür steht die Abkürzung HANS in der Formel 1 ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Sicherheitssystem für Fahrer	
+Antwort_2=0Boxengasse	
+Antwort_3=0Spitzname von Michael Schumacher	
+Antwort_4=0Frühstart	
+
+[304]
+FZ1=
+FZ2=In welchem Land wurde nie ein Formel - 1 Rennen ausgetragen ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Finnland	
+Antwort_2=0Österreich	
+Antwort_3=0Schweiz	
+Antwort_4=0Marokko	
+
+[305]
+FZ1=
+FZ2=Wie heißt die stadionartige Kurve auf dem Hockenheimring ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Motodrom	
+Antwort_2=0Monotom	
+Antwort_3=0Monsterdrom	
+Antwort_4=0Motorhome	
+
+[306]
+FZ1=
+FZ2=Wie nennt man die Platzanweiserinnen in der Startaufstellung ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1Grid Girls	
+Antwort_2=0Groupies	
+Antwort_3=0Miss F 1	
+Antwort_4=0Platz Girlie	
+
+[307]
+FZ1=
+FZ2=Wer gilt im Ferrari - Team als das "Superhirn" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Ross Brawn	
+Antwort_2=0Michael Schumacher	
+Antwort_3=0Jean Todt	
+Antwort_4=0Luca Montezemolo	
+
+[308]
+FZ1=
+FZ2=Wie lang ist die durchschnittliche Distanz eines Formel - 1 - Rennens ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1300 km	
+Antwort_2=0400 km	
+Antwort_3=0200 km	
+Antwort_4=0500 km	
+
+[309]
+FZ1=
+FZ2=Mit welchem Auto gewann Juan Manuel Fango 1951 seinen ersten Weltmeistertitel ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Alfa Romeo	
+Antwort_2=0Maserati	
+Antwort_3=0Ferrari	
+Antwort_4=0Mercedes	
+
+[310]
+FZ1=
+FZ2=Welches deutsche Unternehmen war 2000 / 2001 Hauptsponsor von Jordan ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Deutsche Post	
+Antwort_2=0D 2 Mannesmann	
+Antwort_3=0Telekom	
+Antwort_4=0Deutsche Bank	
+
+[311]
+FZ1=
+FZ2=Wie schnell fuhr Keke Rosberg 1984 bei 40° Grad ohne Schatten beim langsamsten
+FZ3=Formel - 1 - Rennen im Durchschnitt ?
+Min=2000
+Max=32000
+Antwort_1=1129 km/h	
+Antwort_2=0164 km/h	
+Antwort_3=085 km/h	
+Antwort_4=0201 km/h	
+
+[312]
+FZ1=
+FZ2=Wo fand das langsamste Rennen der Formel - 1 - Geschichte statt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Dallas	
+Antwort_2=0Zandvoort	
+Antwort_3=0Nürburgring	
+Antwort_4=0Kyalami	
+
+[313]
+FZ1=
+FZ2=Wo hilft die Launch - Control ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1beim Start	
+Antwort_2=0in der Boxengasse	
+Antwort_3=0beim Bremsen	
+Antwort_4=0in den Kurven	
+
+[314]
+FZ1=
+FZ2=Welche Rennstrecke war ursprünglich mit über drei Millionen
+FZ3=Ziegelsteinen ausgelegt ?
+Min=4000
+Max=64000
+Antwort_1=1Indianapolis	
+Antwort_2=0Magny - Cours	
+Antwort_3=0Nürburgring	
+Antwort_4=0Silverstone	
+
+[315]
+FZ1=
+FZ2=Was ist Petronas ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Ölkonzern	
+Antwort_2=0Hersteller von Petroleumlampen	
+Antwort_3=0Autofabrik	
+Antwort_4=0Reifenhersteller	
+
+[316]
+FZ1=
+FZ2=Gab es in der Formel - 1 auch Rennautos mit sechs Rädern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ja, in der Saison 1976 belegte Tyrell	mit	sechsrädrigen Autos sogar Platz drei	
+Antwort_2=0Ja, 1934 mussten alle Formel - 1	Rennwagen zwei Ersatzreifen	mitführen.	
+Antwort_3=0Ja, allerdings waren die zwei	zusätzlichen Stützräder nur im Training	zugelassen.	
+Antwort_4=0nein	
+
+[317]
+FZ1=
+FZ2=Wie alt war Fernado Alonso, als er in der Saison 2001 jüngster Formel - 1 Pilot war ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=119 Jahre	
+Antwort_2=020 Jahre	
+Antwort_3=018 Jahre	
+Antwort_4=021 Jahre	
+
+[318]
+FZ1=
+FZ2=In welchem Team fuhr in der Saison 2001 Fernando Alonso als jüngster Pilot ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Minardi	
+Antwort_2=0Sauber Petronas	
+Antwort_3=0Prost - Acer	
+Antwort_4=0BMW Williams	
+
+[319]
+FZ1=
+FZ2=Welcher Motorenlieferant versorgte 2001 gleich zwei Teams mit Werksmotoren ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Honda	
+Antwort_2=0Ford	
+Antwort_3=0Mercedes	
+Antwort_4=0Asiatech	
+
+[320]
+FZ1=
+FZ2=Welches dieser Teams ist als einziges seit 1950 ununterbrochen
+FZ3=in der Formel - 1 vertreten ?
+Min=1000
+Max=16000
+Antwort_1=1Ferrari	
+Antwort_2=0Williams	
+Antwort_3=0McLaren	
+Antwort_4=0Jordan	
+
+[321]
+FZ1=
+FZ2=Für welches Land fährt Michael Schumacher ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Deutschland	
+Antwort_2=0Schweiz	
+Antwort_3=0Italien	
+Antwort_4=0Österreich	
+
+[322]
+FZ1=
+FZ2=Welche Farbe haben die Formel - 1 - Ferraris ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1rot	
+Antwort_2=0grün	
+Antwort_3=0gelb	
+Antwort_4=0schwarz	
+
+[323]
+FZ1=
+FZ2=Wie viele Radmuttern hat ein Formel - 1 - Rad ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=11	
+Antwort_2=03	
+Antwort_3=02	
+Antwort_4=05	
+
+[324]
+FZ1=
+FZ2=Wo feierte Ralf Schumacher seinen ersten Sieg in einem Formel - 1 - Rennen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Imola	
+Antwort_2=0Monaco	
+Antwort_3=0Monza	
+Antwort_4=0Hockenheim	
+
+[325]
+FZ1=
+FZ2=Wer feierte 2001 in Imola seinen ersten Sieg in einem Formel - 1 - Rennen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Ralf Schumacher	
+Antwort_2=0NIck Heidfeld	
+Antwort_3=0Michael Schumacher	
+Antwort_4=0Hans Harald Frentzen	
+
+[326]
+FZ1=
+FZ2=Wie schwer ist ein Formel - 1 - Helm ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1maximal 1,8 kg	
+Antwort_2=0maximal 3 kg	
+Antwort_3=0maximal 0,9 kg	
+Antwort_4=0maximal 5 kg	
+
+[327]
+FZ1=
+FZ2=Welcher Fahrer ist der erste Formel - 1 - Weltmeister aus Afrika ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Jody Scheckter	
+Antwort_2=0Nelson Mandela	
+Antwort_3=0Dennis Hulme	
+Antwort_4=0Mario Andretti	
+
+[328]
+FZ1=
+FZ2=Wie nennt man die Reifen für halbnasse Pisten, die eine weichere Gummimischung
+FZ3=und gröberes Profil haben ?
+Min=1000
+Max=16000
+Antwort_1=1Intermediates	
+Antwort_2=0Internationale	
+Antwort_3=0Intermezzo	
+Antwort_4=0Interglibbers	
+
+[329]
+FZ1=
+FZ2=Was verbirgt sich hinter dem Begriff Intermediates ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Reifensorte	
+Antwort_2=0Zwischenzeiten	
+Antwort_3=0Boxenstopps	
+Antwort_4=0Rennpausen	
+
+[330]
+FZ1=
+FZ2=Wie nennt man die Schiedsrichter bei einem Formel 1 Rennen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Stewarts	
+Antwort_2=0Detectives	
+Antwort_3=0Race Police	
+Antwort_4=0Watchers	
+
+[331]
+FZ1=
+FZ2=Welcher Formel 1 Fahrer gründete die Zeitschrift "auto motor sport" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Paul Pietsch	
+Antwort_2=0Hans Herrmann	
+Antwort_3=0Karl Kling	
+Antwort_4=0Jochen Rindt	
+
+[332]
+FZ1=
+FZ2=In welchem Land sind seit 1955 Grand Prix gesetzlich verboten ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Schweiz	
+Antwort_2=0Niederlande	
+Antwort_3=0Finnland	
+Antwort_4=0Schweden	
+
+[333]
+FZ1=
+FZ2=Welche Flagge wird geschwenkt, wenn sich ein langsames Fahrzeug
+FZ3=auf der Strecke befindet ?
+Min=1000
+Max=16000
+Antwort_1=1weiße Flagge	
+Antwort_2=0schwarze Flagge	
+Antwort_3=0rote Flagge	
+Antwort_4=0gelbe Flagge	
+
+[334]
+FZ1=
+FZ2=Was bedeutet die weiße Flagge ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1langsames Fahrzeug auf der Strecke	
+Antwort_2=0Öl auf der Fahrbahn	
+Antwort_3=0freie Fahrt	
+Antwort_4=0Rennabbruch	
+
+[335]
+FZ1=
+FZ2=Mit welcher Verkleidung feierte das Ferrari - Team den Weltmeistertitel
+FZ3=im Jahr 2000 ?
+Min=1000
+Max=16000
+Antwort_1=1rote Perücken	
+Antwort_2=0rote Schuhe	
+Antwort_3=0rote Röcke	
+Antwort_4=0rote Hosen	
+
+[336]
+FZ1=
+FZ2=Bei welchem Rennen nimmt Fürst Rainier traditionell die Siegerehrung vor ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Monaco	
+Antwort_2=0Melbourne	
+Antwort_3=0Monza	
+Antwort_4=0Hockenheim	
+
+[337]
+FZ1=
+FZ2=Wer nimmt in Monaco traditionell die Siegerehrung vor ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Fürst Rainier	
+Antwort_2=0Französischer Staatspräsident	
+Antwort_3=0Bürgermeister von Monaco	
+Antwort_4=0Vorsitzender des Automobilclubs von	Monaco	
+
+[338]
+FZ1=
+FZ2=Wie lange darf ein Formel 1 Rennen höchstens dauern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=12 Stunden	
+Antwort_2=03 Stunden	
+Antwort_3=01 Stunde	
+Antwort_4=04 Stunden	
+
+[339]
+FZ1=
+FZ2=Auf welchem Grand - Prix - Kurs kreuzt sich die Strecke ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Suzuka	
+Antwort_2=0Hockenheim	
+Antwort_3=0Melbourne	
+Antwort_4=0Monaco	
+
+[340]
+FZ1=
+FZ2=Welcher Mineralölkonzern beliefert Ferrari mit Benzin ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Shell	
+Antwort_2=0Esso	
+Antwort_3=0Aral	
+Antwort_4=0BP	
+
+[341]
+FZ1=
+FZ2=Welchen Formel 1 Fahrer kennt man unter dem Spitznamen "Rubinho" ?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Rubens Barrichello	
+Antwort_2=0Jarno Trulli	
+Antwort_3=0Michael Schumacher	
+Antwort_4=0Nick Heidfeld	
+
+[342]
+FZ1=
+FZ2=Was bezeichnet das englische Wort "pitlane" ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Boxengasse	
+Antwort_2=0Startaufstellung	
+Antwort_3=0Fahrerlager	
+Antwort_4=0Tankstopp	
+
+[343]
+FZ1=
+FZ2=Welche Rennstrecke ist um eine Pferderennbahn herum gebaut ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Aintree	
+Antwort_2=0Hungaroring	
+Antwort_3=0A 1 Ring	
+Antwort_4=0Hockenheim	
+
+[344]
+FZ1=
+FZ2=Welche Startnummer wird nie vergeben ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=10	
+Antwort_2=010	
+Antwort_3=01	
+Antwort_4=013	
+
+[345]
+FZ1=
+FZ2=Welche Obstsortenbezeichnung stand 2001 auf dem Arrows ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Orange	
+Antwort_2=0Birne	
+Antwort_3=0Apfel	
+Antwort_4=0Kirsche	
+
+[346]
+FZ1=
+FZ2=Wer feierte 2001 in Imola seinen ersten Sieg in einem Formel - 1 - Rennen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Ralf Schumacher	
+Antwort_2=0NIck Heidfeld	
+Antwort_3=0Michael Schumacher	
+Antwort_4=0Heinz - Harald Frentzen	
+
+

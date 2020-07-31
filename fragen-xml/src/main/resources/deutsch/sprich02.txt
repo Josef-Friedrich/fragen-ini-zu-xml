@@ -1,0 +1,280 @@
+[Thema]
+Thema=Sprichwörter
+Fragen=25
+Autor=Lukas Pusl, VS Pemfling, Klasse 4, 10/2001
+
+[1]
+FZ1=
+FZ2=Wer anderen eine Grube gräbt ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=0wird später Grubengräber.
+Antwort_2=1fällt selbst hinein.
+Antwort_3=0hat sonst keine Arbeit.
+Antwort_4=0bekommt Blasen an den Händen.
+
+[2]
+FZ1=
+FZ2=Wie man in den Wald hineinruft ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0so kommt es zurück.
+Antwort_2=0so hört man das Echo.
+Antwort_3=1so schallt es heraus.
+Antwort_4=0so ruft es zurück.
+
+[3]
+FZ1=
+FZ2=Was du nicht willst, das man dir tut, das füge ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0immer anderen zu.
+Antwort_2=0deinem Nachbarn zu.
+Antwort_3=0niemals jemanden zu.
+Antwort_4=1auch keinem anderen zu.
+
+[4]
+FZ1=
+FZ2=Eine Schwalbe ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1macht noch keinen Sommer.
+Antwort_2=0kommt selten allein.
+Antwort_3=0macht noch keinen Schwarm.
+Antwort_4=0fliegt gerne allein.
+
+[5]
+FZ1=
+FZ2=Wer einmal lügt ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0den küsst man nicht.
+Antwort_2=0der lügt auch zweimal.
+Antwort_3=1dem glaubt man nicht.
+Antwort_4=0den mag man nicht.
+
+[6]
+FZ1=
+FZ2=Steter Tropfen höhlt ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0das Eis.
+Antwort_2=0den Fels.
+Antwort_3=1den Stein.
+Antwort_4=0den Kopf.
+
+[7]
+FZ1=
+FZ2=Ein Unglück ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0ist nicht so schlimm.
+Antwort_2=0wirft keinen um.
+Antwort_3=0sieht niemand voraus.
+Antwort_4=1kommt selten allein.
+
+[8]
+FZ1=
+FZ2=Viele Köche ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0versalzen die Suppe.
+Antwort_2=1verderben den Brei.
+Antwort_3=0streiten sich immer.
+Antwort_4=0stehen sich im Weg.
+
+[9]
+FZ1=
+FZ2=Wer den Schaden hat ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0muss ihn bezahlen.
+Antwort_2=0ärgert sich.
+Antwort_3=1braucht für den Spott nicht zu sorgen.
+Antwort_4=0meldet ihn der Versicherung.
+
+[10]
+FZ1=
+FZ2=Man soll den Tag ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0genießen.
+Antwort_2=0sportlich beginnen.
+Antwort_3=0nicht verschlafen.
+Antwort_4=1nicht vor dem Abend loben.
+
+[11]
+FZ1=
+FZ2=Stille Wasser ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0 sind langweilig.
+Antwort_2=0sind ungefährlich.
+Antwort_3=1sind tief.
+Antwort_4=0sind schmutzig.
+
+[12]
+FZ1=
+FZ2=Manchmal sieht man den Wald ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1vor lauter Bäumen nicht.
+Antwort_2=0vor lauter Nebel nicht.
+Antwort_3=0vor lauter Regen nicht.
+Antwort_4=0schon aus der Ferne.
+
+[13]
+FZ1=
+FZ2=Der Apfel ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0hängt am Baum.
+Antwort_2=1fällt nicht weit vom Stamm.
+Antwort_3=0ist gesund.
+Antwort_4=0fällt vom Ast.
+
+[14]
+FZ1=
+FZ2=Wie der Vater ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0so die Kinder.
+Antwort_2=0so die Eltern.
+Antwort_3=0so die Mutter.
+Antwort_4=1so der Sohn.
+
+[15]
+FZ1=
+FZ2=Wenn einer eine Reise tut, ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0sieht er neue Länder.
+Antwort_2=0hat er Urlaub.
+Antwort_3=0kommt er gerne wieder nach Hause.
+Antwort_4=1kann er etwas erzählen.
+
+[16]
+FZ1=
+FZ2=Wenn zwei sich streiten, ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1freut sich der Dritte.
+Antwort_2=0freut sich der Anwalt.
+Antwort_3=0muss jemand den Streit schlichten.
+Antwort_4=0kommt die Polizeit.
+
+[17]
+FZ1=
+FZ2=Wo gehobelt wird, ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0staubt es.
+Antwort_2=1fallen Späne.
+Antwort_3=0ist es laut.
+Antwort_4=0arbeitet der Schreiner.
+
+[18]
+FZ1=
+FZ2=Die Zeit ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1vergeht im Flug.
+Antwort_2=0vergeht viel zu langsam.
+Antwort_3=0ist knapp.
+Antwort_4=0läuft davon.
+
+[19]
+FZ1=
+FZ2=Schuster bleib bei ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0deinen Schuhen.
+Antwort_2=0deiner Arbeit.
+Antwort_3=0deinen Freunden.
+Antwort_4=1deinen Leisten.
+
+[20]
+FZ1=
+FZ2=Wer nicht hören will, ...
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0muss zum Arzt gehen.
+Antwort_2=1muss fühlen.
+Antwort_3=0wird geschimpft.
+Antwort_4=0braucht kein Hörgerät.
+
+[21]
+FZ1=
+FZ2=Einem geschenkten Gaul ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=0schaut man in die Augen.
+Antwort_2=0läuft man nicht nach.
+Antwort_3=1schaut man nicht ins Maul.
+Antwort_4=0kann man nicht trauen.
+
+[22]
+FZ1=
+FZ2=Mit Speck ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0kann man kochen.
+Antwort_2=0fängt man Fliegen.
+Antwort_3=0verfeinert man das Essen.
+Antwort_4=1fängt man Mäuse.
+
+[23]
+FZ1=
+FZ2=Wer suchet, der ...
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0hat etwas verloren.
+Antwort_2=0braucht gute Augen.
+Antwort_3=0muss besser aufpassen.
+Antwort_4=1findet.
+
+[24]
+FZ1=
+FZ2=Reden ist Silber ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=0schreiben ist Gold.
+Antwort_2=1schweigen ist Gold.
+Antwort_3=0lachen ist Gold.
+Antwort_4=0schweigen ist Geld.
+
+[25]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+

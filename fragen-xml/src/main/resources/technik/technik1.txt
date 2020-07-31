@@ -1,0 +1,170 @@
+[Thema]
+Thema       = "Lichtbogenhandschweissen"
+Fragen      = 15
+Autor       = Bernd Egle, 24/04/2001
+
+[1]
+FZ1         = 
+FZ2         = Wofür steht das "E" beim E-Schweissen?
+FZ3         = 
+Min         = 0
+Max         = 100
+Antwort_1   = 1Elektro
+Antwort_2   = 0Eventuell
+Antwort_3   = 0Extra
+Antwort_4   = 0Edelstahl
+
+[2]
+FZ1         = 
+FZ2         = Wie wird die Ablenkung des Lichtbogens bezeichnet?
+FZ3         = 
+Min         = 100
+Max         = 200
+Antwort_1   = 1Blaswirkung
+Antwort_2   = 0Hauchwirkung
+Antwort_3   = 0Hustwirkung
+Antwort_4   = 0Nieswirkung
+
+[3]
+FZ1         = Womit schützt sich der Schweisser
+FZ2         = vor gefährlicher UV-Strahlung?
+FZ3         = 
+Min         = 200
+Max         = 300
+Antwort_1   = 1Schweissschild
+Antwort_2   = 0Schlackehammer
+Antwort_3   = 0Drahtbürste
+Antwort_4   = 0Massekabel
+
+[4]
+FZ1         = Wonach richtet sich die Einstellung
+FZ2         = des Schweissstromes?
+FZ3         = 
+Min         = 300
+Max         = 500
+Antwort_1   = 1Elektrodendicke
+Antwort_2   = 0Elektrodenlänge
+Antwort_3   = 0Elektrodenverbrauch
+Antwort_4   = 0Elektrodenhersteller
+
+[5]
+FZ1         = Pro mm Elektroden-Kerndrahtdurchmesser 
+FZ2         = stellt man etwa welchen Strom ein?
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 140A
+Antwort_2   = 050A
+Antwort_3   = 060A
+Antwort_4   = 030A
+
+[6]
+FZ1         = 
+FZ2         = Welches ist kein Schweissgerät?
+FZ3         = 
+Min         = 1000
+Max         = 2000
+Antwort_1   = 1Umleiter
+Antwort_2   = 0Transformator
+Antwort_3   = 0Gleichrichter
+Antwort_4   = 0Umformer
+
+[7]
+FZ1         = Wenn das Schweissgerät eingeschaltet und angeschlossen 
+FZ2         = ist, aber nicht geschweisst wird, nennt man die Spannung ...?
+FZ3         = 
+Min         = 2000
+Max         = 4000
+Antwort_1   = 1Leerlaufspannung
+Antwort_2   = 0Null-Spannung
+Antwort_3   = 0Niedrigspannung
+Antwort_4   = 0untere Spannung
+
+[8]
+FZ1         = 
+FZ2         = Wofür steht die Elektrodenumhüllung "A" ?
+FZ3         = 
+Min         = 4000
+Max         = 8000
+Antwort_1   = 1sauer
+Antwort_2   = 0basisch
+Antwort_3   = 0rutil
+Antwort_4   = 0cellulose
+
+[9]
+FZ1         = 
+FZ2         = Die Temperatur am Pluspol beträgt beim E-Schweissen etwa ...
+FZ3         = 
+Min         = 8000
+Max         = 16000
+Antwort_1   = 14200 Grad Celsius
+Antwort_2   = 01200 Grad Celsius
+Antwort_3   = 02200 Grad Celsius
+Antwort_4   = 03200 Grad Celsius
+
+[10]
+FZ1         = 
+FZ2         = Was gehört nicht zur Aufgabe der Elektrodenumhüllung?
+FZ3         = 
+Min         = 16000
+Max         = 32000
+Antwort_1   = 1Kurzschlüsse vermeiden
+Antwort_2   = 0Schlacke bilden
+Antwort_3   = 0Lichtbogen stabilisieren
+Antwort_4   = 0Gasglocke bilden
+
+[11]
+FZ1         = Zwei Schweißer brauchen für eine Schweissarbeit 5 Stunden.
+FZ2         = Wie lange bräuchten drei Arbeiter dafür?
+FZ3         = 
+Min         = 32000
+Max         = 64000
+Antwort_1   = 13,3 Stunden
+Antwort_2   = 07,5 Stunden
+Antwort_3   = 02,25 Stunden
+Antwort_4   = 02,5 Stunden
+
+[12]
+FZ1         = Wie groß ist die Leerlaufspannung bei Wechselstrom-Schweissmaschinen
+FZ2         = die unter "erhöhter elektrischer Gefährdung" eingesetzt werden?
+FZ3         = 
+Min         = 64000
+Max         = 125000
+Antwort_1   = 148V
+Antwort_2   = 044V
+Antwort_3   = 042V
+Antwort_4   = 052V
+
+[13]
+FZ1         = 
+FZ2         = Wonach richtet sich die Auswahl der Stabelektrode nicht?
+FZ3         = 
+Min         = 125000
+Max         = 250000
+Antwort_1   = 1Verzug
+Antwort_2   = 0Werkstoff des Bauteils
+Antwort_3   = 0Polung
+Antwort_4   = 0Schweißposition
+
+[14]
+FZ1         = Auf einer Stabelektrode steht die Bezeichnung "EN499-E46 3 1Ni B54 H5".
+FZ2         = Wofür steht die "3"?
+FZ3         = 
+Min         = 250000
+Max         = 500000
+Antwort_1   = 1Kerbschlagarbeit
+Antwort_2   = 0Zugfestigkeit
+Antwort_3   = 0Schweißposition
+Antwort_4   = 0Ausbringung und Stromart
+
+[15]
+FZ1         = 
+FZ2         = Wodurch zeichnet sich der Umhüllungstyp "C" einer Stabelektrode aus?
+FZ3         = 
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1optimal für Fallnaht
+Antwort_2   = 0hohe Kerbschlagfestigkeit
+Antwort_3   = 0große Abschmelzleistung
+Antwort_4   = 0feinschuppige Nähte
+

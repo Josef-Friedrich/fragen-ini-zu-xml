@@ -1,0 +1,566 @@
+[Thema]
+Thema=Der Fuchs und anderes vom Wald
+Fragen=51
+Autor=Erdmuthe Schulze
+
+[1]
+FZ1=In Schnee können wir manchmal die ..................des Fuchses entdecken.
+FZ2=
+FZ3=
+Min=300
+Max=500000
+Antwort_1=1Spur	
+Antwort_2=0Fußabdrücke	
+Antwort_3=0Fährte	
+Antwort_4=0Farbe	
+
+[2]
+FZ1=Der Fuchs gehört zur Tierfamilie der....
+FZ2=
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0Wölfe	
+Antwort_2=0Zootiere	
+Antwort_3=0Haustiere	
+Antwort_4=1Hunde	
+
+[3]
+FZ1=Der Fuchs lebt ursprünglich....
+FZ2=Heute ist erfast überall zu Hause!!!!
+FZ3=
+Min=200
+Max=500000
+Antwort_1=0im Garten	
+Antwort_2=0am Feld	
+Antwort_3=1im Wald	
+Antwort_4=0in der Stadt	
+
+[4]
+FZ1=Wie muss der Lebensraum des Fuchses sein?
+FZ2=
+FZ3=
+Min=300
+Max=250000
+Antwort_1=0freies Feld	
+Antwort_2=0viel Wasser	
+Antwort_3=1deckungsreiches Gelände (Wald)	
+Antwort_4=0in der Nähe einer Schule	
+
+[5]
+FZ1=Wie groß ist sein Revier?
+FZ2=
+FZ3=
+Min=100
+Max=500000
+Antwort_1=11-2 km Durchmesser	
+Antwort_2=0weniger als 1 km Durchmesse	
+Antwort_3=05 km Durchmesser	
+Antwort_4=0so groß wie ein Fußballplatz	
+
+[6]
+FZ1=Wie heißt die Wohnung des Fuchses?
+FZ2=
+FZ3=
+Min=500
+Max=32000
+Antwort_1=0Horst	
+Antwort_2=0Stall	
+Antwort_3=0Nest	
+Antwort_4=1Bau	
+
+[7]
+FZ1=Wann bekommen Fähen (weibliche Füchse)  Junge?
+FZ2=
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1März/April	
+Antwort_2=0April/Mai	
+Antwort_3=0Februar/März	
+Antwort_4=0August/September	
+
+[8]
+FZ1=Wie viele Junge kann eine Fähe bekommen?
+FZ2=
+FZ3=
+Min=2000
+Max=250000
+Antwort_1=01-2	
+Antwort_2=03-7	
+Antwort_3=14-6	
+Antwort_4=07 und mehr	
+
+[9]
+FZ1=Was fressen Füchse nicht?
+FZ2=
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Mäuse	
+Antwort_2=1Heu	
+Antwort_3=0Hasen	
+Antwort_4=0Hühner	
+
+[10]
+FZ1=Wie schwer kann ein Fuchs sein?
+FZ2=
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=17 kg	
+Antwort_2=0100 kg	
+Antwort_3=01 kg	
+Antwort_4=0500g	
+
+[11]
+FZ1=Welche Krankheit wird durch den Fuchs übertragen?
+FZ2=
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Grippe	
+Antwort_2=1Tollwut	
+Antwort_3=0Läuse	
+Antwort_4=0Koliken	
+
+[12]
+FZ1=Wie alt kann ein Fuchs werden?
+FZ2=
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=03 Jahre	
+Antwort_2=050 Jahre	
+Antwort_3=020 Jahre	
+Antwort_4=110 Jahre	
+
+[13]
+FZ1=Wie werden die Füchse heute gegen die Tollwut geimpft?
+FZ2=
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0mit einer Spritze	
+Antwort_2=0mit Diät	
+Antwort_3=1mit Schluckimpfung	
+Antwort_4=0durch ein Kräuterbad	
+
+[14]
+FZ1=Welches Tier wurde durch das Begasen der Fuchsbauten fast ausgerottet?
+FZ2=
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0der Maulwurf	
+Antwort_2=1der Dachs	
+Antwort_3=0der Marder	
+Antwort_4=0der Waschbär	
+
+[15]
+FZ1=Wie lang ist ein Fuchs? (Körper plus Schwanz)
+FZ2=
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=190 cm + 40 cm	
+Antwort_2=090 cm + 90 cm	
+Antwort_3=090 cm + 10 cm	
+Antwort_4=040 cm + 10 cm	
+
+[16]
+FZ1=Wie nennt man es in der Jägersprache, wenn Füchse umherstreifen?
+FZ2=
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0schlendern	
+Antwort_2=0schweifen	
+Antwort_3=0schnurren	
+Antwort_4=1schnüren	
+
+[17]
+FZ1=Wer ist der größte Feind des Fuchses?
+FZ2=
+FZ3=
+Min=200
+Max=200
+Antwort_1=0das Wildschwein	
+Antwort_2=1der Mensch	
+Antwort_3=0der Jäger	
+Antwort_4=0der Förster	
+
+[18]
+FZ1=Wie nennt man weibliche Füchse richtig?
+FZ2=
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0Fährte	
+Antwort_2=0Fuchsmama	
+Antwort_3=1Fähe	
+Antwort_4=0Fuchsfrau	
+
+[19]
+FZ1=Der Fuchs ist ein.......
+FZ2=
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Säugetier	
+Antwort_2=0ein Warmblüter	
+Antwort_3=0Kriechtier	
+Antwort_4=0ein Vogel	
+
+[20]
+FZ1=Der Fuchs kann sehr gut hören und riechen.
+FZ2=Man nennt das.....
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0schnüffeln	
+Antwort_2=1wittern	
+Antwort_3=0wiehern	
+Antwort_4=0winseln	
+
+[21]
+FZ1=Wie nennt man die "Wohnkammer" des Fuchsbaus?
+FZ2=
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Kessel	
+Antwort_2=0Kasten	
+Antwort_3=0Kehle	
+Antwort_4=0Käfig	
+
+[22]
+FZ1=Bei ihrer Geburt sind die Fuchsjungen.....
+FZ2=
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0flügge	
+Antwort_2=0Nestflüchter	
+Antwort_3=0Nesthocker	
+Antwort_4=1blind	
+
+[23]
+FZ1=Wie lange trinken die Fuchsjungen Muttermilch?
+FZ2=
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=01 Jahr	
+Antwort_2=0ein halbes Jahr	
+Antwort_3=14-6 Wochen	
+Antwort_4=0gar nicht, sie fressen gleich Fleisch	
+
+[24]
+FZ1=Was sind die Füchse?
+FZ2=
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Pflanzenfresser	
+Antwort_2=0Widerkäuer	
+Antwort_3=0Körnerfresser	
+Antwort_4=1Fleischfresser	
+
+[25]
+FZ1=Wie ist der Fuchs?
+FZ2=
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1nachtaktiv	
+Antwort_2=0immer aktiv	
+Antwort_3=0tagaktiv	
+Antwort_4=0nie aktiv	
+
+[26]
+FZ1=Wann verlassen die Fuchsjungen die Mutter
+FZ2=und suchen sich ein eigenes Revier?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1nach einem halben Jahr	
+Antwort_2=0nach 1 Monat	
+Antwort_3=0nach einem Jahr	
+Antwort_4=0nie	
+
+[27]
+FZ1=Man nennt den Fuchs auch......
+FZ2=
+FZ3=
+Min=500
+Max=500
+Antwort_1=1"Gesundheitspolizei des Waldes"	
+Antwort_2=0Aufpasser im Wald	
+Antwort_3=0Hilfstruppe	
+Antwort_4=0Waldarbeiter	
+
+[28]
+FZ1=Der Fuchs wurde früher gejagt wegen ......
+FZ2=
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1seines Pelzes	
+Antwort_2=0seiner Augen	
+Antwort_3=0seiner Ohren	
+Antwort_4=0seiner Zähne	
+
+[29]
+FZ1=Ein Verwandter des Rotfuchses ist der
+FZ2=
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0Schwedenfuchs	
+Antwort_2=0Großfuchs	
+Antwort_3=1Polarfuchs	
+Antwort_4=0Weißfuchs	
+
+[30]
+FZ1=Was für Ohren hat der Fuchs?
+FZ2=
+FZ3=
+Min=300
+Max=125000
+Antwort_1=0kleine Ohren	
+Antwort_2=0runde Ohren	
+Antwort_3=0riesige Ohren	
+Antwort_4=1spitze Ohren	
+
+[31]
+FZ1=Welche Form hat der Kopf des Fuchses
+FZ2=
+FZ3=
+Min=2000
+Max=500000
+Antwort_1=1dreieckig	
+Antwort_2=0flach	
+Antwort_3=0rund	
+Antwort_4=0schmal	
+
+[32]
+FZ1=Wie nennt man die Paarungszeit der Füchse?
+FZ2=
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ranzzeit	
+Antwort_2=0Spielzeit	
+Antwort_3=0Suchzeit	
+Antwort_4=0Laufzeit	
+
+[33]
+FZ1=Wie nennt man den Fuchs in einer Fabel?
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Reinecke Fuchs	
+Antwort_2=0Bruder Fuchs	
+Antwort_3=0Gevatter Fuchs	
+Antwort_4=0Meister Fuchs	
+
+[34]
+FZ1=Wie heißt das Sprichwort?
+FZ2=Jemand ist.....
+FZ3=
+Min=200
+Max=2000
+Antwort_1=0alt wie ein Fuchs	
+Antwort_2=0schnell wie ein Fuchs	
+Antwort_3=1schlau wie ein Fuchs	
+Antwort_4=0warm wie ein Fuchs	
+
+[35]
+FZ1=Der Fuchs hat ......
+FZ2=
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0ein großes Gebiss	
+Antwort_2=1ein Raubtiergebiss	
+Antwort_3=0ein breites Gebiss	
+Antwort_4=0Pflanzenfressergebiss	
+
+[36]
+FZ1=Der männliche Fuchs heißt.....
+FZ2=
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0Druide	
+Antwort_2=0Fuchsmann	
+Antwort_3=0einfach Fuchs	
+Antwort_4=1Rüde	
+
+[37]
+FZ1=Wie heißen die Fuchskinder?
+FZ2=
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0Fähe	
+Antwort_2=0Fuchskinder	
+Antwort_3=0Frischlinge	
+Antwort_4=1Welpen	
+
+[38]
+FZ1=Der Fuchs gehört zu ....................................
+FZ2=
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1dem Schalenwild	
+Antwort_2=0den Sohlengängern	
+Antwort_3=0Wild	
+Antwort_4=0Fellträgern	
+
+[39]
+FZ1=
+FZ2=Das Kind vom Reh heißt...........................?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=0Rehkind	
+Antwort_2=0Bambi	
+Antwort_3=0Frischling	
+Antwort_4=1Kitz	
+
+[40]
+FZ1=
+FZ2=Wie nennt man die Fußabdrücke des Hasen?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0Fährte	
+Antwort_2=1Spur	
+Antwort_3=0Abdruck	
+Antwort_4=0Zeichnung	
+
+[41]
+FZ1=
+FZ2=Wie nennt man die Fußabdrücke des Rehes?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0Spur	
+Antwort_2=0Abdruck	
+Antwort_3=1Fährte	
+Antwort_4=0Zeichnung	
+
+[42]
+FZ1=Dieser Baum hat ein glatte Rinde.
+FZ2=
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0Eiche	
+Antwort_2=1Buche	
+Antwort_3=0Fichte	
+Antwort_4=0Birke	
+
+[43]
+FZ1=
+FZ2=Dieser Baum hat weiße Rinde.
+FZ3=
+Min=100
+Max=1000
+Antwort_1=0Fichte	
+Antwort_2=0Buche	
+Antwort_3=0Eiche	
+Antwort_4=1Birke	
+
+[44]
+FZ1=
+FZ2=Welches Tier gehört nicht zum Schwarzwild?
+FZ3=
+Min=500
+Max=500000
+Antwort_1=0Frischling	
+Antwort_2=0Keiler	
+Antwort_3=1Reh	
+Antwort_4=0Bache	
+
+[45]
+FZ1=
+FZ2=Welches Tier gehört nicht zum Rehwild?
+FZ3=
+Min=300
+Max=500000
+Antwort_1=0Ricke	
+Antwort_2=1Bache	
+Antwort_3=0Kitz	
+Antwort_4=0Bock	
+
+[46]
+FZ1=
+FZ2=Welcher Baum hat ganz rauhe Rinde?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0Birke	
+Antwort_2=0Buche	
+Antwort_3=1Eiche	
+Antwort_4=0Lärche	
+
+[47]
+FZ1=
+FZ2=Welcher Baum verliert seine Nadeln im Winter?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Lärche	
+Antwort_2=0Fichte	
+Antwort_3=0Tanne	
+Antwort_4=0Kiefer	
+
+[48]
+FZ1=
+FZ2=Die häufigsten Nadelbäume bei uns sind die .......?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=0Tannen	
+Antwort_2=1Fichten	
+Antwort_3=0Lärchen	
+Antwort_4=0Kiefern	
+
+[49]
+FZ1=
+FZ2=Wie heißt das männliche Wildschwein?
+FZ3=
+Min=100
+Max=64000
+Antwort_1=0Bock	
+Antwort_2=0Rüde	
+Antwort_3=0Wildschwein	
+Antwort_4=1Keiler	
+
+[50]
+FZ1=Wie heißt das weibliche Reh?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Zicke	
+Antwort_2=0Reh	
+Antwort_3=1Ricke	
+Antwort_4=0Kitz	
+
+[51]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+

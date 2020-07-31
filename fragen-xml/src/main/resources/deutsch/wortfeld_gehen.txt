@@ -1,0 +1,225 @@
+[Thema]
+Thema=Wortfeld "gehen"
+Fragen=20
+Autor=Alfred Bergkemper, 9/2001
+
+[1]
+FZ1=
+FZ2=Der Feuerwehrwagen ___________ mit hoher Geschwindigkeit an mir vorbei.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0fuhr
+Antwort_2=1raste
+Antwort_3=0rollte
+Antwort_4=0schlich
+
+[2]
+FZ1=
+FZ2=Vorsichtig __________ der Einbrecher über die Gartenmauer.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0rannte
+Antwort_2=1kletterte
+Antwort_3=0trippelte
+Antwort_4=0raste
+
+[3]
+FZ1=
+FZ2=Mit einem Riesensatz _________ das Pferd über das Hindernis.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1sprang
+Antwort_2=0trödelte
+Antwort_3=0rannte
+Antwort_4=0hüpfte
+
+[4]
+FZ1=
+FZ2=Auf dem Tisch _____________ ein Maikäfer herum.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1krabbelte
+Antwort_2=0sauste
+Antwort_3=0spazierte
+Antwort_4=0marschierte
+
+[5]
+FZ1=
+FZ2=Schnell __________ die Kinder nach der Schule zum Bus.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1sausten
+Antwort_2=0spazierten
+Antwort_3=0fuhren
+Antwort_4=0kletterten
+
+[6]
+FZ1=
+FZ2=Heimlich __________ Yasemin nach dem Kino in ihr Zimmer.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1schlich
+Antwort_2=0ging
+Antwort_3=0marschierte
+Antwort_4=0rannte
+
+[7]
+FZ1=
+FZ2=Jessica __________ gemütlich über den Schulhof.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1schlenderte
+Antwort_2=0rannte
+Antwort_3=0stürmte
+Antwort_4=0trippelte
+
+[8]
+FZ1=
+FZ2=Gestern __________ Martin auf dem Schulweg und kam zu spät.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1trödelte
+Antwort_2=0stürmte
+Antwort_3=0rannte
+Antwort_4=0raste
+
+[9]
+FZ1=
+FZ2=Montags __________ die Schützen zur Vogelstange.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1marschieren
+Antwort_2=0schleichen
+Antwort_3=0rennen
+Antwort_4=0klettern
+
+[10]
+FZ1=
+FZ2=Vorsichtig __________ Frau Meier mit ihren Stöckelschuhen über die Straße.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1trippelte
+Antwort_2=0rannte
+Antwort_3=0marschierte
+Antwort_4=0schlenderte
+
+[11]
+FZ1=
+FZ2=Nach dem Abendessen __________ die Eltern noch ein wenig durch das Viertel.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1bummelten
+Antwort_2=0rannten
+Antwort_3=0schlichen
+Antwort_4=0kletterten
+
+[12]
+FZ1=
+FZ2=Stolz __________ der Hahn auf dem Hühnerhof herum.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1spazierte
+Antwort_2=0rannte
+Antwort_3=0zockelte
+Antwort_4=0schlich
+
+[13]
+FZ1=
+FZ2=Mit dem tollen Zeugnis in der Hand __________ Heike ins Wohnzimmer.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1stürmte
+Antwort_2=0ging
+Antwort_3=0schlich
+Antwort_4=0trödelte
+
+[14]
+FZ1=
+FZ2=Nach dem schmerzhaften Sturz vom Rad __________ Martin nach Hause.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1humpelte
+Antwort_2=0marschierte
+Antwort_3=0rannte
+Antwort_4=0raste
+
+[15]
+FZ1=
+FZ2=Mit letzter Kraft __________ der Verletzte aus dem Auto.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1schleppte sich
+Antwort_2=0schlich
+Antwort_3=0spazierte
+Antwort_4=0stieg
+
+[16]
+FZ1=
+FZ2=Vorsichtig __________ Herr Koch die Kellertreppe hinab.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1stieg
+Antwort_2=0stürmte
+Antwort_3=0rannte
+Antwort_4=0hüpfte
+
+[17]
+FZ1=
+FZ2=Arm in Arm mit ihrem Freund __________ Anke über die Kirmes.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1bummelte
+Antwort_2=0rannte
+Antwort_3=0schlich
+Antwort_4=0sauste
+
+[18]
+FZ1=
+FZ2=Im Sommer __________ Herr Maier jedes Wochende durchs Sauerland.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1wandert
+Antwort_2=0schleicht
+Antwort_3=0trippelt
+Antwort_4=0klettert
+
+[19]
+FZ1=
+FZ2=Julia __________ ahnungslos in die Falle, die Georg ihr gestellt hatte.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1tappte
+Antwort_2=0ging
+Antwort_3=0marschierte
+Antwort_4=0spazierte
+
+[20]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+

@@ -1,0 +1,2238 @@
+[Thema]
+Thema=Nordrhein - Westfalen
+Fragen=203
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie heißt die Tropfsteinhöhle im Stadtgebiet von Iserlohn ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Dechenhöhle
+Antwort_2=0Kluterthöhle
+Antwort_3=0Attahöhle
+Antwort_4=0Dragonhöhle
+
+[2]
+FZ1=
+FZ2=
+FZ3=Wie viel der Fläche werden für die Landwirtschaft genutzt ?
+Min=500000
+Max=500000
+Antwort_1=153 %
+Antwort_2=035 %
+Antwort_3=072 %
+Antwort_4=022 %
+
+[3]
+FZ1=
+FZ2=Nordrhein - Westfalen ist größer als welches europäische Land ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Belgien
+Antwort_2=0Schweiz
+Antwort_3=0Österreich
+Antwort_4=0Dänemark
+
+[4]
+FZ1=
+FZ2=Wo trifft der Dortmund-Ems-Kanal mit dem Rhein-Herne-Kanal zusammen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Waltrop
+Antwort_2=0Werne
+Antwort_3=0Finnentrop
+Antwort_4=0Kleve
+
+[5]
+FZ1=
+FZ2=Welche Bezeichnung hat die Bundesstraße 1 als Autobahn ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1A 40
+Antwort_2=0A 100
+Antwort_3=0A 1
+Antwort_4=0A 20
+
+[6]
+FZ1=
+FZ2=Welche Autobahn führt von Castrop - Rauxel nach Oberhausen ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1A 42
+Antwort_2=0A 44
+Antwort_3=0A 43
+Antwort_4=0A 40
+
+[7]
+FZ1=
+FZ2=Welche Autobahn führt von Wuppertal nach Köln ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1A 1
+Antwort_2=0A 3
+Antwort_3=0A 2
+Antwort_4=0A 4
+
+[8]
+FZ1=
+FZ2=Welche Autobahn führt von Dortmund nach Lüdenscheid ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1A 45
+Antwort_2=0A 46
+Antwort_3=0A 44
+Antwort_4=0A 47
+
+[9]
+FZ1=
+FZ2=Welche Autobahn führt von Dortmund nach Soest ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1A 44
+Antwort_2=0A 42
+Antwort_3=0A 45
+Antwort_4=0A 43
+
+[10]
+FZ1=
+FZ2=Wo befindet sich der Freizeitpark  "Movie World" ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Bottrop - Kirchhellen
+Antwort_2=0Wipperfürth
+Antwort_3=0Marienmünster
+Antwort_4=0Kamp - Lintfort
+
+[11]
+FZ1=
+FZ2=Wo finden seit 1955 jährlich die Internationalen Kurzfilmtage statt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Oberhausen
+Antwort_2=0Solingen
+Antwort_3=0Mülheim
+Antwort_4=0Lennestadt
+
+[12]
+FZ1=
+FZ2=Wie heißt der westlicher Ausläufer der Haar am östlichen Rand des Ruhrgebiets ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Ardey
+Antwort_2=0Oeney
+Antwort_3=0Widey
+Antwort_4=0Baldeney
+
+[13]
+FZ1=
+FZ2=Wie lang ist der Harkortsee ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=15 km
+Antwort_2=012 km
+Antwort_3=02 km
+Antwort_4=023 km
+
+[14]
+FZ1=
+FZ2=Bei welcher Stadt  wurde die Ruhr zum Harkortsee gestaut ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Wetter
+Antwort_2=0Wengern
+Antwort_3=0Witten
+Antwort_4=0Wickede
+
+[15]
+FZ1=
+FZ2=Wo steht das Schiffshebewerk, das  1965 stillgelegt wurde und das ein Teil  des
+FZ3=Westfälischen Industriemuseums ist ?
+Min=64000
+Max=250000
+Antwort_1=1Henrichenburg
+Antwort_2=0Senden
+Antwort_3=0Bergkamen
+Antwort_4=0Seppenrade
+
+[16]
+FZ1=
+FZ2=In welcher Stadt gibt es ein Nadelmuseum ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Iserlohn
+Antwort_2=0Hattingen
+Antwort_3=0Gütersloh
+Antwort_4=0Remscheid
+
+[17]
+FZ1=
+FZ2=Wie heißt die Stadt ?   Pader ...
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1born
+Antwort_2=0lohn
+Antwort_3=0scheid
+Antwort_4=0berg
+
+[18]
+FZ1=
+FZ2=Welche Stadt hat eine Fernuniversität ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Hagen
+Antwort_2=0Köln
+Antwort_3=0Bochum
+Antwort_4=0Lünen
+
+[19]
+FZ1=
+FZ2=In welcher Stadt befindet sich die Ruhruniversität ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Bochum
+Antwort_2=0Esen
+Antwort_3=0Dortmund
+Antwort_4=0Duisburg
+
+[20]
+FZ1=
+FZ2=In welcher Stadt findet die Bootsmesse statt ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Düsseldorf
+Antwort_2=0Krefeld
+Antwort_3=0Bonn
+Antwort_4=0Duisburg
+
+[21]
+FZ1=Das Ruhrpark - Einkaufszentrum ist das größte Einkaufszentrum in Europa.
+FZ2=In welcher Stadt steht es ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Bochum
+Antwort_2=0Bielefeld
+Antwort_3=0Oberhausen
+Antwort_4=0Köln
+
+[22]
+FZ1=
+FZ2=In welcher Stadt gibt es den Ruhrzoo ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Gelsenkirchen
+Antwort_2=0Wuppertal
+Antwort_3=0Dortmund
+Antwort_4=0Essen
+
+[23]
+FZ1=
+FZ2=In welcher Stadt befindet sich der größte Flughafen ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Düsseldorf
+Antwort_2=0Dortmund
+Antwort_3=0Münster
+Antwort_4=0Köln
+
+[24]
+FZ1=
+FZ2=In welcher Stadt steht das Funkhaus des Westdeutschen Rundfunks ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Köln
+Antwort_2=0Bonn
+Antwort_3=0Düsseldorf
+Antwort_4=0Aachen
+
+[25]
+FZ1=
+FZ2=Welches Denkmal steht im Teutoburger Wald ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Hermannsdenkmal
+Antwort_2=0Karlsdenkmal
+Antwort_3=0Ottodenkmal
+Antwort_4=0Kaiserdenkmal
+
+[26]
+FZ1=
+FZ2=Wo steht das Hermannsdenkmal ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Teutoburger Wald
+Antwort_2=0Zitterwald
+Antwort_3=0Arnsberger Wald
+Antwort_4=0Hohe Mark
+
+[27]
+FZ1=
+FZ2=In der Nähe welcher Stadt wurde Wilhelm Busch geboren ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Minden
+Antwort_2=0Siegen
+Antwort_3=0Münster
+Antwort_4=0Lippstadt
+
+[28]
+FZ1=
+FZ2=In der Nähe welcher Stadt liegt die Westfälische Windmühlenstraße ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Minden
+Antwort_2=0Lünen
+Antwort_3=0Hagen
+Antwort_4=0Leverkusen
+
+[29]
+FZ1=
+FZ2=In welcher Stadt gibt es einen Safari - Park ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Bielefeld
+Antwort_2=0Bocholt
+Antwort_3=0Eschweiler
+Antwort_4=0Moers
+
+[30]
+FZ1=
+FZ2=In welcher Stadt hat einer der weltgrößten Buchkonzerne seinen Hauptsitz ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Gütersloh
+Antwort_2=0Steinfurt
+Antwort_3=0Mönchengladbach
+Antwort_4=0Iserlohn
+
+[31]
+FZ1=
+FZ2=Welcher Ort ist bekannt für seine Reitturniere ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Warendorf
+Antwort_2=0Elsdorf
+Antwort_3=0Coesfeld
+Antwort_4=0Havixbeck
+
+[32]
+FZ1=
+FZ2=In welcher Stadt steht die Burg, in der 1912
+FZ3=die erste Jugendherberge errichtet wurde ?
+Min=32000
+Max=125000
+Antwort_1=1Altena
+Antwort_2=0Hattingen
+Antwort_3=0Hohenlimburg
+Antwort_4=0Wetter
+
+[33]
+FZ1=
+FZ2=Welche Stadt ist für seine Messer- und Scherenindustrie bekannt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Solingen
+Antwort_2=0Raesfeld
+Antwort_3=0Gütersloh
+Antwort_4=0Lüdenscheid
+
+[34]
+FZ1=
+FZ2=Welche Stadt ist für seine Bierbrauereien bekannt ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Dortmund
+Antwort_2=0Münster
+Antwort_3=0Gelsenkirchen
+Antwort_4=0Krefeld
+
+[35]
+FZ1=
+FZ2=Welche Stadt gibt es tatsächlich in Nordrhein - Westfalen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Essen
+Antwort_2=0Schlafen
+Antwort_3=0Trinken
+Antwort_4=0Saufen
+
+[36]
+FZ1=
+FZ2=In welcher Stadt steht ein berühmtes Planetarium ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Bochum
+Antwort_2=0Essen
+Antwort_3=0Dortmund
+Antwort_4=0Köln
+
+[37]
+FZ1=
+FZ2=Außer in der südfranzösischen Camarque gibt es in Europa
+FZ3=nur noch Wildpferde  ... ?
+Min=250000
+Max=500000
+Antwort_1=1im Merfelder Bruch
+Antwort_2=0im Arnsberger Wald
+Antwort_3=0in der Soester Boerde
+Antwort_4=0in Hamminkeln
+
+[38]
+FZ1=
+FZ2=Außer in der südfranzösischen Camarque gibt es in Europa
+FZ3=nur noch Wildpferde in der Nähe von ... ?
+Min=250000
+Max=500000
+Antwort_1=1Dülmen
+Antwort_2=0Höxter
+Antwort_3=0Detmold
+Antwort_4=0Duisburg
+
+[39]
+FZ1=
+FZ2=In welcher Stadt befinden sich viele Betriebe der Textilindustrie ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Mönchengladbach
+Antwort_2=0Wipperfürth
+Antwort_3=0Lüdenscheid
+Antwort_4=0Rheine
+
+[40]
+FZ1=
+FZ2=Welche Forschungsanlage steht in Jülich ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Atomforschungsanlage
+Antwort_2=0Tierforschungsanlage
+Antwort_3=0Medizinforschungsanlage
+Antwort_4=0Chemieforschungsanlage
+
+[41]
+FZ1=
+FZ2=In welcher Stadt steht eine Atomforschungsanlage ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Jülich
+Antwort_2=0Gevelsberg
+Antwort_3=0Aachen
+Antwort_4=0Hamm
+
+[42]
+FZ1=
+FZ2=Welche Talsperre ist die größte Talsperre in Nordrhein - Westfalen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Rurtalsperre
+Antwort_2=0Biggestausee
+Antwort_3=0Möhnetalsperre
+Antwort_4=0Aggertalsperre
+
+[43]
+FZ1=
+FZ2=Welcher berühmte Komponist wurde in Bonn geboren ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Beethoven
+Antwort_2=0Bach
+Antwort_3=0Mozart
+Antwort_4=0Brahms
+
+[44]
+FZ1=
+FZ2=In welcher Stadt wurde Ludwig van Beethoven geboren ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bonn
+Antwort_2=0Arnsberg
+Antwort_3=0Witten
+Antwort_4=0Minden
+
+[45]
+FZ1=
+FZ2=Welche Stadt war früher die Hauptstadt der Bundesrepublik Deutschland ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Bonn
+Antwort_2=0Düsseldorf
+Antwort_3=0Köln
+Antwort_4=0Dortmund
+
+[46]
+FZ1=
+FZ2=Welche Stadt ist weltberühmt für ihren Karneval ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Köln
+Antwort_2=0Bonn
+Antwort_3=0Leverkusen
+Antwort_4=0Dortmund
+
+[47]
+FZ1=
+FZ2=Welche Autobahn führt von Wuppertal nach Münster ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1A 43
+Antwort_2=0A 44
+Antwort_3=0A 45
+Antwort_4=0A 42
+
+[48]
+FZ1=
+FZ2=Wo befinden sich die Baumberge ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Münsterland
+Antwort_2=0Eifel
+Antwort_3=0sauerland
+Antwort_4=0Niederrhein
+
+[49]
+FZ1=
+FZ2=Welche Farbe hat die Blume im Wappen von Nordrhein - Westfalen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1rot - gelb
+Antwort_2=0rot - grün
+Antwort_3=0rot - weiß
+Antwort_4=0gelb - weiß
+
+[50]
+FZ1=
+FZ2=Welche Blume befindet sich im Wappen von Nordrhein - Westfalen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Rose
+Antwort_2=0Lilie
+Antwort_3=0Nelke
+Antwort_4=0Aster
+
+[51]
+FZ1=
+FZ2=Was befindet sich unten in der Mitte des Wappens von Nordrhein - Westfalen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1eine Blume
+Antwort_2=0ein Quadrat
+Antwort_3=0ein Stern
+Antwort_4=0ein Kreis
+
+[52]
+FZ1=
+FZ2=Welcher Kanal fließt  n i c h t  durch Nordrhein - Westfalen ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Main - Donau - Kanal
+Antwort_2=0Dortmund - Ems - Kanal
+Antwort_3=0Rhein - Herne - Kanal
+Antwort_4=0Wesel - Datteln - Kanal
+
+[53]
+FZ1=
+FZ2=Wo liegt das Eggegebirge ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1im Osten
+Antwort_2=0im Süden
+Antwort_3=0im Westen
+Antwort_4=0im Norden
+
+[54]
+FZ1=
+FZ2=Wo liegt das Sauerland ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1im Südosten
+Antwort_2=0im Nordosten
+Antwort_3=0im Südwesten
+Antwort_4=0im Nordwesten
+
+[55]
+FZ1=
+FZ2=Wo liegt das Münsterland ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1im Norden
+Antwort_2=0im Westen
+Antwort_3=0im Süden
+Antwort_4=0im Osten
+
+[56]
+FZ1=
+FZ2=Wo liegt die Eifel ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1im Südwesten
+Antwort_2=0im Nordwesten
+Antwort_3=0im Südosten
+Antwort_4=0im Nordosten
+
+[57]
+FZ1=
+FZ2=Was ist  e i n  Landesteil von Nordrhein - Westfalen ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Lippe
+Antwort_2=0Nase
+Antwort_3=0Auge
+Antwort_4=0Ohr
+
+[58]
+FZ1=
+FZ2=Was ist  k e i n  Regierungsbezirk von Nordrhein - Westfalen ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Kleve
+Antwort_2=0Düsseldorf
+Antwort_3=0Köln
+Antwort_4=0Arnsberg
+
+[59]
+FZ1=
+FZ2=Was ist  k e i n  Regierungsbezirk von Nordrhein - Westfalen ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Düren
+Antwort_2=0Arnsberg
+Antwort_3=0Detmold
+Antwort_4=0Münster
+
+[60]
+FZ1=
+FZ2=Wie viele Regierungsbezirke gibt es in Nordrhein - Westfalen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=15
+Antwort_2=06
+Antwort_3=04
+Antwort_4=07
+
+[61]
+FZ1=
+FZ2=Welche Farbe hat die r e c h t e  Hälfte des Wappens von Nordrhein - Westfalen ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1rot - weiß
+Antwort_2=0blau - weiß
+Antwort_3=0grün - weiß
+Antwort_4=0rot - grün
+
+[62]
+FZ1=
+FZ2=Welche Farbe hat die  l in k e  Hälfte des Wappens von Nordrhein - Westfalen ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1grün - weiß
+Antwort_2=0blau - weiß
+Antwort_3=0rot - weiß
+Antwort_4=0grün - rot
+
+[63]
+FZ1=
+FZ2=Welche Farbe hat das Pferd auf Nordrhein - Westfalens Wappen ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1weiß
+Antwort_2=0schwarz
+Antwort_3=0braun
+Antwort_4=0Auf dem Wappen ist kein Pferd.
+
+[64]
+FZ1=
+FZ2=Wie viele Einwohner hat Essen ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1ca. 606.000
+Antwort_2=0ca. 523.000
+Antwort_3=0ca. 785.000
+Antwort_4=0ca. 409.000
+
+[65]
+FZ1=
+FZ2=Wie viele Einwohner hat Dortmund ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1ca. 593.000
+Antwort_2=0ca. 412.000
+Antwort_3=0ca. 805.000
+Antwort_4=0ca. 347.000
+
+[66]
+FZ1=
+FZ2=Wie viele Einwohner hat Bochum ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1ca. 382.00
+Antwort_2=0ca. 155.000
+Antwort_3=0ca. 489.00
+Antwort_4=0ca. 699.000
+
+[67]
+FZ1=
+FZ2=Wie viele Einwohner hat Düsseldorf ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1ca. 570.000
+Antwort_2=0ca. 235.000
+Antwort_3=0ca. 903.000
+Antwort_4=0ca. 812.000
+
+[68]
+FZ1=
+FZ2=Wie viele Einwohner hat Köln ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1ca. 965.000
+Antwort_2=0ca. 734.000
+Antwort_3=0ca. 1.029.000
+Antwort_4=0ca. 569.000
+
+[69]
+FZ1=
+FZ2=Welche Stadt gehört  n i c h t  zu den
+FZ3=drei Städten mit den meisten Einwohnern ?
+Min=64000
+Max=500000
+Antwort_1=1Düsseldorf
+Antwort_2=0Essen
+Antwort_3=0Dortmund
+Antwort_4=0Köln
+
+[70]
+FZ1=
+FZ2=Welche Stadt in Nordrhein - Westfalen hat die meisten Einwohner ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Köln
+Antwort_2=0Dortmund
+Antwort_3=0Essen
+Antwort_4=0Düsseldorf
+
+[71]
+FZ1=
+FZ2=Wie viele Dörfer (Gemeinden mit weniger als 5.000 Einwohnern)
+FZ3=gibt es in Nordrhein- Westfalen ?
+Min=32000
+Max=125000
+Antwort_1=13
+Antwort_2=026
+Antwort_3=012
+Antwort_4=048
+
+[72]
+FZ1=
+FZ2=In welcher Stadt haben die Autos das Kennzeichen BO - ... ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Bochum
+Antwort_2=0Bonn
+Antwort_3=0Bocholt
+Antwort_4=0Borken
+
+[73]
+FZ1=
+FZ2=Welche Stadt liegt am Baldeneysee ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Essen
+Antwort_2=0Paderborn
+Antwort_3=0Dortmund
+Antwort_4=0Bocholt
+
+[74]
+FZ1=
+FZ2=Welcher Fluss fließt durch den Baldeneysee ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1Ruhr
+Antwort_2=0Erft
+Antwort_3=0Sieg
+Antwort_4=0Ems
+
+[75]
+FZ1=
+FZ2=Welcher Fluss fließt durch den Kemnader See ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Ruhr
+Antwort_2=0Lippe
+Antwort_3=0Volme
+Antwort_4=0Agger
+
+[76]
+FZ1=
+FZ2=Durch welchen See fließt die Ruhr  n i c h t  ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Biggestausee
+Antwort_2=0Harkortsee
+Antwort_3=0Baldeneysee
+Antwort_4=0Kemnadersee
+
+[77]
+FZ1=
+FZ2=Wie heißt die Stadt ?  Castrop - ...
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Rauxel
+Antwort_2=0Wauxel
+Antwort_3=0Bauxel
+Antwort_4=0Sauxel
+
+[78]
+FZ1=
+FZ2=Welche Abkürzung steht für Nordrhein - Westfalen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1N R W
+Antwort_2=0N W F
+Antwort_3=0N O W
+Antwort_4=0N R F
+
+[79]
+FZ1=
+FZ2=Wie viele Einwohner hat Nordrhein - Westfalen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1ca. 18 Millionen
+Antwort_2=0ca. 26 Millionen
+Antwort_3=0ca. 10 Millionen
+Antwort_4=0ca. 5 Millionen
+
+[80]
+FZ1=
+FZ2=Wie heißt das größte, zusammenhängende Waldgebiet in Nordrhein - Westfalen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Arnsberger Wald
+Antwort_2=0Teutoburger Wald
+Antwort_3=0Bömmer Wald
+Antwort_4=0Knüllwald
+
+[81]
+FZ1=
+FZ2=In welchen Fluss mündet die Erft ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Rhein
+Antwort_2=0Lippe
+Antwort_3=0Ruhr
+Antwort_4=0Wupper
+
+[82]
+FZ1=
+FZ2=In welchen Fluss mündet die Agger ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Sieg
+Antwort_2=0Urft
+Antwort_3=0Ruhr
+Antwort_4=0Dinkel
+
+[83]
+FZ1=
+FZ2=Wo liegt Heinsberg ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1im Westen
+Antwort_2=0im Süden
+Antwort_3=0im Osten
+Antwort_4=0im Norden
+
+[84]
+FZ1=
+FZ2=Wo liegt Ibbenbüren ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1im Norden
+Antwort_2=0im Westen
+Antwort_3=0im Osten
+Antwort_4=0im Süden
+
+[85]
+FZ1=
+FZ2=Wo liegt Höxter ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1im Osten
+Antwort_2=0im Norden
+Antwort_3=0im Westen
+Antwort_4=0im Süden
+
+[86]
+FZ1=
+FZ2=Wo liegt Brilon ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1im Osten
+Antwort_2=0im Norden
+Antwort_3=0im Westen
+Antwort_4=0im Süden
+
+[87]
+FZ1=
+FZ2=Wo liegt Monschau ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1im Südwesten
+Antwort_2=0im Nordwesten
+Antwort_3=0im Südosten
+Antwort_4=0im Nordosten
+
+[88]
+FZ1=
+FZ2=Welcher Fluss fließt durch Schmallenberg ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Lenne
+Antwort_2=0Niers
+Antwort_3=0Volme
+Antwort_4=0Sieg
+
+[89]
+FZ1=
+FZ2=Welcher Fluss fließt durch Warendorf ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Ems
+Antwort_2=0Rhein
+Antwort_3=0Weser
+Antwort_4=0Ruhr
+
+[90]
+FZ1=
+FZ2=Welcher Fluss fließt durch Coesfeld ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Berkel
+Antwort_2=0Volme
+Antwort_3=0Agger
+Antwort_4=0Alme
+
+[91]
+FZ1=
+FZ2=In welche Richtung fließt die Lenne ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Norden
+Antwort_2=0Osten
+Antwort_3=0Süden
+Antwort_4=0Westen
+
+[92]
+FZ1=
+FZ2=In welche Richtung fließt die Ems ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Norden
+Antwort_2=0Osten
+Antwort_3=0Süden
+Antwort_4=0Westen
+
+[93]
+FZ1=
+FZ2=In welche Richtung fließt die Diemel ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Osten
+Antwort_2=0Norden
+Antwort_3=0Westen
+Antwort_4=0Süden
+
+[94]
+FZ1=
+FZ2=In welche Richtung fließt die Lippe ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Westen
+Antwort_2=0Norden
+Antwort_3=0Osten
+Antwort_4=0Süden
+
+[95]
+FZ1=
+FZ2=In welche Richtung fließt die Ruhr ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Westen
+Antwort_2=0Norden
+Antwort_3=0Osten
+Antwort_4=0Süden
+
+[96]
+FZ1=
+FZ2=In welche Richtung fließt der Rhein ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Norden
+Antwort_2=0Osten
+Antwort_3=0Süden
+Antwort_4=0Westen
+
+[97]
+FZ1=
+FZ2=Welche große Fabrik steht in Leverkusen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Chemiefabrik
+Antwort_2=0Möbelfabrik
+Antwort_3=0Autofabrik
+Antwort_4=0Computerfabrik
+
+[98]
+FZ1=
+FZ2=Welche Stadt hat einen Hafen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Duisburg
+Antwort_2=0Brilon
+Antwort_3=0Altena
+Antwort_4=0Remscheid
+
+[99]
+FZ1=
+FZ2=Welche Stadt hat einen Hafen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Dortmund
+Antwort_2=0Bochum
+Antwort_3=0Witten
+Antwort_4=0Hagen
+
+[100]
+FZ1=
+FZ2=Wie wird die Bundesstraße 1 auch genannt ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Ruhrschnellweg
+Antwort_2=0Königsallee
+Antwort_3=0Kaiserstraße
+Antwort_4=0Westfalen  - Highway
+
+[101]
+FZ1=
+FZ2=In welcher Stadt gibt es den "Allwetterzoo" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Münster
+Antwort_2=0Gelsenkirchen
+Antwort_3=0Wuppertal
+Antwort_4=0Bochum
+
+[102]
+FZ1=
+FZ2=Aus welcher nordrhein-westfälischen Stadt
+FZ3=kommen die Autos mit dem Kennzeichen D ?
+Min=500
+Max=2000
+Antwort_1=1Düsseldorf
+Antwort_2=0Detmold
+Antwort_3=0Dortmund
+Antwort_4=0Duisburg
+
+[103]
+FZ1=
+FZ2=Wie hoch ist der höchste Berg in Nordrhein - Westfalen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1843 m
+Antwort_2=0878 m
+Antwort_3=0943 m
+Antwort_4=0799 m
+
+[104]
+FZ1=
+FZ2=Wie heißt der höchste Berg in Nordrhein - Westfalen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Langenberg
+Antwort_2=0Plettenberg
+Antwort_3=0Kahle Asten
+Antwort_4=0Michelsberg
+
+[105]
+FZ1=
+FZ2=Wie hoch ist der Kahle Asten ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1841 m
+Antwort_2=0814 m
+Antwort_3=0418 m
+Antwort_4=0609 m
+
+[106]
+FZ1=
+FZ2=Was ist der "Kahle Asten" ?
+FZ3=
+Min=100
+Max=300
+Antwort_1=1ein Berg
+Antwort_2=0ein Vergnügungspark
+Antwort_3=0eine Talsperre
+Antwort_4=0ein Einkaufszentrum
+
+[107]
+FZ1=
+FZ2=Wo befindet sich der Kahle Asten ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Sauerland
+Antwort_2=0Eifel
+Antwort_3=0Teutoburger Wald
+Antwort_4=0Münsterland
+
+[108]
+FZ1=
+FZ2=In Köln und Bochum stehen zwei große Fabriken.
+FZ3=Was wird dort hergestellt ?
+Min=2000
+Max=16000
+Antwort_1=1Autos
+Antwort_2=0Möbel
+Antwort_3=0Papier
+Antwort_4=0Computer
+
+[109]
+FZ1=
+FZ2=Welcher Fluss fließt durch Menden ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Hönne
+Antwort_2=0Volme
+Antwort_3=0Lenne
+Antwort_4=0Dhünn
+
+[110]
+FZ1=
+FZ2=An welchem Fluss liegt Minden ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Weser
+Antwort_2=0Wupper
+Antwort_3=0Rhein
+Antwort_4=0Ruhr
+
+[111]
+FZ1=
+FZ2=An welchem Fluss liegt Bonn ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Rhein
+Antwort_2=0Wupper
+Antwort_3=0Ruhr
+Antwort_4=0Weser
+
+[112]
+FZ1=
+FZ2=An welchem Fluss liegt Düsseldorf ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Rhein
+Antwort_2=0Donau
+Antwort_3=0Ruhr
+Antwort_4=0Emscher
+
+[113]
+FZ1=
+FZ2=An welchem Fluss liegt Köln ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Rhein
+Antwort_2=0Volme
+Antwort_3=0Ruhr
+Antwort_4=0Lahn
+
+[114]
+FZ1=
+FZ2=An welchem Fluss liegt Bochum ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Ruhr
+Antwort_2=0Wupper
+Antwort_3=0Rhein
+Antwort_4=0Lippe
+
+[115]
+FZ1=
+FZ2=An welchem Fluss liegt Altena ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Lenne
+Antwort_2=0Ruhr
+Antwort_3=0Bigge
+Antwort_4=0Lippe
+
+[116]
+FZ1=
+FZ2=Wie heißt die bedeutendste Industriestadt in Ostwestfalen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Bielefeld
+Antwort_2=0Herford
+Antwort_3=0Dortmund
+Antwort_4=0Paderborn
+
+[117]
+FZ1=
+FZ2=Welches "Bad" befindet sich  n i c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Bad Salzschlirf
+Antwort_2=0Bad Pyrmont
+Antwort_3=0Bad Salzuflen
+Antwort_4=0Bad Meinberg
+
+[118]
+FZ1=
+FZ2=Welches "Bad" befindet sich  n i c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Bad Aibling
+Antwort_2=0Bad Driburg
+Antwort_3=0Bad Lippspringe
+Antwort_4=0Bad Oeynhausen
+
+[119]
+FZ1=
+FZ2=Wo schuf sich die Weser einen Durchbruch zwischen
+FZ3=Wiehen- und Wesergebirge ?
+Min=2000
+Max=8000
+Antwort_1=1Porta Westfalica
+Antwort_2=0Königswinter
+Antwort_3=0Lüneburger Heide
+Antwort_4=0Bad Kissingen
+
+[120]
+FZ1=
+FZ2=Welcher Fluss schuf sich einen Durchbruch
+FZ3=zwischen Wiehen- und Wesergebirge ?
+Min=200
+Max=1000
+Antwort_1=1Weser
+Antwort_2=0Ruhr
+Antwort_3=0Emscher
+Antwort_4=0Rhein
+
+[121]
+FZ1=
+FZ2=Wie heißen die hohen Sandsteinfelsen bei Horn ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Externsteine
+Antwort_2=0Hornberge
+Antwort_3=0Hexenfelsen
+Antwort_4=0Trümmerberge
+
+[122]
+FZ1=
+FZ2=Welcher Fluss ist  k e i n  Nebenfluss der Ruhr ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Wupper
+Antwort_2=0Hönne
+Antwort_3=0Röhr
+Antwort_4=0Lenne
+
+[123]
+FZ1=
+FZ2=Welcher Fluss ist  k e i n  Nebenfluss der Ruhr ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Erft
+Antwort_2=0Lenne
+Antwort_3=0Möhne
+Antwort_4=0Volme
+
+[124]
+FZ1=
+FZ2=In welcher Stadt mündet die Ruhr in den Rhein ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Duisburg
+Antwort_2=0Düsseldorf
+Antwort_3=0Oberhausen
+Antwort_4=0Köln
+
+[125]
+FZ1=
+FZ2=In welchen Fluss mündet die Ruhr ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Rhein
+Antwort_2=0Lippe
+Antwort_3=0Weser
+Antwort_4=0Emscher
+
+[126]
+FZ1=
+FZ2=Welche Talsperre liegt  n i c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Bütgenbach Stausee
+Antwort_2=0Ennepestausee
+Antwort_3=0Biggestausee
+Antwort_4=0Rurstausee
+
+[127]
+FZ1=
+FZ2=Welcher See liegt  n i c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Dümmersee
+Antwort_2=0Kemnadersee
+Antwort_3=0Halterner See
+Antwort_4=0Harkortsee
+
+[128]
+FZ1=
+FZ2=Welcher See liegt  n i c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Edersee
+Antwort_2=0Sorpesee
+Antwort_3=0Baldeneysee
+Antwort_4=0Möhnesee
+
+[129]
+FZ1=
+FZ2=Welchen Wald gibt es in Nordrhein - Westfalen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Zitterwald
+Antwort_2=0Angstwald
+Antwort_3=0Bayrischer Wald
+Antwort_4=0Schüttelwald
+
+[130]
+FZ1=
+FZ2=Welches Gebirge liegt  n i c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Knüllgebirge
+Antwort_2=0Rothaargebirge
+Antwort_3=0Eggegebirge
+Antwort_4=0Wiehengebirge
+
+[131]
+FZ1=
+FZ2=Welches Gebirge bildet den Ostrand der Westfälischen Bucht ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Eggegebirge
+Antwort_2=0Wiehengebirge
+Antwort_3=0Rothaargebirge
+Antwort_4=0Knüllgebirge
+
+[132]
+FZ1=
+FZ2=Welches Gebirge gibt es in Nordrhein - Westfalen ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Rothaargebirge
+Antwort_2=0Blauhargebirge
+Antwort_3=0Gelbhaargebirge
+Antwort_4=0Grünhaargebirge
+
+[133]
+FZ1=
+FZ2=Wo befindet sich der Teutoburger Wald ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1im Weserbergland
+Antwort_2=0im Siegerland
+Antwort_3=0im Sauerland
+Antwort_4=0im Rothaargebirge
+
+[134]
+FZ1=
+FZ2=Welches Bundesland grenzt südlich an Nordrhein - Westfalen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Rheinland - Pfalz
+Antwort_2=0Baden - Württemberg
+Antwort_3=0Niedersachsen
+Antwort_4=0Bayern
+
+[135]
+FZ1=
+FZ2=Welches Bundesland grenzt nördlich an Nordrhein - Westfalen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Niedersachsen
+Antwort_2=0Rheinland - Pfalz
+Antwort_3=0Hessen
+Antwort_4=0Schleswig - Holstein
+
+[136]
+FZ1=
+FZ2=Welches Land gibt es in Nordrhein - Westfalen ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Sauerland
+Antwort_2=0Bitterland
+Antwort_3=0Süßland
+Antwort_4=0Helgoland
+
+[137]
+FZ1=
+FZ2=Welche Stadt gibt es in Nordrhein - Westfalen ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=1Winterberg
+Antwort_2=0Frühlingsberg
+Antwort_3=0Sommerberg
+Antwort_4=0Herbstberg
+
+[138]
+FZ1=
+FZ2=Welches  Tier ist auf dem Wappen Nordrhein - Westfalens zu sehen ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Pferd
+Antwort_2=0Adler
+Antwort_3=0Esel
+Antwort_4=0Schlange
+
+[139]
+FZ1=
+FZ2=Welche Farben sind auf dem Wappen Nordrhein - Westfalens zu sehen ?
+FZ3=
+Min=100
+Max=300
+Antwort_1=1grün - weiß - rot
+Antwort_2=0gelb - schwarz - blau
+Antwort_3=0blau - weiß
+Antwort_4=0weiß - gelb - braun
+
+[140]
+FZ1=
+FZ2=Welcher Fluss fließt  n i c h t  durch Nordrhein - Westfalen ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Donau
+Antwort_2=0Wupper
+Antwort_3=0Lippe
+Antwort_4=0Niers
+
+[141]
+FZ1=
+FZ2=Welcher Fluss fließt  n i c h t  durch Nordrhein - Westfalen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Main
+Antwort_2=0Ruhr
+Antwort_3=0Rhein
+Antwort_4=0Volme
+
+[142]
+FZ1=
+FZ2=Wie heißt der größte Fluss in Nordrhein - Westfalen ?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Rhein
+Antwort_2=0Lippe
+Antwort_3=0Ruhr
+Antwort_4=0Emscher
+
+[143]
+FZ1=
+FZ2=Welche Landschaft gehört  n i c h t  zu Nordrhein - Westfalen ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1Spessart
+Antwort_2=0Eifel
+Antwort_3=0Sauer- und Siegerland
+Antwort_4=0Westfälische Bucht
+
+[144]
+FZ1=
+FZ2=Welche Landschaft gehört  n i c h t  zu Nordrhein - Westfalen ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1Lüneburger Heide
+Antwort_2=0Bergisches Land
+Antwort_3=0Kölner Bucht
+Antwort_4=0Weserbergland
+
+[145]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Ravensburg
+Antwort_2=0Herzogenrath
+Antwort_3=0Sankt Augustin
+Antwort_4=0Soest
+
+[146]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Rosenheim
+Antwort_2=0Langenfeld
+Antwort_3=0Schwerte
+Antwort_4=0Alsdorf
+
+[147]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Freiburg
+Antwort_2=0Gummersbach
+Antwort_3=0Bad Salzuflen
+Antwort_4=0Bergkamen
+
+[148]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Kempten
+Antwort_2=0Bergheim
+Antwort_3=0Hilden
+Antwort_4=0Hürth
+
+[149]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Rostock
+Antwort_2=0Eschweiler
+Antwort_3=0Menden
+Antwort_4=0Kerpen
+
+[150]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Leipzig
+Antwort_2=0Dormagen
+Antwort_3=0Unna
+Antwort_4=0Ahlen
+
+[151]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Berlin
+Antwort_2=0Troisdorf
+Antwort_3=0Stolberg
+Antwort_4=0Wesel
+
+[152]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Frankfurt
+Antwort_2=0Dinslaken
+Antwort_3=0Hattingen
+Antwort_4=0Grevenbroich
+
+[153]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Mainz
+Antwort_2=0Herford
+Antwort_3=0Bocholt
+Antwort_4=0Lippstadt
+
+[154]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Nürnberg
+Antwort_2=0Dorsten
+Antwort_3=0Herten
+Antwort_4=0Detmold
+
+[155]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Bayreuth
+Antwort_2=0Lüdenscheid
+Antwort_3=0Gütersloh
+Antwort_4=0Rheine
+
+[156]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Flensburg
+Antwort_2=0Arnsberg
+Antwort_3=0Castrop - Rauxel
+Antwort_4=0Minden
+
+[157]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Husum
+Antwort_2=0Lünen
+Antwort_3=0Düren
+Antwort_4=0Viersen
+
+[158]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Bremen
+Antwort_2=0Marl
+Antwort_3=0Velbert
+Antwort_4=0Ratingen
+
+[159]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Kaiserslautern
+Antwort_2=0Moers
+Antwort_3=0Witten
+Antwort_4=0Iserlohn
+
+[160]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Pirmasens
+Antwort_2=0Siegen
+Antwort_3=0Bottrop
+Antwort_4=0Paderborn
+
+[161]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Goslar
+Antwort_2=0Remscheid
+Antwort_3=0Neuss
+Antwort_4=0Recklinghausen
+
+[162]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Hamburg
+Antwort_2=0Solingen
+Antwort_3=0Hamm
+Antwort_4=0Leverkusen
+
+[163]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Osnabrück
+Antwort_2=0Hagen
+Antwort_3=0Krefeld
+Antwort_4=0Herne
+
+[164]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Hannover
+Antwort_2=0Aachen
+Antwort_3=0Mönchengladbach
+Antwort_4=0Oberhausen
+
+[165]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1München
+Antwort_2=0Bonn
+Antwort_3=0Gelsenkirchen
+Antwort_4=0Münster
+
+[166]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Emden
+Antwort_2=0Wuppertal
+Antwort_3=0Bochum
+Antwort_4=0Bielefeld
+
+[167]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Karlsruhe
+Antwort_2=0Duisburg
+Antwort_3=0Düsseldorf
+Antwort_4=0Dortmund
+
+[168]
+FZ1=
+FZ2=Welche Stadt liegt  n i  c h t  in Nordrhein - Westfalen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Pforzheim
+Antwort_2=0Köln
+Antwort_3=0Essen
+Antwort_4=0Dortmund
+
+[169]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Nordrhein - Westfalen ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Düsseldorf
+Antwort_2=0Dortmund
+Antwort_3=0Köln
+Antwort_4=0Münster
+
+[170]
+FZ1=
+FZ2=Wo in Deutschland liegt Nordrhein - Westfalen ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1im Westen
+Antwort_2=0im Norden
+Antwort_3=0im Osten
+Antwort_4=0im Süden
+
+[171]
+FZ1=
+FZ2=Wie heißt ein berühmter Fels im Siebengebirge ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Drachenfels
+Antwort_2=0Monsterfels
+Antwort_3=0Hexenfels
+Antwort_4=0Geisterfels
+
+[172]
+FZ1=
+FZ2=Welches Gebirge gibt es in Nordrhein - Westfalen ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Siebengebirge
+Antwort_2=0Vierergebirge
+Antwort_3=0Achtergebirge
+Antwort_4=0Zehnergebirge
+
+[173]
+FZ1=
+FZ2=Wer gründete die Stadt Köln ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Römer
+Antwort_2=0Germanen
+Antwort_3=0Kölner
+Antwort_4=0Gallier
+
+[174]
+FZ1=
+FZ2=Wie alt ist die Stadt Köln ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1älter als 2000 Jahre
+Antwort_2=01000 Jahre
+Antwort_3=01250 Jahre
+Antwort_4=0ca. 875 Jahre
+
+[175]
+FZ1=
+FZ2=Wie heißt das Wahrzeichen von Köln ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Kölner Dom
+Antwort_2=0Kölner Schloss
+Antwort_3=0Kölner Fahne
+Antwort_4=0Kölner Schlüssel
+
+[176]
+FZ1=
+FZ2=In der Eifel gibt es "Maar - Seen". Wie sind sie entstanden ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Verstopfte Vulkanschlote füllten	sich mit Wasser.
+Antwort_2=0Menschen haben sie künstlich angelegt.
+Antwort_3=0Nebenflüsse des Rheins
+Antwort_4=0Gletscher sind geschmolzen.
+
+[177]
+FZ1=
+FZ2=Welche Bodenschätze gibt es in der Niederrheinischen Bucht ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Braunkohle
+Antwort_2=0Erdgas
+Antwort_3=0Erdöl
+Antwort_4=0Gold
+
+[178]
+FZ1=
+FZ2=Welches Bundesland grenzt  n i c h t  an Nordrhein - Westfalen ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Schleswig - Holstein
+Antwort_2=0Rheinland - Pfalz
+Antwort_3=0Hessen
+Antwort_4=0Niedersachsen
+
+[179]
+FZ1=
+FZ2=Welches Bundesland grenzt  n i c h t  an Nordrhein - Westfalen ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Bayern
+Antwort_2=0Hessen
+Antwort_3=0Niedersachsen
+Antwort_4=0Rheinland - Pfalz
+
+[180]
+FZ1=
+FZ2=Welches Nachbarland grenzt an Nordrhein - Westfalen ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Belgien
+Antwort_2=0Schweden
+Antwort_3=0Schweiz
+Antwort_4=0Italien
+
+[181]
+FZ1=
+FZ2=Was gibt es Besonderes in Paderborn ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1über 200 Quellen
+Antwort_2=050 verschiedene Parks
+Antwort_3=0über 100 Funktürme
+Antwort_4=042 alte Kirchen
+
+[182]
+FZ1=
+FZ2=Welche Stadt ist eine der ältesten in Westfalen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Soest
+Antwort_2=0Bochum
+Antwort_3=0Lünen
+Antwort_4=0Oberhausen
+
+[183]
+FZ1=
+FZ2=Welche Stadt ist der Mittelpunkt der Westfälischen Bucht ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Münster
+Antwort_2=0Aachen
+Antwort_3=0Köln
+Antwort_4=0Bochum
+
+[184]
+FZ1=
+FZ2=In welcher Stadt befindet sich ein wichtiger Eisenbahnknotenpunkt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Hamm
+Antwort_2=0Dortmund
+Antwort_3=0Lünen
+Antwort_4=0Gladbeck
+
+[185]
+FZ1=
+FZ2=Wo liegt die Westfälische Bucht ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Münsterland
+Antwort_2=0Niederrhein
+Antwort_3=0Sauerland
+Antwort_4=0Bergische Land
+
+[186]
+FZ1=
+FZ2=Welcher Hafen ist Deutschlands größter Binnenhafen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Duisburger Hafen
+Antwort_2=0Kölner Hafen
+Antwort_3=0Dortmunder Hafen
+Antwort_4=0Hamburger Hafen
+
+[187]
+FZ1=
+FZ2=Welchen Bodenschatz gibt es im Ruhrgebiet ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Steinkohle
+Antwort_2=0Erdgas
+Antwort_3=0Braunkohle
+Antwort_4=0Diamanten
+
+[188]
+FZ1=
+FZ2=In welcher Stadt gibt es ein Schokoladenmuseum ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Köln
+Antwort_2=0Leverkusen
+Antwort_3=0Düsseldorf
+Antwort_4=0Wuppertal
+
+[189]
+FZ1=
+FZ2=In welcher Stadt steht das Bergbaumuseum ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Bochum
+Antwort_2=0Hagen
+Antwort_3=0Essen
+Antwort_4=0Oberhausen
+
+[190]
+FZ1=
+FZ2=In welcher Stadt steht das Westfalenstadion ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Dortmund
+Antwort_2=0Essen
+Antwort_3=0Gelsenkirchen
+Antwort_4=0Bochum
+
+[191]
+FZ1=
+FZ2=In welcher Stadt kann man ein römisches Amphitheater besichtigen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Xanten
+Antwort_2=0Gummersbach
+Antwort_3=0Bocholt
+Antwort_4=0Brilon
+
+[192]
+FZ1=
+FZ2=Wo liegt Wuppertal ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Bergisches Land
+Antwort_2=0Münsterland
+Antwort_3=0Sauerland
+Antwort_4=0Niederrhein
+
+[193]
+FZ1=
+FZ2=Welcher Fluss fließt durch die Eifel ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Rur
+Antwort_2=0Lenne
+Antwort_3=0Ruhr
+Antwort_4=0Sieg
+
+[194]
+FZ1=
+FZ2=Welcher Fluss fließt durch Wuppertal ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Wupper
+Antwort_2=0Emscher
+Antwort_3=0Lippe
+Antwort_4=0Rur
+
+[195]
+FZ1=
+FZ2=Welcher Stadtteil gehört  n i c h t  zu Wuppertal ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Langendreer
+Antwort_2=0Elberfeld
+Antwort_3=0Langerfeld
+Antwort_4=0Barmen
+
+[196]
+FZ1=
+FZ2=Welche besondere Bahn verkehrt in Wuppertal ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Schwebebahn
+Antwort_2=0Magnetbahn
+Antwort_3=0U - Bahn
+Antwort_4=0Straßenbahn
+
+[197]
+FZ1=
+FZ2=Wie hoch ist der Drachenfels ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1321 m
+Antwort_2=0213 m
+Antwort_3=0123 m
+Antwort_4=0312 m
+
+[198]
+FZ1=
+FZ2=Welche Stadt grenzt  n i c h t  an Bochum ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Oberhausen
+Antwort_2=0Herne
+Antwort_3=0Gelsenkirchen
+Antwort_4=0Recklinghausen
+
+[199]
+FZ1=
+FZ2=Welche Stadt grenzt  n i c h t  an Bochum ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Hagen
+Antwort_2=0Dortmund
+Antwort_3=0Witten
+Antwort_4=0Essen
+
+[200]
+FZ1=
+FZ2=Welches Bier wird in Düsseldorf getrunken ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Alt
+Antwort_2=0Jung
+Antwort_3=0Neu
+Antwort_4=0Frisch
+
+[201]
+FZ1=
+FZ2=Wie nennt man das Ballungsgebiet an der Ruhr ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ruhrpott
+Antwort_2=0Ruhrteller
+Antwort_3=0Ruhrtasse
+Antwort_4=0Ruhrkrug
+
+[202]
+FZ1=
+FZ2=Welches Nachbarland grenzt an Nordrhein - Westfalen ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Niederlande
+Antwort_2=0Frankreich
+Antwort_3=0Österreich
+Antwort_4=0Dänemark
+
+[203]
+FZ1=
+FZ2=Welcher Fluss fließt durch die Eifel ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Rur
+Antwort_2=0Lenne
+Antwort_3=0Ruhr
+Antwort_4=0Sieg
+

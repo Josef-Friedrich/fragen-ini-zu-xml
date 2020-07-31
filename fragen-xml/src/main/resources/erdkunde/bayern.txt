@@ -1,0 +1,391 @@
+[Thema]
+Thema=Bayern
+Fragen=35
+Autor=Karl-Heinz Riedel
+
+[1]
+FZ1=
+FZ2=Wie heißt die Hauptstadt Bayerns?
+FZ3=
+Min=100
+Max=100
+Antwort_1=0Stuttgart	
+Antwort_2=1München	
+Antwort_3=0Hamburg	
+Antwort_4=0Köln	
+
+[2]
+FZ1=
+FZ2=Welche Stadt liegt nicht in Unterfranken?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0Wertheim	
+Antwort_2=0Schweinfurt	
+Antwort_3=1Nürnberg	
+Antwort_4=0Ochsenfurt	
+
+[3]
+FZ1=
+FZ2=Wie viele Regierungsbezirke hat Bayern?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0dreizehn	
+Antwort_2=1sieben	
+Antwort_3=0sechs	
+Antwort_4=0acht	
+
+[4]
+FZ1=
+FZ2=In welchem Regierungsbezirk liegt München?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0Niederbayern	
+Antwort_2=0Oberpfalz	
+Antwort_3=0Schwaben	
+Antwort_4=1Oberbayern	
+
+[5]
+FZ1=
+FZ2=Welcher Fluss durchfließt die Form
+FZ3=eines Vierecks und eines Dreiecks?
+Min=4000
+Max=4000
+Antwort_1=0Donau	
+Antwort_2=0Elbe	
+Antwort_3=0Rhein	
+Antwort_4=1Main	
+
+[6]
+FZ1=Einer dieser Flüsse fließt nicht rechts der Donau?
+FZ2=
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Regen	
+Antwort_2=0Iller	
+Antwort_3=0Lech	
+Antwort_4=0Isar	
+
+[7]
+FZ1=
+FZ2=Wie heißt ein Nebenfluss des Mains?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Altmühl	
+Antwort_2=0Wörnitz	
+Antwort_3=1Regnitz	
+Antwort_4=0Pegnitz	
+
+[8]
+FZ1=
+FZ2=Welche Stadt liegt nicht an der Donau?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Ulm	
+Antwort_2=0Ingolstadt	
+Antwort_3=1Augsburg	
+Antwort_4=0Regensburg	
+
+[9]
+FZ1=
+FZ2=Welche Berglandschaft liegt im Norden Bayerns?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Bayerischer Wald	
+Antwort_2=0Oberpfälzer Wald	
+Antwort_3=0Bayerische Alpen	
+Antwort_4=1Rhön	
+
+[10]
+FZ1=
+FZ2=Welche Stadt ist kein Regierungssitz eines Bezirkes?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Nürnberg	
+Antwort_2=0Ansbach	
+Antwort_3=0Würzburg	
+Antwort_4=0Bayreuth	
+
+[11]
+FZ1=
+FZ2=Welches Land grenzt an Bayern?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=0Schweiz	
+Antwort_2=0Italien	
+Antwort_3=0Frankreich	
+Antwort_4=1Tschechien	
+
+[12]
+FZ1=
+FZ2=Im bayerischen Wappen siehst du keine ......
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Drachen	
+Antwort_2=0Panther	
+Antwort_3=0Löwen	
+Antwort_4=0Rauten	
+
+[13]
+FZ1=
+FZ2=Welche Berglandschaft liegt im Osten Bayerns?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Oberpfälzer Wald	
+Antwort_2=0Frankenwald	
+Antwort_3=0Spessart	
+Antwort_4=0Steigerwald	
+
+[14]
+FZ1=
+FZ2=Wie heißt ein Nebenfluss des Mains?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0Lech	
+Antwort_2=0Altmühl	
+Antwort_3=1Fränkische Saale	
+Antwort_4=0Donau	
+
+[15]
+FZ1=
+FZ2=Iller, Lech, Isar und ....... ,
+FZ3=fließen rechts zur Donau hin.
+Min=1000
+Max=1000
+Antwort_1=0Main	
+Antwort_2=0Rhein	
+Antwort_3=0Regen	
+Antwort_4=1Inn	
+
+[16]
+FZ1=
+FZ2=Der Spessart ist ...
+FZ3=
+Min=300
+Max=300
+Antwort_1=0ein Fluss	
+Antwort_2=0ein Regierungsbezirk	
+Antwort_3=0eine Stadt	
+Antwort_4=1eine Berglandschaft	
+
+[17]
+FZ1=
+FZ2=Würzburg liegt am ....
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Maindreieck	
+Antwort_2=0Mainrechteck	
+Antwort_3=0Mainviereck	
+Antwort_4=0Mainkreis	
+
+[18]
+FZ1=
+FZ2=Bayern liegt im ...
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0im Norden Deutschlands	
+Antwort_2=1im Süden Deutschlands	
+Antwort_3=0im Westen Deutschlands	
+Antwort_4=0im Osten Deutschlands	
+
+[19]
+FZ1=
+FZ2=In seiner Ausdehnung ist Bayern am größten von ....
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0West nach Ost	
+Antwort_2=1Nord nach Süd	
+Antwort_3=0Nord nach West	
+Antwort_4=0Süd nach Ost	
+
+[20]
+FZ1=
+FZ2=Wörnitz, ....... , Naab und Regen ,
+FZ3=fließen der Donau von links entgegen.
+Min=8000
+Max=8000
+Antwort_1=1Altmühl	
+Antwort_2=0Isar	
+Antwort_3=0Main	
+Antwort_4=0Regnitz	
+
+[21]
+FZ1=
+FZ2=Welche zwei Flüsse werden durch einen Kanal verbunden?
+FZ3=
+Min=100
+Max=500
+Antwort_1=0Main und Rhein	
+Antwort_2=0Donau und Elbe	
+Antwort_3=0Main und Weser	
+Antwort_4=1Main und Donau	
+
+[22]
+FZ1=
+FZ2=Welches Gestein findet man in der Rhön?
+FZ3=
+Min=2000
+Max=500000
+Antwort_1=0Buntsandstein	
+Antwort_2=0Muschelkalk	
+Antwort_3=1Basalt	
+Antwort_4=0Rhönquarz	
+
+[23]
+FZ1=
+FZ2=Welches Gestein findet man im Spessart?
+FZ3=
+Min=2000
+Max=500000
+Antwort_1=1Buntsandstein	
+Antwort_2=0Basalt	
+Antwort_3=0Muschelkalk	
+Antwort_4=0Ton	
+
+[24]
+FZ1=
+FZ2=Welche Farbe besitzt Buntsandstein?
+FZ3=
+Min=2000
+Max=500000
+Antwort_1=0bunt	
+Antwort_2=1rötlich	
+Antwort_3=0schwarz	
+Antwort_4=0grau	
+
+[25]
+FZ1=
+FZ2=Basalt ist ein besonders ..... Gestein
+FZ3=
+Min=2000
+Max=500000
+Antwort_1=0weiches	
+Antwort_2=0glitzerndes	
+Antwort_3=0helles	
+Antwort_4=1hartes	
+
+[26]
+FZ1=
+FZ2=Graphit verwendet man zur Herstellung von ......
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0Sprühfarben	
+Antwort_2=0Fitness-Getränken	
+Antwort_3=0Grabsteinen	
+Antwort_4=1Bleistiftminen	
+
+[27]
+FZ1=
+FZ2=Der Bayerische Wald ist bekannt für seine .....
+FZ3=
+Min=2000
+Max=500000
+Antwort_1=0Bierbrauereien	
+Antwort_2=0Wandmalereien	
+Antwort_3=1Glasbläsereien	
+Antwort_4=0Fischereien	
+
+[28]
+FZ1=
+FZ2=Ein beliebter Fremdenverkehrsort
+FZ3=im Bayerischen Wald heißt ....
+Min=2000
+Max=250000
+Antwort_1=1Bodenmais	
+Antwort_2=0Mittenwald	
+Antwort_3=0Altötting	
+Antwort_4=0Staffelstein	
+
+[29]
+FZ1=
+FZ2=Nürnberg, Führt und Erlangen ist .....
+FZ3=
+Min=200
+Max=1000
+Antwort_1=0ein Naherholungsgebiet	
+Antwort_2=1ein Ballungsgebiet	
+Antwort_3=0ein Skigebiet	
+Antwort_4=0ein Weinbaugebiet	
+
+[30]
+FZ1=
+FZ2=Die Fränkische Schweiz ist bekannt für ihre .....
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0Seenplatte	
+Antwort_2=0Wanderdünen	
+Antwort_3=0Vulkankegel	
+Antwort_4=1Tropfsteinhöhlen	
+
+[31]
+FZ1=
+FZ2=Das Ries entstand durch ......
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0Verschiebung von Erdplatten	
+Antwort_2=0einen Vulkanausbruch	
+Antwort_3=1den Aufschlag eines Meteoriten	
+Antwort_4=0Ausbaggerungen	
+
+[32]
+FZ1=
+FZ2=Mittelalterliche Städte sind Rothenburg, Nördlingen und ....
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0Dinkelacker	
+Antwort_2=0Binkeldühl	
+Antwort_3=0Bühlheim	
+Antwort_4=1Dinkelsbühl	
+
+[33]
+FZ1=
+FZ2=Sollnhofen ist berühmt für die Herstellung von ....
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Fensterscheiben	
+Antwort_2=1Fensterbänken	
+Antwort_3=0Fensterrahmen	
+Antwort_4=0Fensterledern	
+
+[34]
+FZ1=
+FZ2=Muschelkalkhügel sind besonders geeignet für ....
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0den Gemüseanbau	
+Antwort_2=0den Getreidenanbau	
+Antwort_3=1den Weinanbau	
+Antwort_4=0den Zuckerrübenanbau	
+
+[35]
+FZ1=
+FZ2=Keuper heißt .....
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=0eine Gemüsesorte	
+Antwort_2=0ein berühmter Bayer	
+Antwort_3=0ein Fluss	
+Antwort_4=1eine Bodenart	
+
+

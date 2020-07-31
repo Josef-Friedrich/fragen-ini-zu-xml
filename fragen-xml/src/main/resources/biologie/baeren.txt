@@ -1,0 +1,2734 @@
+[Thema]
+Thema=Rund um die Bären
+Fragen=248
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welchen Bären gibt es ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Schlankbär	
+Antwort_2=0Dünnbär	
+Antwort_3=0Dickbär	
+Antwort_4=0Breitbär	
+
+[2]
+FZ1=
+FZ2=Welcher Bär gehört nicht zu den Großbären ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Schlankbär	
+Antwort_2=0Eisbär	
+Antwort_3=0Grizzly	
+Antwort_4=0Kragenbär	
+
+[3]
+FZ1=
+FZ2=Wie wird der Waschbär auch genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Schupp	
+Antwort_2=0Wubb	
+Antwort_3=0Jupp	
+Antwort_4=0Bubb	
+
+[4]
+FZ1=
+FZ2=Wie wird der Brillenbär auch genannt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Andenbär	
+Antwort_2=0Uralbär	
+Antwort_3=0Alpenbär	
+Antwort_4=0Himalayabär	
+
+[5]
+FZ1=
+FZ2=Wie wird der Kragenbär - wegen seiner sichelförmigen, weißen Zeichnung auf der
+FZ3=Brust - in einigen Gegenden auch genannt ?
+Min=64000
+Max=250000
+Antwort_1=1Mondbär	
+Antwort_2=0Sternenbär	
+Antwort_3=0Sonnenbär	
+Antwort_4=0Honigbär	
+
+[6]
+FZ1=
+FZ2=Schwarzbären schälen gerne die Rinde von Nadelbäumen ab.
+FZ3=Wie viele Bäume kann ein Schwarzbär in einer einzigen Nacht entrinden ?
+Min=16000
+Max=125000
+Antwort_1=150	
+Antwort_2=032	
+Antwort_3=020	
+Antwort_4=076	
+
+[7]
+FZ1=
+FZ2=Wie nennen die Eskimos den Eisbären ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nanuk	
+Antwort_2=0Bäruk	
+Antwort_3=0Kautschuk	
+Antwort_4=0Hauruk	
+
+[8]
+FZ1=
+FZ2=In welchen Abständen bringt eine Eisbärin ihre Jungen zur Welt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1alle drei Jahre	
+Antwort_2=0einmal in ihrem Leben	
+Antwort_3=0jedes Jahr	
+Antwort_4=0alle 10 Jahre	
+
+[9]
+FZ1=
+FZ2=Wann sind Eisbären fortpflanzungsfähig ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1mit vier Jahren	
+Antwort_2=0mit zwei Jahren	
+Antwort_3=0mit drei Jahren	
+Antwort_4=0mit sechs Jahren	
+
+[10]
+FZ1=
+FZ2=Wie lange werden die Eisbärjungen gesäugt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=118 Monate	
+Antwort_2=012 Monate	
+Antwort_3=06 Monate	
+Antwort_4=024 Monate	
+
+[11]
+FZ1=
+FZ2=Wie schwer ist ein Eisbärbaby bei der Geburt ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1keine 500 Gramm	
+Antwort_2=01 - 2 kg	
+Antwort_3=0600 - 750 Gramm	
+Antwort_4=0ca. 3,5 kg	
+
+[12]
+FZ1=
+FZ2=Wann bringt die Eisbärin ihre Jungen - meist sind es zwei - zur Welt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1im Dezember oder Januar	
+Antwort_2=0im Juni oder Juli	
+Antwort_3=0im März oder April	
+Antwort_4=0im September oder Oktober	
+
+[13]
+FZ1=
+FZ2=Weshalb hat der Eisbär keine Augenwimpern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie würden bei so niedrigen	Temperaturen gefrieren.	
+Antwort_2=0Sie würden beim weißen Fell des	Eisbären zu sehr auffallen.	
+Antwort_3=0Sie würden beim Sehen nur stören.	
+Antwort_4=0Sie würden beim Tauchen stören.	
+
+[14]
+FZ1=
+FZ2=Wie dick ist die Fettschicht eines Eisbären unter der Haut ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1ca. 10 cm	
+Antwort_2=03 cm	
+Antwort_3=04 - 8 cm	
+Antwort_4=0etwa 20 cm	
+
+[15]
+FZ1=
+FZ2=Wie breit sind die Tatzen eines Eisbären ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=130 cm	
+Antwort_2=050 cm	
+Antwort_3=020 cm	
+Antwort_4=070 cm	
+
+[16]
+FZ1=
+FZ2=Wie nennt man die Kothaufen der Bären ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Bärenlosung	
+Antwort_2=0Bärenwette	
+Antwort_3=0Bärenlotto	
+Antwort_4=0Bärenniete	
+
+[17]
+FZ1=
+FZ2=Obwohl der Koala nicht zu den Bären gehört, hier eine Frage nach den Koalababys.
+FZ3=Wie groß sind neugeborene Koalas ?
+Min=16000
+Max=125000
+Antwort_1=1so groß wie eine Bohne	
+Antwort_2=0so groß wie ein Apfel	
+Antwort_3=0so groß wie eine Kirsche	
+Antwort_4=0so groß wie eine Melone	
+
+[18]
+FZ1=
+FZ2=Obwohl der Koala nicht zu den Bären gehört, hier eine Frage nach den Koalababys.
+FZ3=Wie viel wiegen die Koalababys bei der Geburt ?
+Min=32000
+Max=125000
+Antwort_1=1weniger als ein halbes Gramm	
+Antwort_2=0ca. 250 Gramm	
+Antwort_3=02 - 5 Gramm	
+Antwort_4=0500 - 750 Gramm	
+
+[19]
+FZ1=
+FZ2=Obwohl der Koala nicht zu den Bären gehört, hier die Frage nach seiner Größe.
+FZ3=Wie groß wird der Koala ?
+Min=64000
+Max=250000
+Antwort_1=172 - 78 cm	
+Antwort_2=050 - 55 cm	
+Antwort_3=061 - 67 cm	
+Antwort_4=088 - 95 cm	
+
+[20]
+FZ1=
+FZ2=Obwohl der Koala nicht zu den Bären gehört, hier die Frage nach seinem Gewicht.
+FZ3=Wie schwer wird der Koala ?
+Min=16000
+Max=125000
+Antwort_1=15 - 12 kg	
+Antwort_2=030 - 50 kg	
+Antwort_3=015 - 20 kg	
+Antwort_4=075 - 100 kg	
+
+[21]
+FZ1=
+FZ2=Obwohl der Koala nicht zu den Bären gehört, hier die Frage nach seiner Nahrung.
+FZ3=Was frisst der Koala ?
+Min=4000
+Max=64000
+Antwort_1=1Eukalyptusblätter	
+Antwort_2=0Fische	
+Antwort_3=0Bambus	
+Antwort_4=0Honig und Insekten	
+
+[22]
+FZ1=
+FZ2=Wie wird der kuschelige Koala auch genannt, obwohl er gar nicht
+FZ3=zu den Bären gehört ?
+Min=2000
+Max=32000
+Antwort_1=1Beutelbär	
+Antwort_2=0Nasenbär	
+Antwort_3=0Wickelbär	
+Antwort_4=0Lippenbär	
+
+[23]
+FZ1=
+FZ2=Womit deckt sich der Kleine Panda zu, wenn er schlafen möchte ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1mit seinem Schwanz	
+Antwort_2=0mit Blättern	
+Antwort_3=0mit seinen Vorderpfoten	
+Antwort_4=0mit seinen Hinterpfoten	
+
+[24]
+FZ1=
+FZ2=Welches Tier gehört nicht zu den Großbären und auch nicht zu den Kleinbären ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ameisenbär	
+Antwort_2=0Nasenbär	
+Antwort_3=0Wickelbär	
+Antwort_4=0Lippenbär	
+
+[25]
+FZ1=
+FZ2=Welche Feinde hat der Große Panda ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1keine	
+Antwort_2=0Schlangen	
+Antwort_3=0Tiger	
+Antwort_4=0Löwen	
+
+[26]
+FZ1=
+FZ2=Wie schwer wird der Große Panda ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=175 - 110 kg	
+Antwort_2=0130 - 180 kg	
+Antwort_3=035 - 65 kg	
+Antwort_4=0220 - 330 kg	
+
+[27]
+FZ1=
+FZ2=Welche Schulterhöhe hat ein ausgewachsener Großer Panda ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=170 - 80 cm	
+Antwort_2=090 - 110 cm	
+Antwort_3=030 - 50 cm	
+Antwort_4=0150 - 200 cm	
+
+[28]
+FZ1=
+FZ2=Welcher Bär hält einen Winterschlaf ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Braunbär	
+Antwort_2=0Malaienbär	
+Antwort_3=0Lippenbär	
+Antwort_4=0Brillenbär	
+
+[29]
+FZ1=
+FZ2=Wie schnell schlägt das Herz eines Braunbären während des Winterschlafes ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1halb so schnell wie im Sommer	
+Antwort_2=0einmal in der Minute	
+Antwort_3=0ganz schnell	
+Antwort_4=0genauso schnell wie im Herbst	
+
+[30]
+FZ1=
+FZ2=Auf wie viel Grad senken die Braunbären ihre Körpertemperatur während des
+FZ3=Winterschlafes ab ?
+Min=4000
+Max=64000
+Antwort_1=131° C	
+Antwort_2=011° C	
+Antwort_3=021° C	
+Antwort_4=01° C	
+
+[31]
+FZ1=
+FZ2=Die Inder nennen große Kragenbären "Bhui Bhalu". Was bedeutet dieser Namen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Bär auf dem Boden	
+Antwort_2=0Bär der Götter	
+Antwort_3=0Bär im Himmel	
+Antwort_4=0Bär in der Höhle	
+
+[32]
+FZ1=
+FZ2=Die Inder nennen kleine Kragenbären "Rukh Bhalu". Was bedeutet dieser Namen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Bär auf dem Baum	
+Antwort_2=0Bär im Wasser	
+Antwort_3=0Bär in der Höhle	
+Antwort_4=0Bär im Wald	
+
+[33]
+FZ1=
+FZ2=Von welchem Bären bekam der Zeichentrickbär Balu aus dem Dschungelbuch
+FZ3=seinen Namen ?
+Min=64000
+Max=250000
+Antwort_1=1vom Kragenbären	
+Antwort_2=0vom Malaienbären	
+Antwort_3=0vom Lippenbären	
+Antwort_4=0vom Eisbären	
+
+[34]
+FZ1=
+FZ2=Welche Feinde hat der Kragenbär ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Tiger, Braunbär, Wolf	
+Antwort_2=0Elefant, Grizzly, Tiger	
+Antwort_3=0Löwe, Eisbär, Rotfuchs	
+Antwort_4=0Lippenbär, Malaienbär, Braunbär	
+
+[35]
+FZ1=
+FZ2=Welche Schulterhöhe hat er erwachsener Kragenbär ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=180 - 100 cm	
+Antwort_2=0120 - 140 cm	
+Antwort_3=060 - 80 cm	
+Antwort_4=0100 - 120 cm	
+
+[36]
+FZ1=
+FZ2=Wie groß kann ein erwachsener Kragenbär werden, wenn er sich aufrichtet ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1ca. 2 m	
+Antwort_2=0ca. 1 m	
+Antwort_3=0ca. 3 m	
+Antwort_4=0ca. 4 m	
+
+[37]
+FZ1=
+FZ2=Welche Feinde hat der Brillenbär ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1keine	
+Antwort_2=0Brillenschlange	
+Antwort_3=0Tiger	
+Antwort_4=0Löwe	
+
+[38]
+FZ1=
+FZ2=Wie schwer kann ein Brillenbärmännchen werden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0bis 100 kg	
+Antwort_2=0bis 300 kg	
+Antwort_3=1bis 200 kg	
+Antwort_4=0bis 400 kg	
+
+[39]
+FZ1=
+FZ2=Wie schwer kann ein Brillenbärweibchen werden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1bis 65 kg	
+Antwort_2=0bis 265 kg	
+Antwort_3=0bis 165 kg	
+Antwort_4=0bis 365 kg	
+
+[40]
+FZ1=
+FZ2=Wie schwer kann ein Lippenbär werden ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1bis 115 kg	
+Antwort_2=0bis 335 kg	
+Antwort_3=0bis 225 kg	
+Antwort_4=0bis 445 kg	
+
+[41]
+FZ1=
+FZ2=Wie groß ist ein ausgewachsener Brillenbär, wenn er sich aufrichtet ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1bis 210 cm	
+Antwort_2=0etwa 250 cm	
+Antwort_3=0ca. 1,20 m	
+Antwort_4=0über 3 m	
+
+[42]
+FZ1=
+FZ2=Welcher Bär baut sich in seinem Fressbaum ein Nest ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Brillenbär	
+Antwort_2=0Grizzly	
+Antwort_3=0Eisbär	
+Antwort_4=0Kamtschatkabär	
+
+[43]
+FZ1=
+FZ2=Welchem Bären fehlen zwei Vorderzähne ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1dem Lippenbären	
+Antwort_2=0dem Eisbären	
+Antwort_3=0dem Kragenbären	
+Antwort_4=0dem Malaienbären	
+
+[44]
+FZ1=
+FZ2=Welche Feinde haben die Braunbären ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1keine	
+Antwort_2=0Löwen	
+Antwort_3=0Tiger	
+Antwort_4=0Elefanten	
+
+[45]
+FZ1=
+FZ2=Welche Feinde hat der Eisbär ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1keine	
+Antwort_2=0Polarfuchs	
+Antwort_3=0Walross	
+Antwort_4=0Polarwolf	
+
+[46]
+FZ1=
+FZ2=Welche Feinde hat der Malaienbär ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Tiger	
+Antwort_2=0Wolf	
+Antwort_3=0Löwe	
+Antwort_4=0Gepard	
+
+[47]
+FZ1=
+FZ2=Welche Feinde hat der Lippenbär ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Tiger und Leopard	
+Antwort_2=0Wolf und Fuchs	
+Antwort_3=0Löwe und Hyäne	
+Antwort_4=0Puma und Schakal	
+
+[48]
+FZ1=
+FZ2=Welche Schulterhöhe hat ein ausgewachsener Lippenbär ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=170 cm	
+Antwort_2=0150 cm	
+Antwort_3=0100 cm	
+Antwort_4=0180 cm	
+
+[49]
+FZ1=
+FZ2=Wie groß ist ein erwachsener, aufgerichteter Lippenbär ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1140 - 190 cm	
+Antwort_2=080 - 130 cm	
+Antwort_3=0195 - 225 cm	
+Antwort_4=0250 - 300 cm	
+
+[50]
+FZ1=
+FZ2=Wann wird der Malaienbär aktiv ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1nachts	
+Antwort_2=0morgends	
+Antwort_3=0nachmittags	
+Antwort_4=0mittags	
+
+[51]
+FZ1=
+FZ2=Wie groß ist ein aufgerichteter, erwachsener Malaienbär ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1100 - 140 cm	
+Antwort_2=0160 - 195 cm	
+Antwort_3=065 - 95 cm	
+Antwort_4=0220 - 300 cm	
+
+[52]
+FZ1=
+FZ2=Wo leben die Eisbären ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1am nördlichen Polarmeer	
+Antwort_2=0am westlichen Polarmeer	
+Antwort_3=0am südlichen Polarmeer	
+Antwort_4=0am östlichen Polarmeer	
+
+[53]
+FZ1=
+FZ2=Wie schwer werden erwachsene Eisbärinnen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 400 kg	
+Antwort_2=0ca. 600 kg	
+Antwort_3=0ca. 200 kg	
+Antwort_4=0ca. 800 kg	
+
+[54]
+FZ1=
+FZ2=Welche Schulterhöhe hat ein ausgewachsener Eisbär ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11,50 m	
+Antwort_2=00,75 m	
+Antwort_3=01 m	
+Antwort_4=02,50 m	
+
+[55]
+FZ1=
+FZ2=Wie groß ist ein Eisbär, wenn er sich aufrichtet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 2,50 m	
+Antwort_2=0ca. 1,50 m	
+Antwort_3=0ca. 3,50	
+Antwort_4=0ca. 4,50 m	
+
+[56]
+FZ1=
+FZ2=Weshalb ist der amerikanische Präsident Theodore Roosevelt der Namensvater der
+FZ3=Teddybären ?
+Min=1000
+Max=16000
+Antwort_1=1Er hatte es 1902 auf einer Jagd	abgelehnt, einen jungen Schwarzbären	zu erschießen.	
+Antwort_2=0Er stellte 1902 die Braunbären in	Amerika unter Naturschutz.	
+Antwort_3=0Er gründete 1902 die erste	Stoffbärenfabrik in New York.	
+Antwort_4=0Er erlegte auf eine Jagd 1902 ohne	fremde Hilfe 5 Bären nur mit einem	Messer.	
+
+[57]
+FZ1=
+FZ2=Welche Stadt hat einen Bären in ihrem Wappen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Berlin	
+Antwort_2=0Hamburg	
+Antwort_3=0München	
+Antwort_4=0Bochum	
+
+[58]
+FZ1=
+FZ2=Wie wird der Bär in vielen Kinderbüchern und in Märchen genannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Meister Petz	
+Antwort_2=0Geselle Brummig	
+Antwort_3=0Meister Lampe	
+Antwort_4=0Lehrling Tollpatsch	
+
+[59]
+FZ1=
+FZ2=Welche Jahreszeit ist für die Schwarzbären die beste Sammelzeit ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1der Herbst	
+Antwort_2=0der Frühling	
+Antwort_3=0der Sommer	
+Antwort_4=0der Winter	
+
+[60]
+FZ1=
+FZ2=Wovon ernähren sich - mit Ausnahme des Eisbären - hauptsächlich die Bären ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1von Pflanzen	
+Antwort_2=0von Fischen	
+Antwort_3=0von Fleisch	
+Antwort_4=0von Aas	
+
+[61]
+FZ1=
+FZ2=Was macht ein Bär, wenn er eine große Beute erlegt hat ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Er frisst nicht alles auf, sondern	versteckt den Rest für später.	
+Antwort_2=0Er teilt es mit anderen Bären.	
+Antwort_3=0Er frisst alles auf, weil er dann 14 Tage	satt ist.	
+Antwort_4=0Er frisst nur die leckersten Sachen.	
+
+[62]
+FZ1=
+FZ2=Wie viel Kilogramm kann ein Braunbär am Tag zunehmen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 3 kg	
+Antwort_2=0ca. 32 kg	
+Antwort_3=0ca. 13 kg	
+Antwort_4=0ca. 63 kg	
+
+[63]
+FZ1=
+FZ2=Wie viel Futter können Braunbären täglich fressen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1ca. 41 kg	
+Antwort_2=0ca. 66 kg	
+Antwort_3=0ca. 101 kg	
+Antwort_4=0ca. 15 kg	
+
+[64]
+FZ1=
+FZ2=Welche Geschwindigkeit kann ein Eisbär erreichen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ca. 40 km/h	
+Antwort_2=0ca. 60 km/h	
+Antwort_3=0ca. 20 km/h	
+Antwort_4=0ca. 80 km/h	
+
+[65]
+FZ1=
+FZ2=Wie tief können Eisbären tauchen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1ca. 4,50 m	
+Antwort_2=0ca. 9 m	
+Antwort_3=0ca. 6,50 m	
+Antwort_4=0ca. 15 m	
+
+[66]
+FZ1=
+FZ2=Mit welchen Füßen paddelt der Eisbär ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nur mit den Vorderfüßen	
+Antwort_2=0nur mit den linken Füßen	
+Antwort_3=0nur mit den Hinterfüßen	
+Antwort_4=0nur mit den rechten Füßen	
+
+[67]
+FZ1=
+FZ2=Welcher Bär kann am besten schwimmen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Eisbär	
+Antwort_2=0Kragenbär	
+Antwort_3=0Grizzly	
+Antwort_4=0Lippenbär	
+
+[68]
+FZ1=
+FZ2=Wie weit können Eisbären ohne Pause schwimmen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 95 km	
+Antwort_2=0ca. 45 km	
+Antwort_3=0ca. 70 km	
+Antwort_4=0ca. 20 km	
+
+[69]
+FZ1=
+FZ2=Wie heißt der Bär, dessen Fell an den Schultern besonders lang und dicht ist ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kragenbär	
+Antwort_2=0Grizzly	
+Antwort_3=0Kodiakbär	
+Antwort_4=0Malaienbär	
+
+[70]
+FZ1=
+FZ2=Welcher Bär, der nicht zu den echten Bären gehört, hat einen Greifschwanz ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Wickelbär	
+Antwort_2=0Kleine Panda	
+Antwort_3=0Nasenbär	
+Antwort_4=0Waschbär	
+
+[71]
+FZ1=
+FZ2=Welcher Bär kann als einziger die Lippen spitzen und damit Termiten einsaugen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Lippenbär	
+Antwort_2=0Nasenbär	
+Antwort_3=0Kragenbär	
+Antwort_4=0Brillenbär	
+
+[72]
+FZ1=
+FZ2=Wie heißt der größte lebende Bär der Welt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Kamtschatkabär	
+Antwort_2=0Eisbär	
+Antwort_3=0Grizzly	
+Antwort_4=0Kodiakbär	
+
+[73]
+FZ1=
+FZ2=Bei welchem Bär sitzt das Fell so locker, dass es Falten wirft ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Malaienbär	
+Antwort_2=0Lippenbär	
+Antwort_3=0Faltenbär	
+Antwort_4=0Kragenbär	
+
+[74]
+FZ1=
+FZ2=Welches "Bärenkind" wächst in einem Beutel auf, weil es gar kein Bär ist,
+FZ3=sondern zu den Beuteltieren gehört ?
+Min=4000
+Max=64000
+Antwort_1=1Koala	
+Antwort_2=0Grizzly	
+Antwort_3=0Panda	
+Antwort_4=0Kragenbär	
+
+[75]
+FZ1=
+FZ2=Welcher Bär, der zu den Kleinbären gehört, hat einen buschigen, geringelten
+FZ3=Schwanz ?
+Min=8000
+Max=125000
+Antwort_1=1Waschbär	
+Antwort_2=0Wickelbär	
+Antwort_3=0Nasenbär	
+Antwort_4=0Kleine Panda	
+
+[76]
+FZ1=
+FZ2=Welcher Bär trägt einen hellgefärbten Fellkreis um seine Augen ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1Brillenbär	
+Antwort_2=0Nasenbär	
+Antwort_3=0Kragenbär	
+Antwort_4=0Lippenbär	
+
+[77]
+FZ1=
+FZ2=Wie nennt man die Fußabdrücke im Boden, die ein Bär hinterlassen hat ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Trittsiegel	
+Antwort_2=0Krallenfährte	
+Antwort_3=0Fußstempel	
+Antwort_4=0Beinspur	
+
+[78]
+FZ1=
+FZ2=Welcher Bär, der nicht zu den echten Bären gehört, lebt in Mittel- und Südamerika
+FZ3=und hat ein rüsselartiges, bewegliches Riechorgan ?
+Min=1000
+Max=16000
+Antwort_1=1Nasenbär	
+Antwort_2=0Kragenbär	
+Antwort_3=0Lippenbär	
+Antwort_4=0Eisbär	
+
+[79]
+FZ1=
+FZ2=Welcher Bär ist schwarz-weiß gefleckt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Große Panda	
+Antwort_2=0Malaienbär	
+Antwort_3=0Eisbär	
+Antwort_4=0Kragenbär	
+
+[80]
+FZ1=
+FZ2=Welcher Bär wird in China auch Feuerfuchs genannt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kleine Panda	
+Antwort_2=0Lippenbär	
+Antwort_3=0Große Panda	
+Antwort_4=0Grizzly	
+
+[81]
+FZ1=
+FZ2=Welcher Bär wird auch Sonnenbär genannt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Malaienbär	
+Antwort_2=0Kragenbär	
+Antwort_3=0Lippenbär	
+Antwort_4=0Große Panda	
+
+[82]
+FZ1=
+FZ2=Wie nennt man den Kleinen Panda in China ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Feuerfuchs	
+Antwort_2=0Zimttiger	
+Antwort_3=0Rotwolf	
+Antwort_4=0Wasserlöwe	
+
+[83]
+FZ1=
+FZ2=Wie groß ist der Schwanz des Kleinen Panda,
+FZ3=der wie die Waschbären zu den Kleinbären gehört ?
+Min=4000
+Max=64000
+Antwort_1=1ca. 50 cm	
+Antwort_2=0ca. 1 m	
+Antwort_3=0ca. 20 cm	
+Antwort_4=0Der Kleine Panda hat nur einen kaum	sichtbaren Pummelschwanz.	
+
+[84]
+FZ1=
+FZ2=Wie groß ist der Kleine Panda, der wie die Waschbären zu den Kleinbären gehört ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 1 m	
+Antwort_2=0ca. 30 cm	
+Antwort_3=0ca. 0,50 cm	
+Antwort_4=0ca. 1,50 m	
+
+[85]
+FZ1=
+FZ2=Wie viele Stunden am Tag frisst der Große Panda ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 14	
+Antwort_2=0ca. 6	
+Antwort_3=0ca. 10	
+Antwort_4=0ca. 2	
+
+[86]
+FZ1=
+FZ2=Wie nennt man den Greifballen an den Vorderpfoten des Großen Panda,
+FZ3=mit dem sie ihre Nahrung greifen können ?
+Min=8000
+Max=64000
+Antwort_1=1falscher Daumen	
+Antwort_2=0dritte Hand	
+Antwort_3=0falsche Hand	
+Antwort_4=0Greifzange	
+
+[87]
+FZ1=
+FZ2=Weshalb kann der Lippenbär seine Nase verschließen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1damit keine Insekten hineinkrabbeln	
+Antwort_2=0damit er nicht immer niesen muss	
+Antwort_3=0damit es nicht hineinregnet	
+Antwort_4=0damit er sich nicht erkältet	
+
+[88]
+FZ1=
+FZ2=Welches Tier wird auch Katzenbär genannt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1der Kleine Panda	
+Antwort_2=0der Grizzly	
+Antwort_3=0der Große Panda	
+Antwort_4=0der Lippenbär	
+
+[89]
+FZ1=
+FZ2=Wie wird der Kleine Panda auch genannt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Kätzenbär	
+Antwort_2=0Mäusebär	
+Antwort_3=0Hundebär	
+Antwort_4=0Hasenbär	
+
+[90]
+FZ1=
+FZ2=Wie viel Kilogramm Bambus frisst ein ausgewachsener Panda an einem Tag ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 15 kg	
+Antwort_2=0ca. 3,5 kg	
+Antwort_3=0ca. 5 kg	
+Antwort_4=0ca. 10 kg	
+
+[91]
+FZ1=
+FZ2=Wie viele Jungen zieht die Pandamutter nach einer Geburt auf ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1immer nur eins	
+Antwort_2=0drei bis vier	
+Antwort_3=0zwei	
+Antwort_4=0sechs	
+
+[92]
+FZ1=
+FZ2=Wie groß ist ein ausgewachsener, aufgerichteter Panda ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=11,50 - 1,80 m	
+Antwort_2=02,10 - 2,30 m	
+Antwort_3=01 - 1,40 m	
+Antwort_4=00,75 - 1,10 m	
+
+[93]
+FZ1=
+FZ2=Wie schwer ist ein junger Panda bei der Geburt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1100 g	
+Antwort_2=0300 g	
+Antwort_3=0200 g	
+Antwort_4=0400 g	
+
+[94]
+FZ1=
+FZ2=Wie nennen die Chinesen den Großen Panda ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1"beishung" = weißer Bär	
+Antwort_2=0"dicklung" = dicker Bär	
+Antwort_3=0"bärlung" = lustiger Bär	
+Antwort_4=0"drollfung" = tapsiger Bär	
+
+[95]
+FZ1=
+FZ2=Zu welcher Tierfamilie gehört der Koala ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1zu den Beuteltieren	
+Antwort_2=0zu den Kleinen Bären	
+Antwort_3=0zu den Großen Bären	
+Antwort_4=0zu den Nagetieren	
+
+[96]
+FZ1=
+FZ2=Wo lebte der Kamtschatkabär ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1im äußersten Osten der Sowjetunion	
+Antwort_2=0im äußersten Norden von Norwegen	
+Antwort_3=0im äußersten Süden Argentiniens	
+Antwort_4=0im äußersten Westen von Kanada	
+
+[97]
+FZ1=
+FZ2=Welche Bären können am besten auf zwei Beinen laufen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Kragenbären	
+Antwort_2=0Eisbären	
+Antwort_3=0Lippenbären	
+Antwort_4=0Malaienbären	
+
+[98]
+FZ1=
+FZ2=Wie lang können die Sichelkrallen des Lippenbären werden ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1bis 7,5 cm	
+Antwort_2=02 - 4 cm	
+Antwort_3=0bis 10 cm	
+Antwort_4=011 - 13,5 cm	
+
+[99]
+FZ1=
+FZ2=Wie viele Monate schlafen die Braunbären in strengen Wintern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1bis zu 7 Monaten	
+Antwort_2=011 Monate	
+Antwort_3=03 - 4 Monate	
+Antwort_4=0ca. 6 Wochen	
+
+[100]
+FZ1=
+FZ2=Was bedeutet das englische Wort "grizzly" für den nordamerikanischen
+FZ3=Braunbären Grizzly ?
+Min=32000
+Max=250000
+Antwort_1=1grauhaarig	
+Antwort_2=0gewaltig	
+Antwort_3=0stark	
+Antwort_4=0zottelig	
+
+[101]
+FZ1=
+FZ2=Wie heißt der einzige Großbär Südamerikas ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Brillenbär	
+Antwort_2=0Eisbär	
+Antwort_3=0Malaienbär	
+Antwort_4=0Kragenbär	
+
+[102]
+FZ1=
+FZ2=In welchen Abständen muss der Eisbär eine Robbe fressen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1etwa alle 11 Tage	
+Antwort_2=0einmal in der Woche	
+Antwort_3=0morgens, mittags, abends	
+Antwort_4=0jeden Tag	
+
+[103]
+FZ1=
+FZ2=Wie viele Arten von Kleinbären gibt es ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=19	
+Antwort_2=05	
+Antwort_3=07	
+Antwort_4=03	
+
+[104]
+FZ1=
+FZ2=In welche zwei Gruppen werden die Bären eingeteilt ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Großbären und Kleinbären	
+Antwort_2=0Landbären und Wasserbären	
+Antwort_3=0Dickbären und Dünnbären	
+Antwort_4=0Sommerbären und Winterbären	
+
+[105]
+FZ1=
+FZ2=Welches Tier ist  k e i n  Bär ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Koala	
+Antwort_2=0Grizzly	
+Antwort_3=0Große Panda	
+Antwort_4=0Brillenbär	
+
+[106]
+FZ1=
+FZ2=Wie hieß der einzige Bär, der in Afrika lebte und gegen Ende des 19. Jahrhunderts
+FZ3=ausgestorben ist ?
+Min=32000
+Max=250000
+Antwort_1=1Atlasbär	
+Antwort_2=0Steppenbär	
+Antwort_3=0Wüstenbär	
+Antwort_4=0Savannenbär	
+
+[107]
+FZ1=
+FZ2=Wo liegt die Insel Kodiak, die Heimat der Kodiakbären ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1vor Alaska	
+Antwort_2=0vor Japan	
+Antwort_3=0vor Madagaskar	
+Antwort_4=0vor Grönland	
+
+[108]
+FZ1=
+FZ2=Was fressen Kodiakbären ganz besonders gerne ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Lachse	
+Antwort_2=0Haie	
+Antwort_3=0Aale	
+Antwort_4=0Forellen	
+
+[109]
+FZ1=
+FZ2=Wie schwer kann der Kodiakbär werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 700 kg	
+Antwort_2=0ca. 500 kg	
+Antwort_3=0ca. 300 kg	
+Antwort_4=0ca. 100 kg	
+
+[110]
+FZ1=
+FZ2=Wie groß kann der Kodiakbär werden, wenn er aufgerichtet auf seinen Hinterbeinen
+FZ3=steht ?
+Min=1000
+Max=8000
+Antwort_1=1ca. 3 m	
+Antwort_2=0ca. 1,75 m	
+Antwort_3=0ca. 2,2 m	
+Antwort_4=0ca. 4,5 m	
+
+[111]
+FZ1=
+FZ2=Wie heißt der größte Vertreter der Bärenfamilie ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kamtschatkabär	
+Antwort_2=0Großer Panda	
+Antwort_3=0Grizzly	
+Antwort_4=0Kragenbär	
+
+[112]
+FZ1=
+FZ2=Wie wird der Tibetbär auch genannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Blaubär	
+Antwort_2=0Gelbbär	
+Antwort_3=0Grünbär	
+Antwort_4=0Rotbär	
+
+[113]
+FZ1=
+FZ2=Wie heißt der enge Verwandte des Europäischen Braunbären,
+FZ3=der in Zentralasien wohnt ?
+Min=250000
+Max=500000
+Antwort_1=1Isabell - Braunbär	
+Antwort_2=0Felicitas - Braunbär	
+Antwort_3=0Susanna -Braunbär	
+Antwort_4=0Anna - Braunbär	
+
+[114]
+FZ1=
+FZ2=Wie schwer kann ein Grizzly werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1bis 500 kg	
+Antwort_2=0ca. 666 kg	
+Antwort_3=0250 - 300 kg	
+Antwort_4=0etwa 1 Tonne	
+
+[115]
+FZ1=
+FZ2=Wie viel Nahrung nimmt der Europäische Braunbär täglich zu sich ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 12 kg	
+Antwort_2=0ca. 34 kg	
+Antwort_3=0ca. 20 kg	
+Antwort_4=0ca. 51 kg	
+
+[116]
+FZ1=
+FZ2=Wie groß (lang) wird der Europäische Braunbär ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 2 m	
+Antwort_2=0ca. 0,9 m	
+Antwort_3=0ca. 1,4 m	
+Antwort_4=0ca. 3,2 m	
+
+[117]
+FZ1=
+FZ2=Welche Geschwindigkeit können Schwarzbären erreichen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 50 km/h	
+Antwort_2=0ca. 30 km/h	
+Antwort_3=0ca. 40 km/h	
+Antwort_4=0ca. 70 km/h	
+
+[118]
+FZ1=
+FZ2=Welcher Bär ist der häufigste Vertreter der Großbären ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Schwarzbär	
+Antwort_2=0Lippenbär	
+Antwort_3=0Eisbär	
+Antwort_4=0Große Panda	
+
+[119]
+FZ1=
+FZ2=Wie schwer wird der Kragenbär ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 150 kg	
+Antwort_2=0ca. 300 kg	
+Antwort_3=0ca. 65 kg	
+Antwort_4=0ca. 723 kg	
+
+[120]
+FZ1=
+FZ2=Wie groß (lang) wird der Kragenbär ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 1,50 m	
+Antwort_2=0ca. 2 m	
+Antwort_3=0ca. 0,60 m	
+Antwort_4=0ca. 3,5 m	
+
+[121]
+FZ1=
+FZ2=Welcher Bär hält keinen Winterschlaf ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Malaienbär	
+Antwort_2=0Schwarzbär	
+Antwort_3=0Grizzly	
+Antwort_4=0Braunbär	
+
+[122]
+FZ1=
+FZ2=Wie heißt der kleinste Bär, der zu den großen Bärenarten gehört ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Malaienbär	
+Antwort_2=0Eisbär	
+Antwort_3=0Schwarzbär	
+Antwort_4=0Grizzly	
+
+[123]
+FZ1=
+FZ2=Wie groß (lang) wird der Malaienbär ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 1,20 m	
+Antwort_2=0ca. 2,5 m	
+Antwort_3=0ca. 0,75 m	
+Antwort_4=0ca. 3 m	
+
+[124]
+FZ1=
+FZ2=Wie heißt das Wappentier des Welttierschutzverbandes ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Große Panda	
+Antwort_2=0Lippenbär	
+Antwort_3=0Grizzly	
+Antwort_4=0Eisbär	
+
+[125]
+FZ1=
+FZ2=Wie viele Große Pandas gibt es wahrscheinlich nur noch in der freien Natur ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 1.000	
+Antwort_2=0etwa 3.500	
+Antwort_3=0ungefähr 200	
+Antwort_4=0zwischen 400 und 600	
+
+[126]
+FZ1=
+FZ2=Wie viele Eisbären dürfen die Eskimos in jedem Jahr höchstens schießen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=11.000	
+Antwort_2=0100	
+Antwort_3=010.000	
+Antwort_4=010	
+
+[127]
+FZ1=
+FZ2=Weshalb rutschen die Eisbären auf dem Eis nicht aus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ihre Sohlen sind behaart.	
+Antwort_2=0Ihre Krallen besitzen Widerhaken.	
+Antwort_3=0Ihre nackten Sohlen sind wärmer als	der übrige Körper, deshalb schmilzt das	Eis.	
+Antwort_4=0Die Eisbären laufen zu schnell über das	Eis.	
+
+[128]
+FZ1=
+FZ2=Was ist die Lieblingsspeise des Lippenbären ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Termiten	
+Antwort_2=0Brombeeren	
+Antwort_3=0Waldhonig	
+Antwort_4=0Lachse	
+
+[129]
+FZ1=Der Lippenbär kratzt ein Loch in die Wand eines Termitenbaues und saugt dann die
+FZ2=Bewohner in seinen Mund. Dabei zieht er die Luft sehr laut ein. Bis in welche
+FZ3=Entfernung ist dieses Geräusch zu hören ?
+Min=8000
+Max=125000
+Antwort_1=1200 m	
+Antwort_2=0600 m	
+Antwort_3=050 m	
+Antwort_4=01.000 m	
+
+[130]
+FZ1=
+FZ2=Wie wird der Lippenbär von den Einheimischen auch genannt, weil er viel schläft
+FZ3=und sich recht langsam fortbewegt ?
+Min=2000
+Max=32000
+Antwort_1=1Faulbär	
+Antwort_2=0Schneckenbär	
+Antwort_3=0Schlafbär	
+Antwort_4=0Traumbär	
+
+[131]
+FZ1=
+FZ2=Wie schwer wird der Malaienbär ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ca. 60 kg	
+Antwort_2=0ca. 6 kg	
+Antwort_3=0ca. 600 kg	
+Antwort_4=0ca. 6.000 kg	
+
+[132]
+FZ1=
+FZ2=Der Brillenbär ist vom Aussterben bedroht. Wie viele Bären gibt es noch ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 4.000	
+Antwort_2=0ca. 20.000	
+Antwort_3=0ca. 1.000	
+Antwort_4=0ca. 25	
+
+[133]
+FZ1=
+FZ2=Wie heißt der berühmteste Bärenkapitän ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Käpt´n Blaubär	
+Antwort_2=0Käpt´n Grünbär	
+Antwort_3=0Käpt´n Rotbär	
+Antwort_4=0Käpt´n Gelbbär	
+
+[134]
+FZ1=
+FZ2=Was frisst der Kragenbär am meisten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Eicheln und Nüsse	
+Antwort_2=0Gras und Sträucher	
+Antwort_3=0Mandeln und Bambus	
+Antwort_4=0Beeren und Honig	
+
+[135]
+FZ1=
+FZ2=Welchen Bären gibt es nicht ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Grünbär	
+Antwort_2=0Schwarzbär	
+Antwort_3=0Braunbär	
+Antwort_4=0Eisbär	
+
+[136]
+FZ1=
+FZ2=Welchen Bären gibt es ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Brillenbär	
+Antwort_2=0Krückstockbär	
+Antwort_3=0Hörgerätbär	
+Antwort_4=0Lupenbär	
+
+[137]
+FZ1=
+FZ2=Welchen Bären gibt es ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Lippenbär	
+Antwort_2=0Augenbär	
+Antwort_3=0Ohrenbär	
+Antwort_4=0Halsbär	
+
+[138]
+FZ1=
+FZ2=Welchen Bären gibt es ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Kragenbär	
+Antwort_2=0Ärmelbär	
+Antwort_3=0Gürtelbär	
+Antwort_4=0Taschenbär	
+
+[139]
+FZ1=
+FZ2=Wo lebt der Große Panda ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1China	
+Antwort_2=0Marokko	
+Antwort_3=0Bolivien	
+Antwort_4=0Ägypten	
+
+[140]
+FZ1=
+FZ2=Wo lebt der Kragenbär ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Mittel- und Südasien	
+Antwort_2=0West- und Ostafrika	
+Antwort_3=0Nord- und Südamerika	
+Antwort_4=0Zentralaustralien	
+
+[141]
+FZ1=
+FZ2=Wo lebt der Lippenbär ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Japan	
+Antwort_2=0Finnland	
+Antwort_3=0Peru	
+Antwort_4=1Indien, Sri Lanka	
+
+[142]
+FZ1=
+FZ2=Wo lebt der Malaienbär ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Südostasien	
+Antwort_2=0Südpol	
+Antwort_3=0Australien	
+Antwort_4=0Nordpol	
+
+[143]
+FZ1=
+FZ2=Wo lebt der Brillenbär ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Südamerika	
+Antwort_2=0Australien	
+Antwort_3=0Asien	
+Antwort_4=0Afrika	
+
+[144]
+FZ1=
+FZ2=Wo lebt der Eisbär ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nördliches Polargebiet	
+Antwort_2=0Mittel- und Südostasien	
+Antwort_3=0Südliches Polargebiet	
+Antwort_4=0Südamerika	
+
+[145]
+FZ1=
+FZ2=Welcher Bär hat Schwimmhäute zwischen den Zehen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Eisbär	
+Antwort_2=0Brillenbär	
+Antwort_3=0Kragenbär	
+Antwort_4=0Panda	
+
+[146]
+FZ1=
+FZ2=Wie viel Gewicht verlieren die Bären während ihres Winterschlafes ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=115 - 30 %	
+Antwort_2=010 %	
+Antwort_3=0ungefähr die Hälfte	
+Antwort_4=0Sie verlieren kein Gewicht.	
+
+[147]
+FZ1=
+FZ2=Wo gab es niemals Bären ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Australien	
+Antwort_2=0Nordamerika	
+Antwort_3=0Europa	
+Antwort_4=0Asien	
+
+[148]
+FZ1=
+FZ2=Wie lange schläft ein Eisbär ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1manchmal 8 Stunden	
+Antwort_2=02 - 3 Stunden	
+Antwort_3=0Ein Eisbär schläft nie.	
+Antwort_4=0immer nur ein paar Minuten	
+
+[149]
+FZ1=
+FZ2=Wie heißt eine bekannte Dosenmilch ?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Bärenmarke	
+Antwort_2=0Bärenliebe	
+Antwort_3=0Bärenmilch	
+Antwort_4=0Bärenglück	
+
+[150]
+FZ1=
+FZ2=Was macht ein Bär, wenn er von Bienen gestochen wird ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Er kühlt sich im Wasser ab.	
+Antwort_2=0Er jault.	
+Antwort_3=0Er schmiert sich mit Matsch ein.	
+Antwort_4=0Er kratzt sich wild.	
+
+[151]
+FZ1=
+FZ2=Wie nennt man die Erscheinung, dass man dem Bären menschliche Eigenschaften
+FZ3=zuordnet ?
+Min=500000
+Max=500000
+Antwort_1=1Anthropomorphie	
+Antwort_2=0Anthropologie	
+Antwort_3=0Legastenie	
+Antwort_4=0Soziologie	
+
+[152]
+FZ1=
+FZ2=Warum findet der Mensch den Bären so interessant ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1weil der Bär in vieler Hinsicht dem	Menschen gleicht	
+Antwort_2=0weil der Bär der Urahn des Menschen	ist	
+Antwort_3=0weil der Bär so stark ist	
+Antwort_4=0weil er so ein kuscheliges Fell hat	
+
+[153]
+FZ1=
+FZ2=Wie viele Bären sind in einem Gebiet mindestens notwendig, um ihren Fortbestand
+FZ3=zu sichern ?
+Min=64000
+Max=250000
+Antwort_1=160	
+Antwort_2=0150	
+Antwort_3=080 - 100	
+Antwort_4=010 - 30	
+
+[154]
+FZ1=
+FZ2=Welche ist die größte Bedrohung für den Bären ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1der Eingriff in seinen Lebensraum und	die Jagd	
+Antwort_2=0die Umweltverschmutzung	
+Antwort_3=0die Wilderei	
+Antwort_4=0Meteoriteneinschläge	
+
+[155]
+FZ1=
+FZ2=Was ist das Lieblingsfressen von Winnie - Pu ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Honig	
+Antwort_2=0Schokolade	
+Antwort_3=0Apfeltorte	
+Antwort_4=0Bananen	
+
+[156]
+FZ1=
+FZ2=Wie heißt der Bär aus dem Dschungelbuch ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Balu	
+Antwort_2=0Mogli	
+Antwort_3=0Bagheera	
+Antwort_4=0Kaa	
+
+[157]
+FZ1=
+FZ2=In welchem berühmten Zeichentrickfilm tanzt der Bär Balu seinen famosen Tanz ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Dschungelbuch	
+Antwort_2=0Bambi	
+Antwort_3=0Fantasia	
+Antwort_4=0Das große Krabbeln	
+
+[158]
+FZ1=
+FZ2=Wo kommt der kleine Bär Paddington ursprünglich her ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1aus Peru	
+Antwort_2=0aus Neuseeland	
+Antwort_3=0aus Kolumbien	
+Antwort_4=0aus Australien	
+
+[159]
+FZ1=
+FZ2=Auf wen bezieht sich der Name Teddy ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1auf Theodore Roosevelt, einem	amerikanischen Präsidenten	
+Antwort_2=0auf Mr. Ted, dem sprechenden	Zirkusbären	
+Antwort_3=0auf Teddy Duncan	
+Antwort_4=0auf Ted Dy, einem berühmten	Naturforscher	
+
+[160]
+FZ1=
+FZ2=Wann wurde der Name Teddy für Teddybär zum ersten Male verwendet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11902	
+Antwort_2=01922	
+Antwort_3=01896	
+Antwort_4=01954	
+
+[161]
+FZ1=
+FZ2=Welcher erdkundliche Name ist vom Bären abgeleitet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Berlin	
+Antwort_2=0Bayern	
+Antwort_3=0Bergen	
+Antwort_4=0Belgrad	
+
+[162]
+FZ1=
+FZ2=Wie nennen die Eskimos den Bären sonst noch ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Er - der - ohne - Schatten - ist	
+Antwort_2=0Er - der - immer  Hunger - hat	
+Antwort_3=0Er - der - verrückt - auf - Kinder - ist	
+Antwort_4=0Er - der - dem - Schneesturm - trotzt	
+
+[163]
+FZ1=
+FZ2=Wie nennen die Indianer den Bären sonst noch ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Urgroßvater	
+Antwort_2=0großer Neffe	
+Antwort_3=0schreckliche Schwiegermutter	
+Antwort_4=0böser Onkel	
+
+[164]
+FZ1=
+FZ2=Wann verehrten die Neandertaler den Bären ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1vor 30.000 Jahren	
+Antwort_2=0vor 10.000 Jahren	
+Antwort_3=0vor 50.000 Jahren	
+Antwort_4=0vor 3.500 Jahren	
+
+[165]
+FZ1=
+FZ2=Wie tötet der Bär seinen Gegner ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1Er gibt ihm einen harten Schlag und	beißt seinen Hals durch.	
+Antwort_2=0Er schleudert ihn gegen einen Baum.	
+Antwort_3=0Er legt sich drauf.	
+Antwort_4=0Er wirft ihn einen Abhang hinunter.	
+
+[166]
+FZ1=
+FZ2=Wann kann ein Bär hauptsächlich angreifen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1wenn er etwas als leckere Nahrung	ansieht oder wenn er bedroht wird	
+Antwort_2=0wenn er in seinem Schlaf gestört wird	
+Antwort_3=0wenn er böse ist	
+Antwort_4=0bei Sonnenuntergang	
+
+[167]
+FZ1=
+FZ2=Was macht ein junger Bär, der auf einem Baum von einem großen Bären verfolgt
+FZ3=wird ?
+Min=300
+Max=1000
+Antwort_1=1Er setzt sich auf einen dünnen Ast, der	mit dem großen Bären durchbrechen	würde.	
+Antwort_2=0Er wirft mit Blättern.	
+Antwort_3=0Er springt auf einen anderen Baum.	
+Antwort_4=0Er klettert an der Rückseite des	Stammes herunter.	
+
+[168]
+FZ1=
+FZ2=Warum müssen junge Bären gut klettern können ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1um sich retten zu können, wenn ein	Männchen sie angreift	
+Antwort_2=0um für die Mutter Bienenkörbe aus dem	Baum zu holen	
+Antwort_3=0um in den Bäumen frische Blätter	finden zu können	
+Antwort_4=0um besser die Aussicht zu genießen	
+
+[169]
+FZ1=
+FZ2=Wie lange können Eisbären unter Wasser bleiben ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=12 Minuten	
+Antwort_2=04 Minuten	
+Antwort_3=030 Sekunden	
+Antwort_4=0eine Viertelstunde	
+
+[170]
+FZ1=
+FZ2=Warum sind Eisbären so gute Schwimmer ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie haben Schwimmhäute zwischen	den Zehen.	
+Antwort_2=0Sie müssen mit den Robben mithalten.	
+Antwort_3=0Sie haben es so gut gelernt.	
+Antwort_4=0Sie machen es so gerne.	
+
+[171]
+FZ1=
+FZ2=Können Bären schwimmen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ja, sogar sehr gut	
+Antwort_2=0ein bisschen, es ist mehr ein Paddeln	
+Antwort_3=0nein, sie können nur in flachem Wasser	stehen	
+Antwort_4=0nur die Männchen können schwimmen	
+
+[172]
+FZ1=
+FZ2=Wie trinken Bären ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie saugen das Wasser ein.	
+Antwort_2=0Sie gehen schwimmen und lassen das	Wasser dann in ihre Schnauze laufen.	
+Antwort_3=0Sie lecken mit ihrer Zunge das Wasser.	
+Antwort_4=0Sie pressen saftige Beeren aus.	
+
+[173]
+FZ1=
+FZ2=Wie lange halten Eisbärmännchen Winterschlaf ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Männchen halten keinen	Winterschlaf	
+Antwort_2=07 Monate	
+Antwort_3=03 Monate	
+Antwort_4=04 - 6 Wochen	
+
+[174]
+FZ1=
+FZ2=Wie lange dauert der Winterschlaf im Durchschnitt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1dreieinhalb bis vier Monate	
+Antwort_2=020 Wochen	
+Antwort_3=05 - 6 Monate	
+Antwort_4=0zweieinhalb bis fünf Monate	
+
+[175]
+FZ1=
+FZ2=Produzieren die Bären Ausscheidungen während des Winterschlafes ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nein	
+Antwort_2=0ja, sie vergraben sie dann von Zeit  zu	Zeit	
+Antwort_3=0kleine Mengen	
+Antwort_4=0jeden fünften Tag	
+
+[176]
+FZ1=
+FZ2=Was machen die Bären während ihres Winterschlafes ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1schlafen, manchmal kurz nach draußen	schauen, sich umdrehen und weiter	schlafen	
+Antwort_2=0schlafen, fressen, trinken	
+Antwort_3=0schlafen, aufwachen, räkeln, nach	draußen gehen, fressen und trinken	
+Antwort_4=0Sie schlafen durch.	
+
+[177]
+FZ1=
+FZ2=Was machen die Eisbären im Oktober in Churchill ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1warten, bis der Hudson-Bai zugefroren	ist	
+Antwort_2=0warten, bis ein Rudel Seehunde	vorbeikommt	
+Antwort_3=0Die dortige Obsternte plündern.	
+Antwort_4=0in die warmen Iglus der Eskimos ziehen	
+
+[178]
+FZ1=
+FZ2=Was macht der Eisbär manchmal, wenn er an einem Eisloch liegt und auf einen
+FZ3=Seehund wartet ?
+Min=1000
+Max=16000
+Antwort_1=1Er versteckt seine schwarze Schnauze	hinter seiner Vorderpfote.	
+Antwort_2=0Er liegt auf dem Rücken, um seine	Fußsohlen zu verstecken.	
+Antwort_3=0Er schläft ein.	
+Antwort_4=0Er lockt den Seehund mit leisem	Brummen an.	
+
+[179]
+FZ1=
+FZ2=Warum sind Bären so neugierig ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1weil sie immer auf der Suche nach	Nahrung sind	
+Antwort_2=0weil sie meistens so alleine sind	
+Antwort_3=0weil es soziale Tiere sind	
+Antwort_4=0weil sie keine Angst kennen	
+
+[180]
+FZ1=
+FZ2=Warum schauen Bären einander selten direkt in die Augen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Es ist unhöflich: Es weist auf Angriffslust	hin.	
+Antwort_2=0Sie vertrauen einander nicht.	
+Antwort_3=0Sie sind von Natur aus sehr schüchtern.	
+Antwort_4=0Sie könnten sich sonst zu schnell	verlieben.	
+
+[181]
+FZ1=
+FZ2=Was machen Bären, wenn sie sich einander begegnen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1umeinander herum drehen und	schnuppern	
+Antwort_2=0aufstehen und sich gegenseitig	abtasten	
+Antwort_3=0sich hinsetzen und sich gegenseitig	anschauen	
+Antwort_4=0sich gegenseitig anbrummen	
+
+[182]
+FZ1=
+FZ2=Was sind Geruchsmarkierungen?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Gerüche, welche Bären hinterlassen,	indem sie sich an Baumstämmen	reiben	
+Antwort_2=0Kennzeichnung der Bären durch	Naturschützer	
+Antwort_3=0bestimmte Geruchstypen	
+Antwort_4=0bestimmte Stellen am Bärenkörper, die	besonders gut riechen	
+
+[183]
+FZ1=
+FZ2=Was für Laute machen Bären ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Sie brummen und knurren.	
+Antwort_2=0Sie knurren und schreien.	
+Antwort_3=0Sie flöten und pfeifen.	
+Antwort_4=0Sie knurren und ächzen.	
+
+[184]
+FZ1=
+FZ2=Welcher Fluss in Alaska wird häufig von Bären besucht ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1der McNeil-Fluss	
+Antwort_2=0der Bering-Fluss	
+Antwort_3=0der Anchorage-Fluss	
+Antwort_4=0der Yukon-Fluss	
+
+[185]
+FZ1=
+FZ2=Wie lange bleiben die Jungen bei ihrer Mutter ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=12 Jahre	
+Antwort_2=03 - 4 Jahre	
+Antwort_3=0sechs Monate	
+Antwort_4=0immer	
+
+[186]
+FZ1=
+FZ2=Bleiben ein männlicher und ein weiblicher Bär nach der Paarung zusammen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1nein	
+Antwort_2=0ja, bis die Jungen ungefähr ein Jahr alt	sind	
+Antwort_3=0ja, bis nach der Geburt der Jungen	
+Antwort_4=0ja, für ein ganzes Bärenleben	
+
+[187]
+FZ1=
+FZ2=Wann besuchen Bären einander ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1wenn sie sich paaren wollen	
+Antwort_2=0wenn sie ihre Höhle fertig haben	
+Antwort_3=0wenn sie zusammen jagen wollen	
+Antwort_4=0wenn sie zusammen spielen wollen	
+
+[188]
+FZ1=
+FZ2=Wann werden die jungen Bären geboren ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1im Dezember und Januar	
+Antwort_2=0im Oktober und November	
+Antwort_3=0im März und April	
+Antwort_4=0im April und Mai	
+
+[189]
+FZ1=
+FZ2=Wo schlafen Bären im Sommer ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1in Betten aus Gras und Blättern	
+Antwort_2=0oft auf einem Baum	
+Antwort_3=0einfach dort, wo es ihnen passt	
+Antwort_4=0in Felsenhöhlen	
+
+[190]
+FZ1=
+FZ2=Warum darf der Platz für die Höhle nicht zu windig sein ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Der Schnee, der den Eingang bedeckt,	darf nicht weggeblasen werden.	
+Antwort_2=0Bären haben gerne Ruhe.	
+Antwort_3=0sonst wehen Blätter in die Höhle	
+Antwort_4=0sonst wir das Futter herausgeweht	
+
+[191]
+FZ1=
+FZ2=Wo bauen Braunbären am liebsten ihre Höhle ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1an einem windgeschützten Hang in den	Bergen	
+Antwort_2=0in einer kleinen Gruppe nahe	beieinander	
+Antwort_3=0unter den Bäumen	
+Antwort_4=0in Braunschweig	
+
+[192]
+FZ1=
+FZ2=Warum ist das Spielen gut für junge Bären ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Sie lernen dabei zu kämpfen.	
+Antwort_2=0Die Mutter hat endlich Ruhe vor ihren	Kleinen.	
+Antwort_3=0Sie lernen dabei, gute Verlierer zu	sein.	
+Antwort_4=0Sie sind beschäftigt, während die	Mutter Nahrung sucht.	
+
+[193]
+FZ1=
+FZ2=Warum müssen junge Bären sich vor männlichen, ausgewachsenen Artgenossen
+FZ3=hüten ?
+Min=2000
+Max=32000
+Antwort_1=1weil die Männchen manchmal junge	Bären fressen	
+Antwort_2=0weil die ausgewachsenen Bären meist	eine Wolf mit sich führen, der sie	fressen will	
+Antwort_3=0weil die Männchen oft ihre Mutter	mitnehmen wollen	
+Antwort_4=0weil die Männchen den Jungen	verkehrte Dinge beibringen	
+
+[194]
+FZ1=
+FZ2=Wie schwer sind junge Bären durchschnittlich bei der Geburt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis 500 g	
+Antwort_2=03 - 5 kg	
+Antwort_3=0ca. 2 kg	
+Antwort_4=010 kg	
+
+[195]
+FZ1=
+FZ2=Warum hört das Embryo nach der Befruchtung auf zu wachsen und wächst erst im
+FZ3=Herbst wieder weiter ?
+Min=8000
+Max=125000
+Antwort_1=1Im Sommer und im Herbst kann die	Bärin reichlich Fettreserven aufbauen.	
+Antwort_2=0weil eine Bärin meist Zwillinge oder	Drillinge bekommt	
+Antwort_3=0weil es ihm in dieser Zeit zu warm ist	und im Herbst wieder angenehm ist	
+Antwort_4=0Die Bärin muss lernen, trächtig zu	werden.	
+
+[196]
+FZ1=
+FZ2=Was ist das Besondere an der Trächtigkeit einer Bärin ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Nach der Befruchtung hört das	Wachstum des Embryos auf und fängt	erst im Herbst wieder an.	
+Antwort_2=0Die erste Trächtigkeit dauert länger als	die folgenden.	
+Antwort_3=0Sie dauert 15 Monate.	
+Antwort_4=0In der Trächtigkeit läuft die Bärin nur	noch auf den Hintertatzen.	
+
+[197]
+FZ1=
+FZ2=Sind Bären wirklich verrückt nach Honig ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1natürlich, aber eigentlich fressen sie	hauptsächlich die Bienenlarven	
+Antwort_2=0ja, vor allem auf Lavendelhonig	
+Antwort_3=0nur die alten Bärendamen, weil sie	harte Nahrung nicht mehr kauen	können	
+Antwort_4=0nein, das ist ein Märchen	
+
+[198]
+FZ1=
+FZ2=Was frisst der Braunbär am liebsten ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Beeren und Fleisch	
+Antwort_2=0Pizza	
+Antwort_3=0Pfannekuchen	
+Antwort_4=0Marmeladenbrote	
+
+[199]
+FZ1=
+FZ2=Warum sucht ein Braunbär so eifrig nach Nahrung ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1weil er während seines Winterschlafes	von seinen Fettreserven leben muss	
+Antwort_2=0weil ihm die größeren Bären oft zuvor	kommen	
+Antwort_3=0weil er so gierig ist	
+Antwort_4=0weil er immer Hunger hat	
+
+[200]
+FZ1=
+FZ2=Wie kommt es, dass  die Bären auf der Insel Kodiak größer sind als andere Bären ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1durch die große Menge guter Nahrung,	die sie dort finden	
+Antwort_2=0dadurch, dass sie viel um die Nahrung	kämpfen müssen	
+Antwort_3=0durch die gesunde Seeluft	
+Antwort_4=0durch die wenigen Balgereien mit	anderen Bären	
+
+[201]
+FZ1=
+FZ2=Warum sind die Bären auf der Insel Kodiak mit einem kleineren Territorium
+FZ3=zufrieden ?
+Min=500
+Max=4000
+Antwort_1=1weil sie dort Nahrung (Lachse) im	Überfluss finden	
+Antwort_2=0weil sie dort viele Spielkameraden	haben	
+Antwort_3=0weil es eine kleine Insel ist	
+Antwort_4=0weil sie die Insel nicht verlassen	können	
+
+[202]
+FZ1=
+FZ2=Wo geben sich die Bären mit einem kleinen Territorium zufrieden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1auf der Insel Kodiak	
+Antwort_2=0auf Neufundland	
+Antwort_3=0in Deutschland	
+Antwort_4=0auf Spitzbergen	
+
+[203]
+FZ1=
+FZ2=Wie groß ist das Territorium eines Bären im Durchschnitt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1300 bis 1000 Quadratkilometer	
+Antwort_2=01000 bis 10.000 Quadratkilometer	
+Antwort_3=0100 bis 500 Quadratkilometer	
+Antwort_4=010 bis 20 Quadratkilometer	
+
+[204]
+FZ1=
+FZ2=Wo kommen Schwarzbären vor ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1in Nordamerika	
+Antwort_2=0in Kanada, in den Vereinigten Staaten	und in Russland	
+Antwort_3=0im Schwarzwald	
+Antwort_4=0in Nordamerika und in Nordeuropa	
+
+[205]
+FZ1=
+FZ2=Wie misst man die Lebenszeit von einem Bären ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1anhand seiner Zähne	
+Antwort_2=0an der Größe seiner Füße	
+Antwort_3=0anhand der Länge seiner Nägel	
+Antwort_4=0am Geruch der Ohren	
+
+[206]
+FZ1=
+FZ2=In Gefangenschaft ist ein Bär einmal sehr alt geworden. Wie alt wurde dieser Bär ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=147 Jahre	
+Antwort_2=073 Jahre	
+Antwort_3=065 Jahre	
+Antwort_4=082 Jahre	
+
+[207]
+FZ1=
+FZ2=Wie alt werden Bären durchschnittlich in der freien Natur ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=118 - 25 Jahre	
+Antwort_2=014 - 22 Jahre	
+Antwort_3=010 - 15 Jahre	
+Antwort_4=0nicht älter als 10 Jahre	
+
+[208]
+FZ1=
+FZ2=Hat ein Bär ein großes Durchhaltevermögen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ja, ein sehr großes	
+Antwort_2=0nur nachts, tagsüber ist es warm	
+Antwort_3=0nein, er muss sich ausruhen, nachdem	er nur einen Berg bestiegen hat	
+Antwort_4=0nur die jungen Männchen haben ein	großes Durchhaltevermögen	
+
+[209]
+FZ1=
+FZ2=Was macht ein Bär mit einem toten Elch, den er verstecken will ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Er gräbt ein Loch und versteckt ihn	darin.	
+Antwort_2=0Er bringt ihn zu einem Fluss und	versteckt ihn unter Wasser.	
+Antwort_3=0Er klettert mit dem Gerippe auf einen	Baum.	
+Antwort_4=0Er zieht sich das Fell über.	
+
+[210]
+FZ1=
+FZ2=Kann ein Bär gut hören ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1ja, sehr gut	
+Antwort_2=0nur, wenn er wirklich will	
+Antwort_3=0nein, er ist stocktaub	
+Antwort_4=0nein, ein kleiner Vogel sitzt in seinem	Ohr und übersetzt alles	
+
+[211]
+FZ1=
+FZ2=Kann ein Bär gut sehen ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1ja, aber nur aus der Nähe	
+Antwort_2=0nur morgens	
+Antwort_3=0nein	
+Antwort_4=0nur, wenn er gerade Lust dazu hat	
+
+[212]
+FZ1=
+FZ2=Aus welcher Entfernung können Eisbären ihre Beute wittern ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=130 km	
+Antwort_2=070 km	
+Antwort_3=050 km	
+Antwort_4=010 km	
+
+[213]
+FZ1=
+FZ2=Welcher ist der wichtigste Sinn des Bären ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1der Geruchssinn	
+Antwort_2=0der Geschmackssinn	
+Antwort_3=0der Tastsinn	
+Antwort_4=0das Gehör	
+
+[214]
+FZ1=
+FZ2=Warum hat der Eisbär große Pranken ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1um auch auf dünnem Eis stehen zu	können	
+Antwort_2=0um besser Schläge verteilen zu können	
+Antwort_3=0um schneller laufen zu können	
+Antwort_4=0um schneller Höhlen graben zu können	
+
+[215]
+FZ1=
+FZ2=Welcher Bär hat die längsten Nägel ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1der Grizzly	
+Antwort_2=0der Schwarzbär	
+Antwort_3=0der Eisbär	
+Antwort_4=0der Große Panda	
+
+[216]
+FZ1=
+FZ2=Wie viele Zehen hat ein Bär ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=15	
+Antwort_2=03	
+Antwort_3=04	
+Antwort_4=02	
+
+[217]
+FZ1=
+FZ2=Ein Bär schwitzt vor allem über seine ... ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Fußsohlen	
+Antwort_2=0Zunge	
+Antwort_3=0Achseln	
+Antwort_4=0Ohren	
+
+[218]
+FZ1=
+FZ2=Wovon wird der Bär manchmal geplagt, weil er viele Beeren und Früchte frisst ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Zahnschmerzen	
+Antwort_2=0Durchfall	
+Antwort_3=0Bauchschmerzen	
+Antwort_4=0Kopfschmerzen	
+
+[219]
+FZ1=
+FZ2=Warum hat der Bär breite Backenzähne ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1um Pflanzen fein zermahlen zu können	
+Antwort_2=0um Nüsse knacken zu können	
+Antwort_3=0um Beeren auspressen zu können	
+Antwort_4=0um Fische entgräten zu können	
+
+[220]
+FZ1=
+FZ2=Was ist das Besondere am Fell des Eisbären ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Die weißen Haare sind hohl und die	Haut darunter ist schwarz.	
+Antwort_2=0Die weißen Haare haben einen	schwarzen Kern, der die Wärme der	Sonne aufnimmt.	
+Antwort_3=0Es ist kurzhaarig.	
+Antwort_4=0Das Fell wächst dreimal am Tag nach.	
+
+[221]
+FZ1=
+FZ2=Was ist die wichtigste Funktion des Bärenfells ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Schutz gegen Wärme und Kälte	
+Antwort_2=0Schutz vor Insekten	
+Antwort_3=0Schutzfarbe	
+Antwort_4=0Schutz gegen Speere und Pfeile	
+
+[222]
+FZ1=
+FZ2=Der Bär gehört zu den Tieren, die auf ihrem ganzen Fuß gehen und nicht nur auf
+FZ3=den Zehen. Wie nennt man solche Tiere ?
+Min=4000
+Max=64000
+Antwort_1=1Sohlengänger	
+Antwort_2=0Plattfüßler	
+Antwort_3=0Fußgänger	
+Antwort_4=0Spreizfüßler	
+
+[223]
+FZ1=
+FZ2=Was macht ein Eisbär während eines Schneesturmes ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Er gräbt sich eine Grube und legt sich	darin schlafen.	
+Antwort_2=0Er geht ins Wasser und taucht unter.	
+Antwort_3=0Er läuft einfach weiter.	
+Antwort_4=0Er versteckt sich hinter einen	Eisbrocken.	
+
+[224]
+FZ1=
+FZ2=Wie spürt der Eisbär seine Beute auf ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1durch sein gutes Riechvermögen	
+Antwort_2=0Der Eisbär hat eine Art eingebauten	Radar.	
+Antwort_3=0indem er gut lauscht	
+Antwort_4=0Der Eisbär hat sehr scharfe Augen.	
+
+[225]
+FZ1=
+FZ2=Wie schwer ist der Eisbär durchschnittlich ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1550 kg	
+Antwort_2=0750 kg	
+Antwort_3=0350 kg	
+Antwort_4=01050 kg	
+
+[226]
+FZ1=
+FZ2=Wovon ernähren sich Eisbären hauptsächlich ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1von Seehunden	
+Antwort_2=0von Kabeljau	
+Antwort_3=0von Schneehasen	
+Antwort_4=0von Pinguinen	
+
+[227]
+FZ1=
+FZ2=Der Schwarzbär ist schlau.  Was kann er alles ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Türen von Blockhäusern öffnen	
+Antwort_2=0Konserven mit dem Dosenöffner öffnen	
+Antwort_3=0verlassene Autos starten	
+Antwort_4=0ausländische Karten lesen	
+
+[228]
+FZ1=
+FZ2=Wo lebt der Schwarzbär hauptsächlich ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1in Wäldern	
+Antwort_2=0auf Hügeln	
+Antwort_3=0in der Steppe	
+Antwort_4=0im Gebirge	
+
+[229]
+FZ1=
+FZ2=Welche Farbe hat ein Braunbär ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1allerlei schwarze, braune, gelbliche und	rotbraune Farbkombinationen	
+Antwort_2=0braun	
+Antwort_3=0grau	
+Antwort_4=0schwarz	
+
+[230]
+FZ1=
+FZ2=Woraus besteht der Buckel des Braunbären ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Muskeln	
+Antwort_2=0Knochen	
+Antwort_3=0Fett	
+Antwort_4=0Hautfalten	
+
+[231]
+FZ1=
+FZ2=Welcher Bär hat einen Buckel auf seinem Nacken ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1der Braunbär	
+Antwort_2=0der Eisbär	
+Antwort_3=0der Schwarzbär	
+Antwort_4=0der Waschbär	
+
+[232]
+FZ1=
+FZ2=Wie viel kann ein Braunbär in Ausnahmefällen wiegen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=11.100 kg	
+Antwort_2=0600 kg	
+Antwort_3=0900 kg	
+Antwort_4=03.400 kg	
+
+[233]
+FZ1=
+FZ2=Wie groß ist ein Braunbär durchschnittlich ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=12 - 3 m lang und 0,9 - 1,5 m hoch	
+Antwort_2=01,5 - 2 m lang und 0,5 - 1 m hoch	
+Antwort_3=03 - 3,5 m lang und 2 m hoch	
+Antwort_4=04 - 5 m lang und 6 - 7 m hoch	
+
+[234]
+FZ1=
+FZ2=Ein großer Bärenkörper ...
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1hält die Wärme besser.	
+Antwort_2=0hält die Gelenke geschmeidig.	
+Antwort_3=0hält die Feuchtigkeit besser.	
+Antwort_4=0hält die Muskeln gelenkig.	
+
+[235]
+FZ1=
+FZ2=Wo lebt der Pandabär ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1im Inland von China	
+Antwort_2=0im Inland von Australien	
+Antwort_3=0in Sri Lanka	
+Antwort_4=0im Inland von Java	
+
+[236]
+FZ1=
+FZ2=Was ist ein Omnivore ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ein Allesfresser	
+Antwort_2=0ein Beerenfresser	
+Antwort_3=0ein Leckermaul	
+Antwort_4=0ein Fischfresser	
+
+[237]
+FZ1=
+FZ2=Wovon ernährt sich der Pandabär ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1von Bambussprossen	
+Antwort_2=0von Kokosnüssen	
+Antwort_3=0von Sojakeimen	
+Antwort_4=0von Paranüssen	
+
+[238]
+FZ1=
+FZ2=Welcher Bär stammt von einem anderen Bären ab ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Der Eisbär stammt vom Braunbären ab.	
+Antwort_2=0Der Panda stammt vom Eisbären ab.	
+Antwort_3=0Der Grizzly stammt vom Braunbären ab.	
+Antwort_4=0Der Koala stammt vom Panda ab.	
+
+[239]
+FZ1=
+FZ2=Wie viele Arten von Bären leben heute auf der Welt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=18	
+Antwort_2=04	
+Antwort_3=06	
+Antwort_4=02	
+
+[240]
+FZ1=
+FZ2=Welcher Bär lebte früher in Australien ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1kein einziger Bär	
+Antwort_2=0der tasmanische Teufel	
+Antwort_3=0der australische Beutelbär	
+Antwort_4=0der Kängurubär	
+
+[241]
+FZ1=
+FZ2=Wann fand die Wanderung der Grizzlybären von Sibirien nach Alaska statt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1vor 10.000 bis 50.000 Jahren	
+Antwort_2=0vor 100.000 bis 200.000	
+Antwort_3=0vor 2.000 bis 6.000 Jahren	
+Antwort_4=0vor 2 bis 3 Millionen Jahren	
+
+[242]
+FZ1=
+FZ2=Wie wird der Schwarzbär auch genannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Baribal	
+Antwort_2=0Hannibal	
+Antwort_3=0General	
+Antwort_4=0Senegal	
+
+[243]
+FZ1=
+FZ2=Wie groß ist der Grizzlybär, wenn er auf seinen Hinterpfoten steht ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1ca. 3m	
+Antwort_2=0ca. 1 m	
+Antwort_3=0ca. 2 m	
+Antwort_4=0ca. 4 m	
+
+[244]
+FZ1=
+FZ2=Wie ist der Grizzly nach Amerika gekommen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1über Sibirien nach Alaska	
+Antwort_2=0über die Bahamas nach Florida	
+Antwort_3=0über Grönland nach Neufundland	
+Antwort_4=0über Mexiko nach Kanada	
+
+[245]
+FZ1=
+FZ2=Über welchen ausgestorbenen Bären wissen wir aufgrund von Ausgrabungen
+FZ3=sehr viel ?
+Min=1000
+Max=16000
+Antwort_1=1über den europäischen Höhlenbären	
+Antwort_2=0über den asiatischen Eisbären	
+Antwort_3=0über den amerikanischen Bergbären	
+Antwort_4=0über den afrikanischen Steppenbären	
+
+[246]
+FZ1=
+FZ2=Wann lebten die Vorfahren der Bären ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1vor 120 Millionen Jahren	
+Antwort_2=0vor 100.000 Jahren	
+Antwort_3=0vor 3 Millionen Jahren	
+Antwort_4=0vor 6.500 Jahren	
+
+[247]
+FZ1=
+FZ2=Wie ist der Grizzly nach Amerika gekommen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1über Sibirien nach Alaska	
+Antwort_2=0über die Bahamas nach Florida	
+Antwort_3=0über Grönland nach Neufundland	
+Antwort_4=0über Mexiko nach Kanada	
+
+[248]
+FZ1=
+FZ2=Welcher Bär stammt von einem anderen Bären ab ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Der Eisbär stammt vom Braunbären ab.	
+Antwort_2=0Der Panda stammt vom Eisbären ab.	
+Antwort_3=0Der Grizzly stammt vom Braunbären ab.	
+Antwort_4=0Der Koala stammt vom Panda ab.	
+
+

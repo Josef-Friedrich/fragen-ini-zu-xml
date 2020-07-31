@@ -1,0 +1,3823 @@
+[Thema]
+Thema= Fußball
+Fragen=347
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welcher Spieler wurde von den Journalisten bei der WM 2002 mit dem
+FZ3= "Goldenen Ball" zum besten Spieler des Turniers gewählt ?
+Min=1000
+Max=8000
+Antwort_1=1Oliver Kahn	
+Antwort_2=0David Beckham	
+Antwort_3=0Ronaldo	
+Antwort_4=0Luis Figo	
+
+[2]
+FZ1=
+FZ2=Wie oft stand Deutschland bis 2005 in einem WM - Endspiel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=17 - mal	
+Antwort_2=05 - mal	
+Antwort_3=06 - mal	
+Antwort_4=04 - mal	
+
+[3]
+FZ1=
+FZ2=Was gelang dem Brasilianer Cafu bei der WM 2002 ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Er nahm als einziger Spieler an drei	WM - Endspieler hintereinander teil.
+Antwort_2=0Er hielt bei einer Weltmeisterschaft 4	Elfmeter.
+Antwort_3=0Er schoss bei einer Weltmeisterschaft	16 Tore.
+Antwort_4=0Er schoss nach 14 Sekunden das	schnellste Tor, das je bei einer	Weltmeisterschaft geschossen wurde.
+
+[4]
+FZ1=
+FZ2=Wer wurde Dritter bei der WM 2002 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Türkei
+Antwort_2=0Südkorea
+Antwort_3=0Japan
+Antwort_4=0Senegal
+
+[5]
+FZ1=
+FZ2=Wer wurde bei der WM 2002 Vizeweltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Deutschland
+Antwort_2=0Italien
+Antwort_3=0Brasilien
+Antwort_4=0Frankreich
+
+[6]
+FZ1=
+FZ2=Was war das Besondere am Tor von Hakan Sükür im Spiel um Platz drei in der
+FZ3=Begegnung Türkei gegen Südkorea bei der WM 2002 ?
+Min=1000
+Max=8000
+Antwort_1=1Es war das schnellste Tor bei einer WM,	da es bereits nach 11 Sekunden fiel.
+Antwort_2=0Das Tor fiel in der 12. Minute der	Nachspielzeit.
+Antwort_3=0Hakan Sükür schoss das Tor vom	eigenen Strafraum aus.
+Antwort_4=0Hakan Sükür verwandelte einen Eckball	direkt ins Tor.
+
+[7]
+FZ1=
+FZ2=Welches Ergebnis erzielte Deutschland bei der WM 2002 im Endspiel ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=10 : 2 verloren
+Antwort_2=01 : 0 gewonnen
+Antwort_3=00 : 1 verloren
+Antwort_4=03 : 1 gewonnen
+
+[8]
+FZ1=
+FZ2=Welches Ergebnis erzielte Deutschland bei der WM 2002 im Halbfinale ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11 : 0 gewonnen
+Antwort_2=01 : 3 verloren
+Antwort_3=04 : 0 gewonnen
+Antwort_4=00 : 2 verloren
+
+[9]
+FZ1=
+FZ2=Welches Ergebnis erzielte Deutschland bei der WM 2002 im Viertelfinale ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11 : 0 gewonnen
+Antwort_2=00 : 2 verloren
+Antwort_3=03 : 1 gewonnen
+Antwort_4=02 : 4 verloren
+
+[10]
+FZ1=
+FZ2=Welche besondere Rolle spielte Michael Ballack bei der WM 2002 ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Er schoß mit seinen Toren Deutschland	ins Halbfinale und ins Finale und war	dort wegen der 2. gelben Karte gesperrt
+Antwort_2=0Er wurde als erster Feldspieler im Tor	eingesetzt und hielt sogar einen	Elfmeter.
+Antwort_3=0Er verletzte sich beim ersten	Gruppenspiel so schwer, dass er wieder	nach Hause fliegen musste.
+Antwort_4=0Er verschoss den letzten Elfmeter im	Finale.
+
+[11]
+FZ1=
+FZ2=Wie weit kam Deutschland bei der WM 2002 ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1bis ins Endspiel
+Antwort_2=0bis ins Achtelfinale
+Antwort_3=0Deutschland schied in der Vorrunde aus
+Antwort_4=0bis ins Halbfinale
+
+[12]
+FZ1=
+FZ2=Gegen wen spielte Deutschland im Endspiel bei der Weltmeisterschaft 2002 ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Brasilien
+Antwort_2=0Italien
+Antwort_3=0Argentinien
+Antwort_4=0England
+
+[13]
+FZ1=
+FZ2=Gegen wen spielte Deutschland im Halbfinale bei der Weltmeisterschaft 2002 ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Südkorea
+Antwort_2=0Paraguay
+Antwort_3=0USA
+Antwort_4=0Kamerun
+
+[14]
+FZ1=
+FZ2=Gegen wen spielte Deutschland im Viertelfinale bei der Weltmeisterschaft 2002 ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1USA
+Antwort_2=0Belgien
+Antwort_3=0Italien
+Antwort_4=0Japan
+
+[15]
+FZ1=
+FZ2=Wie nennt man es, wenn der Ball von von außen in hohem Bogen in den Strafraum
+FZ3=geschossen wird ?
+Min=0
+Max=1000
+Antwort_1=1Flanke
+Antwort_2=0Wanke
+Antwort_3=0Schranke
+Antwort_4=0Branke
+
+[16]
+FZ1=
+FZ2=Wer gewann den DFB - Pokal in der Saison 2001 / 2002 ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1FC Schalke 04
+Antwort_2=0Bayer Leverkusen
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Bayern München
+
+[17]
+FZ1=
+FZ2=Gegen wen spielte Borussia Dortmund 2002 im UEFA - Cup Finale ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Feyenood Rotterdam
+Antwort_2=0Manchester United
+Antwort_3=0Atletico Madrid
+Antwort_4=0AC Turin
+
+[18]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 2001 / 2002 Deutscher Meister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Borussia Dortmund
+Antwort_2=0FC Schalke 04
+Antwort_3=0Bayern München
+Antwort_4=0Bayer Leverkusen
+
+[19]
+FZ1=
+FZ2=Welches Ergebnis erzielte Deutschland bei der WM 2002 im Achtelfinale ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=11 : 0 gewonnen
+Antwort_2=04 : 1 gewonnen
+Antwort_3=02 : 0 gewonnen
+Antwort_4=00 : 3 verloren
+
+[20]
+FZ1=
+FZ2=Gegen wen spielte Deutschland im Achtelfinale bei der Weltmeisterschaft 2002 ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Paraguay
+Antwort_2=0Mexiko
+Antwort_3=0Kamerun
+Antwort_4=0Japan
+
+[21]
+FZ1=
+FZ2=Was war das Besondere beim Vorrundenspiel Deutschland - Kamerun
+FZ3=bei der WM 2002 ?
+Min=500
+Max=2000
+Antwort_1=1Es gab mit 12 gelben und zwei	gelb - roten Karten einen neuen Rekord	bei einer WM.
+Antwort_2=0Kamerun verwandelte 2 Eckbälle direkt	ins Tor.
+Antwort_3=0Deutschland verschoss insgesamt 3	Elfmeter.
+Antwort_4=0In der 75. Minute wechselte sich der	Trainer Rudi Völler selber ein.
+
+[22]
+FZ1=
+FZ2=Was war das Besondere beim Vorrundenspiel Deutschland - Saudi Arabien
+FZ3=bei der WM 2002 ?
+Min=2000
+Max=32000
+Antwort_1=1Deutschland feierte mit 8 : 0 den bis	dahin höchsten Sieg bei einer	Weltmeisterschaft.
+Antwort_2=0Das Spiel wurde wegen eines	Gewitterregens abgebrochen.
+Antwort_3=0Deutschland verlor zum ersten Mal das	Auftaktspiel einer Weltmeisterschaft mit	3 : 5 .
+Antwort_4=0Das Spiel wurde abgebrochen, weil 4	Spieler von Saudi Arabien eine rote	Karte sahen.
+
+[23]
+FZ1=
+FZ2=Gegen welche Mannschaften musste Deutschland bei der WM 2002
+FZ3=in der Vorrunde antreten ?
+Min=0
+Max=1000
+Antwort_1=1Saudi Arabien, Irland und Kamerun
+Antwort_2=0Kroatien, Mexiko und Nigeria
+Antwort_3=0Südafrika, Slowenien und Paraguay
+Antwort_4=0Belgien, Russland und Tunesien
+
+[24]
+FZ1=
+FZ2=Wie weit kam Frankreich (Weltmeister von 1998) bei der Weltmeisterschaft 2002 ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Frankreich schied bereits in der	Vorrunde aus.
+Antwort_2=0Frankreich verlor das Halbfinale gegen	England mit 3 : 1 .
+Antwort_3=0Frankreich erreichte das Achtelfinale.
+Antwort_4=0Frankreich verteidigte seinen	Weltmeistertitel durch einen 2 : 0 Sieg	über Italien.
+
+[25]
+FZ1=
+FZ2=Wo fand die Weltmeisterschaft 2002 statt ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Japan und Südkorea
+Antwort_2=0Deutschland
+Antwort_3=0Niederlande und Belgien
+Antwort_4=0Kamerun
+
+[26]
+FZ1=
+FZ2=Wofür steht die Abkürzung FIFA ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Fédération Internationale de Football	Association
+Antwort_2=0Foulen Ist Fieses Abwehren
+Antwort_3=0Fußballer Im Fernen Afrika
+Antwort_4=0Fußball Ist Für Alle
+
+[27]
+FZ1=
+FZ2=Wie nennt man eine bestimmte Abwehrtaktik ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Vierer - Kette
+Antwort_2=0Sechser - Band
+Antwort_3=0Fünfer - Ring
+Antwort_4=0Dreier - Schloss
+
+[28]
+FZ1=
+FZ2=Wie lautet ein berühmter Spruch des früheren Bundestrainers Sepp Herberger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Der Ball ist rund.
+Antwort_2=0Das Trikot ist bunt.
+Antwort_3=0Ein Schuss wie ein Pfund.
+Antwort_4=0Hauptsache gesund !
+
+[29]
+FZ1=
+FZ2=Wie wird der Schiedsrichter auch genannt ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Unparteiischer
+Antwort_2=0Unhold
+Antwort_3=0Unfehlbarer
+Antwort_4=0Überirdischer
+
+[30]
+FZ1=
+FZ2=Wer oder was ist ManU ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1die Kurzform von Manchester United
+Antwort_2=0Abkürzung für "Meldung an den	Unpateiischen"
+Antwort_3=0neuer Stürmerstar vom BVB
+Antwort_4=0Traineranweisung, dass die Mannschaft	auf Unentschieden spielen soll
+
+[31]
+FZ1=
+FZ2=Wie hieß der Trainer des Aufsteigers,
+FZ3=der im 1. Jahr gleich Deutscher Meister wurde ?
+Min=500000
+Max=500000
+Antwort_1=1Otto Rehagel
+Antwort_2=0Udo Lattek
+Antwort_3=0Ottmar Hitzfeld
+Antwort_4=0Matthias Sammer
+
+[32]
+FZ1=
+FZ2=Welchem Aufsteiger gelang es, gleich im ersten Jahr auch
+FZ3=Deutscher Meister zu werden ?
+Min=250000
+Max=250000
+Antwort_1=11. FC Kaiserslautern
+Antwort_2=0Borussia Dortmund
+Antwort_3=0Bayern München
+Antwort_4=0Das gelang noch keinem Aufsteiger.
+
+[33]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 2000 / 2001 Deutscher Meister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Bayern München
+Antwort_2=0Borussia Dortmund
+Antwort_3=0Werder Bremen
+Antwort_4=01. FC Kaiserslautern
+
+[34]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1999 / 2000 Deutscher Meister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Bayern München
+Antwort_2=01. FC Kaiserslautern
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Borussia Mönchengladbach
+
+[35]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1998 / 99 Deutscher Meister ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=01. FC Köln
+Antwort_3=01. FC Kaiserslautern
+Antwort_4=0Borussia Dortmund
+
+[36]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1997 / 98 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11. FC Kaiserslautern
+Antwort_2=0Werder Bremen
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Bayern München
+
+[37]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1996 / 97 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=0Hamburger SV
+Antwort_3=01. FC Kaiserslautern
+Antwort_4=0Borussia Dortmund
+
+[38]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1995 / 96 Deutscher Meister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Borussia Dortmund
+Antwort_2=0Werder Bremen
+Antwort_3=0Bayern München
+Antwort_4=01. FC Kaiserslautern
+
+[39]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1994 / 95 Deutscher Meister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Borussia Dortmund
+Antwort_2=01. FC Kaiserslautern
+Antwort_3=0Werder Bremen
+Antwort_4=0Bayern München
+
+[40]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1993 / 94 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=01. FC Kaiserslautern
+Antwort_3=0Werder Bremen
+Antwort_4=0Hamburger SV
+
+[41]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1992 / 93 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Werder Bremen
+Antwort_2=01. FC Kaiserslautern
+Antwort_3=0Hamburger SV
+Antwort_4=0VfB Stuttgart
+
+[42]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1991 / 92 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1VfB Stuttgart
+Antwort_2=0Hamburger SV
+Antwort_3=0Werder Bremen
+Antwort_4=01. FC Kaiserslautern
+
+[43]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1990 / 91 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11. FC Kaiserslautern
+Antwort_2=0Bayern München
+Antwort_3=01. FC Köln
+Antwort_4=0Borussia Dortmund
+
+[44]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1989 / 90 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=0Hamburger SV
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Borussia Mönchengladbach
+
+[45]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1988 / 89 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=0Werder Bremen
+Antwort_3=0TSV 1860 München
+Antwort_4=01. FC Köln
+
+[46]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1987 / 88 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Werder Bremen
+Antwort_2=0VfB Stuttgart
+Antwort_3=0Hamburger SV
+Antwort_4=01. FC Kaiserslautern
+
+[47]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1986 / 87 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=0Hamburger SV
+Antwort_3=0Werder Bremen
+Antwort_4=0Schalke 04
+
+[48]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1985 / 86 Deutscher Meister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Bayern München
+Antwort_2=0Borussia Dortmund
+Antwort_3=0Hamburger SV
+Antwort_4=01. FC Kaiserslautern
+
+[49]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1984 / 85 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=0Werder Bremen
+Antwort_3=0Borussia Mönchengladbach
+Antwort_4=0Hamburger SV
+
+[50]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1983 / 84 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1VfB Stuttgart
+Antwort_2=01. FC Kaiserslautern
+Antwort_3=0Werder Bremen
+Antwort_4=0Hamburger SV
+
+[51]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1982 / 83 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Hamburger SV
+Antwort_2=01. FC Köln
+Antwort_3=0Eintracht Frankfurt
+Antwort_4=01. Kaiserslautern
+
+[52]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1981 / 82 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Hamburger SV
+Antwort_2=0Borussia Mönchengladbach
+Antwort_3=0Bayern München
+Antwort_4=0Borussia Dortmund
+
+[53]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1980 / 81 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=0Werder Bremen
+Antwort_3=0Hamburger SV
+Antwort_4=0Borussia Mönchengladbach
+
+[54]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1979 / 80 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=0Schalke 04
+Antwort_3=0Borussia Dortmund
+Antwort_4=01. FC Nürnberg
+
+[55]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1978 / 79 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Hamburger SV
+Antwort_2=0VfB Stuttgart
+Antwort_3=0Werder Bremen
+Antwort_4=0TSV 1860 München
+
+[56]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1977 / 78 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11. FC Köln
+Antwort_2=0VfB Stuttgart
+Antwort_3=01. FC Kaiserslautern
+Antwort_4=0Borussia Dortmund
+
+[57]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1976 / 77 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Borussia Mönchengladbach
+Antwort_2=0Werder Bremen
+Antwort_3=0Eintracht Braunschweig
+Antwort_4=0Bayern München
+
+[58]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1975 / 76 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Borussia Mönchengladbach
+Antwort_2=0Schalke 04
+Antwort_3=0Bayern München
+Antwort_4=0Borussia Dortmund
+
+[59]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1974 / 75 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Borussia Mönchengladbach
+Antwort_2=0Bayern München
+Antwort_3=0Hamburger SV
+Antwort_4=01. FC Kaiserslautern
+
+[60]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1973 / 74 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=0Hamburger SV
+Antwort_3=0VfB Stuttgart
+Antwort_4=0Werder Bremen
+
+[61]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1972 / 73 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=01. FC Köln
+Antwort_3=0Borussia Mönchengladbach
+Antwort_4=0Hamburger SV
+
+[62]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1971 / 72 Deutscher Meister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Bayern München
+Antwort_2=0Borussia Dortmund
+Antwort_3=0Borussia Mönchengladbach
+Antwort_4=0Schalke 04
+
+[63]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1970 / 71 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Borussia Mönchengladbach
+Antwort_2=0Eintracht Frankfurt
+Antwort_3=01. FC Nürnberg
+Antwort_4=0Werder Bremen
+
+[64]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1969 / 70 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Borussia Mönchengladbach
+Antwort_2=01. FC Kaiserslautern
+Antwort_3=0Bayern München
+Antwort_4=0Hamburger SV
+
+[65]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1968 / 69 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Bayern München
+Antwort_2=01. FC Köln
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Werder Bremen
+
+[66]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1967 / 68 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11. FC Nürnberg
+Antwort_2=01. FC Kaiserslautern
+Antwort_3=01. FC Köln
+Antwort_4=0Schalke 04
+
+[67]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1966 / 67 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Eintracht Braunschweig
+Antwort_2=01. FC Nürnberg
+Antwort_3=0Borussia Mönchengladbach
+Antwort_4=01. FC Kaiserslautern
+
+[68]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1965 / 66 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1TSV 1860 München
+Antwort_2=0Eintracht Braunschweig
+Antwort_3=0Bayern München
+Antwort_4=0VfB Stuttgart
+
+[69]
+FZ1=
+FZ2=Welche Mannschaft wurde in der Saison 1964 / 65 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Werder Bremen
+Antwort_2=01. FC Köln
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Hamburger SV
+
+[70]
+FZ1=
+FZ2=Seit wann gibt es eine Champions League für Frauen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=12001
+Antwort_2=01991
+Antwort_3=01997
+Antwort_4=0Es gibt keine Champions League
+
+[71]
+FZ1=
+FZ2=Aus welchem Land stammt Luis Figo, der 2001 als einer
+FZ3=der besten Spieler der Welt gehandelt wird ?
+Min=64000
+Max=250000
+Antwort_1=1Portugal
+Antwort_2=0Brasilien
+Antwort_3=0Spanien
+Antwort_4=0Argentinien
+
+[72]
+FZ1=
+FZ2=Welchen Spitznamen hat Rudi Völler ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Tante Käthe
+Antwort_2=0Oma Bein
+Antwort_3=0Onkel Hansi
+Antwort_4=0Opa Schuss
+
+[73]
+FZ1=
+FZ2=Welcher Lockenkopf kam 1982 zum SV Werder Bremen
+FZ3=und schoss dort jede Menge Tore ?
+Min=32000
+Max=125000
+Antwort_1=1Rudi Völler
+Antwort_2=0Oliver Bierhoff
+Antwort_3=0Klaus Toppmöller
+Antwort_4=0Jürgen Klinsmann
+
+[74]
+FZ1=
+FZ2=Wie nannte man den Schuss, den Manfred Kaltz vom Hamburger SV
+FZ3=besonders gut konnte ?
+Min=32000
+Max=125000
+Antwort_1=1Bananenflanke
+Antwort_2=0Bohnenheber
+Antwort_3=0Böllerschuss
+Antwort_4=0Gurkenecke
+
+[75]
+FZ1=
+FZ2=Wie wurde der Nationaltorwart Harald Schumacher meistens genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Toni
+Antwort_2=0Mike
+Antwort_3=0Sepp
+Antwort_4=0Jupp
+
+[76]
+FZ1=
+FZ2=Wie hieß ein berühmter Nationaltorwart ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Sepp Maier
+Antwort_2=0Kurt Maier
+Antwort_3=0Sepp Blatter
+Antwort_4=0Günther Frank
+
+[77]
+FZ1=
+FZ2=Welchen Spitznamen hatte der Bundestrainer Helmut Schön ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1der Mann mit der Mütze
+Antwort_2=0der Mann mit der Pfeife
+Antwort_3=0der Mann mit dem Hut
+Antwort_4=0der Mann mit dem Ball
+
+[78]
+FZ1=
+FZ2=Welcher deutsche Spieler wurde zweimal zum Weltfußballer gewählt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Lothar Matthäus
+Antwort_2=0Günter Netzer
+Antwort_3=0Franz Beckenbauer
+Antwort_4=0Oliver Bierhoff
+
+[79]
+FZ1=
+FZ2=Welche beiden Mannschaften standen bis 1998 schon sechsmal in einem
+FZ3=Weltmeisterschaftsendspiel ?
+Min=64000
+Max=250000
+Antwort_1=1Brasilien und Deutschland
+Antwort_2=0Deutschland und Argentinien
+Antwort_3=0Brasilien und Italien
+Antwort_4=0Brasilien und Argentinien
+
+[80]
+FZ1=
+FZ2=Wann schied die deutsche Nationalmannschaft bei der Weltmeisterschaft 1998 aus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1im Viertelfinale
+Antwort_2=0im Halbfinale
+Antwort_3=0im Achtelfinale
+Antwort_4=0im Finale
+
+[81]
+FZ1=
+FZ2=Wer entscheidet über den Austragungsort einer Weltmeisterschaft ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1F I F A
+Antwort_2=0D F B
+Antwort_3=0U E F A
+Antwort_4=0A D A C
+
+[82]
+FZ1=
+FZ2=Wer wurde 1998 Fußballweltmeister ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Frankreich
+Antwort_2=0Deutschland
+Antwort_3=0Brasilien
+Antwort_4=0England
+
+[83]
+FZ1=
+FZ2=Wer wurde 1994 Fußball - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Brasilien
+Antwort_2=0Deutschland
+Antwort_3=0Italien
+Antwort_4=0Frankreich
+
+[84]
+FZ1=
+FZ2=Welcher deutsche Spieler machte am 20. Juni 2000 sein 150. Länderspiel ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Lothar Matthäus
+Antwort_2=0Oliver Kahn
+Antwort_3=0Franz Beckenbauer
+Antwort_4=0Jürgen Klinsmann
+
+[85]
+FZ1=
+FZ2=Wer wurde im Jahr 2000 Europameister ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Frankreich
+Antwort_2=0Deutschland
+Antwort_3=0Italien
+Antwort_4=0Dänemark
+
+[86]
+FZ1=
+FZ2=Wo fand die Europameisterschaft im Jahr 2000 statt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Belgien und Holland
+Antwort_2=0Deutschland und Österreich
+Antwort_3=0Italien und Schweiz
+Antwort_4=0England und Schottland
+
+[87]
+FZ1=
+FZ2=Wie oft findet die Europameisterschaft statt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1alle 4 Jahre
+Antwort_2=0alle 8 Jahre
+Antwort_3=0alle 2 Jahre
+Antwort_4=0alle 6 Jahre
+
+[88]
+FZ1=
+FZ2=Welche beiden deutschen Mannschaften konnten bis zum Jahr 2001
+FZ3=den Weltpokal gewinnen ?
+Min=64000
+Max=250000
+Antwort_1=1Bayern München Borussia Dortmund
+Antwort_2=0Schalke 04 Bayern München
+Antwort_3=0Borussia Dortmund Schalke 04
+Antwort_4=0Hamburger SV Bayern München
+
+[89]
+FZ1=
+FZ2=Wo findet das Spiel um den Weltpokal statt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Tokio
+Antwort_2=0Brasilia
+Antwort_3=0New York
+Antwort_4=0London
+
+[90]
+FZ1=
+FZ2=Welcher Torwart ist bis zum 31.12.2001 einsamer Spitzenreiter,
+FZ3=wenn es darum geht, Elfmeter zu verwandeln ?
+Min=125000
+Max=500000
+Antwort_1=1Jörg Butt
+Antwort_2=0Andreas Köpke
+Antwort_3=0Oliver Kahn
+Antwort_4=0Oliver Reck
+
+[91]
+FZ1=
+FZ2=Welche Mannschaft spielt zu Hause auf der Alm ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Arminia Bielefeld
+Antwort_2=0TSV 1860 München
+Antwort_3=0Bayern München
+Antwort_4=0Bayer Leverkusen
+
+[92]
+FZ1=
+FZ2=Was bedeutet der Beiname "Borussia" ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Preußen
+Antwort_2=0Glück
+Antwort_3=0Vorwärts
+Antwort_4=0Sieg
+
+[93]
+FZ1=
+FZ2=Wie oft war der Hamburger SV bis zur Saison 2001 / 2002
+FZ3=schon "Deutscher Meister" ?
+Min=125000
+Max=500000
+Antwort_1=16
+Antwort_2=04
+Antwort_3=08
+Antwort_4=02
+
+[94]
+FZ1=
+FZ2=Welche Mannschaft spielt zu Hause
+FZ3=im Wedau - Stadion ?
+Min=8000
+Max=64000
+Antwort_1=1MSV Duisburg
+Antwort_2=0Hansa Rostock
+Antwort_3=0Werder Bremen
+Antwort_4=0VfL Wolfsburg
+
+[95]
+FZ1=
+FZ2=Was bedeutet der Begriff "Englische Woche" ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1In einer Woche wird mehr als
+Antwort_2=0In der Woche müssen
+Antwort_3=0
+Antwort_4=0
+
+[96]
+FZ1=
+FZ2=Wer sind die "Königsblauen" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schalke 04
+Antwort_2=0Borussia Dortmund
+Antwort_3=0VfL Bochum
+Antwort_4=0Karlsruher SC
+
+[97]
+FZ1=
+FZ2=Wie nennt man ein Fußballspiel, bei dem die Mannschaften aus der gleichen
+FZ3=Stadt oder aus nah beieinander liegenden Ortschaften stammen ?
+Min=16000
+Max=125000
+Antwort_1=1Derby
+Antwort_2=0Debüt
+Antwort_3=0Duell
+Antwort_4=0Duett
+
+[98]
+FZ1=
+FZ2=Wie oft wurde Gerd Müller Torschützenkönig ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=17 mal
+Antwort_2=03 mal
+Antwort_3=05 mal
+Antwort_4=06 mal
+
+[99]
+FZ1=
+FZ2=Seit wann gibt es in der Bundesliga 3 Punkte für einen Sieg ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1seit 1995
+Antwort_2=0seit 1985
+Antwort_3=0seit 1990
+Antwort_4=0seit 1999
+
+[100]
+FZ1=
+FZ2=Welcher Trainer wurde bis zur Saison 2001 / 2002 mit seiner Mannschaft am
+FZ3=häufigsten "Deutscher Meister" ?
+Min=64000
+Max=250000
+Antwort_1=1Udo Lattek
+Antwort_2=0Giovanni Trappatoni
+Antwort_3=0Otto Rehagel
+Antwort_4=0Ottmar Hitzfeld
+
+[101]
+FZ1=
+FZ2=Was war bis zum 31. 12. 2001 das höchste Ergebnis in der Bundesliga ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=112 : 0
+Antwort_2=010 : 0
+Antwort_3=015 : 0
+Antwort_4=08 : 0
+
+[102]
+FZ1=
+FZ2=Welche Mannschaft konnte zweimal hintereinander Deutscher Meister werden -
+FZ3=mit der exakt gleichen Aufstellung ?
+Min=64000
+Max=500000
+Antwort_1=1Borussia Dortmund
+Antwort_2=0Bayern München
+Antwort_3=0Schalke 04
+Antwort_4=01. FC Nürnberg
+
+[103]
+FZ1=
+FZ2=Welche Bundesligamannschaft ist mit der roten Laterne ausgestattet ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1der Tabellenletzte
+Antwort_2=0die Mannschaft ohne Flutlicht
+Antwort_3=0der Tabellenerste
+Antwort_4=0die Mannschaft mit roten Trikots
+
+[104]
+FZ1=
+FZ2=Wie wird er Spieler genannt, der am Ende einer Saison
+FZ3=die meisten Treffer erzielt hat ?
+Min=1000
+Max=8000
+Antwort_1=1Torschützenkönig
+Antwort_2=0Torschützenpräsident
+Antwort_3=0Torschützenkaiser
+Antwort_4=0Torschützenkanzler
+
+[105]
+FZ1=
+FZ2=Welcher Verein führt die ewige Tabelle bis zum Jahr 2001 an ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Bayern München
+Antwort_2=0Schalke 04
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Hertha BSC Berlin
+
+[106]
+FZ1=
+FZ2=Welche Mannschaft wurde zuerst in der deutschen Bundesliga
+FZ3="Deutscher Meister" ?
+Min=32000
+Max=250000
+Antwort_1=11. FC Köln
+Antwort_2=0Borussia Dortmund
+Antwort_3=01. FC Nürnberg
+Antwort_4=0Bayern München
+
+[107]
+FZ1=
+FZ2=Seit wann gibt es die Fußball - Bundesliga ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11963
+Antwort_2=01970
+Antwort_3=01954
+Antwort_4=01982
+
+[108]
+FZ1=
+FZ2=Warum konnte 1971  das Spiel Borussia Mönchengladbach gegen Werder Bremen
+FZ3=nicht stattfinden ?
+Min=32000
+Max=250000
+Antwort_1=1Die Torpfosten waren abgebrochen.
+Antwort_2=0Es kamen keine Zuschauer.
+Antwort_3=0Ein Krater war im Mittelkreis.
+Antwort_4=0Der Schiedsrichter war erkältet.
+
+[109]
+FZ1=
+FZ2=Was versteht man unter einer "Spielerbank" ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1eine Bank am Spielfeldrand, auf der
+Antwort_2=0eine Spielbank für Fußballer
+Antwort_3=0eine Sparkasse für Fußballer
+Antwort_4=0
+
+[110]
+FZ1=
+FZ2=Wie wird ein Schuss genannt, der besonders weit
+FZ3=nach vorne zum gegnerischen Tor kommt ?
+Min=1000
+Max=8000
+Antwort_1=1Steilpass
+Antwort_2=0Anstoß
+Antwort_3=0Querpass
+Antwort_4=0Torschuss
+
+[111]
+FZ1=
+FZ2=Wie sagt man zu einem Schuss durch
+FZ3=die Beine des Gegners ?
+Min=2000
+Max=16000
+Antwort_1=1tunneln
+Antwort_2=0bergen
+Antwort_3=0löchern
+Antwort_4=0klettern
+
+[112]
+FZ1=
+FZ2=Was bedeutet es, wenn der Schiedsrichter manchmal den linken Arm oder sogar
+FZ3=beide Arme nach vorne streckt ?
+Min=1000
+Max=8000
+Antwort_1=1Vorteil für einen Gefoulten
+Antwort_2=0Achtung, Abseitsfalle !
+Antwort_3=0schneller spielen
+Antwort_4=0ein oder zwei Spieler werden
+
+[113]
+FZ1=
+FZ2=Was passiert, wenn eine Mannschaft eine Packung bekommt ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Sie verliert hoch.
+Antwort_2=0Der Schiedsrichter schenkt etwas.
+Antwort_3=0Sie bekommt Geschenke.
+Antwort_4=0Der Trainer hat Geburtstag.
+
+[114]
+FZ1=
+FZ2=Wann wird ein Schuss als "Volley" bezeichnet ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1wenn er direkt aus der Luft genommen
+Antwort_2=0wenn er mit zwei Füßen getreten wird
+Antwort_3=0wenn der Trainer sagt:
+Antwort_4=0
+
+[115]
+FZ1=
+FZ2=Welche Strafe erhält ein Spieler
+FZ3=zusätzlich zur roten Karte ?
+Min=500
+Max=4000
+Antwort_1=1Sperre
+Antwort_2=0Er muss barfuß spielen.
+Antwort_3=0Stadionverbot
+Antwort_4=0Er darf nicht duschen.
+
+[116]
+FZ1=
+FZ2=Wie nennt man den Schuss, der aus großer Entfernung und für den Torwart
+FZ3=unhaltbar ins Tor donnert ?
+Min=1000
+Max=8000
+Antwort_1=1Sonntagsschuss
+Antwort_2=0Goldener Schuss
+Antwort_3=0Samstagsschuss
+Antwort_4=0Hoch- und Weitschuss
+
+[117]
+FZ1=
+FZ2=Welcher Vogel ist bei einigen Fußballspielen zu sehen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Schwalbe
+Antwort_2=0Amsel
+Antwort_3=0Meise
+Antwort_4=0Taube
+
+[118]
+FZ1=
+FZ2=Wie heißt der akrobatische Schuss, bei dem sich der Fußballspieler
+FZ3=nach hinten fallen lässt ?
+Min=1000
+Max=4000
+Antwort_1=1Fallrückzieher
+Antwort_2=0Kunstschuss
+Antwort_3=0Akrobatenschuss
+Antwort_4=0Fallgranate
+
+[119]
+FZ1=
+FZ2=Wie wird ein Schuss genannt, der die Mannschaft kurzfristig aus
+FZ3=einer brenzligen Situation rettet ?
+Min=1000
+Max=8000
+Antwort_1=1Befreiungsschlag
+Antwort_2=0Abwehrschuss
+Antwort_3=0Rettungsschuss
+Antwort_4=0Superschuss
+
+[120]
+FZ1=
+FZ2=Wie bezeichnet man umgangssprachlich das Kritisieren
+FZ3=von Schiedsrichterentscheidungen ?
+Min=300
+Max=2000
+Antwort_1=1meckern
+Antwort_2=0bellen
+Antwort_3=0wiehern
+Antwort_4=0miauen
+
+[121]
+FZ1=
+FZ2=Wie lange kann ein Schiedsrichter ein Spiel unterbrechen, wenn die äußeren
+FZ3=Umstände, wie z.B. ein heftiges Gewitter, es erfordern ?
+Min=1000000
+Max=0
+Antwort_1=1eine halbe Stunde
+Antwort_2=0bis der Regen aufgehört hat
+Antwort_3=0gar nicht
+Antwort_4=0zwei Stunden
+
+[122]
+FZ1=
+FZ2=Wie nennt man einen schnellen Gegenangriff ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Konter
+Antwort_2=0Kobold
+Antwort_3=0Konto
+Antwort_4=0Komma
+
+[123]
+FZ1=
+FZ2=Welcher bildhafte Ausdruck wird dafür verwendet, wenn ein Spieler aus
+FZ3=einem nicht vorbereiteten Spielzug ein Tor erzielt ?
+Min=4000
+Max=32000
+Antwort_1=1abstauben
+Antwort_2=0ausputzen
+Antwort_3=0absaugen
+Antwort_4=0einlochen
+
+[124]
+FZ1=
+FZ2=Wie viele Sekunden darf der Torwart mit dem Ball in der Hand laufen ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=14
+Antwort_2=08
+Antwort_3=014
+Antwort_4=010
+
+[125]
+FZ1=
+FZ2=Wie nennt man es, wenn Spieler der verteidigenden Mannschaft
+FZ3=Stürmer absichtlich ins Abseits laufen lassen ?
+Min=1000
+Max=8000
+Antwort_1=1Abseitsfalle
+Antwort_2=0Abseitsgraben
+Antwort_3=0Abseitshöhle
+Antwort_4=0Abseitsgrube
+
+[126]
+FZ1=
+FZ2=Wann gilt die Abseitsregel n i c h t  ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1beim Einwurf
+Antwort_2=0beim Steilpass
+Antwort_3=0beim Doppelpass
+Antwort_4=0in der Verlängerung
+
+[127]
+FZ1=
+FZ2=Wann gilt die Abseitsregel ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1bei der Ballabgabe
+Antwort_2=0in der Verlängerung
+Antwort_3=0bei der Ballannahme
+Antwort_4=0in der Halbzeit
+
+[128]
+FZ1=
+FZ2=Wann wurde in Deutschland der erste Fußballverein gegründet ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11888
+Antwort_2=01904
+Antwort_3=01898
+Antwort_4=01925
+
+[129]
+FZ1=
+FZ2=In welcher deutschen Stadt wurde der erste Fußballverein gegründet ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Berlin
+Antwort_2=0München
+Antwort_3=0Dortmund
+Antwort_4=0Hamburg
+
+[130]
+FZ1=
+FZ2=Welche deutsche Fußballmannschaft war schon
+FZ3=dreimal "dreimal hintereinander" Deutscher Meister ?
+Min=1000
+Max=16000
+Antwort_1=1Bayern München
+Antwort_2=0Borussia Dortmund
+Antwort_3=0Schalke 04
+Antwort_4=0Borussia Mönchengladbach
+
+[131]
+FZ1=
+FZ2=Was gibt es, wenn beim Fußball ein böses Foul
+FZ3=im Strafraum passiert ?
+Min=0
+Max=500
+Antwort_1=0Eckball
+Antwort_2=1Strafstoß
+Antwort_3=0Anstoß
+Antwort_4=0Abschlag
+
+[132]
+FZ1=
+FZ2=Wie viele Leute sind beim Fußballspiel auf dem Spielfeld ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=011
+Antwort_2=123
+Antwort_3=022
+Antwort_4=013
+
+[133]
+FZ1=
+FZ2=Wie oft wurde die deutsche Fußball-Nationalmannschaft
+FZ3=bis 1998 Weltmeister ?
+Min=1000
+Max=16000
+Antwort_1=01
+Antwort_2=02
+Antwort_3=13
+Antwort_4=04
+
+[134]
+FZ1=
+FZ2=Wie lange dauert ein normales Fußballspiel ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=045 Minuten
+Antwort_2=190 Minuten
+Antwort_3=0120 Minuten
+Antwort_4=060 Minuten
+
+[135]
+FZ1=
+FZ2=Wie hieß der deutsche Fußballnationaltrainer 1997 ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0Franz Beckenbauer
+Antwort_2=0Jupp Derwall
+Antwort_3=0Helmut Schön
+Antwort_4=1Berti Vogts
+
+[136]
+FZ1=
+FZ2=Wie heißt der Spieler, der mit 19 Jahren 1980 bei
+FZ3=seiner ersten Europameisterschaft mitgemacht hat ?
+Min=32000
+Max=250000
+Antwort_1=0Franz Beckenbauer
+Antwort_2=0Helmut Rahn
+Antwort_3=1Lothar Matthäus
+Antwort_4=0Martin Max
+
+[137]
+FZ1=
+FZ2=Wie groß ist eigentlich ein Fußballplatz ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0ca. 80 m lang und ca. 30 m breit
+Antwort_2=0ca. 77 m lang und ca. 66 m breit
+Antwort_3=1ca. 105 m lang und ca. 70 m breit
+Antwort_4=0ca. 100 m lang und ca. 50 m breit
+
+[138]
+FZ1=Wer war der Trainer der
+FZ2=Deutschen Fußball Nationalmannschaft 1990,
+FZ3=als sie Weltmeister wurde ?
+Min=32000
+Max=125000
+Antwort_1=0Berti Vogts
+Antwort_2=0Sepp Herberger
+Antwort_3=0Lothar Matthäus
+Antwort_4=1Franz Beckenbauer
+
+[139]
+FZ1=
+FZ2=Welches Land wurde bis 1999 dreimal
+FZ3=Europameister im Fußball ?
+Min=1000
+Max=16000
+Antwort_1=0Holland
+Antwort_2=1Deutschland
+Antwort_3=0Frankreich
+Antwort_4=0England
+
+[140]
+FZ1=
+FZ2=Welcher Fußballpräsident wird auch "Kaiser Franz" genannt ?
+FZ3=
+Min=100
+Max=500
+Antwort_1=0Franz Klammer
+Antwort_2=0Franz Hinterseher
+Antwort_3=0Franz Eckenschläger
+Antwort_4=1Franz Beckenbauer
+
+[141]
+FZ1=
+FZ2=Welcher der vier Sportler ist kein Fußballspieler ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Oliver Kahn
+Antwort_2=1Boris Becker
+Antwort_3=0Jürgen Kohler
+Antwort_4=0Mehmet Scholl
+
+[142]
+FZ1=
+FZ2=Welche Farbe hat die Karte für einen Platzverweis beim Fußball ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0grün
+Antwort_2=0gelb
+Antwort_3=0blau
+Antwort_4=1rot
+
+[143]
+FZ1=
+FZ2=Welche der vier Mannschaften wurde bis
+FZ3=1990 dreimal Fußball Weltmeister ?
+Min=1000
+Max=32000
+Antwort_1=1Deutschland
+Antwort_2=0England
+Antwort_3=0Frankreich
+Antwort_4=0Ungarn
+
+[144]
+FZ1=
+FZ2=Welche der vier Mannschaften
+FZ3=nennt man auch "die Teufel vom Betzenberg" ?
+Min=16000
+Max=16000
+Antwort_1=11. FC Kaiserslautern
+Antwort_2=01. FC Köln
+Antwort_3=0Schalke 04
+Antwort_4=0TSV München 1860
+
+[145]
+FZ1=
+FZ2=Was bedeutet die rote Karte beim Fußball ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Platzverweis
+Antwort_2=0Verwarnung
+Antwort_3=0Halbzeit
+Antwort_4=0Verlängerung
+
+[146]
+FZ1=
+FZ2=Wann fand die erste Fußball Weltmeisterschaft statt ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=01940
+Antwort_2=01920
+Antwort_3=11930
+Antwort_4=01950
+
+[147]
+FZ1=
+FZ2=Seit wann gibt es die Deutschen Fußball - Meisterschaften ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=01900
+Antwort_2=01896
+Antwort_3=01910
+Antwort_4=11903
+
+[148]
+FZ1=
+FZ2=In welchem der vier Jahre wurde die
+FZ3=Deutsche Fußball - Nationalmannschaft   n i c h t  Weltmeister?
+Min=32000
+Max=250000
+Antwort_1=01954
+Antwort_2=01974
+Antwort_3=01990
+Antwort_4=11966
+
+[149]
+FZ1=
+FZ2=Ein anderes Wort für "Elfmeter" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Anstoß
+Antwort_2=0Eckstoß
+Antwort_3=0Einwurf
+Antwort_4=1Strafstoß
+
+[150]
+FZ1=
+FZ2=Das größte Fußballstadion der Welt ist in ......
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0Mexico - City
+Antwort_2=0Madrid
+Antwort_3=1Rio de Janeiro
+Antwort_4=0München
+
+[151]
+FZ1=
+FZ2=Wie hieß der deutsche Torwart bei der WM 1994 ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0Oliver Kahn
+Antwort_2=1Bodo Illgner
+Antwort_3=0Andreas Köpke
+Antwort_4=0Toni Schumacher
+
+[152]
+FZ1=
+FZ2=Welche Fußballmannschaft gewann 1930
+FZ3=und 1940 die Weltmeisterschaft ?
+Min=32000
+Max=250000
+Antwort_1=1Uruguay
+Antwort_2=0Argentinien
+Antwort_3=0Brasilien
+Antwort_4=0Mexiko
+
+[153]
+FZ1=
+FZ2=Wie breit darf ein Fußballplatz sein ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=020 - 40 m
+Antwort_2=145 - 90 m
+Antwort_3=050 - 100 m
+Antwort_4=030 - 60 m
+
+[154]
+FZ1=
+FZ2=Wie lang darf ein Fußballplatz sein ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=050 - 80 m
+Antwort_2=060 - 90 m
+Antwort_3=190 - 120 m
+Antwort_4=070 - 100 m
+
+[155]
+FZ1=
+FZ2=Wie werden die Spieler vom 1. FC Kaiserslautern
+FZ3=auch noch genannt ?
+Min=16000
+Max=16000
+Antwort_1=1die roten Teufel
+Antwort_2=0die gelben Engel
+Antwort_3=0die schwarzen Geister
+Antwort_4=0die weißen Sterne
+
+[156]
+FZ1=
+FZ2=Wie werden die Spieler des MSV Duisburg
+FZ3=auch noch genannt ?
+Min=16000
+Max=16000
+Antwort_1=0Tiger
+Antwort_2=0Löwen
+Antwort_3=1Zebras
+Antwort_4=0Fohlen
+
+[157]
+FZ1=
+FZ2=In welchem Verein spielen die "Zebras" ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1MSV Duisburg
+Antwort_2=0VfL Bochum
+Antwort_3=01. FC Köln
+Antwort_4=0Eintracht Frankfurt
+
+[158]
+FZ1=
+FZ2=Welches Maskottchen gehört zum 1. FC Köln ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Schaf
+Antwort_2=1Geißbock
+Antwort_3=0Kamel
+Antwort_4=0Pferd
+
+[159]
+FZ1=
+FZ2=Welcher Verein hat einen Geißbock als Maskottchen ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=01. FC Kaiserslautern
+Antwort_2=0Bayern München
+Antwort_3=11. FC Köln
+Antwort_4=0Hamburger SV
+
+[160]
+FZ1=
+FZ2=Wie werden die Spieler des TSV 1860 München
+FZ3=auch noch genannt  ?
+Min=16000
+Max=16000
+Antwort_1=0Tiger
+Antwort_2=0Zebras
+Antwort_3=0Fohlen
+Antwort_4=1Löwen
+
+[161]
+FZ1=
+FZ2=In welchem Verein spielen die "Löwen" ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Borussia Dortmund
+Antwort_2=0Eintracht Frankfurt
+Antwort_3=0Karlsruher SC
+Antwort_4=1TSV 1860 München
+
+[162]
+FZ1=
+FZ2=Aus welcher Stadt kommt Schalke 04 ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Dortmund
+Antwort_2=0Bochum
+Antwort_3=1Gelsenkirchen
+Antwort_4=0Essen
+
+[163]
+FZ1=
+FZ2=Welcher Verein kommt aus Gelsenkirchen ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Schalke 04
+Antwort_2=0BVB
+Antwort_3=0HSV
+Antwort_4=0Hertha BSC
+
+[164]
+FZ1=
+FZ2=Aus welcher Stadt kommt die Hertha ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Hamburg
+Antwort_2=0Köln
+Antwort_3=0Frankfurt
+Antwort_4=1Berlin
+
+[165]
+FZ1=
+FZ2=Welcher Verein spielt in Berlin ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0BVB
+Antwort_2=0Schalke 04
+Antwort_3=1Hertha
+Antwort_4=0HSV
+
+[166]
+FZ1=
+FZ2=Welche Farbe hat die Karte bei einer Verwarnung ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1gelb
+Antwort_2=0rot
+Antwort_3=0grün
+Antwort_4=0blau
+
+[167]
+FZ1=
+FZ2=Was bedeutet die gelbe Karte ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0Platzverweis
+Antwort_2=0Anstoß
+Antwort_3=0Halbzeit
+Antwort_4=1Verwarnung
+
+[168]
+FZ1=
+FZ2=In welchem Raum ist der Torwart
+FZ3=besonders geschützt ?
+Min=0
+Max=1000
+Antwort_1=016 - m Raum
+Antwort_2=15 - m Raum
+Antwort_3=0in der eigenen Hälfte
+Antwort_4=0auf dem ganzen Platz
+
+[169]
+FZ1=
+FZ2=Wie viele Punkte bekommt eine Mannschaft für
+FZ3=einen Sieg ?
+Min=0
+Max=1000
+Antwort_1=01
+Antwort_2=02
+Antwort_3=04
+Antwort_4=13
+
+[170]
+FZ1=
+FZ2=Wie viele Punkte bekommt eine Mannschaft für
+FZ3=ein Unentschieden ?
+Min=0
+Max=1000
+Antwort_1=04
+Antwort_2=03
+Antwort_3=02
+Antwort_4=11
+
+[171]
+FZ1=
+FZ2=Wie nennt man die "Strümpfe" der Fußballspieler ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Socken
+Antwort_2=0Kniestrümpfe
+Antwort_3=1Stutzen
+Antwort_4=0Stäbe
+
+[172]
+FZ1=
+FZ2=Wie viele Feldspieler können
+FZ3=in einem Spiel eingewechselt werden ?
+Min=1000
+Max=16000
+Antwort_1=13
+Antwort_2=02
+Antwort_3=01
+Antwort_4=04
+
+[173]
+FZ1=Wie viele Elfmeterschützen pro Mannschaft
+FZ2=werden bei einem Elfmeterschießen zuerst
+FZ3=dem Schiedsrichter genannt ?
+Min=1000
+Max=16000
+Antwort_1=15
+Antwort_2=04
+Antwort_3=06
+Antwort_4=03
+
+[174]
+FZ1=
+FZ2=Wie breit ist ein Fußballtor ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=17,32 m
+Antwort_2=06,68 m
+Antwort_3=08,04 m
+Antwort_4=05,25 m
+
+[175]
+FZ1=
+FZ2=Wie hoch ist ein Fußballtor ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=02,00 m
+Antwort_2=01,95 m
+Antwort_3=12,44 m
+Antwort_4=02,63 m
+
+[176]
+FZ1=
+FZ2=Wie weit müssen die gegnerischen Spieler
+FZ3=bei einem Freistoß vom Ball entfernt sein ?
+Min=1000
+Max=16000
+Antwort_1=19,15 m
+Antwort_2=08,50 m
+Antwort_3=06,30 m
+Antwort_4=03,90 m
+
+[177]
+FZ1=
+FZ2=Wie darf der Umfang eines Fußballes sein ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=168 - 71 cm
+Antwort_2=062 - 66 cm
+Antwort_3=072 - 77 cm
+Antwort_4=065 - 69 cm
+
+[178]
+FZ1=
+FZ2=Wie schwer darf ein Fußball sein ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0200 - 300 g
+Antwort_2=1396 - 453 g
+Antwort_3=0333 - 366 g
+Antwort_4=0458 - 498 g
+
+[179]
+FZ1=
+FZ2=Welche "klassische" Rückennummer hat der
+FZ3=Spielmacher ?
+Min=1000
+Max=8000
+Antwort_1=110
+Antwort_2=05
+Antwort_3=08
+Antwort_4=09
+
+[180]
+FZ1=
+FZ2=Welche "klassische" Rückennummer hat der
+FZ3=Mittelstürmer ?
+Min=1000
+Max=8000
+Antwort_1=01
+Antwort_2=19
+Antwort_3=07
+Antwort_4=05
+
+[181]
+FZ1=
+FZ2=Welche "klassische" Rückennummer hat der
+FZ3=Torwart ?
+Min=0
+Max=500
+Antwort_1=11
+Antwort_2=02
+Antwort_3=03
+Antwort_4=04
+
+[182]
+FZ1=
+FZ2=Welche "klassische" Rückennummer hat der
+FZ3=Libero ?
+Min=1000
+Max=8000
+Antwort_1=03
+Antwort_2=15
+Antwort_3=06
+Antwort_4=04
+
+[183]
+FZ1=
+FZ2=Welcher Spieler darf den Ball in die Hand nehmen ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Torwart
+Antwort_2=0Mittelstürmer
+Antwort_3=0Libero
+Antwort_4=0Linksaußen
+
+[184]
+FZ1=
+FZ2=Wann darf ein Feldspieler den Ball
+FZ3=in die Hand nehmen ?
+Min=100
+Max=1000
+Antwort_1=0beim Doppelpass
+Antwort_2=0beim Abstoß
+Antwort_3=0beim Eckball
+Antwort_4=1beim Einwurf
+
+[185]
+FZ1=
+FZ2=Wie heißt Brasiliens berühmtester Fußballer ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Pelé
+Antwort_2=0Maradona
+Antwort_3=0Santana
+Antwort_4=0Elber
+
+[186]
+FZ1=
+FZ2=Aus welchem Land kommt Pelé ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Brasilien
+Antwort_2=0Argentinien
+Antwort_3=0Uruguay
+Antwort_4=0Mexiko
+
+[187]
+FZ1=
+FZ2=Wie heißt Argentiniens berühmtester Fußballer ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Pelé
+Antwort_2=1Maradona
+Antwort_3=0Sanchez
+Antwort_4=0Matthäus
+
+[188]
+FZ1=
+FZ2=Aus welchem Land kommt Maradona ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Argentinien
+Antwort_2=0Italien
+Antwort_3=0Brasilien
+Antwort_4=0Australien
+
+[189]
+FZ1=
+FZ2=Wer wurde 1966 Fußballweltmeister ?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1England
+Antwort_2=0Deutschland
+Antwort_3=0Brasilien
+Antwort_4=0Argentinien
+
+[190]
+FZ1=
+FZ2=Gegen wen wurde Deutschland 1954 Weltmeister ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0Uruguay
+Antwort_2=0Argentinien
+Antwort_3=0Italien
+Antwort_4=1Ungarn
+
+[191]
+FZ1=
+FZ2=Gegen wen wurde Deutschland 1974 Weltmeister ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Niederlande
+Antwort_2=0England
+Antwort_3=0Italien
+Antwort_4=0Argentinien
+
+[192]
+FZ1=
+FZ2=Gegen wen wurde Deutschland 1990 Weltmeister ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Argentinien
+Antwort_2=0Ungarn
+Antwort_3=0Niederlande
+Antwort_4=0Brasilien
+
+[193]
+FZ1=
+FZ2=Wo fand das Endspiel 1954 statt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0Deutschland
+Antwort_2=0Italien
+Antwort_3=0Frankreich
+Antwort_4=1Schweiz
+
+[194]
+FZ1=
+FZ2=Wo fand das Endspiel 1974 statt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Deutschland
+Antwort_2=0Italien
+Antwort_3=0Frankreich
+Antwort_4=0Mexiko
+
+[195]
+FZ1=
+FZ2=Wo fand das Endspiel 1990 statt ?
+FZ3=
+Min=32000
+Max=0
+Antwort_1=1Italien
+Antwort_2=0Deutschland
+Antwort_3=0Belgien
+Antwort_4=0Frankreich
+
+[196]
+FZ1=
+FZ2=Mit welchem Ergebnis wurde Deutschland
+FZ3=1954 Weltmeister ?
+Min=125000
+Max=1000000
+Antwort_1=13 : 2
+Antwort_2=01 : 0
+Antwort_3=02 : 1
+Antwort_4=04 : 3
+
+[197]
+FZ1=
+FZ2=Mit welchem Ergebnis wurde Deutschland
+FZ3=1974 Weltmeister ?
+Min=125000
+Max=1000000
+Antwort_1=12 : 1
+Antwort_2=01 : 0
+Antwort_3=03 : 0
+Antwort_4=02 : 0
+
+[198]
+FZ1=
+FZ2=Mit welchem Ergebnis wurde Deutschland
+FZ3=1990 Weltmeister ?
+Min=125000
+Max=1000000
+Antwort_1=03 : 2
+Antwort_2=11 : 0
+Antwort_3=02 : 0
+Antwort_4=02 : 1
+
+[199]
+FZ1=
+FZ2=Was trägt der Mannschaftskapitän ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0ein Stirnband
+Antwort_2=0eine Mütze
+Antwort_3=0eine lange Hose
+Antwort_4=1eine Armbinde
+
+[200]
+FZ1=
+FZ2=Wie zeigt der Schiedsrichter einen
+FZ3=indirekten Freistoß an ?
+Min=4000
+Max=32000
+Antwort_1=1Er hebt den linken Arm.
+Antwort_2=0Er nickt mit dem Kopf.
+Antwort_3=0Er hebt beide Arme.
+Antwort_4=0Er stellt sich auf ein Bein.
+
+[201]
+FZ1=
+FZ2=Wo darf der Torwart den Ball in die Hand nehmen ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0nur im 5 - m Raum
+Antwort_2=0in der eigenen Hälfte
+Antwort_3=0überall
+Antwort_4=1nur im 16 - Raum
+
+[202]
+FZ1=
+FZ2=In welcher Stadt findet das deutsche Pokalendspiel statt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Berlin
+Antwort_2=0München
+Antwort_3=0Hamburg
+Antwort_4=0Dortmund
+
+[203]
+FZ1=
+FZ2=Wie wird die Meisterschale im Volksmund genannt ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0Admirals Cup
+Antwort_2=0Winner Pokal
+Antwort_3=1Salatschüssel
+Antwort_4=0Suppentopf
+
+[204]
+FZ1=
+FZ2=Wie viele Mannschaften spielen in der 1. Bundesliga ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=016
+Antwort_2=014
+Antwort_3=020
+Antwort_4=118
+
+[205]
+FZ1=
+FZ2=Wie viele Mannschaften spielen in der 2. Bundesliga ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=118
+Antwort_2=016
+Antwort_3=020
+Antwort_4=022
+
+[206]
+FZ1=
+FZ2=Wie viele Mannschaften steigen in jeder Saison ab ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=13
+Antwort_2=02
+Antwort_3=04
+Antwort_4=05
+
+[207]
+FZ1=
+FZ2=Wie viele Mannschaften steigen in jeder Saison auf ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=02
+Antwort_2=04
+Antwort_3=05
+Antwort_4=13
+
+[208]
+FZ1=
+FZ2=Wie heißt der Mann, der mit der
+FZ3=Fußballmannschaft übt ?
+Min=0
+Max=500
+Antwort_1=0Über
+Antwort_2=1Trainer
+Antwort_3=0Schiedsrichter
+Antwort_4=0Torwart
+
+[209]
+FZ1=Wie nennt man es, wenn bei der Ballabgabe ein Spieler
+FZ2=in der gegnerischen Hälfte steht, der gegnerischen Torlinie näher ist
+FZ3=als der Ball und er nur noch den Torwart vor sich hat ?
+Min=16000
+Max=16000
+Antwort_1=1abseits
+Antwort_2=0aufwärts
+Antwort_3=0einerseits
+Antwort_4=0Eckball
+
+[210]
+FZ1=
+FZ2=Wie wurde Uwe Seeler im Volksmund genannt ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1Uns Uwe
+Antwort_2=0Uwe Tor
+Antwort_3=0Kanone Uwe
+Antwort_4=0Uwe hopp
+
+[211]
+FZ1=
+FZ2=Wer war in den 70 ´er Jahren der "Bomber der Nation" ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Gerd Müller
+Antwort_2=0Uwe Seeler
+Antwort_3=0Hansi Müller
+Antwort_4=0Egon Schmidt
+
+[212]
+FZ1=
+FZ2=Wie wurde Gerd Müller auch genannt ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Bomber der Nation
+Antwort_2=0Kopfballungeheuer
+Antwort_3=0Torschusskanone
+Antwort_4=0Fußballgott
+
+[213]
+FZ1=
+FZ2=Kann mit einem Einwurf direkt ein Tor erzielt werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1nein
+Antwort_2=0ja
+Antwort_3=0nur in der ersten Halbzeit
+Antwort_4=0nur in der Verlängerung
+
+[214]
+FZ1=
+FZ2=Wie wurde Borussia Mönchengladbach in den
+FZ3=70 ´er Jahren genannt ?
+Min=250000
+Max=1000000
+Antwort_1=1Fohlenelf
+Antwort_2=0Superelf
+Antwort_3=0Dreamteam
+Antwort_4=0Champions
+
+[215]
+FZ1=
+FZ2=Wer wurde 1995 Deutscher Meister ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Borussia Dortmund
+Antwort_2=0Bayern München
+Antwort_3=01. FC Kaiserslautern
+Antwort_4=0Schalke 04
+
+[216]
+FZ1=
+FZ2=Wer wurde 1996 Deutscher Meister ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Borussia Dortmund
+Antwort_2=0Bayer Leverkusen
+Antwort_3=0VfB Stuttgart
+Antwort_4=0Bayern München
+
+[217]
+FZ1=
+FZ2=Wer gewann 1997 die Champions League ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Borussia Dortmund
+Antwort_2=0Bayern München
+Antwort_3=0FC Liverpool
+Antwort_4=0Real Madrid
+
+[218]
+FZ1=
+FZ2=Was gibt es, nachdem ein Spieler den Ball über
+FZ3=die eigene Torauslinie geschossen hat ?
+Min=1000
+Max=16000
+Antwort_1=1Eckball
+Antwort_2=0Einwurf
+Antwort_3=0Abstoß
+Antwort_4=0Verlängerung
+
+[219]
+FZ1=
+FZ2=Wie viele Schiedsrichterassistenten gibt es
+FZ3=bei einem Fußballspiel ?
+Min=0
+Max=1000
+Antwort_1=12
+Antwort_2=01
+Antwort_3=03
+Antwort_4=04
+
+[220]
+FZ1=
+FZ2=Wie hieß der Trainer beim WM - Sieg der
+FZ3=deutschen Mannschaft 1954 ?
+Min=125000
+Max=1000000
+Antwort_1=1Sepp Herberger
+Antwort_2=0Helmut Schön
+Antwort_3=0Helmut Rahn
+Antwort_4=0Toni Polster
+
+[221]
+FZ1=
+FZ2=Wie hieß der Trainer beim WM - Sieg der
+FZ3=deutschen Mannschaft 1974 ?
+Min=125000
+Max=1000000
+Antwort_1=1Helmut Schön
+Antwort_2=0Helmut Rahn
+Antwort_3=0Sepp Herberger
+Antwort_4=0Helmut Haller
+
+[222]
+FZ1=
+FZ2=Wie hieß der Trainer beim WM - Sieg der
+FZ3=deutschen Mannschaft 1990 ?
+Min=125000
+Max=1000000
+Antwort_1=1Franz Beckenbauer
+Antwort_2=0Lothar Matthäus
+Antwort_3=0Rudi Völler
+Antwort_4=0Berti Vogts
+
+[223]
+FZ1=
+FZ2=Wie heißt der deutsche Rekord - Nationalspieler ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Lothar Matthäus
+Antwort_2=0Franz Beckenbauer
+Antwort_3=0Uwe Seeler
+Antwort_4=0Stefan Effenberg
+
+[224]
+FZ1=
+FZ2=Wie heißt das Mutterland des Fußballs ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1England
+Antwort_2=0Deutschland
+Antwort_3=0Brasilien
+Antwort_4=0Holland
+
+[225]
+FZ1=
+FZ2=Wenn ein Spieler im eigenen Strafraum den Ball
+FZ3=mit der Hand spielt, gibt es ...
+Min=200
+Max=4000
+Antwort_1=1Elfmeter
+Antwort_2=0Eckball
+Antwort_3=0Einwurf
+Antwort_4=0Verlängerung
+
+[226]
+FZ1=
+FZ2=Wie lange dauert eine Halbzeit
+FZ3=der Verlängerung ?
+Min=1000
+Max=8000
+Antwort_1=115 Minuten
+Antwort_2=030 Minute
+Antwort_3=045 Minuten
+Antwort_4=05 Minuten
+
+[227]
+FZ1=
+FZ2=Abends finden Fußballspiele bei ... statt.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Flutlicht
+Antwort_2=0Mondschein
+Antwort_3=0Kerzenschein
+Antwort_4=0Abblendlicht
+
+[228]
+FZ1=
+FZ2=Wie viele Spiele hat eine deutsche Fußballbundesliga - Meisterschaft ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=134
+Antwort_2=038
+Antwort_3=040
+Antwort_4=042
+
+[229]
+FZ1=
+FZ2=Ein Spieler ist nicht abseits, wenn er beim Abspiel ...
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in der eigenen Hälfte steht
+Antwort_2=0auf einem Bein steht
+Antwort_3=0mit den Armen winkt
+Antwort_4=0in die Luft springt
+
+[230]
+FZ1=
+FZ2=Was befindet sich unter den Fußballschuhen ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Stollen
+Antwort_2=0Nägel
+Antwort_3=0Löcher
+Antwort_4=0Magnete
+
+[231]
+FZ1=
+FZ2=Wie heißt der Spieler, der die Bälle fangen darf ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Fänger
+Antwort_2=1Torwart
+Antwort_3=0Klaus
+Antwort_4=0Mittelstürmer
+
+[232]
+FZ1=
+FZ2=Welcher Torwart war kein Nationalspieler ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Oliver Kahn
+Antwort_2=1Karl Dall
+Antwort_3=0Toni Schumacher
+Antwort_4=0Andreas Köpke
+
+[233]
+FZ1=
+FZ2=Wie heißt der Verein ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=0Schalke 02
+Antwort_2=0Schalke 03
+Antwort_3=1Schalke 04
+Antwort_4=0Schalke 05
+
+[234]
+FZ1=
+FZ2=Was sind die Vereinsfarben von Borussia Dortmund ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=0blau - weiß
+Antwort_2=1gelb - schwarz
+Antwort_3=0weiß - rot
+Antwort_4=0grün - weiß
+
+[235]
+FZ1=
+FZ2=Was sind die Vereinsfarben von Schalke 04 ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=0gelb - schwarz
+Antwort_2=0grün - blau
+Antwort_3=0weiß - rot
+Antwort_4=1blau - weiß
+
+[236]
+FZ1=
+FZ2=In welchem Stadion trägt Borussia Dortmund
+FZ3=seine Heimspiele aus ?
+Min=2000
+Max=16000
+Antwort_1=0Glückauf - Kampfbahn
+Antwort_2=0Stadion Rote Erde
+Antwort_3=1Westfalenstadion
+Antwort_4=0Betzenberg
+
+[237]
+FZ1=
+FZ2=Auf welchem Berg trägt der 1. Kaiserslautern
+FZ3=seine Heimspiele aus ?
+Min=4000
+Max=32000
+Antwort_1=0Teufelsberg
+Antwort_2=0Zugspitze
+Antwort_3=1Betzenberg
+Antwort_4=0Höllenberg
+
+[238]
+FZ1=
+FZ2=Wie hieß der Teamchef der deutschen Nationalmannschaft 2001 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0Berti Vogts
+Antwort_2=0Erich Ribbeck
+Antwort_3=0Christoph Daum
+Antwort_4=1Rudi Völler
+
+[239]
+FZ1=
+FZ2=In welchem Stadion trägt Werder Bremen
+FZ3=seine Heimspiele aus ?
+Min=2000
+Max=16000
+Antwort_1=0Emsstadion
+Antwort_2=1Weserstadion
+Antwort_3=0Rheinstadion
+Antwort_4=0Elbestadion
+
+[240]
+FZ1=
+FZ2=Wer schoss 1954 beim WM - Finale das Siegtor ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0Toni Turek
+Antwort_2=0Helmut Haller
+Antwort_3=1Helmut Rahn
+Antwort_4=0Sepp Herberger
+
+[241]
+FZ1=
+FZ2=Wer schoss 1974 beim WM - Finale das Siegtor ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0Berti Vogts
+Antwort_2=0Paul Breitner
+Antwort_3=0Franz Beckenbauer
+Antwort_4=1Gerd Müller
+
+[242]
+FZ1=
+FZ2=Wer schoss 1990 beim WM - Finale das Siegtor ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0Rudi Völler
+Antwort_2=1Andy Brehme
+Antwort_3=0Olaf Thon
+Antwort_4=0Pierre Littbarski
+
+[243]
+FZ1=
+FZ2=In welchem Stadion trägt der VfL Bochum seine Heimspiele aus ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0Rheinstadion
+Antwort_2=1Ruhrstadion
+Antwort_3=0Westfalenstadion
+Antwort_4=0Weserstadion
+
+[244]
+FZ1=
+FZ2=Was steht an jeder Ecke eines Fußballfeldes ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Eckball
+Antwort_2=1Eckfahne
+Antwort_3=0Schiedsrichter
+Antwort_4=0Torwart
+
+[245]
+FZ1=
+FZ2=Wie nennt man das Hemd, das ein Fußballspieler anzieht ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Oberhemd
+Antwort_2=0Unterhemd
+Antwort_3=1Trikot
+Antwort_4=0T - Shirt
+
+[246]
+FZ1=
+FZ2=Wie heißen die Polster, mit denen ein Fußballer die Beine schützt ?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=0Wadenschützer
+Antwort_2=1Schienbeinschoner
+Antwort_3=0Knieschützer
+Antwort_4=0Fußschoner
+
+[247]
+FZ1=
+FZ2=Darf ein Fußballer einen Eckball direkt ins Tor schießen ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=0nein
+Antwort_2=0nur in der 1. Halbzeit
+Antwort_3=0nur in der Verlängerung
+Antwort_4=1ja
+
+[248]
+FZ1=
+FZ2=Welches Tor ärgert einen Fußballer am allermeisten ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=0der Ausgleich
+Antwort_2=0das Gegentor
+Antwort_3=1das Eigentor
+Antwort_4=0das Abseitstor
+
+[249]
+FZ1=
+FZ2=Welche Linie verläuft quer über einen Fußballplatz ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0Außenlinie
+Antwort_2=0Torlinie
+Antwort_3=1Mittellinie
+Antwort_4=0Abseitslinie
+
+[250]
+FZ1=
+FZ2=Wer trägt in einer Fußballmannschaft eine Armbinde ?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0der Schiedsrichter
+Antwort_2=0der Torwart
+Antwort_3=0der Pilot
+Antwort_4=1der Kapitän
+
+[251]
+FZ1=
+FZ2=Welcher Fußballspieler trägt auch im Sommer Handschuhe ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=0Verteidiger
+Antwort_2=1Torwart
+Antwort_3=0Stürmer
+Antwort_4=0Ersatzspieler
+
+[252]
+FZ1=
+FZ2=Wie lautet der englische Ausdruck für Fußball ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1soccer
+Antwort_2=0football
+Antwort_3=0ballgame
+Antwort_4=0goal
+
+[253]
+FZ1=
+FZ2=Wie lautet der englische Ausdruck für Torwart ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0sleeper
+Antwort_2=1keeper
+Antwort_3=0profi
+Antwort_4=0captain
+
+[254]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Leverkusen
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Fortuna
+Antwort_2=1Bayer
+Antwort_3=0Borussia
+Antwort_4=0Werder
+
+[255]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Dortmund
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0Werder
+Antwort_2=01. FC
+Antwort_3=1Borussia
+Antwort_4=0Hansa
+
+[256]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Bremen
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Borussia
+Antwort_2=1Werder
+Antwort_3=0Hertha
+Antwort_4=01. FC
+
+[257]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Kaiserslautern
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Werder
+Antwort_2=0Bayer
+Antwort_3=0Fortuna
+Antwort_4=11. FC
+
+[258]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... München
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0Borussia
+Antwort_2=0Werder
+Antwort_3=1Bayern
+Antwort_4=01. FC
+
+[259]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... BSC Berlin
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Bayern
+Antwort_2=0Fortuna
+Antwort_3=1Hertha
+Antwort_4=0Hansa
+
+[260]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Stuttgart
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0HSV
+Antwort_2=0VfL
+Antwort_3=0BVB
+Antwort_4=1VfB
+
+[261]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Wolfsburg
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0BVB
+Antwort_2=1VfL
+Antwort_3=0VfB
+Antwort_4=0WSV
+
+[262]
+FZ1=
+FZ2=Wie heißt der  Verein ? Hamburger ..
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0FC
+Antwort_2=0SC
+Antwort_3=0VB
+Antwort_4=1SV
+
+[263]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Rostock
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Werder
+Antwort_2=1Hansa
+Antwort_3=0Bayer
+Antwort_4=0Borussia
+
+[264]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Freiburg
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0SV
+Antwort_2=0FC
+Antwort_3=0HB
+Antwort_4=1SC
+
+[265]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Mönchengladbach
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Borussia
+Antwort_2=0Werder
+Antwort_3=0Fortuna
+Antwort_4=0Hansa
+
+[266]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Cottbus
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Energie
+Antwort_2=0Tempo
+Antwort_3=0Kraft
+Antwort_4=0Ausdauer
+
+[267]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Köln
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=11. FC
+Antwort_2=0Union
+Antwort_3=0Bayer
+Antwort_4=0Werder
+
+[268]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Nürnberg
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Werder
+Antwort_2=0Hansa
+Antwort_3=11. FC
+Antwort_4=0NSV
+
+[269]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... St. Pauli
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0KSC
+Antwort_2=0PSV
+Antwort_3=0Bayer
+Antwort_4=11. FC
+
+[270]
+FZ1=
+FZ2=Wie heißt der  Verein ?  Mainz ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=004
+Antwort_2=003
+Antwort_3=006
+Antwort_4=105
+
+[271]
+FZ1=
+FZ2=Wie heißt der  Verein ? Hannover ...
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=088
+Antwort_2=086
+Antwort_3=099
+Antwort_4=196
+
+[272]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Bielefeld
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Borussia
+Antwort_2=0Union
+Antwort_3=1Arminia
+Antwort_4=0Hansa
+
+[273]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Frankfurt
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Glück Auf
+Antwort_2=1Eintracht
+Antwort_3=0Borussia
+Antwort_4=0Werder
+
+[274]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Bochum
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1VfL
+Antwort_2=0VfB
+Antwort_3=0BVB
+Antwort_4=0WSV
+
+[275]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Aachen
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Fortuna
+Antwort_2=1Alemannia
+Antwort_3=0Borussia
+Antwort_4=0Eintracht
+
+[276]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Duisburg
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0BVB
+Antwort_2=0HSV
+Antwort_3=1MSV
+Antwort_4=0VfB
+
+[277]
+FZ1=
+FZ2=Wie heißt der  Verein ? ... Rostock
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Hansa
+Antwort_2=0Werder
+Antwort_3=0Eintracht
+Antwort_4=0Energie
+
+[278]
+FZ1=
+FZ2=Welche Mannschaft wurde 1938 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Italien
+Antwort_2=0Argentinien
+Antwort_3=0Brasilien
+Antwort_4=0Spanien
+
+[279]
+FZ1=
+FZ2=Welche Mannschaft wurde im Jahr 1934 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Italien
+Antwort_2=0Uruguay
+Antwort_3=0Brasilien
+Antwort_4=0England
+
+[280]
+FZ1=
+FZ2=Welche Mannschaft wurde bis 1998 noch nie im eigenen Land Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Argentinien
+Antwort_2=0Italien
+Antwort_3=0Frankreich
+Antwort_4=0Deutschland
+
+[281]
+FZ1=
+FZ2=Welche Mannschaft wurde bis 1998 noch nie im eigenen Land Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Brasilien
+Antwort_2=0Deutschland
+Antwort_3=0England
+Antwort_4=0Italien
+
+[282]
+FZ1=
+FZ2=Welche Mannschaft wurde bis zum Jahre 2000 noch nie Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Polen
+Antwort_2=0Sowjetunion
+Antwort_3=0Tschechoslowakei
+Antwort_4=0Spanien
+
+[283]
+FZ1=
+FZ2=Welche Mannschaft wurde 2000 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Frankreich
+Antwort_2=0Deutschland
+Antwort_3=0England
+Antwort_4=0Niederlande
+
+[284]
+FZ1=
+FZ2=Welche Mannschaft wurde 1996 Europameister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Deutschland
+Antwort_2=0Spanien
+Antwort_3=0Norwegen
+Antwort_4=0Österreich
+
+[285]
+FZ1=
+FZ2=Welche Mannschaft wurde 1992 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Dänemark
+Antwort_2=0Deutschland
+Antwort_3=0Niederlande
+Antwort_4=0Italien
+
+[286]
+FZ1=
+FZ2=Welche Mannschaft wurde 1988 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Niederlande
+Antwort_2=0England
+Antwort_3=0Deutschland
+Antwort_4=0Italien
+
+[287]
+FZ1=
+FZ2=Welche Mannschaft wurde 1984 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Frankreich
+Antwort_2=0Italien
+Antwort_3=0Deutschland
+Antwort_4=0Dänemark
+
+[288]
+FZ1=
+FZ2=Welche Mannschaft wurde 1980 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Deutschland
+Antwort_2=0Schweden
+Antwort_3=0Frankreich
+Antwort_4=0Italien
+
+[289]
+FZ1=
+FZ2=Welche Mannschaft wurde 1976 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Tschechoslowakei
+Antwort_2=0Polen
+Antwort_3=0Sowjetunion
+Antwort_4=0Ungarn
+
+[290]
+FZ1=
+FZ2=Welche Mannschaft wurde 1972 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Deutschland
+Antwort_2=0Spanien
+Antwort_3=0Belgien
+Antwort_4=0England
+
+[291]
+FZ1=
+FZ2=Welche Mannschaft wurde 1968 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Italien
+Antwort_2=0Niederlande
+Antwort_3=0Spanien
+Antwort_4=0Schweiz
+
+[292]
+FZ1=
+FZ2=Welche Mannschaft wurde 1964 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Spanien
+Antwort_2=0Portugal
+Antwort_3=0Italien
+Antwort_4=0Deutschland
+
+[293]
+FZ1=
+FZ2=Welche Mannschaft wurde 1960 Europameister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Sowjetunion
+Antwort_2=0Belgien
+Antwort_3=0Deutschland
+Antwort_4=0Polen
+
+[294]
+FZ1=
+FZ2=Wann gewann - bis 2001 - Schalke 04 seine letzte deutsche Meisterschaft ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11958
+Antwort_2=01979
+Antwort_3=01966
+Antwort_4=01998
+
+[295]
+FZ1=
+FZ2=Wie oft wurde Bayern München bis 2001 Deutscher Meister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=116 mal
+Antwort_2=010 mal
+Antwort_3=013 mal
+Antwort_4=012 mal
+
+[296]
+FZ1=
+FZ2=Welche Mannschaft wurde 1962 Weltmeister ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Brasilien
+Antwort_2=0Deutschland
+Antwort_3=0England
+Antwort_4=0Italien
+
+[297]
+FZ1=
+FZ2=Welche Mannschaft wurde 1958 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Brasilien
+Antwort_2=0Niederlande
+Antwort_3=0Deutschland
+Antwort_4=0Italien
+
+[298]
+FZ1=
+FZ2=Welche Mannschaft gewann bis 2001 noch nie
+FZ3=zweimal hintereinander den DFB - Pokal ?
+Min=500000
+Max=500000
+Antwort_1=1Schalke 04
+Antwort_2=01. FC Köln
+Antwort_3=0Bayern München
+Antwort_4=0Fortuna Düsseldorf
+
+[299]
+FZ1=
+FZ2=Welche Mannschaft gewann bis 2001 noch nie
+FZ3=zweimal hintereinander den DFB - Pokal ?
+Min=500000
+Max=500000
+Antwort_1=1Borussia Dortmund
+Antwort_2=01. FC Köln
+Antwort_3=0Eintracht Frankfurt
+Antwort_4=0Fortuna Düsseldorf
+
+[300]
+FZ1=
+FZ2=Welchem Fußballspieler wurde bei einem Bundesligaspiel 1981 durch ein Foul des
+FZ3=Gegenspielers der Oberschenkel aufgeschlitzt ?
+Min=500000
+Max=500000
+Antwort_1=1Ewald Lienen
+Antwort_2=0Heinz Flohe
+Antwort_3=0Günther Netzer
+Antwort_4=0Jürgen Klinsmann
+
+[301]
+FZ1=
+FZ2=Wer war der Nachfolger von Sepp Herberger als Bundestrainer
+FZ3=der deutschen Nationalmannschaft ?
+Min=125000
+Max=250000
+Antwort_1=1Helmut Schön
+Antwort_2=0Berti Vogts
+Antwort_3=0Jupp Derwall
+Antwort_4=0Franz Beckenbauer
+
+[302]
+FZ1=
+FZ2=Welche Mannschaft gewann 2001 die Champions League ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Bayern München
+Antwort_2=0Real Madrid
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Manchester United
+
+[303]
+FZ1=
+FZ2=Welche Mannschaft gewann 2000 die Champions League ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Real Madrid
+Antwort_2=0FC Liverpool
+Antwort_3=0Borussia Dortmund
+Antwort_4=0Ajax Amsterdam
+
+[304]
+FZ1=
+FZ2=Welche Mannschaft gewann 1999 die Champions League ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Manchester United
+Antwort_2=0Bayern München
+Antwort_3=0Real Madrid
+Antwort_4=0
+
+[305]
+FZ1=
+FZ2=Welche Mannschaft gewann 1998 die Champions League ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Real Madrid
+Antwort_2=0Manchester United
+Antwort_3=0Olympique Marseille
+Antwort_4=0AC Turin
+
+[306]
+FZ1=
+FZ2=Welche Mannschaft gewann 1997 die Champions League ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Borussia Dortmund
+Antwort_2=0Ajax Amsterdam
+Antwort_3=0Bayern München
+Antwort_4=0Real Madrid
+
+[307]
+FZ1=
+FZ2=Welche Mannschaft gewann 1996 die Champions League ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juventus Turin
+Antwort_2=0Manchester United
+Antwort_3=0AC Parma
+Antwort_4=0Bayern München
+
+[308]
+FZ1=
+FZ2=Welche Mannschaft gewann 1995 die Champions League ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ajax Amsterdam
+Antwort_2=0Borussia Dortmund
+Antwort_3=0FC Liverpool
+Antwort_4=0Real Madrid
+
+[309]
+FZ1=
+FZ2=Welche Mannschaft gewann 1994 die Champions League ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1AC Mailand
+Antwort_2=0Bayern München
+Antwort_3=0Ajax Amsterdam
+Antwort_4=0Juventus Turin
+
+[310]
+FZ1=
+FZ2=Welche Mannschaft gewann 1993 die Champions League ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Olympique Marseille
+Antwort_2=0Manchester United
+Antwort_3=0Real Madrid
+Antwort_4=0Lazio Rom
+
+[311]
+FZ1=
+FZ2=Wie viele Tore schoss Gerd Müller in der Bundesliga ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1365
+Antwort_2=0199
+Antwort_3=0209
+Antwort_4=0157
+
+[312]
+FZ1=
+FZ2=Wer ist bis zum Jahre 2001 der Rekordtorschütze der Bundesliga ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Gerd Müller
+Antwort_2=0Horst Hrubesch
+Antwort_3=0Uwe Seeler
+Antwort_4=0Rudi Völler
+
+[313]
+FZ1=
+FZ2=Welcher Spieler hat bis zum Jahr 2000 die meisten Bundesligaspiele
+FZ3=(nämlich 602) absolviert ?
+Min=250000
+Max=500000
+Antwort_1=1Karl-Heinz Körbel
+Antwort_2=0Paul Breitner
+Antwort_3=0Franz Beckenbauer
+Antwort_4=0Lothar Emmerich
+
+[314]
+FZ1=
+FZ2=Wie viele Tore schoss Gerd Müller bei seinen Weltmeisterschaften ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=114
+Antwort_2=012
+Antwort_3=013
+Antwort_4=011
+
+[315]
+FZ1=
+FZ2=Welcher Spieler schoss bis 1998 die meisten Weltmeisterschaftstore ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Gerd Müller
+Antwort_2=0Pelé
+Antwort_3=0Juste Fontaine
+Antwort_4=0Ronaldo
+
+[316]
+FZ1=
+FZ2=Welche Mannschaft nahm als einzige bis 1998
+FZ3=an allen 16 Weltmeisterschaften teil
+Min=16000
+Max=125000
+Antwort_1=1Brasilien
+Antwort_2=0Deutschland
+Antwort_3=0England
+Antwort_4=0
+
+[317]
+FZ1=
+FZ2=Welche Mannschaft wurde 1998 Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Frankreich
+Antwort_2=0England
+Antwort_3=0Italien
+Antwort_4=0Deutschland
+
+[318]
+FZ1=
+FZ2=Welche Mannschaft wurde 1994 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Brasilien
+Antwort_2=0Deutschland
+Antwort_3=0Argentinien
+Antwort_4=0England
+
+[319]
+FZ1=
+FZ2=Welche Mannschaft wurde 1986 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Argentinien
+Antwort_2=0Italien
+Antwort_3=0Brasilien
+Antwort_4=0Deutschland
+
+[320]
+FZ1=
+FZ2=Welche Mannschaft wurde 1982 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Italien
+Antwort_2=0Brasilien
+Antwort_3=0Spanien
+Antwort_4=0Deutschland
+
+[321]
+FZ1=
+FZ2=Welche Mannschaft wurde 1978 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Argentinien
+Antwort_2=0Deutschland
+Antwort_3=0Brasilien
+Antwort_4=0England
+
+[322]
+FZ1=
+FZ2=Welche Mannschaft wurde 1970 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Brasilien
+Antwort_2=0Uruguay
+Antwort_3=0Argentinien
+Antwort_4=0Deutschland
+
+[323]
+FZ1=
+FZ2=Ein "Hattrick" ist, wenn ein Spieler ...
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1in einer Halbzeit drei Tore schießt
+Antwort_2=0in einem Spiel drei Tore schießt
+Antwort_3=0in der Saison 10 Tore schießt
+Antwort_4=0in der Saison die meisten Tore schießt
+
+[324]
+FZ1=
+FZ2=Welcher deutschen Mannschaft gelang es 1966 als erster deutscher Mannschaft,
+FZ3=einen Titel auf europäischer Vereinsebene zu gewinnen ?
+Min=500000
+Max=500000
+Antwort_1=1Borussia Dortmund
+Antwort_2=0Borussia Mönchengladbach
+Antwort_3=0Bayern München
+Antwort_4=0Schalke 04
+
+[325]
+FZ1=
+FZ2=Wer schoss im Europapokalendspiel der Pokalsieger 1966
+FZ3=das 2:1 Siegtor für Borussia Dortmund ?
+Min=1000000
+Max=0
+Antwort_1=1Reinhard Libuda
+Antwort_2=0Hans Tilkowski
+Antwort_3=0Lothar Emmerich
+Antwort_4=0Siggi Held
+
+[326]
+FZ1=
+FZ2=Wie alt war Pelé, als er 1958 mit Brasilien Weltmeister wurde ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=117
+Antwort_2=020
+Antwort_3=018
+Antwort_4=019
+
+[327]
+FZ1=
+FZ2=Welcher Fußballtrainer wurde von seiner Mannschaft  "der Chef"  genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Sepp Herberger
+Antwort_2=0Ernst Happel
+Antwort_3=0Udo Lattek
+Antwort_4=0Dettmar Cramer
+
+[328]
+FZ1=
+FZ2=Wer schoss im WM - Finale 1974 das Elfmetertor zum 1:1 für Deutschland ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Paul Breitner
+Antwort_2=0Franz Beckenbauer
+Antwort_3=0Gerd Müller
+Antwort_4=0Andreas Brehme
+
+[329]
+FZ1=
+FZ2=Wen besiegte Bayern München 1976 im Europapokalendspiel der Landesmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1AS St. Etienne
+Antwort_2=0Atletico Madrid
+Antwort_3=0Ajax Amsterdam
+Antwort_4=0Juventus Turin
+
+[330]
+FZ1=
+FZ2=Welche Mannschaft wurde bis 1998 viermal Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Brasilien
+Antwort_2=0Italien
+Antwort_3=0Deutschland
+Antwort_4=0Argentinien
+
+[331]
+FZ1=
+FZ2=Wie viele Zuschauer sahen 1950 bei der WM - Endrunde das Spiel Uruguay gegen
+FZ3=Brasilien im Maracana-Stadion in Rio de Janeiro ?
+Min=250000
+Max=500000
+Antwort_1=1199.850
+Antwort_2=0102.600
+Antwort_3=0154.750
+Antwort_4=088.340
+
+[332]
+FZ1=
+FZ2=Welche Mannschaft wurde 1970 Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Brasilien
+Antwort_2=0Uruguay
+Antwort_3=0Argentinien
+Antwort_4=0Deutschland
+
+[333]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[334]
+FZ1=
+FZ2=Wie nennt man die Zuschauer, die ihre Mannschaft begeistert anfeuern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	Fans
+Antwort_2=0Oscar
+Antwort_3=0Friends
+Antwort_4=0Fips
+
+[335]
+FZ1=
+FZ2=Wie oft spielte Franz Beckenbauer für die deutsche Nationalmannschaft ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1	103
+Antwort_2=089
+Antwort_3=0134
+Antwort_4=075
+
+[336]
+FZ1=
+FZ2=Welcher Fußballspieler wurde dreimal Weltmeister ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	Pelé
+Antwort_2=0Johann Cruyff
+Antwort_3=0Franz Beckenbauer
+Antwort_4=0Bobby Charlton
+
+[337]
+FZ1=
+FZ2=Wie viele Tore schoss Pelé in 1364 Spielen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	über 1200
+Antwort_2=0985
+Antwort_3=0ungefähr 600
+Antwort_4=0750 - 900
+
+[338]
+FZ1=
+FZ2=Was bildet die Abwehr, um die Schussbahn bei einem Freistoß zu versperren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mauer
+Antwort_2=0Hügel
+Antwort_3=0Graben
+Antwort_4=0Berg
+
+[339]
+FZ1=
+FZ2=Wie nennt man Einwurf, Eckball oder Freistoß auch noch ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Standardsituation
+Antwort_2=0Gefahrensituation
+Antwort_3=0Ausnahmesituation
+Antwort_4=0Königssituation
+
+[340]
+FZ1=
+FZ2=Wie nennt man den Zweikampf um den Ball ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Tackling
+Antwort_2=0Running
+Antwort_3=0Dancing
+Antwort_4=0Crying
+
+[341]
+FZ1=
+FZ2=Wie nennt man das Zuspiel zu einem Mitspieler ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Pass
+Antwort_2=0Karte
+Antwort_3=0Ausweis
+Antwort_4=0Konto
+
+[342]
+FZ1=
+FZ2=Wie nennt man es, wenn der Ball mit kurzen, schnellen
+FZ3=Tritten vorangetrieben wird ?
+Min=0
+Max=1000
+Antwort_1=1Dribbling
+Antwort_2=0Curling
+Antwort_3=0Dancing
+Antwort_4=0Doping
+
+[343]
+FZ1=
+FZ2=Wie lange dauert eine Halbzeit
+FZ3=der Verlängerung ?
+Min=1000
+Max=8000
+Antwort_1=115 Minuten
+Antwort_2=030 Minute
+Antwort_3=045 Minuten
+Antwort_4=05 Minuten
+
+[344]
+FZ1=
+FZ2=Welcher dieser berühmten Fußballer war Torwart ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Dino Zoff
+Antwort_2=0Maradona
+Antwort_3=0Ruud Gullit
+Antwort_4=0Johan Cruyff
+
+[345]
+FZ1=
+FZ2=Welcher dieser berühmten Fußballer war Torwart ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Lew Jaschin
+Antwort_2=0Pelé
+Antwort_3=0Bobby Charlton
+Antwort_4=0Eusebio
+
+[346]
+FZ1=
+FZ2=Wie lange dauert die Pause bei einem Fußballspiel ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=115 Minuten
+Antwort_2=020 Minuten
+Antwort_3=030 Minuten
+Antwort_4=06 Minuten
+
+[347]
+FZ1=
+FZ2=Wofür steht die Abkürzung FIFA ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Fédération Internationale de Football	Association
+Antwort_2=0Foulen Ist Fieses Abwehren
+Antwort_3=0Fußballer Im Fernen Afrika
+Antwort_4=0Fußball Ist Für Alle
+
+

@@ -1,0 +1,203 @@
+[Thema]
+Thema=Internetwissen
+Fragen=18
+Autor=Elmar F. Werker, V1.0 5/2001
+
+[1]
+FZ1=
+FZ2=Was benötigt man zur Darstellung von Internetseiten wie z.B. www.rtl.de
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	Browser
+Antwort_2=0	AOL
+Antwort_3=0	T-Online
+Antwort_4=0	Drucker
+
+[2]
+FZ1=
+FZ2=Welches ist der wichtigste Internetdienst geworden?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	WWW
+Antwort_2=0	e-Mail
+Antwort_3=0	News
+Antwort_4=0	FTP
+
+[3]
+FZ1=
+FZ2=Welches ist der Internetdienst für elektronische Post?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1	e-Mail
+Antwort_2=0	News
+Antwort_3=0	Chat
+Antwort_4=0	WWW
+
+[4]
+FZ1=
+FZ2=Mit welchem Netzwerkprotokoll funktioniert das World Wide Web www?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=0	NETBEUI
+Antwort_2=0	IPX
+Antwort_3=1	TCP/IP
+Antwort_4=0	FTP
+
+[5]
+FZ1=Mit welcher Netzwerktopologie funktionieren heute
+FZ2=ausfallsichere Computernetzwerke?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=0	vollständiger Baum
+Antwort_2=0	Ring
+Antwort_3=0	Bus
+Antwort_4=1	Stern
+
+[6]
+FZ1=Unter welcher Internetadresse kann man im Internet einkaufen,
+FZ2=feilschen und Preise vergleichen?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	www.ebay.de
+Antwort_2=0	www.allesklar.de
+Antwort_3=0	www.fireball.de
+Antwort_4=0	www.ford.de
+
+[7]
+FZ1=
+FZ2=Welche Internetadresse beschreibt keine Suchmaschine?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=0	www.metager.de
+Antwort_2=0	www.fireball.de
+Antwort_3=0	www.web.de
+Antwort_4=1	www.quelle.de
+
+[8]
+FZ1=Wie führen Sie eine zielgerichtete
+FZ2=und schnelle Informationsbeschaffung mit dem Internet durch?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0	Eingabe www.t-online.de
+Antwort_2=1	Suchmaschine und Suchfunktion
+Antwort_3=0	Webkataloge und Themensuche
+Antwort_4=0	Meta-Suchmaschine
+
+[9]
+FZ1=
+FZ2=Zu welcher Netzklasse gehört das Internet?
+FZ3=
+Min=100
+Max=16000
+Antwort_1=0	Peer-to-Peer
+Antwort_2=0	LAN
+Antwort_3=1	WAN
+Antwort_4=0	GAN
+
+[10]
+FZ1=
+FZ2=Womit ist man im Internet identifizierbar, während man online ist?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0	Name+Vorname
+Antwort_2=0	Telefonnummer
+Antwort_3=1	IP-Adresse
+Antwort_4=0	Beruf
+
+[11]
+FZ1=Ein Kollege schreibt ihnen Internetadressen auf.
+FZ2=Er weiß über das Internet nur wenig. Welche www-Adresse ist richtig?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0	Irene.Müller@gmx.de
+Antwort_2=1	www.westfaelische-rundschau.de
+Antwort_3=0	www westfälische rundschau.de
+Antwort_4=0	www.westfälische-rundschau.de
+
+[12]
+FZ1=
+FZ2=Welches Protokoll wird beim e-Mail Versand verwendet?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0	WWW
+Antwort_2=0	NNTP
+Antwort_3=0	POP
+Antwort_4=1	SMTP
+
+[13]
+FZ1=
+FZ2=Welches Protokoll wird beim e-Mail Abruf verwendet?
+FZ3=
+Min=4000
+Max=250000
+Antwort_1=0	WWW
+Antwort_2=0	NNTP
+Antwort_3=1	POP
+Antwort_4=0	SMTP
+
+[14]
+FZ1=
+FZ2=Welche der nachfolgenden e-Mailadressen ist offensichtlich falsch?
+FZ3=
+Min=4000
+Max=500000
+Antwort_1=0	bktgs@t-online.de
+Antwort_2=0	kanzler@bund.de
+Antwort_3=1	Klaus.Ölschläger.de
+Antwort_4=0	kerstin.mueller@gmx.de
+
+[15]
+FZ1=Welche der nachfolgenden IP-Adressen ist eine
+FZ2=gültige Computeradresse für das TCP/IP-Protokoll?
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=0	0190-555555
+Antwort_2=1	192.168.203.10
+Antwort_3=0	300.300.300.300
+Antwort_4=0	192.168.203.0
+
+[16]
+FZ1=Welches ist der Internetdienst für
+FZ2=Neuigkeiten, Nutzergruppen und Fachforen?
+FZ3=
+Min=2000
+Max=500000
+Antwort_1=0	e-mail
+Antwort_2=1	News
+Antwort_3=0	Chat
+Antwort_4=0	WWW
+
+[17]
+FZ1=
+FZ2=Was verbirgt sich hinter dem Begriff Cookie?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0	e-Mailanhang
+Antwort_2=0	Virusprogramm
+Antwort_3=0	Plugin
+Antwort_4=1	lokale Daten
+
+[18]
+FZ1=
+FZ2=Welche Hardware hilft nicht beim Internetanschluss?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=1	Diskette
+Antwort_2=0	ISDN-NTBA
+Antwort_3=0	DSL-Splitter
+Antwort_4=0	Modem
+

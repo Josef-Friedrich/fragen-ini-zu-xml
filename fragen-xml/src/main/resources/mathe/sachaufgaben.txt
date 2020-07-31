@@ -1,0 +1,1369 @@
+[Thema]
+Thema=Sachaufgaben Fragen
+Fragen=124
+Autor=Manfred Hartisch
+
+[1]
+FZ1=Dagmar möchte Erdbeermarmelade machen. Sie kauft für 14,60 Euro Erdbeeren und
+FZ2=für 9,74 Euro Zucker. Sie erhält genau 8 Gläser. 1 leeres Glas kostet 3,20 Euro.
+FZ3=Von ihrer Oma bekommt sie 6 Gläser geschenkt.
+Min=64000
+Max=500000
+Antwort_1=1Wie teuer wird ein Glas	Erdbeermarmelade ?	
+Antwort_2=0Wie teuer ist der Zucker für die	Erdbeermarmelade ?	
+Antwort_3=0Wie viele Gläser Erdbeermarmelade	macht Dagmar ?	
+Antwort_4=0Wie viele Gläser bekommt die Oma	geschenkt ?	
+
+[2]
+FZ1=
+FZ2=Gabriele möchte Erdbeermarmelade machen. Sie kauft für 14,60 Euro Erdbeeren und
+FZ3=für 9,74 Euro Zucker. Sie erhält genau 8 Gläser.
+Min=4000
+Max=64000
+Antwort_1=1Wie teuer wird ein Glas	Erdbeermarmelade ?	
+Antwort_2=0Wie viele Gläser erhält Gabriele ?	
+Antwort_3=0Wie teuer ist ein kg Zucker ?	
+Antwort_4=0Wie teuer ist eine Erdbeere ?	
+
+[3]
+FZ1=
+FZ2=Volker muss während einer Grippe täglich zweimal 18 Tropfen von der einen und
+FZ3=täglich dreimal 14 Tropfen von der anderen Medizin nehmen.
+Min=2000
+Max=32000
+Antwort_1=1Wie viele Tropfen muss Volker	insgesamt an einem Tag nehmen ?	
+Antwort_2=0Wie viele Tropfen muss Volker in einem	Monat nehmen ?	
+Antwort_3=0Wann wird Volker gesund ?	
+Antwort_4=0Wie viele verschiedene Tropfen muss	Volker einnehmen ?	
+
+[4]
+FZ1=Herr Auto fährt von Bochum nach Bielefeld. Das sind 175 km. Nach 32 km macht er
+FZ2=eine Pause. Er fährt weiter und merkt nach 13 km, dass er seinen Führerschein
+FZ3=vergessen hat. Also dreht er um und holt ihn.
+Min=8000
+Max=125000
+Antwort_1=1Wie viele km ist Herr Auto insgesamt	gefahren ?	
+Antwort_2=0Wie viele Pausen macht Herr Auto	insgesamt ?	
+Antwort_3=0Um wie viel Uhr  hat Herr Auto seinen	Führerschein vergessen ?	
+Antwort_4=0Wie viele km fährt Herr Auto in einer	Woche ?	
+
+[5]
+FZ1=
+FZ2=Felicitas kauft für ihren Hasen Hoppel Möhren. Hoppel frisst jeden Tag 2 Möhren.
+FZ3=Felicitas kauft Möhren für zwei Wochen. Dafür muss sie 7 Euro bezahlen.
+Min=8000
+Max=125000
+Antwort_1=1Wie teuer ist eine Möhre ?	
+Antwort_2=0Wie schwer ist Hoppel ?	
+Antwort_3=0Wie alt ist Hoppel ?	
+Antwort_4=0Wie teuer ist das Stroh für Hoppel ?	
+
+[6]
+FZ1=
+FZ2=Felicitas kauft für ihren Hasen Hoppel Möhren. Hoppel frisst jeden Tag 2 Möhren.
+FZ3=Felicitas kauft Möhren für zwei Wochen.
+Min=2000
+Max=32000
+Antwort_1=1Wie viele Möhren frisst Hoppel in zwei	Wochen ?	
+Antwort_2=0Wann frisst Hoppel die Möhren ?	
+Antwort_3=0Wie viele Möhren frisst Hoppel an	einem Tag ?	
+Antwort_4=0Wie schwer ist Hoppel ?	
+
+[7]
+FZ1=
+FZ2=Ute zählt ihr Taschengeld. Sie hat einen 10 - Euro Schein, sieben 2 - Euro
+FZ3=Münzen, neun 1 - Euro Münzen und achtzehn 50 Cent Münzen.
+Min=1000
+Max=16000
+Antwort_1=1Wie viel Geld hat Ute insgesamt ?	
+Antwort_2=0Wie viel Euro bekommt Ute zurück ?	
+Antwort_3=0Wie viel Geld muss Ute bezahlen ?	
+Antwort_4=0Wie viel Geld muss Ute noch sparen ?	
+
+[8]
+FZ1=
+FZ2=Der Briefträger muss 6 Briefe zur Bömmerstraße 23 bringen.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Zu dieser Frage gibt es keine sinnvolle	Frage.	
+Antwort_2=0Wie viele Briefe bringt der Postbote in	einer Woche ?	
+Antwort_3=0Wie viele Briefe bringt der Postbote	insgesamt ?	
+Antwort_4=0Wie viele Briefe bringt der Postbote in	einem Monat ?	
+
+[9]
+FZ1=
+FZ2=In einer Tüte sind 64 Bonbons. Kirsten nimmt die Hälfte heraus.
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Wie viele Bonbons sind dann noch in	der Tüte ?	
+Antwort_2=0Wie viele Bonbons isst Kirsten ?	
+Antwort_3=0Wie viel Euro muss Kirsten bezahlen ?	
+Antwort_4=0Wie viele Bonbons verschenkt Kirstin ?	
+
+[10]
+FZ1=
+FZ2=In der Jugendherberge wird für 24 Kinder der Tisch gedeckt. Günther holt
+FZ3=für jedes Kind eine Gabel und ein Messer.
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Teile muss Günther holen ?	
+Antwort_2=0Wie viele Jungen sind es ?	
+Antwort_3=0Wie viele Kinder übernachten	insgesamt in der Jugendherberge ?	
+Antwort_4=0Wie viele Mädchen sind es ?	
+
+[11]
+FZ1=
+FZ2=Ein Jahr hat 52 Wochen.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Wochen hat ein halbes Jahr ?	
+Antwort_2=0Wie viele Stunden hat eine Woche ?	
+Antwort_3=0Wie viele Tage hat ein Monat ?	
+Antwort_4=0Wie viele Wochen hat ein Monat ?	
+
+[12]
+FZ1=
+FZ2=Am Kastanienbaum hängen 86 Kastanien. Der Wind reißt 32 Kastanien ab.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Kastanien hängen dann noch	am Baum ?	
+Antwort_2=0Wie viele Kastanien müssen die Kinder	noch sammeln ?	
+Antwort_3=0Wie viele Kastanien sammeln die	Kinder ?	
+Antwort_4=0Wie viele Kastanien fallen herunter ?	
+
+[13]
+FZ1=
+FZ2=Ines neue Buch hat 96 Seiten. Sie hat schon 62 Seiten gelesen.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Wie viele Seiten muss Ines noch lesen ?	
+Antwort_2=0Wie viele Seiten hat das Buch ?	
+Antwort_3=0Wie viele Seiten hat Ines schon	gelesen ?	
+Antwort_4=0Wie viele Seiten liest Ines in einer	Stunde ?	
+
+[14]
+FZ1=
+FZ2=Herr Piepmatz züchtet 48 Wellensittiche. In diesem Jahr schlüpfen 14 Junge.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Wellensittiche hat Herr	Piepmatz jetzt ?	
+Antwort_2=0Wie viele Junge schlüpfen im nächsten	Jahr ?	
+Antwort_3=0Wie viele Junge schlüpfen ?	
+Antwort_4=0Wie viele weibliche Wellensittiche hat	Herr Piepmatz jetzt ?	
+
+[15]
+FZ1=
+FZ2=Im Stadtpark stehen 35 Buchen und 26 Eichen. Leider müssen 6 Buchen und 4 Eichen
+FZ3=gefällt werden.
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Bäume stehen nun noch im	Stadtpark ?	
+Antwort_2=0Wie viele Eichen werden gefällt ?	
+Antwort_3=0Wie viele Buchen werden gefällt ?	
+Antwort_4=0Warum werden die Bäume gefällt ?	
+
+[16]
+FZ1=
+FZ2=Im Stadtpark stehen 35 Buchen und 26 Eichen. Der Förster pflanzt noch 12 Birken.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Wie viele Bäume stehen nun im	Stadtpark ?	
+Antwort_2=0Wie viele Buchen stehen im Stadtpark ?	
+Antwort_3=0Wie viele Bäume pflanzt der Förster ?	
+Antwort_4=0Wie viele Eichen stehen im Stadtpark ?	
+
+[17]
+FZ1=
+FZ2=Im Stadtpark stehen 35 Buchen und 26 Eichen.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Bäume stehen im Stadtpark ?	
+Antwort_2=0Wie viele Eichen stehen im Stadtpark ?	
+Antwort_3=0Wie viele Buchen stehen im Stadtpark ?	
+Antwort_4=0Wie viele Birken stehen im Stadtpark ?	
+
+[18]
+FZ1=Ralf hat 20 Sammelbilder, Kurt hat 30 Sammelbilder. Beide Jungen tauschen ein
+FZ2=paar Bilder. Kurt schenkt Ralf so viele Bilder, dass die beiden Jungen
+FZ3=nun gleich viele Bilder haben.
+Min=4000
+Max=64000
+Antwort_1=1Wie viele Bilder verschenkt Kurt ?	
+Antwort_2=0Wie viele Bilder hatte Ralf am Anfang ?	
+Antwort_3=0Wie viele Bilder verschenkt Ralf ?	
+Antwort_4=0Wie viele Bilder hatte Kurt zu Beginn ?	
+
+[19]
+FZ1=
+FZ2=Ralf hat 20 Sammelbilder, Kurt hat 30 Sammelbilder.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Bilder haben beide	zusammen ?	
+Antwort_2=0Wie viele Bilder hat Kurt ?	
+Antwort_3=0Wie viele Bilder hat Ralf ?	
+Antwort_4=0Wie viele Bilder hat Petra ?	
+
+[20]
+FZ1=Sara fährt mit ihrem Vater zum Freizeitpark. Vor der Fahrt zeigt ihr Tachometer
+FZ2=260 km. Der Hin- und Rückweg ist gleich lang.
+FZ3=Am Abend zeigt der Tachometer 410 km.
+Min=2000
+Max=32000
+Antwort_1=1Wie lang ist eine Strecke zum	Freizeitpark ?	
+Antwort_2=0Wie viele km zeigt der Tachometer von	Vater an ?	
+Antwort_3=0Wie lang war Sara unterwegs ?	
+Antwort_4=0Wann kamen die beiden am	Freizeitpark an ?	
+
+[21]
+FZ1=Mery sagt: "Auf meinem Tachometer sind schon 245 km. Heute fahre ich zu meiner
+FZ2=Oma. Der Hinweg ist 18 km lang. Auf dem Rückweg nehme ich eine Abkürzung,
+FZ3=deshalb ist dieser Weg 4 km kürzer."
+Min=8000
+Max=125000
+Antwort_1=1Wie viel km zeigte Merys Tachometer	nach dem Rückweg an ?	
+Antwort_2=0Wie lange war Mery unterwegs ?	
+Antwort_3=0Wann war Mery bei ihrer Oma ?	
+Antwort_4=0Wie viele Kilometer fuhr Mery in einer	Woche ?	
+
+[22]
+FZ1=
+FZ2=Gärtner Dünger verkauft Geranien. Er hat 120 Geranien zum Markt gebracht und
+FZ3=bekommt für jede Geranie 2 Euro. Am Abend hat er 180 Euro eingenommen.
+Min=2000
+Max=32000
+Antwort_1=1Wie viele Geranien hat Herr Dünger	noch übrig ?	
+Antwort_2=0Wie viele Geranien hat Herr Dünger	verkauft ?	
+Antwort_3=0Wie teuer ist eine Geranie ?	
+Antwort_4=0Wie viel Geld hat Herr Dünger	eingenommen ?	
+
+[23]
+FZ1=
+FZ2=Frau Tippi arbeitet in einem Büro. Sie tippt einen Brief mit 6 Seiten in
+FZ3=drei Minuten und macht anschließend 5 Kopien.
+Min=500
+Max=4000
+Antwort_1=1Wie viele Kopien macht Frau Tippi ?	
+Antwort_2=0Wie viele Seiten tippt Frau Tippi in	einer Woche ?	
+Antwort_3=0Wie viele Kopien macht Frau Tippi in	einer Minute ?	
+Antwort_4=0Wie viele Kopien macht Frau Tippi in	einer Woche ?	
+
+[24]
+FZ1=
+FZ2=Herr Brummbrumm fährt jeden Tag 8 km zur Arbeit. Für 1 km braucht er fünf
+FZ3=Minuten.  In dieser Woche hat Herr Brummbrumm nur an vier Tagen gearbeitet.
+Min=4000
+Max=64000
+Antwort_1=1Wie viele Kilometer ist Herr	Brummbrumm in dieser Woche	gefahren ?	
+Antwort_2=0Wie viele Minuten war Herr	Brummbrumm in diesem Monat	unterwegs ?	
+Antwort_3=0Wie viele Tage hat Herr Brummbrumm	in dieser Woche gearbeitet ?	
+Antwort_4=0Wie viele km fährt Herr Brummbrumm	an jedem Tag ?	
+
+[25]
+FZ1=
+FZ2=Herr Brummbrumm fährt jeden Tag 8 km zur Arbeit.
+FZ3=Für 1 km braucht er fünf Minuten.
+Min=0
+Max=1000
+Antwort_1=1Wie lange braucht Herr Brummbrumm	für seine Fahrt zur Arbeit ?	
+Antwort_2=0Wie lange braucht Herr Brummbrumm	für einen Kilometer ?	
+Antwort_3=0Wie viele km fährt Herr Brummbrumm	zur Arbeit ?	
+Antwort_4=0Wie oft fährt Herr Brummbrumm in	einem Monat zur Arbeit ?	
+
+[26]
+FZ1=Berner Sennenhunde werden seit 1904 in der Schweiz gezüchtet. Eine
+FZ2=ausgewachsene Hündin wiegt 85 kg. Eine Hündin bekommt sechsmal in ihrem Leben
+FZ3=Welpen. Jedes Mal sind es  6 - 10 Welpen.
+Min=4000
+Max=64000
+Antwort_1=1Wie viele Welpen kann eine Hündin	höchstens  in ihrem Leben bekommen ?	
+Antwort_2=0Wie viele Welpen kann eine Hündin mit	einem "Wurf" bekommen" ?	
+Antwort_3=0Wie viel kg wiegt ein Welpe ?	
+Antwort_4=0Wann bekommt eine Hündin das erste	Mal Welpen ?	
+
+[27]
+FZ1=
+FZ2=Auf dem Bauernhof gibt es 25 Kühe, 18 Schweine und 32 Hühner.
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Wie viele Tierbeine gibt es auf dem	Bauernhof ?	
+Antwort_2=0Wie viele Schweine gibt es auf dem	Bauernhof ?	
+Antwort_3=0Wie viele Kühe gibt es auf dem	Bauernhof ?	
+Antwort_4=0Wie viele Hühner gibt es auf dem	Bauernhof ?	
+
+[28]
+FZ1=
+FZ2=Auf dem Bauernhof gibt es 25 Kühe, 18 Schweine und 32 Hühner.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Tiere gibt es auf dem	Bauernhof ?	
+Antwort_2=0Wie viele Schweine gibt es auf dem	Bauernhof ?	
+Antwort_3=0Wie viele Kühe gibt es auf dem	Bauernhof ?	
+Antwort_4=0Wie viele Hühner gibt es auf dem	Bauernhof ?	
+
+[29]
+FZ1=
+FZ2=Die 29 Kinder der Klasse 4 b sitzen an Sechser - Gruppentischen.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Plätze sind noch frei ?	
+Antwort_2=0Wie viele Kinder können an einem	Gruppentisch sitzen ?	
+Antwort_3=0Wie viele Kinder sind in der Klasse ?	
+Antwort_4=0Wie viele Mädchen sind in der Klasse ?	
+
+[30]
+FZ1=
+FZ2=Die 28 Kinder der Klasse 4 a sitzen an Vierer - Gruppentischen.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Wie viele Gruppentische gibt es ?	
+Antwort_2=0Wie viele Mädchen gibt es ?	
+Antwort_3=0Wie viele Jungen gibt es ?	
+Antwort_4=0Wie viele Kinder sind es insgesamt ?	
+
+[31]
+FZ1=
+FZ2=Die 24 Kinder der Klasse 3 c sitzen an Sechser - Gruppentischen.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Wie viele Gruppen gibt es ?	
+Antwort_2=0Wie viele Kinder sind es insgesamt ?	
+Antwort_3=0Wie viele Mädchen gibt es ?	
+Antwort_4=0Wie viele Jungen gibt es ?	
+
+[32]
+FZ1=
+FZ2=Der neue Kinofilm dauert 145 Minuten. 220 Zuschauer sind im Kino.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Wie viele Stunden und Minuten dauert	der Film ?	
+Antwort_2=0Wann beginnt der Film ?	
+Antwort_3=0Wann ist der Film zu Ende ?	
+Antwort_4=0Wie viele Kinder schauen zu ?	
+
+[33]
+FZ1=Frau Blümchen bindet 240 Tulpen zu Sträußen. Es wurden 40 Sträuße bestellt, die
+FZ2=alle gleich groß sein sollen. Nach 20 Minuten hat Frau Blümchen schon
+FZ3=120 Tulpen zu Sträußen gebunden. Sie arbeitet gleichmäßig weiter.
+Min=8000
+Max=125000
+Antwort_1=1Wie lange muss Frau Blümchen noch	Sträußchen binden ?	
+Antwort_2=0Um wie viel Uhr ist Frau Blümchen	fertig ?	
+Antwort_3=0Wie teuer ist ein Sträußchen ?	
+Antwort_4=0Wie viele Sträußchen bindet Frau	Blümchen insgesamt ?	
+
+[34]
+FZ1=
+FZ2=Frau Blümchen bindet 140 Nelken zu Sträußen. Es wurden 20 Sträuße bestellt, die
+FZ3=alle gleich groß sein sollen.
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Nelken sind in einem Strauß ?	
+Antwort_2=0Wie teuer ist eine Nelke ?	
+Antwort_3=0Wie viele Sträuße muss Frau Blümchen	binden ?	
+Antwort_4=0Wie teuer ist ein Strauß ?	
+
+[35]
+FZ1=
+FZ2=Frau Blümchen bindet 120 Rosen zu Sträußen. In jeden Strauß kommen sechs Rosen.
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Wie viele Sträuße werden es ?	
+Antwort_2=0Wie teuer ist ein Strauß ?	
+Antwort_3=0Wie viele Rosen sind in einem Strauß ?	
+Antwort_4=0Wie viele Rosen muss Frau Blümchen	binden ?	
+
+[36]
+FZ1=
+FZ2=Sandra ist 9 Jahre alt. Dominic wiegt 34 kg. Laura ist 135 cm groß.
+FZ3=Rebecca kann 2,85 m weit springen.
+Min=2000
+Max=32000
+Antwort_1=1Für diese Aufgabe gibt es keine	sinnvolle Frage.	
+Antwort_2=0Wie groß ist Rebecca ?	
+Antwort_3=0Es gibt nur eine sinnvolle Frage.	
+Antwort_4=0Wie schwer ist Sandra ?	
+
+[37]
+FZ1=Der McLaren Mercedes von Raikkonen ist 321 km/h schnell. Der Williams-BMW von
+FZ2=Ralf Schumacher hat 845 PS. Der Ferrari von Barrichello wiegt 785 kg. Michael
+FZ3=Schumachers Ferrari ist rot.
+Min=2000
+Max=32000
+Antwort_1=1Für diese Aufgabe gibt es keine	sinnvolle Frage.	
+Antwort_2=0Welche Farbe hat der BMW ?	
+Antwort_3=0Wie schnell ist der Ferrari ?	
+Antwort_4=0Wie schwer ist der McLaren Mercedes ?	
+
+[38]
+FZ1=
+FZ2=Bauer Birne verpackt 180 Äpfel in Netze. In jedes Netz kommen 6 Äpfel.
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Wie viele Netze braucht Bauer Birne ?	
+Antwort_2=0Wie teuer ist ein Apfel ?	
+Antwort_3=0Wie viele Äpfel verpackt Bauer Birne ?	
+Antwort_4=0Wie viele Äpfel kommen in ein Netz ?	
+
+[39]
+FZ1=
+FZ2=Stefan hat im Urlaub drei Filme verknipst. Auf jedem Film waren 24 Fotos. Er hat
+FZ3=noch 250 Fotoecken und möchte jedes Foto mit vier Fotoecken einkleben.
+Min=16000
+Max=250000
+Antwort_1=1Reichen die Fotoecken ?	
+Antwort_2=0Wie teuer waren die Filme ?	
+Antwort_3=0Wie viele Fotos hat Stefan gemacht ?	
+Antwort_4=0Wo hat Stefan Urlaub gemacht ?	
+
+[40]
+FZ1=Claudia hat 60 Urlaubsfotos gemacht, die sie in ihr Fotoalbum kleben möchte. Für
+FZ2=jedes Foto braucht sie 4 Fotoecken. Sie hat noch zwei Packungen mit Fotoecken.
+FZ3=In jeder Packung sind genau 130 Fotoecken.
+Min=8000
+Max=250000
+Antwort_1=1Wie viele Fotoecken bleiben	noch übrig ?	
+Antwort_2=0Wie teuer waren die Fotoecken ?	
+Antwort_3=0Wie viele Filme hat Claudia gekauft ?	
+Antwort_4=0Wie viele Seiten hat das Fotoalbum ?	
+
+[41]
+FZ1=
+FZ2=Fatma hat im Urlaub 32 Fotos gemacht. Sie möchte die Fotos in ihr Fotoalbum
+FZ3=kleben. Für jedes Foto benötigt sie 4 Fotoecken. Ihr Fotoalbum hat 38 Seiten.
+Min=4000
+Max=64000
+Antwort_1=1Wie viele Fotoecken braucht Fatma ?	
+Antwort_2=0Wie viele Seiten bleiben übrig ?	
+Antwort_3=0Wie viele Fotos klebt Fatma auf eine	Seite ?	
+Antwort_4=0Wie teuer ist ein Foto ?	
+
+[42]
+FZ1=
+FZ2=Murukan hat ein Fotoalbum mit 24 Seiten. Auf jede Seite passen 4 Bilder.
+FZ3=Er kann noch 12 Bilder einkleben.
+Min=4000
+Max=64000
+Antwort_1=1Wie viele Fotos hat Murukan schon	eingeklebt ?	
+Antwort_2=0Wie teuer war das Fotoalbum ?	
+Antwort_3=0Wie viele Bilder muss Murukan noch	einkleben ?	
+Antwort_4=0Wie teuer waren die Fotos ?	
+
+[43]
+FZ1=
+FZ2=Armin hat ein Fotoalbum mit 24 Seiten. Auf jede Seite passen 4 Bilder.
+FZ3=Er hat schon 80 Bilder eingeklebt.
+Min=2000
+Max=32000
+Antwort_1=1Wie viele Bilder kann Armin noch in	sein Fotoalbum kleben ?	
+Antwort_2=0Wie teuer war das Fotoalbum ?	
+Antwort_3=0Wie viele Fotos hat Armin heute	eingeklebt ?	
+Antwort_4=0Wie viele Bilder hat Armin im letzten	Urlaub gemacht ?	
+
+[44]
+FZ1=
+FZ2=Gökhan hat ein Fotoalbum mit 48 Seiten. Auf jede Seite passen 6 Bilder.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Wie viele Bilder kann Gökhan in das	Fotoalbum einkleben ?	
+Antwort_2=0Wie teuer war das Fotoalbum ?	
+Antwort_3=0Wie viele Seiten hat das Fotoalbum ?	
+Antwort_4=0Wie viele Bilder passen auf eine Seite ?	
+
+[45]
+FZ1=
+FZ2=Armin hat ein Fotoalbum mit 24 Seiten. Auf jede Seite passen 4 Bilder.
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Wie viele Bilder kann Armin in das	Fotoalbum einkleben ?	
+Antwort_2=0Wie teuer war das Fotoalbum ?	
+Antwort_3=0Wie viele Seiten hat das Fotoalbum ?	
+Antwort_4=0Wie viele Bilder passen auf eine Seite ?	
+
+[46]
+FZ1=Shawn wiegt 29 kg, Robin wiegt 31 kg. Josefin wiegt halb so viel wie Shawn und
+FZ2=Robin zusammen. Bela wiegt 3 kg mehr als Josefin. Meriam wiegt 4 kg
+FZ3=weniger als Bela.
+Min=125000
+Max=500000
+Antwort_1=1Wie viel kg wiegt Meriam ?	
+Antwort_2=0Wie viel kg wiegt Bela ?	
+Antwort_3=0Wie viel kg wiegt Shawn ?	
+Antwort_4=0Wie viel kg wiegt Josefin ?	
+
+[47]
+FZ1=
+FZ2=Kevin wiegt 28 kg, Janine wiegt 32 kg. Jessica wiegt halb so viel wie Kevin und
+FZ3=Janine zusammen. Dimitra wiegt 3 kg mehr als Jessica.
+Min=32000
+Max=250000
+Antwort_1=1Wie viel kg wiegt Dimitra ?	
+Antwort_2=0Wie viel kg wiegt Janine ?	
+Antwort_3=0Wie viel kg wiegt Jessica ?	
+Antwort_4=0Wie viel kg wiegt Kevin ?	
+
+[48]
+FZ1=
+FZ2=Özlem wiegt 24 kg, Bela wiegt 36 kg. Dimitra wiegt halb so viel wie Özlem
+FZ3=und Bela zusammen.
+Min=16000
+Max=16000
+Antwort_1=1Wie schwer sind alle drei Kinder	zusammen ?	
+Antwort_2=0Wie viele Kinder sind in der Klasse ?	
+Antwort_3=0Wie viele Mädchen sind in der Klasse ?	
+Antwort_4=0Wie schwer sind alle Kinder in der	Klasse zusammen ?	
+
+[49]
+FZ1=
+FZ2=Lisa wiegt 26 kg, Ömer wiegt 34 kg. Carina wiegt halb so viel wie Lisa
+FZ3=und Ömer zusammen.
+Min=16000
+Max=16000
+Antwort_1=1Wie viel kg wiegt Carina ?	
+Antwort_2=0Wie viel kg wiegt Lisa ?	
+Antwort_3=0Wie viel kg wiegt	Ömer ?	
+Antwort_4=0Wie viel kg wiegt Calvin ?	
+
+[50]
+FZ1=
+FZ2=Tim wiegt 28 kg und 500 g. Josefin wiegt 32 kg.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Wie viel kg wiegen beide Kinder	zusammen ?	
+Antwort_2=0Ist Josefin das schwerste Mädchen in	der Klasse ?	
+Antwort_3=0Wie viel kg wog Tim vor einem Jahr ?	
+Antwort_4=0Ist Tim der leichteste Junge in der	Klasse ?	
+
+[51]
+FZ1=
+FZ2=Meriam wiegt 33 kg und 800 g. Janine wiegt 4 kg weniger.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Wie schwer ist Janine ?	
+Antwort_2=0Wie schwer sind alle Mädchen in der	Klasse ?	
+Antwort_3=0Wie schwer ist Meriam ?	
+Antwort_4=0Wie schwer sind alle Jungen in der	Klasse ?	
+
+[52]
+FZ1=
+FZ2=Özgür legt seine beiden Bleistifte aneinander. Sie sind insgesamt 115 mm lang.
+FZ3=Der Bleistift von Kevin ist 9 cm lang.
+Min=8000
+Max=125000
+Antwort_1=1Um wie viele mm sind die beiden	Bleistifte von Özgür länger als der	Bleistift von Kevin ?	
+Antwort_2=0Wie lang war der Bleistift von Kevin, als	er noch neu war ?	
+Antwort_3=0Wie lang ist ein Bleistift von Özgür ?	
+Antwort_4=0Wie lang sind zwei Bleistifte	von Kevin ?	
+
+[53]
+FZ1=Zu seinem Geburtstag hat Calvin 7 Kinder eingeladen. Dazu hat er
+FZ2=kleine Geschenke eingekauft, die er an die Kinder verteilt. 17 Lollis,
+FZ3=25 Kaugummis, 30 Sammelbilder und 9 Flöten.
+Min=64000
+Max=500000
+Antwort_1=1Wie viele Lollis, Kaugummis,	Sammelbilder und Flöten bleiben übrig,	wenn er sie gerecht verteilt ?	
+Antwort_2=0Wer bekommt die meisten	Sammelbilder ?	
+Antwort_3=0Wer bekommt die meisten Lollis ?	
+Antwort_4=0Wie teuer waren die Geschenke ?	
+
+[54]
+FZ1=Özgür hat Reste von Holzleisten gesammelt. Sie sind 35 cm, 27 cm und 18 cm lang.
+FZ2=Für eine Bastelarbeit braucht Özgür Leisten, die immer genau 8 cm lang sind.
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Kann Özgür genau 10 Leisten	schneiden ?	
+Antwort_2=0Wie lang sind die Leisten ?	
+Antwort_3=0Wie teuer waren die Leisten ?	
+Antwort_4=0Wie lang ist die längste Leiste von	Özgür ?	
+
+[55]
+FZ1=
+FZ2=Özlem hat Reste von Holzleisten gesammelt. Sie sind 32 cm, 24 cm und 18 cm lang.
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Wie lang sind die Reste insgesamt ?	
+Antwort_2=0Wie viele kleine Leisten kann Özlem	aus den Resten schneiden ?	
+Antwort_3=0Wie teuer waren die Holzleisten	zusammen ?	
+Antwort_4=0Wie teuer war die kleinste Holzleiste ?	
+
+[56]
+FZ1=
+FZ2=2 DM waren ungefähr 1 Euro
+FZ3=Früher kostete ein Kinderroller 80 DM. Heute kostet ein Kinderroller 80 Euro.
+Min=32000
+Max=250000
+Antwort_1=1Welcher Roller ist teurer ?	
+Antwort_2=0Wie teuer ist heute ein Kinderfahrrad ?	
+Antwort_3=0Wie teuer wird der Roller im nächsten	Jahr sein ?	
+Antwort_4=0Wie teuer ist eine Klingel für einen	Roller ?	
+
+[57]
+FZ1=2 DM waren ungefähr 1 Euro
+FZ2=Früher kostete ein Kinderfahrrad 240 DM. 
+FZ3=Heute kostet ein Kinderfahrrad 160 Euro.
+Min=32000
+Max=250000
+Antwort_1=1Wie viel Euro ist das heutige Fahrrad	teurer ?	
+Antwort_2=0Wie teuer war früher ein Gepäckträger	für ein Fahrrad ?	
+Antwort_3=0Wie viel Euro kostet das Kinderfahrrad	im nächsten Jahr ?	
+Antwort_4=0Wie teuer ist heute ein Gepäckträger für	ein Fahrrad ?	
+
+[58]
+FZ1=Fahrradhändler Pedalo hat heute drei Fahrräder für insgesamt 1000 Euro verkauft.
+FZ2=Ein Mountain - Bike für 310 Euro, ein Kinderfahrrad und ein Touringrad. Das
+FZ3=Touringrad war 50 Euro teurer als das Mountain - Bike.
+Min=64000
+Max=500000
+Antwort_1=1Wie teuer war das Kinderfahrrad ?	
+Antwort_2=0Wie viele Fahrräder hat der Händler	verkauft ?	
+Antwort_3=0Wie teuer war das Mountain - Bike ?	
+Antwort_4=0Wie viele Fahrräder hat der Händler	nun noch ?	
+
+[59]
+FZ1=
+FZ2=Ein großer Apfelbaum trägt ungefähr 250 kg Äpfel. 5 Äpfel wiegen
+FZ3=ca. ein Kilogramm. Aus der Hälfte macht der Obstbauer Apfelsaft.
+Min=32000
+Max=250000
+Antwort_1=1Aus wie vielen Äpfeln macht der	Obstbauer Apfelsaft ?	
+Antwort_2=0Wie teuer ist ein Liter Apfelsaft ?	
+Antwort_3=0Wie teuer ist ein Kilogramm Äpfel ?	
+Antwort_4=0Wie viele Äpfel wiegen ungefähr ein	Kilogramm ?	
+
+[60]
+FZ1=
+FZ2=Ein großer Apfelbaum trägt ungefähr 250 kg Äpfel.
+FZ3=5 Äpfel wiegen ca. ein Kilogramm.
+Min=8000
+Max=125000
+Antwort_1=1Wie viele Äpfel hängen	am Apfelbaum ?	
+Antwort_2=0Wie viele Äpfel kommen immer in eine	Tüte ?	
+Antwort_3=0Wie teuer ist ein Kilogramm Äpfel ?	
+Antwort_4=0Wie viele Äpfel braucht man für einen	Apfelkuchen ?	
+
+[61]
+FZ1=
+FZ2=Von 100 kg Äpfeln erhält man ungefähr 70 l Apfelsaft. Familie Obstsaft möchte in
+FZ3=diesem Jahr an 350 Tagen immer einen Liter Apfelsaft trinken.
+Min=32000
+Max=250000
+Antwort_1=1Wie viele Kilogramm Äpfel muss	Familie Obstsaft zu Apfelsaft	verarbeiten ?	
+Antwort_2=0Wie viel Liter kann Familie Obstsaft an	einem Tag trinken ?	
+Antwort_3=0Wie teuer wird der Apfelsaft ?	
+Antwort_4=0Wie viele Äpfel bleiben noch übrig ?	
+
+[62]
+FZ1=
+FZ2=Das Leichtathletikstadion wurde 1975 gebaut. Die Laufbahn im Stadion ist 400 m
+FZ3=lang. Safak ist neun Jahre und läuft heute 3 Runden in 12 Minuten.
+Min=4000
+Max=64000
+Antwort_1=1Wie viele Meter ist Safak gelaufen ?	
+Antwort_2=0Wann kam Safak ins Ziel ?	
+Antwort_3=0Wie lange war Safak unterwegs ?	
+Antwort_4=0Wann ist Safak losgelaufen ?	
+
+[63]
+FZ1=Das Leichtathletikstadion wurde 1980 gebaut. Die Laufbahn im Stadion ist 400 m
+FZ2=lang. Die 22 Kinder der Klasse 3 c laufen heute 10 Minuten. Lars schafft in
+FZ3=dieser Zeit 2 Runden, Anja schafft sogar 3 Runden.
+Min=8000
+Max=125000
+Antwort_1=1Wie viele Meter ist Anja gelaufen ?	
+Antwort_2=0Wie lange waren die Kinder	unterwegs ?	
+Antwort_3=0Wie viele Runden sind alle Kinder	zusammen gelaufen ?	
+Antwort_4=0Wie lange war Lars unterwegs ?	
+
+[64]
+FZ1=
+FZ2=Das Leichtathletikstadion wurde 1960 gebaut. Die Laufbahn im Stadion ist 400 m
+FZ3=lang. Die 22 Kinder der Klasse 3 c laufen heute 3 Runden.
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Meter ist jedes Kind	gelaufen ?	
+Antwort_2=0Wie lang ist eine Runde im Stadion ?	
+Antwort_3=0Wie viele Runden ist ein Kind	gelaufen ?	
+Antwort_4=0Wie lange waren die Kinder	unterwegs ?	
+
+[65]
+FZ1=
+FZ2=Am Samstag war das Zirkuszelt bis auf den letzten Platz besetzt. 232 Kinder und
+FZ3=108 Erwachsene waren von der Vorstellung um 15 Uhr begeistert.
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Plätze hat der Zirkus	insgesamt ?	
+Antwort_2=0Wie viele Kinder hatten einen	Sitzplatz ?	
+Antwort_3=0Um wie viel Uhr war die	Zirkusvorstellung zu Ende ?	
+Antwort_4=0Wie viele Frauen besuchten die	Zirkusvorstellung ?	
+
+[66]
+FZ1=
+FZ2=In der Osterfeld - Grundschule gibt es heute 560 Füße. Davon gehören 32 Füße den
+FZ3=Lehrern oder Lehrerinnen.
+Min=2000
+Max=32000
+Antwort_1=1Wie viele Kinder sind heute in der	Osterfeld - Grundschule ?	
+Antwort_2=0Wie viele Mädchen gibt es heute in der	Osterfeld - Grundschule ?	
+Antwort_3=0Wie viele Lehrerinnen gibt es heute in	der Osterfeld - Grundschule ?	
+Antwort_4=0Wie viele Jungen gibt es heute in der	Osterfeld - Grundschule ?	
+
+[67]
+FZ1=
+FZ2=In der Klasse 1a sind 23 Kinder. In der Klasse 1 b sind es 4 Kinder mehr.
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Wie viele Kinder sind in der 1 b ?	
+Antwort_2=0Wie viele Mädchen sind in der 1 a ?	
+Antwort_3=0Wie viele Kinder sind in der 2 a ?	
+Antwort_4=0Wie viele Jungen sind in der 1 b ?	
+
+[68]
+FZ1=
+FZ2=Lisa hat 342 Euro gespart. Ihre Freundin Pia ist zwei Jahre älter
+FZ3=und hat 421 Euro gespart.
+Min=500
+Max=4000
+Antwort_1=1Wie viel Euro hat Pia mehr ?	
+Antwort_2=0Wie viel Euro hatte Pia vor	zwei Jahren ?	
+Antwort_3=0Wie viel Euro wird Lisa in zwei Jahren	haben ?	
+Antwort_4=0Wie alt ist Lisa ?	
+
+[69]
+FZ1=Marvin hat auf seinem Sparbuch 425 Euro. Zu seinem Geburtstag bekommt er von
+FZ2=seinem Opa 50 Euro und von seiner Tante 25 Euro. Später kauft er sich
+FZ3=einen Fußball für 23 Euro und eine CD - ROM für 29 Euro.
+Min=32000
+Max=250000
+Antwort_1=1Wie viel Euro hat Marvin dann noch ?	
+Antwort_2=0Wie teuer sind die Geschenke ?	
+Antwort_3=0Wie teuer ist der Fußball ?	
+Antwort_4=0Wie viel Euro bekommt Marvin	geschenkt ?	
+
+[70]
+FZ1=In der Aula findet ein Konzert statt. Der Hausmeister stellt 12 Stuhlreihen auf.
+FZ2=In jeder Reihe stehen 9 Stühle. Der Hausmeister muss die Stühle aus dem Keller
+FZ3=holen und kann jedes Mal 4 Stühle tragen.
+Min=8000
+Max=125000
+Antwort_1=1Wie oft muss der Hausmeister in den	Keller gehen ?	
+Antwort_2=0Wie viele Zuhörer hören sich das	Konzert an ?	
+Antwort_3=0Um wie viel Uhr beginnt das Konzert ?	
+Antwort_4=0Wie viele Stuhlreihen gibt es in der	Aula ?	
+
+[71]
+FZ1=
+FZ2=In der Aula findet ein Konzert statt. Der Hausmeister stellt 12 Stuhlreihen auf.
+FZ3=In jeder Reihe stehen 9 Stühle.
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Stühle stellt der Hausmeister	insgesamt auf ?	
+Antwort_2=0Wie viele Stühle stehen in jeder Reihe ?	
+Antwort_3=0Wie viele Stuhlreihen gibt es ?	
+Antwort_4=0Wie viele Zuhörer hören sich das	Konzert an ?	
+
+[72]
+FZ1=
+FZ2=Für das Schulchorkonzert werden 30 Eintrittskarten zu 5 Euro und
+FZ3=40 Eintrittskarten zu 4 Euro verkauft . In der Aula stehen 110 Stühle.
+Min=4000
+Max=64000
+Antwort_1=1Wie viel Euro werden eingenommen ?	
+Antwort_2=0Wie viele Mädchen sind es ?	
+Antwort_3=0Wie viele Stühle stehen in jeder Reihe ?	
+Antwort_4=0Wie groß ist der Schulchor ?	
+
+[73]
+FZ1=
+FZ2=Für das Schulchorkonzert werden 30 Eintrittskarten zu 5 Euro und
+FZ3=40 Eintrittskarten zu 4 Euro verkauft.
+Min=2000
+Max=32000
+Antwort_1=1Wie viel Euro werden eingenommen ?	
+Antwort_2=0Wie viele Jungen singen mit ?	
+Antwort_3=0Wie viele Stühle stehen in jeder Reihe ?	
+Antwort_4=0Wie groß ist der Schulchor ?	
+
+[74]
+FZ1=
+FZ2=Im Schulchor singen 30 Kinder. Frau Musik kopiert für jedes Kind 6 Liedblätter.
+FZ3=Am Schluss zeigte das Zählwerk am Kopierer 880.
+Min=1000
+Max=16000
+Antwort_1=1Welche Zahl zeigte das Zählwerk am	Anfang ?	
+Antwort_2=0Wie viele Jungen singen	im Schulchor ?	
+Antwort_3=0Wie viele Mädchen singen	im Schulchor ?	
+Antwort_4=0Wie viele Liedblätter bekommt jedes	Kind ?	
+
+[75]
+FZ1=
+FZ2=Im Schulchor singen 30 Kinder. Frau Musik kopiert für jedes Kind 6 Liedblätter.
+FZ3=Am Anfang zeigte das Zählwerk am Kopierer 140.
+Min=1000
+Max=16000
+Antwort_1=1Welche Zahl zeigte das Zählwerk am	Ende ?	
+Antwort_2=0Wie viele Jungen singen	im Schulchor ?	
+Antwort_3=0Wie viele Mädchen singen	im Schulchor ?	
+Antwort_4=0Wie viele Liedblätter bekommt jedes	Kind ?	
+
+[76]
+FZ1=
+FZ2=Im Schulchor singen 30 Kinder. Frau Musik kopiert für jedes Kind 6 Liedblätter.
+FZ3=Jede Kopie kostet 3 Cent.
+Min=2000
+Max=32000
+Antwort_1=1Wie teuer sind alle Kopien zusammen ?	
+Antwort_2=0Wie lange muss Frau Musik kopieren ?	
+Antwort_3=0Wie oft muss Frau Musik kopieren ?	
+Antwort_4=0Wie viele Liedblätter bekommt jedes	Kind ?	
+
+[77]
+FZ1=
+FZ2=Im Schulchor singen 30 Kinder. Frau Musik kopiert für jedes Kind 6 Liedblätter.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Kopien macht Frau Musik	insgesamt ?	
+Antwort_2=0Wie viele Mädchen singen	im Schulchor ?	
+Antwort_3=0Wie viele Jungen singen im Schulchor ?	
+Antwort_4=0Wie viele Kinder singen im Schulchor ?	
+
+[78]
+FZ1=
+FZ2=Das neue Heft der Schülerzeitung hat 8 Seiten. 140 Schüler kaufen sich
+FZ3=jeweils ein Heft. Ein Heft kostet 0,50 Euro.
+Min=1000
+Max=16000
+Antwort_1=1Wie viel Euro werden eingenommen ?	
+Antwort_2=0Wie teuer ist eine Seite ?	
+Antwort_3=0Wie viele Seiten hat ein Heft ?	
+Antwort_4=0Wie viele Schüler kaufen ein Heft ?	
+
+[79]
+FZ1=
+FZ2=4 Mädchen und 4 Jungen fahren zusammen nach Hamburg.
+FZ3=Die Gruppenfahrkarte kostet 654 Euro.
+Min=500
+Max=4000
+Antwort_1=1Wie viel Euro muss jedes Kind	bezahlen ?	
+Antwort_2=0Wie viele Kinder fahren nach	Hamburg ?	
+Antwort_3=0Wie teuer ist die Gruppenfahrkarte ?	
+Antwort_4=0Wann sind die Kinder in Hamburg ?	
+
+[80]
+FZ1=Die Hühner von Bauer Gackack haben in zwei Tagen 366 Eier gelegt. Er verpackt
+FZ2=die Eier. Dabei gehen 4 Eier kaputt. Die heilen Eier werden so verpackt:
+FZ3=132 Eier in Packungen zu je 6 Stück, die anderen in Packungen zu je 10 Stück.
+Min=64000
+Max=500000
+Antwort_1=1Wie viele 6-er und wie viele 10-er	Packungen verpackt Bauer Gackack ?	
+Antwort_2=0Wie teuer ist ein Ei ?	
+Antwort_3=0Wie viele Eier gehen kaputt ?	
+Antwort_4=0Wie viele 10-er Packungen braucht	Bauer Gackack ?	
+
+[81]
+FZ1=
+FZ2=Michael Schumacher braucht beim Training immer nach 20 Runden einen neuen
+FZ3=Satz Reifen. Beim letzten Training hat er 100 Runden geschafft.
+Min=1000
+Max=8000
+Antwort_1=1Wie viele Reifensätze brauchte er für	dieses Training ?	
+Antwort_2=0Wie lange dauerte eine Runde ?	
+Antwort_3=0Wie lange hält ein Reifen ?	
+Antwort_4=0Wie viele Reifensätze brauchte er beim	Rennen ?	
+
+[82]
+FZ1=
+FZ2=In einem Parkhaus parken am 16. März auf sieben Etagen 427 Autos.
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Wie viele Autos parken auf einer	Etage ?	
+Antwort_2=0Wie teuer ist eine Stunde im Parkhaus ?	
+Antwort_3=0Wie viele Autos parkten am 15. März ?	
+Antwort_4=0Wie viele Autos waren es insgesamt ?	
+
+[83]
+FZ1=Anna ist 8 Jahre alt, Alina und Felicitas sind schon 9 Jahre alt. Alle drei
+FZ2=Mädchen sammeln Pokémon - Karten. Sie haben zusammen schon 420 Stück und
+FZ3=jedes Mädchen hat gleich viele Karten.
+Min=500
+Max=4000
+Antwort_1=1Wie viele Karten hat jedes Mädchen ?	
+Antwort_2=0Wie viele Karten haben die Mädchen ?	
+Antwort_3=0Wann wird Anna 9 Jahre ?	
+Antwort_4=0Wann haben die Mädchen 500 Karten ?	
+
+[84]
+FZ1=
+FZ2=Die Tierpflegerin hat 160 Fische gerecht verteilt. 
+FZ3=Davon wurden 40 Seelöwen satt.
+Min=1000
+Max=8000
+Antwort_1=1Wie viele Fische bekam	jeder Seelöwe ?	
+Antwort_2=0Wie viele Fische hat die Tierpflegerin	verteilt ?	
+Antwort_3=0Wie viele Fische bekam	jeder Pinguin ?	
+Antwort_4=0Wie teuer waren die Fische ?	
+
+[85]
+FZ1=
+FZ2=Für die 11 Klassen der Osterfeld-Grundschule wurden in der letzten Woche 550
+FZ3=Fotokopien gemacht. In der Schule gibt es noch 2200 Blatt Kopierpapier.
+Min=1000
+Max=16000
+Antwort_1=1Für wie viele Wochen reicht das Papier	noch ?	
+Antwort_2=0Welche Klasse hat die meisten Kopien	gemacht ?	
+Antwort_3=0Wie teuer ist eine Kopie ?	
+Antwort_4=0Wie viele Kopien hat die Klasse 3 c	gemacht ?	
+
+[86]
+FZ1=
+FZ2=Für die 11 Klassen der Osterfeld-Grundschule wurden in der letzten Woche 550
+FZ3=Fotokopien gemacht. Jede Klasse bekam die gleiche Anzahl.
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Kopien bekam jede Klasse ?	
+Antwort_2=0Wie viele Kopien werden jedes Jahr	gemacht ?	
+Antwort_3=0Wie teuer war eine Kopie?	
+Antwort_4=0Wie viele Klassen gibt es an der	Osterfeld - Grundschule ?	
+
+[87]
+FZ1=Im Schwimmbad ist eine Bahn 50 m lang. Felicitas ist schon 450 m geschwommen.
+FZ2=Sie soll 500 m schwimmen. Sie schwimmt gleichmäßig und benötigt für eine Bahn
+FZ3=genau 2 Minuten.
+Min=8000
+Max=250000
+Antwort_1=1Wie lange schwimmt Felicitas	insgesamt ?	
+Antwort_2=0Wie viele Bahnen ist Felicitas schon	geschwommen ?	
+Antwort_3=0Wie lang ist eine Bahn ?	
+Antwort_4=0Wie viele Bahnen muss Felicitas noch	schwimmen ?	
+
+[88]
+FZ1=
+FZ2=Im Schwimmbad ist eine Bahn 25 m lang. Felicitas ist schon 450 m geschwommen.
+FZ3=Sie soll 500 m schwimmen.
+Min=2000
+Max=32000
+Antwort_1=1Wie viele Bahnen muss Felicitas noch	schwimmen ?	
+Antwort_2=0Wie lange ist Felicitas schon	geschwommen ?	
+Antwort_3=0Wie viele Bahnen ist Felicitas schon	geschwommen ?	
+Antwort_4=0Wie lange muss Felicitas noch	schwimmen ?	
+
+[89]
+FZ1=
+FZ2=Im Schwimmbad ist eine Bahn 50 m lang. Felicitas ist schon 450 m geschwommen.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Bahnen ist Felicitas schon	geschwommen ?	
+Antwort_2=0Wie lange muss Felicitas noch	schwimmen ?	
+Antwort_3=0Wie schnell schwimmt Felicitas ?	
+Antwort_4=0Wie lange braucht Felicitas für eine	Bahn ?	
+
+[90]
+FZ1=
+FZ2=Für einen Theaterbesuch hat der Lehrer von 30 Kindern 150 Euro eingesammelt.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Wie viel musste jedes Kind bezahlen ?	
+Antwort_2=0Wie viele Jungen sind es ?	
+Antwort_3=0Wie viele Mädchen sind es ?	
+Antwort_4=0Wie viele Kinder sind es insgesamt ?	
+
+[91]
+FZ1=Bei einem Schulausflug möchten 20 Kinder auf einen Turm steigen. Bis oben sind
+FZ2=es genau 180 Stufen. Die Kinder haben schon ein Drittel der Stufen geschafft und
+FZ3=brauchten dafür 10 Minuten. Sie gehen gleichmäßig weiter.
+Min=64000
+Max=500000
+Antwort_1=1Wie lange müssen sie noch gehen ?	Wie viele Stufen müssen sie noch	steigen ?	
+Antwort_2=0Wie hoch ist der Turm ?	Wann  sind die Kinder oben ?	
+Antwort_3=0Wie viele Kinder schaffen es ?	Wie viele Stufen hat der Turm ?	
+Antwort_4=0Wie viele Mädchen steigen auf den	Turm ? Wie hoch ist eine Stufe ?	
+
+[92]
+FZ1=Bei einem Schulausflug möchten 20 Kinder auf einen Turm steigen. 
+FZ2=Bis oben sind es genau 180 Stufen. 
+FZ3=Die Kinder haben schon die Hälfte der Stufen geschafft.
+Min=4000
+Max=64000
+Antwort_1=1Wie viele Stufen müssen sie noch	steigen ?	
+Antwort_2=0Wie hoch ist  der Turm ?	
+Antwort_3=0Wie viele Jungen steigen	auf den Turm ?	
+Antwort_4=0Wann sind die Kinder oben ?	
+
+[93]
+FZ1=
+FZ2=Bei einem Schulausflug sind 20 Kinder auf einen Turm gestiegen. Bis oben sind es
+FZ3=genau 180 Stufen.
+Min=2000
+Max=32000
+Antwort_1=1Mit den angegeben Zahlen kann man	keine sinnvollen Fragen stellen.	
+Antwort_2=0Wie viele Stufen muss 1 Kind steigen ?	
+Antwort_3=0Wie viele Stufen müssen 10 Kinder	steigen ?	
+Antwort_4=0Wie viele Stufen müssen die Mädchen	steigen ?	
+
+[94]
+FZ1=
+FZ2=Sebastian verschickt Geburtstagseinladungen. Eine Einladungskarte kostet 60 Cent
+FZ3=Für alle Einladungskarten hat er 4 Euro und 80 Cent ausgegeben.
+Min=1000
+Max=16000
+Antwort_1=1Wie viele Geburtstagsgäste lädt	Sebastian ein ?	
+Antwort_2=0Wie teuer ist eine Einladungskarte ?	
+Antwort_3=0Wie alt wird Sebastian ?	
+Antwort_4=0Wie teuer sind alle Einladungskarten ?	
+
+[95]
+FZ1=Mutter gibt Jessica zwei 10 - Euro Scheine.
+FZ2=Jessica kauft sich eine CD-ROM für 14 Euro und eine Tafel Schokolade für 2 Euro.
+FZ3=Sie schenkt ihrer Schwester von dem restlichen Geld die Hälfte.
+Min=64000
+Max=500000
+Antwort_1=1Wie viel Geld bekommt die Schwester ?	
+Antwort_2=0Wie teuer ist die Tafel Schokolade ?	
+Antwort_3=0Wie viel Geld bekommt Jessica ?	
+Antwort_4=0Was muss die Schwester bezahlen ?	
+
+[96]
+FZ1=Vater gibt Marvin zwei 10 - Euro Scheine.
+FZ2=Marvin kauft sich eine CD-ROM für 13 Euro und eine bunte Tüte für 2 Euro.
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Wie viel Geld hat Marvin noch übrig ?	
+Antwort_2=0Wie viel Geld bekommt Marvin ?	
+Antwort_3=0Wie viel Geld gibt Marvin aus ?	
+Antwort_4=0Wie viel Geld bekommt Marvin von	seiner Oma ?	
+
+[97]
+FZ1=Inga kauft sich 6 Lutscher. Ein Lutscher kostet 35 Cent. Ihr Bruder kauft sich
+FZ2= ein Eis für 80 Cent. Vater hat den Kindern 2 Euro mitgegeben,
+FZ3= von Opa haben sie auch 2 Euro bekommen.
+Min=16000
+Max=250000
+Antwort_1=1Wie viel Geld haben die Kinder dann	noch übrig ?	
+Antwort_2=0Wie viel Geld haben die Kinder	bekommen ?	
+Antwort_3=0Wie teuer sind die Lutscher ?	
+Antwort_4=0Wer von den Kindern hat mehr Geld ?	
+
+[98]
+FZ1=
+FZ2=Karin kauft sich 4 Lutscher. Ein Lutscher kostet 45 Cent. Ihr Bruder kauft sich
+FZ3=für 90 Cent ein Eis. Mutter hat den Kindern 3 Euro mitgegeben.
+Min=2000
+Max=32000
+Antwort_1=1Wie viel Geld haben die Kinder dann	noch übrig ?	
+Antwort_2=0Wie viel Geld hat die Mutter den	Kindern mitgegeben ?	
+Antwort_3=0Wie viel Geld geben die Kinder aus ?	
+Antwort_4=0Wie viel Geld haben die Kinder	von Opa bekommen ?	
+
+[99]
+FZ1=Lisa macht Urlaub in Frankreich. Sie schickt ihren 4 Freundinnen je eine
+FZ2=Ansichtskarte. Eine Ansichtskarte kostet 40 Cent. 
+FZ3=Eine Briefmarke kostet 30 Cent. In ihrem Geldbeutel hat Lisa 3 Euro.
+Min=2000
+Max=32000
+Antwort_1=1Wie viel Geld hat Lisa dann	noch übrig ?	
+Antwort_2=0Wie teuer sind die Briefmarken ?	
+Antwort_3=0Wi teuer sind die Ansichtskarten ?	
+Antwort_4=0Wie viel Geld muss Lisa bezahlen ?	
+
+[100]
+FZ1=Lisa macht Urlaub in Frankreich. 
+FZ2=Sie schickt ihren 4 Freundinnen je eine Ansichtskarte. 
+FZ3=Eine Ansichtskarte kostet 40 Cent. Eine Briefmarke kostet 30 Cent.
+Min=500
+Max=4000
+Antwort_1=1Wie viel Geld muss Lisa bezahlen ?	
+Antwort_2=0Wie teuer sind die Briefmarken ?	
+Antwort_3=0Wie teuer sind die Ansichtskarten ?	
+Antwort_4=0Wie viele Freundinnen hat Lisa ?	
+
+[101]
+FZ1=
+FZ2=Calvin macht Urlaub in Italien. Er schickt seinen 5 Freunden je eine
+FZ3=Ansichtskarte. Eine Ansichtskarte kostet 50 Cent.
+Min=0
+Max=1000
+Antwort_1=1Wie viel muss Calvin bezahlen ?	
+Antwort_2=0Wie viel Geld hat Calvin noch ?	
+Antwort_3=0Wie teuer ist eine Ansichtskarte ?	
+Antwort_4=0Wie alt ist Calvin ?	
+
+[102]
+FZ1=
+FZ2=Tina ist 3 Wochen und 4 Tage bei ihrer Oma gewesen.
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Wie viele Tage dauerte der Besuch	bei Oma ?	
+Antwort_2=0Wie weit musste Tina fahren ?	
+Antwort_3=0An welchem Tag kam Tina zurück ?	
+Antwort_4=0Wie alt ist die Oma ?	
+
+[103]
+FZ1=
+FZ2=Mery hat  268 Briefmarken. Nach dem Treffen mit ihrer Freundin sind es 12 mehr.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Briefmarken hat Mery nun ?	
+Antwort_2=0Wie viele Briefmarken hatte Mery ?	
+Antwort_3=0Wie viele Briefmarken hat ihre Freundin	nun ?	
+Antwort_4=0Wie viele Briefmarken verschenkt	Mery ?	
+
+[104]
+FZ1=
+FZ2=Jessica hat schon 669 Briefmarken. Sie schenkt ihrer Schwester 35 Briefmarken.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Briefmarken hat Jessica nun	noch ?	
+Antwort_2=0Wie viele Briefmarken bekommt	Jessica ?	
+Antwort_3=0Wie viele Briefmarken hat Jessicas	Schwester nun ?	
+Antwort_4=0Wie viele Briefmarken hat Jessica ?	
+
+[105]
+FZ1=
+FZ2=Tim hat schon 568 Briefmarken. Sein Opa schenkt ihm noch 70 Briefmarken.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Briefmarken hat Tim nun ?	
+Antwort_2=0Wie viele Briefmarken hatte Tim	vorher ?	
+Antwort_3=0Wie viele Briefmarken hat Opa nun	noch ?	
+Antwort_4=0Wie viele Briefmarken verschenkt Opa ?	
+
+[106]
+FZ1=Herr Brüllgut fährt von Hamburg über Bremen nach Dortmund. Von Hamburg nach
+FZ2=Bremen sind es 90 km. Von Bremen nach Dortmund sind es 235 km. Bei einer Pause
+FZ3=sieht er auf dem Kilometerzähler, dass er schon 268 km gefahren ist.
+Min=2000
+Max=32000
+Antwort_1=1Wie weit muss Herr Brüllgut noch	fahren ?	
+Antwort_2=0Wann ist Herr Brüllgut in Hamburg	abgefahren ?	
+Antwort_3=0Wann ist Herr Brüllgut in Dortmund ?	
+Antwort_4=0Wie lange fährt Herr Brüllgut	insgesamt ?	
+
+[107]
+FZ1=Frau Knüppelkuh macht einen Ausflug. Zuerst fährt sie von Köln nach
+FZ2= Wiesbaden (180 km), von Wiesbaden nach Bochum (190 km) und dann wieder
+FZ3= nach Hause, das sind noch 60 km.
+Min=200
+Max=1000
+Antwort_1=1Wie viele Kilometer fährt Frau	Knüppelkuh insgesamt ?	
+Antwort_2=0Wie schnell fährt Frau Knüppelkuh ?	
+Antwort_3=0Wie lange ist Frau Knüppelkuh	unterwegs ?	
+Antwort_4=0Wie viele Kilometer sind es von	Wiesbaden nach München ?	
+
+[108]
+FZ1=
+FZ2=Frau Sauerbier fährt von Dortmund nach Stuttgart. Nach 250 km macht sie
+FZ3=eine Pause. Danach muss sie noch 170 km fahren.
+Min=200
+Max=1000
+Antwort_1=1Wie viele Kilometer fährt Frau	Sauerbier insgesamt ?	
+Antwort_2=0Wie lange ist Frau Sauerbier	unterwegs ?	
+Antwort_3=0Wie schnell fährt Frau Sauerbier ?	
+Antwort_4=0Wann kommt Frau Sauerbier in	Stuttgart an ?	
+
+[109]
+FZ1=
+FZ2=Herr Kümmelbein fährt am Morgen von Hannover nach Düsseldorf. Das sind 280 km.
+FZ3=Am Nachmittag fährt er weiter nach Mannheim. Das sind noch einmal 290 km.
+Min=300
+Max=2000
+Antwort_1=1Wie viele Kilometer fährt Herr	Kümmelbein insgesamt ?	
+Antwort_2=0Wann ist Herr Kümmelbein in	Mannheim ?	
+Antwort_3=0Wie lange ist Herr Kümmelbein	unterwegs ?	
+Antwort_4=0Wie viele Kilometer sind es von	Hamburg nach Mannheim ?	
+
+[110]
+FZ1=
+FZ2=Anna bekommt neue Schuhe. Die Schuhe kosten 42 Euro. 
+FZ3=Im Schlussverkauf sind die Schuhe 14 Euro billiger.
+Min=1000
+Max=16000
+Antwort_1=1Wie teuer sind die Schuhe im	Schlussverkauf ?	
+Antwort_2=0Welche Schuhgröße hat Anna ?	
+Antwort_3=0Wie alt ist Anna ?	
+Antwort_4=0Wie viel Euro spart Anna ?	
+
+[111]
+FZ1=
+FZ2=Alina wünscht sich ein Fahrrad. Es kostet 318 Euro. Für das Fahrrad wünscht sie
+FZ3=noch 2 Gepäcktaschen. Eine Gepäcktasche kostet 12 Euro.
+Min=2000
+Max=32000
+Antwort_1=1Wie teuer ist das Fahrrad mit den	Gepäcktaschen ?	
+Antwort_2=0Wie teuer sind die Gepäcktaschen ?	
+Antwort_3=0Wie teuer ist das Fahrrad ?	
+Antwort_4=0Wie viel Euro spart Anna ?	
+
+[112]
+FZ1=
+FZ2=Robin kauft sich ein Fahrrad für 245 Euro.
+FZ3=Das Zubehör kostet zusätzlich 35 Euro.
+Min=1000
+Max=8000
+Antwort_1=1Wie teuer ist das Fahrrad mit Zubehör ?	
+Antwort_2=0Wie teuer ist das Zubehör ?	
+Antwort_3=0Wie teuer ist das Fahrrad ?	
+Antwort_4=0Wie viel Euro hat Robin gespart ?	
+
+[113]
+FZ1=In ein Verkehrsflugzeug passen 270 Leute. 215 Passagiere sind schon an Bord. Das
+FZ2=Flugzeug ist ausgebucht. Als alle Passagiere an Bord sind, fliegt es los. Bei
+FZ3=der Zwischenlandung steigen 30 Passagiere aus und 15 Passagiere ein.
+Min=2000
+Max=32000
+Antwort_1=1Wie viele Passagiere sind nach der	Zwischenlandung an Bord ?	
+Antwort_2=0Wie lange dauert die	Zwischenlandung ?	
+Antwort_3=0Wie viele Passagiere passen in das	Flugzeug ?	
+Antwort_4=0Wie viele Frauen sind an Bord ?	
+
+[114]
+FZ1=
+FZ2=In ein Verkehrsflugzeug passen 270 Leute. 215 Passagiere sind schon an Bord. Das
+FZ3=Flugzeug ist ausgebucht.
+Min=200
+Max=2000
+Antwort_1=1Wie viele Passagiere müssen noch	einsteigen ?	
+Antwort_2=0Wie viele Männer sind an Bord ?	
+Antwort_3=0Wohin fliegt das Flugzeug ?	
+Antwort_4=0Wie teuer ist der Flug ?	
+
+[115]
+FZ1=
+FZ2=Shawn steht an der Haltestelle. Es ist 5 Minuten vor 8 Uhr.
+FZ3=Um viertel nach 8 kommt der Bus.
+Min=100
+Max=1000
+Antwort_1=1Wie viele Minuten muss Shawn noch	warten, wenn der Bus pünktlich	kommt ?	
+Antwort_2=0Wie lange ist Shawn unterwegs ?	
+Antwort_3=0Um wie viel Uhr kommt der Bus ?	
+Antwort_4=0Wie viel Euro muss Shawn bezahlen ?	
+
+[116]
+FZ1=
+FZ2=Dimitras Turnstunde beginnt um 16 Uhr und endet um 17.15 Uhr.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie lange dauert die Turnstunde ?	
+Antwort_2=0Wie viele Jungen turnen mit ?	
+Antwort_3=0Wie viele Mädchen machen bei der	Turnstunde mit ?	
+Antwort_4=0Wann beginnt die Turnstunde ?	
+
+[117]
+FZ1=
+FZ2=In der Musikschule sind 35 Jungen und 28 Mädchen angemeldet.
+FZ3=15 Kinder spielen Blockflöte.
+Min=500
+Max=4000
+Antwort_1=1Wie viele Kinder spielen ein anderes	Instrument ?	
+Antwort_2=0Wie viele Mädchen spielen Blockflöte ?	
+Antwort_3=0Wie viele Jungen spielen Blockflöte ?	
+Antwort_4=0Wie viele Jungen spielen ein anderes	Instrument ?	
+
+[118]
+FZ1=
+FZ2=In der Musikschule sind 35 Jungen und 28 Mädchen angemeldet.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Kinder sind es insgesamt ?	
+Antwort_2=0Wie viele Mädchen spielen Querflöte ?	
+Antwort_3=0Wie viele Jungen spielen Blockflöte ?	
+Antwort_4=0Wie viele Kinder spielen Gitarre ?	
+
+[119]
+FZ1=
+FZ2=Die Sommerferien haben genau 6 Wochen und vier Tage gedauert. Die Hälfte der
+FZ3=Zeit war Meriam bei ihrer Tante.
+Min=200
+Max=2000
+Antwort_1=1Wie viele Tage war Meriam bei ihrer	Tante ?	
+Antwort_2=0Wann ist Meriam zu ihrer Tante	gefahren ?	
+Antwort_3=0Wie viele Tage war Meriam bei ihrer	Oma ?	
+Antwort_4=0Wie lange hat die Tante Meriam	besucht ?	
+
+[120]
+FZ1=
+FZ2=Die Sommerferien haben genau 6 Wochen und drei Tage gedauert.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wie viele Tage haben die	Sommerferien gedauert ?	
+Antwort_2=0Wie viele Tage haben die Osterferien	gedauert ?	
+Antwort_3=0Wie viele Tage haben die Herbstferien	gedauert ?	
+Antwort_4=0Wie viele Tage haben die	Weihnachtsferien gedauert ?	
+
+[121]
+FZ1=Kevin hat Geld gespart, weil er sich ein Buch kaufen möchte. Er bekommt von
+FZ2=seinem Vater 6 Euro. Nun kann er sich endlich das Buch kaufen. Es kostet
+FZ3=18 Euro. Kevin hat sogar noch 3 Euro übrig.
+Min=2000
+Max=32000
+Antwort_1=1Wie viel Geld hat Kevin gespart ?	
+Antwort_2=0Wie viel Geld bekommt Kevin von	seinem Opa ?	
+Antwort_3=0Wie teuer ist das Buch ?	
+Antwort_4=0Wie viel Geld hat Kevin noch übrig ?	
+
+[122]
+FZ1=Armin hat Geld gespart, weil er sich ein Buch kaufen möchte. Er bekommt von
+FZ2=seiner Oma 8 Euro. Nun kann er sich endlich das Buch kaufen. Es kostet 20 Euro.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Wie viel Geld hatte Armin schon	gespart  ?	
+Antwort_2=0Wie viel Geld hat Armin von seiner Oma	bekommen ?	
+Antwort_3=0Wie teuer ist das Buch ?	
+Antwort_4=0Wie alt ist Armin ?	
+
+[123]
+FZ1=
+FZ2=Nadine bekommt von ihrem Opa 20 Euro. Nun hat sie 35 Euro.
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Wie viel Euro hatte Nadine vorher ?	
+Antwort_2=0Wie viel Euro bekommt Nadine von	ihrem Opa ?	
+Antwort_3=0Wie viel Euro hat Nadine nun ?	
+Antwort_4=0Wie viel Euro möchte Nadine haben ?	
+
+[124]
+FZ1=
+FZ2=Gökhan kauft einen Fußball für 12 Euro. Nun hat er noch 38 Euro.
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Wie viel Geld hatte Gökhan vorher ?	
+Antwort_2=0Wie viel Euro hat Gökhan nun ?	
+Antwort_3=0Wie teuer ist der Fußball ?	
+Antwort_4=0Wie alt ist Gökhan ?	
+

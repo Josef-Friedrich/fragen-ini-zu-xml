@@ -1,0 +1,170 @@
+[Thema]
+Thema       = "Soziale Marktwirtschaft"
+Fragen      = 15
+Autor       = Bernd Egle, 04/04/2001
+
+[1]
+FZ1         = 
+FZ2         = Auf dem Markt treffen sich Anbieter und ...?
+FZ3         = 
+Min         = 0
+Max         = 100
+Antwort_1   = 1Nachfrager
+Antwort_2   = 0Nachfolger
+Antwort_3   = 0Nachfahren
+Antwort_4   = 0Nachtwächter
+
+[2]
+FZ1         = 
+FZ2         = Wie groß ist die Anzahl der Anbieter bei einem Monopol?
+FZ3         = 
+Min         = 100
+Max         = 200
+Antwort_1   = 1einer
+Antwort_2   = 0zwei
+Antwort_3   = 0drei
+Antwort_4   = 0vier
+
+[3]
+FZ1         = 
+FZ2         = Wobei handelt es sich nicht um eine Marktform?
+FZ3         = 
+Min         = 200
+Max         = 300
+Antwort_1   = 1Pylopol
+Antwort_2   = 0Oligopol
+Antwort_3   = 0Polypol
+Antwort_4   = 0Monopol
+
+[4]
+FZ1         = 
+FZ2         = Die Wirtschaftsform in der BRD bezeichnet man als ...?
+FZ3         = 
+Min         = 300
+Max         = 500
+Antwort_1   = 1Soziale Marktwirtschaft
+Antwort_2   = 0Planwirtschaft
+Antwort_3   = 0Freie Marktwirtschaft
+Antwort_4   = 0Gelenkte Marktwirtschaft
+
+[5]
+FZ1         = 
+FZ2         = Welche Auswirkung können sinkende Preise haben?
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 1Erhöhung der Nachfrage
+Antwort_2   = 0Sinken der Nachfrage
+Antwort_3   = 0Erhöhung der Lagerbestände
+Antwort_4   = 0Höhere Gewinne
+
+[6]
+FZ1         = Ein Artikel kostet vor einer Preiserhöhung Euro 20,-.
+FZ2         = Wie teuer ist der Artikel, wenn der Preis um 15% erhöht wird?
+FZ3         = 
+Min         = 1000
+Max         = 2000
+Antwort_1   = 123,-
+Antwort_2   = 020,50
+Antwort_3   = 021,50
+Antwort_4   = 035,-
+
+[7]
+FZ1         = Welcher Lebensbereich wird durch die staatlichen,
+FZ2         = sozialen Unternehmen nicht abgedeckt?
+FZ3         = 
+Min         = 2000
+Max         = 4000
+Antwort_1   = 1Haftpflicht
+Antwort_2   = 0Arbeitslosigkeit
+Antwort_3   = 0Krankheit
+Antwort_4   = 0Rente
+
+[8]
+FZ1         = 
+FZ2         = Wobei handelt es sich um keine Funktion des Marktpreises?
+FZ3         = 
+Min         = 4000
+Max         = 8000
+Antwort_1   = 1Währungsfunktion
+Antwort_2   = 0Lenkungsfunktion
+Antwort_3   = 0Erziehungsfunktion
+Antwort_4   = 0Signalfunktion
+
+[9]
+FZ1         = Wenn sich Angebots- und Nachfragepreis treffen,
+FZ2         = spricht man von ...?
+FZ3         = 
+Min         = 8000
+Max         = 16000
+Antwort_1   = 1Marktgleichgewicht
+Antwort_2   = 0Mittelpreis
+Antwort_3   = 0Durchschnittspreis
+Antwort_4   = 0Kaufgleichgewicht
+
+[10]
+FZ1         = Bei welcher der genannten Firmen
+FZ2         = handelt es sich um eine Personengesellschaft?
+FZ3         = 
+Min         = 16000
+Max         = 32000
+Antwort_1   = 1Walter und Fink oHG
+Antwort_2   = 0Hans Müller, e. Kfm.
+Antwort_3   = 0Molkerei West eG
+Antwort_4   = 0W. Schulz GmbH
+
+[11]
+FZ1         = Im Sommerschlussverkauf wird der Preis einer
+FZ2         = Hose um 40% reduziert und kostet jetzt noch Euro 30,-.
+FZ3         = Wie hoch war der Preis vor der Preissenkung ?
+Min         = 32000
+Max         = 64000
+Antwort_1   = 150,-
+Antwort_2   = 045,-
+Antwort_3   = 042,-
+Antwort_4   = 048,-
+
+[12]
+FZ1         = Zur Aufnahme in die europäische Wirtschafts-
+FZ2         = und Währungsunion gehört nicht ... ?
+FZ3         = 
+Min         = 64000
+Max         = 125000
+Antwort_1   = 1Niedrige Arbeitslosigkeit
+Antwort_2   = 0Stabile Wechselkurse
+Antwort_3   = 0Gesunde Staatsfinanzen
+Antwort_4   = 0Stabiles Preisniveau
+
+[13]
+FZ1         = Welche der genannten Steuern bringt dem
+FZ2         = Bund die größte Einnahme?
+FZ3         = 
+Min         = 125000
+Max         = 250000
+Antwort_1   = 1Lohnsteuer
+Antwort_2   = 0Mineralölsteuer
+Antwort_3   = 0Gewerbesteuer
+Antwort_4   = 0Mehrwertsteuer
+
+[14]
+FZ1         = Wer ist in der Wirtschafts- und Währungsunion (WWU)
+FZ2         = in Europa für die Geldpolitik zuständig?
+FZ3         = 
+Min         = 250000
+Max         = 500000
+Antwort_1   = 1Europäische Zentralbank Frankfurt
+Antwort_2   = 0Deutsche Bank in Frankfurt
+Antwort_3   = 0Deutsche Bundesbank in Berlin
+Antwort_4   = 0Die nationalen Notenbanken
+
+[15]
+FZ1         = Welcher Punkt gehört nicht zum
+FZ2         = "Magischen Viereck"?
+FZ3         = 
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1Beständiges Sozialprodukt
+Antwort_2   = 0Vollbeschäftigung
+Antwort_3   = 0Außenwirtschaftliches Gleichgewicht
+Antwort_4   = 0Stabiles Preisniveau
+

@@ -1,0 +1,1600 @@
+[Thema]
+Thema=Arithmetik bis Kl. 6
+Fragen=145
+Autor=W.BIERMANN, 8/01
+
+[1]
+FZ1=Themen: #Addition, #Subtraktion
+FZ2=leichte Kopfrechnungen
+FZ3=Über [Suchen] kann z.B. 'Thema #Addieren' direkt angefahren werden.
+Min=1000000
+Max=0
+Antwort_1=1	richtige Antwort
+Antwort_2=0	falsche Antwort
+Antwort_3=0	falsche Antwort
+Antwort_4=0	falsche Antwort
+
+[2]
+FZ1=
+FZ2=#addieren, #Addition
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[3]
+FZ1=
+FZ2=Beim Addieren von drei einstelligen Zahlen ist das größte Ergebnis
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	zwischen 1 und 10
+Antwort_2=1	zwischen 20 und 29
+Antwort_3=0	zwischen 30 und 39
+Antwort_4=0	zwischen 90 und 99
+
+[4]
+FZ1=
+FZ2=Addieren bedeutet
+FZ3=
+Min=0
+Max=0
+Antwort_1=1	zuzählen
+Antwort_2=0	malnehmen
+Antwort_3=0	abziehen
+Antwort_4=0	teilen
+
+[5]
+FZ1=
+FZ2=Subtrahieren bedeutet
+FZ3=
+Min=0
+Max=0
+Antwort_1=1	abziehen
+Antwort_2=0	malnehmen
+Antwort_3=0	teilen
+Antwort_4=0	zuzählen
+
+[6]
+FZ1=
+FZ2=Das "Pluszeichen" gehört zum
+FZ3=
+Min=0
+Max=0
+Antwort_1=1	Addieren
+Antwort_2=0	Substrahieren
+Antwort_3=0	Multiplizieren
+Antwort_4=0	Dividieren
+
+[7]
+FZ1=
+FZ2=Das "Minuszeichen" gehört zum
+FZ3=
+Min=0
+Max=0
+Antwort_1=0	Addieren
+Antwort_2=1	Subtrahieren
+Antwort_3=0	Dividieren
+Antwort_4=0	Multiplizieren
+
+[8]
+FZ1=
+FZ2=Die Summe ist das Ergebnis von einer
+FZ3=
+Min=100
+Max=100
+Antwort_1=1	Addition
+Antwort_2=0	Subtaktion
+Antwort_3=0	Division
+Antwort_4=0	 Multiplikation
+
+[9]
+FZ1=
+FZ2=Die Differenz ist das Ergebnis einer
+FZ3=
+Min=100
+Max=100
+Antwort_1=0	Addition
+Antwort_2=1	Subtraktion
+Antwort_3=0	Division
+Antwort_4=0	Multiplikation
+
+[10]
+FZ1=Addiert man zur größten zweistelligen Zahl
+FZ2=die kleinste zweistellige Zahl liegt das Ergebnis
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	unter hundert
+Antwort_2=1	zwischen hundert u. zweihundert
+Antwort_3=0	zwischen funfhundert und tausend
+Antwort_4=0	über tausend
+
+[11]
+FZ1=Zieht man von der größten dreistelligen Zahl
+FZ2=die kleinste dreistellige Zahl ab erhält man
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	9
+Antwort_2=0	99
+Antwort_3=0	888
+Antwort_4=1	899
+
+[12]
+FZ1=
+FZ2=Beim Addieren gibt es
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	Summanden
+Antwort_2=0	Faktoren
+Antwort_3=0	Quotienten
+Antwort_4=0	Dividenden
+
+[13]
+FZ1=Durch einmaliges, beliebiges  Addieren oder Subtrahieren
+FZ2=der Zahlen 3, 8, 9 ist ein Ergebnis nicht möglich
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	20
+Antwort_2=0	14
+Antwort_3=0	4
+Antwort_4=1	7
+
+[14]
+FZ1=Verbinde die Zahlen 4, 6, 9 in beliebiger Reihenfolge durch + oder -
+FZ2=Welches ist das kleinste mögliche Ergebnis größer 0 ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	11
+Antwort_2=1	1
+Antwort_3=0	7
+Antwort_4=0	19
+
+[15]
+FZ1=
+FZ2=Welche Aufgabe passt zum Ergebnis 56 ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0	88-17-12+3
+Antwort_2=0	88-(17-12+3)
+Antwort_3=0	88-(17-12)+3
+Antwort_4=1	88-17-(12+3)
+
+[16]
+FZ1=
+FZ2=Unter Strichrechnung versteht man
+FZ3=
+Min=0
+Max=0
+Antwort_1=0	Rechnungen mit Bruchstrichen
+Antwort_2=1	Rechnungen mit Plus- u. Minuszeichen
+Antwort_3=0	Strichliste beim Zählen
+Antwort_4=0	Falschrechnungen
+
+[17]
+FZ1=
+FZ2=#Überschlag
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=0	
+Antwort_2=0	
+Antwort_3=0	
+Antwort_4=0	
+
+[18]
+FZ1=Auf den ersten Blick - ein Ergebnis stimmt!
+FZ2=98+92+95=
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	285
+Antwort_2=0	283
+Antwort_3=0	287
+Antwort_4=0	299
+
+[19]
+FZ1=Auf den ersten Blick - ein Ergebnis stimmt!
+FZ2=1001+1009+2005=
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	4015
+Antwort_2=0	3017
+Antwort_3=0	3015
+Antwort_4=0	3014
+
+[20]
+FZ1=Auf den ersten Blick  -  ein Ergebnis stimmt!
+FZ2=199-99-1=
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	99
+Antwort_2=0	101
+Antwort_3=0	9
+Antwort_4=0	100
+
+[21]
+FZ1=Auf den ersten Blick - ein Ergebnis stimmt!
+FZ2=423+15+77=
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	515
+Antwort_2=0	517
+Antwort_3=0	514
+Antwort_4=0	615
+
+[22]
+FZ1=Auf den ersten Blick - ein Ergebnis stimmt!
+FZ2=1000+10000+100000=
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	111000
+Antwort_2=0	101100
+Antwort_3=0	101000
+Antwort_4=0	102000
+
+[23]
+FZ1=Auf den ersten Blick - ein Ergebnis stimmt!
+FZ2=99900-9000-900=
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	90000
+Antwort_2=0	9000
+Antwort_3=0	90100
+Antwort_4=0	10000
+
+[24]
+FZ1=
+FZ2=#Multiplikation, #multiplizieren
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[25]
+FZ1=
+FZ2=Multiplizieren ist das gleiche wie
+FZ3=
+Min=100
+Max=100
+Antwort_1=1	malnehmen
+Antwort_2=0	teilen
+Antwort_3=0	abziehen
+Antwort_4=0	zuzählen
+
+[26]
+FZ1=
+FZ2=Bei der Multiplikation sind die Zahlen verbunden durch
+FZ3=
+Min=0
+Max=0
+Antwort_1=1	    ·
+Antwort_2=0	    :
+Antwort_3=0	    -
+Antwort_4=0	   +
+
+[27]
+FZ1=
+FZ2=Das Produkt ist das Ergebnis vom
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	multiplizieren
+Antwort_2=0	dividieren
+Antwort_3=0	addieren
+Antwort_4=0	subtrahieren
+
+[28]
+FZ1=
+FZ2=Die beteiligten Zahlen bei einer Multiplikation heißen
+FZ3=
+Min=100
+Max=100
+Antwort_1=1	Faktoren
+Antwort_2=0	Summanden
+Antwort_3=0	Dividenden
+Antwort_4=0	Subtrahenden
+
+[29]
+FZ1=
+FZ2=Die Reihenfolge der Faktoren kann vertauscht werden
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	richtig
+Antwort_2=0	nie
+Antwort_3=0	bei nur zwei vorhandenen Faktoren
+Antwort_4=0	hängt von der Größe der Faktoren ab
+
+[30]
+FZ1=Auf den ersten Blick - ein Ergebnis stimmt!
+FZ2=2555 · 2=
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	5110
+Antwort_2=0	5109
+Antwort_3=0	5108
+Antwort_4=0	5111
+
+[31]
+FZ1=Auf den ersten Blick - ein Ergebnis stimmt!
+FZ2=303·13=
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	3939
+Antwort_2=0	4006
+Antwort_3=0	3938
+Antwort_4=0	3955
+
+[32]
+FZ1=
+FZ2=Wenn ein Faktor Null ist,
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	ist der Wert des Produktes Null
+Antwort_2=0	kann man die Aufgabe nicht rechnen
+Antwort_3=0	wird dem Ergebnis eine Null angehängt
+Antwort_4=0	wird die Null nicht berücksichtigt
+
+[33]
+FZ1=Eine Lösung stimmt. Entscheide dich schnell!
+FZ2=7·8·0·10·2=
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	0
+Antwort_2=0	1120
+Antwort_3=0	11200
+Antwort_4=0	nicht lösbar
+
+[34]
+FZ1=Eine Lösung stimmt. Entscheide dich schnell!
+FZ2=26·14·12=
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	4368
+Antwort_2=0	43068
+Antwort_3=0	430068
+Antwort_4=0	4300068
+
+[35]
+FZ1=
+FZ2=Suche zum Ergebnis   2142  die passende Aufgabe
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	3·102·7=
+Antwort_2=0	3·102·8=
+Antwort_3=0	4·102·7=
+Antwort_4=0	3·102·5=
+
+[36]
+FZ1=Eine Lösung stimmt. Entscheide dich schnell!
+FZ2=17·12·22=
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	6358
+Antwort_2=0	6357
+Antwort_3=0	6356
+Antwort_4=0	6359
+
+[37]
+FZ1=
+FZ2=Beim Multiplizieren darf man die Faktoren vertauschen.
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	stimmt
+Antwort_2=0	stimmt nicht
+Antwort_3=0	stimmt nur mit Einklammern
+Antwort_4=0	stimmt nur bei Rechenvorteilen
+
+[38]
+FZ1=
+FZ2=#Division, dividieren
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[39]
+FZ1=
+FZ2=Bei der Division sind die Zahlen verbunden durch
+FZ3=
+Min=100
+Max=100
+Antwort_1=1	    :
+Antwort_2=0	    ·
+Antwort_3=0	   +
+Antwort_4=0	    -
+
+[40]
+FZ1=
+FZ2=Ein Quotient ergibt sich aus
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	Dividend durch Divisor
+Antwort_2=0	Divisor durch Dividend
+Antwort_3=0	Divisor mal Dividend
+Antwort_4=0	Dividend mal Divisor
+
+[41]
+FZ1=Eine Zahl passt in die Gleichung.
+FZ2=306:x=17
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	x=18
+Antwort_2=0	x=19
+Antwort_3=0	x=17
+Antwort_4=0	x=16
+
+[42]
+FZ1=Eine Zahl passt in die Gleichung.
+FZ2=1728:12:x=12
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	12
+Antwort_2=0	13
+Antwort_3=0	11
+Antwort_4=0	14
+
+[43]
+FZ1=Eine Zahl passt in die Gleichung.
+FZ2=204:4:x=17
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	3
+Antwort_2=0	2
+Antwort_3=0	4
+Antwort_4=0	5
+
+[44]
+FZ1=Eine Zahl passt in die Gleichung.
+FZ2=308:x=14
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	x=22
+Antwort_2=0	x=21
+Antwort_3=0	20
+Antwort_4=0	24
+
+[45]
+FZ1=
+FZ2=Zu welcher Rechnung gehört das Ergebnis 0
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	0:3
+Antwort_2=0	3:0
+Antwort_3=0	3:3
+Antwort_4=0	0:0
+
+[46]
+FZ1=
+FZ2=#Verbindung der Grundrechenarten
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[47]
+FZ1=
+FZ2=4+3·2+5
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	15
+Antwort_2=0	19
+Antwort_3=0	70
+Antwort_4=0	29
+
+[48]
+FZ1=
+FZ2=6+3·4+2
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	20
+Antwort_2=0	54
+Antwort_3=0	38
+Antwort_4=0	44
+
+[49]
+FZ1=
+FZ2=14 - 2 · (3 + 5 - 4)
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	6
+Antwort_2=0	9
+Antwort_3=0	37
+Antwort_4=0	48
+
+[50]
+FZ1=
+FZ2=32 - 6 : 2 + 2 · 7
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	43
+Antwort_2=0	105
+Antwort_3=0	27
+Antwort_4=0	217
+
+[51]
+FZ1=
+FZ2=14 + 8 : 2 - 2 · 5
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	8
+Antwort_2=0	45
+Antwort_3=0	1
+Antwort_4=0	70
+
+[52]
+FZ1=
+FZ2=30 - 2 · 5 - (4 -  2 )
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	18
+Antwort_2=0	138
+Antwort_3=0	134
+Antwort_4=0	280
+
+[53]
+FZ1=
+FZ2=12 - 2 · 3 - 3 · 2
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	0
+Antwort_2=0	18
+Antwort_3=0	54
+Antwort_4=0	6
+
+[54]
+FZ1=
+FZ2=#Teilbarkeiten
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[55]
+FZ1=
+FZ2=durch 3 teilbar
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	123456
+Antwort_2=0	234569
+Antwort_3=0	45673
+Antwort_4=0	99919
+
+[56]
+FZ1=
+FZ2=durch 3 teilbar
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	93
+Antwort_2=0	43
+Antwort_3=0	73
+Antwort_4=0	53
+
+[57]
+FZ1=
+FZ2=durch 3 teilbar
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	1002
+Antwort_2=0	1003
+Antwort_3=0	1004
+Antwort_4=0	1009
+
+[58]
+FZ1=
+FZ2=durch 9 teilbar
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	108
+Antwort_2=0	109
+Antwort_3=0	112
+Antwort_4=0	119
+
+[59]
+FZ1=
+FZ2=durch 9 teilbar
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	5004
+Antwort_2=0	5003
+Antwort_3=0	5006
+Antwort_4=0	5009
+
+[60]
+FZ1=
+FZ2=durch 6 teilbar
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	102
+Antwort_2=0	103
+Antwort_3=0	104
+Antwort_4=0	105
+
+[61]
+FZ1=
+FZ2=durch 6 teilbar
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	3006
+Antwort_2=0	1006
+Antwort_3=0	4006
+Antwort_4=0	5006
+
+[62]
+FZ1=
+FZ2=durch 15 teilbar
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	43515
+Antwort_2=0	23515
+Antwort_3=0	33515
+Antwort_4=0	53515
+
+[63]
+FZ1=
+FZ2=durch 15 teilbar
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	13545
+Antwort_2=0	13445
+Antwort_3=0	13345
+Antwort_4=0	13645
+
+[64]
+FZ1=
+FZ2=durch 6 teilbar
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	20202
+Antwort_2=0	30202
+Antwort_3=0	40202
+Antwort_4=0	10202
+
+[65]
+FZ1=
+FZ2=ganzzahlig nicht durch 8 teilbar
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	12058
+Antwort_2=0	12056
+Antwort_3=0	12064
+Antwort_4=0	12072
+
+[66]
+FZ1=
+FZ2=ganzzahlig nicht durch 8 teilbar
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	57018
+Antwort_2=0	57064
+Antwort_3=0	57088
+Antwort_4=0	57056
+
+[67]
+FZ1=
+FZ2=2,3,6,9  sind alles  Teiler von
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	72
+Antwort_2=0	56
+Antwort_3=0	48
+Antwort_4=0	24
+
+[68]
+FZ1=
+FZ2=2,3,6,9  sind alles  Teiler von
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	36
+Antwort_2=0	27
+Antwort_3=0	24
+Antwort_4=0	81
+
+[69]
+FZ1=
+FZ2=2,3,25  sind alles  Teiler von
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	300
+Antwort_2=0	350
+Antwort_3=0	375
+Antwort_4=0	400
+
+[70]
+FZ1=
+FZ2=2,3,25  sind alles  Teiler von
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	150
+Antwort_2=0	175
+Antwort_3=0	200
+Antwort_4=0	100
+
+[71]
+FZ1=
+FZ2=#Teiler, #Vielfache, #ggT, #kgV, #Primzahlen, #Primfaktoren
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[72]
+FZ1=
+FZ2=ggT von 12, 18, 36
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	6
+Antwort_2=0	12
+Antwort_3=0	9
+Antwort_4=0	2
+
+[73]
+FZ1=
+FZ2=ggT von 30, 36, 54
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	6
+Antwort_2=0	9
+Antwort_3=0	2
+Antwort_4=0	3
+
+[74]
+FZ1=
+FZ2=ggT von 36, 45, 54, 72, 117
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	9
+Antwort_2=0	3
+Antwort_3=0	6
+Antwort_4=0	1
+
+[75]
+FZ1=
+FZ2=ggT von 14, 42, 70, 105, 147
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	7
+Antwort_2=0	14
+Antwort_3=0	2
+Antwort_4=0	1
+
+[76]
+FZ1=
+FZ2=kgV von 3, 9, 12
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	36
+Antwort_2=0	54
+Antwort_3=0	72
+Antwort_4=0	48
+
+[77]
+FZ1=
+FZ2=kgV von 4, 8, 12
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	24
+Antwort_2=0	36
+Antwort_3=0	48
+Antwort_4=0	72
+
+[78]
+FZ1=
+FZ2=kgV von 2, 4, 6, 10, 20
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	60
+Antwort_2=0	80
+Antwort_3=0	90
+Antwort_4=0	100
+
+[79]
+FZ1=
+FZ2=kgV von 4, 5,  8, 10, 20
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	40
+Antwort_2=0	20
+Antwort_3=0	60
+Antwort_4=0	80
+
+[80]
+FZ1=
+FZ2=#Primzahlen
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[81]
+FZ1=
+FZ2=Eine Zahl ist Primzahl
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	43
+Antwort_2=0	45
+Antwort_3=0	49
+Antwort_4=0	51
+
+[82]
+FZ1=
+FZ2=Eine Zahl ist Primzahl
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	31
+Antwort_2=0	33
+Antwort_3=0	35
+Antwort_4=0	39
+
+[83]
+FZ1=
+FZ2=Eine Zahl ist Primzahl
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	211
+Antwort_2=0	213
+Antwort_3=0	215
+Antwort_4=0	219
+
+[84]
+FZ1=
+FZ2=Eine Zahl ist Primzahl
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	283
+Antwort_2=0	285
+Antwort_3=0	291
+Antwort_4=0	297
+
+[85]
+FZ1=
+FZ2=Eine Zahl ist Primzahl
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	1321
+Antwort_2=0	1323
+Antwort_3=0	1325
+Antwort_4=0	1329
+
+[86]
+FZ1=
+FZ2=Eine Zahl ist Primzahl
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	1327
+Antwort_2=0	1317
+Antwort_3=0	1347
+Antwort_4=0	1315
+
+[87]
+FZ1=
+FZ2=101; 103; 107; 109 sind Primzahlen
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	stimmt
+Antwort_2=0	stimmt für drei
+Antwort_3=0	stimmt für zwei
+Antwort_4=0	stimmt für eine
+
+[88]
+FZ1=
+FZ2=127; 131; 135; 137 sind Primzahlen
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0	stimmt
+Antwort_2=1	stimmt für drei
+Antwort_3=0	stimmt für zwei
+Antwort_4=0	stimmt für eine
+
+[89]
+FZ1=
+FZ2=#Primfaktoren ggT kgV
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[90]
+FZ1=Vier Nenner wurden zu Primfaktoren zerlegt
+FZ2=2;   2·2;    2·3;   2·5;  2·2·5
+FZ3=Wie lautet der passende Hauptnenner?
+Min=16000
+Max=16000
+Antwort_1=1	60
+Antwort_2=0	20
+Antwort_3=0	40
+Antwort_4=0	50
+
+[91]
+FZ1=Vier Nenner wurden zu Primfaktoren zerlegt
+FZ2=2·3;   3·3;    2·2·3;   3·5;  2·3·3
+FZ3=Wie lautet der passende Hauptnenner?
+Min=16000
+Max=16000
+Antwort_1=1	180
+Antwort_2=0	120
+Antwort_3=0	160
+Antwort_4=0	140
+
+[92]
+FZ1=Drei Nenner wurden zu Primfaktoren zerlegt
+FZ2=2·2·2;    2·2·3;   2·3·3
+FZ3=Wie lautet der passende Hauptnenner?
+Min=4000
+Max=4000
+Antwort_1=1	72
+Antwort_2=0	24
+Antwort_3=0	18
+Antwort_4=0	54
+
+[93]
+FZ1=Drei Zahlen wurden zu Primfaktoren zerlegt
+FZ2=2·2·3;    2·2·3·3;   2·2·2·2·3
+FZ3=Wie lautet der passende ggT?
+Min=4000
+Max=4000
+Antwort_1=1	12
+Antwort_2=0	18
+Antwort_3=0	24
+Antwort_4=0	36
+
+[94]
+FZ1=Drei Zahlen wurden zu Primfaktoren zerlegt
+FZ2=2·2·3;    2·3·3;   2·2·3·3
+FZ3=Wie lautet der passende ggT?
+Min=4000
+Max=4000
+Antwort_1=1	6
+Antwort_2=0	12
+Antwort_3=0	18
+Antwort_4=0	24
+
+[95]
+FZ1=Vier Zahlen wurden zu Primfaktoren zerlegt
+FZ2=2·2·3·5;    2·2·3·3·11;   2·2·3·3·7;  ;  2·2·3·5·13
+FZ3=Wie lautet der passende ggT?
+Min=16000
+Max=16000
+Antwort_1=1	12
+Antwort_2=0	30
+Antwort_3=0	44
+Antwort_4=0	52
+
+[96]
+FZ1=Drei Nenner wurden zu Primfaktoren zerlegt
+FZ2=2·2·2;    2·2·3;   2·3·3
+FZ3=Wie lautet der passende Hauptnenner?
+Min=4000
+Max=4000
+Antwort_1=1	72
+Antwort_2=0	24
+Antwort_3=0	18
+Antwort_4=0	54
+
+[97]
+FZ1=Vier Zahlen wurden zu Primfaktoren zerlegt
+FZ2=2·2·3·5;    2·3·3·5;   2·2·3·3·5;  ;  2·3·5
+FZ3=Wie lautet der passende ggT?
+Min=16000
+Max=16000
+Antwort_1=1	30
+Antwort_2=0	20
+Antwort_3=0	40
+Antwort_4=0	60
+
+[98]
+FZ1=
+FZ2=#Bruchrechnen #erweitern #kürzen
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[99]
+FZ1=Überprüfe die Gleichungen
+FZ2=(1/5 + 2/5)·4=12/5;   (7/10 - 4/10)·5=3/2;   (1/6 + 4/6)·9=15/2;   (5/7 - 3/7)·3
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	alle richtig
+Antwort_2=0	zwei richtig
+Antwort_3=0	eine richtig
+Antwort_4=0	drei richtig
+
+[100]
+FZ1=
+FZ2=2/5=6/15;   12/28=3/7;   122/122=1;    3=12/4
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	alle Aussagen stimmen
+Antwort_2=0	eine Aussage stimmt
+Antwort_3=0	zwei Aussagen stimmen
+Antwort_4=0	drei Aussagen stimmen
+
+[101]
+FZ1=
+FZ2=3/5=21/35;     18/24=9/12;      49/77=7/11;     12/124=1/12
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	alle Aussagen stimmen
+Antwort_2=0	ein Aussage stimmt
+Antwort_3=0	zwei Aussagen stimmen
+Antwort_4=1	drei Aussagen stimmen
+
+[102]
+FZ1=
+FZ2=unechter Bruch
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	Zähler größer als Nenner
+Antwort_2=0	Nenner größer als Zähler
+Antwort_3=0	Zähler und Nenner gleich groß
+Antwort_4=0	In einer Zahl steht ein Komma
+
+[103]
+FZ1=
+FZ2=echter Bruch
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	Zähler kleiner als Nenner
+Antwort_2=0	Nenner kleiner als Zähler
+Antwort_3=0	Zähler und Nenner gleich groß
+Antwort_4=0	vor dem Bruch steht eine ganze Zahl
+
+[104]
+FZ1=
+FZ2=Den Bruchstrich kann man vergleichen mit
+FZ3=
+Min=100
+Max=100
+Antwort_1=1	Divisionszeichen
+Antwort_2=0	Pluszeichen
+Antwort_3=0	Malzeichen
+Antwort_4=0	Minuszeichen
+
+[105]
+FZ1=
+FZ2=#Ordnen von Brüchen #Hauptnenner
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[106]
+FZ1=
+FZ2=Welche Reihe der Brüche ist von klein (links) nach groß geordnet?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	4/8; 4/7; 4/6; 4/5
+Antwort_2=0	4/5; 4/6; 4/7; 4/8
+Antwort_3=0	4/6; 4/5; 4/7; 4/8
+Antwort_4=0	4/5; 4/6; 4/8; 4/7
+
+[107]
+FZ1=
+FZ2=Welche Reihe der Brüche ist von klein (links) nach groß geordnet?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	9/13; 9/12; 9/11; 9/10
+Antwort_2=0	9/10; 9/11; 9/12; 9/13
+Antwort_3=0	9/11; 9/10; 9/12; 9/13
+Antwort_4=0	9/11; 9/10; 9/13; 9/12
+
+[108]
+FZ1=
+FZ2=Welche Reihe der Brüche ist von klein (links) nach groß geordnet?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	1/2; 2/3; 3/4; 4/5
+Antwort_2=0	4/5; 3/4; 2/3; 1/2
+Antwort_3=0	1/2; 3/4; 2/3; 4/5
+Antwort_4=0	4/5; 3/4; 1/2; 2/3
+
+[109]
+FZ1=
+FZ2=Welche Reihe der Brüche ist von klein (links) nach groß geordnet?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	4/5; 4/6; 4/7; 4/8
+Antwort_2=0	4/8; 4/7; 4/6; 4/5
+Antwort_3=0	4/7; 4/8; 4/6; 4/5
+Antwort_4=0	4/8; 4/7; 4/5; 4/6
+
+[110]
+FZ1=
+FZ2=Welche Reihe der Brüche ist von klein (links) nach groß geordnet?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	1/2; 3/5; 7/10; 3/4
+Antwort_2=0	3/4; 3/5; 7/10; 1/2
+Antwort_3=0	1/2; 3/5; 7/10; 3/4
+Antwort_4=0	1/2; 7/10; 3/5; 3/4
+
+[111]
+FZ1=
+FZ2=Welche Reihe der Brüche ist von klein (links) nach groß geordnet?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	1/2; 7/10; 3/4; 4/5
+Antwort_2=0	1/2; 3/4; 7/10; 4/5
+Antwort_3=0	1/2; 3/4; 4/5; 7/10
+Antwort_4=0	1/2; 4/5; 7/10; 3/4
+
+[112]
+FZ1=
+FZ2=Eine Aussage stimmt nicht!
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	7/9>4/5
+Antwort_2=0	3/4>5/7
+Antwort_3=0	5/8>3/5
+Antwort_4=0	7/8>9/11
+
+[113]
+FZ1=
+FZ2=Eine Aussage stimmt nicht!
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	4/7>2/3
+Antwort_2=0	5/8>3/4
+Antwort_3=0	4/5>8/11
+Antwort_4=0	6/7>9/11
+
+[114]
+FZ1=
+FZ2=Eine Aussage stimmt nicht!
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	9/11>9/10
+Antwort_2=0	8/9>8/13
+Antwort_3=0	16/23>16/31
+Antwort_4=0	99/100>99/1000
+
+[115]
+FZ1=
+FZ2=Eine Aussage stimmt nicht!
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	13/25>13/15
+Antwort_2=0	12/17>12/27
+Antwort_3=0	99/111>99/112
+Antwort_4=0	6/7>6/8
+
+[116]
+FZ1=Vier Nenner wurden zu Primfaktoren zerlegt
+FZ2=2;   2·2;    2·3;   2·5;  2·2·5
+FZ3=Wie lautet der passende Hauptnenner?
+Min=16000
+Max=16000
+Antwort_1=1	60
+Antwort_2=0	20
+Antwort_3=0	40
+Antwort_4=0	50
+
+[117]
+FZ1=
+FZ2=#Dezimalzahlen
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[118]
+FZ1=Streiche von der folgenden Zahl alle unnötigen Nullen
+FZ2=00,100100
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	0,1001
+Antwort_2=0	1001
+Antwort_3=0	0,11
+Antwort_4=0	00,1001
+
+[119]
+FZ1=Streiche von der folgenden Zahl alle unnötigen Nullen
+FZ2=03,0000001000
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	3,0000001
+Antwort_2=0	3,000000100
+Antwort_3=0	31
+Antwort_4=0	3,1
+
+[120]
+FZ1=Streiche von der folgenden Zahl alle unnötigen Nullen
+FZ2=0500,05000500
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	500,050005
+Antwort_2=0	5,55
+Antwort_3=0	555
+Antwort_4=0	500,50005
+
+[121]
+FZ1=Streiche von der folgenden Zahl alle unnötigen Nullen
+FZ2=00090,00009009000
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	90,00009009
+Antwort_2=0	9,99
+Antwort_3=0	999
+Antwort_4=0	90,99
+
+[122]
+FZ1=
+FZ2=Welche Reihe der Brüche ist von klein (links) nach groß geordnet?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	0,00102;  0,0102;  0,102;  1,02
+Antwort_2=0	0,00102;  0,102;  0,0102;  1,02
+Antwort_3=0	0,0102; 0,00102; 0,102; 1,02
+Antwort_4=0	1,02;  0,102;  0,0102;  0,00102
+
+[123]
+FZ1=
+FZ2=Welche Reihe der Brüche ist von klein (links) nach groß geordnet?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	5,050505; 50,50505; 505,0505; 5050,505
+Antwort_2=0	5,050505; 505,0505; 50,50505; 5050,505
+Antwort_3=0	5050,505; 50,50505; 505,0505; 50505,05
+Antwort_4=0	505050,5; 50,50505; 505,0505; 50,50505
+
+[124]
+FZ1=
+FZ2=#Dezimalzahlen Punktrechnung
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[125]
+FZ1=Wähle das passende Ergebnis.
+FZ2=23·0,2
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	4,6
+Antwort_2=0	0,46
+Antwort_3=0	46
+Antwort_4=0	460
+
+[126]
+FZ1=Wähle das passende Ergebnis.
+FZ2=0,3·22
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	6,6
+Antwort_2=0	0,66
+Antwort_3=0	66
+Antwort_4=0	660
+
+[127]
+FZ1=Wähle das passende Ergebnis.
+FZ2=0,1·0,10
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	0,01
+Antwort_2=0	1,0
+Antwort_3=0	1
+Antwort_4=0	0,1
+
+[128]
+FZ1=Wähle das passende Ergebnis.
+FZ2=10,01·0,1
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	1,001
+Antwort_2=0	100,1
+Antwort_3=0	10,01
+Antwort_4=0	1001
+
+[129]
+FZ1=Wähle das passende Ergebnis.
+FZ2=0,2·0,2·0,2
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	0,008
+Antwort_2=0	8000
+Antwort_3=0	8
+Antwort_4=0	0,8
+
+[130]
+FZ1=Wähle das passende Ergebnis.
+FZ2=0,3·0,3·0,3
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	0,027
+Antwort_2=0	27,0
+Antwort_3=0	0,27
+Antwort_4=0	2,700
+
+[131]
+FZ1=Wähle das passende Ergebnis.
+FZ2=55·0,02·0,001
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	0,0011
+Antwort_2=0	0,11
+Antwort_3=0	11
+Antwort_4=0	0,00011
+
+[132]
+FZ1=Wähle das passende Ergebnis.
+FZ2=44·0,00020·1,0
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	0,0088
+Antwort_2=0	88
+Antwort_3=0	0,88
+Antwort_4=0	0,000088
+
+[133]
+FZ1=Ein Ergebnis stimmt
+FZ2=2,2:2
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	1,1
+Antwort_2=0	0,11
+Antwort_3=0	11
+Antwort_4=0	0,011
+
+[134]
+FZ1=Ein Ergebnis stimmt
+FZ2=6,6:3
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	2,2
+Antwort_2=0	0,22
+Antwort_3=0	22
+Antwort_4=0	0,022
+
+[135]
+FZ1=Ein Ergebnis stimmt
+FZ2=0,6:0,6
+FZ3=
+Min=100
+Max=100
+Antwort_1=1	1
+Antwort_2=0	6
+Antwort_3=0	0,1
+Antwort_4=0	10
+
+[136]
+FZ1=Ein Ergebnis stimmt
+FZ2=4,2:4,2
+FZ3=
+Min=100
+Max=100
+Antwort_1=1	1
+Antwort_2=0	4,2
+Antwort_3=0	0,1
+Antwort_4=0	42
+
+[137]
+FZ1=Ein Ergebnis stimmt
+FZ2=2,20:1,1
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	2,0
+Antwort_2=0	0,2
+Antwort_3=0	22
+Antwort_4=0	0,02
+
+[138]
+FZ1=Ein Ergebnis stimmt
+FZ2=8,8:2,2
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	4,0
+Antwort_2=0	0,04
+Antwort_3=0	0,4
+Antwort_4=0	40
+
+[139]
+FZ1=
+FZ2=#Vergleich Bruch Dezimalzahl
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[140]
+FZ1=
+FZ2=Welche Aussage ist falsch?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1	1/2 = 1,2
+Antwort_2=0	1/10 = 0,1
+Antwort_3=0	3/4 = 0,75
+Antwort_4=0	0,8 = 8/10
+
+[141]
+FZ1=
+FZ2=Welche Aussage ist falsch?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	2/5=0,25
+Antwort_2=0	1,2=12/10
+Antwort_3=0	0,7=7/10
+Antwort_4=0	4/25=0,16
+
+[142]
+FZ1=Überprüfe die Gleichungen
+FZ2=2/125=0,016;  0,8=4/5;  0,625=5/8;  56/50=1,12
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0	Zwei sind richtig.
+Antwort_2=0	Eine ist richtig.
+Antwort_3=0	Drei sind richtig.
+Antwort_4=1	Alle sind richtig.
+
+[143]
+FZ1=Überprüfe die Gleichungen
+FZ2=3/125=0,024;  0,6=3/5;  0,025=1/4;  57/50=1,14
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0	alle richtig
+Antwort_2=0	zwei richtig
+Antwort_3=0	eine richtig
+Antwort_4=1	drei richtig
+
+[144]
+FZ1=
+FZ2=#Vergleich Bruch Dezimalzahl
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	richtig
+Antwort_2=0	falsch
+Antwort_3=0	falsch
+Antwort_4=0	falsch
+
+[145]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+

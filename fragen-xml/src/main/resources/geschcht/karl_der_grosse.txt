@@ -1,0 +1,259 @@
+[Thema]
+Thema=Karl der Große
+Fragen=23
+Autor=Karl-Heinz Riedel
+
+[1]
+FZ1=
+FZ2=Welches Reich übernahm Karl der Große?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1das Frankenreich	
+Antwort_2=0das griechische Reich	
+Antwort_3=0das Römische Reich	
+Antwort_4=0das ägyptische Reich	
+
+[2]
+FZ1=
+FZ2=Die Vergrößerung seines Reiches
+FZ3=erreichte Karl der Große hauptsächlich ......
+Min=1000
+Max=8000
+Antwort_1=0durch Erbschaft
+Antwort_2=0durch Kauf
+Antwort_3=1durch Kriege
+Antwort_4=0durch Verheiratung
+
+[3]
+FZ1=Karl der Große wollte nicht nur sein Reich vergrößern,
+FZ2=sondern auch .....
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0die Römer vertreiben
+Antwort_2=1den christlichen Glauben verbreiten
+Antwort_3=0den fränkischen Dialekt einführen
+Antwort_4=0Afrika erobern
+
+[4]
+FZ1=
+FZ2=Um sein Reich an den Grenzen
+FZ3=vor feindlichen Übergriffen zu schützen, ließ er ....
+Min=0
+Max=500
+Antwort_1=0den Limes bauen
+Antwort_2=0Soldaten patroullieren
+Antwort_3=0Fangzäune errichten
+Antwort_4=1Marken anlegen
+
+[5]
+FZ1=
+FZ2=Welches heutige Land war vollständig Teil seines Reiches?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0Italien
+Antwort_2=0Spanien
+Antwort_3=0Dänemark
+Antwort_4=1Frankreich
+
+[6]
+FZ1=
+FZ2=Welche war keine Mark Karls des Großen?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1die Deutsche Mark
+Antwort_2=0die Spanische Mark
+Antwort_3=0die Dänische Mark
+Antwort_4=0die Bretonische Mark
+
+[7]
+FZ1=
+FZ2=Karl der Große war ein ......
+FZ3=
+Min=0
+Max=500
+Antwort_1=0fränkischer Papst
+Antwort_2=0römischer Legionär
+Antwort_3=1bedeutender Feldherr
+Antwort_4=0Spitzname eines Kaisers
+
+[8]
+FZ1=
+FZ2=Was konnte Karl der Große nur wenig?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1schreiben
+Antwort_2=0rechnen
+Antwort_3=0reiten
+Antwort_4=0jagen
+
+[9]
+FZ1=Karl der Große lebte ......
+FZ2=
+FZ3=
+Min=0
+Max=500
+Antwort_1=1ca. 750 n. Chr.
+Antwort_2=0um Christi Geburt
+Antwort_3=0ca. 1600 n. Chr.
+Antwort_4=0ca. 800 v. Chr.
+
+[10]
+FZ1=Um sein riesiges Reich verwalten zu können, unterteilte er es in .....
+FZ2=
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Regierungsbezirke
+Antwort_2=0Provinzen
+Antwort_3=1Grafschaften
+Antwort_4=0Reichsländer
+
+[11]
+FZ1=Wozu besaß Karl der Große mehrere Königshöfe?
+FZ2=
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0um seinen Reichtum zu zeigen
+Antwort_2=0um seine große Verwandtschaft	unterzubringen
+Antwort_3=0um dort Könige	aus anderen Ländern zu empfangen
+Antwort_4=1um dort bei seinen Reisen zu wohnen
+
+[12]
+FZ1=
+FZ2=Welche Aufgabe hatte der Mundschenk?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0als Geistlicher reichte er	den Kelch mit Wein
+Antwort_2=0er war königlicher Metzger
+Antwort_3=1er war für die Getränke verantwortlich
+Antwort_4=0er verschenkte verderbliche	Speisen an die Armen
+
+[13]
+FZ1=
+FZ2=Wo war die Lieblingspfalz Karls des Großen?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0in Rom
+Antwort_2=1in Aachen
+Antwort_3=0in London
+Antwort_4=0in Würzburg
+
+[14]
+FZ1=
+FZ2=Welche Aussage passt zu Karl dem Großen?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0er lebte ständig	in seinem Lieblingsschloss
+Antwort_2=0er konnte nicht reiten
+Antwort_3=0seine Körpergröße betrug 2 Meter
+Antwort_4=1er legte in 24 Jahren	82 000 km zurück
+
+[15]
+FZ1=
+FZ2=Welche Aufgabe hatten die Schöffen?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1sie hielten zusammen mit	den Grafen Gerichtsverhandlungen
+Antwort_2=0sie schöpften Wasser	aus den Brunnen
+Antwort_3=0sie verstärkten das Heer
+Antwort_4=0sie verwalteten die Marken
+
+[16]
+FZ1=
+FZ2=Wie hieß der Bruder Karls des Großen?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0Karl der Jüngere
+Antwort_2=0Karl der Kleine
+Antwort_3=1Karlmann
+Antwort_4=0Karolus
+
+[17]
+FZ1=
+FZ2=Die Unterschrift Karls des Großen war nur gültig, ....
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0wenn sie mit Blut  geschrieben war
+Antwort_2=1wenn er den Haken am	Buchstaben L selbst anbrachte
+Antwort_3=0wenn man neben dem Schriftzug	seinen Fingerabdruck	erkennen konnte
+Antwort_4=0wenn sein Name wie	KAROLUS	aussah
+
+[18]
+FZ1=
+FZ2=Karl der Große fertigte für sein Reich .....
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0eine eigene Bibel
+Antwort_2=0eine eigene Briefmarke
+Antwort_3=0ein eigenes Schloss
+Antwort_4=1eine eigene Münze
+
+[19]
+FZ1=
+FZ2=Über 30 Jahre Krieg führte Karl der Große ....
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1gegen die Sachsen
+Antwort_2=0gegen die Bayern
+Antwort_3=0gegen die Römer
+Antwort_4=0gegen die Araber
+
+[20]
+FZ1=
+FZ2=In welchem Jahr wurde Karl zum Kaiser gekrönt?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0800 v. Chr.
+Antwort_2=0333 n. Chr.
+Antwort_3=1800 n. Chr.
+Antwort_4=0550 v. Chr.
+
+[21]
+FZ1=
+FZ2=Von wem wurde Karl der Große zum Kaiser gekrönt?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0von Petrus
+Antwort_2=0von seinem Bruder
+Antwort_3=0von Pipin
+Antwort_4=1von Papst Leo
+
+[22]
+FZ1=Welche Beschreibung passt zu Karl dem Großen?
+FZ2=
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0er trug einen langen Zopf
+Antwort_2=1er war fast 2 Meter groß
+Antwort_3=0er wurde in einer Sänfte getragen
+Antwort_4=0er kämpfte mit Pfeil und Bogen
+
+[23]
+FZ1=
+FZ2=Was kann man heute noch in seiner Pfalzkapelle besichtigen?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0sein Reitpferd
+Antwort_2=1seinen Thron
+Antwort_3=0seine handschriftlichen	Tagebücher
+Antwort_4=0seine Münzsammlung
+
+

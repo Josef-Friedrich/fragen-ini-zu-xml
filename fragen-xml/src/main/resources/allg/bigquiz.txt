@@ -1,0 +1,3306 @@
+[Thema]
+Thema=
+Fragen=300
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Was wird mit der Webtechnik  n i c h t  hergestellt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Drift
+Antwort_2=0Gabardine
+Antwort_3=0Taft
+Antwort_4=0Kord
+
+[2]
+FZ1=
+FZ2=Wofür wird das "Blaue Band" vergeben ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1für die schnellste Atlantiküberquerung	mit einem Passagierschiff
+Antwort_2=0für die schnellste Atlantiküberquerung	mit einem Flugzeug
+Antwort_3=0für die schnellste Atlantiküberquerung	mit einem Segelschiff
+Antwort_4=0für die Atlantiküberquerung mit einem	Ballon
+
+[3]
+FZ1=
+FZ2=Was ist eine "Schimäre" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein Hirngespinst
+Antwort_2=0ein großes Schiff
+Antwort_3=0eine Gondel
+Antwort_4=0eine phantasievolle Frau
+
+[4]
+FZ1=
+FZ2=Wie wird die Zeit der deutschen literarischen Hochblüte von 1785 - 1805 bezeichnet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Klassik
+Antwort_2=0Romatik
+Antwort_3=0Sturm und Drang
+Antwort_4=0Barock
+
+[5]
+FZ1=
+FZ2=Welcher Stoff wird bei der Lebens- und Genussmitteltechnik nicht fermentiert ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Wurstwaren
+Antwort_2=0Käse
+Antwort_3=0Tabak
+Antwort_4=0Tee
+
+[6]
+FZ1=
+FZ2=Wann wurde der Sage nach Rom erbaut ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1753 v. Chr.
+Antwort_2=0214 v. Chr.
+Antwort_3=02091 v. Chr.
+Antwort_4=088 v. Chr.
+
+[7]
+FZ1=
+FZ2=Welches der folgenden Dinge befindet sich manchmal in Austern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Perlen
+Antwort_2=0Ringe
+Antwort_3=0Geldstücke
+Antwort_4=0Silber
+
+[8]
+FZ1=
+FZ2=Was bedeutet "AOC" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Appellation d´Origini Controlée
+Antwort_2=0and other centres
+Antwort_3=0alles ohne Kontrolle
+Antwort_4=0Abfüllung ohne Kontrolle
+
+[9]
+FZ1=
+FZ2=Wie wird ein in spezieller Weise bewehrter Stahlbeton bezeichnet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Spannbeton
+Antwort_2=0Drahtbeton
+Antwort_3=0Magerbeton
+Antwort_4=0Zugbeton
+
+[10]
+FZ1=
+FZ2=In welchem der folgenden Länder befindet sich die Provinz "Connacht" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Irland
+Antwort_2=0Belgien
+Antwort_3=0Frankreich
+Antwort_4=0England
+
+[11]
+FZ1=
+FZ2=Die lautesten Meeressäuger der Welt sind die Blauwale. Bis in welche Entfernung
+FZ3=kann man ihre "Gesänge" unter Wasser hören ?
+Min=64000
+Max=500000
+Antwort_1=1bis 850 km
+Antwort_2=0bis 250 km
+Antwort_3=0bis 450 km
+Antwort_4=0bis 100 km
+
+[12]
+FZ1=
+FZ2=Welcher Begriff kann  n i c h t  mit einer Werkzeugmaschine zum Drehen
+FZ3=in Verbindung gebracht werden ?
+Min=64000
+Max=500000
+Antwort_1=1Drehgestell
+Antwort_2=0Drehbank
+Antwort_3=0Drehautomat
+Antwort_4=0Drehherz
+
+[13]
+FZ1=
+FZ2=Welche Verkehrsstraße verbindet das Rote Meer mit dem Mittelmeer ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Suez-Kanal
+Antwort_2=0Kanal von Korinth
+Antwort_3=0Panama-Kanal
+Antwort_4=0Kaiser-Kanal
+
+[14]
+FZ1=
+FZ2=Was ist "absolute Kunst" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1gegenstandslose Kunst
+Antwort_2=0gegenständliche Kunst
+Antwort_3=0sehr alte Kunst
+Antwort_4=0unkommerzielle Kunst
+
+[15]
+FZ1=
+FZ2=Wie heißt der Erfinder aus Walt Disneys Entenhausen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Daniel Düsentrieb
+Antwort_2=0David Düsentrieb
+Antwort_3=0Manuel Düsentrieb
+Antwort_4=0Michael Düsentrieb
+
+[16]
+FZ1=
+FZ2=Welches ist das Hauptmerkmal von Wood´schen Metallen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1leicht schmelzbar
+Antwort_2=0schwer schmelzbar
+Antwort_3=0leicht schmiedbar
+Antwort_4=0nicht löslich in Säuren
+
+[17]
+FZ1=
+FZ2=Für was steht der Name "Thin Lizzy" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1fü ein Auto
+Antwort_2=0für einen Robotertyp
+Antwort_3=0für ein Fahrrad
+Antwort_4=0für eine Konservenmarke
+
+[18]
+FZ1=
+FZ2=Wen bezeichnet man als einen "Parvenü" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1einen Emporkömmling
+Antwort_2=0einen Frauenhelden
+Antwort_3=0einenVerräter
+Antwort_4=0einen besonders eitlen Menschen
+
+[19]
+FZ1=
+FZ2=Wer war Helmut Gollwitzer ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein evangelischer Theologe
+Antwort_2=0ein surrealistischer Maler
+Antwort_3=0ein katholischer Theologe
+Antwort_4=0ein Journalist, der sich in der	Hauptsache kritisch mit der katholischen	Kirche auseinander setzte
+
+[20]
+FZ1=
+FZ2=Was ist mit einem "Drahtstift" gemeint" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Nagel
+Antwort_2=0ein Haken
+Antwort_3=0eine Schraube
+Antwort_4=0eine Heftklammer
+
+[21]
+FZ1=
+FZ2=Welcher Zug fuhr früher von Paris nach Istanbul ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1der Orientexpress
+Antwort_2=0der Sultansexpress
+Antwort_3=0der Okzidentexpress
+Antwort_4=0der Türkeiexpress
+
+[22]
+FZ1=
+FZ2=er hilft dem Aschenputtel aus dem gleichnamigen Märchen bei den von ihrer
+FZ3=Stiemutter aufgetragenen Strafarbeiten ?
+Min=2000
+Max=32000
+Antwort_1=1Tauben
+Antwort_2=0ihr Freund
+Antwort_3=0Katzen
+Antwort_4=0ihre Stiefschwestern
+
+[23]
+FZ1=
+FZ2=Was bedeutet der Bestandteil "Mac" in schottischen und irischen Namen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Sohn
+Antwort_2=0Herr
+Antwort_3=0Enkel
+Antwort_4=0Vater
+
+[24]
+FZ1=
+FZ2=Welcher Baustil ahmte die antiken Bauwerke nach ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Klassizismus
+Antwort_2=0Rokoko
+Antwort_3=0Barock
+Antwort_4=0Biedermeier
+
+[25]
+FZ1=
+FZ2=Wer war "Ganymedes" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1der Mundschenk des Zeus
+Antwort_2=0ein berühmter Feldherr der	griechischen Antike
+Antwort_3=0ein Dichter der griechischen Antike
+Antwort_4=0ein griechischer Halbgott
+
+[26]
+FZ1=
+FZ2=Was ist eine "Mimese" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1eine Schutzanpassung bei Tieren,	indem sie die Gestalt oder Farbe von	leblosen Gegenständen annehmen
+Antwort_2=0eine Zellteilung
+Antwort_3=0eine Warntracht von Tieren, die dann	wie giftige oder ungenießbare Tiere	aussehen
+Antwort_4=0eine Zellverdopplung
+
+[27]
+FZ1=
+FZ2=Was versteht man unter einer "Verklappung" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1twas von einem Schiff ins offene Meer	ablassen
+Antwort_2=0etwas durch Klappen in einem Schiff	abgrenzen
+Antwort_3=0etwas durch Klappen in einem LKW	abgrenzen
+Antwort_4=0durch Schranken den Verkehr leiten
+
+[28]
+FZ1=
+FZ2=Was ist  k e i n e  Abkürzung für ein Gesetz oder eine Verordnung
+FZ3=im Straßenverkehr ?
+Min=64000
+Max=500000
+Antwort_1=1StVW
+Antwort_2=0StVO
+Antwort_3=0StVG
+Antwort_4=0StVR
+
+[29]
+FZ1=
+FZ2=Wer oder was ist ein "Pallasch" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein schwerer Degen
+Antwort_2=0ein Schwertkämpfer
+Antwort_3=0ein Schwertkampf
+Antwort_4=0eine ungarische Spezialität
+
+[30]
+FZ1=
+FZ2=Welcher der folgenden Vulkane befindet sich auf der Insel Bali ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1der Agung
+Antwort_2=0der Kilauea
+Antwort_3=0der Mauna Kea
+Antwort_4=0der Ararat
+
+[31]
+FZ1=
+FZ2=Welcher Widerstand kommt beim Wechselstrom  n i c h t  vor ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Rollwiderstand
+Antwort_2=0Blindwiderstand
+Antwort_3=0Scheinwiderstand
+Antwort_4=0Kapazitiver Widerstand
+
+[32]
+FZ1=
+FZ2=Aus welcher Oper stammt die Arie "Oh, wie so trügerisch sind Weiberherzen" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Rigoletto
+Antwort_2=0Carmen
+Antwort_3=0Don Giovanni
+Antwort_4=0Der Zigeunerbaron
+
+[33]
+FZ1=
+FZ2=Was bildet sich der Mensch ein, der unter "Nosomanie" leidet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1dass er schwer krank ist
+Antwort_2=0dass es überall stinkt
+Antwort_3=0dass er verfolgt wird
+Antwort_4=0dass er nie wirklich geliebt wird
+
+[34]
+FZ1=
+FZ2=Welches Werk gilt als das Hauptwerk von Stendhal (eig. Marie Henri Beyle) ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Die Kartause von Parma
+Antwort_2=0Fräulein Julie
+Antwort_3=0Krieg und Frieden
+Antwort_4=0Die Schatzinsel
+
+[35]
+FZ1=
+FZ2=Was versteht man unter "Thomasverfahren" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein Verfahren zur Stahlgewinnung
+Antwort_2=0ein Verfahren zum Bronzeguss
+Antwort_3=0ein Verfahren zur Herstellung eines	Akkus
+Antwort_4=0ein Verfahren zur	Düngemittelproduktion
+
+[36]
+FZ1=
+FZ2=In welchem Jahr wurde der Staat Israel gegründet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11948
+Antwort_2=01944
+Antwort_3=01955
+Antwort_4=01961
+
+[37]
+FZ1=
+FZ2=Was bezeichnet der Ausdruck "Melanismus" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1die Dunkelfärbung der Körperoberfläche
+Antwort_2=0eine Sprachstörung
+Antwort_3=0eine motorische Störung
+Antwort_4=0eine Sonnenallergie
+
+[38]
+FZ1=
+FZ2=In welchem Bereich der Physik wird die "Rechte-Hand-Regel" angewendet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Elektrizitätslehre
+Antwort_2=0Akustik
+Antwort_3=0Mechanik
+Antwort_4=0Kernphysik
+
+[39]
+FZ1=
+FZ2=Welcher Autotunnel liegt  n i c h t  in der Schweiz ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Katschbergtunnel
+Antwort_2=0St.-Bernhard-Tunnel
+Antwort_3=0Lötschbergtunnel
+Antwort_4=0St.-Gotthard-Tunnel
+
+[40]
+FZ1=
+FZ2=Wo wurde in der Nacht vom 25. zum 26. April 1792 die Marseillaise vom Offizier
+FZ3=Rouget de Lisle gedichtet und vertont ?
+Min=64000
+Max=500000
+Antwort_1=1Straßburg
+Antwort_2=0Montpellier
+Antwort_3=0Marseille
+Antwort_4=0Bordeaux
+
+[41]
+FZ1=
+FZ2=Von welchem der folgenden französischen Schriftsteller stammt der Roman
+FZ3="Kinder der Nacht"   ("Les enfants terribles") ?
+Min=64000
+Max=500000
+Antwort_1=1Jean Cocteau
+Antwort_2=0Gustave Flaubert
+Antwort_3=0Charles Baudelaire
+Antwort_4=0Arthur Rimbaud
+
+[42]
+FZ1=
+FZ2=Wie wird eine Vorrichtung zum Festhalten von Werkstücken auf
+FZ3=Werkzeugmaschinen bezeichnet ?
+Min=64000
+Max=500000
+Antwort_1=1Spannfutter
+Antwort_2=0Fütterung
+Antwort_3=0Kraftfutter
+Antwort_4=0Futteral
+
+[43]
+FZ1=
+FZ2=Wen oder was führt der Funkstrahl in die gewünschte Richtung ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Flugzeuge
+Antwort_2=0Schiffe
+Antwort_3=0Omnibusse
+Antwort_4=0Autos
+
+[44]
+FZ1=
+FZ2=Womit waren die Masken gefüllt, die die Ärzte im 17. Jahrhundert trugen,
+FZ3=um sich vor der Pest zu schützen ?
+Min=64000
+Max=500000
+Antwort_1=1mit Gewürzen
+Antwort_2=0mit Medikamenten
+Antwort_3=0mit Alkohol
+Antwort_4=0mit Papier
+
+[45]
+FZ1=
+FZ2=In welchem Bundesstaat der USA befindet sich der "Bad Lands National Park" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1in South Dakota
+Antwort_2=0in Georgia
+Antwort_3=0in Colorado
+Antwort_4=0in Oregon
+
+[46]
+FZ1=
+FZ2=Was wird mit einem "Dosimeter" gemessen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1radioaktive Strahlung
+Antwort_2=0Strömungsgeschwindigkeit
+Antwort_3=0Sonnenlicht
+Antwort_4=0Luftdruck
+
+[47]
+FZ1=
+FZ2=Was bedeutet "Megalomanie" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Größenwahn
+Antwort_2=0Angst vor großen Räumen
+Antwort_3=0Gemisch
+Antwort_4=0Angst vor großen Tieren
+
+[48]
+FZ1=
+FZ2=In wie viele Hauptteile gliedert sich Genesis, das erste Buch des Pentateuch ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1in zwei Hauptteile
+Antwort_2=0in drei Hauptteile
+Antwort_3=0in einen Hauptteil
+Antwort_4=0in vier Hauptteile
+
+[49]
+FZ1=
+FZ2=Was ist ein "Ritzel" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1das kleine Rad eines Räderwerks
+Antwort_2=0ein Regler in einer Uhr
+Antwort_3=0ein Gelenk zwischen Motor und	Kardanwelle
+Antwort_4=0ein Teil einer Nockenwelle
+
+[50]
+FZ1=
+FZ2=Wann erfand der Friseur Karl L. Nessler die Dauerwelle ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11906
+Antwort_2=01948
+Antwort_3=01888
+Antwort_4=01927
+
+[51]
+FZ1=
+FZ2=Welche der aufgeführten Städte liegt  n i c h t  am Rhein ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Freiburg
+Antwort_2=0Bonn
+Antwort_3=0Basel
+Antwort_4=0Düsseldorf
+
+[52]
+FZ1=
+FZ2=Wer sind die Reisegefährten von Alice aus dem Buch "Alice im Wunderland" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein Mann aus Blech, ein Löwe und eine	Vogelscheuche
+Antwort_2=0ein kleiner Junge, eine alte Frau und	ein Priester
+Antwort_3=0ein Müllmann, ein Hund und eine	Marionette
+Antwort_4=0eine Prinzessin, ein Prinz und ein Rabe
+
+[53]
+FZ1=
+FZ2=Welcher der aufgeführten Stoffe ist "grenzflächenaktiv" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Tensid
+Antwort_2=0Borat
+Antwort_3=0Karbonat
+Antwort_4=0Vaseline
+
+[54]
+FZ1=
+FZ2=Wem zu Ehren wurden im antiken Griechenland die Olympischen Spiele
+FZ3=abgehalten ?
+Min=64000
+Max=500000
+Antwort_1=1zu Ehren von Zeus
+Antwort_2=0zu Ehren von Athene
+Antwort_3=0zu Ehren von Poseidon
+Antwort_4=0zu Ehren von Apollo
+
+[55]
+FZ1=
+FZ2=Wie heißt die Hauptstadt des österreichischen Bundeslandes Kärnten ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Klagenfurt
+Antwort_2=0Innsbruck
+Antwort_3=0Linz
+Antwort_4=0Graz
+
+[56]
+FZ1=
+FZ2=Was ist ein "Rekuperator" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein Wärmeaustauscher
+Antwort_2=0eine Wiedergabe
+Antwort_3=0eine Zugkraft
+Antwort_4=0ein Fließwiderstand
+
+[57]
+FZ1=
+FZ2=In welcher Dekade war der Bürstenhaarschnitt extrem populär ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1in den 1940er Jahren
+Antwort_2=0in den 1960er Jahren
+Antwort_3=0in den 1950er Jahren
+Antwort_4=0in den 1970er Jahren
+
+[58]
+FZ1=
+FZ2=Welche Nationalflagge trägt folgende Merkmale:
+FZ3=Grün-Weiß-Orange, hochgestreift
+Min=64000
+Max=500000
+Antwort_1=1Irland
+Antwort_2=0Luxemburg
+Antwort_3=0Bulgarien
+Antwort_4=0Italien
+
+[59]
+FZ1=
+FZ2=Wie lautet der Titel des von Michael Ende geschriebenen Buches richtig ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Jim Knopf und die wilde 13
+Antwort_2=0Jim Knopf und die wilde 11
+Antwort_3=0Jim Knopf und die wilde 12
+Antwort_4=0Jim Knopf und die wilde 10
+
+[60]
+FZ1=
+FZ2=Was ist "Askorbinsäure" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Vitamin E
+Antwort_2=0Vitamin A
+Antwort_3=0Vitamin C
+Antwort_4=0Vitamin B 1
+
+[61]
+FZ1=
+FZ2=Warum ist der Schienenabstand in Russland breiter als anderswo ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1weil man aus Versehen das Außenmaß	innen genommen hat
+Antwort_2=0weil die Konstruktion der schweren	Lokomotiven dies erforderte
+Antwort_3=0weil ein anderer Maßstab genommen	wurde
+Antwort_4=0weil der Zar dies so bestimmte
+
+[62]
+FZ1=
+FZ2=Worunter leidet Freyja, die nordisch-germanische Liebesgöttin ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1unter Liebeskummer
+Antwort_2=0unter Vergesslichkeit
+Antwort_3=0unter einer Sehstörung
+Antwort_4=0unter Angst vor der Dunkelheit
+
+[63]
+FZ1=
+FZ2=Was wird mit dem "Pyrometer" gemessen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1hohe Temperaturen
+Antwort_2=0die Wassertiefe
+Antwort_3=0tiefe Temperaturen
+Antwort_4=0der Ozongehalt
+
+[64]
+FZ1=
+FZ2=Welche der aufgeführten Sachen gehört  n i c h t zu den so genannten künstlichen
+FZ3=Welthilfssprachen ?
+Min=64000
+Max=500000
+Antwort_1=1Gudscharati
+Antwort_2=0Novial
+Antwort_3=0Esperanto
+Antwort_4=0Mondial
+
+[65]
+FZ1=
+FZ2=Was ist ein "Mellotron" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein elektromechanisches	Tasteninstrument
+Antwort_2=0ein elektromechanisches Blasinstrument
+Antwort_3=0ein elektromechanisches	Saiteninstrument
+Antwort_4=0ein Messgerät für Musik
+
+[66]
+FZ1=
+FZ2=Welche der folgenden Personen hat die hermeneutische Wissenschaft begründet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Wilhelm Dilthey
+Antwort_2=0Hans Robert Jaus
+Antwort_3=0Wolfgang Iser
+Antwort_4=0Noam Chomsky
+
+[67]
+FZ1=
+FZ2=Welcher Prozess steht hinter dem Begriff "Sintern" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Zusammenbacken
+Antwort_2=0Verdampfen
+Antwort_3=0Aufschmelzen
+Antwort_4=0Verflüssigen
+
+[68]
+FZ1=
+FZ2=In welchem Land wird mit "Sol" bezahlt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Peru
+Antwort_2=0Panama
+Antwort_3=0Guatemala
+Antwort_4=0Brasilien
+
+[69]
+FZ1=
+FZ2=Was bedeutet "marginal" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1nebensächlich
+Antwort_2=0unwichtig
+Antwort_3=0hauptsächlich
+Antwort_4=0beeinflussend
+
+[70]
+FZ1=
+FZ2=Was bezeichnet der Ausdruck "marin" in der Ökologie ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1aus dem Meer stammend, zum Meer	gehörend, im Meer lebend
+Antwort_2=0die Unfähigkeit von Organismen unter	Wasser leben zu können
+Antwort_3=0die Fähigkeit von Organismen unter	Wasser leben zu können
+Antwort_4=0eine bestimmte Färbung des Meeres
+
+[71]
+FZ1=
+FZ2=Aus welchem Material wird "Borsalino" hergestellt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Filz
+Antwort_2=0Baumwolle
+Antwort_3=0Leinen
+Antwort_4=0Hanf
+
+[72]
+FZ1=
+FZ2=Was ereignete sich im Jahr 1572 ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1die Bartholomäusnacht
+Antwort_2=0Martin Luther wird als Ketzer geächtet	und gebranntmarkt
+Antwort_3=0die Hinrichtung Maria Stewarts
+Antwort_4=0der Ausbruch der Bauernkriege
+
+[73]
+FZ1=
+FZ2=Welcher Komponist sagte: "Lieber heiraten als eine Oper schreiben" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Johannes Brahms
+Antwort_2=0Ludwig van Beethoven
+Antwort_3=0Robert Schumann
+Antwort_4=0Richard Wagner
+
+[74]
+FZ1=
+FZ2=Wer oder was ist ein "Phasenprüfer" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein Spannungsprüfer
+Antwort_2=0ein Walzstraßenprüfer
+Antwort_3=0ein Fließbandprüfer
+Antwort_4=0ein Abwasserprüfer
+
+[75]
+FZ1=
+FZ2=Für welchen Kanton der Schweiz steht das Autokennzeichen "SH" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Schaffhausen
+Antwort_2=0Solothurn
+Antwort_3=0St. Gallen
+Antwort_4=0Schwyz
+
+[76]
+FZ1=
+FZ2=Welcher der folgenden Ärzte entwickelte den Rötelimpfstoff ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Thomas H. Weller
+Antwort_2=0Albert Calmette
+Antwort_3=0Jonas E. Salk
+Antwort_4=0Camille Guérin
+
+[77]
+FZ1=
+FZ2=Welcher der folgenden Götter ist der Schöpfungsgott der Maori ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Tangaroa
+Antwort_2=0Boaitja
+Antwort_3=0Awonawilona
+Antwort_4=0Nocuma
+
+[78]
+FZ1=
+FZ2=Wer schuf 1956 mit seinem gleichnamigen Roman "Babydoll" einen Begriff,
+FZ3=der sich in der Modewelt durchsetzte ?
+Min=64000
+Max=500000
+Antwort_1=1Elia Kazan
+Antwort_2=0J. D. Salinger
+Antwort_3=0Tom Wolfe
+Antwort_4=0Henry Miller
+
+[79]
+FZ1=
+FZ2=An welchem Ort werden aus Tradition die Regenten Großbritanniens gekrönt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Westminster Abbey
+Antwort_2=0Buckingham Palace
+Antwort_3=0St. Paul´s Cathedral
+Antwort_4=0Royal Courts of Justice
+
+[80]
+FZ1=
+FZ2=Was bedeutet "Kohärenz" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Zusammenhang
+Antwort_2=0Zusammenfügung
+Antwort_3=0Zusammenschluss
+Antwort_4=0Zusammenhalt
+
+[81]
+FZ1=
+FZ2=Wer oder was ist der Hinduismus ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1eine Weltreligion
+Antwort_2=0ein Kinderspiel aus Israel
+Antwort_3=0ein ägyptischer Gott
+Antwort_4=0ein wildes, in Afrika lebendes Tier
+
+[82]
+FZ1=
+FZ2=Was wird in einem Kiesofen geröstet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Sulfide
+Antwort_2=0Holz
+Antwort_3=0Karbonate
+Antwort_4=0Brot
+
+[83]
+FZ1=
+FZ2=Was versteht man unter einem "People mover" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1eine Zahnradbahn
+Antwort_2=0ein Miniauto
+Antwort_3=0eine Seilbahn
+Antwort_4=0eine Fahrradrikscha
+
+[84]
+FZ1=
+FZ2=Womit beschäftigt sich die "Karpologie" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1mit Früchten
+Antwort_2=0mit Fischen
+Antwort_3=0mit Insekten
+Antwort_4=0mit Pflanzen
+
+[85]
+FZ1=
+FZ2=Wofür wird die Bezeichnung "lymabiont" in der Ökologie verwendet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1für Organismen, die nur im Salzwasser	leben
+Antwort_2=0für Organismen, die nur in süßlichen	Gewässern leben
+Antwort_3=0für Organismen, die nur im Holz leben
+Antwort_4=0für Organismen, die nur im Abwasser	oder im Faulschlamm leben
+
+[86]
+FZ1=
+FZ2=In welchem Jahr wurde Athen die Hauptstadt des heutigen modernen Griechenland ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11834
+Antwort_2=01720
+Antwort_3=01654
+Antwort_4=01912
+
+[87]
+FZ1=
+FZ2=Wer waren die Eltern des Hephaistos, dem griechischen Gott des Feuers
+FZ3=und der Schmiede ?
+Min=64000
+Max=500000
+Antwort_1=1Zeus und Hera
+Antwort_2=0Ares und Aphrodite
+Antwort_3=0Apollo und Artemis
+Antwort_4=0Poseidon und Demeter
+
+[88]
+FZ1=
+FZ2=Wann entdeckte Christoph Kolumbus Amerika ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11492
+Antwort_2=01502
+Antwort_3=01482
+Antwort_4=01512
+
+[89]
+FZ1=
+FZ2=Welcher Film ist von dem aus Frankreich stammenden Regisseur Francois Truffaut
+FZ3=gedreht worden ?
+Min=64000
+Max=500000
+Antwort_1=1Die amerikanische Nacht
+Antwort_2=0Der Außenseiter von Albertville
+Antwort_3=0Der Hauch des Todes
+Antwort_4=0Der Himmel über Paris
+
+[90]
+FZ1=
+FZ2=In welchem Jahr wurde Spanien nach der Vertreibung der letzten Moslems
+FZ3=wieder christlich ?
+Min=64000
+Max=500000
+Antwort_1=11492
+Antwort_2=01534
+Antwort_3=01782
+Antwort_4=01899
+
+[91]
+FZ1=
+FZ2=Was ist ein "Caban" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ein Herrenmantel mit Kapuze oder	besonders ausgeprägtem Kragen
+Antwort_2=0ein Blouson, das in den 1970er Jahren	sehr in Mode war
+Antwort_3=0ein besonders eng taillierter Rock
+Antwort_4=0ein gefütterter Schlafanzug für Frauen
+
+[92]
+FZ1=
+FZ2=Welche Grundzutat gehört  n i c h t  in die Gewürzmischung Curry ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Paprika
+Antwort_2=0Koriander
+Antwort_3=0Zimt
+Antwort_4=0Kreuzkümmel
+
+[93]
+FZ1=
+FZ2=Welcher Radsportler gewann zwischen 1970 und 1972 dreimal hintereinander die
+FZ3=Tour de France ?
+Min=64000
+Max=500000
+Antwort_1=1Eddy Merckx
+Antwort_2=0Guiseppe Saronni
+Antwort_3=0Jean-Pierre Monsère
+Antwort_4=0Bernard Hinault
+
+[94]
+FZ1=
+FZ2=Bei welcher Temperatur hat Eis seine größte Ausdehnung ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1- 4 °C
+Antwort_2=0- 12 °C
+Antwort_3=0- 10 °C
+Antwort_4=0- 8 °C
+
+[95]
+FZ1=
+FZ2=Was ist in der Mathematik ein "Intervall" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1eine Gesamtheit von Zahlen, die	zwischen zwei Zahlen liegt
+Antwort_2=0eine Gesamtheit von Brüchen, die	zwischen zwei geraden Zahlen liegt
+Antwort_3=0eine Gesamtheit von ungeraden Zahlen,	die zwischen zwei Zahlen liegt
+Antwort_4=0reele Zahlen über dem Bruchstrich
+
+[96]
+FZ1=
+FZ2=In welchem Land erhielten die Frauen erstmalig das volle Wahlrecht ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Ausralien
+Antwort_2=0Großbritannien
+Antwort_3=0Neuseeland
+Antwort_4=0Frankreich
+
+[97]
+FZ1=
+FZ2=Was bedeutet der aus dem Niederländischen stammende Begriff "Mannequin" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Männchen
+Antwort_2=0Schaufensterpuppe
+Antwort_3=0Model
+Antwort_4=0elegante Dame
+
+[98]
+FZ1=
+FZ2=In welcher Stadt kann man bei einem Restaurantbesuch die folgenden Speisen
+FZ3=bestellen: brambory, knedliky okurky und ryba ?
+Min=2000
+Max=32000
+Antwort_1=1Prag
+Antwort_2=0Zagreb
+Antwort_3=0Warschau
+Antwort_4=0Tirana
+
+[99]
+FZ1=
+FZ2=Welche Handwerker benutzt eine "Rakel" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der Drucker
+Antwort_2=0der Schuster
+Antwort_3=0der Mälzer
+Antwort_4=0der Küfer
+
+[100]
+FZ1=
+FZ2=Was hat mit dem Straßenverkehr  n i c h t s  zu tun ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Verkehrswert
+Antwort_2=0Verkehrsnetz
+Antwort_3=0Verkehrssicherheit
+Antwort_4=0Verkehrsinfarkt
+
+[101]
+FZ1=
+FZ2=Wer war bis Ende Juli 2002 Vorstandsvorsitzender der Bertelsmann AG ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Thomas Middelhoff
+Antwort_2=0Bernd Pietschenrieder
+Antwort_3=0Ron Sommer
+Antwort_4=0Ferdinand Piech
+
+[102]
+FZ1=
+FZ2=Wie nennt man den Weg, den Flugzeuge beim Überqueren fremder Staaten
+FZ3=nehmen müssen ?
+Min=2000
+Max=32000
+Antwort_1=1Luftkorridor
+Antwort_2=0Luftraum
+Antwort_3=0Luftdiele
+Antwort_4=0Luftröhre
+
+[103]
+FZ1=
+FZ2=Was ist  k e i n e  tropische Frucht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Quitte
+Antwort_2=0Litschi
+Antwort_3=0Mangostane
+Antwort_4=0Jackfrucht
+
+[104]
+FZ1=
+FZ2=In welchem nordeuropäischen Land werden Stabkirchen gebaut ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Norwegen
+Antwort_2=0Schweden
+Antwort_3=0Finnland
+Antwort_4=0Dänemark
+
+[105]
+FZ1=
+FZ2=Wie viel Liter Rohöl werden als Einheit zu einem Barrel zusammengefasst ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1159 Liter
+Antwort_2=0185 Liter
+Antwort_3=0125 Liter
+Antwort_4=0236 Liter
+
+[106]
+FZ1=
+FZ2=Welche Stadt passt  n i c h t  zu den anderen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Badajoz
+Antwort_2=0Coimbra
+Antwort_3=0Braga
+Antwort_4=0Setubal
+
+[107]
+FZ1=
+FZ2=Was versteht man unter dem Kürzel "AfA" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Absetzung für Abnutzung
+Antwort_2=0Absatzquote für Arbeitgeber
+Antwort_3=0Abschreibung für Abnutzung
+Antwort_4=0Abgaben für Abbindungen
+
+[108]
+FZ1=
+FZ2=Von wem stammt der Roman "Der Mann mit der eisernen Maske" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Alexandre Dumas
+Antwort_2=0Guy de Maupassant
+Antwort_3=0Jules Verne
+Antwort_4=0Honoré de Balzac
+
+[109]
+FZ1=
+FZ2=Was sind "Maultaschen" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1gefüllte Nudeltaschen
+Antwort_2=0gefüllte Crepes
+Antwort_3=0gefüllte Omeletts
+Antwort_4=0gefüllte Cannelloni
+
+[110]
+FZ1=
+FZ2=In welchem Handwerk werden Ruten- und Rundstuhl eingesetzt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1beim Weben
+Antwort_2=0beim Fliesenlegen
+Antwort_3=0beim Schmieden
+Antwort_4=0beim Schreinern
+
+[111]
+FZ1=
+FZ2=Was passiert mit der Trickfilmfigur Pumuckl, sobald eine fremde Person
+FZ3=den Raum betritt ?
+Min=2000
+Max=32000
+Antwort_1=1Er wird unsichtbar.
+Antwort_2=0Er bekommt schlechte Laune.
+Antwort_3=0Er muss niesen.
+Antwort_4=0Er wird kleiner.
+
+[112]
+FZ1=
+FZ2=Wie viele italienische Städte haben mehr als eine Millionen Einwohner ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=13
+Antwort_2=04
+Antwort_3=02
+Antwort_4=07
+
+[113]
+FZ1=
+FZ2=Was ist in der Technik ein "Storchschnabel" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1eine Zeichengerät zur Vergrößerung	oder Verkleinerung
+Antwort_2=0ein Vervielfältigungsgerät
+Antwort_3=0ein optisches gerät zum vergrößern
+Antwort_4=0ein Waagentyp
+
+[114]
+FZ1=
+FZ2=Wie nennt man den letzten Börsentag eines Monats ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ultimo
+Antwort_2=0point of no return
+Antwort_3=0Stichtag
+Antwort_4=0T-Day
+
+[115]
+FZ1=
+FZ2=Für welche Frucht ist "Schattenmorellen" ein anderer Name ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sauerkirschen
+Antwort_2=0Pflaumen
+Antwort_3=0Aprikosen
+Antwort_4=0Schlehen
+
+[116]
+FZ1=
+FZ2=Welchen Verkehrsweg bearbeiten die Arbeiter, die als Streckenarbeiter bezeichnet
+FZ3=werden ?
+Min=2000
+Max=32000
+Antwort_1=1einen Schienenabschnitt
+Antwort_2=0eine Wasserstraße
+Antwort_3=0einen Autobahnabschnitt
+Antwort_4=0einen Fahrradweg
+
+[117]
+FZ1=
+FZ2=Welchen Rennfahrer holte Michael Schumacher mit seinem fünften Weltmeistertitel
+FZ3=in der Rekordliste der Formel 1 ein ?
+Min=2000
+Max=32000
+Antwort_1=1Juan Manuel Fangio
+Antwort_2=0Stirling Moss
+Antwort_3=0Jackie Stewart
+Antwort_4=0Niki Lauda
+
+[118]
+FZ1=
+FZ2=Was versteht man unter einem "GAU" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1den größten anzunehmenden Unfall
+Antwort_2=0eine great assocated unit
+Antwort_3=0einen großen auftretenden Überschall
+Antwort_4=0ein grand atome unique
+
+[119]
+FZ1=
+FZ2=Was bedeutet der Begriff "Tara" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Gewicht der Verpackung
+Antwort_2=0Form der japanischen Dichtung
+Antwort_3=0Gerät zum Reinigen von Getreide
+Antwort_4=0ausgestorbenes europäisches Wildpferd
+
+[120]
+FZ1=
+FZ2=Wer ist für die Instandhaltung von Straßen zuständig ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Straßenmeisterei
+Antwort_2=0Straßenarbeiter
+Antwort_3=0Straßenjunge
+Antwort_4=0Straßenbahner
+
+[121]
+FZ1=
+FZ2=Welches der aufgeführten Länder ist das einwohnerschwächste in Mittelamerika ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Saint Kitts und Nevis
+Antwort_2=0Antigua und Barbuda
+Antwort_3=0Dominica
+Antwort_4=0Saint Vincent und die Grenadinen
+
+[122]
+FZ1=
+FZ2=Wer spielte den "braven Soldaten Schweijk" in der gleichnamigen deutschen
+FZ3=Verfilmung ?
+Min=2000
+Max=32000
+Antwort_1=1Heinz Rühmann
+Antwort_2=0Harald Juhnke
+Antwort_3=0Josef Meinrad
+Antwort_4=0Hans Albers
+
+[123]
+FZ1=
+FZ2=In welchem Land befindet sich einer der berühmtesten Wanderwege, dessen
+FZ3=Ausgangspunkt bzw. Endpunkt an den Milford Sound grenzt ?
+Min=2000
+Max=32000
+Antwort_1=1Neuseeland
+Antwort_2=0Kanada
+Antwort_3=0USA
+Antwort_4=0Schottland
+
+[124]
+FZ1=
+FZ2=Bei welchem Handwerk spielt der Begriff "backen"  k e i n e  Rolle ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1beim Zuckerbäcker
+Antwort_2=0beim Töpfer
+Antwort_3=0beim Bäcker
+Antwort_4=0beim Ziegelbrenner
+
+[125]
+FZ1=
+FZ2=Wie viel Prozent des Aktienkapitals einer AG müssen gehalten werden, um eine
+FZ3=Sperrminorität zu erlangen ?
+Min=2000
+Max=32000
+Antwort_1=1über 25 %
+Antwort_2=0über 50 %
+Antwort_3=0über 20 %
+Antwort_4=0über 66%
+
+[126]
+FZ1=
+FZ2=Wie heißt die Meerenge zwischen Spanien und Afrika ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Straße von Gibraltar
+Antwort_2=0Straße von Tarifa
+Antwort_3=0Straße von Melilla
+Antwort_4=0Straße von Ceuta
+
+[127]
+FZ1=
+FZ2=Wie nennt man in Fett ausgebackene zylindrische Kartoffelpüree-Stäbchen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kroketten
+Antwort_2=0Korsetts
+Antwort_3=0Korvetten
+Antwort_4=0Kokarden
+
+[128]
+FZ1=
+FZ2=Was bedeutet die Abkürzung "ISDN" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1integrated services digital network
+Antwort_2=0international system of digital notebooks
+Antwort_3=0international service daytime
+Antwort_4=0integrated system of dialog navigation
+
+[129]
+FZ1=
+FZ2=Welche Abgabenart wird  n i c h t  den generellen Abgaben zugeordnet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Beiträge
+Antwort_2=0Steuern
+Antwort_3=0Abschöpfungen
+Antwort_4=0Zölle
+
+[130]
+FZ1=
+FZ2=Welches Handwerk befasst sich mit Rauchwaren ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der Kürschner
+Antwort_2=0der Zigarettenhersteller
+Antwort_3=0der Zigarrendreher
+Antwort_4=0der Bäcker
+
+[131]
+FZ1=
+FZ2=Wie wird die Gebühr für die Brücken- und Straßenbenutzung bezeichnet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Maut
+Antwort_2=0Malz
+Antwort_3=0Mall
+Antwort_4=0Matur
+
+[132]
+FZ1=
+FZ2=Worauf wurden die ersten Tonaufnahmen gemacht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1auf einer Wachswalze
+Antwort_2=0auf einer Papprolle
+Antwort_3=0auf einer polierten Holzwalze
+Antwort_4=0auf einer Kunststoffrolle
+
+[133]
+FZ1=
+FZ2=Welche Farbe gibt das Gewürz Kurkuma dem Reis ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1gelb
+Antwort_2=0grün
+Antwort_3=0rot
+Antwort_4=0braun
+
+[134]
+FZ1=
+FZ2=Was bedeutet die Abkürzung "CBD" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Central Buisiness District
+Antwort_2=0Central Banking District
+Antwort_3=0Corporated Broadcasting District
+Antwort_4=0Chinese Business Domain
+
+[135]
+FZ1=
+FZ2=Welche Sportart betreibt Ronny Ackermann ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nordische Kombination
+Antwort_2=0Skilanglauf
+Antwort_3=0Skispringen
+Antwort_4=0Alpine-Ski
+
+[136]
+FZ1=
+FZ2=Was ist ein "Dilettant" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Nichtfachmann
+Antwort_2=0ein Nörgler
+Antwort_3=0ein Besserwisser
+Antwort_4=0ein Tyrann
+
+[137]
+FZ1=
+FZ2=Welcher der folgenden Berufe ist ein Handwerksberuf ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schreiner
+Antwort_2=0Postbote
+Antwort_3=0Lehrer
+Antwort_4=0Krankenschwester
+
+[138]
+FZ1=
+FZ2=Welches der folgenden Gebäude ist das höchste ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Toronto Tower
+Antwort_2=0John Hancock Center
+Antwort_3=0Sears Tower
+Antwort_4=0Fernsehturm Tokio
+
+[139]
+FZ1=
+FZ2=Wer war der Sohn des Laios ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ödipus
+Antwort_2=0Poseidon
+Antwort_3=0Odin
+Antwort_4=0Herakles
+
+[140]
+FZ1=
+FZ2=Was bedeutet der aus dem Lateinischen stammende Ausspruch "Ave Maria" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Gegrüßst seist du, Maria
+Antwort_2=0Behütet seist du, Maria
+Antwort_3=0Gesegnet seist du, Maria
+Antwort_4=0Geliebt seist du, Maria
+
+[141]
+FZ1=
+FZ2=In welchem Jahrhundert lebte Richard I. Löwenherz ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1im zwölften Jahrhundert
+Antwort_2=0im dreizehnten  Jahrhundert
+Antwort_3=0im achten Jahrhundert
+Antwort_4=0im achtzehnten Jahrhundert
+
+[142]
+FZ1=
+FZ2=Welcher Roman gilt als eines der Hauptwerke der englischen Schriftstellerin
+FZ3=Jane Austin ?
+Min=2000
+Max=32000
+Antwort_1=1Sinn und Sinnlichkeit
+Antwort_2=0Menschen im Hotel
+Antwort_3=0Das Piano
+Antwort_4=0Memoiren einer Tochter aus gutem	Hause
+
+[143]
+FZ1=
+FZ2=Von welchem inneren Organ hat der Mensch gleich zwei ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Niere
+Antwort_2=0Magen
+Antwort_3=0Leber
+Antwort_4=0Lunge
+
+[144]
+FZ1=
+FZ2=Wer oder was ist "Eos" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1eine griechische Göttin
+Antwort_2=0ein griechischer Tanz
+Antwort_3=0eine griechische Insel
+Antwort_4=0ein griechisches Bauwerk
+
+[145]
+FZ1=
+FZ2=Was ist eine "Bauhütte" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der Verband der Steinmetzen eines	Kirchenbaus
+Antwort_2=0der Verband der Dachdecker eines	Großbaus
+Antwort_3=0der Verband der Maurer eines	Hochhauses
+Antwort_4=0der Verband aller Handwerker eines	Bauwerkes
+
+[146]
+FZ1=
+FZ2=Welchen Beruf übt die Hauptfigur aus Thomas Manns Roman "Die Bekenntnisse des
+FZ3=Hochstaplers Felix Krull" zunächst aus ?
+Min=2000
+Max=32000
+Antwort_1=1Liftboy
+Antwort_2=0Stallbursche
+Antwort_3=0Zeitungsverkäufer
+Antwort_4=0Schuhputzer
+
+[147]
+FZ1=
+FZ2=Wann löste Jane Fonda mit ihrem Fitness-Video einen wahren Aerobic-Boom aus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11982
+Antwort_2=01990
+Antwort_3=01975
+Antwort_4=01987
+
+[148]
+FZ1=
+FZ2=Wer ist im Neuen Testament der Beelzebub ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der Fürst der Dämonen
+Antwort_2=0ein ungläubiger Sünder
+Antwort_3=0der Anführer der Diebe
+Antwort_4=0ein Verräter
+
+[149]
+FZ1=
+FZ2=Welche Bereiche unterstanden der griechischen Göttin Artemis ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Tiere, der Wald und die Jagd
+Antwort_2=0die Weine, die Literatur und die Musik
+Antwort_3=0die Winde und die Gewässer
+Antwort_4=0die Weisheit und die Intuition
+
+[150]
+FZ1=
+FZ2=Imn welches der folgenden Meere mündet die Donau ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in das Schwarze Meer
+Antwort_2=0in das Kaspische Meer
+Antwort_3=0in die Nordsee
+Antwort_4=0in den Atlantik
+
+[151]
+FZ1=
+FZ2=Welche Streifen werden in der Mode als "Mafiosi-Streifen" bezeichnet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1schmale weiße Streifen in breitem	Abstand
+Antwort_2=0goldene und silberne Streifen, die	diagonal verlaufen
+Antwort_3=0dicke weiße Streifen in kleinem Abstand
+Antwort_4=0dicke schwarze Streifen in kleinem	Abstand
+
+[152]
+FZ1=
+FZ2=Wie lautet der Vorname des Sängers der deutschen Musikgruppe "Echt" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kim
+Antwort_2=0Tom
+Antwort_3=0Tim
+Antwort_4=0Jim
+
+[153]
+FZ1=
+FZ2=Wie lange muss ein Geselle in einem handwerklichen Beruf tätig sein, um zur
+FZ3=Meisterprüfung zugelassen zu werden ?
+Min=2000
+Max=32000
+Antwort_1=13 - 5 Jahre
+Antwort_2=06 Jahre
+Antwort_3=01 - 2 Jahre
+Antwort_4=08 Jahre
+
+[154]
+FZ1=
+FZ2=Aus welchem Land stammt der Lyriker Walt Whitman ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1USA
+Antwort_2=0Australien
+Antwort_3=0Großbritannien
+Antwort_4=0Irland
+
+[155]
+FZ1=
+FZ2=Wodurch zog nach der griechischen Mythologie Prometheus den Zorn des Zeus
+FZ3=auf  sich ?
+Min=2000
+Max=32000
+Antwort_1=1Er brachte den Menschen das Feuer.
+Antwort_2=0Er brachte den Menschen das Geld.
+Antwort_3=0Er brachte den Menschen das Licht.
+Antwort_4=0Er brachte den Menschen den Krieg.
+
+[156]
+FZ1=
+FZ2=Welche Farben haben die Querbinden auf den Vorderflügeln de Tagfalters Admiral ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1rot
+Antwort_2=0grün
+Antwort_3=0blau
+Antwort_4=0gelb
+
+[157]
+FZ1=
+FZ2=Was ist  k e i n e  Naturwissenschaft ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Philosophie
+Antwort_2=0Physik
+Antwort_3=0Biologie
+Antwort_4=0Chemie
+
+[158]
+FZ1=Welchen Beruf hat die eine der beiden Hauptfiguren aus dem Roman "Alexis Sorbas"
+FZ2=ausgeübt, bevor sie nach Griechenland kommt, um ein Braunkohlebergwerk zu
+FZ3=betreiben ?
+Min=2000
+Max=32000
+Antwort_1=1Autor
+Antwort_2=0Lehrer
+Antwort_3=0Politiker
+Antwort_4=0Sportler
+
+[159]
+FZ1=
+FZ2=Wer war der Anführer der Griechen im Trojanischen Krieg ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Agamemnon
+Antwort_2=0Odysseus
+Antwort_3=0Herakles
+Antwort_4=0Theseus
+
+[160]
+FZ1=
+FZ2=Bei welcher der folgenden Sportarten wird der Begriff "Bodycheck" verwendet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Eishockey
+Antwort_2=0Fußball
+Antwort_3=0Volleyball
+Antwort_4=0Football
+
+[161]
+FZ1=
+FZ2=Zu welchem der folgenden Kontinente gehört Tansania ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Afrika
+Antwort_2=0Australien
+Antwort_3=0Asien
+Antwort_4=0Amerika
+
+[162]
+FZ1=
+FZ2=Wo befindet sich Faust, aus der gleichnamigen Tragödie von Johann Wolfgang von
+FZ3=Goethe, als er zum ersten Mal Mephisto begegnet ?
+Min=2000
+Max=32000
+Antwort_1=1in seiner Studierstube
+Antwort_2=0in einem Park
+Antwort_3=0auf der Straße
+Antwort_4=0im Haus von Freunden
+
+[163]
+FZ1=
+FZ2=Wie heißt die Tochter des Ex-Beatles Paul McCartney, die sich al Modedesignerin
+FZ3=internationale Renommee erwarb ?
+Min=2000
+Max=32000
+Antwort_1=1Stella McCartney
+Antwort_2=0Shawna McCartney
+Antwort_3=0Sheila McCartney
+Antwort_4=0Sheena McCartney
+
+[164]
+FZ1=
+FZ2=Von wem stammt die Musik zu dem Kultfilm  "Harold and Maude" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Cat Stevens
+Antwort_2=0Donovan
+Antwort_3=0Bob Dylan
+Antwort_4=0Neil Young
+
+[165]
+FZ1=
+FZ2=Welcher der folgenden Fische gilt als der langsamste aller Fische ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1das Seepferdchen
+Antwort_2=0der Fächerfisch
+Antwort_3=0der Flussaal
+Antwort_4=0der Rotbarsch
+
+[166]
+FZ1=
+FZ2=Wie viele verschiedene Arten von Bakterien sind bisher bekannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 3.000
+Antwort_2=0ca. 10.000
+Antwort_3=0ca. 2.000
+Antwort_4=0ca. 500
+
+[167]
+FZ1=
+FZ2=Was versteht man unter einer "Rumpffläche" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ergebnis der Abtragung eines Gebirges
+Antwort_2=0Talböden im Gebirge
+Antwort_3=0Gesteinsfläche unter dem Sand von	Wüsten
+Antwort_4=0Fläche, durch die ein Vulkan bricht
+
+[168]
+FZ1=
+FZ2=Wer oder was ist ein "Massai" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein afrikanischer Eingeborener
+Antwort_2=0ein afrikanischer Bauer
+Antwort_3=0ein afrikanisches Gericht
+Antwort_4=0ein afrikanisches Musikinstrument
+
+[169]
+FZ1=
+FZ2=Welche Krankheit wurde in den früheren Zeiten als der "schwarze Tod" bezeichnet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Pest
+Antwort_2=0Tuberkulose
+Antwort_3=0Lepra
+Antwort_4=0Hepatitis
+
+[170]
+FZ1=
+FZ2=Welcher der folgenden Seen gilt als der tiefste Binnensee der Erde ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der Baikalsee
+Antwort_2=0der Laacher See
+Antwort_3=0der Bodensee
+Antwort_4=0der Michigansee
+
+[171]
+FZ1=
+FZ2=Welche Kragenform ist typisch für eine Jacke im Mao-Look ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Stehbundkragen
+Antwort_2=0Piccadilly-Kragen
+Antwort_3=0Klammerkragen
+Antwort_4=0Kuttenkragen
+
+[172]
+FZ1=
+FZ2=Was ist "Boccia" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein italienisches Kugelspiel
+Antwort_2=0ein italienischer Berg
+Antwort_3=0ein italienischer Wein
+Antwort_4=0eine italienische Stadt
+
+[173]
+FZ1=
+FZ2=Wie nennt man die Atmungsorgane der Insekten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Tracheen
+Antwort_2=0Bronchien
+Antwort_3=0Bracheen
+Antwort_4=0Stracheen
+
+[174]
+FZ1=
+FZ2=Wer ist "Claudio Abbado" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein italienischer Dirigent
+Antwort_2=0ein italienischer Schauspieler
+Antwort_3=0ein italienischer Maler
+Antwort_4=0ein italienischer Richter
+
+[175]
+FZ1=
+FZ2=Welche fünf Bücher gehören zum ersten Hauptteil des Alten Testaments ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die fünf Bücher Moses
+Antwort_2=0die fünf Bücher Abrahams
+Antwort_3=0die fünf Bücher Jakobs
+Antwort_4=0die fünf Bücher Hiobs
+
+[176]
+FZ1=
+FZ2=Wer war Nikolaus Kopernikus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein deutscher Astronom
+Antwort_2=0ein deutscher Arzt
+Antwort_3=0ein deutscher Seefahrer
+Antwort_4=0ein deutscher Dichter
+
+[177]
+FZ1=
+FZ2=Wie heißt das Land, in dem die nordisch-germanischen Elfen lebten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Alfenheim
+Antwort_2=0Utgard
+Antwort_3=0Midgard
+Antwort_4=0Agard
+
+[178]
+FZ1=Welche Theater-Inszenierung, die auch als Filmfassung vorliegt, gilt als Glanzstück
+FZ2=des deutschen Schauspielers, Theaterintendanten
+FZ3=und Regisseurs Gustav Gründgens ?
+Min=2000
+Max=32000
+Antwort_1=1Faust
+Antwort_2=0Julius Cäsar
+Antwort_3=0Der Kaufmann von Venedig
+Antwort_4=0Die Sturmhöhe
+
+[179]
+FZ1=
+FZ2=Welchen Beruf übt der Mann in dem Märchen "Schneewittchen" aus, der den Auftrag
+FZ3=erhält, Schneewittchen zu töten, es dann aber laufen lässt ?
+Min=2000
+Max=32000
+Antwort_1=1Jäger
+Antwort_2=0Maurer
+Antwort_3=0Soldat
+Antwort_4=0Holzfäller
+
+[180]
+FZ1=
+FZ2=Welcher der folgenden Flüsse ist der längste Fluss in Europa ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Wolga
+Antwort_2=0Dnjepr
+Antwort_3=0Donau
+Antwort_4=0Elbe
+
+[181]
+FZ1=
+FZ2=Aus wie viel Knochen besteht das menschliche Skelett ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1208 - 212
+Antwort_2=0171 - 175
+Antwort_3=0120 - 124
+Antwort_4=0240 - 244
+
+[182]
+FZ1=
+FZ2=Wer schrieb den Roman "Der Abentheuerliche Simplicissimus" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hans Christoph von Grimmelshausen
+Antwort_2=0Wolfram von Eschenbach
+Antwort_3=0Novalis
+Antwort_4=0Christoph Martin Wieland
+
+[183]
+FZ1=
+FZ2=Was bedeutet der lateinische Begriff "Agnus Dei" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Lamm Gottes
+Antwort_2=0Vertrauter Gottes
+Antwort_3=0Sohn Gottes
+Antwort_4=0Untertan Gottes
+
+[184]
+FZ1=
+FZ2=Aus welchem Land stammt die bislang (2002) jüngste Leichtathletik-Weltrekordlerin ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1China
+Antwort_2=0Deutschland
+Antwort_3=0USA
+Antwort_4=0England
+
+[185]
+FZ1=
+FZ2=Wer rettete, nach einem griechischen Mythos, Andromeda vor einem Ungeheuer ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Perseus
+Antwort_2=0Herakles
+Antwort_3=0Herkules
+Antwort_4=0Theseus
+
+[186]
+FZ1=
+FZ2=Was ist "Albumin" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der bekannteste Eiweißstoff
+Antwort_2=0eine bestimmte Form der Allergie
+Antwort_3=0eine marmorähnliche feinkörnige Abart	des Gipses
+Antwort_4=0die Unfähigkeit, artikuliert zu sprechen
+
+[187]
+FZ1=
+FZ2=Was versteht man unter einer "Amplifikation" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1eine Erweiterung oder Ausführung
+Antwort_2=0eine Erniedrigung oder Demütigung
+Antwort_3=0eine Auszeichnung oder Ehrung
+Antwort_4=0eine Verdächtigung oder Vermutung
+
+[188]
+FZ1=
+FZ2=In welchem Jahr weitete sich der Erste Weltkrieg von einem europäischen zu einem
+FZ3=weltweiten Krieg aus ?
+Min=2000
+Max=32000
+Antwort_1=11917
+Antwort_2=01915
+Antwort_3=01916
+Antwort_4=01914
+
+[189]
+FZ1=
+FZ2=In welchem Land Europas liegen die Apenninen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in Italien
+Antwort_2=0in der Schweiz
+Antwort_3=0in Frankreich
+Antwort_4=0in Spanien
+
+[190]
+FZ1=
+FZ2=Wie heißt der Vater der Schlümpfe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Vater Abraham
+Antwort_2=0Vater Alberto
+Antwort_3=0Vater Anton
+Antwort_4=0Vater Andreas
+
+[191]
+FZ1=
+FZ2=In welchem der folgenden Länder befindet ich der Naturpark "Shark Bay" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Australien
+Antwort_2=0USA
+Antwort_3=0Großbritannien
+Antwort_4=0Kenia
+
+[192]
+FZ1=
+FZ2=Wer war der Begründer der wissenschaftlichen Medizin ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hippokrates
+Antwort_2=0Pythagoras
+Antwort_3=0Aristoteles
+Antwort_4=0Sokrates
+
+[193]
+FZ1=
+FZ2=Was wird in der Astronomie unter einem Stern verstanden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein selbstleuchtender gasförmiger	Körper
+Antwort_2=0ein erloschener Körper
+Antwort_3=0ein explodierender Körper
+Antwort_4=0ein leuchtender Planet
+
+[194]
+FZ1=Zu welcher Zeit war folgender Modestil Zeichen guten Geschmacks und Wohlstands:
+FZ2=verspielte Mode, gekennzeichnet durch weite Röcke in vielen Lagen,
+FZ3=Allongeperücken, blassen Teint ?
+Min=2000
+Max=32000
+Antwort_1=1Rokoko
+Antwort_2=0Renaissance
+Antwort_3=0Barock
+Antwort_4=0Klassik
+
+[195]
+FZ1=
+FZ2=Wie lange dauerte der längste Boxkampf der Sportgeschichte ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=17 Stunden 9 Minuten
+Antwort_2=013 Stunden 15 Minuten
+Antwort_3=020 Stunden 14 Minuten
+Antwort_4=02 Stunden 33 Minuten
+
+[196]
+FZ1=
+FZ2=Welches ist  k e i n  Grundrecht nach dem Grundgesetz der BRD ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1das Recht auf Arbeit
+Antwort_2=0Entfaltung der Persönlichkeit
+Antwort_3=0Achtung der Menschenwürde
+Antwort_4=0Schutz von Ehe und Familie
+
+[197]
+FZ1=
+FZ2=Welcher Komponist ging bereits im Alter von 6 Jahren auf eine erste Konzertreise ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Wolfgang Amadeus Mozart
+Antwort_2=0Sergej Rachmaninow
+Antwort_3=0Johann Sebastian Bach
+Antwort_4=0Ludwig van Beethoven
+
+[198]
+FZ1=
+FZ2=In welchem Jahr fand die erste Oscar-Verleihung statt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11929
+Antwort_2=01960
+Antwort_3=01948
+Antwort_4=01939
+
+[199]
+FZ1=
+FZ2=Wie heißt die berühmte Meerenge zwischen dem Schwarzen und dem
+FZ3=Ägäischen Meer ?
+Min=0
+Max=1000
+Antwort_1=1Boporus
+Antwort_2=0Isthmus
+Antwort_3=0Dardanellen
+Antwort_4=0Marmara-Meer
+
+[200]
+FZ1=
+FZ2=Wie heißt die größte Hotelkette der Welt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Best Western
+Antwort_2=0Holiday Inn
+Antwort_3=0Hilton
+Antwort_4=0Novotel
+
+[201]
+FZ1=
+FZ2=Welcher der folgenden Modeschöpfer erfand das "kleine Schwarze" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Coco Chanel
+Antwort_2=0Calvin Klein
+Antwort_3=0Karl Lagerfeld
+Antwort_4=0Jean-Paul Gaultier
+
+[202]
+FZ1=
+FZ2=Welcher der folgenden Götter hatte nur ein Auge ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Odin
+Antwort_2=0Ares
+Antwort_3=0Zeus
+Antwort_4=0Poseidon
+
+[203]
+FZ1=
+FZ2=Welcher europäische Kleinstaat liegt in den Pyrenäen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Andorra
+Antwort_2=0Liechtenstein
+Antwort_3=0Bayern
+Antwort_4=0San Marino
+
+[204]
+FZ1=
+FZ2=Für welche historische Filmfigur wurde Ben Kingsley mit dem "Oscar"
+FZ3=ausgezeichnet ?
+Min=0
+Max=1000
+Antwort_1=1Gandhi
+Antwort_2=0John F. Kennedy
+Antwort_3=0Oscar Schindler
+Antwort_4=0Julius Cäsar
+
+[205]
+FZ1=
+FZ2=Welcher der folgenden Romane ist von dem österreichischen Bestsellerautor
+FZ3=Johannes Mario Simmel ?
+Min=0
+Max=1000
+Antwort_1=1Es muss nicht immer Kaviar sein
+Antwort_2=0Airport Klinik
+Antwort_3=0Fräulein Smillas Gespür für Schnee
+Antwort_4=0Enthüllung
+
+[206]
+FZ1=
+FZ2=In welchem Jahr erklärte der russische Präsident Boris Jelzin überraschend seinen
+FZ3=Rücktritt ?
+Min=0
+Max=1000
+Antwort_1=11999
+Antwort_2=01996
+Antwort_3=01994
+Antwort_4=02001
+
+[207]
+FZ1=
+FZ2=Welches Bundesland hat nur innerdeutsche Grenzen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Thüringen
+Antwort_2=0Rheinland-Pfalz
+Antwort_3=0Schleswig-Holstein
+Antwort_4=0Mecklenburg-Vorpommern
+
+[208]
+FZ1=
+FZ2=Wie groß ist ein "Nanometer" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Milliardstel Meter
+Antwort_2=0ein Hunderttausendstel Meter
+Antwort_3=0ein Millionstel Meter
+Antwort_4=0ein Tausendstel Meter
+
+[209]
+FZ1=
+FZ2=Für welche der folgenden Handarbeiten braucht man zwei Nadeln ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1für das Stricken
+Antwort_2=0für das Sticken
+Antwort_3=0für das Häkeln
+Antwort_4=0für das Nähen
+
+[210]
+FZ1=
+FZ2=An welchem Datum wurde die Grenze zur DDR geöffnet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=19. November 1989
+Antwort_2=07. November 1990
+Antwort_3=06. November 1988
+Antwort_4=08. November 1991
+
+[211]
+FZ1=
+FZ2=Wie heißt die Schauspielerin, die als Biest Alexis aus der amerikanischen TV-Serie
+FZ3="Denver Clan" bekannt wurde ?
+Min=0
+Max=1000
+Antwort_1=1Joan Collins
+Antwort_2=0Linda Grey
+Antwort_3=0Victoria Principal
+Antwort_4=0Heather Locklear
+
+[212]
+FZ1=
+FZ2=Was ist  k e i n e  Sättigungsbeilage ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Steak
+Antwort_2=0Reis
+Antwort_3=0Pommes frites
+Antwort_4=0Kartoffeln
+
+[213]
+FZ1=
+FZ2=Wie heißt der rote Blutfarbstoff, den die roten Blutkörperchen enthalten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hämoglobin
+Antwort_2=0Insulin
+Antwort_3=0Karotin
+Antwort_4=0Stearin
+
+[214]
+FZ1=
+FZ2=Wie hieß der König, der zur Zeit von Jesu Geburt die Ermordung aller männlichen
+FZ3=Säuglinge in und um Bethlehem anordnete ?
+Min=0
+Max=1000
+Antwort_1=1Herodes
+Antwort_2=0Pontius Pilatus
+Antwort_3=0David
+Antwort_4=0Salomon
+
+[215]
+FZ1=
+FZ2=Was wird mit dem "Kalorimeter" gemessen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die Wärmemenge
+Antwort_2=0die Luftfeuchtigkeit
+Antwort_3=0die Kraft
+Antwort_4=0due Dichte
+
+[216]
+FZ1=
+FZ2=Wer spielte die weibliche Hauptrolle in Truffauts Meisterwerk "Jules und Jim" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Jeanne Moreau
+Antwort_2=0Sophia Loren
+Antwort_3=0Brigitte Bardot
+Antwort_4=0Claudia Cardinale
+
+[217]
+FZ1=
+FZ2=Wie nennt man ein lockeres Überkleid, das über einer Hose oder einem Rock
+FZ3=getragen wird ?
+Min=0
+Max=1000
+Antwort_1=1Tunika
+Antwort_2=0Tonur
+Antwort_3=0Tropical
+Antwort_4=0Totonka
+
+[218]
+FZ1=
+FZ2=Was ist ein "Bariton" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1eine männliche Singstimme
+Antwort_2=0eine Epoche in der Musik
+Antwort_3=0eine weibliche Singstimme
+Antwort_4=0ein Musikinstrument
+
+[219]
+FZ1=
+FZ2=Welche menschliche Schwäche war bezeichnend für Zeus, der in Griechenland als
+FZ3=Herr aller Götter galt ?
+Min=0
+Max=1000
+Antwort_1=1Er begehrte zu viele Frauen.
+Antwort_2=0Er trank zu viel.
+Antwort_3=0Er aß zu viel.
+Antwort_4=0Er war besonders eifersüchtig.
+
+[220]
+FZ1=
+FZ2=Wie lautet die richtige Übersetzung des griechischen Ausdrucks "Biologie" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die Lehre vom Lebendigen
+Antwort_2=0die Lehre von den Lebewesen
+Antwort_3=0die Lehre vom Atmenden
+Antwort_4=0die Lehre von der Umwelt
+
+[221]
+FZ1=
+FZ2=Wie heißt das Werk Franz Kafkas, in dem die Hauptfigur eines Morgens als Käfer
+FZ3=aufwacht ?
+Min=0
+Max=1000
+Antwort_1=1Die Verwandlung
+Antwort_2=0Das Schloss
+Antwort_3=0Das Urteil
+Antwort_4=0Der Prozess
+
+[222]
+FZ1=
+FZ2=Wer hat Dornröschen wach geküsst ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Prinz
+Antwort_2=0ein König
+Antwort_3=0ein Ritter
+Antwort_4=0ein Kaiser
+
+[223]
+FZ1=
+FZ2=Wann brach mit dem Einzug des Bikinis die Tradition des einteiligen Badeanzugs ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=11946
+Antwort_2=01756
+Antwort_3=01903
+Antwort_4=01873
+
+[224]
+FZ1=
+FZ2=Was versteht man unter einem "Periskop" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Sehrohr
+Antwort_2=0eine Taschenlampe
+Antwort_3=0ein Prisma
+Antwort_4=0ein Hörrohr
+
+[225]
+FZ1=
+FZ2=Wie viele Jahre war Margaret Thatcher Premierministerin von Großbritannien ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=111 Jahre
+Antwort_2=05 Jahre
+Antwort_3=09 Jahre
+Antwort_4=02 Jahre
+
+[226]
+FZ1=
+FZ2=Wie hieß die erste Ehefrau des "Modern Talking"- Sängers Thomas Anders ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nora
+Antwort_2=0Laura
+Antwort_3=0Naddel
+Antwort_4=0Norma
+
+[227]
+FZ1=
+FZ2=In welcher Stadt befindet sich der Sitz des Bundesverfassungsgerichts ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Karlsruhe
+Antwort_2=0Frankfurt am Main
+Antwort_3=0Saarbrücken
+Antwort_4=0Düsseldorf
+
+[228]
+FZ1=
+FZ2=Welche Journalistin machte das Urintrinken salonfähig ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Carmen Thomas
+Antwort_2=0Alice Schwarzer
+Antwort_3=0Bettina Böttinger
+Antwort_4=0Gabriele Krone-Schmalz
+
+[229]
+FZ1=
+FZ2=Wie heißt der Ort, in dem Jesus geboren wurde ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Bethlehem
+Antwort_2=0Ninive
+Antwort_3=0Nazareth
+Antwort_4=0Babylon
+
+[230]
+FZ1=
+FZ2=Wie nennt man die Enden eines Stabmagneten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Pole
+Antwort_2=0Wendungen
+Antwort_3=0Achsen
+Antwort_4=0Spitzen
+
+[231]
+FZ1=
+FZ2=Wann wurde die Europäische Freihandelsgemeinschaft (EFTA) gegründet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=11960
+Antwort_2=01969
+Antwort_3=01951
+Antwort_4=01989
+
+[232]
+FZ1=
+FZ2=Mit welchem Film schrieb Orson Welles Filmgeschichte ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Citizien Kane
+Antwort_2=0Krieg der Sterne
+Antwort_3=0African Queen
+Antwort_4=0Men in Black
+
+[233]
+FZ1=
+FZ2=Was wird als "Fauna" bezeichnet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die Tierwelt eines geographisch	begrenzten Gebietes
+Antwort_2=0die Lebewesen eines geographisch	begrenzten Gebietes
+Antwort_3=0die Pflanzenwelt eines geographisch	begrenzten Gebietes
+Antwort_4=0die Vegetation eines geographisch	begrenzten Gebietes
+
+[234]
+FZ1=
+FZ2=Was für ein Tier war der sprichwörtliche Phönix, der aus der Asche stieg ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Vogel
+Antwort_2=0ein Ochse
+Antwort_3=0ein Pferd
+Antwort_4=0ein Raubtier
+
+[235]
+FZ1=
+FZ2=Wie nennt man das Gerät, mit dem man etwas schaumig schlägt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schneebesen
+Antwort_2=0Schneefräse
+Antwort_3=0Schneeschaufel
+Antwort_4=0Schneemixer
+
+[236]
+FZ1=
+FZ2=Wie nennt man Kleidungsstücke, die von Damen und Herren gleichermaßen
+FZ3=getragen werden können ?
+Min=0
+Max=1000
+Antwort_1=1Uniform
+Antwort_2=0Universell
+Antwort_3=0Uniex
+Antwort_4=0Unimode
+
+[237]
+FZ1=
+FZ2=Wie nennt man die Bewegung der Erdkrustenplatten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Tektonik
+Antwort_2=0Techno
+Antwort_3=0Textur
+Antwort_4=0Tegment
+
+[238]
+FZ1=
+FZ2=Was ist ein "Dentist" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Zahnarzt
+Antwort_2=0Tierarzt
+Antwort_3=0Kinderarzt
+Antwort_4=0Hautarzt
+
+[239]
+FZ1=
+FZ2=Wie heißt der nicht minder berühmte Bruder von Shirley MacLaine ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Warren Beatty
+Antwort_2=0Burt Lancaster
+Antwort_3=0Bela Lugosi
+Antwort_4=0Anthony Quinn
+
+[240]
+FZ1=
+FZ2=Wie heißt die Autorin des Buches "Harry Potter" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Joanne Rowling
+Antwort_2=0Atrid Lindgren
+Antwort_3=0Enid Blyton
+Antwort_4=0Christine Nöstlinger
+
+[241]
+FZ1=
+FZ2=Welcher der folgenden Künstler ist ein bekannter Vertreter der gegenstandslosen
+FZ3=Malerei ?
+Min=0
+Max=1000
+Antwort_1=1Wassily Kandinsky
+Antwort_2=0Claude Monet
+Antwort_3=0Vincent van Gogh
+Antwort_4=0Anselm Feuerbach
+
+[242]
+FZ1=
+FZ2=Wie bezeichnet man modisches Zubehör zur Ergänzung der Oberbekleidung ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Accessoire
+Antwort_2=0Bouclé
+Antwort_3=0Arraché
+Antwort_4=0Dungaare
+
+[243]
+FZ1=
+FZ2=Welches Element ist  k e i n  Leichtmetall ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Blei
+Antwort_2=0Aluminium
+Antwort_3=0Titan
+Antwort_4=0Lithium
+
+[244]
+FZ1=
+FZ2=In welcher Stadt befindet sich der Europäische Rechnungshof ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Luxemburg
+Antwort_2=0Genf
+Antwort_3=0Brüssel
+Antwort_4=0Frankfurt
+
+[245]
+FZ1=
+FZ2=Aus welchem Grund wurde Maria Stuart hingerichtet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1weil sie Anspruch auf die englische	Krone erhoben hatte
+Antwort_2=0weil sie eine untreue Ehefrau war
+Antwort_3=0weil sie einen Mord verübt hatte
+Antwort_4=0weil sie der Hexerei schuldig	gesprochen wurde
+
+[246]
+FZ1=
+FZ2=Welche der folgenden Eigenschaften trifft auf einen Phlegmatiker zu ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ruhig und behäbig
+Antwort_2=0aggressiv und launisch
+Antwort_3=0spontan und schnell
+Antwort_4=0frech und lustig
+
+[247]
+FZ1=
+FZ2=Welcher Begriff stammt  n i c h t  aus der Computertechnik ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1DIN
+Antwort_2=0RAM
+Antwort_3=0DOS
+Antwort_4=0BIOS
+
+[248]
+FZ1=
+FZ2=Welcher der folgenden Schauspieler spielte die Rolle des "Papillon" im
+FZ3=gleichnamigen Film ?
+Min=0
+Max=1000
+Antwort_1=1Steve McQueen
+Antwort_2=0Dustin Hoffman
+Antwort_3=0Roger Moore
+Antwort_4=0Robert DeNiro
+
+[249]
+FZ1=
+FZ2=Welcher deutsche Schriftsteller erschuf die Figur des Moralisten Fabian ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Erich Kästner
+Antwort_2=0Ernst von Salomon
+Antwort_3=0Friedrich Dürrenmatt
+Antwort_4=0Georg Büchner
+
+[250]
+FZ1=
+FZ2=Welche Zahlenart gibt es  n i c h t  ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1gestückelte Zahlen
+Antwort_2=0negative Zahlen
+Antwort_3=0gebrochene Zahlen
+Antwort_4=0irrationale Zahlen
+
+[251]
+FZ1=
+FZ2=Welcher Begriff gehört  n i c h t  zur Division ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Potenz
+Antwort_2=0Divisor
+Antwort_3=0Quotient
+Antwort_4=0Dividend
+
+[252]
+FZ1=
+FZ2=Welches der folgenden im Wasser lebenden Tiere ist  k e i n  Fisch ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1der Delfin
+Antwort_2=0der Hai
+Antwort_3=0der Aal
+Antwort_4=0der Hecht
+
+[253]
+FZ1=
+FZ2=In was wurde der schöne Jüngling Narziss verwandelt, nachdem er alle Lebenskraft
+FZ3=verloren hatte ?
+Min=0
+Max=1000
+Antwort_1=1in eine Blume
+Antwort_2=0in eine Statue
+Antwort_3=0in ein Tier
+Antwort_4=0in einen Berg
+
+[254]
+FZ1=
+FZ2=Wie hieß der Hit, mit dem Tina Turner in den 1980er Jahren ihr großes Comeback
+FZ3=feierte ?
+Min=0
+Max=1000
+Antwort_1=1What´s Love got to do with it ?
+Antwort_2=0I will survive
+Antwort_3=0Love is a battlefield
+Antwort_4=0It´s raining men
+
+[255]
+FZ1=
+FZ2=Welche Hutvariante erfand der Engländer William Coke ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Melone
+Antwort_2=0Florentiner
+Antwort_3=0Borsalino
+Antwort_4=0Zylinder
+
+[256]
+FZ1=
+FZ2=Was ist "Bakken" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1eine Schanze
+Antwort_2=0eine Tischtennisplatte
+Antwort_3=0ein Fisch
+Antwort_4=0ein Sportgerät
+
+[257]
+FZ1=
+FZ2=Wer oder was ist die "Family of love" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1eine Religionsgemeinschaft in den USA
+Antwort_2=0eine Band au den 1970er Jahren
+Antwort_3=0eine beliebte Familienserie
+Antwort_4=0eine politisch orientierte Organisation
+
+[258]
+FZ1=
+FZ2=Wie groß ist die begehrte Filmtrophäe "Oscar" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=134,3 cm
+Antwort_2=046,9 cm
+Antwort_3=042,8 cm
+Antwort_4=025,7 cm
+
+[259]
+FZ1=
+FZ2=Welches der folgenden Zeichen gehört  n i c h t  zur Mathematik ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Straßenverkehrszeichen
+Antwort_2=0Gleichheitszeichen
+Antwort_3=0Divisionszeichen
+Antwort_4=0Integralzeichen
+
+[260]
+FZ1=
+FZ2=Welches Land wurde kurz vor Beginn des Zweiten Weltkrieges zwischen dem
+FZ3=Deutschen Reich und der Sowjetunion aufgeteilt ?
+Min=0
+Max=1000
+Antwort_1=1Polen
+Antwort_2=0Ungarn
+Antwort_3=0Tschechoslowakei
+Antwort_4=0Österreich
+
+[261]
+FZ1=
+FZ2=Was ist ein "Paternoster" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Aufzug
+Antwort_2=0ein Musikinstrument
+Antwort_3=0eine Sehenswürdigkeit
+Antwort_4=0ein Gebetsbuch
+
+[262]
+FZ1=
+FZ2=Wie viele Seiten hat ein Würfel ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=16
+Antwort_2=08
+Antwort_3=04
+Antwort_4=012
+
+[263]
+FZ1=
+FZ2=Wie hieß Marilyn Monroes letzter Film ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nicht gesellschaftsfähig
+Antwort_2=0Fluss ohne Wiederkehr
+Antwort_3=0Manche mögen´ s heiß
+Antwort_4=0Niagara
+
+[264]
+FZ1=
+FZ2=Welcher Autor schrieb das Buch "Der Fänger im Roggen" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1J. D. Salinger
+Antwort_2=0Ernest Hemingway
+Antwort_3=0Oscar Wilde
+Antwort_4=0John Steinbeck
+
+[265]
+FZ1=
+FZ2=Wann erfand Levi Strauss die Jeans ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=11873
+Antwort_2=01908
+Antwort_3=01851
+Antwort_4=01937
+
+[266]
+FZ1=
+FZ2=Welcher Umstand wird mit dem Begriff "Hausse" beschrieben ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein lang anhaltender starker	Kursanstieg an der Börse
+Antwort_2=0ein  anhaltender starker Kursabfall an	der Börse
+Antwort_3=0ein kurzzeitiger Kursanstieg an der	Börse
+Antwort_4=0ein Börsencrash
+
+[267]
+FZ1=
+FZ2=Über welche Körperlänge verfügt ein Löwe im Durchschnitt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=12 m
+Antwort_2=01,5 m
+Antwort_3=03 m
+Antwort_4=03,5 m
+
+[268]
+FZ1=
+FZ2=Welche beiden Haustiere hält sich Pippi Langstrumpf ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1einen Affen und ein Pferd	
+Antwort_2=0einen Esel und einen Hamster	
+Antwort_3=0eine Katze und ein Hund	
+Antwort_4=0eine Ratte und einen Papagei	
+
+[269]
+FZ1=
+FZ2=Wohin ist die Zentrifugalkraft gerichtet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nach außen
+Antwort_2=0nach hinten
+Antwort_3=0nach innen
+Antwort_4=0nach unten
+
+[270]
+FZ1=
+FZ2=Welche der folgenden Künstlerinnen sang das Lied "Like a virgin" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Madonna
+Antwort_2=0Cyndi Lauper
+Antwort_3=0Cher
+Antwort_4=0Kylie Minogue
+
+[271]
+FZ1=
+FZ2=In wie viele Departements ist Frankreich aufgeteilt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=196
+Antwort_2=041
+Antwort_3=022
+Antwort_4=0224
+
+[272]
+FZ1=
+FZ2=Für welchen Film wurde Julia Roberts mit dem Oscar für die beste weibliche
+FZ3=Hauptrolle ausgezeichnet ?
+Min=0
+Max=1000
+Antwort_1=1Erin Brockovich
+Antwort_2=0Die Akte
+Antwort_3=0Pretty Woman
+Antwort_4=0The Mexican
+
+[273]
+FZ1=
+FZ2=Welche Temperaturskala wird  n i c h t  in Grad angegeben ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Fahrenheit
+Antwort_2=0Celsius
+Antwort_3=0Reaumur
+Antwort_4=1Kalvin
+
+[274]
+FZ1=
+FZ2=Welcher der Schmiede beschlägt Pferde ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1der Hufschmied
+Antwort_2=0der Goldschmied
+Antwort_3=0der Schwarzschmied
+Antwort_4=0der Silberschmied
+
+[275]
+FZ1=
+FZ2=Was bedeutet in der Mathematik das Zeichen > ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1größer als
+Antwort_2=0angenähert
+Antwort_3=0kleiner als
+Antwort_4=0größer gegen
+
+[276]
+FZ1=
+FZ2=Was löste den Ersten Weltkrieg aus ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die Ermordung des österreichischen	Thronfolgers
+Antwort_2=0verschiedene religiöse Anschauungen
+Antwort_3=0die Ermordung des österreichischen	Thronfolgers
+Antwort_4=0eine wirtschaftliche Krise
+
+[277]
+FZ1=
+FZ2=Welche Farbe hat der kleine Elefant aus der Sendung mit der Maus ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1blau
+Antwort_2=0rot
+Antwort_3=0grün
+Antwort_4=0gelb
+
+[278]
+FZ1=
+FZ2=Welcher Handwerker braucht eine Kelle ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Maurer
+Antwort_2=0ein Schuster
+Antwort_3=0ein Schreiner
+Antwort_4=0ein Musiker
+
+[279]
+FZ1=
+FZ2=Welcher Film entstand  n i c h t  unter der Regie von Stanley Rubrik ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1A.I.
+Antwort_2=0Einer flog übers Kuckucksnest
+Antwort_3=0Uhrwerk Orange
+Antwort_4=02001
+
+[280]
+FZ1=
+FZ2=Welches der folgenden Theaterstücke stammt  n i c h t  von Eugène Ionesco,
+FZ3=dem Vertreter des absurden Theaters ?
+Min=0
+Max=1000
+Antwort_1=1Warten auf Godot
+Antwort_2=0Der König stirbt
+Antwort_3=0Die Nashörner
+Antwort_4=0Die Stühle
+
+[281]
+FZ1=
+FZ2=Wann setzte die Massenproduktion des Lippenstiftes ein ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=11730
+Antwort_2=01916
+Antwort_3=01884
+Antwort_4=01944
+
+[282]
+FZ1=
+FZ2=Was ist das Gewinde einer Schraube in der Physik ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1eine schiefe Ebene
+Antwort_2=0ein Möbiusband
+Antwort_3=0eine Anzahl von Kreisen
+Antwort_4=0eine Spirale
+
+[283]
+FZ1=
+FZ2=Welche beiden Länder teilen sich die Insel "Hispaniola" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Haiti und die Dominikanische Republik
+Antwort_2=0Hawaii und die Dominikanische	Republik
+Antwort_3=0Hawaii und Haiti
+Antwort_4=0Kuba und die Dominikanische Republik
+
+[284]
+FZ1=
+FZ2=Wie heißen die Söhne von Isaak aus dem Alten Testament ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Kain und Abel
+Antwort_2=0Abraham und Hiob
+Antwort_3=1Jakob und Esau
+Antwort_4=0Lukas und Simon
+
+[285]
+FZ1=
+FZ2=Was ist in der Physik  k e i n e  einfache Maschine ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Otto - Motor
+Antwort_2=0Seilzug
+Antwort_3=0Hebel
+Antwort_4=0Flaschenzug
+
+[286]
+FZ1=
+FZ2=Was versteht man unter der österreichischen Speise Palatschinken ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1einen Eierkuchen
+Antwort_2=0einen gekochten Schinken
+Antwort_3=0einen geräucherten Schinken
+Antwort_4=0eine Pralinenart
+
+[287]
+FZ1=
+FZ2=Was braucht ein Maler und ein Tapezierer  n i c h t  ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die Forke
+Antwort_2=0den Pinsel
+Antwort_3=0den Kleister
+Antwort_4=0den Tüncher
+
+[288]
+FZ1=
+FZ2=Nach welchem Fisch benannte der deutsche Schriftsteller Günter Grass
+FZ3=einen seiner Romane ?
+Min=0
+Max=1000
+Antwort_1=1Butt
+Antwort_2=0Hering
+Antwort_3=0Aal
+Antwort_4=0Sardine
+
+[289]
+FZ1=
+FZ2=Wer war Walther von der Vogelweide ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein Lyriker
+Antwort_2=0eine Comic - Figur
+Antwort_3=0ein Maler
+Antwort_4=0ein Sportler
+
+[290]
+FZ1=
+FZ2=Welches Gebiet gehört  n i c h t  zur Physik ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Organik
+Antwort_2=0Mechanik
+Antwort_3=0Optik
+Antwort_4=0Elektrizitätslehre
+
+[291]
+FZ1=
+FZ2=Wie lautet der ehemalige Ländername Myanmars ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Birma
+Antwort_2=0Kambodscha
+Antwort_3=0Laos
+Antwort_4=0Thailand
+
+[292]
+FZ1=
+FZ2=Welches berühmte Musical wurde  n i c h t  von Sir Andrew Lloyd Webber
+FZ3=komponiert ?
+Min=0
+Max=1000
+Antwort_1=1My fair Lady
+Antwort_2=0Cats
+Antwort_3=0Starlight Express
+Antwort_4=0Jesus Christ Superstar
+
+[293]
+FZ1=
+FZ2=Was stellt ein Küfer bzw. ein Böttcher her ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Fässer
+Antwort_2=0Möbel
+Antwort_3=0Rohre
+Antwort_4=0Gläser
+
+[294]
+FZ1=
+FZ2=Wo findet man das "Deutsche Eck" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Koblenz
+Antwort_2=0Aachen
+Antwort_3=0Flensburg
+Antwort_4=0Schaffhausen
+
+[295]
+FZ1=
+FZ2=Wie nennt man den Modestil, der von Anfang bis Mitte der 1990er Jahre durch
+FZ3=äußerliche Schlampigkeit geprägt war ?
+Min=0
+Max=1000
+Antwort_1=1Grunge-Mode
+Antwort_2=0New Look
+Antwort_3=0High Fashion
+Antwort_4=0Urban Elegance
+
+[296]
+FZ1=
+FZ2=Wer oder was ist "Mykene" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein griechischer Ort und eine antike	Ruinenstätte
+Antwort_2=0eine griechische Sage
+Antwort_3=0eine griechische Göttin
+Antwort_4=0eine griechische Speise
+
+[297]
+FZ1=
+FZ2=Welche ist  k e i n e  Bezeichnung für eine Rebsorte ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Müller - Lüdenscheid
+Antwort_2=0Müller-Thurgau
+Antwort_3=0Riesling
+Antwort_4=0Gutedel
+
+[298]
+FZ1=
+FZ2=Wie bezeichnet man die gegenseitige Krafteinwirkung beim Zusammenprall
+FZ3=zweier Körper ?
+Min=0
+Max=1000
+Antwort_1=1Wucht
+Antwort_2=0Stoß
+Antwort_3=0Zug
+Antwort_4=0Elastizität
+
+[299]
+FZ1=
+FZ2=In welcher Stadt spielt sich das Geschehen in den meisten Filmen Woody Allens ab ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1New York
+Antwort_2=0Los Angeles
+Antwort_3=0Chicago
+Antwort_4=0New Orleans
+
+[300]
+FZ1=
+FZ2=Wie heißen die beiden Gründer von Rom ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Romulus und Remus
+Antwort_2=0Jupiter und Juno
+Antwort_3=0Cäsar und Augustus
+Antwort_4=0Cicero und Cato
+
+

@@ -1,0 +1,2448 @@
+[Thema]
+Thema= Dinosaurier
+Fragen=222
+Autor=Manfred Hartisch 5/2001
+
+[1]
+FZ1=
+FZ2=Welcher Dinosaurier konnte fliegen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Dimorphodon	
+Antwort_2=0Stegosaurus	
+Antwort_3=0Triceratops	
+Antwort_4=0T - Rex	
+
+[2]
+FZ1=
+FZ2=Welcher Dinosaurier konnte fliegen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Pteranodon	
+Antwort_2=0Maiasaurus	
+Antwort_3=0Camptosaurus	
+Antwort_4=0Diplodocus	
+
+[3]
+FZ1=
+FZ2=Welcher Dinosaurier fraß Fleisch ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Velociraptor	
+Antwort_2=0Iguanodon	
+Antwort_3=0Diplodocus	
+Antwort_4=0Brachiosaurus	
+
+[4]
+FZ1=
+FZ2=Welcher Dinosaurier fraß Fleisch ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1T - Rex	
+Antwort_2=0Procompsognathus	
+Antwort_3=0Plateosaurus	
+Antwort_4=0Triceratops	
+
+[5]
+FZ1=
+FZ2=Welcher Dinosaurier fraß Fleisch ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Deinonychus	
+Antwort_2=0Kentrosaurus	
+Antwort_3=0Camptosaurus	
+Antwort_4=0Maiasaurus	
+
+[6]
+FZ1=
+FZ2=Welcher Dinosaurier konnte fliegen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Pterodactylus	
+Antwort_2=0Brachiosaurus	
+Antwort_3=0Mamenchisaurus	
+Antwort_4=0Apatosaurus	
+
+[7]
+FZ1=
+FZ2=Welcher Dinosaurier ging auf zwei Beinen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Tyrannosaurus	
+Antwort_2=0Stegosaurus	
+Antwort_3=0Apatosaurus	
+Antwort_4=0Brachiosaurus	
+
+[8]
+FZ1=
+FZ2=Wie heißt der Dinosaurier-Film von Steven Spielberg ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Jurassic Park	
+Antwort_2=0Central Park	
+Antwort_3=0Hyde Park	
+Antwort_4=0South Park	
+
+[9]
+FZ1=
+FZ2=Was ist  k e i n  Dinosaurier ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Grizzly	
+Antwort_2=0Maiasaura	
+Antwort_3=0Baryonyx	
+Antwort_4=0Allosaurus	
+
+[10]
+FZ1=
+FZ2=Was ist  k e i n  Dinosaurier ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kaiman	
+Antwort_2=0Iguanodon	
+Antwort_3=0Diplodocus	
+Antwort_4=0Baryonyx	
+
+[11]
+FZ1=
+FZ2=Welche Spannweite hatte Quetzalcoatlus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=112 m	
+Antwort_2=04 m	
+Antwort_3=08 m	
+Antwort_4=02 m	
+
+[12]
+FZ1=
+FZ2=Welcher Dinosaurier konnte  n i c h t  fliegen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Baryonyx	
+Antwort_2=0Anurognathus	
+Antwort_3=0Rhamphorhynchus	
+Antwort_4=0Pteranodon	
+
+[13]
+FZ1=
+FZ2=Welcher Dinosaurier hatte Hörner ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Triceratops	
+Antwort_2=0T - Rex	
+Antwort_3=0Pteranodon	
+Antwort_4=0Baryonyx	
+
+[14]
+FZ1=
+FZ2=Wie lang war der Hals von Elasmosaurus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 7 m	
+Antwort_2=0ca. 4 m	
+Antwort_3=0ca. 2 m	
+Antwort_4=0ca. 12 m	
+
+[15]
+FZ1=
+FZ2=Welcher Dinosaurier hatte keine Beine ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Elasmosaurus	
+Antwort_2=0Stegosaurus	
+Antwort_3=0Triceratops	
+Antwort_4=0Brachiosaurus	
+
+[16]
+FZ1=
+FZ2=Wie heißt der größte Fleisch fressende Dinosaurier ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1T - Rex	
+Antwort_2=0Allosaurus	
+Antwort_3=0Megalosaurus	
+Antwort_4=0Velociraptor	
+
+[17]
+FZ1=
+FZ2=Welcher Dinosaurier hatte kein Horn ? 
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Ankylosaurus	
+Antwort_2=0Styracosaurus	
+Antwort_3=0Triceratops	
+Antwort_4=0Torosaurus	
+
+[18]
+FZ1=
+FZ2=Wie bewegte sich Elasmosaurus ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1schwimmend	
+Antwort_2=0fliegend	
+Antwort_3=0laufend	
+Antwort_4=0kriechend	
+
+[19]
+FZ1=
+FZ2=Wie lang konnte das Nasenhorn des
+FZ3=Styracosaurus werden ?
+Min=4000
+Max=32000
+Antwort_1=1 ca. 60 cm
+Antwort_2=0 ca. 6 cm
+Antwort_3=0 ca. 160 cm
+Antwort_4=0 ca. 30 cm
+
+[20]
+FZ1=
+FZ2=Wie viele Stacheln hatte der
+FZ3=Styracosaurus im Nacken ?
+Min=2000
+Max=8000
+Antwort_1=0 4
+Antwort_2=1 6
+Antwort_3=0 8
+Antwort_4=0 10
+
+[21]
+FZ1=
+FZ2=Wie schützte sich Ankylosaurus vor
+FZ3=seinen Feinden ?
+Min=1000
+Max=8000
+Antwort_1=0 Er lief schnell weg.
+Antwort_2=1 mit seinem Panzer und Stacheln
+Antwort_3=0 mit seinem Peitschenschwanz
+Antwort_4=0 mit seinen Dornenkrallen
+
+[22]
+FZ1=
+FZ2=Wie groß war die Flügelspannweite
+FZ3=von Archaeopteryx ?
+Min=4000
+Max=64000
+Antwort_1=0 5 m
+Antwort_2=0 3 m
+Antwort_3=1 50 cm
+Antwort_4=0 15 cm
+
+[23]
+FZ1=
+FZ2=Welches Vogelmerkmal besaß
+FZ3=Archaeopteryx ?
+Min=2000
+Max=32000
+Antwort_1=0 Er konnte pfeifen.
+Antwort_2=1 Er hatte Federn.
+Antwort_3=0 den spitzen Schnabel
+Antwort_4=0 die vier Gliedmaßen
+
+[24]
+FZ1=
+FZ2=Wie lief Megalosaurus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0 auf allen vieren
+Antwort_2=0 auf den Vorderbeinen
+Antwort_3=0 Er hatte keine Beine.
+Antwort_4=1 auf den Hinterbeinen
+
+[25]
+FZ1=
+FZ2=Wie lang wurde Megalosaurus ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 so lang wie ein Hund
+Antwort_2=0 so lang wie ein Pferd
+Antwort_3=1 so lang wie ein Elefant
+Antwort_4=0 so lang wie eine Maus
+
+[26]
+FZ1=
+FZ2=Was fraß Brachiosaurus ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=0 Insekten und Käfer
+Antwort_2=0 andere Saurier
+Antwort_3=1 Pflanzen
+Antwort_4=0 Fische
+
+[27]
+FZ1=
+FZ2=Wie schwer wurde Brachiosaurus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 ca. 20 Tonnen
+Antwort_2=0 ca. 40 Tonnen
+Antwort_3=0 ca. 60 Tonnen
+Antwort_4=1 ca. 80 Tonnen
+
+[28]
+FZ1=
+FZ2=Wie lang wurde Brachiosaurus ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=0 ca. 2 m
+Antwort_2=1 ca. 20 m
+Antwort_3=0 ca. 40 m
+Antwort_4=0 ca. 70 m
+
+[29]
+FZ1=
+FZ2=Was bedeutet der Name
+FZ3=Brachiosaurus ?
+Min=50000
+Max=1000000
+Antwort_1=0 Fußechse
+Antwort_2=0 Schwanzechse
+Antwort_3=0 Halsechse
+Antwort_4=1 Armechse
+
+[30]
+FZ1=
+FZ2=Wie lang konnte Tyrannosaurus werden ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=0 1 - 2 m
+Antwort_2=1 5 - 10 m
+Antwort_3=0 10 - 15 m
+Antwort_4=0 15 - 20 m
+
+[31]
+FZ1=
+FZ2=Wie groß war der Fußabdruck
+FZ3=eines Tyrannosaurus ?
+Min=16000
+Max=125000
+Antwort_1=0 so groß wie ein Teller
+Antwort_2=0 so groß wie eine Pfanne
+Antwort_3=0 so groß wie eine Wanne
+Antwort_4=1 so groß wie eine Duschtasse
+
+[32]
+FZ1=
+FZ2=Was fraß Tyrannosaurus ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 Fleisch
+Antwort_2=0 Getreide
+Antwort_3=0 Pflanzen
+Antwort_4=0 Fisch
+
+[33]
+FZ1=
+FZ2=Wie lief Tyrannosaurus ?
+FZ3=
+Min=500
+Max=1000
+Antwort_1=1 auf den Hinterbeinen
+Antwort_2=0 auf den Vorderbeinen
+Antwort_3=0 auf allen vieren
+Antwort_4=0 Er flog.
+
+[34]
+FZ1=
+FZ2=Wie weit kam Tyrannosaurus mit
+FZ3=einem Schritt vorwärts ?
+Min=8000
+Max=125000
+Antwort_1=1 ca. 2,50 m
+Antwort_2=0 ca. 1 m
+Antwort_3=0 ca. 5 m
+Antwort_4=0 ca. 7,5 m
+
+[35]
+FZ1=
+FZ2=Wie lang wurden die Zähne von
+FZ3=Tyrannosaurus ?
+Min=1000
+Max=16000
+Antwort_1=0 3 cm
+Antwort_2=0 10 cm
+Antwort_3=1 15 cm
+Antwort_4=0 12 cm
+
+[36]
+FZ1=
+FZ2=Wo hat man Tyrannosaurus gefunden ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=0 in China
+Antwort_2=0 in Afrika
+Antwort_3=0 in Europa
+Antwort_4=1 in Nordamerika
+
+[37]
+FZ1=
+FZ2=Wie schwer wurde Tyrannosaurus ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0 ca. 2 Tonnen
+Antwort_2=0 ca. 4 Tonnen
+Antwort_3=0 ca. 10 Tonnen
+Antwort_4=1 ca. 7 Tonnen
+
+[38]
+FZ1=
+FZ2=Welches auffällige Merkmal besaß
+FZ3=Parasaurolophus ?
+Min=4000
+Max=32000
+Antwort_1=0 einen langen Rüssel
+Antwort_2=0 einen langen Schwanz
+Antwort_3=0 einen langen Hals
+Antwort_4=1 einen langen Fortsatz am Kopf
+
+[39]
+FZ1=
+FZ2=Wie lang wurde Parasaurolophus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 ca. 4 m
+Antwort_2=0 ca. 8 m
+Antwort_3=1 ca. 6 m
+Antwort_4=0 ca. 10 m
+
+[40]
+FZ1=
+FZ2=Wie schwer wurde Parasaurolophus ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0 ca. 1 Tonne
+Antwort_2=1 ca. 2,5 Tonnen
+Antwort_3=0 ca. 5 Tonnen
+Antwort_4=0 ca. 7,5 Tonnen
+
+[41]
+FZ1=
+FZ2=Was fraß Ceratosaurus ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1 Fleisch
+Antwort_2=0 Fische
+Antwort_3=0 Pflanzen
+Antwort_4=0 Insekten
+
+[42]
+FZ1=
+FZ2=Wie viele Zehen hatte Ceratosaurus ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0 vorne 2 und hinten 3
+Antwort_2=1 vorne 4 und hinten 3
+Antwort_3=0 vorne 3 und hinten 5
+Antwort_4=0 vorne 4 und hinten 4
+
+[43]
+FZ1=
+FZ2=Wo lebte Ceratosaurus ?
+FZ3=
+Min=500000
+Max=1000000
+Antwort_1=0 in Europa und Afrika
+Antwort_2=0 in Asien und Afrika
+Antwort_3=1 in Amerika und Afrika
+Antwort_4=0 in Australien und China
+
+[44]
+FZ1=
+FZ2=Was war das besondere Merkmal von
+FZ3=Stegosaurus ?
+Min=0
+Max=1000
+Antwort_1=1 die Knochenplatten auf dem Rücken
+Antwort_2=0 der dicke Schwanz
+Antwort_3=0 seine 6 Hörner
+Antwort_4=0 die langen Vorderbeine
+
+[45]
+FZ1=
+FZ2=Wie groß wurden die Knochenplatten
+FZ3=von Stegosaurus ?
+Min=8000
+Max=125000
+Antwort_1=0 ca. 20 cm
+Antwort_2=0 ca. 40 cm
+Antwort_3=1 ca. 1 m
+Antwort_4=0 ca. 60 cm
+
+[46]
+FZ1=
+FZ2=Wie lang wurden die Stacheln am Schwanz
+FZ3=von Stegosaurus ?
+Min=2000
+Max=16000
+Antwort_1=0 ca. 15 cm
+Antwort_2=0 ca. 25 cm
+Antwort_3=0 ca. 70 cm
+Antwort_4=1 ca. 90 cm
+
+[47]
+FZ1=
+FZ2=Wozu dienten Stegosaurus
+FZ3=Schwanzstacheln ?
+Min=200
+Max=1000
+Antwort_1=0 zum Klettern
+Antwort_2=1 zur Verteidigung
+Antwort_3=0 zum Festhalten
+Antwort_4=0 zum Umdrehen der Eier
+
+[48]
+FZ1=
+FZ2=Wie schwer wurde Stegosaurus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 ca. 2 Tonnen
+Antwort_2=0 ca. 4 Tonnen
+Antwort_3=1 ca. 6 Tonnen
+Antwort_4=0 ca. 8 Tonnen
+
+[49]
+FZ1=
+FZ2=Wie lang wurde Stegosaurus ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 2 - 3 m
+Antwort_2=0 4 - 6 m
+Antwort_3=0 9 - 12 m
+Antwort_4=1 7 - 8 m
+
+[50]
+FZ1=
+FZ2=Wo lebte Stegosaurus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 in Afrika
+Antwort_2=0 in China
+Antwort_3=0 in Südamerika
+Antwort_4=1 in Nordamerika
+
+[51]
+FZ1=
+FZ2=Was fraß Stegosaurus ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 Eier
+Antwort_2=0 Insekten
+Antwort_3=1 Pflanzen
+Antwort_4=0 Fleisch
+
+[52]
+FZ1=
+FZ2=Wann lebte Apatosaurus ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 vor 150 Millionen Jahren
+Antwort_2=0 vor 250 Millionen Jahren
+Antwort_3=0 vor 50 Millionen Jahren
+Antwort_4=0 vor 200 Millionen Jahren
+
+[53]
+FZ1=
+FZ2=Was fraß Apatosaurus ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0 andere Saurier
+Antwort_2=0 Fische
+Antwort_3=0 Farne
+Antwort_4=1 Laub und Wasserpflanzen
+
+[54]
+FZ1=
+FZ2=Wo lebte Apatosaurus ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=0 in Nord- und Südamerika
+Antwort_2=0 in Australien und China
+Antwort_3=1 in Nordamerika und Europa
+Antwort_4=0 in Europa und Afrika
+
+[55]
+FZ1=
+FZ2=Wie lang war der Hals von
+FZ3=Apatosaurus ?
+Min=1000
+Max=16000
+Antwort_1=1 ca. 6 m
+Antwort_2=0 ca. 4 m
+Antwort_3=0 ca. 2 m
+Antwort_4=0 ca. 1 m
+
+[56]
+FZ1=
+FZ2=Wie lang war Apatosaurus ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0 ca. 5 m
+Antwort_2=0 ca. 12 m
+Antwort_3=0 ca. 16 m
+Antwort_4=1 ca. 20 m
+
+[57]
+FZ1=
+FZ2=Was bedeutet "Dinosaurier" ?
+FZ3=
+Min=100
+Max=2000
+Antwort_1=0 ausgestorbenes Tier
+Antwort_2=1 schreckliche Echse
+Antwort_3=0 donnerndes Raubtier
+Antwort_4=0 furchtbarer Koloss
+
+[58]
+FZ1=
+FZ2=Welche Beutetiere jagte Dimetrodon ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Flug- und Raubsaurier
+Antwort_2=0 Flug- und Fischsaurier
+Antwort_3=0 Kriechtiere und Insekten
+Antwort_4=1 Lurche und Kriechtiere
+
+[59]
+FZ1=
+FZ2=Was hatte Dimetrodon auf dem Rücken ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0 eine Rückenplatte
+Antwort_2=0 viele Rückenstachel
+Antwort_3=0 ein Rückenhorn
+Antwort_4=1 ein Rückensegel
+
+[60]
+FZ1=
+FZ2=Wie schwer wurde Dimetrodon ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0 ca. 50 kg
+Antwort_2=0 ca. 250 kg
+Antwort_3=1 ca. 150 kg
+Antwort_4=0 ca. 350 kg
+
+[61]
+FZ1=
+FZ2=Wie lang wurde Dimetrodon ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 2 - 3 m
+Antwort_2=0 4 - 6 m
+Antwort_3=0 7 - 9 m
+Antwort_4=0 10 - 12 m
+
+[62]
+FZ1=
+FZ2=Wie groß wurde Compsognathus ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1 wie ein Huhn
+Antwort_2=0 wie ein Hund
+Antwort_3=0 wie ein Pferd
+Antwort_4=0 wie ein Elefant
+
+[63]
+FZ1=
+FZ2=Wie bewegte sich Compsognathus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1 auf den Hinterbeinen
+Antwort_2=0 auf allen vieren
+Antwort_3=0 auf dem Bauch kriechend
+Antwort_4=0 meist fliegend
+
+[64]
+FZ1=
+FZ2=Wie schwer wurde Compsognathus ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=0 ca. 30 kg
+Antwort_2=0 ca. 300 kg
+Antwort_3=1 ca. 3 kg
+Antwort_4=0 ca. 3000 kg
+
+[65]
+FZ1=
+FZ2=Wann lebte Plateosaurus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 vor 205 Millionen Jahren
+Antwort_2=0  vor 105 Millionen Jahren
+Antwort_3=0  vor 305 Millionen Jahren
+Antwort_4=0  vor 65 Millionen Jahren
+
+[66]
+FZ1=
+FZ2=Was fraß Plateosaurus ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1 Er war Allesfresser.
+Antwort_2=0 Er war Pflanzenfresser.
+Antwort_3=0 Er war Fleischfresser.
+Antwort_4=0 Er war Früchtefresser.
+
+[67]
+FZ1=
+FZ2=Wie lang wurde Plateosaurus ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 bis 2 m
+Antwort_2=1 bis 8 m
+Antwort_3=0 bis 4 m
+Antwort_4=0 bis 6 m
+
+[68]
+FZ1=
+FZ2=Wie schwer wurde Plateosaurus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 ca. 1800 kg
+Antwort_2=0 ca. 180 kg
+Antwort_3=0 ca. 4 Tonnen
+Antwort_4=0 ca. 14 Tonnen
+
+[69]
+FZ1=
+FZ2=Wie hoch wurde Plateosaurus ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 1 - 2 m
+Antwort_2=1 etwas über 5 m
+Antwort_3=0 fast 10 m
+Antwort_4=0 genau 7 m
+
+[70]
+FZ1=
+FZ2=Wo lebte Plateosaurus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 in Europa
+Antwort_2=0 in Afrika
+Antwort_3=0 in Asien
+Antwort_4=0 in Amerika
+
+[71]
+FZ1=
+FZ2=Wo lebte Plesiosaurus ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0 auf dem Land
+Antwort_2=1  im Meer
+Antwort_3=0 im Wald
+Antwort_4=0 in der Luft
+
+[72]
+FZ1=
+FZ2=Was fraß  Plesiosaurus ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1 Fische
+Antwort_2=0 andere Saurier
+Antwort_3=0 Pflanzen
+Antwort_4=0 Insekten
+
+[73]
+FZ1=
+FZ2=Wie lang wurde  Plesiosaurus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 1 - 2 m
+Antwort_2=1 3 - 5 m
+Antwort_3=0 7 - 9 m
+Antwort_4=0 11 - 14 m
+
+[74]
+FZ1=
+FZ2=Wie schwer wurde  Plesiosaurus ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 ca. 4 Tonnen
+Antwort_2=0 ca. 8 Tonnen
+Antwort_3=0 ca. 16 Tonnen
+Antwort_4=0 ca. 32 Tonnen
+
+[75]
+FZ1=
+FZ2=Wann lebte Pteranodon ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 vor 85 Millionen Jahren
+Antwort_2=0  vor 185 Millionen Jahren
+Antwort_3=0  vor 285 Millionen Jahren
+Antwort_4=0  vor 385 Millionen Jahren
+
+[76]
+FZ1=
+FZ2=Was für ein Saurier war Pteranodon ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0 ein Raubsaurier
+Antwort_2=1 ein Flugsaurier
+Antwort_3=0 ein Fischsaurier
+Antwort_4=0 ein Kriechsaurier
+
+[77]
+FZ1=
+FZ2=Welche Flügelspannweite erreichte
+FZ3=Pteranodon ?
+Min=32000
+Max=125000
+Antwort_1=1 ca. 8 m
+Antwort_2=0 ca. 2 m
+Antwort_3=0 ca. 6 m
+Antwort_4=0 ca. 10 m
+
+[78]
+FZ1=
+FZ2=Wo lebte Pteranodon ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 in Nordamerika
+Antwort_2=0 in Südafrika
+Antwort_3=0 in Westrussland
+Antwort_4=0 in Ostchina
+
+[79]
+FZ1=
+FZ2=Wie bewegte sich Pteranodon ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 kriechend
+Antwort_2=0 hüpfend
+Antwort_3=0 schwimmend
+Antwort_4=1 flatternd
+
+[80]
+FZ1=
+FZ2=Was fraß Pteranodon ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1 Fische
+Antwort_2=0 Pflanzen
+Antwort_3=0 Saurier
+Antwort_4=0 Obst
+
+[81]
+FZ1=
+FZ2=Wie schwer wurde Pteranodon ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1 20 kg
+Antwort_2=0 200 kg
+Antwort_3=0 2000 kg
+Antwort_4=0 20000 kg
+
+[82]
+FZ1=
+FZ2=Was fraß Allosaurus ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=0 alles
+Antwort_2=0 Pflanzen
+Antwort_3=0 Fische
+Antwort_4=1 Fleisch
+
+[83]
+FZ1=
+FZ2=Wie lang konnte Allosaurus  werden ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1 11 m
+Antwort_2=0 9 m
+Antwort_3=0 15 m
+Antwort_4=0 22 m
+
+[84]
+FZ1=
+FZ2=Womit hielt Allosaurus beim
+FZ3=Laufen sein Gleichgewicht ?
+Min=500
+Max=4000
+Antwort_1=1 mit seinem Schwanz
+Antwort_2=0 mit seinen Vorderbeinen
+Antwort_3=0 mit seinem Kopf
+Antwort_4=0 mit seinem Rückensegel
+
+[85]
+FZ1=
+FZ2=Wo lebte Allosaurus ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1 Nordamerika
+Antwort_2=0 Südaustralien
+Antwort_3=0 Westeuropa
+Antwort_4=0 Ostindien
+
+[86]
+FZ1=
+FZ2=Wie schwer wurde Allosaurus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1 5 Tonnen
+Antwort_2=0 7 Tonnen
+Antwort_3=0 9 Tonnen
+Antwort_4=0 11 Tonnen
+
+[87]
+FZ1=
+FZ2=Wie viele Zähne hatte Allosaurus ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=0 gar keine
+Antwort_2=1 72
+Antwort_3=0 34
+Antwort_4=0 122
+
+[88]
+FZ1=
+FZ2=Was ist das besondere Merkmal
+FZ3=von Anatosaurus ?
+Min=16000
+Max=125000
+Antwort_1=0 sein spitzer Schwanz
+Antwort_2=0 sein dicker Bauch
+Antwort_3=0 seine breiten Hörner
+Antwort_4=1 seine Entenschnabelschnauze
+
+[89]
+FZ1=
+FZ2=Wie schwer wurde Anatosaurus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 5 Tonnen
+Antwort_2=0 2 Tonnen
+Antwort_3=0 9 Tonnen
+Antwort_4=0 25 Tonnen
+
+[90]
+FZ1=
+FZ2=In welchem Raum lebte
+FZ3=Anatosaurus ?
+Min=64000
+Max=500000
+Antwort_1=0 Wüsten und Savannen
+Antwort_2=0 Mittel- und Hochgebirge
+Antwort_3=0 Laub- und Farnwald
+Antwort_4=1 Feuchtgebiete und Sumpfwälder
+
+[91]
+FZ1=
+FZ2=Wo lebte Anatosaurus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 Amerika
+Antwort_2=0 Afrika
+Antwort_3=0 Australien
+Antwort_4=0 Europa
+
+[92]
+FZ1=
+FZ2=Was fraß Anatosaurus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 Fische
+Antwort_2=0 Insekten
+Antwort_3=1 Pflanzen
+Antwort_4=0 Saurier
+
+[93]
+FZ1=
+FZ2=Was bedeutet der Name
+FZ3=Anatosaurus ?
+Min=8000
+Max=64000
+Antwort_1=0 Ananas - Echse
+Antwort_2=0 andere Echse
+Antwort_3=0 alberne Echse
+Antwort_4=1 Enten - Echse
+
+[94]
+FZ1=
+FZ2=Wie bewegte sich
+FZ3=Anatosaurus fort ?
+Min=8000
+Max=32000
+Antwort_1=1 auf den Hinterbeinen
+Antwort_2=0 auf dem Bauch kriechend
+Antwort_3=0 schwimmend
+Antwort_4=0 auf allen vieren
+
+[95]
+FZ1=
+FZ2=Wann lebte Allosaurus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 vor 150 Millionen Jahren
+Antwort_2=0 vor 250 Millionen Jahren
+Antwort_3=0 vor 350 Millionen Jahren
+Antwort_4=0 vor 75 Millionen Jahren
+
+[96]
+FZ1=
+FZ2=Wann lebte Anatosaurus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 vor 170 Millionen Jahren
+Antwort_2=0 vor 150 Millionen Jahren
+Antwort_3=0 vor 100 Millionen Jahren
+Antwort_4=1 vor 70 Millionen Jahren
+
+[97]
+FZ1=
+FZ2=Wann lebte Lambeosaurus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 vor 150 Millionen Jahren
+Antwort_2=1 vor 70 Millionen Jahren
+Antwort_3=0 vor 230 Millionen Jahren
+Antwort_4=0 vor 310 Millionen Jahren
+
+[98]
+FZ1=
+FZ2=Was ist das auffällige Merkmal des
+FZ3=Lambeosaurus ?
+Min=64000
+Max=250000
+Antwort_1=1 die helmförmige Kopfform
+Antwort_2=0 der zweigeteilte Schwanz
+Antwort_3=0 seine stumpfen Krallen
+Antwort_4=0 die breite Halskrause
+
+[99]
+FZ1=
+FZ2=Wo lebte Lambeosaurus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1 Nordamerika
+Antwort_2=0 Südamerika
+Antwort_3=0 Nordspanien
+Antwort_4=0 Südtirol
+
+[100]
+FZ1=
+FZ2=Was fraß Lambeosaurus ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 Pflanzen
+Antwort_2=0 Fleisch
+Antwort_3=0 Fisch
+Antwort_4=0 Insekten
+
+[101]
+FZ1=
+FZ2=Wie bewegte sich Lambeosaurus fort ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 auf den Hinterbeinen
+Antwort_2=0 auf den Vorderbeinen
+Antwort_3=0 fliegend
+Antwort_4=0 schwimmend
+
+[102]
+FZ1=
+FZ2=Wie lang wurde Lambeosaurus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 12 m
+Antwort_2=0 6 m
+Antwort_3=0 18 m
+Antwort_4=0 24 m
+
+[103]
+FZ1=
+FZ2=In wie vielen Reihen standen die
+FZ3=Zähne in Lambeosaurus Kiefer ?
+Min=16000
+Max=250000
+Antwort_1=1 etwa 40
+Antwort_2=0 etwa 10
+Antwort_3=0 2 Reihen
+Antwort_4=0 6 Reihen
+
+[104]
+FZ1=
+FZ2=Wann lebte Chasmosaurus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 vor 100 Millionen Jahren
+Antwort_2=0 vor 200 Millionen Jahren
+Antwort_3=0 vor 150 Millionen Jahren
+Antwort_4=0 vor 50 Millionen Jahren
+
+[105]
+FZ1=
+FZ2=Wie viele Hörner hatte Chasmosaurus
+FZ3=am Kopf ?
+Min=2000
+Max=32000
+Antwort_1=1 3
+Antwort_2=0 2
+Antwort_3=0 4
+Antwort_4=0 5
+
+[106]
+FZ1=
+FZ2=Wo lebte Chasmosaurus ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1  Nordamerika
+Antwort_2=0 Südafrika
+Antwort_3=0 Australien
+Antwort_4=0 China
+
+[107]
+FZ1=
+FZ2=Was fraß Chasmosaurus ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 Pflanzen
+Antwort_2=0 Fische
+Antwort_3=0 Fleisch
+Antwort_4=0 Lurche
+
+[108]
+FZ1=
+FZ2=Was war das besondere Merkmal
+FZ3=von Chasmosaurus ?
+Min=8000
+Max=32000
+Antwort_1=1 die großen Nackenschilder
+Antwort_2=0 die kleinen Hinterbeine
+Antwort_3=0 die dünnen Vorderbeine
+Antwort_4=0 der dicke Rücken
+
+[109]
+FZ1=
+FZ2=Wie lang konnte Chasmosaurus
+FZ3=werden ?
+Min=2000
+Max=16000
+Antwort_1=1 ca. 5 m
+Antwort_2=0 ca. 3 m
+Antwort_3=0 ca. 8 m
+Antwort_4=0 ca. 13 m
+
+[110]
+FZ1=
+FZ2=Wie schwer war Chasmosaurus ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 ca. 2 Tonnen
+Antwort_2=0 ca. 500 kg
+Antwort_3=0 ca. 6 Tonnen
+Antwort_4=0 ca. 11 Tonnen
+
+[111]
+FZ1=
+FZ2=Wann lebte Struthiomimus ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 vor 75 Millionen Jahren
+Antwort_2=0 vor 100 Millionen Jahren
+Antwort_3=0 vor 175 Millionen Jahren
+Antwort_4=0 vor 229 Millionen Jahren
+
+[112]
+FZ1=
+FZ2=Wie lang wurde Struthiomimus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1 4,50 m
+Antwort_2=0 2,20 m
+Antwort_3=0 6,80 m
+Antwort_4=0 1,30 m
+
+[113]
+FZ1=
+FZ2=Wie hoch wurde Struthiomimus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1 2 - 3 m
+Antwort_2=0 4 - 5 m
+Antwort_3=0 3 - 4 m
+Antwort_4=0 1 - 2 m
+
+[114]
+FZ1=
+FZ2=Wie viele Zähne hatte
+FZ3=Struthiomimus im schnabelähnlichen Maul ?
+Min=1000
+Max=4000
+Antwort_1=1 keine
+Antwort_2=0 32
+Antwort_3=0 64
+Antwort_4=0 128
+
+[115]
+FZ1=
+FZ2=Wie schwer wurde Struthiomimus ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1 ca. 800 kg
+Antwort_2=0 ca. 80 kg
+Antwort_3=0 ca. 8000 kg
+Antwort_4=0 ca. 180 kg
+
+[116]
+FZ1=
+FZ2=Wann lebte Triceratops ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1  vor 70 Millionen Jahren
+Antwort_2=0  vor 170 Millionen Jahren
+Antwort_3=0  vor 270 Millionen Jahren
+Antwort_4=0  vor 320 Millionen Jahren
+
+[117]
+FZ1=
+FZ2=Was ist das besondere Merkmal
+FZ3=von Triceratops ?
+Min=100
+Max=2000
+Antwort_1=1 seine 3 Hörner am Kopf
+Antwort_2=0 seine Schwanzkeule
+Antwort_3=0 sein Flughäute
+Antwort_4=0 seine Schwimmflossen
+
+[118]
+FZ1=
+FZ2=Wie lang wurde Triceratops ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1 4  - 7 m
+Antwort_2=0 1 - 3 m
+Antwort_3=0 8 - 12 m
+Antwort_4=0 15 - 20 m
+
+[119]
+FZ1=
+FZ2=Was fraß Triceratops ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1 Pflanzen
+Antwort_2=0 Würmer
+Antwort_3=0 Fische
+Antwort_4=0 Insekten
+
+[120]
+FZ1=
+FZ2=Wie schwer wurde Triceratops ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=0 100 kg
+Antwort_2=1 ca. 11 Tonnen
+Antwort_3=0 700 kg
+Antwort_4=0 ca. 66 Tonnen
+
+[121]
+FZ1=
+FZ2=Wo lebte Triceratops ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Europa
+Antwort_2=1 Amerika
+Antwort_3=0 Asien
+Antwort_4=0 Afrika
+
+[122]
+FZ1=
+FZ2=Wann lebte Protoceratops ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 vor 70 Millionen Jahren
+Antwort_2=0 vor 170 Millionen Jahren
+Antwort_3=1 vor 100 Millionen Jahren
+Antwort_4=0 vor 240 Millionen Jahren
+
+[123]
+FZ1=
+FZ2=Wie lang wurde Protoceratops ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 weniger als 1 m
+Antwort_2=1 etwas über 2 m
+Antwort_3=0 genau 3 m
+Antwort_4=0 zwischen 4 - 5 m
+
+[124]
+FZ1=
+FZ2=Was fraß Protoceratops ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 Fische
+Antwort_2=0 Insekten
+Antwort_3=0 Saurier
+Antwort_4=1 Pflanzen
+
+[125]
+FZ1=
+FZ2=Wo lebte Protoceratops ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Afrika und Südamerika
+Antwort_2=0 Asien und Europa
+Antwort_3=1 Asien und Nordamerika
+Antwort_4=0 Afrika und Australien
+
+[126]
+FZ1=
+FZ2=Wie schwer wurde Protoceratops ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 ca. 10 kg
+Antwort_2=0 ca. 1000 kg
+Antwort_3=1 ca. 100 kg
+Antwort_4=0 ca. 10000 kg
+
+[127]
+FZ1=
+FZ2=Wann lebte Iguanodon ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 vor 200 Millionen Jahren
+Antwort_2=0 vor 150 Millionen Jahren
+Antwort_3=0 vor 70 Millionen Jahren
+Antwort_4=1 vor 100 Millionen Jahren
+
+[128]
+FZ1=
+FZ2=Wo wurden die ersten Versteinerungen
+FZ3=von Iguanodon gefunden ?
+Min=500
+Max=8000
+Antwort_1=0 in Spanien
+Antwort_2=1 in England
+Antwort_3=0 in Frankreich
+Antwort_4=0 in Finnland
+
+[129]
+FZ1=
+FZ2=Was fraß Iguanodon ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=0 Pilze
+Antwort_2=0 Eicheln
+Antwort_3=0 Käfer
+Antwort_4=1 Pflanzen
+
+[130]
+FZ1=
+FZ2=Wie schwer wurde  Iguanodon ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 3 Tonnen
+Antwort_2=1 5 Tonnen
+Antwort_3=0 7 Tonnen
+Antwort_4=0 9 Tonnen
+
+[131]
+FZ1=
+FZ2=Wie lang wurde  Iguanodon ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 bis 3 m
+Antwort_2=0 über 15 m
+Antwort_3=0 genau 6 m
+Antwort_4=1 8 - 9 m
+
+[132]
+FZ1=
+FZ2=Wie hoch wurde ein
+FZ3=aufgerichteter  Iguanodon ?
+Min=1000
+Max=8000
+Antwort_1=1 5 m
+Antwort_2=0 2m
+Antwort_3=0 8 m
+Antwort_4=0 16 m
+
+[133]
+FZ1=
+FZ2=Wie heißt der bekannteste Dinosaurier ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 Tyrannosaurus
+Antwort_2=0 Yangtsusaurus
+Antwort_3=0 Parasaurolophus
+Antwort_4=0 Megalosaurus
+
+[134]
+FZ1=
+FZ2=Wie jagten Steinzeitmenschen
+FZ3=die Dinosaurier ?
+Min=0
+Max=1000
+Antwort_1=1 Es gab noch keine Steinzeitmenschen.
+Antwort_2=0 mit großen Fallen
+Antwort_3=0 mit vergifteten Speeren
+Antwort_4=0 mit Wurfkeulen
+
+[135]
+FZ1=
+FZ2=Wozu gehören die Dinosaurier ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0 zu den Vögeln
+Antwort_2=0  zu den Amphibien
+Antwort_3=1 zu den Reptilien
+Antwort_4=0 zu den Säugetieren
+
+[136]
+FZ1=
+FZ2=Wie heißt der bekannteste
+FZ3=Horndinosaurier ?
+Min=0
+Max=4000
+Antwort_1=0 Stegosaurus
+Antwort_2=0 Tyrannosaurus
+Antwort_3=0 Pteranodon
+Antwort_4=1 Triceratops
+
+[137]
+FZ1=
+FZ2=Was ist ein "Reptil" ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0 Insektenfresser
+Antwort_2=0 Schwimmtier
+Antwort_3=0 Schuppentier
+Antwort_4=1 Kriechtier
+
+[138]
+FZ1=
+FZ2=Wie war das Wetter bei den
+FZ3=Dinosauriern ?
+Min=1000
+Max=16000
+Antwort_1=0 Es regnete nur.
+Antwort_2=0 Es war kälter.
+Antwort_3=0 Es war wie heute.
+Antwort_4=1 Es war wärmer.
+
+[139]
+FZ1=
+FZ2=Was bedeutet "Stegosaurier" ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0stehender Saurier
+Antwort_2=0stolzer Saurier
+Antwort_3=1Stachelsaurier
+Antwort_4=0Schwimmsaurier
+
+[140]
+FZ1=
+FZ2=Welcher Saurier konnte fliegen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0 Triceratops
+Antwort_2=1 Pteranodon
+Antwort_3=0 Parasaurolophus
+Antwort_4=0 Iguanodon
+
+[141]
+FZ1=
+FZ2=Wie viele Dinosaurierarten
+FZ3=sind bisher entdeckt worden ?
+Min=64000
+Max=500000
+Antwort_1=1 über 500
+Antwort_2=0 100
+Antwort_3=0 200
+Antwort_4=0 300 - 400
+
+[142]
+FZ1=
+FZ2=Fraßen einige Dinosaurier auch Insekten ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 nein
+Antwort_2=1 ja
+Antwort_3=0 nur die Männchen
+Antwort_4=0 nur die Weibchen
+
+[143]
+FZ1=
+FZ2=In welchem Land wurden bisher die
+FZ3=größten Raubdinosaurier gefunden ?
+Min=16000
+Max=250000
+Antwort_1=0 Afghanistan
+Antwort_2=0 Irland
+Antwort_3=1 Argentinien
+Antwort_4=0 Mongolei
+
+[144]
+FZ1=
+FZ2=Wie kann man die Geschwindigkeit eines
+FZ3=Dinosauriers errechnen ?
+Min=16000
+Max=250000
+Antwort_1=1 durch den Abstand der Fußabdrücke
+Antwort_2=0 durch die Schwanzlänge
+Antwort_3=0 durch das Gewicht
+Antwort_4=0 durch den Knochenbau
+
+[145]
+FZ1=
+FZ2=Welche Hautfarbe hatten die Dinosaurier ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0 grau - grün
+Antwort_2=0 braun - gelb
+Antwort_3=1 Das weiß man nicht.
+Antwort_4=0 schwarz - braun
+
+[146]
+FZ1=
+FZ2=Was fraßen die Flugsaurier ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 kleine Saurier
+Antwort_2=0 Pflanzen
+Antwort_3=0 Fleisch
+Antwort_4=1 Fische
+
+[147]
+FZ1=
+FZ2=Wie nennt man die Urzeitforscher, die
+FZ3=auch Dinosaurierknochen ausgraben ?
+Min=250000
+Max=1000000
+Antwort_1=0 Philologen
+Antwort_2=1 Paläontologen
+Antwort_3=0 Pätaontologen
+Antwort_4=0 Paraontologen
+
+[148]
+FZ1=
+FZ2=Was fanden die Forscher manchmal
+FZ3=im Magen von Riesendinosauriern ?
+Min=8000
+Max=125000
+Antwort_1=0 Gras
+Antwort_2=0 Muscheln
+Antwort_3=1 Steine
+Antwort_4=0 Sand
+
+[149]
+FZ1=
+FZ2=Welcher Dinosaurier heißt "Eierdieb" ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 Triceratops
+Antwort_2=0 Brachiosaurus
+Antwort_3=0 Tyrannosaurus
+Antwort_4=1 Oviraptor
+
+[150]
+FZ1=
+FZ2=Wann lebten die ersten Dinosaurier ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 vor ca. 230 Millionen Jahren
+Antwort_2=0 vor ca. 180 Millionen Jahren
+Antwort_3=0 vor ca. 100 Millionen Jahren
+Antwort_4=1 vor ca. 65 Millionen Jahren
+
+[151]
+FZ1=
+FZ2=In welchem Erdzeitalter lebten
+FZ3=keine Dinosaurier ?
+Min=16000
+Max=250000
+Antwort_1=0 Trias
+Antwort_2=0 Jura
+Antwort_3=1 Kambrium
+Antwort_4=0 Kreidezeit
+
+[152]
+FZ1=
+FZ2=Welcher Hornsaurier hatte
+FZ3=die meisten Hörner ?
+Min=16000
+Max=125000
+Antwort_1=1 Pentaceratops
+Antwort_2=0 Triceratops
+Antwort_3=0 Proceratops
+Antwort_4=0 Rinoceratops
+
+[153]
+FZ1=
+FZ2=Wie viel Blätter fraß Lufengosaurus
+FZ3=an einem Tag ?
+Min=125000
+Max=500000
+Antwort_1=0 10 kg
+Antwort_2=0 50kg
+Antwort_3=0 200 kg
+Antwort_4=1 500 kg
+
+[154]
+FZ1=
+FZ2=Was war die gefährliche Waffe von
+FZ3=Deinonychus ?
+Min=4000
+Max=125000
+Antwort_1=0 sein spitzes Horn
+Antwort_2=0 seine Schwanzstacheln
+Antwort_3=1 seine dolchartige Kralle
+Antwort_4=0 seine Reißzähne
+
+[155]
+FZ1=
+FZ2=Was fraß Deinonychus ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1 Fleisch
+Antwort_2=0 Pflanzen
+Antwort_3=0 Fische
+Antwort_4=0 Insekten
+
+[156]
+FZ1=
+FZ2=Aus welchem Grund sind die Dinosaurier
+FZ3=ausgestorben ?
+Min=16000
+Max=250000
+Antwort_1=0 Sie waren zu alt.
+Antwort_2=0 Säugetiere fraßen ihre Eier.
+Antwort_3=0 Es wurde zu heiß.
+Antwort_4=1 Ein Meteor fiel auf die Erde.
+
+[157]
+FZ1=
+FZ2=Iguanodon verteidigte sich mit ...
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0  Schwanzstacheln
+Antwort_2=1  spitzem Hornstachel am Daumen
+Antwort_3=0  drei Nackenhörnern
+Antwort_4=0  Keulenschwanz
+
+[158]
+FZ1=
+FZ2=Wie schnell wurde Hypsilophodon ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0 ca. 10 km/h
+Antwort_2=0 ca. 20 km/h
+Antwort_3=0 ca. 40 km/h
+Antwort_4=1 ca. 50 km/h
+
+[159]
+FZ1=
+FZ2=Wann starben die Dinosaurier aus ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0 vor ca. 220 Millionen Jahren
+Antwort_2=0 vor ca. 120 Millionen Jahren
+Antwort_3=0 vor ca. 180 Millionen Jahren
+Antwort_4=1 vor ca. 65 Millionen Jahren
+
+[160]
+FZ1=
+FZ2=Was bedeutet der Name von
+FZ3=Deinonychus ?
+Min=4000
+Max=125000
+Antwort_1=0 schreckliche Echse
+Antwort_2=0 Donnerechse
+Antwort_3=1 Schreckenskralle
+Antwort_4=0 Scharfzahn
+
+[161]
+FZ1=
+FZ2=Gab es schon Insekten, als die
+FZ3=Dinosaurier lebten ?
+Min=5000
+Max=4000
+Antwort_1=1 ja
+Antwort_2=0 nein
+Antwort_3=0 nur die Libellen
+Antwort_4=0 nur die Dinokäfer
+
+[162]
+FZ1=
+FZ2=Woher wissen die Forscher, was
+FZ3=die Dinosaurier gefressen haben ?
+Min=500
+Max=1000
+Antwort_1=1 vom Gebiss und den Zähnen
+Antwort_2=0 von der Größe
+Antwort_3=0 vom Fundort
+Antwort_4=0 vom Skelett
+
+[163]
+FZ1=
+FZ2=Wo haben die Forscher besonders
+FZ3=viele Dinosaurier gefunden ?
+Min=16000
+Max=125000
+Antwort_1=1 Mongolei
+Antwort_2=0 Nordamerika
+Antwort_3=0 Europa
+Antwort_4=0 Afrika
+
+[164]
+FZ1=
+FZ2=Wie heißt der berühmte Urvogel ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=0 Asterix
+Antwort_2=0 Appendix
+Antwort_3=1 Archaeopteryx
+Antwort_4=0 Arche Noah
+
+[165]
+FZ1=
+FZ2=Was unterscheidet die Dinosaurier
+FZ3=von den anderen Reptilien ?
+Min=32000
+Max=250000
+Antwort_1=1 Beine stehen senkrecht unter dem Körper
+Antwort_2=0 Sie legten viele Eier.
+Antwort_3=0 Sie atmeten mit Lungen.
+Antwort_4=0 Sie hatten lange Schwänze.
+
+[166]
+FZ1=
+FZ2=Wie hieß der erste große Raubsaurier ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 Megalosaurus
+Antwort_2=0 Tyrannosaurus
+Antwort_3=0 Allosaurus
+Antwort_4=0 Velociraptor
+
+[167]
+FZ1=
+FZ2=Welche Dinosaurier hatten
+FZ3=die dicksten Schädel ?
+Min=2000
+Max=16000
+Antwort_1=0 Anatosaurus
+Antwort_2=1 Pachycephalosaurier
+Antwort_3=0 Pleciosaurus
+Antwort_4=0 Stegosaurus
+
+[168]
+FZ1=
+FZ2=Welcher Saurier lebte im Meer ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 Ichthyosaurus
+Antwort_2=0 Tricearatops
+Antwort_3=0 Pteranodon
+Antwort_4=0 Quetzalcoatlus
+
+[169]
+FZ1=
+FZ2=Was war das besondere Merkmal
+FZ3=der Riesendinosaurier ?
+Min=500
+Max=4000
+Antwort_1=0 die langen Beine
+Antwort_2=1 der lange Hals
+Antwort_3=0 der dicke Schwanz
+Antwort_4=0 der große Kopf
+
+[170]
+FZ1=
+FZ2=Quetzalcoatlus war ein ...
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1 Flugsaurier
+Antwort_2=0 Fischsaurier
+Antwort_3=0 Raubsaurier
+Antwort_4=0 Hornsaurier
+
+[171]
+FZ1=
+FZ2=Fraßen die Pflanzenfresser auch Gras ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0 ja
+Antwort_2=1  Es gab noch kein Gras.
+Antwort_3=0 nur im Sommer
+Antwort_4=0 nur die Weibchen
+
+[172]
+FZ1=
+FZ2=Was führte  - außer dem Meteoriteneinschlag -
+FZ3=zum Aussterben der Dinosaurier ?
+Min=4000
+Max=32000
+Antwort_1=1 das kühlere Klima
+Antwort_2=0 die Regenzeit
+Antwort_3=0 die Steinzeitmenschen
+Antwort_4=0 das heißere Klima
+
+[173]
+FZ1=
+FZ2=Welcher Dinosaurier angelte mit seiner
+FZ3=Kralle nach Fischen ?
+Min=16000
+Max=125000
+Antwort_1=0 Velociraptor
+Antwort_2=0 Deinonychus
+Antwort_3=0 Iguanodon
+Antwort_4=1 Baryonyx
+
+[174]
+FZ1=
+FZ2=Wie lang wurde die Kralle
+FZ3=von Baryonyx
+Min=2000
+Max=16000
+Antwort_1=1 etwa 30 cm
+Antwort_2=0 etwa 3 cm
+Antwort_3=0 etwa 10 cm
+Antwort_4=0 etwa 20 cm
+
+[175]
+FZ1=
+FZ2=Womit verteidigten sich die
+FZ3=Riesendinosaurier ?
+Min=1000
+Max=8000
+Antwort_1=1 Peitschenschwanz
+Antwort_2=0 Keulenschwanz
+Antwort_3=0 Dornenhufen
+Antwort_4=0 Krallenfüßen
+
+[176]
+FZ1=
+FZ2=Wie sahen die Ohren der
+FZ3=Dinosaurier aus ?
+Min=0
+Max=300
+Antwort_1=0 wie Elefantenohren
+Antwort_2=1 Sie waren nicht sichtbar.
+Antwort_3=0 wie Menschenohren
+Antwort_4=0 wie Hasenohren
+
+[177]
+FZ1=
+FZ2=Wer brütete die Eier des Maiasaura aus ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1 die Sonne
+Antwort_2=0 das Muttertier
+Antwort_3=0 die Elterntiere
+Antwort_4=0 alle Weibchen der Herde
+
+[178]
+FZ1=
+FZ2=Wie lang wurden die Zähne von Allosaurus ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 ca. 10 cm
+Antwort_2=0 ca. 15 cm
+Antwort_3=0 ca. 20 cm
+Antwort_4=0 ca. 25 cm
+
+[179]
+FZ1=
+FZ2=Wie alt wurden die Riesendinosaurier ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 10 - 20 Jahre
+Antwort_2=0 80 - 140 Jahre
+Antwort_3=0 60 - 100 Jahre
+Antwort_4=1 100 - 200 Jahre
+
+[180]
+FZ1=
+FZ2=Welches Dinosaurier war kein Fleischfresser ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1 Brachiosaurus
+Antwort_2=0 Tyrannosaurus
+Antwort_3=0 Allosaurus
+Antwort_4=0 Deinonychus
+
+[181]
+FZ1=
+FZ2=Wie groß waren die Eier der
+FZ3=Riesendinosaurier ?
+Min=16000
+Max=64000
+Antwort_1=1 ca. 1 m
+Antwort_2=0 ca. 2 m
+Antwort_3=0 ca. 3 m
+Antwort_4=0 ca. 4 m
+
+[182]
+FZ1=
+FZ2=Wie groß war das Gehirn von Stegosaurus ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=0 so groß wie eine Erbse
+Antwort_2=0 so groß wie eine Kokosnuss
+Antwort_3=0 so groß wie ein Fußball
+Antwort_4=1 so groß wie eine Walnuss
+
+[183]
+FZ1=
+FZ2=Wo schlug der Meteorit zur Dinosaurierzeit ein ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 Mexiko
+Antwort_2=0 Indien
+Antwort_3=0 China
+Antwort_4=0 Afrika
+
+[184]
+FZ1=
+FZ2=Was trug Spinosaurus auf seinem Rücken ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1 ein Hautsegel
+Antwort_2=0 seine Jungen
+Antwort_3=0 spitze Stacheln
+Antwort_4=0 Panzerplatten
+
+[185]
+FZ1=
+FZ2=Wie nennt man die Riesendinosaurier noch ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Elefantenfußdinosaurier
+Antwort_2=0 Giraffenhalsdinosaurier
+Antwort_3=0 Krokodilschwanzsaurier
+Antwort_4=0 Büffelkopfdinosaurier
+
+[186]
+FZ1=
+FZ2=Das Herz eines Tyrannosaurus war
+FZ3=so groß wie ein ...
+Min=32000
+Max=250000
+Antwort_1=1 Schwein
+Antwort_2=0 Pferd
+Antwort_3=0 Dackel
+Antwort_4=0 Igel
+
+[187]
+FZ1=
+FZ2=Wie jagte Deinonychus seine Beute ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=0 allein
+Antwort_2=1 im Rudel
+Antwort_3=0 zu zweit
+Antwort_4=0 zu viert
+
+[188]
+FZ1=
+FZ2=Wo lebte Leaellynasaura ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 in Südafrika
+Antwort_2=0 in Nordamerika
+Antwort_3=0 am Nordpol
+Antwort_4=1 am Südpol
+
+[189]
+FZ1=
+FZ2=Wie viele Finger hatte Tyrannosaurus an
+FZ3=seinen kleinen Ärmchen ?
+Min=200
+Max=1000
+Antwort_1=1 2
+Antwort_2=0 3
+Antwort_3=0 4
+Antwort_4=0 5
+
+[190]
+FZ1=
+FZ2=Welche Tiere gab es bereits in der Dinosaurierzeit ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 Säbelzahntiger
+Antwort_2=0 Mammut
+Antwort_3=0 Gürteltiere
+Antwort_4=1 Mücken
+
+[191]
+FZ1=
+FZ2=Wie heißt der vermutlich allererste Dinosaurier ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 Eoraptor
+Antwort_2=0 Nodosaurus
+Antwort_3=0 Tsintaosaurus
+Antwort_4=0 Diplododucus
+
+[192]
+FZ1=
+FZ2=Wann lebte der vermutlich allererste
+FZ3=Dinosaurier ?
+Min=64000
+Max=500000
+Antwort_1=0 vor ca. 102 Millionen Jahren
+Antwort_2=0 vor ca. 156 Millionen Jahren
+Antwort_3=1 vor ca. 228 Millionen Jahren
+Antwort_4=0 vor ca. 346 Millionen Jahren
+
+[193]
+FZ1=
+FZ2=Wie heißt der längste Dinosaurier  ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0 Stegosaurus
+Antwort_2=0 Mussaurus
+Antwort_3=0 Camarasaurus
+Antwort_4=1 Diplodocus
+
+[194]
+FZ1=
+FZ2=Wie lang war Mamenchisaurus ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1 22 m
+Antwort_2=0 32 m
+Antwort_3=0 12 m
+Antwort_4=0 6 m
+
+[195]
+FZ1=
+FZ2=Wie lang war der Hals von Mamenchisaurus ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1 10 m
+Antwort_2=0 6 m
+Antwort_3=0 4 m
+Antwort_4=0 2 m
+
+[196]
+FZ1=
+FZ2=Wo lebte Mamenchisaurus ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 Nordamerika
+Antwort_2=0 Afrika
+Antwort_3=0 Europa
+Antwort_4=1 China
+
+[197]
+FZ1=
+FZ2=Wann lebte Mamenchisaurus ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0 vor 110 Millionen Jahren
+Antwort_2=1 vor 160 Millionen Jahren
+Antwort_3=0 vor 210 Millionen Jahren
+Antwort_4=0 vor 80 Millionen Jahren
+
+[198]
+FZ1=
+FZ2=Wie schwer waren die größten
+FZ3=Dinosauriereier, die man bisher fand ?
+Min=64000
+Max=1000000
+Antwort_1=1 7 kg
+Antwort_2=0 17 kg
+Antwort_3=0 72 kg
+Antwort_4=0 35 kg
+
+[199]
+FZ1=
+FZ2=Wer trug bei Torosaurus
+FZ3=Nackenschilde und Hörner ?
+Min=200
+Max=16000
+Antwort_1=1 Männchen und Weibchen
+Antwort_2=0 nur die Männchen
+Antwort_3=0 nur die Weibchen
+Antwort_4=0 nur die erwachsenen Saurier
+
+[200]
+FZ1=
+FZ2=Was war das Schlimmste an
+FZ3=Allosaurus ?
+Min=0
+Max=1000
+Antwort_1=1 seine dolchartigen Zähne
+Antwort_2=0 sein Mundgeruch
+Antwort_3=0 sein Feuerspucken
+Antwort_4=0 sein Schwanzstachel
+
+[201]
+FZ1=
+FZ2=Wo lebte Barapasaurus ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 Indien
+Antwort_2=0 Mongolei
+Antwort_3=0 Mexiko
+Antwort_4=0 Argentinien
+
+[202]
+FZ1=
+FZ2=Wie lang wurde Barapasaurus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 15 m
+Antwort_2=0 10 m
+Antwort_3=0 5 m
+Antwort_4=0 2 m
+
+[203]
+FZ1=
+FZ2=Wo lebte Heterodontosaurus ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1 Afrika
+Antwort_2=0 Nordamerika
+Antwort_3=0 Europa
+Antwort_4=0 Asien
+
+[204]
+FZ1=
+FZ2=Was ist das Besondere des Heterodontosaurus ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1 drei verschiedene Zahntypen
+Antwort_2=0 Er hatte keine Zähne.
+Antwort_3=0 Er hatte keinen Schwanz.
+Antwort_4=0 Doppelschwanz
+
+[205]
+FZ1=
+FZ2=Wie lang war Dilophosaurus ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 6 m
+Antwort_2=0 10 m
+Antwort_3=0 4 m
+Antwort_4=0 16 m
+
+[206]
+FZ1=
+FZ2=Was hatte Dilophosaurus am Kopf ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1  zwei halbmondartige Kämme
+Antwort_2=0 drei gebogene Hörner
+Antwort_3=0 einen scharfen Stachel
+Antwort_4=0 vier gepanzerte Platten
+
+[207]
+FZ1=
+FZ2=Pterodactylus war ein ...
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1 Flugsaurier
+Antwort_2=0 Fischsaurier
+Antwort_3=0 Raubsaurier
+Antwort_4=0 Hornsaurier
+
+[208]
+FZ1=
+FZ2=Was fraß Diplodocus ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1 Pflanzen
+Antwort_2=0 Fleisch
+Antwort_3=0  Fische
+Antwort_4=0 Insekten
+
+[209]
+FZ1=
+FZ2=Wie lang war Diplodocus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 26 m
+Antwort_2=0 15 m
+Antwort_3=0 8 m
+Antwort_4=0 36 m
+
+[210]
+FZ1=
+FZ2=Was trug Ceratosaurus am Kopf ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1 ein kleines Horn
+Antwort_2=0 ein großes Horn
+Antwort_3=0 zwei Hörner
+Antwort_4=0 einen gebogenen Kamm
+
+[211]
+FZ1=
+FZ2=Was fraß Ceratosaurus ??
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1 Fleisch
+Antwort_2=0 Fisch
+Antwort_3=0 Pflanzen
+Antwort_4=0 Insekten
+
+[212]
+FZ1=
+FZ2=Wie lang wurde Ceratosaurus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1 6 m
+Antwort_2=0 10 m
+Antwort_3=0 16 m
+Antwort_4=0 22 m
+
+[213]
+FZ1=
+FZ2=Wie lang war Elasmosaurus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 14 m
+Antwort_2=0 4 m
+Antwort_3=0 40 m
+Antwort_4=0 24 m
+
+[214]
+FZ1=
+FZ2=Wie bewegte sich Elasmosaurus ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1 schwimmend
+Antwort_2=0 fliegend
+Antwort_3=0 laufend
+Antwort_4=0 kriechend
+
+[215]
+FZ1=
+FZ2=Wie lang war Velociraptor ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1 2 m
+Antwort_2=0 4 m
+Antwort_3=0  6 m
+Antwort_4=0 8 m
+
+[216]
+FZ1=
+FZ2=Was fraß Velociraptor ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1 Fleisch
+Antwort_2=0 Pflanzen
+Antwort_3=0 Fische
+Antwort_4=0 Sumpfpflanzen
+
+[217]
+FZ1=
+FZ2=Weshalb fraß Velociraptor keine Mammuts ?
+FZ3=
+Min=100
+Max=4000
+Antwort_1=1 Es gab noch keine Mammuts.
+Antwort_2=0 Sie waren zu groß.
+Antwort_3=0 Sie waren zu schnell.
+Antwort_4=0 Sie schmeckten nicht.
+
+[218]
+FZ1=
+FZ2=Wie lang war Corythosaurus ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 9 m
+Antwort_2=0 3 m
+Antwort_3=0 14 m
+Antwort_4=0 22 m
+
+[219]
+FZ1=
+FZ2=Was fraß Corythosaurus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1 Blätter, Samen und Früchte
+Antwort_2=0 Krebse, Muscheln und Fische
+Antwort_3=0 Saurier und Fische
+Antwort_4=0 Algen, Krebse und Insekten
+
+[220]
+FZ1=
+FZ2=Corythosaurus war ein ...
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1 Entenschnabeldinosaurier
+Antwort_2=0 Elefantenfußdinosaurier
+Antwort_3=0 Giraffenhalsdinosaurier
+Antwort_4=0 Straußendinosaurier
+
+[221]
+FZ1=
+FZ2=Wie viele Eier legte Maiasaura ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 20 und mehr
+Antwort_2=0 3 - 6
+Antwort_3=0 bis 10
+Antwort_4=0 nur ein Ei
+
+[222]
+FZ1=
+FZ2=Womit deckte Maiasaura die Eier zu ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0 mit ihrem Bauch
+Antwort_2=0 mit ihrem Schwanz
+Antwort_3=0 mit Steinen
+Antwort_4=1 mit Sand und Pflanzen
+
+

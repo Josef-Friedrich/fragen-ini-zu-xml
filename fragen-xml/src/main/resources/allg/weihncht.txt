@@ -1,0 +1,2206 @@
+[Thema]
+Thema=Rund um die Weihnachtszeit
+Fragen=200
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie hieß das Land unter römischer Herrschaft, in dem Bethlehem lag ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Judäa
+Antwort_2=0Peräa
+Antwort_3=0Galiläa
+Antwort_4=0Eritrea
+
+[2]
+FZ1=
+FZ2=Seit wann gibt es das rote, weiß umsäumte Nikolausgewand ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=11931 n. Chr.
+Antwort_2=01731 n. Chr.
+Antwort_3=01831 n. Chr.
+Antwort_4=01631 n. Chr.
+
+[3]
+FZ1=
+FZ2=Welche Farbe haben die Kerzen am Adventskranz gewöhnlich ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1rot
+Antwort_2=0blau
+Antwort_3=0grün
+Antwort_4=0gelb
+
+[4]
+FZ1=
+FZ2=Wie heißt die Mutter von Jesus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Maria
+Antwort_2=0Anna
+Antwort_3=0Johanna
+Antwort_4=0Elisabeth
+
+[5]
+FZ1=
+FZ2=Was meint das Wort "Ros" im Lied "Es ist ein Ros entsprungen ..." ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Spross
+Antwort_2=0Hagebutte
+Antwort_3=0Rose
+Antwort_4=0Pferd
+
+[6]
+FZ1=
+FZ2=Wann beginnt das Kirchenjahr ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1am 1. Advent
+Antwort_2=0am 31. Dezember
+Antwort_3=0am 1. Januar
+Antwort_4=0am 24. Dezember
+
+[7]
+FZ1=
+FZ2=An welchem Sonntag wird in der evangelischen Kirche besonders
+FZ3=an Maria gedacht ?
+Min=500000
+Max=500000
+Antwort_1=14. Advent
+Antwort_2=03. Advent
+Antwort_3=02. Advent
+Antwort_4=01. Advent
+
+[8]
+FZ1=
+FZ2=An welchem Sonntag wird in der evangelischen Kirche besonders an
+FZ3=Johannes den Täufer gedacht ?
+Min=500000
+Max=500000
+Antwort_1=13. Advent
+Antwort_2=02. Advent
+Antwort_3=01. Advent
+Antwort_4=04. Advent
+
+[9]
+FZ1=
+FZ2=An welche biblische Erzählung erinnern die grünen Zweige im Advent ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Einzug in Jerusalem
+Antwort_2=0Abendmahl
+Antwort_3=0Jesu Geburt
+Antwort_4=0Empfang der 10 Gebote
+
+[10]
+FZ1=
+FZ2=Welcher Engel verkündete Maria, dass sie einen Sohn bekommen werde ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Gabriel
+Antwort_2=0Michael
+Antwort_3=0Raphael
+Antwort_4=0Nathanael
+
+[11]
+FZ1=
+FZ2=Welches Evangelium wird am 1. Advent in der evangelischen Kirche verlesen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Einzug in Jerusalem
+Antwort_2=0Pharisäer und Zöllner
+Antwort_3=0Verlorener Sohn
+Antwort_4=0Jesu Geburt
+
+[12]
+FZ1=
+FZ2=Was ist eine Krippe ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ein Futtertrog für Tiere
+Antwort_2=0ein kleines Loch in der Erde
+Antwort_3=0ein Bettchen für ein Baby
+Antwort_4=0ein mit Stroh gefülltes Kissen
+
+[13]
+FZ1=
+FZ2=Welcher Name gehört  k e i ne m  Rentier vom amerikanischen Weihnachtsmann ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Schnuppe
+Antwort_2=0Goldie
+Antwort_3=0Sternchen
+Antwort_4=0Rudolf
+
+[14]
+FZ1=
+FZ2=Welcher Name gehört  k e i ne m  Rentier vom amerikanischen Weihnachtsmann ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Holzbein
+Antwort_2=0Wackelohr
+Antwort_3=0Süßzahn
+Antwort_4=0Braunauge
+
+[15]
+FZ1=
+FZ2=Welcher Name gehört  k e i ne m  Rentier vom amerikanischen Weihnachtsmann ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Regen
+Antwort_2=0Donner
+Antwort_3=0Blitz
+Antwort_4=0Raubein
+
+[16]
+FZ1=
+FZ2=Wie viele Rentiere ziehen in Amerika den Schlitten vom Weihnachtsmann ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=19
+Antwort_2=07
+Antwort_3=08
+Antwort_4=06
+
+[17]
+FZ1=
+FZ2=Wo starb der echte Bischof Nikolaus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Myra
+Antwort_2=0Madrid
+Antwort_3=0München
+Antwort_4=0Mailand
+
+[18]
+FZ1=
+FZ2=Wann starb der echte Bischof Nikolaus ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=16. Dezember 352 n. Chr.
+Antwort_2=024. Dezember 1209 n. Chr.
+Antwort_3=06. Dezember 352 v. Chr.
+Antwort_4=01. Dezember 1924 n. Chr.
+
+[19]
+FZ1=
+FZ2=Wie heißt in Amerika das berühmteste Rentier ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Rudolf
+Antwort_2=0Berthold
+Antwort_3=0Gandalf
+Antwort_4=0Ludwig
+
+[20]
+FZ1=
+FZ2=Wie heißt der Weihnachtsmann in Spanien ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Papá Noel
+Antwort_2=0Onkel Martin
+Antwort_3=0Opa Claus
+Antwort_4=0Bruder Louis
+
+[21]
+FZ1=
+FZ2=Wie heißt der Weihnachtsgruß in Italien ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Buon Natale
+Antwort_2=0Merry Christmas
+Antwort_3=0Feliz Navidad
+Antwort_4=0Joyeux Noel
+
+[22]
+FZ1=
+FZ2=In welchem Land heißt der Weihnachtsgruß  "Buon Natale" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Italien
+Antwort_2=0Russland
+Antwort_3=0Schweden
+Antwort_4=0Griechenland
+
+[23]
+FZ1=
+FZ2=Wie heißt der Weihnachtsgruß in Spanien ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Feliz Navidad
+Antwort_2=0Merry Christmas
+Antwort_3=0Buon Natale
+Antwort_4=0Hauskaa Jouluo
+
+[24]
+FZ1=
+FZ2=In welchem Land heißt der Weihnachtsgruß  "Feliz Navidad"  ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Spanien
+Antwort_2=0Norwegen
+Antwort_3=0Polen
+Antwort_4=0Ungarn
+
+[25]
+FZ1=
+FZ2=In welchem Land heißt der Weihnachtsgruß  "Joyeux Noel"  ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Frankreich
+Antwort_2=0Spanien
+Antwort_3=0Italien
+Antwort_4=0Portugal
+
+[26]
+FZ1=
+FZ2=Wie heißt der Weihnachtsgruß in Frankreich ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Joyeux Noel
+Antwort_2=0Buon Natale
+Antwort_3=0Merry Christmas
+Antwort_4=0Hauskaa Joulua
+
+[27]
+FZ1=
+FZ2=Wie heißt der Weihnachtsgruß in den USA und in England ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Merry Christmas
+Antwort_2=0Feliz Navidad
+Antwort_3=0Buon Natale
+Antwort_4=0Joyeux Noel
+
+[28]
+FZ1=
+FZ2=In welchen Ländern heißt der Weihnachtsgruß  "Merry Christmas"  ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1USA und England
+Antwort_2=0Griechenland und Belgien
+Antwort_3=0Italien und Spanien
+Antwort_4=0Österreich und Schweiz
+
+[29]
+FZ1=
+FZ2=Wie heißt der Weihnachtsgruß in Finnland ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Hauskaa Joulua
+Antwort_2=0Feliz Navidad
+Antwort_3=0Buon Natale
+Antwort_4=0Merry Christmas
+
+[30]
+FZ1=
+FZ2=In welchem Land heißt der Weihnachtsgruß   "Hauskaa Joulua"  ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Finnland
+Antwort_2=0Belgien
+Antwort_3=0Schweiz
+Antwort_4=0Holland
+
+[31]
+FZ1=
+FZ2=Was stellen die Kinder in den USA am Weihnachtsabend für die Rentiere auf ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Milch und Kekse
+Antwort_2=0Whiskey und Steaks
+Antwort_3=0Coca Cola und Hamburger
+Antwort_4=0Hafer und Heu
+
+[32]
+FZ1=
+FZ2=In welchem Land bringt Väterchen Frost die Geschenke ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Russland
+Antwort_2=0Deutschland
+Antwort_3=0Italien
+Antwort_4=0Spanien
+
+[33]
+FZ1=
+FZ2=Wer bringt in Russland die Geschenke ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Väterchen Frost
+Antwort_2=0Omilein Eis
+Antwort_3=0Mütterchen Schnee
+Antwort_4=0Onkelchen Sturm
+
+[34]
+FZ1=Wie nennt man in Mexiko ein liebevoll mit Sternen und Figuren dekoriertes
+FZ2=Tongefäß, das mit Früchten und Süßigkeiten gefüllt ist und aufgehängt wird und das
+FZ3=wichtigster Bestandteil des Weihnachtsfestes ist ?
+Min=500000
+Max=500000
+Antwort_1=1Pinata
+Antwort_2=0Peseta
+Antwort_3=0Polenta
+Antwort_4=0Piranha
+
+[35]
+FZ1=
+FZ2=Wo werden in Kolumbien die Geschenke für Weihnachten versteckt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1unter den Betten
+Antwort_2=0in den Garagen
+Antwort_3=0hinter den Schränken
+Antwort_4=0auf den Dächern
+
+[36]
+FZ1=
+FZ2=Wann beginnen in Kolumbien die Weihnachtsfeierlichkeiten ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=114. Dezember
+Antwort_2=011. November
+Antwort_3=01. Dezember
+Antwort_4=026. Dezember
+
+[37]
+FZ1=
+FZ2=In welchem Land wird oft schon am 15. Dezember
+FZ3=ein Plastiktannenbaum aufgestellt ?
+Min=125000
+Max=500000
+Antwort_1=1Australien
+Antwort_2=0Schweiz
+Antwort_3=0Österreich
+Antwort_4=0Belgien
+
+[38]
+FZ1=
+FZ2=In welchem Land wird am Morgen des 25. Dezember eine Ziege geschlachtet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Kenia
+Antwort_2=0Kroatien
+Antwort_3=0Kanada
+Antwort_4=0Kolumbien
+
+[39]
+FZ1=
+FZ2=Was wird in Kenia am Morgen des 25. Dezember geschlachtet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1eine Ziege
+Antwort_2=0ein Huhn
+Antwort_3=0ein Schwein
+Antwort_4=0ein Schaf
+
+[40]
+FZ1=
+FZ2=Was wird am 1. Januar bei den griechischen Familien
+FZ3=in einen Kuchen eingebacken ?
+Min=250000
+Max=500000
+Antwort_1=1eine Goldmünze
+Antwort_2=0eine Perle
+Antwort_3=0ein Silberring
+Antwort_4=0eine Olive
+
+[41]
+FZ1=
+FZ2=In welchem Land bringt der heilige Vassilius den Kindern die Geschenke ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Griechenland
+Antwort_2=0Indien
+Antwort_3=0Portugal
+Antwort_4=0Dänemark
+
+[42]
+FZ1=
+FZ2=In welchem Land stellen die Kinder als eine Art Bestechung eine Schüssel Grütze
+FZ3=für die Weihnachtswichte an das Fenster ?
+Min=500000
+Max=500000
+Antwort_1=1Norwegen
+Antwort_2=0Spanien
+Antwort_3=0Griechenland
+Antwort_4=0Deutschland
+
+[43]
+FZ1=
+FZ2=Was stellen in Norwegen die Kinder als eine Art Bestechung für die
+FZ3=Weihnachtswichte an das Fenster ?
+Min=500000
+Max=500000
+Antwort_1=1eine Schüssel Grütze
+Antwort_2=0einen Teller Pudding
+Antwort_3=0eine Schale Nüsse
+Antwort_4=0eine Tasse Milch
+
+[44]
+FZ1=
+FZ2=In welchem Land werden traditionsgemäß am Weihnachtsabend
+FZ3=Strümpfe an den Kamin gehängt ?
+Min=500000
+Max=500000
+Antwort_1=1England
+Antwort_2=0Ghana
+Antwort_3=0Schweiz
+Antwort_4=0Deutschland
+
+[45]
+FZ1=
+FZ2=Was wird in England traditionsgemäß am Weihnachtsabend an den Kamin gehängt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Strümpfe
+Antwort_2=0Taschen
+Antwort_3=0Schuhe
+Antwort_4=0Jacken
+
+[46]
+FZ1=
+FZ2=Was stellen die Kinder in den Niederlanden auf den Kamin,
+FZ3=um Sinterklaas (Nikolaus) freundlich zu stimmen ?
+Min=32000
+Max=125000
+Antwort_1=1Wasser, Mohrrübe oder Heu
+Antwort_2=0ihr Sparschwein
+Antwort_3=0ihr Zeugnis
+Antwort_4=0ein gemaltes Weihnachtsbild
+
+[47]
+FZ1=
+FZ2=In welchem Land hoffen die Kinder nach dem Weihnachtsessen unter ihrem Teller
+FZ3=ein Geldstück zu finden ?
+Min=500000
+Max=500000
+Antwort_1=1Polen
+Antwort_2=0Neuseeland
+Antwort_3=0Dänemark
+Antwort_4=0Deutschland
+
+[48]
+FZ1=
+FZ2=Was hoffen die Kinder in Polen nach dem Weihnachtsessen unter ihrem Teller
+FZ3=zu finden ?
+Min=125000
+Max=500000
+Antwort_1=1ein Geldstück
+Antwort_2=0eine Tafel Schokolade
+Antwort_3=0ein gutes Zeugnis
+Antwort_4=0eine CD - ROM
+
+[49]
+FZ1=
+FZ2=In welchem Land steht für einen Gast, der vielleicht unerwartet kommt, ein
+FZ3=zusätzliches Gedeck beim Weihnachtsessen auf dem Tisch ?
+Min=500000
+Max=500000
+Antwort_1=1Polen
+Antwort_2=0Italien
+Antwort_3=0USA
+Antwort_4=0Tunesien
+
+[50]
+FZ1=
+FZ2=Weshalb steht in Polen beim Weihnachtsessen ein zusätzliches Gedeck
+FZ3=auf dem Tisch ?
+Min=500000
+Max=500000
+Antwort_1=1für einen Gast, der vielleicht unerwartet	kommt
+Antwort_2=0damit man zweimal vom	Weihnachtsessen	nehmen kann
+Antwort_3=0weil der Pfarrer jede Familie im Dorf	besucht
+Antwort_4=0falls einmal ein Gedeck zerbricht
+
+[51]
+FZ1=
+FZ2=In welchem Land wird nach der Mitternachtsmesse auf dem Platz vor der Kirche
+FZ3=ein Baumstamm verbrannt ?
+Min=500000
+Max=500000
+Antwort_1=1Portugal
+Antwort_2=0Kanada
+Antwort_3=0Schweden
+Antwort_4=0Österreich
+
+[52]
+FZ1=
+FZ2=Welchen Weihnachtsbrauch gibt es in Portugal ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1auf dem Platz vor der Kirche	wird ein Baumstamm verbrannt
+Antwort_2=0in der Kirche wird getanzt
+Antwort_3=0auf dem Platz hinter der Kirche werden	die Geschenke versteckt
+Antwort_4=0um die Kirche herum wird ein Volkslauf	veranstaltet
+
+[53]
+FZ1=
+FZ2=Wann kommt in Italien La Befana (die gute Hexe) zu den Kindern ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=16. Januar
+Antwort_2=024. Dezember
+Antwort_3=06. Dezember
+Antwort_4=031. Dezember
+
+[54]
+FZ1=
+FZ2=Auf wen freuen sich am 6. Januar in Italien alle Kinder ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1La Befana (die gute Hexe)
+Antwort_2=0Osterhase
+Antwort_3=0La Mamma (die gute Mutter)
+Antwort_4=0La Potter (der gute Zauberer)
+
+[55]
+FZ1=
+FZ2=Wann wird in vielen Familien der Weihnachtsbaum zum letzten Mal angezündet ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=16. Januar
+Antwort_2=016. Januar
+Antwort_3=01. Januar
+Antwort_4=026. Dezember
+
+[56]
+FZ1=
+FZ2=Seit wann gibt es den Brauch der "Sternensinger" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1seit Ende des 16. Jahrhunderts
+Antwort_2=0seit Anfang des 20. Jahrhunderts
+Antwort_3=0seit Ende des 11. Jahrhunderts
+Antwort_4=0seit Mitte des 5. Jahrhunderts
+
+[57]
+FZ1=
+FZ2=Wie nennt man die verkleideten Kinder, die am 6. Januar von Haus zu Haus
+FZ3=ziehen und um kleine Gaben bitten ?
+Min=1000
+Max=8000
+Antwort_1=1Sternensinger
+Antwort_2=0Sonnenkönige
+Antwort_3=0Mondsänger
+Antwort_4=0Saturnpfeifer
+
+[58]
+FZ1=
+FZ2=An welchem Tag ist der "Dreikönigstag" ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=16. Januar
+Antwort_2=024. Dezember
+Antwort_3=06. Dezember
+Antwort_4=03. März
+
+[59]
+FZ1=
+FZ2=Wie nennt man seit dem 4. Jahrhundert n. Chr. den 6. Januar ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Dreikönigstag
+Antwort_2=0Zweigrafentag
+Antwort_3=0Vierkaisertag
+Antwort_4=0Einbarontag
+
+[60]
+FZ1=
+FZ2=Wann wurde in den ersten christlichen Jahrhunderten die Erscheinung
+FZ3=des Herrn gefeiert ?
+Min=500000
+Max=500000
+Antwort_1=16. Januar
+Antwort_2=06. Dezember
+Antwort_3=01. Dezember
+Antwort_4=024. Dezember
+
+[61]
+FZ1=
+FZ2=Wann wurde das Lied "Ihr Kinderlein kommet" zum ersten Male gesungen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11794
+Antwort_2=01899
+Antwort_3=01302
+Antwort_4=01958
+
+[62]
+FZ1=
+FZ2=Wer schrieb die Melodie zu "Vom Himmel hoch da komm ich her" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Johann Sebastian Bach
+Antwort_2=0Georg Friedrich Händel
+Antwort_3=0Wolfgang Amadeus Mozart
+Antwort_4=0Franz Schubert
+
+[63]
+FZ1=
+FZ2=Wer schrieb den Text zu "Vom Himmel hoch da komm ich her" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Martin Luther
+Antwort_2=0Johannes Tauler
+Antwort_3=0Joseph Mohr
+Antwort_4=0Christoph Schmid
+
+[64]
+FZ1=
+FZ2=Worauf ist die Melodie des Liedes "O du fröhliche" zurückzuführen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1auf ein altes Seemannslied aus Sizilien
+Antwort_2=0auf ein altes Minnelied aus Frankreich
+Antwort_3=0auf ein altes Kirchenlied aus Judäa
+Antwort_4=0auf ein altes Lied der Kreuzritter
+
+[65]
+FZ1=
+FZ2=Wer kommt in Italien am 6. Dezember ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1San Nicola
+Antwort_2=0Santa Claus
+Antwort_3=0Sinterklaas
+Antwort_4=0Knecht Ruprecht
+
+[66]
+FZ1=
+FZ2=Wo werden in der Adventszeit die Kinder mit Süßigkeiten und Früchten beschenkt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1in Estland
+Antwort_2=0in Kanada
+Antwort_3=0in Frankreich
+Antwort_4=0in Australien
+
+[67]
+FZ1=
+FZ2=Wer beschenkt in der Adventszeit in Estland die Kinder
+FZ3=mit Süßigkeiten und Früchten ?
+Min=500000
+Max=500000
+Antwort_1=1Gnome
+Antwort_2=0Rentiere
+Antwort_3=0Engel
+Antwort_4=0Riesen
+
+[68]
+FZ1=
+FZ2=Wie hieß der Kaiser zur Zeit Jesu Geburt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kaiser Augustus
+Antwort_2=0Kaiser Wilhelm II.
+Antwort_3=0Kaiser Cäsar
+Antwort_4=0Kaiser Nero
+
+[69]
+FZ1=
+FZ2=Wer hat den Adventskranz erfunden und uns zugänglich gemacht ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Pfr. Johann H. Wichern
+Antwort_2=0Die Blumenhändler, damit ihr Umsatz	im Dezember steigt.
+Antwort_3=0Bischof von Advent
+Antwort_4=0Kardinal von und zu Kranzenius der III.
+
+[70]
+FZ1=
+FZ2=Welcher Umzug findet in der Vorweihnachtszeit statt ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Martinsumzug
+Antwort_2=0Kostümumzug
+Antwort_3=0Karnevalsumzug
+Antwort_4=0Friedensumzug
+
+[71]
+FZ1=
+FZ2=In welchem Weihnachtslied lacht ein "Owi" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Stille Nacht
+Antwort_2=0Ihr Kinderlein kommet
+Antwort_3=0O Tannenbaum
+Antwort_4=0Es ist ein Ros entsprungen
+
+[72]
+FZ1=
+FZ2=In welchem Weihnachtslied macht der Vater im Himmel uns eine Freude ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Ihr Kinderlein kommet
+Antwort_2=0Vom Himmel hoch, da komm ich her
+Antwort_3=0O du fröhliche
+Antwort_4=0O Tannenbaum
+
+[73]
+FZ1=
+FZ2=Gibt es den Ort "Christkindl" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Ja, es ist ein Wallfahrtsort in	Oberösterreich.
+Antwort_2=0Ja, er wurde extra für die Kinder in	Bayern erbaut.
+Antwort_3=0nein
+Antwort_4=0Den Ort gibt es nur für den Poststempel	auf Weihnachtskarten.
+
+[74]
+FZ1=
+FZ2=Wie wird der 2. Weihnachtsfeiertag in England genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Boxing - Day
+Antwort_2=0Halloween - Day
+Antwort_3=0Thanksgiving - Day
+Antwort_4=0Domino - Day
+
+[75]
+FZ1=
+FZ2=Wer hat die Weihnachtskrippe eingeführt und somit bekannt gemacht ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Franz vom Assisi, 1189 - 1226
+Antwort_2=0Wolfgang Amadeus Mozart, 1719 - 1789
+Antwort_3=0Christoph Kolumbus, 1451 - 1506
+Antwort_4=0Napoleon, 1769 - 1821
+
+[76]
+FZ1=
+FZ2=Wann wird in Schweden der Tag der Lichterkönigin gefeiert ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=113. Dezember
+Antwort_2=024. Dezember
+Antwort_3=06. Dezember
+Antwort_4=031. Dezember
+
+[77]
+FZ1=
+FZ2=Wie wird in Schweden der 13. Dezember genannt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Tag der Lichterkönigin
+Antwort_2=0Tag der Rentiere
+Antwort_3=0Tag der Geschenke
+Antwort_4=0Tag der Vorfreude
+
+[78]
+FZ1=
+FZ2=Was essen die Amerikaner zu Weihnachten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Truthahn
+Antwort_2=0Wildschwein
+Antwort_3=0Karpfen
+Antwort_4=0Rindersteaks
+
+[79]
+FZ1=
+FZ2=Was sind die 'Psadas' bei den Mexikanern ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1bunte Umzüge, bei denen die	Herbergssuche nachgestellt wird.
+Antwort_2=0mit Kerzen bestückte Kakteen
+Antwort_3=0Weihnachtsgebäck aus Mais
+Antwort_4=0die Engel in der Weihnachtsgeschichte
+
+[80]
+FZ1=
+FZ2=Wie heißt das Weihnachtsfest bei den Schweden ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Julfest
+Antwort_2=0Mittsommerfest
+Antwort_3=0Jubelfest
+Antwort_4=0Christfest
+
+[81]
+FZ1=
+FZ2=Wann beginnen in Kolumbien bereits die Weihnachtsfeierlichkeiten ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1am 14. Dezember
+Antwort_2=0am 1. Dezember
+Antwort_3=0am 6. Dezember
+Antwort_4=0am 24. Dezember
+
+[82]
+FZ1=
+FZ2=Wer bringt den griechischen Kindern die Geschenke ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1der heilige Vassilius
+Antwort_2=0Knecht Ruprecht
+Antwort_3=0Santa Claus
+Antwort_4=0Pére Noel
+
+[83]
+FZ1=
+FZ2=Wann bringt der heilige Vassilius den griechischen Kindern die Geschenke ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1in der Nacht zum 1. Januar
+Antwort_2=0am 6. Dezember
+Antwort_3=0am 24. Dezember
+Antwort_4=0in der Nacht zum 6. Januar
+
+[84]
+FZ1=
+FZ2=Wann liegt das wahre Datum der Geburt Christi ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Das wahre Geburtsdatum liegt wohl 4-12	Jahre vor Beginn unserer Zeitrechnung.
+Antwort_2=0Das weiß man bis heute nicht.
+Antwort_3=0Das Geburtsdatum ist genau der Beginn	der Zeitrechnung, nämlich 0.
+Antwort_4=0Jesus Christus wurde schon 120 v. Chr.	geboren.
+
+[85]
+FZ1=
+FZ2=Mit welchen Worten beginnt die Weihnachtsgeschichte ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Es begab sich aber zu der Zeit, dass ein	Gebot vom Kaiser Augustus ausging,	dass
+Antwort_2=0Es kamen aber die Engel des Herrn	herauf
+Antwort_3=0Am Anfang schuf Gott Himmel und Erde
+Antwort_4=0Im Anfang war das Wort und das Wort	war bei Gott
+
+[86]
+FZ1=
+FZ2=Worin haben die Weihnachtsgeschenke ihre christliche Wurzel ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Sie haben ihre christliche Wurzel in	dem Bibelwort "Also hat Gott die Welt	geliebt."
+Antwort_2=0Sie haben ihre christlichen Wurzeln im	Paradies, als Eva dem Adam den Apfel	schenkte.
+Antwort_3=0Sie haben ihre christlichen Wurzeln als	Vorläufer des Winterschlussverkaufes.
+Antwort_4=0Sie haben ihre christlichen Wurzeln in	dem Bibelwort "Geben ist seliger denn	Nehmen"
+
+[87]
+FZ1=
+FZ2=Wann feiert die Armenier die Geburt Jesu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=118. und 19. Januar
+Antwort_2=06. Dezember
+Antwort_3=014. Februar
+Antwort_4=022. März
+
+[88]
+FZ1=
+FZ2=Wann feiert die griechische orthodoxe Kirche die Geburt Jesu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=16.1.
+Antwort_2=024.12.
+Antwort_3=06.12.
+Antwort_4=031.12.
+
+[89]
+FZ1=
+FZ2=Wann erklärte die Mainzer Synode offiziell den 25. Dezember
+FZ3=zum 1. Weihnachtsfeiertag ?
+Min=500000
+Max=500000
+Antwort_1=1813 n. Chr.
+Antwort_2=0138 n. Chr.
+Antwort_3=0318 n. Chr.
+Antwort_4=01888 n. Chr.
+
+[90]
+FZ1=
+FZ2=Wann setzte sich der 25. Dezember als Datum des 1. Weihnachtsfeiertages
+FZ3=in Deutschland durch ?
+Min=125000
+Max=500000
+Antwort_1=1im 7. und 8. Jahrhundert, damals	begann mit ihm das Kalenderjahr
+Antwort_2=0im 15. Jahrhundert, weil da Amerika	bereits entdeckt worden war
+Antwort_3=0nach der Schlacht im Teutoburger Wald
+Antwort_4=0im 2. Jahrhundert, weil da die	Germanen erstmals von der Geburt Jesu	hörten
+
+[91]
+FZ1=
+FZ2=Was versuchte Papst Hyppolit um 217 n. Christus ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Das Weihnachtsfest der Geburt Christi	auf den 25. Dezember zu legen.
+Antwort_2=0Das Weihnachtsfest ohne Geschenke	feiern zu lassen.
+Antwort_3=0Das Weihnachtsfest ganz abzuschaffen.
+Antwort_4=0Das Weihnachtsfest nur alle vier Jahre	feiern zu lassen.
+
+[92]
+FZ1=
+FZ2=Warum war der 25. Dezember in vielen Kulturen ein besonders wichtiger Tag ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Der 25. Dezember war in vielen	Kulturen der Tag der Sonnenwende.
+Antwort_2=0Der 25. Dezember war schon	immer der kälteste Tag des Jahres.
+Antwort_3=0Am 25. Dezember endete in vielen	Kulturen das Jahr.
+Antwort_4=0Am 25. Dezember wurde in vielen	Kulturen ein neuer König gewählt.
+
+[93]
+FZ1=
+FZ2=Von welchem ursprünglichen Ausdruck ist "Weihnachten" abgeleitet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1"Ze den wihen nahten" hieß	auf Hochdeutsch "zu den Heiligen	Nächten".
+Antwort_2=0Der 24. Dezember wurde bei den	Germanen schon immer "geweihte	Nacht" genannt.
+Antwort_3=0Weil oft Schnee lag, hieß es früher	"weiße Nacht".
+Antwort_4=0Die Franzosen tranken um den 24.	Dezember herum gerne Wein.
+
+[94]
+FZ1=
+FZ2=Warum feiern wir am 6. Dezember den Nikolaustag ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weil am 6. Dezember der Bischof	Nikolaus gestorben sein soll
+Antwort_2=0weil es ein günstiger Termin ist
+Antwort_3=0weil es die Kirche so festgelegt hat
+Antwort_4=0weil es dann nur noch 18 Tage bis	Weihnachten sind
+
+[95]
+FZ1=
+FZ2=Wann ist das Lied "Stille Nacht" entstanden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1im 19. Jahrhundert
+Antwort_2=0während der Reformation
+Antwort_3=0im 2. Jahrhundert
+Antwort_4=0in der Urkirche
+
+[96]
+FZ1=
+FZ2=Wo stellt man unter den Weihnachtsbaum auch Figuren von Adam und Eva ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Erzgebirge
+Antwort_2=0Bayern
+Antwort_3=0Schwarzwald
+Antwort_4=0Wiehengebirge
+
+[97]
+FZ1=
+FZ2=Wo formt man zu Weihnachten ein Lamm aus Butter und bringt es in die Kirche ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Schleswig-Holstein
+Antwort_2=0Frankreich
+Antwort_3=0Schweiz
+Antwort_4=0USA
+
+[98]
+FZ1=
+FZ2=Wann backt man Weihnachtsstollen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=16 Wochen vor Weihnachten
+Antwort_2=0am Nikolaustag
+Antwort_3=0Heilig Abend
+Antwort_4=0am 1. Dezember
+
+[99]
+FZ1=
+FZ2=Warum stehen Hase, Karpfen und Gans auf dem Speisezettel zu Weihnachten ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1weil sie besonders gut schmecken
+Antwort_2=0weil sie die Elemente verkörpern
+Antwort_3=0weil es Haustiere sind
+Antwort_4=0weil sie leicht zu fangen sind
+
+[100]
+FZ1=
+FZ2=Seit wann gibt es die Weihnachtskrippe ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1seit dem 16. Jahrhundert
+Antwort_2=0seit Franz von Assisi (1200)
+Antwort_3=0seit Karl dem Großen (um 800)
+Antwort_4=0seit dem 3. Jahrhundert
+
+[101]
+FZ1=
+FZ2=Wohin hängt man einen Mistelzweig ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1über die Tür
+Antwort_2=0an die Krippe
+Antwort_3=0ins Fenster
+Antwort_4=0neben den Weihnachtsbaum
+
+[102]
+FZ1=
+FZ2=Wo befinden sich die Geschenkwerkstätten des Nikolaus ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1am Nordpol
+Antwort_2=0in den Alpen
+Antwort_3=0am Südpol
+Antwort_4=0auf Island
+
+[103]
+FZ1=
+FZ2=Warum stehen auf Weihnachtsbildern Ochse und Esel an der Krippe ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Erfüllung von Jesaja 1, 3: "Der Ochse	kennt seinen Besitzer und der Esel die	Krippe seines Herrn"
+Antwort_2=0Es sind heilige Tiere.
+Antwort_3=0Zeichen der Armut Jesu
+Antwort_4=0Ochse und Esel gingen mit den Hirten	und waren immer zuerst da.
+
+[104]
+FZ1=
+FZ2=Was bedeutet das Wort "Spekulatius" ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Bildbrot
+Antwort_2=0italienisch für "Spezialität"
+Antwort_3=0Speckkuchen
+Antwort_4=0Weihnachtskuchen für Reiche
+
+[105]
+FZ1=
+FZ2=Was ist der Weihnachtsstern ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1eine mittelalterliche Pflanze, die bis	zu 4 Meter hoch werden kann
+Antwort_2=0ein traditionelles	Weihnachtsgeschenk in China
+Antwort_3=0ein Liederbuch
+Antwort_4=0eine Gebäckspezialität aus	Norwegen
+
+[106]
+FZ1=
+FZ2=In welchen Büchern der Bibel steht die Geburt Jesu ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1im Lukasevangelium
+Antwort_2=0im Markusevangelium
+Antwort_3=0im 1. Buch Mose
+Antwort_4=0im Matthäusevangelium
+
+[107]
+FZ1=
+FZ2=Wo stellt man einen Schiffsmast ins Weihnachtszimmer ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Norwegen
+Antwort_2=0Äthiopien
+Antwort_3=0Russland
+Antwort_4=0Island
+
+[108]
+FZ1=
+FZ2=Seit wann kennt man den Weihnachtsbaum ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Reformation (um 1540)
+Antwort_2=0Bonifatius-Mission (740)
+Antwort_3=0Romantik (um 1830)
+Antwort_4=0seit der Entdeckung Amerikas (um 1490)
+
+[109]
+FZ1=
+FZ2=Was essen "fromme" Kinder gern ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Äpfel, Nuss und Mandelkern
+Antwort_2=0Weihnachtsplätzchen
+Antwort_3=0Schokoladennikoläuse
+Antwort_4=0Marzipan
+
+[110]
+FZ1=
+FZ2=Was bedeuten die Zeichen K M B ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Kaspar - Melchior - Balthasar
+Antwort_2=0Kerzen - Manufaktur -	Braunschweig
+Antwort_3=0das hebräische Wort für	Weihnachten
+Antwort_4=0Kinder mögen Bethlehem
+
+[111]
+FZ1=
+FZ2=Wo gibt es zu Weihnachten Plumpudding ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1England
+Antwort_2=0Deutschland
+Antwort_3=0Russland
+Antwort_4=0Belgien
+
+[112]
+FZ1=
+FZ2=Wie heißt das bekannte Nikolauslied ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Lasst uns froh und munter sein
+Antwort_2=0Inmitten der Nacht
+Antwort_3=0Süßer die Glocken nie klingen
+Antwort_4=0Ihr Kinderlein kommet
+
+[113]
+FZ1=
+FZ2=Wo wächst der Weihnachtskaktus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Südamerika / Brasilien
+Antwort_2=0Afrika
+Antwort_3=0Weihnachtsinseln
+Antwort_4=0Australien
+
+[114]
+FZ1=
+FZ2=In welchen Ländern kommt der Nikolaus durch den Schornstein ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1USA und England
+Antwort_2=0Deutschland und Belgien
+Antwort_3=0Italien und Frankreich
+Antwort_4=0Schweden und Deutschland
+
+[115]
+FZ1=
+FZ2=Was ist Nikolausbrot ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Südtiroler Fladenbrot
+Antwort_2=0Weihnachtsgebäck in der	Schweiz
+Antwort_3=0Brot, das der Nikolaus gegessen hat
+Antwort_4=0Österreichische Spezialität
+
+[116]
+FZ1=
+FZ2=Welche Tiere ziehen den Schlitten von St. Nikolaus ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Rentiere
+Antwort_2=0Esel
+Antwort_3=0Schlittenhunde
+Antwort_4=0Pferde
+
+[117]
+FZ1=
+FZ2=Wann wird das Weihnachtsfest zum ersten Mal erwähnt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1354 nach Christus in Rom
+Antwort_2=0996 nach Christus
+Antwort_3=0im Neuen Testament
+Antwort_4=087 nach Christus in Bethlehem
+
+[118]
+FZ1=
+FZ2=Wer schrieb das Märchen "Der Tannenbaum" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Hans Christian Andersen
+Antwort_2=0Moritz Arndt
+Antwort_3=0Brüder Grimm
+Antwort_4=0Ludwig Bechstein
+
+[119]
+FZ1=
+FZ2=Wann wird in Schweden der Tag von Santa Lucia gefeiert ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=113. Dezember
+Antwort_2=024. Dezember
+Antwort_3=06. Dezember
+Antwort_4=031. Dezember
+
+[120]
+FZ1=
+FZ2=Welches Fest wird am 13. Dezember in Schweden gefeiert ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Tag von Santa Lucia
+Antwort_2=0Nikolaus
+Antwort_3=0Ostern
+Antwort_4=0Tag der Rentiere
+
+[121]
+FZ1=
+FZ2=Wer bringt in Frankreich die Geschenke ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Père Noel
+Antwort_2=0Nikolaus
+Antwort_3=0Sinter Klaas
+Antwort_4=0Santa Claus
+
+[122]
+FZ1=
+FZ2=In welchem Land heißt Nikolaus "Sinterklaas" ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Holland
+Antwort_2=0England
+Antwort_3=0Finnland
+Antwort_4=0Grönland
+
+[123]
+FZ1=
+FZ2=Wann wurden in England die ersten Weihnachtskarten gedruckt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11843
+Antwort_2=01643
+Antwort_3=01743
+Antwort_4=01943
+
+[124]
+FZ1=
+FZ2=In welchem Land wurden 1843 die ersten Weihnachtskarten gedruckt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1England
+Antwort_2=0Italien
+Antwort_3=0Deutschland
+Antwort_4=0Frankreich
+
+[125]
+FZ1=
+FZ2=Wo steht der berühmteste Weihnachtsbaum in New York ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Rockefeller Center
+Antwort_2=0Central Park
+Antwort_3=0Fifth Avenue
+Antwort_4=0East River
+
+[126]
+FZ1=
+FZ2=In welchem Land wurde das Lied "Stille Nacht" geschrieben ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Österreich
+Antwort_2=0Deutschland
+Antwort_3=0Schweiz
+Antwort_4=0Ungarn
+
+[127]
+FZ1=
+FZ2=Wer schrieb das Lied "Stille Nacht" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Joseph Mohr und Franz X. Gruber
+Antwort_2=0Engelbert Humperding
+Antwort_3=0Joseph und Maria
+Antwort_4=0Paul  McCartney
+
+[128]
+FZ1=
+FZ2=Welches Lied komponierten Vater Joseph Mohr und Franz X. Gruber ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Stille Nacht
+Antwort_2=0O du fröhliche
+Antwort_3=0Oh Tannenbaum
+Antwort_4=0Ihr Kinderlein kommet
+
+[129]
+FZ1=
+FZ2=An welchem Tag wird die erste Kerze des Adventskranzes angezündet ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Am vierten Sonntag vor dem	Heiligen Abend
+Antwort_2=0Am zweiten Sonntag vor dem	Heiligen Abend
+Antwort_3=0Am dritten Sonntag vor dem	Heiligen Abend
+Antwort_4=0Am ersten Sonntag vor dem	Heiligen Abend
+
+[130]
+FZ1=
+FZ2=Was war zur Geburt von Jesus schon von weitem zu sehen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1der Stern von Bethlehem
+Antwort_2=0ein Blitz
+Antwort_3=0der Leuchtturm am Berg
+Antwort_4=0ein Feuerwerk am Himmel
+
+[131]
+FZ1=
+FZ2=Welcher berühmter Deutscher brachte die Tradition
+FZ3=des Weihnachtsbaums nach England ?
+Min=125000
+Max=500000
+Antwort_1=1Königin Victorias Ehemann Prinz Albert
+Antwort_2=0Königin Elisabeths Onkel Detlef
+Antwort_3=0der Erfinder Albert Tänzer
+Antwort_4=0der Gärtner Johann Gutenberg
+
+[132]
+FZ1=
+FZ2=Welcher Heilige wird am 26. Dezember gefeiert ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Stefan
+Antwort_2=0Fabian
+Antwort_3=0Christian
+Antwort_4=0Thomas
+
+[133]
+FZ1=
+FZ2=Was bedeutet das Wort Advent ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Ankunft
+Antwort_2=0Freude
+Antwort_3=0Abfahrt
+Antwort_4=0Hoffnung
+
+[134]
+FZ1=
+FZ2=Von wem ist St. Nikolaus der Schutzpatron ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kinder und Seefahrer
+Antwort_2=0Seefahrer und Bergsteiger
+Antwort_3=0Kinder und Eltern
+Antwort_4=0Bäcker und Metzger
+
+[135]
+FZ1=
+FZ2=In welchem Land lebte der Heilige St. Nikolaus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Türkei
+Antwort_2=0Spanien
+Antwort_3=0Tunesien
+Antwort_4=0Israel
+
+[136]
+FZ1=
+FZ2=Wie hieß die Mutter von Jesus ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Maria
+Antwort_2=0Meriam
+Antwort_3=0Eva
+Antwort_4=0Magda
+
+[137]
+FZ1=
+FZ2=Welchen Beruf hatte Josef, der Mann von Maria ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Zimmermann
+Antwort_2=0Metzger
+Antwort_3=0Bäcker
+Antwort_4=0Pilot
+
+[138]
+FZ1=
+FZ2=Wer gehörte  n i c h t  zu den Heiligen Drei Königen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Augustus
+Antwort_2=0Balthasar
+Antwort_3=0Melchior
+Antwort_4=0Caspar
+
+[139]
+FZ1=
+FZ2=Wie hießen die Heiligen Drei Könige ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Balthasar, Melchior und Caspar
+Antwort_2=0Balthasar, Mehmet und Caspar
+Antwort_3=0Bruno, Melchior und Caspar
+Antwort_4=0Balthasar, Melchior und Calvin
+
+[140]
+FZ1=
+FZ2=Wie haben die Heiligen Drei Könige den Stall von Bethlehem gefunden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1mit Hilfe des Weihnachtssterns
+Antwort_2=0mit Hilfe eines Karawanenführers
+Antwort_3=0mit Hilfe einer Landkarte
+Antwort_4=0mit Hilfe eines Kompasses
+
+[141]
+FZ1=
+FZ2=In welchem Land liegt Bethlehem ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1West - Jordanien	
+Antwort_2=0Belgien	
+Antwort_3=0Indien	
+Antwort_4=0Ägypten	
+
+[142]
+FZ1=
+FZ2=In welcher Stadt wurde Jesus geboren ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Bethlehem
+Antwort_2=0Golgatha
+Antwort_3=0Nazareth
+Antwort_4=0Kairo
+
+[143]
+FZ1=
+FZ2=Wie heißt ein berühmtes Weihnachtslied von einem Nadelbaum ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Oh Tannenbaum
+Antwort_2=0Oh du grüne Kiefer
+Antwort_3=0Oh du schöne Lärche
+Antwort_4=0Oh Fichte, oh Fichte
+
+[144]
+FZ1=
+FZ2=Woher kamen die Weisen, die Jesus wertvolle Geschenke brachten ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Sie kamen aus dem Morgenland.
+Antwort_2=0Sie kamen aus dem Nachtland.
+Antwort_3=0Sie kamen aus dem Abendland.
+Antwort_4=0Sie kamen aus dem Mittagland.
+
+[145]
+FZ1=
+FZ2=Den Nikolaus gab es wirklich. Was war der Nikolaus von Beruf ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Bischof
+Antwort_2=0Arzt
+Antwort_3=0Bäcker
+Antwort_4=0Maurer
+
+[146]
+FZ1=
+FZ2=Die Geburt Jesu wird von Propheten vorhergesagt.
+FZ3=Welcher Prophet spricht von Jesus ?
+Min=125000
+Max=500000
+Antwort_1=1Jesaja
+Antwort_2=0Amos
+Antwort_3=0Moses
+Antwort_4=0Elisa
+
+[147]
+FZ1=
+FZ2=Wie hießen die Eltern von Jesus ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Maria und Josef
+Antwort_2=0Rebekka und Jakob
+Antwort_3=0Marta und Josua
+Antwort_4=0Adam und Eva
+
+[148]
+FZ1=
+FZ2=Warum mussten Josef und Maria nach Bethlehem ziehen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1wegen einer von Kaiser Augustus	verordneten Volkszählung
+Antwort_2=0Josef musste aus geschäftlichen	Gründen nach Bethlehem.
+Antwort_3=0Sie wollten Ihre Eltern besuchen.
+Antwort_4=0wegen einer verschobenen Urlaubsreise
+
+[149]
+FZ1=
+FZ2=Wie viele Türchen hat der Adventskalender ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=124
+Antwort_2=0365
+Antwort_3=012
+Antwort_4=052
+
+[150]
+FZ1=
+FZ2=Viele gute  Zutaten werden zum Backen von  Zimtsternen benötigt.
+FZ3=Was gehört  n i c h t  dazu ?
+Min=16000
+Max=125000
+Antwort_1=1Butter
+Antwort_2=0Puderzucker
+Antwort_3=0Zimt
+Antwort_4=0Eiweiß
+
+[151]
+FZ1=
+FZ2=Wie wird Weihnachten auch oft bezeichnet ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1das Fest der Liebe
+Antwort_2=0das Fest der Geschenke
+Antwort_3=0das Fest der Familie
+Antwort_4=0das Fest der Glückseligkeit
+
+[152]
+FZ1=
+FZ2=Der Weihnachtsbaum wird mit allem Möglichen geschmückt.
+FZ3=Was gehört aber eigentlich nicht zum Weihnachtsschmuck ?
+Min=0
+Max=1000
+Antwort_1=1bemalte Eier
+Antwort_2=0Weihnachtskugeln
+Antwort_3=0Strohsterne
+Antwort_4=0Kerzen
+
+[153]
+FZ1=
+FZ2=In was wurde Jesus als Baby hineingelegt ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1in eine Krippe
+Antwort_2=0in ein Kinderbett
+Antwort_3=0in einen Korb
+Antwort_4=0in einen Schlafsack
+
+[154]
+FZ1=
+FZ2=Wie wird Jesus auch bezeichnet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Das Lamm Gottes, das die Sünde der	Welt wegnimmt.
+Antwort_2=0die rechte Hand Gottes
+Antwort_3=0der Fromme
+Antwort_4=0der Heilige
+
+[155]
+FZ1=
+FZ2=Was ist das Wichtigste an Weihnachten ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Die frohe Botschaft: Den Menschen	ist ein Retter geboren! Christus ist auf	die Welt gekommen.
+Antwort_2=0das Weihnachtsessen (bei uns gibt es	immer Gans)
+Antwort_3=0natürlich die Geschenke
+Antwort_4=0der Weihnachtsbaum
+
+[156]
+FZ1=
+FZ2=Mit welchem Gefährt kommt der Nikolaus - den Erzählungen - nach ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Mit einem Schlitten, der von Rentieren	gezogen wird.
+Antwort_2=0mit einem fliegenden Teppich
+Antwort_3=0mit einem Turbo-Rennschlitten
+Antwort_4=0mit Inlinern
+
+[157]
+FZ1=
+FZ2=Warum stellt man am Abend vor dem 6. Dezember Schuhe vor die Türe ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Damit der Nikolaus Geschenke	hineinlegen kann.
+Antwort_2=0Damit man sie schnell anziehen kann,	wenn der Nikolaus kommt.
+Antwort_3=0Damit die Schuhe mal wieder geputzt	werden.
+Antwort_4=0Damit der Nikolaus drüberstolpert und	man ihn sehen kann.
+
+[158]
+FZ1=
+FZ2=Was taten die Weisen aus dem Morgenland, nachdem sie bei Jesus waren ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie zogen auf einem anderen Weg in	ihr Land zurück, um Herodes nicht zu	treffen.
+Antwort_2=0Sie blieben bei Jesus.
+Antwort_3=0Sie gingen zu Herodes zurück und	berichteten ihm.
+Antwort_4=0Sie bauten für Maria und Josef ein	Haus.
+
+[159]
+FZ1=
+FZ2=Wer war König in Judäa zu der Zeit, als Jesus geboren wurde ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Herodes
+Antwort_2=0Pilatus
+Antwort_3=0Augustus
+Antwort_4=0Nero
+
+[160]
+FZ1=
+FZ2=In welcher Stadt lebte Josef und  Maria, bevor sie nach Bethlehem zogen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Nazareth
+Antwort_2=0Tyhrus
+Antwort_3=0Bethlehem
+Antwort_4=0Babylon
+
+[161]
+FZ1=
+FZ2=Welches Geschenk brachten die Weisen aus dem Morgenland  n i c h t  mit ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Salz
+Antwort_2=0Weihrauch
+Antwort_3=0Gold
+Antwort_4=0Myrrhe
+
+[162]
+FZ1=
+FZ2=Welche Geschenke brachten die Weisen aus dem Morgenland ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=1Gold, Weihrauch und Myrrhe
+Antwort_2=0Geld, Spielzeug und Kuchen
+Antwort_3=0Schinken, Wurst und Brot
+Antwort_4=0Decken, Kerzen und einen Kinderwagen
+
+[163]
+FZ1=
+FZ2=Jesus wird auch Immanuel genannt. Welche Bedeutung hat dieser Name ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Gott mit uns
+Antwort_2=0Gott ist nahegekommen
+Antwort_3=0Frohe Botschaft
+Antwort_4=0Himmelssohn
+
+[164]
+FZ1=
+FZ2=Wie nennt man den Weihnachtsmann in Amerika ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Santa Claus
+Antwort_2=0Sankt Nikolaus
+Antwort_3=0Bigfoot
+Antwort_4=0Papa Noel
+
+[165]
+FZ1=
+FZ2=Woher kommt eigentlich der Weihnachtsmann ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Es war eine Werbekampagne von	Coca-Cola. Deshalb auch der rote	Mantel mit dem weißen Rand.
+Antwort_2=0Er wurde im Mittelalter von den Kirchen	erfunden.
+Antwort_3=0Er gründet sich auf eine norwegische	Sage.
+Antwort_4=0Es war eine Idee eines berühmten	Fotografen, der gerne rot-weiße Fotos	machte.
+
+[166]
+FZ1=
+FZ2=An welchem Tag ist in Deutschland der "Heilige Abend" ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=124. Dezember
+Antwort_2=025. Dezember
+Antwort_3=023. Dezember
+Antwort_4=026. Dezember
+
+[167]
+FZ1=
+FZ2=In welchem Monat wird in Deutschland Weihnachten gefeiert ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Dezember
+Antwort_2=0Januar
+Antwort_3=0November
+Antwort_4=0Februar
+
+[168]
+FZ1=
+FZ2=Wer bringt den griechischen Kindern die Geschenke ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1der heilige Vassilius
+Antwort_2=0Knecht Ruprecht
+Antwort_3=0Santa Claus
+Antwort_4=0Pére Noel
+
+[169]
+FZ1=
+FZ2=Was darf man in Polen am Weihnachtsabend nicht essen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Fleisch
+Antwort_2=0Obst
+Antwort_3=0Fisch
+Antwort_4=0Gemüse
+
+[170]
+FZ1=
+FZ2=An welchem Tag kommt in der Tschechoslowakei der Nikolaus ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1am Abend des 5. Dezembers
+Antwort_2=0am Abend des 14. Dezembers
+Antwort_3=0am Abend des 1. Dezembers
+Antwort_4=0am Abend des 25. Dezembers
+
+[171]
+FZ1=
+FZ2=Wie heißt das Weihnachtslied ? Vom Himmel hoch, da komm ich ...
+FZ3=
+Min=0
+Max=100
+Antwort_1=1her
+Antwort_2=0hin
+Antwort_3=0weg
+Antwort_4=0mit
+
+[172]
+FZ1=
+FZ2=Wie heißt das Weihnachtslied ? Lasst und froh und ... sein !
+FZ3=
+Min=0
+Max=100
+Antwort_1=1munter
+Antwort_2=0heiter
+Antwort_3=0lustig
+Antwort_4=0albern
+
+[173]
+FZ1=
+FZ2=Wie heißt das Weihnachtslied ? Süßer die Glocken nie ...
+FZ3=
+Min=0
+Max=100
+Antwort_1=1klingen
+Antwort_2=0läuten
+Antwort_3=0bimmeln
+Antwort_4=0schellen
+
+[174]
+FZ1=
+FZ2=Wie heißt das Weihnachtslied ? Ihr Kinderlein ...
+FZ3=
+Min=0
+Max=300
+Antwort_1=1kommet
+Antwort_2=0freut euch
+Antwort_3=0schlafet
+Antwort_4=0gehet
+
+[175]
+FZ1=
+FZ2=Was ist  k e i n  Weihnachtslied ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=1Winter ade
+Antwort_2=0Ihr Kinderlein kommet
+Antwort_3=0Morgen kommt der Weihnachtsmann
+Antwort_4=0Leise rieselt der Schnee
+
+[176]
+FZ1=
+FZ2=Was ist  k e i n  Weihnachtslied ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Der Mond ist aufgegangen
+Antwort_2=0Stille Nacht
+Antwort_3=0O du fröhliche
+Antwort_4=0Alle Jahre wieder
+
+[177]
+FZ1=
+FZ2=Wie heißt der Begleiter vom Nikolaus in Österreich und Oberbayern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Krampus
+Antwort_2=0Kaktus
+Antwort_3=0Schampus
+Antwort_4=0Fidibus
+
+[178]
+FZ1=
+FZ2=Wer begleitet in Deutschland manchmal den Nikolaus ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Knecht Ruprecht
+Antwort_2=0Diener John
+Antwort_3=0Magd Maria
+Antwort_4=0Butler James
+
+[179]
+FZ1=
+FZ2=Wozu sandte Gott seinen Sohn auf die Erde ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1zu unserer Rettung
+Antwort_2=0zur Korrektur der Bibel
+Antwort_3=0zur Bestrafung der Sünder
+Antwort_4=0einfach nur so
+
+[180]
+FZ1=
+FZ2=Weshalb nahmen die Heiligen Drei Könige einen anderen Heimweg ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1wegen eines Traumes
+Antwort_2=0wegen des Straßenzustandes
+Antwort_3=0wegen einer Überschwemmung
+Antwort_4=0ohne Grund
+
+[181]
+FZ1=
+FZ2=Wer hasste den neugeborenen König der Juden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Herodes
+Antwort_2=0Agrippa
+Antwort_3=0Pilatus
+Antwort_4=0Tiberius
+
+[182]
+FZ1=
+FZ2=In welcher Stadt fragten die Weisen zuerst nach dem neugeborenen König ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Jerusalem
+Antwort_2=0Nazareth
+Antwort_3=0Bethlehem
+Antwort_4=0Cäsarea
+
+[183]
+FZ1=
+FZ2=Woran erkannten die Weisen, dass der König der Juden geboren war ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1an einem Stern
+Antwort_2=0aus der Bibel
+Antwort_3=0an einem Erdbeben
+Antwort_4=0durch angestrengtes Nachdenken
+
+[184]
+FZ1=
+FZ2=Wie nennt man die ranghöchsten Engel ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Erzengel
+Antwort_2=0Kardinalengel
+Antwort_3=0Schutzengel
+Antwort_4=0Oberengel
+
+[185]
+FZ1=
+FZ2=Was bedeutet das Wort "Engel" ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Bote
+Antwort_2=0Lichtglanz
+Antwort_3=0Flügelwesen
+Antwort_4=0Heiliger
+
+[186]
+FZ1=
+FZ2=Wo wurde das Lied "Stille Nacht, heilige Nacht..." erstmals gesungen?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Oberndorf
+Antwort_2=0Zwischendorf
+Antwort_3=0Unterndorf
+Antwort_4=0Mitteldorf
+
+[187]
+FZ1=
+FZ2=Wie werden die Gäste aus dem Morgenland in der Bibel beschrieben ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1als Weise
+Antwort_2=0als drei Könige
+Antwort_3=0als Räuber
+Antwort_4=0als drei Heilige
+
+[188]
+FZ1=
+FZ2=Wann erschien das Weihnachtsfest zum ersten Mal in einem Kalender ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1384 n. Chr.
+Antwort_2=064 n. Chr.
+Antwort_3=07 v. Chr.
+Antwort_4=01274 n. Chr.
+
+[189]
+FZ1=
+FZ2=In welches Land flüchteten Josef, Maria und Jesus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Ägypten
+Antwort_2=0Deutschland
+Antwort_3=0Judäa
+Antwort_4=0Galiläa
+
+[190]
+FZ1=
+FZ2=Wie reagierten die Hirten auf Jesu Geburt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie lobten Gott.
+Antwort_2=0Sie zweifelten.
+Antwort_3=0Sie wurden sehr ängstlich.
+Antwort_4=0Sie lasen in der Bibel.
+
+[191]
+FZ1=
+FZ2=Welche Menschen verkündeten als erste die Weihnachtsbotschaft ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Hirten
+Antwort_2=0Pharisäer
+Antwort_3=0Apostel
+Antwort_4=0Drei Könige
+
+[192]
+FZ1=
+FZ2=Was taten die Hirten, nachdem der Engel ihnen erschienen war ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie liefen nach Bethlehem.
+Antwort_2=0Sie blieben bei den Schafen.
+Antwort_3=0Sie schliefen weiter.
+Antwort_4=0Sie taten nichts.
+
+[193]
+FZ1=
+FZ2=Wer hörte zuerst die Weihnachtsbotschaft ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Hirten
+Antwort_2=0Josef
+Antwort_3=0Maria
+Antwort_4=0Herodes
+
+[194]
+FZ1=
+FZ2=Wie viele Platten von White Christmas wurden bis 1995 verkauft ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1100 Millionen
+Antwort_2=01.000 Millionen
+Antwort_3=050 Millionen
+Antwort_4=010 Millionen
+
+[195]
+FZ1=
+FZ2=Wie viele Tonnen nahmen 1994 alle Bundesbürger zusammen
+FZ3=in der Weihnachtszeit zu ?
+Min=250000
+Max=500000
+Antwort_1=190.000
+Antwort_2=050.000
+Antwort_3=070.000
+Antwort_4=030.000
+
+[196]
+FZ1=
+FZ2=Wann beginnt in jedem Jahr die Herstellung
+FZ3=von Schokoladenweihnachtsmännern ?
+Min=16000
+Max=125000
+Antwort_1=1August
+Antwort_2=0Oktober
+Antwort_3=0September
+Antwort_4=0Februar
+
+[197]
+FZ1=
+FZ2=Was ist ein Barbarazweig ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1blühender Kirschzweig
+Antwort_2=0Weidenkätzchen
+Antwort_3=0Mistelzeig
+Antwort_4=0Tannenzweig
+
+[198]
+FZ1=
+FZ2=Wo wurde zum ersten Mal ein Adventskranz aufgehängt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Hamburg
+Antwort_2=0Jerusalem
+Antwort_3=0München
+Antwort_4=0Rom
+
+[199]
+FZ1=
+FZ2=In welcher Stadt stand in den Jahren 2001 und 2002 der größte Weihnachtsbaum ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Dortmund
+Antwort_2=0Berlin
+Antwort_3=0München
+Antwort_4=0Hamburg
+
+[200]
+FZ1=
+FZ2=Warum stehen Hase, Karpfen und Gans auf dem Speisezettel zu Weihnachten ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1weil sie besonders gut schmecken
+Antwort_2=0weil sie die Elemente verkörpern
+Antwort_3=0weil es Haustiere sind
+Antwort_4=0weil sie leicht zu fangen sind
+
+

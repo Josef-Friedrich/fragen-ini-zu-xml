@@ -1,0 +1,2425 @@
+[Thema]
+Thema=Rund um die Indianer
+Fragen=220
+Autor=Manfred Hartisch
+
+[1]
+FZ1=Indianerkrieger trugen oft zum Zeichen ihrer Tapferkeit Federn im Haar. Die Federn
+FZ2=wurden gefärbt oder in Form geschnitten. Wie sah die Feder aus, wenn der Krieger
+FZ3=einem Feind die Kehle durchgeschnitten hatte ?
+Min=64000
+Max=500000
+Antwort_1=1Die Feder wurde im oberen Drittel	schräg abgeschnitten.	
+Antwort_2=0Die Feder wurde halbiert.	
+Antwort_3=0Die Feder wurde gespalten.	
+Antwort_4=0Die Feder wurde rot angemalt.	
+
+[2]
+FZ1=Indianerkrieger trugen oft zum Zeichen ihrer Tapferkeit Federn im Haar. Die Federn
+FZ2=wurden gefärbt oder in Form geschnitten. Was bekam die Feder, wenn der Krieger
+FZ3=einen Feind getötet hatte ?
+Min=64000
+Max=500000
+Antwort_1=1einen roten Punkt
+Antwort_2=0einen blauen Punkt
+Antwort_3=0einen schwarzen Punkt
+Antwort_4=0einen grünen Punkt
+
+[3]
+FZ1=Indianerkrieger trugen oft zum Zeichen ihrer Tapferkeit Federn im Haar.
+FZ2=Die Federn wurden gefärbt oder in Form geschnitten.
+FZ3=Was bedeutete ein roter Punkt auf einer Feder ?
+Min=64000
+Max=500000
+Antwort_1=1einen Feind getötet
+Antwort_2=0einen Feind verwundet
+Antwort_3=0einem Feind das Pferd gestohlen
+Antwort_4=0selber oft verwundet worden
+
+[4]
+FZ1=Indianerkrieger trugen oft zum Zeichen ihrer Tapferkeit Federn im Haar.
+FZ2=Die Federn wurden gefärbt oder in Form geschnitten.
+FZ3=Was bedeutete eine schräg abgeschnittene Feder ?
+Min=64000
+Max=500000
+Antwort_1=1einem Feind die Kehle	durchgeschnitten
+Antwort_2=0einem Feind das Pferd gestohlen
+Antwort_3=0einen Feind verletzt
+Antwort_4=0einen Feind berührt
+
+[5]
+FZ1=
+FZ2=Indianerkrieger trugen oft zum Zeichen ihrer Tapferkeit Federn im Haar. Die Federn
+FZ3=wurden gefärbt oder in Form geschnitten. Was bedeutete eine gespaltene Feder ?
+Min=64000
+Max=500000
+Antwort_1=1dieser Krieger wurde oft verwundet
+Antwort_2=0dieser Krieger hat ein Pferd gestohlen
+Antwort_3=0dieser Krieger hat einen Feind getötet
+Antwort_4=0dieser Krieger hat einem Feind die	Kehle durchgeschnitten
+
+[6]
+FZ1=
+FZ2=Wie nannte man eine indianische Kriegsehre, die darin bestand, dass man besonders
+FZ3=mutig war, weil man den Gegner nicht tötete, sondern nur berührte ?
+Min=125000
+Max=500000
+Antwort_1=1Coup
+Antwort_2=0Loipe
+Antwort_3=0Soap
+Antwort_4=0Ruin
+
+[7]
+FZ1=
+FZ2=Wie nennt man das weite Gebiet in Amerika, das sich von den Rocky Mountains
+FZ3=bis zum Mississippi erstreckt ?
+Min=0
+Max=1000
+Antwort_1=1Prärie
+Antwort_2=0Regenwald
+Antwort_3=0Tundra
+Antwort_4=0Savanne
+
+[8]
+FZ1=
+FZ2=War war eine Parfleche ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1eine große Rohledertasche zum	Transport von getrockneten	Nahrungsmitteln
+Antwort_2=0eine kurze Friedenspfeife
+Antwort_3=0eine besonders große Adlerfeder
+Antwort_4=0eine kleine Ledertasche zur	Aufbewahrung der vergifteten	Pfeilspitzen
+
+[9]
+FZ1=
+FZ2=Wie nannte man eine große Rohledertasche zum Transport von getrockneten
+FZ3=Nahrungsmitteln ?
+Min=64000
+Max=64000
+Antwort_1=1Parfleche
+Antwort_2=0Schimäre
+Antwort_3=0Travois
+Antwort_4=0Lacrosse
+
+[10]
+FZ1=
+FZ2=Wie heißt ein bekannter Indianerroman ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Lederstrumpf
+Antwort_2=0Lederskalp
+Antwort_3=0Lederschuh
+Antwort_4=0Lederhemd
+
+[11]
+FZ1=
+FZ2=Wie heißt ein bekannter Indianerroman ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Der letzte Mohikaner
+Antwort_2=0Der schöne Mohikaner
+Antwort_3=0Der erste Mohikaner
+Antwort_4=0Der gute Mohikaner
+
+[12]
+FZ1=
+FZ2=Welche Brüder waren Winnetou und Old Shatterhand ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Blutsbrüder
+Antwort_2=0Halbbrüder
+Antwort_3=0echte Brüder
+Antwort_4=0Kriegsbrüder
+
+[13]
+FZ1=
+FZ2=Auf welchem Material schrieben die Maya ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Feigenbaumrinde
+Antwort_2=0Papyrus
+Antwort_3=0Tontafeln
+Antwort_4=0Büffelhaut
+
+[14]
+FZ1=
+FZ2=Unter wessen Führung gewannen die Indianer die Schlacht am Little Big Horn ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Sitting Bull
+Antwort_2=0Großer Bär
+Antwort_3=0Winnetou
+Antwort_4=0Crazy Horse
+
+[15]
+FZ1=
+FZ2=Zu welchem Zweck wurden die Pyramiden der Azteken und der Maya errichtet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1als Tempel und Opferstätten
+Antwort_2=0als kühle Gemächer
+Antwort_3=0als Gräber
+Antwort_4=0als Schutz vor den Regenfällen
+
+[16]
+FZ1=
+FZ2=Was verwendeten die Maya als Geld ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Kakaobohnen
+Antwort_2=0Glasperlen
+Antwort_3=0Goldmünzen
+Antwort_4=0Muscheln
+
+[17]
+FZ1=
+FZ2=Was versteht man unter dem Begriff "Montezumas Rache" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1heftigen Durchfall
+Antwort_2=0ein indianischer Rachefeldzug
+Antwort_3=0ein Massaker an den spanischen	Eroberern
+Antwort_4=0ein indianisches Singspiel
+
+[18]
+FZ1=
+FZ2=Warum führten die Azteken so viele Kriege ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1um möglichst viele Gefangene zu	nehmen, die dann den aztekischen	Göttern geopfert wurden
+Antwort_2=0weil sie die Gefangenen als Sklaven	arbeiten ließen
+Antwort_3=0weil sie ihr Land vergrößern wollten
+Antwort_4=0um möglichst große Schätze zu erobern
+
+[19]
+FZ1=
+FZ2=Wer oder was war "Montezuma" ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ein aztekischer König
+Antwort_2=0eine Gottheit der Inkas
+Antwort_3=0die Regenzeit in Südamerika
+Antwort_4=0ein angeschossener Bison
+
+[20]
+FZ1=
+FZ2=Wie nennt man die farbenfrohen südamerikanischen Wollumhänge, die schon zur
+FZ3=Zeit der Azteken sehr beliebt waren ?
+Min=2000
+Max=32000
+Antwort_1=1Poncho
+Antwort_2=0Sari
+Antwort_3=0Kimono
+Antwort_4=0Kilt
+
+[21]
+FZ1=
+FZ2=Wie hieß das Ballspiel der Azteken, bei dem ein Ball durch einen Steinring
+FZ3=geworfen werden musste ?
+Min=500000
+Max=500000
+Antwort_1=1Tlachtli
+Antwort_2=0Aztkli
+Antwort_3=0Brachtli
+Antwort_4=0Frziklu
+
+[22]
+FZ1=
+FZ2=Was war das Hauptgericht in der aztekischen Küche ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Tortillas
+Antwort_2=0Tomaten
+Antwort_3=0Tortellini
+Antwort_4=0Tlachtli
+
+[23]
+FZ1=
+FZ2=Wie hieß die berühmte Hauptstadt des Aztekenreiches ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Tenochtitlan
+Antwort_2=0Mexico City
+Antwort_3=0Tennessee
+Antwort_4=0Cacamanchao
+
+[24]
+FZ1=
+FZ2=Auf welchem Gebiet lebten früher die Azteken ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1im heutigen Mexiko
+Antwort_2=0im heutigen Chile
+Antwort_3=0im heutigen Brasilien
+Antwort_4=0im heutigen Venezuela
+
+[25]
+FZ1=
+FZ2=Wer gehörte  n i c h t  zu den drei indianischen Hochkulturen, die mehrere hundert
+FZ3=Jahre lang auf dem südamerikanischen Kontinent lebten ?
+Min=64000
+Max=500000
+Antwort_1=1Mongolen
+Antwort_2=0Maya
+Antwort_3=0Azteken
+Antwort_4=0Inkas
+
+[26]
+FZ1=
+FZ2=Wie viele Indianer und deren Nachfahren leben heute insgesamt
+FZ3=in den USA und in Kanada ?
+Min=500000
+Max=500000
+Antwort_1=1ca. 3 Millionen
+Antwort_2=0ca. 15 Millionen
+Antwort_3=0ca. 10 Millionen
+Antwort_4=0ca. 23 Millionen
+
+[27]
+FZ1=
+FZ2=Wie viele Indianer leben heute ungefähr in nordamerikanischen Reservaten ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1ca. 500.000
+Antwort_2=0ca. 900.000
+Antwort_3=0ca. 250.000
+Antwort_4=0ca. 1.500.000
+
+[28]
+FZ1=
+FZ2=Was sind Indianer - Reservate ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Gebiete, in denen Indianer wohnen und	jagen dürfen
+Antwort_2=0wahre Indianergeschichten
+Antwort_3=0Ausgrabungen, bei denen Überreste von	Indianern gefunden wurden
+Antwort_4=0getragene Kleidungsstücke von	Indianern
+
+[29]
+FZ1=
+FZ2=Was war der "Weg der Tränen" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Vertreibung tausender Indianer aus	dem Südosten Nordamerikas
+Antwort_2=0ein Trauerritual bei einer	Indianerbeerdigung
+Antwort_3=0eine gefährliche Straße für die weißen	Siedler
+Antwort_4=0der Weg zum Marterpfahl
+
+[30]
+FZ1=
+FZ2=Wie verständigten sich Angehörige verschiedener Stämme miteinander ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1mit einer Zeichensprache
+Antwort_2=0mit Bildern, die sie in den Sand malten
+Antwort_3=0mit einem Übersetzer
+Antwort_4=0Angehörige verschiedener Stämme	sprachen nicht miteinander.
+
+[31]
+FZ1=
+FZ2=Welcher Schauspieler spielte Winnetou ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Pierre Brice
+Antwort_2=0Arnold Schwarzenegger
+Antwort_3=0Heinz Rühmann
+Antwort_4=0Tom Cruise
+
+[32]
+FZ1=
+FZ2=Zu welchem Stamm gehörte die von Karl - May erfundene Romanfigur Winnetou ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Apachen
+Antwort_2=0Sioux
+Antwort_3=0Navajos
+Antwort_4=0Mohikaner
+
+[33]
+FZ1=
+FZ2=Was bedeutete das englische Wort "Cowboy" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kuhjunge
+Antwort_2=0Lassoschwinger
+Antwort_3=0flinker Reiter
+Antwort_4=0Indianerjäger
+
+[34]
+FZ1=
+FZ2=Wie viele Jahre dauerte der Bau der ersten Ost - West - Eisenbahnverbindung
+FZ3=Nordamerikas ?
+Min=500000
+Max=500000
+Antwort_1=16 Jahre
+Antwort_2=02 Jahre
+Antwort_3=04 Jahre
+Antwort_4=08 Jahre
+
+[35]
+FZ1=
+FZ2=Wie viele Kilometer Eisenbahnschienen wurden für die erste Ost - West - Verbindung
+FZ3=Nordamerikas verlegt ?
+Min=250000
+Max=500000
+Antwort_1=12.800 km
+Antwort_2=04.200 km
+Antwort_3=01.500 km
+Antwort_4=0900 km
+
+[36]
+FZ1=
+FZ2=Wie hieß die berühmte Eisenbahn, die den Osten mit dem Westen Nordamerikas
+FZ3=verband ?
+Min=2000
+Max=32000
+Antwort_1=1Union - Pacific - Eisenbahn
+Antwort_2=0Transsibirische Eisenbahn
+Antwort_3=0East - West - Train
+Antwort_4=0Rothaut - Express
+
+[37]
+FZ1=
+FZ2=In welchem Film stellt Kevin Costner einen weißen Soldaten dar, der sich mit
+FZ3=Indianern der Sioux anfreundet ?
+Min=16000
+Max=16000
+Antwort_1=1Der mit dem Wolf tanzt
+Antwort_2=0Der mit dem Wolf  jagt
+Antwort_3=0Der mit dem Wolf heult
+Antwort_4=0Der mit dem Wolf frisst
+
+[38]
+FZ1=
+FZ2=In welchem Film stellt Kevin Costner einen weißen Soldaten dar, der sich mit
+FZ3=Indianern der Sioux anfreundet ?
+Min=16000
+Max=16000
+Antwort_1=1Der mit dem Wolf tanzt
+Antwort_2=0Winnetou
+Antwort_3=0Der letzte Mohikaner
+Antwort_4=0Der Schuh des Manitu
+
+[39]
+FZ1=
+FZ2=Welchen Trick wandten die Indianer an, um Bisons zu jagen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sie verkleideten sich mit Bisonfellen	und schlichen sich an oder verkleideten	sich als Wölfe.
+Antwort_2=0Sie ließen sich von Bäumen auf die	Bisons fallen.
+Antwort_3=0Sie gruben sich ein und schossen von	unten auf die Bisons.
+Antwort_4=0Sie lockten die Bisons mit saftigen	Gräsern in große Gruben.
+
+[40]
+FZ1=
+FZ2=Warum war es ab 1861 nicht mehr nötig,
+FZ3=Post mit Reitern oder Kutschen zu befördern ?
+Min=500
+Max=4000
+Antwort_1=1Samuel Morse hatte den elektrischen	Telegrafen erfunden.
+Antwort_2=01861 wurde die Luftpost eingeführt.
+Antwort_3=0Graham Bell hatte das Internet	erfunden.
+Antwort_4=0Die Indianer übernahmen ab 1861 die	Verteilung der Post.
+
+[41]
+FZ1=
+FZ2=Mit welchem Transportmittel konnten Reisende ab 1858 in nur 24 Stunden vom
+FZ3=Mississippi nach San Francisco fahren ?
+Min=4000
+Max=64000
+Antwort_1=1mit der Postkutsche
+Antwort_2=0mit dem Flugzeug
+Antwort_3=0mit der Eisenbahn
+Antwort_4=0mit dem Heißluftballon
+
+[42]
+FZ1=
+FZ2=Wie schützten die Indianer ihre Kleidung vor Pfeilen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Die Indianer stellten aus länglichen	Perlen, Knochen und Geweihteilen	Westen her.
+Antwort_2=0Die Indianer rieben ihre Kleidung mit	Bisonfett ein, damit die Pfeile	abrutschten.
+Antwort_3=0Der Schamane verzauberte die	Kleidung mit Beschwörungsformeln.
+Antwort_4=0Die Indianer färbten ihre Kleidung	dunkel, damit sie schlechter zu	erkennen waren.
+
+[43]
+FZ1=
+FZ2=Welcher Weiße überquerte 1769 als Erster die Appalachen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Daniel Boone
+Antwort_2=0Bud Spencer
+Antwort_3=0David Cassedy
+Antwort_4=0Tom Gerhard
+
+[44]
+FZ1=
+FZ2=Wann überquerte mit Daniel Boone ein Weißer zum ersten Mal die Appalachen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11769
+Antwort_2=01735
+Antwort_3=01698
+Antwort_4=01612
+
+[45]
+FZ1=
+FZ2=Was versteht man unter einem "Indianersommer" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1eine Schönwetterperiode im Herbst
+Antwort_2=0der erste Sommermonat mit einem	Vollmond
+Antwort_3=0ideale Wetterverhältnisse für eine	Bisonjagd
+Antwort_4=0einen besonders heißen Frühling
+
+[46]
+FZ1=
+FZ2=In welchen Behausungen lebten die ersten europäischen Siedler ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in Blockhütten
+Antwort_2=0in Steinhäusern
+Antwort_3=0in verlassenen Indianerzelten
+Antwort_4=0in Erdhöhlen
+
+[47]
+FZ1=
+FZ2=Wie nannte man die ersten Siedler, die sich in die dunklen Wälder im Westen
+FZ3=wagten ?
+Min=4000
+Max=64000
+Antwort_1=1Grenzer
+Antwort_2=0Trapper
+Antwort_3=0Cowboys
+Antwort_4=0Goldwäscher
+
+[48]
+FZ1=
+FZ2=Welche natürliche Grenze markierte noch im 17. Jahrhundert das westliche Ende der
+FZ3=englischen Kolonien und den Beginn der Furcht erregenden Wildnis ?
+Min=64000
+Max=500000
+Antwort_1=1die Appalachen, ein etwa 2000 km	langer Gebirgszug
+Antwort_2=0der Mississippi
+Antwort_3=0der Ohio
+Antwort_4=0der Grand Canyon
+
+[49]
+FZ1=
+FZ2=Was ist eine Geisterstadt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Eine Stadt mit zerfallenen Hütten, die	von den Bergarbeitern verlassen wurde,	weil die Goldminen erschöpft waren.
+Antwort_2=0Eine Stadt, die von den Indianern	überfallen wurde und aus der die	Einwohner geflohen waren.
+Antwort_3=0Eine Stadt, in der die Indianer ihre	Toten begruben.
+Antwort_4=0Eine Stadt, in der die Indianer zu ihren	Toten beteten.
+
+[50]
+FZ1=
+FZ2=Welches Kleidungsstück wurde speziell für die Goldwäscher erfunden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1die Jeans
+Antwort_2=0die Gummistiefel
+Antwort_3=0der Südwester - Hut
+Antwort_4=0Hosenträger
+
+[51]
+FZ1=
+FZ2=Woraus stellten die Indianer Perlen her ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1aus Muscheln und aus den Stacheln des	Stachelschweins
+Antwort_2=0aus den Bisonhörnern
+Antwort_3=0aus Glas
+Antwort_4=0aus dem Holz der erbeuteten	Gewehrschäfte
+
+[52]
+FZ1=
+FZ2=Was bedeutet der indianische Name "Mississippi" ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1großer Fluss
+Antwort_2=0Fluss, an dem unsere Väter wohnten
+Antwort_3=0schneller Fluss
+Antwort_4=0Fluss, in dem viele Fische schwimmen
+
+[53]
+FZ1=
+FZ2=Welchen Kopfschmuck trägt ein Sioux, der die höchste Stufe in der sozialen
+FZ3=Rangordnung erreicht hat ?
+Min=4000
+Max=64000
+Antwort_1=1Bisonhörner
+Antwort_2=0einen Federkranz
+Antwort_3=0eine einzelne Adlerfeder
+Antwort_4=0einen geflochtenen Zopf
+
+[54]
+FZ1=
+FZ2=Warum endete um 1840 die Zeit der Trapper ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1die Biberhüte waren aus der Mode	gekommen
+Antwort_2=0die Indianer hatten die Trapper verjagt
+Antwort_3=0die Biberjagd wurde verboten
+Antwort_4=0die Biber waren fast ausgestorben
+
+[55]
+FZ1=
+FZ2=Wie heißt das Fest, das die Siedler 1621 nach dem Einholen
+FZ3=der ersten Ernte feierten ?
+Min=125000
+Max=500000
+Antwort_1=1Thanksgiving Day
+Antwort_2=0Farmers Day
+Antwort_3=0Turkey Day
+Antwort_4=0Godfather Day
+
+[56]
+FZ1=
+FZ2=Warum waren Biberpelze die beliebtesten Pelze der Fallensteller ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1weil damals Hüte aus Biberfilz in Mode	waren
+Antwort_2=0weil Biber in Nordamerika sehr selten	waren
+Antwort_3=0weil die Biber leicht zu fangen waren
+Antwort_4=0weil die Indianer den Fallenstellern nur	das Jagen von Bibern erlaubten
+
+[57]
+FZ1=
+FZ2=Wie hieß der erste Präsident der USA ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1George Washington
+Antwort_2=0Abraham Lincoln
+Antwort_3=0Theodore Roosevelt
+Antwort_4=0Thomas Jefferson
+
+[58]
+FZ1=
+FZ2=Wie viele Staaten schlossen sich 1789 zu den
+FZ3=Vereinigten Staaten von Amerika zusammen ?
+Min=500000
+Max=500000
+Antwort_1=113
+Antwort_2=012
+Antwort_3=011
+Antwort_4=014
+
+[59]
+FZ1=
+FZ2=In welchem Jahr schlossen sich mehrere amerikanische Staaten zu den
+FZ3=Vereinigten Staaten von Amerika zusammen ?
+Min=125000
+Max=250000
+Antwort_1=11789
+Antwort_2=01798
+Antwort_3=01879
+Antwort_4=01679
+
+[60]
+FZ1=
+FZ2=Warum strebten die englischen Kolonien die Unabhängigkeit von England an ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1weil sie keine Steuern mehr an	England zahlen wollten
+Antwort_2=0weil sie so weit von England entfernt	waren
+Antwort_3=0weil sie einen eigenen König haben	wollten
+Antwort_4=0weil es in England keine Indianer gab
+
+[61]
+FZ1=
+FZ2=Wie viele Kolonien hatten die Engländer in Nordamerika im Jahre 1730 schon
+FZ3=gegründet ?
+Min=500000
+Max=500000
+Antwort_1=113
+Antwort_2=019
+Antwort_3=07
+Antwort_4=025
+
+[62]
+FZ1=
+FZ2=Wie nannten die Engländer ihre erste Siedlung in Nordamerika ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Jamestown
+Antwort_2=0Washington
+Antwort_3=0New York
+Antwort_4=0Detroit
+
+[63]
+FZ1=
+FZ2=Wann wurde die erste englische Siedlung in Nordamerika gegründet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11607
+Antwort_2=01708
+Antwort_3=01506
+Antwort_4=01666
+
+[64]
+FZ1=
+FZ2=Warum siedelten Anfang des 17. Jahrhunderts viele europäische Familien nach
+FZ3=Amerika über ?
+Min=2000
+Max=32000
+Antwort_1=1Die meisten Aussiedler gehörten	kirchlichen Gruppen und Sekten an, die	in Europa verfolgt wurden.
+Antwort_2=0Die Aussiedler flüchteten vor	Krankheiten und Seuchen.
+Antwort_3=0Alle Aussiedler fanden in Europa keine	Arbeit mehr.
+Antwort_4=0Die meisten Familien waren Kriminelle	und flüchteten vor der Polizei.
+
+[65]
+FZ1=
+FZ2=Wann fuhr das englische Schiff "Mayflower" mit Aussiedlern nach Amerika ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11620
+Antwort_2=01820
+Antwort_3=01420
+Antwort_4=01720
+
+[66]
+FZ1=
+FZ2=Wie hieß das berühmte englische Schiff,
+FZ3=das mit Aussiedlern an Bord nach Amerika fuhr ?
+Min=2000
+Max=32000
+Antwort_1=1Mayflower
+Antwort_2=0Mary
+Antwort_3=0Titanic
+Antwort_4=0Quenn Elizabeth
+
+[67]
+FZ1=
+FZ2=Wo fand die Schlacht zwischen General Custer und den verbündeten
+FZ3=Indianerstämmen unter Sitting Bull statt ?
+Min=4000
+Max=64000
+Antwort_1=1Little Big Horn
+Antwort_2=0Red River
+Antwort_3=0Big Little Horn
+Antwort_4=0Grand Canyon
+
+[68]
+FZ1=
+FZ2=Für welchen Preis verkauften die Indianer 1626 die Halbinsel Manhattan an den
+FZ3=Holländer Peter Minuit ?
+Min=2000
+Max=32000
+Antwort_1=1einen Haufen Glasperlen
+Antwort_2=04 Millionen Dollar
+Antwort_3=0einen Sack Gold
+Antwort_4=055 Gewehre
+
+[69]
+FZ1=
+FZ2=Welche verheerende Auswirkung hatte der Bau der Eisenbahn
+FZ3=auf das Leben der Prärie - Indianer ?
+Min=500
+Max=8000
+Antwort_1=1Die Eisenbahn vertrieb die Bisonherden	und beraubte viele Indianerstämme	ihrer Lebensgrundlage.
+Antwort_2=0Über die Schienen der Eisenbahn	stolperten viele Pferde und die Indianer	stürzten sich zu Tode.
+Antwort_3=0Der Dampf der Eisenbahn führte bei den	meisten Indianern zu Keuchhusten, an	dem viele Indianer starben.
+Antwort_4=0Die Indianer fuhren gerne mit der	Eisenbahn und vernachlässigten ihre	Familien.
+
+[70]
+FZ1=
+FZ2=Wie hieß die Häuptlingstochter, die den Engländer John Rolfe heiratete, um den
+FZ3=Frieden zwischen Indianern und Weißen zu festigen ?
+Min=500
+Max=4000
+Antwort_1=1Pocahontas
+Antwort_2=0Silver Wing
+Antwort_3=0White Cloud
+Antwort_4=0Nscho Tschi
+
+[71]
+FZ1=
+FZ2=Welches war das wichtigste Handelsgut zwischen Indianervölkern und Europäern ?
+FZ3=
+Min=500
+Max=16000
+Antwort_1=1Pelze
+Antwort_2=0Kartoffeln
+Antwort_3=0Gold
+Antwort_4=0Büffelhörner
+
+[72]
+FZ1=
+FZ2=Was sind Piktogramme ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1die Bilderschrift der Indianer
+Antwort_2=0vergiftete Pfeilspitzen
+Antwort_3=0kleine indianische Flöten
+Antwort_4=0kurze Messer für die Indianerkinder
+
+[73]
+FZ1=
+FZ2=Warum starben ganze Indianerclans, nachdem die ersten weißen Siedler
+FZ3=Amerika erreicht hatten ?
+Min=2000
+Max=32000
+Antwort_1=1Eingeschleppte Seuchen wie die	Pocken rafften tausende Indianer hin,	weil sie keine Abwehrkräfte besaßen.
+Antwort_2=0Die meisten Indianer starben vor lauter	Angst vor den Unbekannten.
+Antwort_3=0Die weißen Siedler hatten alle	Gewehre.
+Antwort_4=0Die weißen Siedler plünderten die	Felder der Indianer, so dass diese	verhungern mussten.
+
+[74]
+FZ1=
+FZ2=Wie nannten die Indianer das Totenreich ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Ewige Jagdgründe
+Antwort_2=0Manitus Garten
+Antwort_3=0Himmelreich
+Antwort_4=0Bisongrab
+
+[75]
+FZ1=
+FZ2=Was waren die "Ewigen Jagdgründe" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1das Totenreich der Indianer
+Antwort_2=0die Jagdgründe des benachbarten	Indianerstammes
+Antwort_3=0die Ebenen der Prärie mit ihren riesigen	Bisonherden
+Antwort_4=0die Siedlungen der weißen Siedler
+
+[76]
+FZ1=
+FZ2=Was wurde erstmals im Jahre 1848 im heutigen Kalifornien gefunden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Gold
+Antwort_2=0Uran
+Antwort_3=0Platin
+Antwort_4=0Öl
+
+[77]
+FZ1=
+FZ2=Wie nennt man kleine Puppen oder Masken,
+FZ3=die Ahnen-  oder Naturgeister verkörpern ?
+Min=64000
+Max=250000
+Antwort_1=1Kachina - Figuren
+Antwort_2=0Tachina - Figuren
+Antwort_3=0Sachina - Figuren
+Antwort_4=0Rachina - Figuren
+
+[78]
+FZ1=
+FZ2=Was sind Kachina - Figuren ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1kleine Puppen oder Masken, die	Ahnen-  oder Naturgeister verkörpern
+Antwort_2=0Holzspielfiguren eines indianischen	Brettspieles
+Antwort_3=0Figuren eines indianischen Kreistanzes
+Antwort_4=0Muster auf der Wigwaminnenseite
+
+[79]
+FZ1=
+FZ2=Was waren Traumfänger ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1kleine Kunstgegenstände, die böse	Träume abhalten sollten
+Antwort_2=0kleine Holzflöten, mit denen die	Indianerbabys in den Schlaf geflötet	wurden
+Antwort_3=0indianische Schamanen, die für die	Nacht zuständig waren
+Antwort_4=0junge Indianer, die bei der Jagd nicht	besonders erfolgreich waren
+
+[80]
+FZ1=
+FZ2=Was waren die Schamanen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1hoch angesehene Indianer , die Kranke	heilten und eine enge Verbindung zur	Geisterwelt pflegten
+Antwort_2=0ein Indianerstamm, der sich nur von	Früchten und Getreide ernährte
+Antwort_3=0die Späher eines Indianerstammes
+Antwort_4=0die unverheirateten Indianerfrauen
+
+[81]
+FZ1=
+FZ2=Wie hießen die hoch angesehenen Indianer und Indianerinnen, die Kranke heilten
+FZ3=und eine enge Verbindung zur Geisterwelt pflegten ?
+Min=4000
+Max=64000
+Antwort_1=1Schamanen
+Antwort_2=0Häuptlinge
+Antwort_3=0Schelme
+Antwort_4=0Pharaonen
+
+[82]
+FZ1=
+FZ2=Wie hieß der berühmte Autor, der Winnetou und Old Shatterhand erfand ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Karl May
+Antwort_2=0Karl Valentin
+Antwort_3=0Karl Moik
+Antwort_4=0Reinhard May
+
+[83]
+FZ1=
+FZ2=Was war "Schlange im Schnee" ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ein Spiel
+Antwort_2=0ein Muster zum Verzieren von Stoffen
+Antwort_3=0ein Lied
+Antwort_4=0eine deutliche Fährte
+
+[84]
+FZ1=
+FZ2=Wozu nutzten die Indianer den Bogen noch ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1als Musikinstrument
+Antwort_2=0als Spielzeug
+Antwort_3=0zum Aufhängen von Kleidung
+Antwort_4=0zum Zeichnen im Sand
+
+[85]
+FZ1=
+FZ2=Durfte man ein Tipi betreten, wenn die Vorderklappe geschlossen war ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Nein, man durfte dann nicht eintreten,	ohne anzuklopfen.
+Antwort_2=0Nur die Kinder durften dann eintreten.
+Antwort_3=0Ja, denn die Vorderklappe war immer	geschlossen.
+Antwort_4=0Nur die Verwandten durften dann	eintreten.
+
+[86]
+FZ1=
+FZ2=Mit welchem Tanz baten die Indianer um Regen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Schlangentanz
+Antwort_2=0Bisontanz
+Antwort_3=0Regentanz
+Antwort_4=0Cha Cha Cha
+
+[87]
+FZ1=
+FZ2=Worum baten die Indianer beim Schlangentanz ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1um Regen
+Antwort_2=0um das Ende des Winters
+Antwort_3=0um eine gute Ernte
+Antwort_4=0um eine Frau
+
+[88]
+FZ1=
+FZ2=Rauchzeichen waren ein wichtiges Mittel zur Verständigung.
+FZ3=Was bedeuteten zwei Rauchsäulen ?
+Min=1000
+Max=16000
+Antwort_1=1Hilfe
+Antwort_2=0Hier ist unser Lager !
+Antwort_3=0großes Fest
+Antwort_4=0Schlafenszeit
+
+[89]
+FZ1=
+FZ2=Welche Leute wurden "weiße Indianer" genannt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Trapper, die sich die Lebensweise der	Indianer bei ihren Streifzügen in hohem	Maße aneigneten
+Antwort_2=0europäische Einwanderer
+Antwort_3=0Eskimos
+Antwort_4=0Indianersäuglinge
+
+[90]
+FZ1=
+FZ2=Warum rieben die Indianer die Bisonhäute mit einer Mischung aus Fett, Hirn und
+FZ3=Leber ein ?
+Min=2000
+Max=32000
+Antwort_1=1um das Leder weich und geschmeidig	zu bekommen
+Antwort_2=0um die Häute vom Fell zu befreien
+Antwort_3=0um das Leder von Dämonen und	Geistern zu befreien
+Antwort_4=0damit das Leder besser roch
+
+[91]
+FZ1=
+FZ2=Welche Mutprobe musste ein Junge der Prärie -Stämme bestehen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Er musste drei Nächte allein und ohne	Essen im Wald verbringen.
+Antwort_2=0Er musste einen Bären töten.
+Antwort_3=0Er musste das Pferd eines Weißen	stehlen.
+Antwort_4=0Er musste dem Häuptling unbemerkt	eine Feder stehlen.
+
+[92]
+FZ1=
+FZ2=Stimmt es, dass die Indianer zu einer Einladung ihr eigenes Geschirr und Besteck
+FZ3=mitbrachten ?
+Min=4000
+Max=64000
+Antwort_1=1ja
+Antwort_2=0nur die Frauen mussten ihr eigenes	Besteck mitbringen
+Antwort_3=0nein
+Antwort_4=0nur der Häuptling musste sein eigenes	Geschirr und Besteck mitbringen
+
+[93]
+FZ1=
+FZ2=Worauf schliefen die Prärie - Indianer in ihren Tipis ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1auf Bisonfellen
+Antwort_2=0auf Strohmatten
+Antwort_3=0auf gestampfter Erde
+Antwort_4=0auf Waschbärpelzen
+
+[94]
+FZ1=
+FZ2=Aus welchem Material bestanden die Töpfe der Prärie - Indianer ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1aus getrockneten Bisonmägen
+Antwort_2=0aus Blech
+Antwort_3=0aus ausgehöhlten Bisonhörnern
+Antwort_4=0aus Holz
+
+[95]
+FZ1=
+FZ2=Wie nannten die Indianer die ersten Pferde, die sie in ihrem Leben sahen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1große Hunde
+Antwort_2=0magere Büffel
+Antwort_3=0dünne Bären
+Antwort_4=0braune Wölfe
+
+[96]
+FZ1=
+FZ2=Was bedeutet das Wort "Tipi" in der Indianersprache ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1darin wohnen
+Antwort_2=0meine Heimat
+Antwort_3=0Zelthaus
+Antwort_4=0runde Hütte
+
+[97]
+FZ1=
+FZ2=Welche Knabberei kannten schon die Indianer ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Popcorn
+Antwort_2=0Salzstangen
+Antwort_3=0Chips
+Antwort_4=0Smarties
+
+[98]
+FZ1=
+FZ2=Wie nannte man ein jährliches, friedliches Treffen zwischen Weißen und Indianern,
+FZ3=das dem Handel und Tausch diente ?
+Min=64000
+Max=64000
+Antwort_1=1Rendezvous
+Antwort_2=0Trödel
+Antwort_3=0Marketing
+Antwort_4=0Jahrmarkt
+
+[99]
+FZ1=
+FZ2=Was bezeichneten die weißen Siedler als "Rendezvous" ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1ein jährliches, friedliches Treffen	zwischen Weißen und Indianern, das	dem Handel und Tausch diente
+Antwort_2=0das plötzliche Treffen eines	Indianerstammes
+Antwort_3=0die Begegnung mit der Wildnis
+Antwort_4=0eine Verschwörung der Indianer
+
+[100]
+FZ1=
+FZ2=Stimmt es, dass die Indianer ihre Gefangenen an Marterpfähle banden und quälten ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Nein, nur Comanchen, Kiowas und	Irokesen hatten Marterpfähle.
+Antwort_2=0Ja, aber nur, wenn der Feind einen	Indianer getötet hatte.
+Antwort_3=0Ja, allerdings wurden nur die Weißen	an den Marterpfählen gequält.
+Antwort_4=0Ja, alle Gefangenen wurden zuerst für	einen Tag an den Marterpfahl	gebunden.
+
+[101]
+FZ1=
+FZ2=Wie nannten die Indianer die erste Eisenbahn in Nordamerika ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Feuerross
+Antwort_2=0Blitzpfeil
+Antwort_3=0Stahlbüffel
+Antwort_4=0Donnerspeer
+
+[102]
+FZ1=
+FZ2=Was bezeichneten die Indianer als "Feuerross" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die erste Eisenbahn in Nordamerika
+Antwort_2=0ein rotes Pferd
+Antwort_3=0ein wildes Pferd
+Antwort_4=0das tote Pferd des Häuptlings
+
+[103]
+FZ1=
+FZ2=Woraus bestanden die Pueblos der Indianer im Südwesten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1aus getrockneten Lehmziegeln
+Antwort_2=0aus gehärteten Tierfellen
+Antwort_3=0aus Beton
+Antwort_4=0aus bemalten Steinen
+
+[104]
+FZ1=
+FZ2=Wie nennt man eine Art Bahre, die von Hunden und später
+FZ3=von Pferden gezogen wurde ?
+Min=250000
+Max=250000
+Antwort_1=1Travois
+Antwort_2=0Bravois
+Antwort_3=0Gravois
+Antwort_4=0Zravois
+
+[105]
+FZ1=
+FZ2=Was ist ein Travois ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1eine Art Bahre, die von Hunden und	später von Pferden gezogen wurde
+Antwort_2=0ein indianisches Fleischgericht, das aus	Büffel- und Pferdefleisch bestand
+Antwort_3=0eine Art Bogen, der allerdings so groß	war, dass er von zwei Indianern	gehalten werden musste
+Antwort_4=0ein kleinwüchsiger Indianer, der als	Späher den Feind auskundschaftete
+
+[106]
+FZ1=
+FZ2=Was waren die drei wichtigsten Feldfrüchte der Irokesen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Mais, Bohnen, Kürbis
+Antwort_2=0Bohnen, Reis, Kohlrabi
+Antwort_3=0Mais, Kartoffeln, Erbsen
+Antwort_4=0Kürbis, Kartoffeln, Radieschen
+
+[107]
+FZ1=
+FZ2=Wie nannten die Irokesen die drei wichtigsten Feldfrüchte ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1drei Schwestern
+Antwort_2=0drei Mütter
+Antwort_3=0drei Göttinnen
+Antwort_4=0drei Sattmacher
+
+[108]
+FZ1=
+FZ2=Was bezeichneten die Irokesen als die "drei Schwestern" ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1die drei wichtigsten Feldfrüchte
+Antwort_2=0drei weibliche Gottheiten
+Antwort_3=0ein Sternbild am Frühlingshimmel
+Antwort_4=0die drei ältesten Frauen im Dorf
+
+[109]
+FZ1=
+FZ2=Wie konnten die Indianer auf dem morastigen Boden der Tundra Rentiere jagen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie trugen Schneeschuhe.
+Antwort_2=0Sie trugen lange Ski.
+Antwort_3=0Sie benutzten Hundeschlitten.
+Antwort_4=0Sie gingen auf Stelzen.
+
+[110]
+FZ1=
+FZ2=Wie schützten sich die Indianer in den Sumpfgebieten des heutigen Florida davor,
+FZ3=dass Wasser in ihre Hütten eindrang ?
+Min=2000
+Max=64000
+Antwort_1=1Die Hütten wurden auf Pfählen errichtet.
+Antwort_2=0Die Hütten wurden mit gefüllten	Tierfellen abgedichtet.
+Antwort_3=0Um die Hütten wurde ein	Abwassergraben gezogen.
+Antwort_4=0Die Hütten wurden auf einem Sandberg	errichtet.
+
+[111]
+FZ1=
+FZ2=Woraus bestand der Ball für das Lacrosse - Spiel ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1aus einer Lederkugel, die mit	Hirschhaaren ausgestopft war
+Antwort_2=0aus eine verzierten Holzkugel
+Antwort_3=0aus einer Kugel, die aus einem	Bisonhorn geschnitzt wurde
+Antwort_4=0aus einer zusammengepressten	Präriegraskugel
+
+[112]
+FZ1=
+FZ2=Welches Rauchzeichen stand für "gute Nachrichten" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1drei Rauchsäulen nebeneinander
+Antwort_2=0vier Rauchsäulen nebeneinander
+Antwort_3=0zwei Rauchsäulen nebeneinander
+Antwort_4=0fünf Rauchsäulen nebeneinander
+
+[113]
+FZ1=
+FZ2=Was bedeuteten drei Rauchzeichen nebeneinander ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1gute Nachrichten
+Antwort_2=0Hilfe
+Antwort_3=0schlechte Nachrichten
+Antwort_4=0Feierabend
+
+[114]
+FZ1=
+FZ2=Wie bezeichneten die Indianer eine Gruppe von indianischen Ärzten,
+FZ3=die bei der Heilungszeremonie Furcht erregende Masken trugen ?
+Min=4000
+Max=64000
+Antwort_1=1Bund der Falschgesichter
+Antwort_2=0Maskenmanitus
+Antwort_3=0Dämonen
+Antwort_4=0Bund der Schattengestalten
+
+[115]
+FZ1=
+FZ2=Wen bezeichneten die Indianer als "Bund der Falschgesichter" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1eine Gruppe von indianischen Ärzten,	die bei der Heilungszeremonie Furcht	erregende Masken trugen
+Antwort_2=0die weißen Europäer, wenn diese	Brillen und fremdländische Hüte trugen
+Antwort_3=0die Gottheiten anderer Indianerstämme
+Antwort_4=0die geschminkten Frauen bei den	Siegesfeiern
+
+[116]
+FZ1=Wie nannte man die mehrstöckigen Wohnanlagen, die die Indianer im Südwesten
+FZ2=Amerikas errichteten und die nur über Leitern durch Öffnungen im Dach betreten
+FZ3=werden konnten ?
+Min=300
+Max=2000
+Antwort_1=1Pueblos
+Antwort_2=0Pyramiden
+Antwort_3=0Wigwam
+Antwort_4=0Iglus
+
+[117]
+FZ1=
+FZ2=Wie viele Pfeile konnte ein Indianer in der Zeit ziehen,
+FZ3=die ein Weißer für das Laden seines Gewehres brauchte ?
+Min=8000
+Max=125000
+Antwort_1=1ca. 8 Pfeile
+Antwort_2=0ca. 4 Pfeile
+Antwort_3=0ca. 6 Pfeile
+Antwort_4=0ca. 2 Pfeile
+
+[118]
+FZ1=
+FZ2=Was war die typische Behausung eines Navajos ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Hogan
+Antwort_2=0Wigwam
+Antwort_3=0Tipi
+Antwort_4=0Iglu
+
+[119]
+FZ1=
+FZ2=Was ist eine Squaw ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1eine Indianerfrau
+Antwort_2=0eine Indianerhochzeit
+Antwort_3=0eine große Bisonherde
+Antwort_4=0eine gescheiterte Mutprobe
+
+[120]
+FZ1=
+FZ2=Wie nannten die Weißen eine Indianerfrau ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Squaw
+Antwort_2=0Tjost
+Antwort_3=0Quirl
+Antwort_4=0Gnom
+
+[121]
+FZ1=
+FZ2=Wie nannte man jemanden, der sich mit magischen Dingen auskannte und auch
+FZ3=Heilungen vornahm ?
+Min=0
+Max=1000
+Antwort_1=1Medizinmann
+Antwort_2=0Mondmann
+Antwort_3=0Scharlatan
+Antwort_4=0Wahrsager
+
+[122]
+FZ1=
+FZ2=Was wurde "Kalumet" genannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1eine Pfeife, die man bei feierlichen	Anlässen rauchte
+Antwort_2=0eine unverheiratete Indianerfrau
+Antwort_3=0ein wildes Pferd, das erst noch	eingeritten werden musste
+Antwort_4=0der Sohn des Häuptlings
+
+[123]
+FZ1=
+FZ2=Wie hieß die Pfeife, die man bei feierlichen Anlässen rauchte ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Kalumet
+Antwort_2=0Hulaknet
+Antwort_3=0Famubet
+Antwort_4=0Boleritt
+
+[124]
+FZ1=
+FZ2=Wie nannten die Indianer die ersten Gewehre ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Feuerstab
+Antwort_2=0Bummstock
+Antwort_3=0Donnerast
+Antwort_4=0Krachstamm
+
+[125]
+FZ1=
+FZ2=Zu welchem Gott beteten die Indianer ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Manitu
+Antwort_2=0Buddha
+Antwort_3=0Allah
+Antwort_4=0Zeus
+
+[126]
+FZ1=
+FZ2=Welchen Durchmesser hatte ein normales Lederzelt (Tipi) ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 4 m
+Antwort_2=0ca. 8 m
+Antwort_3=0ca. 6 m
+Antwort_4=0ca. 2 m
+
+[127]
+FZ1=
+FZ2=Von wie vielen Stangen wurden die größten Lederzelte (Tipis) gestützt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 20
+Antwort_2=0ca. 10
+Antwort_3=0ca. 15
+Antwort_4=0ca. 5
+
+[128]
+FZ1=
+FZ2=Welchen Durchmesser hatten die größten Lederzelte (Tipis) ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=110 - 15 m
+Antwort_2=06 - 9 m
+Antwort_3=04 - 6 m
+Antwort_4=030 - 45 m
+
+[129]
+FZ1=
+FZ2=Wo lebten die Pueblo - Indianer ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1in Lehmhäusern ohne Türen, in die man	nur durch einen Einstieg im Flachdach	gelangte
+Antwort_2=0in Langhäusern ohne Türen, in die man	nur durch die Fenster gelangte
+Antwort_3=0in Zelten ohne Eingang, in die man nur	durch einen unterirdischen Gang	gelangte
+Antwort_4=0in Erdhöhlen, deren Eingänge durch	bemalte Tierfelle getarnt waren
+
+[130]
+FZ1=
+FZ2=Was symbolisierten die Federn im Kopfschmuck der Prärie - Indianer ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1die Anzahl der Heldentaten
+Antwort_2=0die Anzahl der Frauen
+Antwort_3=0die Anzahl der Kinder
+Antwort_4=0die Anzahl der Pferde
+
+[131]
+FZ1=
+FZ2=Welche Federn benutzten die Prärie - Indianer für ihren Federschmuck ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Adlerfedern
+Antwort_2=0Pfauenfedern
+Antwort_3=0Straußenfedern
+Antwort_4=0Taubenfedern
+
+[132]
+FZ1=
+FZ2=Wie nannte man es, wenn die Indianer dem besiegten
+FZ3=lebenden oder toten Feind als Trophäe ein Stück behaarte Kopfhaut abnahmen ?
+Min=1000
+Max=16000
+Antwort_1=1skalpieren
+Antwort_2=0barbieren
+Antwort_3=0garnieren
+Antwort_4=0marinieren
+
+[133]
+FZ1=
+FZ2=Wie nennt man das Stück behaarter Kopfhaut, das die Indianer dem besiegten
+FZ3=lebenden oder toten Feind als Trophäe abgenommen  hatten ?
+Min=64000
+Max=250000
+Antwort_1=1Skalp
+Antwort_2=0Skolt
+Antwort_3=0Balg
+Antwort_4=0Sgeld
+
+[134]
+FZ1=
+FZ2=Warum skalpierten viele Indianer ihre getöteten Feinde ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Die Indianer glaubten, dass die Haare	der Sitz der Seele sei und sie so die	Lebenskraft des Menschen besaßen.
+Antwort_2=0Die Indianer konnten nur dadurch ihrem	Häuptling beweisen, dass sie gesiegt	hatten.
+Antwort_3=0Die Indianer glaubten, dass sie dann	selbst am Kopf unverwundbar würden.
+Antwort_4=0Viele Indianer hatten einfach Angst vor	einem toten Feind, der noch seine	Haare besaß.
+
+[135]
+FZ1=
+FZ2=Was bedeutete der Name Dakota ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Freund
+Antwort_2=0Krieger
+Antwort_3=0Feind
+Antwort_4=0Jäger
+
+[136]
+FZ1=
+FZ2=Wie nannten sich die Sioux selbst ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Dakota
+Antwort_2=0Dratini
+Antwort_3=0Ditto
+Antwort_4=0Dragoran
+
+[137]
+FZ1=
+FZ2=Wie viele Büffel erlegte Buffalo Bill in 18 Monaten ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1über 4.000
+Antwort_2=0ca. 1.000
+Antwort_3=02.000 - 3.000
+Antwort_4=0698
+
+[138]
+FZ1=Um die Arbeiter der Eisenbahn zu ernähren, wurden berufsmäßige Büffeljäger
+FZ2=eingestellt. Wie hieß der berühmteste Büffeljäger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Buffalo Bill
+Antwort_2=0Buffalo Tom
+Antwort_3=0Buffalo John
+Antwort_4=0Buffalo Jim
+
+[139]
+FZ1=
+FZ2=Was bedeutet der Name "Apachen" ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Feind
+Antwort_2=0Krieger
+Antwort_3=0Freund
+Antwort_4=0Jäger
+
+[140]
+FZ1=
+FZ2=Was machte Sitting Bull, um die Geister gnädig zu stimmen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Er ließ sich hundert Schnitte an den	Armen beibringen und sank dann	bewusstlos nieder.
+Antwort_2=0Er tötete drei seiner besten Krieger.
+Antwort_3=0Er band sich selbst für drei Tage an	den Marterpfahl und fastete dort.
+Antwort_4=0Er veranstaltete ein großes Fest.
+
+[141]
+FZ1=
+FZ2=Wie nannten die Siedler das weite Land ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1der Wilde Westen
+Antwort_2=0der unbekannte Westen
+Antwort_3=0der Fruchtbare Westen
+Antwort_4=0der Neue Westen
+
+[142]
+FZ1=
+FZ2=Wie transportierten die Indianerinnen im Südwesten ihre kleinen Kinder, die noch
+FZ3=nicht alleine laufen konnten ?
+Min=2000
+Max=32000
+Antwort_1=1in einer festen Trage auf dem Rücken
+Antwort_2=0in einem Kinderwagen
+Antwort_3=0in einem Bisonfellsack vor dem Bauch
+Antwort_4=0in einer Art Holzschlitten
+
+[143]
+FZ1=
+FZ2=Wie nannte man die Notnahrung für den Winter, die aus getrocknetem Fleisch,
+FZ3=gemischt mit Trockenfrüchten und Tierfett bestand ?
+Min=500000
+Max=500000
+Antwort_1=1Pemmikan
+Antwort_2=0Schlemmikan
+Antwort_3=0Pelikan
+Antwort_4=0Vatikan
+
+[144]
+FZ1=
+FZ2=Was ist Pemmikan ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Notnahrung für den Winter, aus	getrocknetem Fleisch, gemischt mit	Trockenfrüchten und Tierfett
+Antwort_2=0das Zelt der alten Frauen
+Antwort_3=0eine vergiftete Pfeilspitze
+Antwort_4=0der Umhang des Medizinmannes, der	aus neun bis zwölf verschiedenen	Fellen bestehen musste
+
+[145]
+FZ1=
+FZ2=Wie nennt man ein riesiges Fest mit Tanz und Musik ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Pow Wow
+Antwort_2=0Mani Tou
+Antwort_3=0Tsching Päng
+Antwort_4=0How Tow
+
+[146]
+FZ1=
+FZ2=Was ist ein Pow Wow ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ein Fest der nordamerikanischen	Indianer
+Antwort_2=0eine indianische Büffeljagd
+Antwort_3=0ein indianisches Nationalgericht
+Antwort_4=0ein wilder Kriegstanz
+
+[147]
+FZ1=
+FZ2=Züchteten die Indianer schon Bienen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Ja, wahrscheinlich waren die Indianer	sogar die ersten Menschen, die Bienen	züchteten.
+Antwort_2=0Nein, bei den Indianern gab es keine	Bienen.
+Antwort_3=0Nein, die Indianer hatten große Angst	vor Bienen.
+Antwort_4=0Nein, die Bienen waren für die Indianer	heilige Tiere, die nicht berührt werden	durften.
+
+[148]
+FZ1=
+FZ2=Warum wurden die Indianer Rothäute genannt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1weil sie auf Kriegszügen und zu	religiösen Anlässen ihre Haut rot	anmalten
+Antwort_2=0weil sie oft blutige Tierfelle trugen
+Antwort_3=0weil sie eine rote Hautfarbe hatten
+Antwort_4=0weil sie in der untergehenden Sonne rot	schimmerten
+
+[149]
+FZ1=
+FZ2=Haben die Indianer eine rote Haut ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1nein
+Antwort_2=0nur die Männer
+Antwort_3=0ja
+Antwort_4=0nur die Kinder
+
+[150]
+FZ1=
+FZ2=Wie nannten die Franzosen die Dakota - Indianer ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Sioux
+Antwort_2=0Irokesen
+Antwort_3=0Citroen
+Antwort_4=0Navajo
+
+[151]
+FZ1=
+FZ2=Wie nannte sich der Stamm der Sioux selbst ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Dakota
+Antwort_2=0Navajo
+Antwort_3=0Apachen
+Antwort_4=0Schoschonen
+
+[152]
+FZ1=
+FZ2=Bis auf wie viel Meter konnten die Indianer mit Pfeil und Bogen
+FZ3=absolut treffsicher schießen ?
+Min=4000
+Max=64000
+Antwort_1=1100 m
+Antwort_2=075 m
+Antwort_3=0300 m
+Antwort_4=045 m
+
+[153]
+FZ1=
+FZ2=Wie viele Indianerfamilien wohnten in einem Langhaus,
+FZ3=das bis zu 25 m lang war ?
+Min=64000
+Max=250000
+Antwort_1=1ca. 20
+Antwort_2=07 - 9
+Antwort_3=0ca. 12
+Antwort_4=03
+
+[154]
+FZ1=
+FZ2=Welches war die wichtigste Waffe des Indianerkriegers ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Pfeil und Bogen
+Antwort_2=0Gewehr
+Antwort_3=0Messer
+Antwort_4=0Tomahawk
+
+[155]
+FZ1=
+FZ2=Wie mussten sich die Indianer an eine Bisonherde anschleichen ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1gegen den Wind
+Antwort_2=0links vom Wind
+Antwort_3=0mit dem Wind
+Antwort_4=0rechts vom Wind
+
+[156]
+FZ1=
+FZ2=Was machte es den Indianern besonders schwer, sich unbemerkt an
+FZ3=eine Bisonherde anzuschleichen ?
+Min=0
+Max=1000
+Antwort_1=1der gute Geruchssinn der Bisons
+Antwort_2=0das gute Gehör der Bisons
+Antwort_3=0die guten Augen der Bisons
+Antwort_4=0der gute Geschmack der Bisons
+
+[157]
+FZ1=
+FZ2=Wodurch zeichneten sich die Irokesen aus ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1durch den Haarkamm in der Mitte des	sonst kahl rasierten Schädels
+Antwort_2=0durch bunt bemalte Glatzen
+Antwort_3=0durch lange, geflochtene Bärte
+Antwort_4=0durch kurze, geflochtene Zöpfe
+
+[158]
+FZ1=
+FZ2=Welcher Indianerstamm zeichnete sich durch den Haarkamm in der Mitte des sonst
+FZ3=kahl rasierten Schädels aus ?
+Min=300
+Max=4000
+Antwort_1=1Irokesen
+Antwort_2=0Apachen
+Antwort_3=0Sioux
+Antwort_4=0Mohikaner
+
+[159]
+FZ1=
+FZ2=Wie nannte man eine Streitaxt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Tomahawk
+Antwort_2=0Lomahawk
+Antwort_3=0Womahawk
+Antwort_4=0Bomahawk
+
+[160]
+FZ1=
+FZ2=Was war der Tomahawk ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1eine Streitaxt
+Antwort_2=0der Marterpfahl
+Antwort_3=0der Stammesälteste
+Antwort_4=0ein Regentanz
+
+[161]
+FZ1=
+FZ2=Benutzten die Indianer schon Dünger auf ihren Feldern ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Ja, sie düngten z.B. mit vergrabenen	Fischabfällen.
+Antwort_2=0Ja, sie düngten schon mit Nitrat und	Schwefelsäure.
+Antwort_3=0Nein, die Indianer hatten noch keine	Felder.
+Antwort_4=0Nein, die Indianer gruben ihre Felder	nur um.
+
+[162]
+FZ1=
+FZ2=Legten die Indianer Nordamerikas nach einer erfolgreichen Jagd Vorräte an ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Ja, Fleisch und Fisch wurden durch	Trocknen oder Räuchern haltbar	gemacht.
+Antwort_2=0Nein, denn es gab damals noch keine	Kühlschränke.
+Antwort_3=0Nein, die Indianer jagten immer nur so	viel, wie sie an einem Tag essen	konnten.
+Antwort_4=0Nein, wenn die Indianer zu viel gejagt	hatten, luden sie den Nachbarstamm zu	einem großen Festmahl ein.
+
+[163]
+FZ1=
+FZ2=Was war das durchschnittliche Heiratsalter der Indianermädchen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 15 Jahre
+Antwort_2=0ca. 19 Jahre
+Antwort_3=0ca. 17 Jahre
+Antwort_4=0ca. 21 Jahre
+
+[164]
+FZ1=
+FZ2=Was war das durchschnittliche Heiratsalter der Indianerjungen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 17 Jahre
+Antwort_2=0ca. 15 Jahre
+Antwort_3=0ca. 19 Jahre
+Antwort_4=0ca. 21 Jahre
+
+[165]
+FZ1=
+FZ2=Wer durfte in einem Tipi der Prärie - Indianer mit gekreuzten Beinen sitzen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1alle Männer
+Antwort_2=0nur der Häuptling
+Antwort_3=0nur die Frauen
+Antwort_4=0nur der Medizinmann
+
+[166]
+FZ1=
+FZ2=Wie viele Mahlzeiten gab es üblicherweise bei den Irokesen ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1eine Mahlzeit am Mittag
+Antwort_2=0eine Mittagsmahlzeit und eine	Mitternachtsmahlzeit
+Antwort_3=0eine Mahlzeit am Morgen und eine	Mahlzeit am Abend
+Antwort_4=0mehrere kleine Mahlzeiten über den	Tag verteilt
+
+[167]
+FZ1=
+FZ2=Aus wie vielen Clans setzte sich ein Indianerstamm zusammen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=150 und mehr
+Antwort_2=020 - 30
+Antwort_3=0ca. 40
+Antwort_4=0immer genau aus 17
+
+[168]
+FZ1=
+FZ2=Was stellten die geschnitzten Figuren der Totempfähle dar ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Sie erzählten die Familiengeschichte.
+Antwort_2=0Sie stellten die erlegten Feinde des	Stammes dar.
+Antwort_3=0Sie stellten die Stammesgötter dar.
+Antwort_4=0Sie stellten Glücksbringer für die	Bisonjagd dar.
+
+[169]
+FZ1=
+FZ2=Wie nannte man ein üppiges Fest, z.B. eine Hochzeit,
+FZ3=die eine Häuptlingsfamilie aus feierlichem Anlass veranstaltete ?
+Min=500000
+Max=500000
+Antwort_1=1Potlach
+Antwort_2=0Sotlach
+Antwort_3=0Hotlach
+Antwort_4=0Botlach
+
+[170]
+FZ1=
+FZ2=Was war ein Potlach ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ein üppiges Fest
+Antwort_2=0eine Jagdhütte
+Antwort_3=0ein Kriegstanz
+Antwort_4=0das Zelt des Medizinmanns
+
+[171]
+FZ1=
+FZ2=Wie nannte man ein Wurfinstrument zur Vogeljagd ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Bola
+Antwort_2=0Vola
+Antwort_3=0Zola
+Antwort_4=0Mola
+
+[172]
+FZ1=
+FZ2=Was ist eine Bola ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1ein Wurfinstrument zur Vogeljagd
+Antwort_2=0eine Lanze mit geteilter Spitze
+Antwort_3=0ein vergifteter Pfeil
+Antwort_4=0eine angemalter Adlerfeder
+
+[173]
+FZ1=
+FZ2=Wie nennt man eine Gruppe von verwandten Indianerfamilien ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Indianer - Clan
+Antwort_2=0Indianer - Clou
+Antwort_3=0Indianer - Schwarm
+Antwort_4=0Indianer - Crown
+
+[174]
+FZ1=
+FZ2=Was ist ein Indianer - Clan ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1eine Gruppe von verwandten	Indianerfamilien
+Antwort_2=0verfeindete Indianerstämme
+Antwort_3=0befreundete Indianerstämme
+Antwort_4=0ein Indianerfriedhof
+
+[175]
+FZ1=
+FZ2=Was machte der indianische Gastgeber zum Zeichen,
+FZ3=dass die Einladung nun beendet ist ?
+Min=2000
+Max=32000
+Antwort_1=1Er zündete eine Pfeife an.
+Antwort_2=0Er ging in sein Wigwam.
+Antwort_3=0Er machte seine Pfeife aus.
+Antwort_4=0Er löschte das Lagerfeuer.
+
+[176]
+FZ1=
+FZ2=Was bedeutet es, wenn sich der indianische Gastgeber eine Pfeife anzündete ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Die Einladung war nun beendet.
+Antwort_2=0Der gemütliche Teil der Einladung	begann nun.
+Antwort_3=0Die Einladung begann nun.
+Antwort_4=0Der geschäftliche Teil der Einladung	begann nun.
+
+[177]
+FZ1=
+FZ2=Wie lange brauchten zwei Frauen zum Aufstellen eines Tipis ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 60 Minuten
+Antwort_2=0ca. 15 Minuten
+Antwort_3=0ca. 30 Minuten
+Antwort_4=0ca. 120 Minuten
+
+[178]
+FZ1=
+FZ2=Wie viele Bisonhäute nähten die Indianer für ein Tipi zusammen ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1ca. 14
+Antwort_2=0ca. 8
+Antwort_3=0ca. 10
+Antwort_4=0ca. 6
+
+[179]
+FZ1=
+FZ2=Wie nennt man die Indianerstämme, die keinen festen Wohnsitz haben,
+FZ3=sondern hinter den Bisonherden herziehen ?
+Min=64000
+Max=125000
+Antwort_1=1Nomadenstämme
+Antwort_2=0Karawanen
+Antwort_3=0Totemstämme
+Antwort_4=0Bisonstämme
+
+[180]
+FZ1=
+FZ2=Was sind Nomadenstämme ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Indianerstämme, die keinen festen	Wohnsitz haben
+Antwort_2=0Baumstämme, auf die die Indianer mit	Pfeil und Bogen zielten
+Antwort_3=0Baumstämme, aus denen die	Totempfähle geschnitzt sind
+Antwort_4=0die Baumstämme der	nordamerikanischen Nomadentanne
+
+[181]
+FZ1=
+FZ2=Wie heißen die Lederschuhe der Indianer ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Mokkassins
+Antwort_2=0Lommosins
+Antwort_3=0Lederssins
+Antwort_4=0Lokkassins
+
+[182]
+FZ1=
+FZ2=Was sind Mokassins ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Lederschuhe
+Antwort_2=0ein Indianerstamm in den Rocky	Mountains
+Antwort_3=0kleine Mokkatassen der Indianer
+Antwort_4=0kleine Bisons
+
+[183]
+FZ1=
+FZ2=Wie rasierten sich die Indianermänner ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1mit Pinzetten aus Muschelschalen, Holz	oder Knochen, da sie nur sehr	spärlichen Bartwuchs hatten
+Antwort_2=0mit Hilfe des Tomahawks
+Antwort_3=0mit Hilfe eines scharfen Messers
+Antwort_4=0gar nicht
+
+[184]
+FZ1=
+FZ2=Wie bezeichneten die Indianer den Alkohol, den sie erst durch
+FZ3=die Weißen kennen lernten ?
+Min=32000
+Max=32000
+Antwort_1=1Feuerwasser
+Antwort_2=0Leitungswasser
+Antwort_3=0Prickelwasser
+Antwort_4=0Teufelswasser
+
+[185]
+FZ1=
+FZ2=Was bezeichneten die Indianer als Feuerwasser ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Alkohol
+Antwort_2=0die heißen Bergquellen
+Antwort_3=0Benzin
+Antwort_4=0das Wasser zur Reinigung des	Totempfahles
+
+[186]
+FZ1=
+FZ2=Wie spricht man den Namen der Sioux richtig aus ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Suh
+Antwort_2=0Suchs
+Antwort_3=0Schuh
+Antwort_4=0Siejux
+
+[187]
+FZ1=
+FZ2=Welcher Indianerstamm lebte in der Prärie Nordamerikas ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1die Sioux
+Antwort_2=0die Apachen
+Antwort_3=0die Mohikaner
+Antwort_4=0die Irokesen
+
+[188]
+FZ1=Wie nannte man den Tanz, der sowohl Danksagung für die Segnungen des
+FZ2=vergangenen Jahres als auch Fürbitte um Hilfe und Glück für die kommenden
+FZ3=Monate war ?
+Min=125000
+Max=500000
+Antwort_1=1Sonnentanz
+Antwort_2=0Sternentanz
+Antwort_3=0Mondtanz
+Antwort_4=0Erntetanz
+
+[189]
+FZ1=
+FZ2=Wie nannte man ein Indianerboot ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kanu
+Antwort_2=0Tomahawk
+Antwort_3=0Nugget
+Antwort_4=0Squaw
+
+[190]
+FZ1=
+FZ2=Die Nimipu waren berühmt für die Züchtung einer bestimmten Pferderasse.
+FZ3=Wie hieß diese Rasse mit der charakteristischen Apfelschimmel - Zeichnung ?
+Min=250000
+Max=500000
+Antwort_1=1Appaloosa
+Antwort_2=0Cippohulana
+Antwort_3=0Beppalonika
+Antwort_4=0Uddiresika
+
+[191]
+FZ1=
+FZ2=Die Kanus der Indianer besaßen einen Rahmen aus Zedernholz.
+FZ3=Womit waren sie bespannt ?
+Min=2000
+Max=32000
+Antwort_1=1Birkenrinde
+Antwort_2=0Biberpelz
+Antwort_3=0Bisonfell
+Antwort_4=0Adlerfedern
+
+[192]
+FZ1=
+FZ2=Was war Lacrosse ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Mannschaftsspiel, bei dem langstielige	Schläger zum Fangen und Schleudern	kleiner Lederbälle benutzt wurden
+Antwort_2=0eine Bisontreibjagd
+Antwort_3=0der größte Indianerhäuptling aller	Zeiten
+Antwort_4=0ein indianisches Festgericht
+
+[193]
+FZ1=
+FZ2=Wie nannte man das Mannschaftsspiel, bei dem langstielige Schläger zum Fangen
+FZ3=und Schleudern kleiner Lederbälle benutzt wurden ?
+Min=125000
+Max=500000
+Antwort_1=1Lacrosse
+Antwort_2=0Klurissse
+Antwort_3=0Befrosse
+Antwort_4=0Fopresse
+
+[194]
+FZ1=
+FZ2=Wie nannte man einen mit Muscheln geknüpften Gürtel,
+FZ3=der als Geschenk oder Zahlungsmittel diente ?
+Min=125000
+Max=500000
+Antwort_1=1Wampum
+Antwort_2=0Ramsum
+Antwort_3=0Damhum
+Antwort_4=0Zambum
+
+[195]
+FZ1=
+FZ2=Worin wohnten die Indianer  n i c h t  ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hochhaus
+Antwort_2=0Wigwam
+Antwort_3=0Tipi
+Antwort_4=0Langhaus
+
+[196]
+FZ1=
+FZ2=Welchen Indianerstamm gab es  n i  c h t  ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Huzathlio
+Antwort_2=0Hopi
+Antwort_3=0Schoschonen
+Antwort_4=0Shawnee
+
+[197]
+FZ1=
+FZ2=Womit war das Wigwam bedeckt ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1mit Birkenrinde oder Schilfmatten
+Antwort_2=0mit Kiefernnadeln oder Präriegras
+Antwort_3=0mit Büffelfell oder Biberpelz
+Antwort_4=0mit Bisonleder oder Wolfshaut
+
+[198]
+FZ1=
+FZ2=Welchen Indianerstamm gab es  n i  c h t  ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Joputa
+Antwort_2=0Irokesen
+Antwort_3=0Kiowa
+Antwort_4=0Navajo
+
+[199]
+FZ1=
+FZ2=Welchen Indianerstamm gab es  n i  c h t  ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Churadota
+Antwort_2=0Comanche
+Antwort_3=0Cheyenne
+Antwort_4=0Crow
+
+[200]
+FZ1=
+FZ2=Welchen Indianerstamm gab es  n i  c h t  ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Assabemo
+Antwort_2=0Arapaho
+Antwort_3=0Apachen
+Antwort_4=0Assiniboin
+
+[201]
+FZ1=
+FZ2=Farben hatten für die Indianer heilige oder magische Bedeutung.
+FZ3=Welche Farbe stand für Niederlage oder Trauer ?
+Min=2000
+Max=32000
+Antwort_1=1blau
+Antwort_2=0weiß
+Antwort_3=0schwarz
+Antwort_4=0grün
+
+[202]
+FZ1=
+FZ2=Farben hatten für die Indianer heilige oder magische Bedeutung.
+FZ3=Welche Farbe stand für den Tod ?
+Min=300
+Max=2000
+Antwort_1=1schwarz
+Antwort_2=0blau
+Antwort_3=0gelb
+Antwort_4=0rot
+
+[203]
+FZ1=
+FZ2=Welche Farbe signalisierte bei den meisten Indianerstämmen Krieg ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0weiß
+Antwort_2=1rot
+Antwort_3=0schwarz
+Antwort_4=0blau
+
+[204]
+FZ1=
+FZ2=Welche Tiere wurden von den Indianern als Zug- und Lasttiere gehalten, bevor
+FZ3=Europäer Pferde nach Amerika brachten ?
+Min=4000
+Max=64000
+Antwort_1=1Hunde
+Antwort_2=0Büffel
+Antwort_3=0Esel
+Antwort_4=0Lamas
+
+[205]
+FZ1=
+FZ2=Wie hießen die nach oben spitz zulaufenden Zelte der Prärie - Indianer ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Tipi
+Antwort_2=0Hogan
+Antwort_3=0Wigwam
+Antwort_4=0Iglu
+
+[206]
+FZ1=
+FZ2=Wie jagten die meisten Prärie - Indianer Bisons, bevor sie Pferde besaßen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sie trieben zu Fuß ganze Herden auf	steile Felskanten, von denen die Bisons	sich zu Tode stürzten.
+Antwort_2=0Sie schossen sie vergifteten Pfeilen ab.
+Antwort_3=0Sie hetzten ihre wilden Hunde auf die	Bisons.
+Antwort_4=0Sie gruben tiefe Fallgruben und trieben	die Bisons dort hinein.
+
+[207]
+FZ1=
+FZ2=Wie viele Häuptlinge gab es in den meisten indianischen Siedlungen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=12, einen Häuptling für Friedenszeiten	und einen Häuptling für Kriegszeiten
+Antwort_2=0Es gab immer nur einen Häuptling.
+Antwort_3=012, für jeden Monat gab es einen	anderen Häuptling
+Antwort_4=04, für jede Jahreszeit gab es einen	neuen Häuptling
+
+[208]
+FZ1=
+FZ2=Besaßen die Indianer schon immer Pferde ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Nein, sie lernten die Pferde erst kennen,	als die Spanier sie im 18. Jahrhundert	mit nach Amerika brachten.
+Antwort_2=0Ja, sie brachten sie aus Asien mit.
+Antwort_3=0Ja, sie züchteten sie aus wilden	Mustangs.
+Antwort_4=0Ja, denn in Nordamerika gab es schon	immer große, zahme Pferdeherden.
+
+[209]
+FZ1=Die Indianer konnten schon ein schmerzlinderndes Mittel herstellen,
+FZ2=das heute auch in künstlicher Form in Aspirin enthalten ist.
+FZ3=Woraus stellten die Indianer es her ?
+Min=125000
+Max=500000
+Antwort_1=1Weidenrinde
+Antwort_2=0getrockneter Baumharz
+Antwort_3=0gepresster Steppengrassaft
+Antwort_4=0kleingehackte Kastanien
+
+[210]
+FZ1=
+FZ2=Wie viele verschiedene Sprachen wurden von den Indianern Nordamerikas
+FZ3=gesprochen, als Kolumbus den Kontinent entdeckte ?
+Min=4000
+Max=64000
+Antwort_1=1ca. 200
+Antwort_2=0ungefähr 75
+Antwort_3=0etwa 100
+Antwort_4=010 - 40
+
+[211]
+FZ1=
+FZ2=Wie nannten die Wikinger Amerika ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1das gute Weinland
+Antwort_2=0das Land der Wilden
+Antwort_3=0das Paradies
+Antwort_4=0das Land der Büffel
+
+[212]
+FZ1=
+FZ2=Die Wikinger nannten die Indianer Skrälinge, was bedeutete dies ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Schwächlinge
+Antwort_2=0Seltsame
+Antwort_3=0Stärkere
+Antwort_4=0Südländer
+
+[213]
+FZ1=
+FZ2=Wie nannten die Wikinger die Indianer ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Skrälinge
+Antwort_2=0Rothäute
+Antwort_3=0Bjmüllen
+Antwort_4=0Wasabroeder
+
+[214]
+FZ1=
+FZ2=Lebten Indianer nur auf dem nordamerikanischen Kontinent ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nein, sie lebten sowohl in Nord- als	auch in Südamerika und besiedelten	auch die Arktis und den Regenwald
+Antwort_2=0ja, allerdings wurden sie von den	"Weißen" nach Südamerika vertrieben
+Antwort_3=0ja
+Antwort_4=0nein, sie lebten auch in Afrika, wurden	dort aber nie entdeckt
+
+[215]
+FZ1=
+FZ2=Wer gab den Ureinwohnern Amerikas den Namen Indianer ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kolumbus, denn er glaubte	fälschlicherweise, dass er in Indien	gelandet sei
+Antwort_2=0so nannten sich die Ureinwohner schon	seit tausenden von Jahren
+Antwort_3=0europäische Wissenschaftler
+Antwort_4=0die Inder nannten sie so, weil sie	ähnliche Sitten und Gebräuche hatten
+
+[216]
+FZ1=
+FZ2=War Kolumbus der erste Entdecker Amerikas ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1nein, die Wikinger waren Jahrhunderte	vor Kolumbus in Nordamerika gelandet	und hatten dort Siedlungen errichtet
+Antwort_2=0ja, allerdings hatte sein Wachtmann im	Aussichtsturm Amerika zuerst gesehen,	durfte es aber niemandem sagen
+Antwort_3=0ja
+Antwort_4=0nein, zwei Jahre vorher entdeckte	Pierre Brice Amerika, verunglückte aber	auf der Rückreise
+
+[217]
+FZ1=
+FZ2=In welchem Jahr landete Kolumbus in Amerika ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=11492
+Antwort_2=01592
+Antwort_3=01392
+Antwort_4=01692
+
+[218]
+FZ1=
+FZ2=Wie hieß der berühmte italienische Entdecker Amerikas ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Christopher Kolumbus
+Antwort_2=0Hernán Cortés
+Antwort_3=0Sir Francis Drake
+Antwort_4=0Leonardo da Vinci
+
+[219]
+FZ1=
+FZ2=Über eine "Straße" konnten die ersten Menschen von Asien nach Nordamerika
+FZ3=einwandern. Wie hieß diese Straße ?
+Min=125000
+Max=500000
+Antwort_1=1Beringstraße, die Landbrücke entstand	während der letzten Eiszeit durch	Absinken des Meeresspiegels
+Antwort_2=0Nordamerikastraße, eine vierspurige	Straße wurde von den ersten Indianern	gebaut
+Antwort_3=0Asienstraße, sie wurde von den Asiaten	gebaut, versank aber bei einer großen	Sturmflut
+Antwort_4=0Büffelstraße, die wilden Büffel zogen	auf ihrer Wanderung nach saftigeren	Weidegründen
+
+[220]
+FZ1=
+FZ2=Wie hieß der berühmte italienische Entdecker Amerikas ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Christopher Kolumbus
+Antwort_2=0Hernán Cortés
+Antwort_3=0Sir Francis Drake
+Antwort_4=0Leonardo da Vinci
+

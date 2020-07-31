@@ -1,0 +1,339 @@
+[Thema]
+Thema     = Erweitern von Brüchen
+Fragen    = 30
+Autor     = E. Trüber, 9/2001
+
+
+[1]
+FZ1       = 
+FZ2       = 2/3 =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 028/48
+Antwort_2 = 126/39
+Antwort_3 = 030/40
+Antwort_4 = 014/28
+
+[2]
+FZ1       = 
+FZ2       = 4/5 =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 050/60
+Antwort_2 = 060/130
+Antwort_3 = 060/120
+Antwort_4 = 148/60
+
+[3]
+FZ1       = 
+FZ2       = 2/7 =
+FZ3       = 
+Min       = 1000
+Max       = 125000
+Antwort_1 = 034/121
+Antwort_2 = 036/119
+Antwort_3 = 134/119
+Antwort_4 = 04/70
+
+[4]
+FZ1       = 
+FZ2       = 6/7 =
+FZ3       = 
+Min       = 0
+Max       = 32000
+Antwort_1 = 054/56
+Antwort_2 = 048/63
+Antwort_3 = 024/42
+Antwort_4 = 148/56
+
+[5]
+FZ1       = 
+FZ2       = 3/4 =
+FZ3       = 
+Min       = 1000
+Max       = 32000
+Antwort_1 = 145/60
+Antwort_2 = 045/56
+Antwort_3 = 042/60
+Antwort_4 = 015/16
+
+[6]
+FZ1       = 
+FZ2       = 5/8 =
+FZ3       = 
+Min       = 100
+Max       = 125000
+Antwort_1 = 045/80
+Antwort_2 = 150/80
+Antwort_3 = 050/88
+Antwort_4 = 040/80
+
+[7]
+FZ1       = 
+FZ2       = 1/3 =
+FZ3       = 
+Min       = 100
+Max       = 1000
+Antwort_1 = 050/200
+Antwort_2 = 060/150
+Antwort_3 = 160/180
+Antwort_4 = 090/210
+
+[8]
+FZ1       = 
+FZ2       = 1/2 =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 050/200
+Antwort_2 = 150/100
+Antwort_3 = 010/50
+Antwort_4 = 02/5
+
+[9]
+FZ1       = 
+FZ2       = 1/4 =
+FZ3       = 
+Min       = 100
+Max       = 1000000
+Antwort_1 = 020/100
+Antwort_2 = 040/80
+Antwort_3 = 130/120
+Antwort_4 = 0120/400
+
+[10]
+FZ1       = 
+FZ2       = 1/5 =
+FZ3       = 
+Min       = 250000
+Max       = 1000000
+Antwort_1 = 050/300
+Antwort_2 = 060/350
+Antwort_3 = 080/300
+Antwort_4 = 170/350
+
+[11]
+FZ1       = 
+FZ2       = 2/5 =
+FZ3       = 
+Min       = 64000
+Max       = 1000000
+Antwort_1 = 080/120
+Antwort_2 = 170/135
+Antwort_3 = 060/160
+Antwort_4 = 070/120
+
+[12]
+FZ1       = 
+FZ2       = 3/5 =
+FZ3       = 
+Min       = 125000
+Max       = 1000000
+Antwort_1 = 030/40
+Antwort_2 = 060/80
+Antwort_3 = 145/75
+Antwort_4 = 012/15
+
+[13]
+FZ1       = 
+FZ2       = 4/5 =
+FZ3       = 
+Min       = 0
+Max       = 16000
+Antwort_1 = 084/110
+Antwort_2 = 012/20
+Antwort_3 = 168/85
+Antwort_4 = 016/25
+
+[14]
+FZ1       = 
+FZ2       = 2/9 =
+FZ3       = 
+Min       = 1000
+Max       = 64000
+Antwort_1 = 012/20
+Antwort_2 = 020/100
+Antwort_3 = 138/171
+Antwort_4 = 018/90
+
+[15]
+FZ1       = 
+FZ2       = 4/9 =
+FZ3       = 
+Min       = 0
+Max       = 8000
+Antwort_1 = 1100/225
+Antwort_2 = 040/100
+Antwort_3 = 080/90
+Antwort_4 = 0200/500
+
+[16]
+FZ1       = 
+FZ2       = 1/6 =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 0100/500
+Antwort_2 = 1300/1800
+Antwort_3 = 0200/1000
+Antwort_4 = 0300/1500
+
+[17]
+FZ1       = 
+FZ2       = 5/6 =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 045/50
+Antwort_2 = 035/48
+Antwort_3 = 140/48
+Antwort_4 = 055/60
+
+[18]
+FZ1       = 
+FZ2       = 1/7 =
+FZ3       = 
+Min       = 100
+Max       = 2000
+Antwort_1 = 09/64
+Antwort_2 = 19/63
+Antwort_3 = 09/65
+Antwort_4 = 09/62
+
+[19]
+FZ1       = 
+FZ2       = 2/7 =
+FZ3       = 
+Min       = 400
+Max       = 16000
+Antwort_1 = 06/14
+Antwort_2 = 020/140
+Antwort_3 = 150/175
+Antwort_4 = 0407210
+
+[20]
+FZ1       = 
+FZ2       = 3/7 =
+FZ3       = 
+Min       = 1000
+Max       = 125000
+Antwort_1 = 145/105
+Antwort_2 = 039/71
+Antwort_3 = 042/91
+Antwort_4 = 036/77
+
+[21]
+FZ1       = 
+FZ2       = 4/7 =
+FZ3       = 
+Min       = 500
+Max       = 32000
+Antwort_1 = 068/112
+Antwort_2 = 064/126
+Antwort_3 = 172/126
+Antwort_4 = 0607112
+
+[22]
+FZ1       = 
+FZ2       = 5/7 =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 050/77
+Antwort_2 = 055/70
+Antwort_3 = 155/77
+Antwort_4 = 050/140
+
+[23]
+FZ1       = 
+FZ2       = 6/7 =
+FZ3       = 
+Min       = 1000
+Max       = 125000
+Antwort_1 = 0180/280
+Antwort_2 = 1210/245
+Antwort_3 = 0120/175
+Antwort_4 = 0150/210
+
+[24]
+FZ1       =  
+FZ2       = 1/8 =
+FZ3       = 
+Min       = 100
+Max       = 8000
+Antwort_1 = 010/90
+Antwort_2 = 08/72
+Antwort_3 = 09/56
+Antwort_4 = 19/72
+
+[25]
+FZ1       = 
+FZ2       = 3/8 =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 015/45
+Antwort_2 = 112/32
+Antwort_3 = 024/32
+Antwort_4 = 018/42
+
+[26]
+FZ1       = 
+FZ2       = 5/8 =
+FZ3       = 
+Min       = 32000
+Max       = 1000000
+Antwort_1 = 055/72
+Antwort_2 = 160/96
+Antwort_3 = 060/104
+Antwort_4 = 065/96
+
+[27]
+FZ1       = 
+FZ2       = 7/8 =
+FZ3       = 
+Min       = 32000
+Max       = 1000000
+Antwort_1 = 084/104
+Antwort_2 = 098/104
+Antwort_3 = 191/104
+Antwort_4 = 084/104
+
+[28]
+FZ1       = 
+FZ2       = 1/9 =
+FZ3       = 
+Min       = 100
+Max       = 4000
+Antwort_1 = 014/117
+Antwort_2 = 015/126
+Antwort_3 = 113/117
+Antwort_4 = 013/126
+
+[29]
+FZ1       = 
+FZ2       = 2/9 =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 028/135
+Antwort_2 = 030/126
+Antwort_3 = 130/135
+Antwort_4 = 028/117
+
+[30]
+FZ1       = 
+FZ2       = 5/9 =
+FZ3       = 
+Min       = 2000
+Max       = 1000000
+Antwort_1 = 075/144
+Antwort_2 = 080/135
+Antwort_3 = 180/144
+Antwort_4 = 055/108
+
+
+
+

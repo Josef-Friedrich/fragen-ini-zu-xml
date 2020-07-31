@@ -1,0 +1,2272 @@
+[Thema]
+Thema= Märchen
+Fragen=206
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=In welchem Lebensjahr sollte sich die Prinzessin in dem Märchen "Dornröschen" 
+FZ3=an einer Spindel stechen ?
+Min=32000
+Max=250000
+Antwort_1=1in ihrem fünfzehnten	
+Antwort_2=0in ihrem dreizehnten	
+Antwort_3=0in ihrem siebten	
+Antwort_4=0in ihrem zwölften	
+
+[2]
+FZ1=
+FZ2=Aus welchem Märchen stammt:
+FZ3="Was rumpelt und pumpelt in meinem Bauch herum ?"  ?
+Min=1000000
+Max=0
+Antwort_1=1Der Wolf und die 7 Geißlein	
+Antwort_2=0Schneewittchen und die 7 Zwerge	
+Antwort_3=0Rotkäppchen	
+Antwort_4=0Dornröschen	
+
+[3]
+FZ1=
+FZ2=In was wurde das Brüderchen in dem Märchen "Brüderchen und Schwesterchen" 
+FZ3=verwandelt, als es aus dem dritten Brunnen trank ?
+Min=32000
+Max=250000
+Antwort_1=1in ein Reh	
+Antwort_2=0in einen Tiger	
+Antwort_3=0in einen Frosch	
+Antwort_4=0in einen Wolf	
+
+[4]
+FZ1=
+FZ2=Was wurde der gestiefelte Kater, als der alte König starb ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1erster Minister	
+Antwort_2=0Prinz	
+Antwort_3=0Hofnarr	
+Antwort_4=0erster Kammerjäger	
+
+[5]
+FZ1=
+FZ2=Was bekam der jüngste Sohn in dem Märchen "Der gestiefelte Kater" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1einen Kater	
+Antwort_2=0die Mühle	
+Antwort_3=0einen Esel	
+Antwort_4=0einen Klumpen Gold	
+
+[6]
+FZ1=
+FZ2=Was bekam der zweitälsteste Sohn in dem Märchen "Der gestiefelte Kater" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1einen Esel	
+Antwort_2=0einen Kater	
+Antwort_3=0die Mühle	
+Antwort_4=0einen Klumpen Gold	
+
+[7]
+FZ1=
+FZ2=Was bekam der älsteste Sohn in dem Märchen "Der gestiefelte Kater" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1die Mühle	
+Antwort_2=0einen Klumpen Gold	
+Antwort_3=0einen Esel	
+Antwort_4=0einen Kater	
+
+[8]
+FZ1=
+FZ2=Wie viele Söhne hatte der Müller in dem Märchen "Der gestiefelte Kater" ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=13	
+Antwort_2=01	
+Antwort_3=02	
+Antwort_4=07	
+
+[9]
+FZ1=
+FZ2=Durch wen wurde der Königssohn in dem Märchen Schneeweißchen und Rosenrot in 
+FZ3=einen Bären verzaubert ?
+Min=32000
+Max=250000
+Antwort_1=1durch einen arglististen Zwerg	
+Antwort_2=0durch eine böse Fee	
+Antwort_3=0durch eine alte Hexe	
+Antwort_4=0durch einen garstigen Zauberer	
+
+[10]
+FZ1=
+FZ2=Aus welcher misslichen Lage befreiten Schneeweißchen und Rosenrot den Zwerg 
+FZ3=beim dritten Mal ?
+Min=16000
+Max=125000
+Antwort_1=1Der Zwerg wurde von einem Adler	gepackt.	
+Antwort_2=0Der Zwerg hatte sich seinen Bart in	einem Baumstamm eingeklemmt.	
+Antwort_3=0Der Zwerg hatte  seinen Bart mit der	Angelschnur verflochten.	
+Antwort_4=0Der Zwerg wurde fast von einem Wolf	gefressen.	
+
+[11]
+FZ1=
+FZ2=Aus welcher misslichen Lage befreiten Schneeweißchen und Rosenrot den Zwerg 
+FZ3=beim zweiten Mal ?
+Min=16000
+Max=125000
+Antwort_1=1Der Zwerg hatte  seinen Bart mit der	Angelschnur verflochten.	
+Antwort_2=0Der Zwerg wurde von einem Adler	gepackt.	
+Antwort_3=0Der Zwerg hatte sich seinen Bart in	einem Baumstamm eingeklemmt.	
+Antwort_4=0Der Zwerg wurde fast von einem Wolf	gefressen.	
+
+[12]
+FZ1=
+FZ2=Aus welcher misslichen Lage befreiten Schneeweißchen und Rosenrot den Zwerg 
+FZ3=beim ersten Mal ?
+Min=16000
+Max=125000
+Antwort_1=1Der Zwerg hatte sich seinen Bart in	einem Baumstamm eingeklemmt.	
+Antwort_2=0Der Zwerg wurde von einem Adler	gepackt.	
+Antwort_3=0Der Zwerg hatte  seinen Bart mit der	Angelschnur verflochten.	
+Antwort_4=0Der Zwerg wurde fast von einem Wolf	gefressen.	
+
+[13]
+FZ1=
+FZ2=Wen befreiten Schneeweißchen und Rosenrot drei Mal ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1einen Zwerg	
+Antwort_2=0eine Hexe	
+Antwort_3=0einen Riesen	
+Antwort_4=0einen alten Zauberer	
+
+[14]
+FZ1=
+FZ2=Wer klopfte eines Abends im Winter an die Tür von Schneeweißchen und Rosenrot ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Bär	
+Antwort_2=0eine Hexe	
+Antwort_3=0ein Wolf	
+Antwort_4=0eine Fee	
+
+[15]
+FZ1=
+FZ2=Aus welchem Märchen stammt "Was das eine hat, soll´s  mit dem anderen teilen."  ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Schneeweißchen und Rosenrot	
+Antwort_2=0Rapunzel	
+Antwort_3=0Hänsel und Gretel	
+Antwort_4=0Schneewittchen	
+
+[16]
+FZ1=
+FZ2=Was gehört nicht zu den Mordwerkzeugen, mit denen die Stiefmutter
+FZ3=Schneewittchen zu Leibe rückt ?
+Min=32000
+Max=250000
+Antwort_1=1Spindel	
+Antwort_2=0vergifteter Kamm	
+Antwort_3=0vergifteter Apfel	
+Antwort_4=0Schnürriemen	
+
+[17]
+FZ1=
+FZ2=In welchem Märchen verkleidet sich ein König als Bettler ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1König Drosselbart	
+Antwort_2=0Kalif Storch	
+Antwort_3=0Der Froschkönig	
+Antwort_4=0Der gestiefelte Kater	
+
+[18]
+FZ1=
+FZ2=Was sang Rumpelstilzchen ? "Heute back ich, morgen .......   ....... !"
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1brau ich	
+Antwort_2=0brat ich	
+Antwort_3=0koch ich	
+Antwort_4=0toast ich	
+
+[19]
+FZ1=
+FZ2=Was sagte der  s i e b e n t e  Zwerg, als die Zwerge entdeckten,
+FZ3=dass jemand bei ihnen war ?
+Min=500000
+Max=500000
+Antwort_1=1Wer hat aus meinem Becherlein	getrunken ?	
+Antwort_2=0Wer hat mit meinem Gäbelchen	gestochen ?	
+Antwort_3=0Wer hat mit meinem Messerchen	geschnitten ?	
+Antwort_4=0Wer hat von meinem Tellerchen	gegessen ?	
+
+[20]
+FZ1=
+FZ2=Was sagte der  s e c h s t e  Zwerg, als die Zwerge entdeckten,
+FZ3=dass jemand bei ihnen war ?
+Min=500000
+Max=500000
+Antwort_1=1Wer hat mit meinem Messerchen	geschnitten ?	
+Antwort_2=0Wer hat auf meinem Stühlchen	gesessen ?	
+Antwort_3=0Wer hat mit meinem Gäbelchen	gestochen ?	
+Antwort_4=0Wer hat aus meinem Becherlein	getrunken ?	
+
+[21]
+FZ1=
+FZ2=Was sagte der f ü n f t e  Zwerg, als die Zwerge entdeckten,
+FZ3=dass jemand bei ihnen war ?
+Min=500000
+Max=500000
+Antwort_1=1Wer hat mit meinem Gäbelchen	gestochen ?	
+Antwort_2=0Wer hat aus meinem Becherlein	getrunken ?	
+Antwort_3=0Wer hat mit meinem Messerchen	geschnitten ?	
+Antwort_4=0Wer hat auf meinem Stühlchen	gesessen ?	
+
+[22]
+FZ1=
+FZ2=Was sagte der v i e r t e  Zwerg, als die Zwerge entdeckten,
+FZ3=dass jemand bei ihnen war ?
+Min=500000
+Max=500000
+Antwort_1=1Wer hat von meinem Gemüschen	gegessen ?	
+Antwort_2=0Wer hat auf meinem Stühlchen	gesessen ?	
+Antwort_3=0Wer hat von meinem Brötchen	genommen ?	
+Antwort_4=0Wer hat von meinem Tellerchen	gegessen ?	
+
+[23]
+FZ1=
+FZ2=Was sagte der d r i t t e  Zwerg, als die Zwerge entdeckten,
+FZ3=dass jemand bei ihnen war ?
+Min=500000
+Max=500000
+Antwort_1=1Wer hat von meinem Brötchen	genommen ?	
+Antwort_2=0Wer hat auf meinem Stühlchen	gesessen ?	
+Antwort_3=0Wer hat von meinem Tellerchen	gegessen ?	
+Antwort_4=0Wer hat von meinem Gemüschen	gegessen ?	
+
+[24]
+FZ1=
+FZ2=Was sagte der z w e i t e  Zwerg, als die Zwerge entdeckten,
+FZ3=dass jemand bei ihnen war ?
+Min=500000
+Max=500000
+Antwort_1=1Wer hat von meinem Tellerchen	gegessen ?	
+Antwort_2=0Wer hat auf meinem Stühlchen	gesessen ?	
+Antwort_3=0Wer hat von meinem Gemüschen	gegessen ?	
+Antwort_4=0Wer hat von meinem Brötchen	genommen ?	
+
+[25]
+FZ1=
+FZ2=Was sagte der  e r s t e  Zwerg, als die Zwerge entdeckten,
+FZ3=dass jemand bei ihnen war ?
+Min=125000
+Max=500000
+Antwort_1=1Wer hat auf meinem Stühlchen	gesessen ?	
+Antwort_2=0Wer hat von meinem Gemüschen	gegessen ?	
+Antwort_3=0Wer hat von meinem Tellerchen	gegessen ?	
+Antwort_4=0Wer hat von meinem Brötchen	genommen ?	
+
+[26]
+FZ1=
+FZ2=Was trank Schneewittchen, als es bei den sieben Zwergen ankam ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Wein	
+Antwort_2=0Milch	
+Antwort_3=0Wasser	
+Antwort_4=0Bier	
+
+[27]
+FZ1=
+FZ2=Was aß Schneewittchen, als es bei den sieben Zwergen ankam ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Gemüse und Brot	
+Antwort_2=0Kuchen und Obst	
+Antwort_3=0Eier und Speck	
+Antwort_4=0Kartoffeln und Fleisch	
+
+[28]
+FZ1=
+FZ2=In welchem Märchen gibt es sprechende Brote ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Frau Holle	
+Antwort_2=0Rumpelstilzchen	
+Antwort_3=0Sterntaler	
+Antwort_4=0Der gestiefelte Kater	
+
+[29]
+FZ1=
+FZ2=In welchem Märchen kommen Lebkuchen vor ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Hänsel und Gretel	
+Antwort_2=0Rotkäppchen	
+Antwort_3=0Schneewittchen	
+Antwort_4=0Aschenputtel	
+
+[30]
+FZ1=
+FZ2=Wer konnte Stroh zu Gold spinnen ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Rumpelstilzchen	
+Antwort_2=0Rotkäppchen	
+Antwort_3=0Rapunzel	
+Antwort_4=0Dornröschen	
+
+[31]
+FZ1=
+FZ2=Wen wollte Rotkäppchen besuchen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Oma	
+Antwort_2=0Opa	
+Antwort_3=0Onkel	
+Antwort_4=0Tante	
+
+[32]
+FZ1=
+FZ2=Wen traf das Rotkäppchen im Wald ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Fuchs	
+Antwort_2=1Wolf	
+Antwort_3=0Tiger	
+Antwort_4=0Jäger	
+
+[33]
+FZ1=
+FZ2=Wer hat das Rotkäppchen gefressen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Löwe	
+Antwort_2=1Wolf	
+Antwort_3=0Tiger	
+Antwort_4=0Rotfuchs	
+
+[34]
+FZ1=
+FZ2=Wer befreite das Rotkäppchen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Oma	
+Antwort_2=0Mutter	
+Antwort_3=1Jäger	
+Antwort_4=0Prinz	
+
+[35]
+FZ1=
+FZ2=Bei wem wohnte Schneewittchen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0bei den 6 Zwergen	
+Antwort_2=1bei den 7 Zwergen	
+Antwort_3=0bei den 8 Zwergen	
+Antwort_4=0bei den 9 Zwergen	
+
+[36]
+FZ1=
+FZ2=Wo arbeiteten die Zwerge von Schneewittchen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0im Schloss	
+Antwort_2=0im Dorf	
+Antwort_3=0in der Stadt	
+Antwort_4=1im Bergwerk	
+
+[37]
+FZ1=
+FZ2=Wie viele Fliegen erschlug das tapfere Schneiderlein ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=05	
+Antwort_2=06	
+Antwort_3=17	
+Antwort_4=08	
+
+[38]
+FZ1=
+FZ2=Welche Brüder schrieben viele Märchen auf ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Brüder Bimm	
+Antwort_2=0Brüder Krimm	
+Antwort_3=1Brüder Grimm	
+Antwort_4=0Brüder Wimm	
+
+[39]
+FZ1=
+FZ2=In welchem Märchen muss eine Müllerstochter Stroh zu Gold spinnen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Aschenputtel	
+Antwort_2=0Dornröschen	
+Antwort_3=0Rapunzel	
+Antwort_4=1Rumpelstilzchen	
+
+[40]
+FZ1=
+FZ2=In welchem Märchen fiel  das Lieblingsspielzeug
+FZ3=der Königstochter in einen Brunnen ?
+Min=4000
+Max=64000
+Antwort_1=0Rotkäppchen	
+Antwort_2=1Der Froschkönig	
+Antwort_3=0Der gestiefelte Kater	
+Antwort_4=0Frau Holle	
+
+[41]
+FZ1=
+FZ2=Welches Lieblingsspielzeug fiel einer Königstochter in einen Brunnen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0ein goldener Kamm	
+Antwort_2=0ein silberner Ball	
+Antwort_3=0ein silberner Reifen	
+Antwort_4=1eine goldene Kugel	
+
+[42]
+FZ1=
+FZ2=Wer holte das Lieblingsspielzeug der Königstochter aus dem Brunnen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0eine Kröte	
+Antwort_2=1ein Frosch	
+Antwort_3=0eine Schlange	
+Antwort_4=0eine Hexe	
+
+[43]
+FZ1=
+FZ2=Wie lange schlief Dornröschen ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=01 Jahr	
+Antwort_2=010 Jahre	
+Antwort_3=01000 Jahre	
+Antwort_4=1100 Jahre	
+
+[44]
+FZ1=
+FZ2=In welchem Märchen schlief ein ganzes Königreich ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Dornröschen	
+Antwort_2=0Däumeling	
+Antwort_3=0Schneewittchen	
+Antwort_4=0König Drosselbart	
+
+[45]
+FZ1=
+FZ2=Wodurch wurde Dornröschen aufgeweckt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1durch einen Kuss	
+Antwort_2=0durch einen Wecker	
+Antwort_3=0durch eine Hexe	
+Antwort_4=0durch einen Zwerg	
+
+[46]
+FZ1=
+FZ2=Womit wollte die böse Stiefmutter Schneewittchen zuerst umbringen ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1mit Schnürriemen	
+Antwort_2=0mit einem vergifteten Kamm	
+Antwort_3=0mit einem vergifteten Apfel	
+Antwort_4=0mit Eisenschuhen	
+
+[47]
+FZ1=
+FZ2=Womit wollte die böse Stiefmutter Schneewittchen
+FZ3=beim zweiten Mal umbringen ?
+Min=4000
+Max=125000
+Antwort_1=0mit Schnürriemen	
+Antwort_2=0mit einem vergifteten Apfel	
+Antwort_3=1mit einem vergifteten Kamm	
+Antwort_4=0mit Eisenschuhen	
+
+[48]
+FZ1=
+FZ2=Womit wollte die böse Stiefmutter Schneewittchen
+FZ3=beim dritten Mal umbringen ?
+Min=4000
+Max=125000
+Antwort_1=0mit Schnürriemen	
+Antwort_2=0mit einem vergifteten Kamm	
+Antwort_3=0mit Eisenschuhen	
+Antwort_4=1mit einem vergifteten Apfel	
+
+[49]
+FZ1=
+FZ2=Was ist kein Märchen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Rotkäppchen	
+Antwort_2=0Aschenputtel	
+Antwort_3=0Dornröschen	
+Antwort_4=1Pokémon	
+
+[50]
+FZ1=
+FZ2=Wen fragte die böse Stiefmutter beim Märchen "Schneewittchen"
+FZ3=immer nach ihrer Schönheit ?
+Min=4000
+Max=64000
+Antwort_1=0den König	
+Antwort_2=0den Diener	
+Antwort_3=0den Zauberschrank	
+Antwort_4=1den Spiegel	
+
+[51]
+FZ1=
+FZ2=Welche Belohnung bekam die zweite Tochter in dem Märchen "Frau Holle" ?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0Gold und Silber	
+Antwort_2=0schöne Kleider	
+Antwort_3=1Pech	
+Antwort_4=0Asche	
+
+[52]
+FZ1=
+FZ2=Wie hieß die Schwester von Hänsel ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0Berta	
+Antwort_2=1Gretel	
+Antwort_3=0Gerda	
+Antwort_4=0Hanne	
+
+[53]
+FZ1=
+FZ2=Was steckte Hänsel der bösen Hexe durch den Käfig ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1einen Knochen	
+Antwort_2=0den kleinen Finger	
+Antwort_3=0einen Stock	
+Antwort_4=0einen Bleistift	
+
+[54]
+FZ1=
+FZ2=Wohin schubste Gretel die böse Hexe ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0in den Brunnen	
+Antwort_2=1in den Ofen	
+Antwort_3=0in den Käfig	
+Antwort_4=0in den Wandschrank	
+
+[55]
+FZ1=
+FZ2=Was schüttelte Frau Holle aus ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0die Tischdecke	
+Antwort_2=0den Teppich	
+Antwort_3=1die Betten	
+Antwort_4=0die Taschen	
+
+[56]
+FZ1=
+FZ2=Was verlor Aschenputtel ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1einen Schuh	
+Antwort_2=0ihren Kamm	
+Antwort_3=0ihr Taschentuch	
+Antwort_4=0einen Ring	
+
+[57]
+FZ1=
+FZ2=Wer ist  k e i n  Bremer Stadtmusikant ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0Hund	
+Antwort_2=0Katze	
+Antwort_3=1Maus	
+Antwort_4=0Hahn	
+
+[58]
+FZ1=
+FZ2=Wie heißt dieses Märchen ?
+FZ3="Brüderchen und ...."
+Min=2000
+Max=16000
+Antwort_1=0Väterchen	
+Antwort_2=0Mütterchen	
+Antwort_3=0Onkelchen	
+Antwort_4=1Schwesterchen	
+
+[59]
+FZ1=
+FZ2=Wie wird das Märchen "Der Froschkönig" auch noch genannt ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0Der Brunnenfrosch	
+Antwort_2=1Der eiserne Heinrich	
+Antwort_3=0Der kräftige Hubertus	
+Antwort_4=0Der verwunschene Frosch	
+
+[60]
+FZ1=
+FZ2=Wen besiegte das tapfere Schneiderlein nicht ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0zwei Riesen
+Antwort_2=0ein Wildschwein
+Antwort_3=1einen Drachen
+Antwort_4=0ein Einhorn
+
+[61]
+FZ1=
+FZ2=In welchem Märchen machen Tiere einen Wettlauf ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Schildkröte und Schnecke
+Antwort_2=0Igel und Pferd
+Antwort_3=0Hase und Schildkröte
+Antwort_4=1Hase und Igel
+
+[62]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=Der Teufel mit den drei ..... Haaren
+Min=32000
+Max=250000
+Antwort_1=0silbernen
+Antwort_2=0schwarzen
+Antwort_3=0verzauberten
+Antwort_4=1goldenen
+
+[63]
+FZ1=
+FZ2=Was bekam Hans im Glück als ersten Lohn ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0ein Schwein
+Antwort_2=0einen Sack voll Geld
+Antwort_3=1einen Goldklumpen
+Antwort_4=0ein Pferd
+
+[64]
+FZ1=
+FZ2=Was ließ Rapunzel aus dem Turm herunter ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1ihr Haar
+Antwort_2=0eine Leiter
+Antwort_3=0ein Seil
+Antwort_4=0ihre Taschentücher
+
+[65]
+FZ1=
+FZ2=Wo wohnte die Hexe im Märchen "Hänsel und Gretel" ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0in einem Schloss
+Antwort_2=0in einer Hütte
+Antwort_3=0in einem Zelt
+Antwort_4=1in einem Knusperhäuschen
+
+[66]
+FZ1=
+FZ2=Wo versteckte sich das jüngste Geißlein ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0im Bett
+Antwort_2=0im Schrank
+Antwort_3=1in der Wanduhr
+Antwort_4=0in der Waschmaschine
+
+[67]
+FZ1=
+FZ2=Was musste die arme Müllerstochter dem Rumpelstilzchen
+FZ3=zum Schluss versprechen ?
+Min=8000
+Max=125000
+Antwort_1=1ihr erstes Kind
+Antwort_2=0ihr zweites Kind
+Antwort_3=0ihren ganzen Schmuck
+Antwort_4=0ihr ganzes Gold
+
+[68]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=Der ..... Kater
+Min=4000
+Max=64000
+Antwort_1=0schöne
+Antwort_2=0verzauberte
+Antwort_3=0einsame
+Antwort_4=1gestiefelte
+
+[69]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=Schneeweißchen und .....
+Min=4000
+Max=64000
+Antwort_1=0Schneeglöckchen
+Antwort_2=1Rosenrot
+Antwort_3=0Rosenglück
+Antwort_4=0Rabenschwarz
+
+[70]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=Tischlein deck dich, Goldesel streck dich, Knüppel aus   .....
+Min=4000
+Max=64000
+Antwort_1=0dem Haus
+Antwort_2=0der Tasche
+Antwort_3=0der Hose
+Antwort_4=1dem Sack
+
+[71]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=Von einem, der auszog, das ..... zu lernen
+Min=8000
+Max=250000
+Antwort_1=0Zaubern
+Antwort_2=0Lachen
+Antwort_3=0Kämpfen
+Antwort_4=1Fürchten
+
+[72]
+FZ1=
+FZ2=Worin verwandelte sich das hässliche Entlein zum Schluss ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0in einen Pfau
+Antwort_2=0in eine Prinzessin
+Antwort_3=1in einen Schwan
+Antwort_4=0in einen Flamingo
+
+[73]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=Die Prinzessin auf der ....
+Min=4000
+Max=125000
+Antwort_1=1Erbse
+Antwort_2=0Bohne
+Antwort_3=0Tomate
+Antwort_4=0Gurke
+
+[74]
+FZ1=
+FZ2=In welchem Märchen dürfen kleine Prinzessinnen mit 15 Jahren das erste Mal
+FZ3=zur Wasseroberfläche schwimmen ?
+Min=64000
+Max=1000000
+Antwort_1=1Die kleine Meerjungfrau
+Antwort_2=0Der Froschkönig
+Antwort_3=0Die Meeresprinzessin
+Antwort_4=0Der kleine Meerkönig
+
+[75]
+FZ1=
+FZ2=In welchem Märchen nähen Betrüger angeblich Kleider ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Des Kaisers neue Kleider
+Antwort_2=0Die Kleider des Königs
+Antwort_3=0Das Kleid der Prinzessin
+Antwort_4=0Die Kleider der Betrüger
+
+[76]
+FZ1=
+FZ2=Wer sagte als erster, dass der Kaiser nackt war ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0die Königin
+Antwort_2=0der Diener
+Antwort_3=1ein kleines Kind
+Antwort_4=0der Hofschneider
+
+[77]
+FZ1=
+FZ2=Warum verließen die Bremer Stadtmusikanten ihre Herren ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1weil sie zu alt waren
+Antwort_2=0weil sie zu faul waren
+Antwort_3=0weil die Herren gestorben waren
+Antwort_4=0weil sie musizieren wollten
+
+[78]
+FZ1=Wohin legten die 7 Zwerge das Schneewittchen,
+FZ2=damit sie es auch nach dem Tod weiter
+FZ3=bewundern konnten ?
+Min=2000
+Max=125000
+Antwort_1=1in einen gläsernen Sarg
+Antwort_2=0in ein Bett
+Antwort_3=0in den Garten
+Antwort_4=0in eine tiefe Höhle
+
+[79]
+FZ1=In welchem Märchen heißt es:
+FZ2="Heute back´ ich, morgen brau´ ich, übermorgen
+FZ3=hol´ ich der Königin ihr Kind!" ?
+Min=4000
+Max=125000
+Antwort_1=0Rapunzel
+Antwort_2=1Rumpelstilzchen
+Antwort_3=0Dornröschen
+Antwort_4=0Aschenputtel
+
+[80]
+FZ1=
+FZ2=In welchem Märchen heißt es: "Wer hat von meinem Tellerchen gegessen ?"
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1Schneewittchen
+Antwort_2=0Der Froschkönig
+Antwort_3=0Hans im Glück
+Antwort_4=0Rotkäppchen
+
+[81]
+FZ1=
+FZ2=Was verlangt der Frosch für seine Hilfe ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0einen Sack voll Gold
+Antwort_2=1die Freundschaft der Prinzessin
+Antwort_3=0einen neuen Brunnen
+Antwort_4=0eine goldene Krone
+
+[82]
+FZ1=
+FZ2=In welchem Märchen werden nur 12 Feen eingeladen ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1Dornröschen
+Antwort_2=0Däumeling
+Antwort_3=0Aschenputtel
+Antwort_4=0Rapunzel
+
+[83]
+FZ1=
+FZ2=In welchem Märchen stach sich eine Prinzessin mit einer Spindel in den Finger ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=0Rotkäppchen
+Antwort_2=1Dornröschen
+Antwort_3=0Aschenputtel
+Antwort_4=0Schneewittchen
+
+[84]
+FZ1=
+FZ2=Wodurch erhält der Prinz im Märchen "Rapunzel" sein Augenlicht wieder zurück ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1durch zwei Tränen von Rapunzel
+Antwort_2=0durch einen Zauber
+Antwort_3=0durch einen Kuss von Rapunzel
+Antwort_4=0durch einen Zaubervogel
+
+[85]
+FZ1=
+FZ2=Was hatte das tapfere Schneiderlein in seiner Tasche ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0ein Stück Käse und eine Maus
+Antwort_2=0ein Stück Käse und einen Stein
+Antwort_3=0einen Vogel und eine Maus
+Antwort_4=1ein Stück Käse und einen Vogel
+
+[86]
+FZ1=
+FZ2=Warum springt das schöne, fleißige Mädchen in dem
+FZ3=Märchen "Frau Holle" in den Brunnen ?
+Min=4000
+Max=125000
+Antwort_1=1weil ihre Spule hineingefallen ist
+Antwort_2=0weil ihre goldene Kugel hineingefallen	ist
+Antwort_3=0weil ihr goldener Kamm hineingefallen	ist
+Antwort_4=0weil ihre Schuhe hineingefallen sind
+
+[87]
+FZ1=
+FZ2=Weshalb heißt das Mädchen "Aschenputtel" ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1weil es in der Asche schlafen muss
+Antwort_2=0weil es Asche essen muss
+Antwort_3=0weil es Asche fegen muss
+Antwort_4=0weil es Asche als Lohn bekommt
+
+[88]
+FZ1=
+FZ2=Warum heißt der kleine Junge im Märchen "Daumesdick" eigentlich Daumesdick ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0Er hat einen dicken Daumen.
+Antwort_2=1Er ist so groß wie ein Daumen.
+Antwort_3=0Er verzaubert dicke Daumen.
+Antwort_4=0Er lutscht am dicken Daumen.
+
+[89]
+FZ1=
+FZ2=Wie wird der gestiefelte Kater den bösen Zauberer los ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1Er frisst ihn auf.
+Antwort_2=0Er verzaubert ihn.
+Antwort_3=0Er wirft ihn in den Brunnen.
+Antwort_4=0Er verjagt ihn.
+
+[90]
+FZ1=
+FZ2=In welchem Märchen muss ein kleines Mädchen etwas verkaufen ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Das Mädchen mit den Schwefelhölzern
+Antwort_2=0Das Mädchen auf dem Markt
+Antwort_3=0Das Mädchen mit den Kleidern
+Antwort_4=0Das Mädchen ohne Geld
+
+[91]
+FZ1=
+FZ2=Was macht Hänsel, um den Rückweg zu finden ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=0Er markiert die Bäume.
+Antwort_2=0Er knickt Büsche um.
+Antwort_3=0Er macht Kreidestriche.
+Antwort_4=1Er streut weiße Kieselsteine.
+
+[92]
+FZ1=
+FZ2=Warum beschließen der Holzfäller und seine Frau,
+FZ3=ihre Kinder zu verlassen ?
+Min=1000
+Max=16000
+Antwort_1=1Sie haben nicht genug zu essen.
+Antwort_2=0Sie haben nicht genug zu trinken.
+Antwort_3=0Die Kinder sind zu böse.
+Antwort_4=0Die Kinder verdienen zu wenig Geld.
+
+[93]
+FZ1=
+FZ2=Warum wird das Entlein von allen verspottet ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1weil es klein und hässlich ist
+Antwort_2=0weil es nicht schwimmen kann
+Antwort_3=0weil es nicht fliegen kann
+Antwort_4=0weil es klein und traurig ist
+
+[94]
+FZ1=
+FZ2=Wie verliert der Teufel seine Haare ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0Sie werden weggezaubert.
+Antwort_2=0Sie fallen aus.
+Antwort_3=0Ein kleiner Vogel frisst sie auf.
+Antwort_4=1Die Großmutter reißt sie ihm aus.
+
+[95]
+FZ1=
+FZ2=Aus welchem Märchen stammt der Ausdruck
+FZ3="Der Wind, der Wind, das himmlische Kind!" ?
+Min=0
+Max=2000
+Antwort_1=0Brüderchen und Schwesterchen
+Antwort_2=0Rumpelstilzchen
+Antwort_3=0Schneeweißchen und Rosenrot
+Antwort_4=1Hänsel und Gretel
+
+[96]
+FZ1=
+FZ2="Heute back´ ich, morgen brau´ ich ..."
+FZ3=Was möchte Rumpelstilzchen übermorgen machen ?
+Min=0
+Max=2000
+Antwort_1=0ein großes Fest
+Antwort_2=0ein Huhn braten
+Antwort_3=0die Königin heiraten
+Antwort_4=1das Kind der Königin holen
+
+[97]
+FZ1=
+FZ2=Durch wie viele Matratzen und Daunendecken
+FZ3=hindurch spürte die Märchenprinzessin die Erbse ?
+Min=8000
+Max=125000
+Antwort_1=120 Matratzen - 20 Daunendecken
+Antwort_2=010 Matratzen - 10 Daunendecken
+Antwort_3=022 Matratzen - 33 Daunendecken
+Antwort_4=0100 Matratzen - 200 Daunendecken
+
+[98]
+FZ1=
+FZ2=Welche Märchenfigur muss hundert Jahre schlafen,
+FZ3=bevor sie von einem Prinz erlöst wird ?
+Min=200
+Max=1000
+Antwort_1=0Aschenputtel
+Antwort_2=1Dornröschen
+Antwort_3=0Schneewittchen
+Antwort_4=0Rotkäppchen
+
+[99]
+FZ1=
+FZ2=Schneewittchen ist so weiß wie Schnee, so rot wie Blut
+FZ3=und so schwarzhaarig wie ... ?
+Min=64000
+Max=250000
+Antwort_1=0Holzkohle
+Antwort_2=1Ebenholz
+Antwort_3=0Schwarzwurzeln
+Antwort_4=0Tinte
+
+[100]
+FZ1=
+FZ2=Zu welchem Märchen gehört das sprechende Brot ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Brüderchen und Schwesterchen
+Antwort_2=0Tischlein deck dich
+Antwort_3=1Frau Holle
+Antwort_4=0Rapunzel
+
+[101]
+FZ1=
+FZ2=Die Ziege im Märchen "Tischlein deck dich" ist
+FZ3=so "so satt, sie mag kein ..." ?
+Min=200
+Max=4000
+Antwort_1=0Gras
+Antwort_2=1Blatt
+Antwort_3=0Heu
+Antwort_4=0Geld
+
+[102]
+FZ1=
+FZ2=Welches Mädchen lässt im Märchen ihre Haare einen Turm hinab ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Dornröschen
+Antwort_2=0Schneewittchen
+Antwort_3=0Aschenputtel
+Antwort_4=1Rapunzel
+
+[103]
+FZ1=
+FZ2=Wer setzte Hänsel und Gretel im Wald aus ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Vater
+Antwort_2=0Stiefmutter
+Antwort_3=0Hexe
+Antwort_4=0böse Wolf
+
+[104]
+FZ1=
+FZ2=Wie heißt das Märchenland, in dem Milch und Honig fließen ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0Erdbeerland
+Antwort_2=0Bananenrepublik
+Antwort_3=1Schlaraffenland
+Antwort_4=0Milchland
+
+[105]
+FZ1=
+FZ2=Welche Tiere verwandelt die Fee für Aschenputtel in Pferde,
+FZ3=die die Kutsche ziehen sollen ?
+Min=125000
+Max=500000
+Antwort_1=0Katzen
+Antwort_2=0Ameisen
+Antwort_3=0Kühe
+Antwort_4=1Mäuse
+
+[106]
+FZ1=
+FZ2=In welches Tier verwandelt sich die gute Fee bei Pinocchio ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Fuchs
+Antwort_2=0Specht
+Antwort_3=1Taube
+Antwort_4=0Kater
+
+[107]
+FZ1=
+FZ2=Welches Märchen ist nicht von den Brüdern Grimm ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0Rotkäppchen
+Antwort_2=1Erdwürmchen
+Antwort_3=0Rapunzel
+Antwort_4=0Frau Holle
+
+[108]
+FZ1=
+FZ2=Welches Märchen ist nicht von den Brüdern Grimm ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0Der Froschkönig
+Antwort_2=0Der Wolf und die sieben jungen	Geißlein
+Antwort_3=0Die Bremer Stadtmusikanten
+Antwort_4=1Das Erdkühlein
+
+[109]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3="Die ..... Stadtmusikanten"
+Min=500
+Max=2000
+Antwort_1=0Hamburger
+Antwort_2=1Bremer
+Antwort_3=0Bonner
+Antwort_4=0Berliner
+
+[110]
+FZ1=
+FZ2=Welches Märchen ist nicht von den Brüdern Grimm ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0Daumesdick
+Antwort_2=0Dornröschen
+Antwort_3=0Fundevogel
+Antwort_4=1Siebenschön
+
+[111]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3="König ..... "
+Min=500
+Max=4000
+Antwort_1=1Drosselbart
+Antwort_2=0Amselbart
+Antwort_3=0Meisenbart
+Antwort_4=0Spatzenbart
+
+[112]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3="Der gestiefelte ..... "
+Min=500
+Max=4000
+Antwort_1=1Kater
+Antwort_2=0Hund
+Antwort_3=0Hahn
+Antwort_4=0Elefant
+
+[113]
+FZ1=
+FZ2=Wie lange dauerte die Hochzeit in dem Märchen "Das Feuerzeug" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=18 Tage
+Antwort_2=07 Tage
+Antwort_3=06 Tage
+Antwort_4=03 Tage
+
+[114]
+FZ1=
+FZ2=Welches Märchen ist nicht von Andersen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Die Bremer Stadtmusikanten
+Antwort_2=0Das Feuerzeug
+Antwort_3=0Die Kleine Meerjungfrau
+Antwort_4=0Die Prinzessin auf der Erbse
+
+[115]
+FZ1=
+FZ2=Wie heißt der Hund der Bremer Stadtmusikanten ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=0Beißfest
+Antwort_2=0Knurrlaut
+Antwort_3=0Harro
+Antwort_4=1Packan
+
+[116]
+FZ1=Wofür hält ein Räuber in dem Märchen
+FZ2="Die Bremer Stadtmusikanten" in der
+FZ3=Dunkelheit die Katze ?
+Min=300
+Max=1000
+Antwort_1=0für ein Monster
+Antwort_2=0für ein Lagerfeuer
+Antwort_3=0für einen Löwen
+Antwort_4=1für eine Hexe
+
+[117]
+FZ1=Was macht die böse Königin in dem Märchen
+FZ2="Schneewittchen", um zu wissen, wer
+FZ3=die Schönste im ganzen Land ist ?
+Min=1000
+Max=16000
+Antwort_1=0Sie schaut in die Zauberkugel.
+Antwort_2=0Sie befragt den Hexenmeister.
+Antwort_3=0Sie liest in der Hexenzeitung.
+Antwort_4=1Sie befragt ihren Zauberspiegel.
+
+[118]
+FZ1=
+FZ2=Was geschieht auf der Erde,
+FZ3=wenn Frau Holle die Betten schüttelt ?
+Min=0
+Max=1000
+Antwort_1=0Es regnet.
+Antwort_2=0Es stürmt.
+Antwort_3=0Die Sonne scheint.
+Antwort_4=1Es schneit.
+
+[119]
+FZ1=
+FZ2=Welches Märchen ist nicht von Andersen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0Das hässliche Entlein
+Antwort_2=0Das Mädchen mit den Schwefelhölzern
+Antwort_3=0Des Kaisers neue Kleider
+Antwort_4=1Der Zaunkönig und der Bär
+
+[120]
+FZ1=
+FZ2=Was ist kein Märchen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0Dulurin
+Antwort_2=0Gilitrutt
+Antwort_3=0Hweek
+Antwort_4=1Dragonball Z
+
+[121]
+FZ1=
+FZ2=Zu welchem Baum am Grab ihrer Mutter geht Aschenputtel
+FZ3=im Märchen und ruft: "Bäumchen rüttel dich" ?
+Min=250000
+Max=1000000
+Antwort_1=1Haselbaum
+Antwort_2=0Kastanienbaum
+Antwort_3=0Tannenbaum
+Antwort_4=0Maibaum
+
+[122]
+FZ1=
+FZ2=Welchen Beruf hatte keiner der drei Söhne
+FZ3=im Märchen "Tischlein deck dich" ?
+Min=64000
+Max=1000000
+Antwort_1=1Bauer
+Antwort_2=0Drechsler
+Antwort_3=0Schreiner
+Antwort_4=0Müller
+
+[123]
+FZ1=
+FZ2=Aus welchem Märchen stammt:
+FZ3="Aber Großmutter, warum hast du ein so schrecklich großes Maul ?"  ?
+Min=0
+Max=1000
+Antwort_1=1Rotkäppchen
+Antwort_2=0Dornröschen
+Antwort_3=0Rapunzel
+Antwort_4=0Schneewittchen
+
+[124]
+FZ1=
+FZ2=Wo wohnte Schneewittchen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1hinter den 7 Bergen
+Antwort_2=0hinter den 12 Felsen
+Antwort_3=0hinter den 3 Hügeln
+Antwort_4=0hinter den 100 Steinen
+
+[125]
+FZ1=
+FZ2=Wie heißt die Frau des Fischers in dem Märchen "Der Fischer und seine Frau"  ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Ilsebill
+Antwort_2=0Isolde
+Antwort_3=0Irmgard
+Antwort_4=0Kunigunde
+
+[126]
+FZ1=
+FZ2=Womit befreite Joringel seine Jorinde ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1mit einer Blume
+Antwort_2=0mit einer goldenen Feder
+Antwort_3=0mit einem Zauberstab
+Antwort_4=0mit einem Zauberspruch
+
+[127]
+FZ1=
+FZ2=Welche Farbe hatte der Turm, in dem Rapunzel eingesperrt war ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1silbern
+Antwort_2=0blau
+Antwort_3=0golden
+Antwort_4=0rot
+
+[128]
+FZ1=
+FZ2=Wie lang waren Rapunzels Haare ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1dreißig Ellen
+Antwort_2=0sechs Fuß
+Antwort_3=0zwei Ellen
+Antwort_4=0zwölf Fuß
+
+[129]
+FZ1=
+FZ2=In was wird Jorinde auf der Flucht verzaubert ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Nachtigall
+Antwort_2=0Bär
+Antwort_3=0Frosch
+Antwort_4=0Katze
+
+[130]
+FZ1=
+FZ2=Welcher Fisch hilft dem Mann in dem Märchen "Der Fischer und seine Frau" ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Butt
+Antwort_2=0Aal
+Antwort_3=0Hering
+Antwort_4=0Forelle
+
+[131]
+FZ1=Aus welchem Märchen stammt:
+FZ2="Mandje, mandje, timpe tee ! Buttje, Buttje in de See !
+FZ3=Miene Fru de Ilsebill, will nich so, as ick woll will !"
+Min=32000
+Max=125000
+Antwort_1=1Der Fischer und seine Frau
+Antwort_2=0Jorinde und Joringel
+Antwort_3=0Die Meerjungfrau
+Antwort_4=0Rapunzel
+
+[132]
+FZ1=
+FZ2=Wie heißt das Märchen "Der Fischer ..."  ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1... und seine Frau
+Antwort_2=0... und der Riesenfisch
+Antwort_3=0... und das Meer
+Antwort_4=0... und die Königin
+
+[133]
+FZ1=
+FZ2=Was bedeutet KHM der Brüder Grimm ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Kinder- und Hausmärchen
+Antwort_2=0Königs- und Herzogsmärchen
+Antwort_3=0Kobold- und Hexenmärchen
+Antwort_4=0Katzen- und Hundemärchen
+
+[134]
+FZ1=
+FZ2=Mit welchem Märchen beginnen seit der 1. Auflage 1812
+FZ3=die "Kinder- und Hausmärchen" der Brüder Grimm ?
+Min=250000
+Max=500000
+Antwort_1=1Der Froschkönig
+Antwort_2=0Schneewittchen
+Antwort_3=0Rotkäppchen
+Antwort_4=0Dornröschen
+
+[135]
+FZ1=
+FZ2=Aus welchem Märchen stammt "Königstochter, jüngste, mach mir auf ..."  ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Der Froschkönig
+Antwort_2=0Rapunzel
+Antwort_3=0König Drosselbart
+Antwort_4=0Schneewittchen
+
+[136]
+FZ1=
+FZ2=Welches dieser Grimm´schen Märchen beginnt  n i c h t  mit "Es war einmal..." ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Hans im Glück
+Antwort_2=0Die Sterntaler
+Antwort_3=0Rumpelstilzchen
+Antwort_4=0Rotkäppchen
+
+[137]
+FZ1=
+FZ2=Aus welchem Märchen stammt "Heinrich, der Wagen bricht !"  ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Der Froschkönig
+Antwort_2=0König Drosselbart
+Antwort_3=0Hänsel und Gretel
+Antwort_4=0Rapunzel
+
+[138]
+FZ1=
+FZ2=Wie heißen die berühmten Märchenbrüder Grimm mit Vornamen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Jacob und Wilhelm
+Antwort_2=0Christian und Heinz
+Antwort_3=0Wilhelm und Herbert
+Antwort_4=0Günther und Peter
+
+[139]
+FZ1=
+FZ2=Welche Märchenfigur bringt nach dem Besuch des Königssohns Zwillinge zur Welt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Rapunzel
+Antwort_2=0Aschenputtel
+Antwort_3=0Schneewittchen
+Antwort_4=0Dornröschen
+
+[140]
+FZ1=
+FZ2=Wer sagt der Königin in dem Märchen "Dornröschen" voraus, dass sie innerhalb
+FZ3=eines Jahres eine Tochter zur Welt bringen wird ?
+Min=125000
+Max=500000
+Antwort_1=1ein Frosch
+Antwort_2=0ein Zauberer
+Antwort_3=0eine Fee
+Antwort_4=0eine Hexe
+
+[141]
+FZ1=
+FZ2=Welches Märchen beginnt, bevor die Titelfigur überhaupt geboren ist ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Dornröschen
+Antwort_2=0Rotkäppchen
+Antwort_3=0Aschenputtel
+Antwort_4=0Frau Holle
+
+[142]
+FZ1=
+FZ2=Welche dieser märchenhaften Töchter wird am Schluss   n i c h t  von einem
+FZ3=Königssohn geheiratet ?
+Min=500
+Max=4000
+Antwort_1=1Rotkäppchen
+Antwort_2=0Aschenputtel
+Antwort_3=0Dornröschen
+Antwort_4=0Schneewittchen
+
+[143]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Rotkäppchen
+Antwort_2=0Grünkäppchen
+Antwort_3=0Gelbkäppchen
+Antwort_4=0Blaukäppchen
+
+[144]
+FZ1=
+FZ2=Wie kamen Glücksmarie und Pechmarie zur Frau Holle ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1durch den Brunnen
+Antwort_2=0durch eine dunkle Höhle
+Antwort_3=0durch das goldene Tor
+Antwort_4=0durch eine Drehtür
+
+[145]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Der Froschkönig
+Antwort_2=0Der Storchkönig
+Antwort_3=0Der Krötenkönig
+Antwort_4=0Der Quallenkönig
+
+[146]
+FZ1=
+FZ2=Womit spielte die Prinzessin im Märchen "Der Froschkönig" am liebsten ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1goldene Kugel
+Antwort_2=0bronzener Würfel
+Antwort_3=0silberner Ball
+Antwort_4=0weiße Puppe
+
+[147]
+FZ1=
+FZ2=Aus welchem Märchen stammt "Bäumchen rüttel dich, Bäumchen schüttel dich !" ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Aschenputtel
+Antwort_2=0Frau Holle
+Antwort_3=0Dornröschen
+Antwort_4=0Schneewittchen
+
+[148]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Hans im Glück
+Antwort_2=0Hans in Not
+Antwort_3=0Hans im Pech
+Antwort_4=0Hans in Frieden
+
+[149]
+FZ1=
+FZ2=Wer tötete sieben Fliegen auf einen Streich ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Das tapfere Schneiderlein
+Antwort_2=0Hans im Glück
+Antwort_3=0Der gestiefelte Kater
+Antwort_4=0König Drosselbart
+
+[150]
+FZ1=
+FZ2=In welchem Märchen gelangte jemand an Haaren in einen Turm ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Rapunzel
+Antwort_2=0Rumpelstilzchen
+Antwort_3=0Jorinde und Joringel
+Antwort_4=0Rotkäppchen
+
+[151]
+FZ1=
+FZ2=Womit holte Rapunzel ihren Freund in den Turm ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1mit ihren Haaren
+Antwort_2=0mit einem Seil
+Antwort_3=0mit einer Leiter
+Antwort_4=0mit ihrem Kleid
+
+[152]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Die Prinzessin auf der Erbse
+Antwort_2=0Die Prinzessin auf der Gurke
+Antwort_3=0Die Prinzessin auf der Bohne
+Antwort_4=0Die Prinzessin auf der Tomate
+
+[153]
+FZ1=
+FZ2=Wer muss ein Vogel bleiben, weil er das Zauberwort vergaß ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kalif Storch
+Antwort_2=0Zwerg Nase
+Antwort_3=0Der kleine Muck
+Antwort_4=0König Drosselbart
+
+[154]
+FZ1=
+FZ2=Wie heißt die Schwester von Schneeweißchen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Rosenrot
+Antwort_2=0Dornröschen
+Antwort_3=0Schneewittchen
+Antwort_4=0Rapunzel
+
+[155]
+FZ1=
+FZ2=Wie heißt die Schwester von Rosenrot ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schneeweißchen
+Antwort_2=0Dornöschen
+Antwort_3=0Schneewittchen
+Antwort_4=0Aschenputtel
+
+[156]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Das tapfere Schneiderlein
+Antwort_2=0Das starke Schneiderlein
+Antwort_3=0Das feige Schneiderlein
+Antwort_4=0Das schwache Schneiderlein
+
+[157]
+FZ1=
+FZ2=In welchem Märchen heißt es "Der Wind, der Wind, das himmlische Kind !" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Hänsel und Gretel
+Antwort_2=0Jorinde und Joringel
+Antwort_3=0Rapunzel
+Antwort_4=0Das tapfere Schneiderlein
+
+[158]
+FZ1=
+FZ2=Welches Märchen gibt es ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1König Drosselbart
+Antwort_2=0König Meisenbart
+Antwort_3=0König Amselbart
+Antwort_4=0König Adlerbart
+
+[159]
+FZ1=
+FZ2=In welchem Märchen gibt es einen nackten Kaiser ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Des Kaisers neue Kleider
+Antwort_2=0Der Kaiser und der Zauberer
+Antwort_3=0König Drosselbart
+Antwort_4=0Des Kaisers neue Schloss
+
+[160]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Die Bremer Stadtmusikanten
+Antwort_2=0Die Kölner Stadtmusikanten
+Antwort_3=0Die Hamburger Stadtmusikanten
+Antwort_4=0Die Münchner Stadtmusikanten
+
+[161]
+FZ1=
+FZ2=Wie haben sich die Bremer Stadtmusikanten aufeinandergestellt ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Esel, Hund, Katze, Hahn
+Antwort_2=0Hund, Katze, Esel Hahn
+Antwort_3=0Esel, Katze, Hund, Hahn
+Antwort_4=0Katze, Esel, Hahn, Hund
+
+[162]
+FZ1=
+FZ2=In welchem Märchen können Brote sprechen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Frau Holle
+Antwort_2=0Schneeweißchen und Rosenrot
+Antwort_3=0Schneewittchen
+Antwort_4=0Rotkäppchen
+
+[163]
+FZ1=
+FZ2=Wohin legten die 7 Zwerge Schneewittchen, nachdem es in tiefen Schlaf versank ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1in einen gläsernen Sarg
+Antwort_2=0in das kleinste Bett
+Antwort_3=0in eine dunkle Höhle
+Antwort_4=0in eine steinerne Grabkammer
+
+[164]
+FZ1=
+FZ2=In welchem Märchen heißt es
+FZ3="Die guten ins Töpfchen, die schlechten ins Kröpfchen" ?
+Min=1000
+Max=16000
+Antwort_1=1Aschenputtel
+Antwort_2=0Rapunzel
+Antwort_3=0Schneewittchen
+Antwort_4=0Dornröschen
+
+[165]
+FZ1=
+FZ2=Welche Haarfarbe hatte Schneewittchen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1schwarz wie Ebenholz
+Antwort_2=0golden wie die Sonne
+Antwort_3=0schwarz wie Pech
+Antwort_4=0rot wie Blut
+
+[166]
+FZ1=
+FZ2=Wieso konnte der kleine Muck so schnell reisen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Er hatte Zauberpantoffeln.
+Antwort_2=0Er hatte einen fliegenden Teppich.
+Antwort_3=0Er hatte Siebenmeilenstiefel.
+Antwort_4=0Er hatte Zaubersandalen.
+
+[167]
+FZ1=
+FZ2=In welchem Märchen kamen 13 Feen zur Geburt der Königstochter ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Dornröschen
+Antwort_2=0Rapunzel
+Antwort_3=0Aschenputtel
+Antwort_4=0Rumpelstilzchen
+
+[168]
+FZ1=
+FZ2=Wie viele Feen kamen zur Feier der Geburt von Dornröschen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=113
+Antwort_2=07
+Antwort_3=012
+Antwort_4=03
+
+[169]
+FZ1=
+FZ2=Welcher der sieben Zwerge erblickte Schneewittchen zuerst ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1der Siebte
+Antwort_2=0der Dritte
+Antwort_3=0der Erste
+Antwort_4=0der Fünfte
+
+[170]
+FZ1=
+FZ2=Was bekommt der Küchenjunge in dem Märchen "Dornröschen" nach 100 Jahren ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1eine Ohrfeige
+Antwort_2=0eine Urkunde
+Antwort_3=0einen Sack voll Gold
+Antwort_4=0eine neue Bratpfanne
+
+[171]
+FZ1=
+FZ2=Wer erhält in dem Märchen "Dornröschen" nach 100 Jahren eine Ohrfeige ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1der Küchenjunge
+Antwort_2=0der König
+Antwort_3=0die Köchin
+Antwort_4=0die Prinzessin
+
+[172]
+FZ1=
+FZ2=In welchem Märchen erhält der Küchenjunge nach 100 Jahre eine Ohrfeige ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Dornröschen
+Antwort_2=0Rapunzel
+Antwort_3=0Aschenputtel
+Antwort_4=0Schneewittchen
+
+[173]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Frau Holle
+Antwort_2=0Frau Bolle
+Antwort_3=0Frau Wolle
+Antwort_4=0Frau Knolle
+
+[174]
+FZ1=
+FZ2=In welchem Märchen muss man sich durch eine ganze Stadt hindurchessen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schlaraffenland
+Antwort_2=0Von einem, der auszog, das Fürchten	zu lernen
+Antwort_3=0Frau Holle
+Antwort_4=0Aschenputtel
+
+[175]
+FZ1=
+FZ2=Wie enden viele Märchen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Und wenn sie nicht gestorben sind ...
+Antwort_2=0Wer zuletzt lacht, lacht am besten.
+Antwort_3=0Schluss, aus ...
+Antwort_4=0The end ...
+
+[176]
+FZ1=
+FZ2=Wie beginnen viele Märchen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Es war einmal ...
+Antwort_2=0Es begab sich aber ...
+Antwort_3=0An einem schönen Tag ...
+Antwort_4=0Achtung, fertig, los ...
+
+[177]
+FZ1=
+FZ2=Was brachte das Rotkäppchen der kranken Oma ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Kuchen und Wein
+Antwort_2=0Torte und Sekt
+Antwort_3=0Brot und Milch
+Antwort_4=0Müsli und Kakao
+
+[178]
+FZ1=
+FZ2=Weshalb wollte Rotkäppchen die Oma besuchen ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1weil die Oma krank war
+Antwort_2=0weil die Oma Ferien hatte
+Antwort_3=0weil die Oma Geburtstag hatte
+Antwort_4=0weil die Oma sie eingeladen hatte
+
+[179]
+FZ1=
+FZ2=Wie heißt das Märchen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Der kleine Muck
+Antwort_2=0Der kleine Zuck
+Antwort_3=0Der kleine Puck
+Antwort_4=0De kleine Ruck
+
+[180]
+FZ1=
+FZ2=Wer schrieb das Märchen vom kleinen Muck ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Wilhelm Hauff
+Antwort_2=0Jakob Grimm
+Antwort_3=0Hans Christian Andersen
+Antwort_4=0Ludwig Bechstein
+
+[181]
+FZ1=
+FZ2=Worum hat der gestiefelte Kater seinen Herrn gebeten ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1um Sack und Stiefel
+Antwort_2=0um Beutel und Sandalen
+Antwort_3=0um Tüte und Schuhe
+Antwort_4=0um Netz und Pantoffel
+
+[182]
+FZ1=
+FZ2=Wie heißt die Braut von Joringel ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Jorinde
+Antwort_2=0Jojo
+Antwort_3=0Josefin
+Antwort_4=0Joanna
+
+[183]
+FZ1=
+FZ2=Wie heißt der Bräutigam von Jorinde ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Joringel
+Antwort_2=0Jochen
+Antwort_3=0Johannes
+Antwort_4=0Jokurt
+
+[184]
+FZ1=
+FZ2=Woran erkennt in dem Märchen "Aschenputtel" der Prinz seine Braut ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Der goldene Pantoffel passt.
+Antwort_2=0Sie verwandelt sich.
+Antwort_3=0Sie kennt seinen richtigen Namen.
+Antwort_4=0Die goldene Krone passt.
+
+[185]
+FZ1=
+FZ2=Wonach fragt die Stiefmutter in dem Märchen "Schneewittchen" ihren Spiegel ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1"Wer ist die Schönste im	ganzen Land ?"
+Antwort_2=0"Wer ist die Stärkste im	ganzen Land ?"
+Antwort_3=0"Wer ist die Klügste im	ganzen Land ?"
+Antwort_4=0"Wer ist die Dickste im	ganzen Land ?"
+
+[186]
+FZ1=
+FZ2=Wonach erhielten Schneeweißchen und Rosenrot ihre Namen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1nach Rosensträuchern
+Antwort_2=0nach Zaubersprüchen
+Antwort_3=0nach Schneeflocken
+Antwort_4=0nach Sternenbildern
+
+[187]
+FZ1=
+FZ2=Womit kann man des Kaisers neue Kleider am besten beschreiben ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1unsichtbar
+Antwort_2=0ungenießbar
+Antwort_3=0unbezahlbar
+Antwort_4=0unheimlich
+
+[188]
+FZ1=
+FZ2=Wer verlor auf dem Ball einen goldenen Pantoffel ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Aschenputtel
+Antwort_2=0Schneewittchen
+Antwort_3=0Dornröschen
+Antwort_4=0Rapunzel
+
+[189]
+FZ1=
+FZ2=Was verlor Aschenputtel auf dem Ball ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1den goldenen Pantoffel
+Antwort_2=0die silberne Sandale
+Antwort_3=0den schmutzigen Stiefel
+Antwort_4=0den weißen Hausschuh
+
+[190]
+FZ1=
+FZ2=Welche Haarfarbe hat Rapunzel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1golden
+Antwort_2=0schwarz
+Antwort_3=0silbern
+Antwort_4=0braun
+
+[191]
+FZ1=
+FZ2=Wer hat Pinocchio gemacht ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Gepetto
+Antwort_2=0Makkaroni
+Antwort_3=0Spagetti
+Antwort_4=0Mozarella
+
+[192]
+FZ1=
+FZ2=Welches Märchen gibt es ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Der Froschkönig
+Antwort_2=0Der Froschkaiser
+Antwort_3=0Der Krötenkönig
+Antwort_4=0Der Krötenkaiser
+
+[193]
+FZ1=
+FZ2=Wie viele Bande lagen um das Herz des treue Heinrich im Froschkönig ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=13
+Antwort_2=04
+Antwort_3=02
+Antwort_4=07
+
+[194]
+FZ1=
+FZ2=Wo findet der König Allerlei-Rauh ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1im Baum
+Antwort_2=0in der Hecke
+Antwort_3=0im Busch
+Antwort_4=0in einer Blume
+
+[195]
+FZ1=
+FZ2=Welcher Koch reicht mit seiner Nase kaum bis an den Herd ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Zwerg Nase
+Antwort_2=0Pinocchio
+Antwort_3=0Däumeling
+Antwort_4=0Rumpelstilzchen
+
+[196]
+FZ1=
+FZ2=Wie heißt Kalif Storch richtig ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Kalif Chasid
+Antwort_2=0Kalif Mussaf
+Antwort_3=0Kalif  Ben Wisch
+Antwort_4=0Kalif Omar
+
+[197]
+FZ1=
+FZ2=
+FZ3=Aus welchem Märchen stammt:
+Min=0
+Max=1000
+Antwort_1=1Schneewittchen und die 7 Zwerge	
+Antwort_2=0Dornröschen	
+Antwort_3=0Aschenputtel	
+Antwort_4=0Rotkäppchen	
+
+[198]
+FZ1=
+FZ2=Was sagt die Ziege in dem Märchen "Tischlein deck dich" ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1"Ich bin so satt, ich mag kein Blatt !"
+Antwort_2=0"Spieglein, Spieglein an der Wand, wer	ist die Schönste im ganzen Land ?"
+Antwort_3=0"Knusper, knusper, knäuspchen, wer	knuspert an meinem Häuschen?"
+Antwort_4=0"Ruckedigu, ruckedigu,	Blut ist im Schuh !"
+
+[199]
+FZ1=
+FZ2=In welchem Märchen sagt die Ziege: "Ich bin so satt, ich mag kein Blatt !"  ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Tischlein deck dich
+Antwort_2=0Händel und Gretel
+Antwort_3=0Bremer Stadtmusikanten
+Antwort_4=0Frau Holle
+
+[200]
+FZ1=
+FZ2=Wer besaß eine Wunderlampe ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Aladin
+Antwort_2=0Aschenputtel
+Antwort_3=0Ali Baba
+Antwort_4=0Aragon
+
+[201]
+FZ1=
+FZ2=Was forderte Rumpelstilzchen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1das Erstgeborene der Königin
+Antwort_2=01.000 Taler
+Antwort_3=0einen goldenen Ring
+Antwort_4=0den Sohn des Königs
+
+[202]
+FZ1=
+FZ2=Wann musste Aschenputtel zu Hause sein ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1um Mitternacht
+Antwort_2=0bei Sonnenuntergang
+Antwort_3=0nach der Tagesschau
+Antwort_4=0um 14 Uhr
+
+[203]
+FZ1=
+FZ2=Warum fiel Schneewittchen in einen tiefen Schlaf ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Sie biss in einen vergifteten Apfel.
+Antwort_2=0Sie vergaß das Zauberwort.
+Antwort_3=0Sie verlor ihre goldene Kugel.
+Antwort_4=0Sie stach sich mit einer Spindel.
+
+[204]
+FZ1=
+FZ2=Wie viele Stiefschwestern hatte Aschenputtel ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=12
+Antwort_2=03
+Antwort_3=01
+Antwort_4=04
+
+[205]
+FZ1=
+FZ2=Welche außergewöhnliche Fähigkeit besaß Rumpelstilzchen ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Es konnte Gras zu Silber weben.
+Antwort_2=0Es konnte Heu zu Bronze stricken.
+Antwort_3=1Es konnte Stroh zu Gold spinnen.
+Antwort_4=0Es konnte Wolle zu Kupfer klöppeln.
+
+[206]
+FZ1=
+FZ2=Was sagt die Ziege in dem Märchen "Tischlein deck dich" ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1"Ich bin so satt, ich mag kein Blatt !"	
+Antwort_2=0"Spieglein, Spieglein an der Wand, wer	ist die Schönste im ganzen Land ?"	
+Antwort_3=0"Knusper, knusper, knäuspchen, wer	knuspert an meinem Häuschen?"	
+Antwort_4=0"Ruckedigu, ruckedigu,	Blut ist im Schuh !"	
+
+

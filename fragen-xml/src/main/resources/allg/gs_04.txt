@@ -1,0 +1,1104 @@
+[Thema]
+Thema       = Grundschule 4
+Fragen      = 100
+Autor       = Manfred Hartisch  
+
+[1]
+FZ1         = 
+FZ2         =  Wie ist eine Komödie ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 lustig
+Antwort_2   = 0 traurig
+Antwort_3   = 0 spannend
+Antwort_4   = 0  ernst
+
+[2]
+FZ1         =  
+FZ2         = Welchen Beruf hatte der heilige Nikolaus ? 
+FZ3         =  
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 Bauer
+Antwort_2   = 0 Zimmermann
+Antwort_3   = 0 Wahrsager
+Antwort_4   = 1 Bischof
+
+[3]
+FZ1         = 
+FZ2         =  Wie heißt die berühmte englische Kriminalpolizei ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 London Yard
+Antwort_2   = 1 Scotland Yard
+Antwort_3   = 0 FBI
+Antwort_4   = 0 Secret Service
+
+[4]
+FZ1         = 
+FZ2         =  Was ist ein Feldspat ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 ein grüner Blattsalat
+Antwort_2   = 0 ein Gartengerät
+Antwort_3   = 1 ein Mineral
+Antwort_4   = 0 Tierfutter
+
+[5]
+FZ1         = 
+FZ2         = Was ist Eiland ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Hühnerfarm
+Antwort_2   = 1 Insel
+Antwort_3   = 0 Berg
+Antwort_4   = 0 Markt, auf dem Eier verkauft werden
+
+[6]
+FZ1         = 
+FZ2         = Wie heißt das Sprichwort ? 
+FZ3         = "Der Apfel fällt nicht weit vom ... "
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Baum
+Antwort_2   = 0 Ast
+Antwort_3   = 0 Wilhelm Tell
+Antwort_4   = 1 Stamm
+
+[7]
+FZ1         = 
+FZ2         = Wie viele Flaschen passen in eine Sprudelkiste ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 10
+Antwort_2   = 0 6
+Antwort_3   = 1 12
+Antwort_4   = 0 20
+
+[8]
+FZ1         = 
+FZ2         = Wer schrieb "Der Ölprinz" ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Karl Moik
+Antwort_2   = 0 Karl Schranz
+Antwort_3   = 1 Karl May
+Antwort_4   = 0 Karel Gott
+
+[9]
+FZ1         = 
+FZ2         =  Wer benutzt ein Pseudonym ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 Arzt
+Antwort_2   = 0 Archäologe
+Antwort_3   = 0 Bäcker
+Antwort_4   = 1 Schriftsteller
+
+[10]
+FZ1         = 
+FZ2         = Was sind Sterne wirklich ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Planeten
+Antwort_2   = 1 Sonnen
+Antwort_3   = 0 Monde
+Antwort_4   = 0 Meteoriten
+
+[11]
+FZ1         =  
+FZ2         = Je weiter sich der Mensch von der Erde entfernt, desto ...
+FZ3         =  
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 schöner wird er
+Antwort_2   = 0 schwerer wird er
+Antwort_3   = 0 größer wird er
+Antwort_4   = 1 leichter wird er
+
+[12]
+FZ1         = 
+FZ2         = Wie nennt man den Baumwollfaden in einer Kerze ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Dolch
+Antwort_2   = 1 Docht
+Antwort_3   = 0 Yacht
+Antwort_4   = 0 Flucht
+
+[13]
+FZ1         = 
+FZ2         =  Was ist das Leibgericht von Obelix ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Hähnchen
+Antwort_2   = 0 Pilze
+Antwort_3   = 0 Pizza
+Antwort_4   = 1 Wildschweine
+
+[14]
+FZ1         = 
+FZ2         =  Wie bezeichnet man heute ein Wikingerschiff ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 Drachenboot
+Antwort_2   = 0 Monsterboot
+Antwort_3   = 0 Galeere
+Antwort_4   = 0 Segelboot
+
+[15]
+FZ1         = 
+FZ2         =  Wie heißt der zottelige Bär in der Sesamstraße ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Samson 
+Antwort_2   = 0 Kermit
+Antwort_3   = 0 Ernie
+Antwort_4   = 0 Tiffy
+
+[16]
+FZ1         =  
+FZ2         =  Welcher Seemann hat offiziell Amerika entdeckt ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Christoph Kolumbus
+Antwort_2   = 0 Nostradamus
+Antwort_3   = 0 Sir Francis Drake
+Antwort_4   = 0 Christopher Lee
+
+[17]
+FZ1         = 
+FZ2         =  Welche Strecke fuhr die erste deutsche Dampf - Eisenbahn ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 Köln - Bonn
+Antwort_2   = 0 Bochum - Dortmund 
+Antwort_3   = 1 Nürnberg - Fürth
+Antwort_4   = 0 Berlin - Leipzig
+
+[18]
+FZ1         = 
+FZ2         =  Wo befindet sich das Legoland ?
+FZ3         = 
+Min         = 500
+Max         = 16000
+Antwort_1   = 0 Frankreich
+Antwort_2   = 0 Deutschland
+Antwort_3   = 0 Holland
+Antwort_4   = 1 Dänemark
+                
+[19]
+FZ1         = 
+FZ2         =  Wer oder was ist das Rote Kreuz ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 eine Blume 
+Antwort_2   = 0 eine Religionsgemeinschaft
+Antwort_3   = 0 eine Partei
+Antwort_4   = 1 ein Rettungsdienst
+                
+[20]
+FZ1         =  
+FZ2         =  Was macht Max und Moritz am liebsten ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Bücher lesen
+Antwort_2   = 0 Computer spielen
+Antwort_3   = 0 Kegeln
+Antwort_4   = 1 Unfug
+
+[21]
+FZ1         = 
+FZ2         =  Wer oder was ist die Caritas ?
+FZ3         = 
+Min         = 18000
+Max         = 125000
+Antwort_1   = 0 eine Rittergemeinschaft
+Antwort_2   = 0 eine Mönchsorden
+Antwort_3   = 1 eine Wohlfahrtsorganisation
+Antwort_4   = 0 eine Fluggesellschaft
+
+[22]
+FZ1         = 
+FZ2         =  Welche Berufsgruppe fliegt ins All ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Ethnologen
+Antwort_2   = 1 Astronauten
+Antwort_3   = 0 Astrologen
+Antwort_4   = 0 Allonauten
+
+[23]
+FZ1         =  
+FZ2         =  Wer oder was ist ein Gobelin ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 ein Wandbildteppich 
+Antwort_2   = 0 ein Schauspieler
+Antwort_3   = 0 ein Medikament
+Antwort_4   = 0 ein Winterreifen
+
+[24]
+FZ1         = 
+FZ2         =  Was ist ein "Schwitzkasten" ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 ein anderes Wort für einen Klammergriff
+Antwort_2   = 0 eine deutsche Sauna 
+Antwort_3   = 0 ein Feuchtemessgerät
+Antwort_4   = 0 ein alter Backofen
+
+[25]
+FZ1         = 
+FZ2         =  Wie heißt das Sprichwort ?
+FZ3         =  "Eine Schwalbe macht noch keinen ... "
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Frühling
+Antwort_2   = 0 Schwarm
+Antwort_3   = 1 Sommer
+Antwort_4   = 0 Gesang
+
+[26]
+FZ1         =  
+FZ2         = Nach wie vielen Jahren feiert man goldene Hochzeit ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 nach 50 Jahren
+Antwort_2   = 0 nach 30 Jahren
+Antwort_3   = 0 nach 40 Jahren
+Antwort_4   = 0 nach 20 Jahren
+
+[27]
+FZ1         = 
+FZ2         =  Welche Geheimdienstnummer hat James Bond ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 005
+Antwort_2   = 0 006
+Antwort_3   = 1 007
+Antwort_4   = 0 008
+
+[28]
+FZ1         = 
+FZ2         =  Bei welcher Sportart gibt es eine Technik namens "Goofy" ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 Eishockey
+Antwort_2   = 0 Inliner
+Antwort_3   = 1 Skateboard
+Antwort_4   = 0 Turmspringen
+
+[29]
+FZ1         = 
+FZ2         = Welche Pflanze verwandelt sich in eine Pusteblume ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Löwenmäulchen
+Antwort_2   = 1 Löwenzahn
+Antwort_3   = 0 Kornblume
+Antwort_4   = 0 Sonnenblume
+
+[30]
+FZ1         = 
+FZ2         =  Wie heißt der Partner der Filmfigur "Dick" ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Dussel
+Antwort_2   = 0 Dumm
+Antwort_3   = 1 Doof
+Antwort_4   = 0 Dünn
+
+[31]
+FZ1         = 
+FZ2         =  Wie nennt man die Tochter einer Königin ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Baronin
+Antwort_2   = 0 Gräfin
+Antwort_3   = 0 Madam
+Antwort_4   = 1 Prinzessin
+
+[32]
+FZ1         = 
+FZ2         =  Welcher dieser vier Planeten ist der kleinste ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 Pluto
+Antwort_2   = 0 Venus
+Antwort_3   = 0 Mars
+Antwort_4   = 1 Merkur
+
+[33]
+FZ1         = 
+FZ2         = Was hat Johann Gutenberg erfunden ? 
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 die Weinherstellung
+Antwort_2   = 0 das Fahrrad
+Antwort_3   = 1 den Buchdruck
+Antwort_4   = 0 den Computer
+
+[34]
+FZ1         = 
+FZ2         = Wie heißt das Ungeheuer von Loch Ness ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Nessie
+Antwort_2   = 0 Lassie
+Antwort_3   = 0 Bessie
+Antwort_4   = 0 Stressie
+
+[35]
+FZ1         =
+FZ2         =  Wie viele Schauspieler spielen "Dinner for one" ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 3
+Antwort_2   = 0 4
+Antwort_3   = 0 5
+Antwort_4   = 1 2
+
+[36]
+FZ1         = 
+FZ2         =  Wer oder was ist ein Deserteur ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 ein Wüstenfahrzeug
+Antwort_2   = 0 ein Polarforsche
+Antwort_3   = 0 ein leckerer Nachtisch
+Antwort_4   = 1 ein Fahnenflüchtiger
+
+[37]
+FZ1         =
+FZ2         = Was ist eine Frühlingsrolle ? 
+FZ3         = 
+Min         = 100
+Max         = 16000
+Antwort_1   = 1 ein chinesisches Gericht
+Antwort_2   = 0 eine Turnübung
+Antwort_3   = 0 ein anderer Begriff für Winterspeck
+Antwort_4   = 0 die Schneeschmelze im Frühling
+
+[38]
+FZ1         =
+FZ2         =  Was bezeichnet man als Pferdeschwanz ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Kinderspiel
+Antwort_2   = 0 Menschenkette
+Antwort_3   = 1 Damenfrisur
+Antwort_4   = 0 Reitübung
+
+[39]
+FZ1         =
+FZ2         =  Was ist eine Harfe ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 ein Blasinstrument
+Antwort_2   = 0 ein Gartengerät
+Antwort_3   = 1 ein Saiteninstrument
+Antwort_4   = 0 ein Autowerkzeug
+
+[40]
+FZ1         = 
+FZ2         =  Welcher Baum hat keine Nadeln ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Kiefer
+Antwort_2   = 0 Tanne
+Antwort_3   = 0 Fichte
+Antwort_4   = 1 Weide
+
+[41]
+FZ1         =
+FZ2         =  Welches Gewässer ist ein fließendes Gewässer ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 das Maar 
+Antwort_2   = 0 der Teich
+Antwort_3   = 0 der See
+Antwort_4   = 1 der Bach
+
+[42]
+FZ1         =
+FZ2         =  Wie heißt die Comic - Maus mit den großen Füßen ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Cheeky
+Antwort_2   = 0 Micky Maus
+Antwort_3   = 1 Diddl
+Antwort_4   = 0 Moppel
+
+[43]
+FZ1         =
+FZ2         = Wodurch vermehren sich Waldpilze ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 Sporen 
+Antwort_2   = 0 Zellteilung
+Antwort_3   = 0 Bienen
+Antwort_4   = 0 Fliegen
+
+[44]
+FZ1         =
+FZ2         =  Wie nennt man klein gezüchtete Bäume ?
+FZ3         = 
+Min          = 2000
+Max         = 16000
+Antwort_1   = 1 Bonsais
+Antwort_2   = 0 Sträucher
+Antwort_3   = 0 Büsche
+Antwort_4   = 0 Zwergbäume
+
+[45]
+FZ1         =
+FZ2         =  Was für ein Tier hält Tarzan ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 einen Affen
+Antwort_2   = 0 einen Löwen
+Antwort_3   = 0 einen Elefanten 
+Antwort_4   = 0 einen Tiger
+
+[46]
+FZ1         =
+FZ2         =  Wer oder was ist ein Adapter ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 ein Hochschullehrer
+Antwort_2   = 0 ein Klostermönch
+Antwort_3   = 1 eine Steckerverbindung
+Antwort_4   = 0 ein elektrischer Motor
+
+[47]
+FZ1         =
+FZ2         =  Der wievielte Buchstabe im Alphabet ist das "G" ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 der siebte
+Antwort_2   = 0 der sechste
+Antwort_3   = 0 der achte
+Antwort_4   = 0 der fünfte
+
+[48]
+FZ1         =
+FZ2         =  Wo befinden sich die meisten Nervenzellen ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 im Gehirn 
+Antwort_2   = 0 in der Wirbelsäule
+Antwort_3   = 0 im Auge
+Antwort_4   = 0 im Ohr
+
+[49]
+FZ1         =
+FZ2         =  Welche Farbe hat ein Ametyst ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 grün
+Antwort_2   = 1 violett
+Antwort_3   = 0 rot
+Antwort_4   = 0 gelb
+
+[50]
+FZ1         = 
+FZ2         =  Wie viele Ecken haben Bienenwaben ?
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 1 6 
+Antwort_2   = 0 7
+Antwort_3   = 0 8
+Antwort_4   = 0 9
+
+[51]
+FZ1         = 
+FZ2         = Wer oder was ist Macchu Picchu ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 ein indischer Gott
+Antwort_2   = 1 eine Inkaruinenstadt
+Antwort_3   = 0 eine Birnensorte
+Antwort_4   = 0 feinstes Kartoffelpüree
+
+[52]
+FZ1         = 
+FZ2         =  Welches Schiff stieß gegen einen Eisberg und sank ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Titanic
+Antwort_2   = 0 Queen Elisabeth
+Antwort_3   = 0 Gigantik
+Antwort_4   = 0 Blue Star
+
+[53]
+FZ1         =
+FZ2         =  Wie heißt die Hauptstadt von Italien ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Paris
+Antwort_2   = 1  Rom
+Antwort_3   = 0 Wien 
+Antwort_4   = 0 Berlin
+
+[54]
+FZ1         = 
+FZ2         = Was sammelt man im gelben Sack ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Plastik
+Antwort_2   = 0 alte Schuhe
+Antwort_3   = 0 Kartoffeln
+Antwort_4   = 0 gebrauchte Kleidung
+
+[55]
+FZ1         =
+FZ2         = Wer legt eine Lichtleitung ? 
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 0 ein Mechaniker
+Antwort_2   = 0 ein Ingenieur
+Antwort_3   = 0 ein Klempner
+Antwort_4   = 1 ein Elektriker
+
+[56]
+FZ1         =
+FZ2         =  Wie viele Personen spielen in einem Quartett ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 4
+Antwort_2   = 0 3
+Antwort_3   = 0 6
+Antwort_4   = 0 7
+
+[57]
+FZ1         =
+FZ2         = Was erzeugt man mit Generatoren ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Strom
+Antwort_2   = 0 Wärme
+Antwort_3   = 0 Kälte
+Antwort_4   = 0 Licht
+
+[58]
+FZ1         =
+FZ2         =  Wie heißt der Vulkanier vom Raumschiff Enterprise ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Mr Bean
+Antwort_2   = 1 Mr Spock
+Antwort_3   = 0 Mr Ed
+Antwort_4   = 0 Mr Alfa
+
+[59]
+FZ1         =
+FZ2         =  Wie nennst du den Vater deines Opas ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Uropa 
+Antwort_2   = 0 Großonkel
+Antwort_3   = 0 Oheim
+Antwort_4   = 0 Fritz
+
+[60]
+FZ1         =
+FZ2         = Wie heißt eine Gruppe von Schafen ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 1 Herde 
+Antwort_2   = 0 Rudel
+Antwort_3   = 0 Schwarm
+Antwort_4   = 0 Meute
+
+[61]
+FZ1         =
+FZ2         = Wie viele Sternzeichen gibt es ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 8
+Antwort_2   = 0 10
+Antwort_3   = 0 14
+Antwort_4   = 1 12
+
+[62]
+FZ1         =
+FZ2         = Wie nennt man die Ohren eines  Hasen ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Löffel
+Antwort_2   = 0 Gabeln
+Antwort_3   = 0 Messer
+Antwort_4   = 0 Lauscher
+
+[63]
+FZ1         =
+FZ2         =  Welchen Beruf hatte Moses ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Hirte
+Antwort_2   = 0 Bauer
+Antwort_3   = 0 Fischer
+Antwort_4   = 0 Gelehrter
+
+[64]
+FZ1         =
+FZ2         =  Wie nennt man das Geweih von Elchen ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Spaten
+Antwort_2   = 0 Gabeln
+Antwort_3   = 0 Zacken
+Antwort_4   = 1 Schaufeln
+
+[65]
+FZ1         =
+FZ2         =  Welches ist das größte Säugetier der Erde ?
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 1 Blauwal
+Antwort_2   = 0 Elefant
+Antwort_3   = 0 Giraffe
+Antwort_4   = 0 Büffel
+
+[66]
+FZ1         =
+FZ2         =  Wer oder was sind Piranhas ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Fleisch fressende Fische
+Antwort_2   = 0 eine Insektengruppe
+Antwort_3   = 0 kleine, schiefe Türme
+Antwort_4   = 0 ein altes Indianervolk
+
+[67]
+FZ1         =
+FZ2         = Welche Steine trägt Obelix auf dem Rücken ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Hinkelsteine
+Antwort_2   = 0 Ziegelsteine
+Antwort_3   = 0 Grabsteine
+Antwort_4   = 0 Feuersteine
+
+[68]
+FZ1         =
+FZ2         =  Wie heißen die Dinge, die wir im Schlaf erleben ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Träume
+Antwort_2   = 0 Halluzinationen
+Antwort_3   = 0 Abenteuer
+Antwort_4   = 0 Märchen
+
+[69]
+FZ1         =
+FZ2         =  Was macht ein Konsument ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 Er fährt Kanu.
+Antwort_2   = 1 Er kauft ein.
+Antwort_3   = 0 Er summt mit. 
+Antwort_4   = 0 Er applaudiert laut.
+
+[70]
+FZ1         =
+FZ2         =  Was kauen Termiten am liebsten ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Kaugummi
+Antwort_2   = 0 Lehm
+Antwort_3   = 0 Blätter
+Antwort_4   = 1 Holz
+
+[71]
+FZ1         = 
+FZ2         =  Welches Land grenzt nicht an die Alpen ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Polen
+Antwort_2   = 0 Schweiz
+Antwort_3   = 0 Österreich
+Antwort_4   = 0 Deutschland
+
+[72]
+FZ1         = 
+FZ2         =  Wie viele Aufgaben musste Herkules lösen ?
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 6
+Antwort_2   = 0 7
+Antwort_3   = 0 10
+Antwort_4   = 1 12
+
+[73]
+FZ1         = 
+FZ2         = Welche Tiere haben keine Scheren ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 Flohkrebse
+Antwort_2   = 0 Flusskrebse
+Antwort_3   = 0 Krabben 
+Antwort_4   = 0 Hummer
+
+[74]
+FZ1         = 
+FZ2         = Wie heißt das einzige Mädchen bei den Schlümpfen ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Schlampine
+Antwort_2   = 0 Schlauviane
+Antwort_3   = 1 Schlumpfine
+Antwort_4   = 0 Berta
+
+[75]
+FZ1         = 
+FZ2         = Wie nennen die Japaner ihren Kaiser ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 Menno
+Antwort_2   = 0 Benno
+Antwort_3   = 0 Jenno
+Antwort_4   = 1 Tenno
+
+[76]
+FZ1         = 
+FZ2         = Was findet man in einem Lexikon ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Begriffserklärungen
+Antwort_2   = 0 Reime
+Antwort_3   = 0 Lieder
+Antwort_4   = 0 Gedichte
+
+[77]
+FZ1         = 
+FZ2         = Wer war der erste Mensch auf dem Mond ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Neil Armstrong
+Antwort_2   = 0 Louis Armstrong
+Antwort_3   = 0 Louis de Funés
+Antwort_4   = 0 Neil Diamond
+
+[78]
+FZ1         =
+FZ2         = Woraus besteht die Atmosphäre zum größten Teil ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 Sauerstoff
+Antwort_2   = 0 Kohlenstoff
+Antwort_3   = 0 Methan
+Antwort_4   = 1 Stickstoff
+
+[79]
+FZ1         =
+FZ2         = Wofür ist die Insel Rügen bekannt ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 für die schönen Geschäfte
+Antwort_2   = 1 für die Kreidefelsen
+Antwort_3   = 0 für die Sandstrände
+Antwort_4   = 0 für die seltenen Muscheln
+
+[80]
+FZ1         =
+FZ2         =  Welches Tier hat kein Fell ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Schildkröte
+Antwort_2   = 0 Bernhardiner
+Antwort_3   = 0 Katze
+Antwort_4   = 0 Maus
+
+[81]
+FZ1         = 
+FZ2         = Welche Frucht gehört nicht zu den Zitrusfrüchten ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 Nektarine
+Antwort_2   = 0 Mandarine
+Antwort_3   = 0 Apfelsine
+Antwort_4   = 0 Pampelmuse
+
+[82]
+FZ1         = 
+FZ2         = Wo sitzt das Ohr einer Grille ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 an den Vorderbeinen
+Antwort_2   = 0 am Kopf
+Antwort_3   = 0 am Rücken
+Antwort_4   = 0 am Bauch
+
+[83]
+FZ1         = 
+FZ2         =  Wie heißt die Stadt, in der Jesus starb ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Bethlehem
+Antwort_2   = 0 Jerusalem
+Antwort_3   = 0 Tel Aviv
+Antwort_4   = 0 Jericho
+
+[84]
+FZ1         = 
+FZ2         = Welche Stadt ist berühmt für ihren Christkindl - Markt ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Nürnberg 
+Antwort_2   = 0 Bamberg
+Antwort_3   = 0 Bayreuth
+Antwort_4   = 0 München
+
+[85]
+FZ1         = 
+FZ2         = Wie viele Rollen hat ein Paar Inliner ? 
+FZ3         = 
+Min         = 100
+Max         = 2000
+Antwort_1   = 1 8
+Antwort_2   = 0 6
+Antwort_3   = 0 4
+Antwort_4   = 0 2
+
+[86]
+FZ1         = 
+FZ2         = Wie nennt man dauerhafte Hautmalereien ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Tattoos
+Antwort_2   = 0 Stilleben
+Antwort_3   = 0 Piercings
+Antwort_4   = 0 Hautbild
+
+[87]
+FZ1         = 
+FZ2         = Was fehlt einem Zuckerkranken ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Insulin
+Antwort_2   = 0 Adrenalin
+Antwort_3   = 0 Zucker
+Antwort_4   = 0 Salz
+
+[88]
+FZ1         = 
+FZ2         = Wie heißt die Schlange im Dschungelbuch ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Ka 
+Antwort_2   = 0 Pa
+Antwort_3   = 0 Ma
+Antwort_4   = 0 Sa
+
+[89]
+FZ1         = 
+FZ2         = Wie heißt die legendäre versunkene Stadt ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1 Atlantis
+Antwort_2   = 0 Andromeda
+Antwort_3   = 0 Altavista
+Antwort_4   = 0 Albercorci
+
+[90]
+FZ1         = 
+FZ2         = Wie schmecken Feigen ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 süß
+Antwort_2   = 0 sauer
+Antwort_3   = 0 salzig
+Antwort_4   = 0 bitter
+
+[91]
+FZ1         = 
+FZ2         = Wie viele Punkte haben Marienkäfer ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 unterschiedlich viele
+Antwort_2   = 0 7
+Antwort_3   = 0 9
+Antwort_4   = 0 6
+
+[92]
+FZ1         = 
+FZ2         = Welches Getreide hat lange Grannen ? 
+FZ3         = 
+Min         = 16000
+Max         = 250000
+Antwort_1   = 1 Gerste
+Antwort_2   = 0 Weizen
+Antwort_3   = 0 Hafer
+Antwort_4   = 0 Roggen
+
+[93]
+FZ1         = 
+FZ2         = Welche Himmelsrichtung befindet sich auf einer 
+FZ3         = Landkarte oben ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Norden
+Antwort_2   = 0 Süden 
+Antwort_3   = 0 Westen
+Antwort_4   = 0 Osten
+
+[94]
+FZ1         = 
+FZ2         = Wie nennt man einen Schrank aus Glas ? 
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Vitrine
+Antwort_2   = 0 Gardine
+Antwort_3   = 0 Latrine
+Antwort_4   = 0 Mandarine
+
+[95]
+FZ1         =  
+FZ2         = Was bedeutet "simulieren" ? 
+FZ3         =  
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 vortäuschen
+Antwort_2   = 0 Rechenaufgaben lösen
+Antwort_3   = 0 Gedichte aufsagen
+Antwort_4   = 0 Lieder vorsingen
+
+[96]
+FZ1         = 
+FZ2         = Wo befindet sich das Luftschloss ?  
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 in der Fantasie
+Antwort_2   = 0 im Morgenland
+Antwort_3   = 0 im Himmel
+Antwort_4   = 0 auf einem hohen Berg
+
+[97]
+FZ1         = 
+FZ2         = Wie heißt die teuerste Straße beim Monopoly ? 
+FZ3         = 
+Min         = 100
+Max         = 4000
+Antwort_1   = 1 Schlossallee
+Antwort_2   = 0 Turmstraße
+Antwort_3   = 0 Theaterstraße
+Antwort_4   = 0 Badstraße
+
+[98]
+FZ1         = 
+FZ2         = Was kann man beim Juwelier nicht kaufen ? 
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 1 einen Rettungsring
+Antwort_2   = 0 eine Uhr
+Antwort_3   = 0 eine Goldkette
+Antwort_4   = 0 einen Diamanten
+
+[99]
+FZ1         = 
+FZ2         = Wie heißen an Fäden hängende Puppen ? 
+FZ3         = 
+Min         = 100
+Max         = 2000
+Antwort_1   = 1 Marionetten
+Antwort_2   = 0 Etiketten
+Antwort_3   = 0 Makkaroni  
+Antwort_4   = 0 Vignetten
+
+[100]
+FZ1         =  
+FZ2         = Was ist ein Kanu ?  
+FZ3         =  
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 ein Boot
+Antwort_2   = 0 ein kleines Kamel
+Antwort_3   = 0 eine Antilopenart
+Antwort_4   = 0 eine Spezialwerkzeug

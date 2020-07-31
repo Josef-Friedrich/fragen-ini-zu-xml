@@ -1,0 +1,907 @@
+[Thema]
+Thema=Rund um Ostern
+Fragen=82
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Als was verkleiden sich in Honduras zu Ostern die Mädchen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Engel
+Antwort_2=0Osterlamm
+Antwort_3=0Osterhase
+Antwort_4=0Bettlerin
+
+[2]
+FZ1=
+FZ2=Welches Holz ist in Deutschland am besten als Osterfeuerholz geeignet ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1gestohlenes
+Antwort_2=0gebrauchtes
+Antwort_3=0getrocknetes
+Antwort_4=0gesammeltes
+
+[3]
+FZ1=
+FZ2=In welchem Zeitraum feiert man das Osterfest ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=122. März bis 25. April
+Antwort_2=01. April bis 31. April
+Antwort_3=014. Februar bis 31. März
+Antwort_4=010. April bis 10. Mai
+
+[4]
+FZ1=Wann wurde beschlossen, dass das Osterfest immer am ersten Sonntag
+FZ2=nach dem ersten Vollmond nach Frühlingsanfang stattfinden sollte ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1325 n. Chr.
+Antwort_2=01275 n. Chr.
+Antwort_3=033 n. Chr.
+Antwort_4=01808 n. Chr
+
+[5]
+FZ1=
+FZ2=Wann wird Ostern gefeiert ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1stets am ersten Sonntag nach dem	ersten Vollmond nach dem	Frühlingsanfang
+Antwort_2=0stets am 7. April
+Antwort_3=0stets am ersten Sonntag im April
+Antwort_4=0stets am ersten Sonntag	nach dem Neumond	Ende März
+
+[6]
+FZ1=
+FZ2=Was wird am Gründonnerstag in Österreich häufig gegessen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Spinat, Kräutersuppe
+Antwort_2=0Radieschen, Pilzsuppe
+Antwort_3=0Blumenkohl, Erbsensuppe
+Antwort_4=0Broccoli, Spargelsuppe
+
+[7]
+FZ1=
+FZ2=Was wird am Ostersamstag in Ostfriesland gemacht ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Eier werden einen Hang	hinuntergekugelt.
+Antwort_2=0Eier werden ins Watt vergraben.
+Antwort_3=0Eier werden ins Wasser geworfen.
+Antwort_4=0Eier werden mit Muscheln verzehrt.
+
+[8]
+FZ1=In Italien wird am 2. Osterfeiertag ein Ausflug mit Picknick gemacht.
+FZ2=Welchen Kuchen gibt es dazu ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1salzigen Kuchen mit	gekochten Eiern und Spinat
+Antwort_2=0Eierlikörtorte
+Antwort_3=0süßen Kuchen mit Möhren	und Schokolade
+Antwort_4=0Napfkuchen mit Spiegeleiern
+
+[9]
+FZ1=
+FZ2=In der Bretagne werden Karfreitag die Blumen der Göttin Persephone ausgesät.
+FZ3=Welche Blumen sind es ?
+Min=64000
+Max=250000
+Antwort_1=1Veilchen
+Antwort_2=0Rosen
+Antwort_3=0Maiglöckchen
+Antwort_4=0Tulpen
+
+[10]
+FZ1=In Atwater (Kalifornien) wird ein 2 Meter hohes Kreuz gebastelt.
+FZ2=Aus welchem Holz ist dieses Kreuz ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1vom Weihnachtsbaum, der auf	Epiphanis abgeschmückt wurde
+Antwort_2=0von einer alten Kirchentür
+Antwort_3=0von den Stämmen für	das Osterfeuer
+Antwort_4=0von einer 1000 - jährigen Eiche
+
+[11]
+FZ1=
+FZ2=In Böhmen darf an Karfreitag kein Brot gebacken werden. Weshalb ?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1wegen Hexengefahr
+Antwort_2=0wegen Brandgefahr
+Antwort_3=0weil es zu laut ist
+Antwort_4=0weil sonst der Osterhase nicht kommt
+
+[12]
+FZ1=
+FZ2=Welchen Osterbrauch gibt es in den Alpen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1riesige Feuerräder aus Reisig werden	mit Balancierstangen von den	Berggipfeln in die Täler gerollt
+Antwort_2=0die Ostereier werden rückwärts in das	Osterfeuer geworfen
+Antwort_3=0alle Kühe, Schafe, Ziegen und Pferde	werden in Osterei -  Form aufgestellt
+Antwort_4=0auf Skiern werden 99 Eier überfahren
+
+[13]
+FZ1=
+FZ2=Welches Tier bringt im Elsaß (Frankreich) die Ostereier?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Storch
+Antwort_2=0Hase
+Antwort_3=0Fuchs
+Antwort_4=0Bär
+
+[14]
+FZ1=
+FZ2=Nicht nur ein Fasten der Augen, auch ein Fasten der Ohren wird in einigen
+FZ3=Gegenden geübt. Was könnte damit gemeint sein ?
+Min=2000
+Max=32000
+Antwort_1=1Orgel und Glocken bleiben in der	Karwoche stumm.
+Antwort_2=0Es darf nicht gesungen werden.
+Antwort_3=0nur das Nötigste zu reden
+Antwort_4=0Das Radio wird nicht eingeschaltet.
+
+[15]
+FZ1=
+FZ2=Die Passionszeit wird auch Fastenzeit genannt. Was sollte das christliche Fasten
+FZ3=ausrichten ?
+Min=2000
+Max=32000
+Antwort_1=1Freiwillig für eine bestimmte Zeit auf	etwas verzichten.
+Antwort_2=0Weniger einkaufen, um Geld zu sparen.
+Antwort_3=0Die Figur verbessern.
+Antwort_4=0Zeit gewinnen für die Arbeit
+
+[16]
+FZ1=
+FZ2=Was ist ein "Herrgottswinkel" ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1eine Ecke im Raum, in der ein Kreuz	aufgestellt wird
+Antwort_2=0eine alte Kirchentür
+Antwort_3=0ein Tischlerwerkzeug
+Antwort_4=0ein besonderes Kirchenfenster
+
+[17]
+FZ1=
+FZ2=Der Sonntag, mit dem die Karwoche beginnt, hat einen eigenen Namen.
+FZ3=Wie heißt dieser Sonntag ?
+Min=1000000
+Max=0
+Antwort_1=1Palmsonntag
+Antwort_2=0Totensonntag
+Antwort_3=0Ostersonntag
+Antwort_4=0Schwarzer Sonntag
+
+[18]
+FZ1=
+FZ2=Ein Kuchen ohne Mehl !  Besonders an Ostern ist er beliebt, der ...
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Möhrenkuchen
+Antwort_2=0Tomatenkuchen
+Antwort_3=0Apfelkuchen
+Antwort_4=0Käsekuchen
+
+[19]
+FZ1=
+FZ2=Das Lamm steht symbolisch für . . .
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Jesus - das Lamm Gottes
+Antwort_2=0den Frühling
+Antwort_3=0den besten Freund des Osterhasen
+Antwort_4=0den Frieden
+
+[20]
+FZ1=
+FZ2=Eine eindrucksvolle, dienende Handlung gehört in die Gottesdienstordnung am
+FZ3=Gründonnerstag oder Karfreitag. Was kann gemeint sein ?
+Min=4000
+Max=32000
+Antwort_1=1Fusswaschung
+Antwort_2=0Kopfwäsche
+Antwort_3=0Handwaschung
+Antwort_4=0Rückenwäsche
+
+[21]
+FZ1=
+FZ2=Jesus musste das Kreuz selbst nach Golgatha tragen. Als Jesus zusammenbrach,
+FZ3=sollte ein anderer Mann das Kreuz tragen. Wer ?
+Min=4000
+Max=64000
+Antwort_1=1Simon
+Antwort_2=0Petrus
+Antwort_3=0Andreas
+Antwort_4=0Judas
+
+[22]
+FZ1=
+FZ2=Christen feiern im Laufe eines Jahres verschiedene Feste.
+FZ3=Welches Fest ist für sie das Bedeutendste ?
+Min=8000
+Max=250000
+Antwort_1=1Ostern
+Antwort_2=0Weihnachten
+Antwort_3=0Pfingsten
+Antwort_4=0Erntedankfest
+
+[23]
+FZ1=
+FZ2=Im Osternest oder Korb findet man oft ein Tier aus Teig oder Schokolade.
+FZ3=Welches Tier ist gemeint ?
+Min=0
+Max=1000
+Antwort_1=1Lamm
+Antwort_2=0Pferd
+Antwort_3=0Kuh
+Antwort_4=0Esel
+
+[24]
+FZ1=
+FZ2=Lazarus war gestorben und Marta, seine Schwester, war sehr traurig.
+FZ3=Mit welchen Worten tröstete Jesus Marta ?
+Min=8000
+Max=125000
+Antwort_1=1Ich bin die Auferstehung und das Leben.
+Antwort_2=0Alle Menschen müssen doch sterben.
+Antwort_3=0Ich bin ja bei dir.
+Antwort_4=0Du musst nicht traurig sein.
+
+[25]
+FZ1=
+FZ2=Am Sonntag nach der Kreuzigung Jesu gingen zwei Frauen, die Salben bei sich
+FZ3=trugen, zum Grab. Zwei Männer tauchten auf. Was sagten die Männer ?
+Min=8000
+Max=250000
+Antwort_1=1Was sucht ihr den Lebenden bei	denToten ?
+Antwort_2=0Wollt ihr das Grab schmücken ?
+Antwort_3=0Können wir euch den Weg zeigen ?
+Antwort_4=0Warum seid ihr so früh	schon unterwegs ?
+
+[26]
+FZ1=
+FZ2=Zu Ostern gehört ohne Zweifel das Osterei. Was hat das Ei, gefärbt oder natur,
+FZ3=mit Ostern zu tun?
+Min=4000
+Max=125000
+Antwort_1=1Es ist ein Symbol der Fruchtbarkeit.
+Antwort_2=0Es diente als Geschenk bei armen	Menschen.
+Antwort_3=0Die Hühner legen einfach mehr Eier im	Frühling und die müssen gegessen	werden.
+Antwort_4=0Es ist ein Symbol der Nahrung.
+
+[27]
+FZ1=
+FZ2=Das Osterfeuer wird in vielen Religionen und Ländern entzündet.
+FZ3=Seit wann gibt es das christliche Osterfeuer ungefähr?
+Min=4000
+Max=64000
+Antwort_1=1seit Mitte des 8. Jahrhunderts
+Antwort_2=0seit dem 1. Jahrhundert
+Antwort_3=0seit dem 3. Jahrhundert
+Antwort_4=0seit dem13. Jahrhundert
+
+[28]
+FZ1=
+FZ2=Das Sterben von Jesus am Kreuz war das Wichtigste, was je getan wurde.
+FZ3=Sogar die Natur reagierte auf dieses Geschehen. Wie ?
+Min=8000
+Max=125000
+Antwort_1=1Es wurde plötzlich dunkel.
+Antwort_2=0Ein heftiger Sturm kam auf.
+Antwort_3=0Es gab einen Wolkenbruch mit starkem	Regen.
+Antwort_4=0Es wurde plötzlich hell.
+
+[29]
+FZ1=
+FZ2=Einige Tage in der Karwoche haben einen besonderen Namen.
+FZ3=Wie heißt der Tag, der mit einer Farbe beginnt?
+Min=0
+Max=1000
+Antwort_1=1Gründonnerstag
+Antwort_2=0Blauer Montag
+Antwort_3=0Weißer Sonntag
+Antwort_4=0Schwarzer Freitag
+
+[30]
+FZ1=
+FZ2=Passionszeit und Karwoche unterscheiden sich in ihrer Dauer.
+FZ3=Wie lange dauert die Passionszeit ?
+Min=4000
+Max=64000
+Antwort_1=140 Tage
+Antwort_2=020 Tage
+Antwort_3=030 Tage
+Antwort_4=07 Tage
+
+[31]
+FZ1=
+FZ2=Die Karwoche hatte in früherer Zeit Auswirkungen auf die alltägliche Arbeit.
+FZ3=Was durfte man an diesen Tagen nicht ?
+Min=4000
+Max=125000
+Antwort_1=1Gerichtsverhandlungen durchführen
+Antwort_2=0Fußball spielen
+Antwort_3=0wandern
+Antwort_4=0auf dem Feld oder im Garten arbeiten
+
+[32]
+FZ1=
+FZ2=Die Woche vor dem Osterfest hat in den Ländern unterschiedliche Namen. Welches
+FZ3=ist der bekannteste Name ?
+Min=0
+Max=1000
+Antwort_1=1Karwoche
+Antwort_2=0Stille Woche
+Antwort_3=0Heilige Woche
+Antwort_4=0Große Woche
+
+[33]
+FZ1=
+FZ2=In welcher Farbe bemalten die Chinesen ihre Ostereier ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1rot
+Antwort_2=0gelb
+Antwort_3=0blau
+Antwort_4=0grün
+
+[34]
+FZ1=
+FZ2=Nach welcher Göttin wurde das Frühlingsopferfest Ostern benannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Astarte
+Antwort_2=0Haseria
+Antwort_3=0Osteria
+Antwort_4=0Eiraria
+
+[35]
+FZ1=
+FZ2=Seit wann ist der Osterhase als Eierbringer bekannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=01918
+Antwort_2=01842
+Antwort_3=01076
+Antwort_4=11678
+
+[36]
+FZ1=
+FZ2=Was ist das Osterlamm ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ein süßes Backwerk
+Antwort_2=0ein Fleischgericht
+Antwort_3=0Lammfleisch mit Bohnen
+Antwort_4=0Ein Schaf, das Ostern blökt.
+
+[37]
+FZ1=
+FZ2=Wie lange dauern die Osterfestlichkeiten in Mexiko ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1fast 2 Wochen
+Antwort_2=01 Tag
+Antwort_3=05 Tage
+Antwort_4=03 Monate
+
+[38]
+FZ1=
+FZ2=Wie heißt das  folgende Ostergedicht:
+FZ3="Fünf Hasen, die saßen beisammen dicht, ..."
+Min=64000
+Max=250000
+Antwort_1=0sie hatten rote Nasen in ihrem Gesicht.
+Antwort_2=0nur du allein, du siehst sie nicht.
+Antwort_3=0denn alle hielten es für ihre Pflicht.
+Antwort_4=1es macht ein jeder ein traurig Gesicht.
+
+[39]
+FZ1=
+FZ2=Wie lange dauert die Fastenzeit ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=140 Tage
+Antwort_2=050 Tage
+Antwort_3=030 Tage
+Antwort_4=020 Tage
+
+[40]
+FZ1=
+FZ2=Wie wird der Ostersamstag, auch Karsamstag, noch genannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Tag der Grabesruhe
+Antwort_2=0Tag des Eiersammelns
+Antwort_3=0Tag des Kläpperns
+Antwort_4=0Tag des Eierversteckens
+
+[41]
+FZ1=
+FZ2=Wann beginnt die christliche Fastenzeit, die am Karsamstag endet ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Aschermittwoch
+Antwort_2=0Fastnachtssonntag
+Antwort_3=0Palmsonntag
+Antwort_4=0Totensonntag
+
+[42]
+FZ1=
+FZ2=Das Osterei dient als Nahrung und als Symbol.
+FZ3=Doch welches Symbol ist damit gemeint ?
+Min=0
+Max=1000
+Antwort_1=1Symbol des Lebens
+Antwort_2=0Symbol der Deutschen Post, wegen des	Eigelbs
+Antwort_3=0Symbol einer weißen Weste, wegen des	Eiweißes
+Antwort_4=0Symbol der Tiere, wegen des	Pummelschwanzes des Hasen
+
+[43]
+FZ1=
+FZ2=Was bezeichnete das Wort "Ostern" ursprünglich?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1die teutonische Göttin der Morgenröte
+Antwort_2=0die Sonne des Lebens
+Antwort_3=0die Stunde der Auferstehung Christi
+Antwort_4=0die richtige Himmelsrichtung
+
+[44]
+FZ1=
+FZ2=Wieso ist der Gründonnerstag "grün" ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0weil mit Ostern der Frühling beginnt
+Antwort_2=0weil die Eier im grünen Gras versteckt	werden
+Antwort_3=0Grün ist die Farbe des Verrats und der	Missgunst.
+Antwort_4=1"Grün" kommt von althochdeutsch	"grunen".
+
+[45]
+FZ1=
+FZ2=Was geschah im Mittelalter am Gründonnerstag ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Schuldner mussten ihre Zinsen zahlen.
+Antwort_2=0Verräter wurden gehenkt.
+Antwort_3=0Hexen wurden verbrannt.
+Antwort_4=0Die Haustür wurde grün gestrichen.
+
+[46]
+FZ1=
+FZ2=Welche Bedeutung steckt in dem Wort "Karfreitag" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Trauer
+Antwort_2=0Leid
+Antwort_3=0Schmerz
+Antwort_4=0Freude
+
+[47]
+FZ1=
+FZ2=Was symbolisiert das Osterfeuer ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1das Lichtwerden durch die Auferstehung	Christi
+Antwort_2=0die hellen Tage des nahenden	Sommers
+Antwort_3=0die Morgenröte der Göttin Ostara
+Antwort_4=0die wärmeren Tage des Frühlings
+
+[48]
+FZ1=
+FZ2=Was bedeuten Alpha und Omega auf der Osterkerze ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Jesus als der Anfang und das Ende
+Antwort_2=0Sohn Gottes und Retter der Welt
+Antwort_3=0die Erhellung des menschlichen	Intellekts
+Antwort_4=0So hießen zwei Jünger.
+
+[49]
+FZ1=
+FZ2=Was war das Osterwasser ursprünglich ?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0gebrauchtes Taufwasser
+Antwort_2=0frisches Brunnenwasser
+Antwort_3=0die Tränen eines Priesters oder	Mönches
+Antwort_4=1Wasser aus Bächen oder Flüssen
+
+[50]
+FZ1=
+FZ2=Wofür steht das Osterlamm ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0für die heidnische Göttin der	Fruchtbarkeit
+Antwort_2=0für das Ende der Fastenzeit
+Antwort_3=1für Jesus Christus, das Lamm Gottes
+Antwort_4=0für die Freude des Frühlings
+
+[51]
+FZ1=
+FZ2=Warum werden Ostern Eier gegessen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1weil man es in der Fastenzeit nicht	durfte
+Antwort_2=0weil der Osterhase sie bringt
+Antwort_3=0als Symbol für den Stein vor Jesu Grab
+Antwort_4=0weil man Ostern zunehmen muss
+
+[52]
+FZ1=
+FZ2=Woher stammt der Brauch, Eier anzumalen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1aus der Ukraine
+Antwort_2=0aus Deutschland
+Antwort_3=0aus Italien
+Antwort_4=0aus Frankreich
+
+[53]
+FZ1=
+FZ2=Woher haben die Osterinseln ihren Namen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Sie wurden an Ostern entdeckt.
+Antwort_2=0Ihr Entdecker hieß Oster.
+Antwort_3=0Auf ihnen stehen eiförmige Felsen.
+Antwort_4=0Man darf sie nur Ostern betreten.
+
+[54]
+FZ1=
+FZ2=Was tun philippinische Eltern an Ostern ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0Sie verstecken ihre Kinder.
+Antwort_2=1Sie heben ihre Kinder am Kopf hoch.
+Antwort_3=0Sie binden ihre Kinder symbolisch ans	Kreuz.
+Antwort_4=0Sie malen ihre Kinder an.
+
+[55]
+FZ1=
+FZ2=Wie wird in der Karwoche in Guatemala gebetet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Gläubige beugen sich über Maiskolben.
+Antwort_2=0Guatemalteken graben sich in die Erde	ein.
+Antwort_3=0Betende sitzen auf einem Nagelbrett.
+Antwort_4=0Es darf nur im Liegen gebetet werden.
+
+[56]
+FZ1=
+FZ2=Wonach halten Finnen am Ostersamstag Ausschau ?
+FZ3=
+Min=8000
+Max=1000000
+Antwort_1=0nach der Frau ihres Herzens
+Antwort_2=0nach am Karfreitag ausgesetzten	Lämmern
+Antwort_3=1nach Trollen
+Antwort_4=0nach dem Osterhasen
+
+[57]
+FZ1=
+FZ2=Welches Insekt nennt man auch Osterkälbchen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Marienkäfer
+Antwort_2=0Weberknecht
+Antwort_3=0Honigbiene
+Antwort_4=0Hummel
+
+[58]
+FZ1=
+FZ2=Was ist ein Ostermarsch ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Friedensdemonstration
+Antwort_2=0Wettrennen mit Eiern
+Antwort_3=0Spaziergang zur Kirche
+Antwort_4=0Lauf immer nach Osten
+
+[59]
+FZ1=
+FZ2=Was bezeichnet man als Ostermond ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1den Monat April
+Antwort_2=0den Monat Juni
+Antwort_3=0den Monat Mai
+Antwort_4=0den Monat März
+
+[60]
+FZ1=
+FZ2=In welche Jahreszeit fällt Ostern ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Frühling
+Antwort_2=0Sommer
+Antwort_3=0Herbst
+Antwort_4=0Winter
+
+[61]
+FZ1=
+FZ2=Welches Tier wird in Deutschland mit Ostern in Verbindung gebracht ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hase
+Antwort_2=0Kuh
+Antwort_3=0Fuchs
+Antwort_4=0Katze
+
+[62]
+FZ1=
+FZ2=Wo versteckt man zu Ostern oft die Eier ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nest
+Antwort_2=0Dose
+Antwort_3=0Schachtel
+Antwort_4=0Schuh
+
+[63]
+FZ1=
+FZ2=An welchem Tag wurde Jesus gekreuzigt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Karfreitag
+Antwort_2=0Karsamstag
+Antwort_3=0Gründonnerstag
+Antwort_4=0Ostersonntag
+
+[64]
+FZ1=
+FZ2=Was machen die Eltern mit den Ostereiern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1verstecken
+Antwort_2=0verschenken
+Antwort_3=0verlieren
+Antwort_4=0versammeln
+
+[65]
+FZ1=
+FZ2=Der Osterhase trägt die Eier ...
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1in einem Korb
+Antwort_2=0in einer Einkaufstasche
+Antwort_3=0in der Schultasche
+Antwort_4=0in der Kapuze
+
+[66]
+FZ1=
+FZ2=Welche Blume blüht zur Osterzeit ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Krokus
+Antwort_2=0Sonnenblume
+Antwort_3=0Rose
+Antwort_4=0Aster
+
+[67]
+FZ1=
+FZ2=Was symbolisiert das Osterfeuer ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1das Lichtwerden durch die Auferstehung	Christi
+Antwort_2=0die hellen Tage des nahenden	Sommers
+Antwort_3=0die Morgenröte der Göttin Ostara
+Antwort_4=0die wärmeren Tage des Frühlings
+
+[68]
+FZ1=
+FZ2=Wer entdeckte das leere Grab von Jesus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1zwei Frauen
+Antwort_2=0zwei Soldaten
+Antwort_3=0ein Kind
+Antwort_4=0ein Priester
+
+[69]
+FZ1=
+FZ2=Wer nahm Jesus vom Kreuz ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Josef von Aritmathia
+Antwort_2=0Johannes von Alabama
+Antwort_3=0Jakob von Bethelehem
+Antwort_4=0Judas von Nazareth
+
+[70]
+FZ1=
+FZ2=Was bekam Jesus am Kreuz zu trinken ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1einen Schwamm mit Essig
+Antwort_2=0ein Becher Olivenöl
+Antwort_3=0ein Glas Wasser
+Antwort_4=0eine Flasche Wein
+
+[71]
+FZ1=
+FZ2=Wie viele Verbrecher wurden mit Jesus gekreuzigt ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=12
+Antwort_2=04
+Antwort_3=03
+Antwort_4=05
+
+[72]
+FZ1=
+FZ2=Auf welchem Hügel wurde Jesus gekreuzigt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Golgatha
+Antwort_2=0Gethsemane
+Antwort_3=0Gomorra
+Antwort_4=0Gilgamesh
+
+[73]
+FZ1=
+FZ2=Als Jesus mit dem schweren Kreuz zusammenbrach, musste es ein anderer tragen.
+FZ3=Wer war es ?
+Min=16000
+Max=125000
+Antwort_1=1Simon
+Antwort_2=0Petrus
+Antwort_3=0Thomas
+Antwort_4=0Judas
+
+[74]
+FZ1=
+FZ2=Welcher Mörder wurde freigelassen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Barrabas
+Antwort_2=0Garrabas
+Antwort_3=0Marrabas
+Antwort_4=0Sarrabas
+
+[75]
+FZ1=
+FZ2=Wie hieß der oberste Richter, der Jesus verurteilen sollte ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Pontius Pilatus	
+Antwort_2=0Dschingis Khan	
+Antwort_3=0Julius Cäsar	
+Antwort_4=0Nero	
+
+[76]
+FZ1=
+FZ2=Wer schlug einem Knecht das Ohr ab, als Jesus verhaftet wurde ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Petrus
+Antwort_2=0Simon
+Antwort_3=0Judas
+Antwort_4=0Thomas
+
+[77]
+FZ1=
+FZ2=Wodurch verriet Judas Jesus ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Er küsste ihn.
+Antwort_2=0Er nannte seinen Namen.
+Antwort_3=0Er zeigte auf ihn.
+Antwort_4=0Er hielt ihn fest.
+
+[78]
+FZ1=
+FZ2=Wer leugnete dreimal, dass er Jesus kennt ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Petrus
+Antwort_2=0Jakobus
+Antwort_3=0Judas
+Antwort_4=0Johannes
+
+[79]
+FZ1=
+FZ2=Wie hieß der Garten, in dem Jesus seine letzte Nacht verbrachte ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Gethsemane
+Antwort_2=0Golgatha
+Antwort_3=0Eden
+Antwort_4=0Bethlehem
+
+[80]
+FZ1=
+FZ2=Wer verriet Jesus ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Judas
+Antwort_2=0Bartimäus
+Antwort_3=0Petrus
+Antwort_4=0Zachäus
+
+[81]
+FZ1=
+FZ2=In welcher Stadt starb Jesus ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Jerusalem
+Antwort_2=0Betanien
+Antwort_3=0Bethlehem
+Antwort_4=0Jericho
+
+[82]
+FZ1=
+FZ2=Auf welchem Tier ritt Jesus nach Jerusalem ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Esel
+Antwort_2=0Kamel
+Antwort_3=0Pferd
+Antwort_4=0Elefant
+

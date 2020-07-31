@@ -1,0 +1,191 @@
+[Thema]
+Thema       = "Schütztechnik"
+Fragen      = 17
+Autor       = Elmar F. Werker, V1.0 11/2001
+
+[1]
+FZ1         =
+FZ2         = Welche Klemmenbezeichnungen tragen Öffnerkontakte?
+FZ3         =
+Min         = 0
+Max         = 100
+Antwort_1  = 111, 12
+Antwort_2  = 013, 14
+Antwort_3  = 016, 17
+Antwort_4  = 095, 96
+
+[2]
+FZ1         =
+FZ2         = Welche Klemmenbezeichnungen tragen Schließerkontakte?
+FZ3         =
+Min         =  100
+Max         = 200
+Antwort_1  = 011, 12
+Antwort_2  = 113, 14
+Antwort_3  = 016, 17
+Antwort_4  = 095, 96
+
+[3]
+FZ1         =
+FZ2         = Mit welcher Spannungsart werden typische Betriebsmittel
+FZ3         = von Haushalten versorgt?
+Min         =  100
+Max         = 200
+Antwort_1  = 0Gleichstrom
+Antwort_2  = 1Wechselstrom
+Antwort_3  = 0Multistrom
+Antwort_4  = 0Schnellstrom
+
+[4]
+FZ1         =
+FZ2         = Bei Schützen mit mehreren Schaltgliedern arbeiten _____ schneller als _____!
+FZ3         =
+Min         = 200
+Max         = 500
+Antwort_1  = 0Lastkontakte schneller als Öffner 
+Antwort_2  = 0Schließer schneller als Öffner
+Antwort_3  = 1Öffner schneller als Schließer
+Antwort_4  = 0Kontakte schneller als Schließer  
+
+[5]
+FZ1         =
+FZ2         = Die Schaltwirkung von Relais und Schützen erfolgt 
+FZ3         =
+Min         = 300
+Max         = 500
+Antwort_1  = 0elektrisch  
+Antwort_2  = 1magnetisch  
+Antwort_3  = 0optisch
+Antwort_4  = 0akustisch   
+
+[6]
+FZ1         =
+FZ2         = Der Spulenanschluß eines Schützes trägt die Klemmenbezeichnung 
+FZ3         =
+Min         = 500
+Max         = 1000
+Antwort_1  = 011, 12
+Antwort_2  = 013, 14
+Antwort_3  = 015, 16
+Antwort_4  = 1A1, A2
+
+[7]
+FZ1         =
+FZ2         = Zwei Schließerkontakte in Reihe geschaltet bewirken eine _______ Funktion.
+FZ3         =
+Min         = 1000
+Max         = 2000
+Antwort_1  = 1AND / UND   
+Antwort_2  = 0OR / ODER   
+Antwort_3  = 0NAND / Nicht Und  
+Antwort_4  = 0Nor / Nicht Oder
+
+[8]
+FZ1         =
+FZ2         = Zwei Schließerkontakte parallel geschaltet bewirken eine ____ Funktion!   
+FZ3         =
+Min         = 2000
+Max         = 4000
+Antwort_1  = 0AND / UND   
+Antwort_2  = 1OR / ODER   
+Antwort_3  = 0NAND / Nicht Und  
+Antwort_4  = 0NOR / Nicht Oder  
+
+[9]
+FZ1         =
+FZ2         = Eine Wechselschaltung entspricht der logischen _____ Funktion 
+FZ3         =
+Min         = 4000
+Max         = 8000
+Antwort_1  = 0AND   
+Antwort_2  = 0OR
+Antwort_3  = 0NAND  
+Antwort_4  = 1XOR   
+
+[10]
+FZ1         =
+FZ2         = Eine Wechselschaltung läßt sich bei Hinzufügen einer Schaltstelle 
+FZ3         = erweitern zu einer? 
+Min         = 8000
+Max         = 16000
+Antwort_1  = 0Wechselschaltung  
+Antwort_2  = 0Ausschaltung
+Antwort_3  = 1Kreuzschaltung
+Antwort_4  = 0Gruppenschaltung  
+
+[11]
+FZ1         =
+FZ2         = Eine standard Treppenhauslichtschaltung eines Wohnhauses  
+FZ3         = entspricht welcher Zeitfunktion ?
+Min         = 16000
+Max         = 32000
+Antwort_1  = 0Einschaltverzögerung
+Antwort_2  = 0Impulsverlängerung
+Antwort_3  = 1Ausschaltverzögerung
+Antwort_4  = 0Ein- Ausschaltverzögerung
+
+[12]
+FZ1         =
+FZ2         = Eine Flurlichtsteuerung mit mehr als 5 Schaltstellen wird gelöst 
+FZ3         = durch eine... ?
+Min         = 32000
+Max         = 64000
+Antwort_1  = 0Ausschaltung
+Antwort_2  = 0Wechselschaltung  
+Antwort_3  = 0Kreuzschaltung
+Antwort_4  = 1Stromstoßrelaisschaltung
+
+[13]
+FZ1         =
+FZ2         = Welche Klemmenbezeichnungen tragen Motorschutzschalterkontakte?
+FZ3         =
+Min         = 64000
+Max         = 125000
+Antwort_1  = 011, 12
+Antwort_2  = 013, 14
+Antwort_3  = 015, 16
+Antwort_4  = 195, 96
+
+[14]
+FZ1         =
+FZ2         = Welche Klemmenbezeichnung tragen  Zeitrelaiskontakte?
+FZ3         =
+Min         = 125000
+Max         = 250000
+Antwort_1  = 011, 12
+Antwort_2  = 013, 14
+Antwort_3  = 115, 16
+Antwort_4  = 095, 96
+
+[15]
+FZ1         =
+FZ2         = Eine Wechselschaltung läßt sich durch welche Schützschaltung ersetzen?
+FZ3         =
+Min         = 250000
+Max         = 500000
+Antwort_1  = 1Taster und Stromstoßrelais
+Antwort_2  = 0Taster und Selbsthaltung
+Antwort_3  = 0Kreuzschaltung
+Antwort_4  = 0Stern- Dreieck Schaltung
+
+[16]
+FZ1         =
+FZ2         = Zwei Öffnerkontakte in Reihe geschaltet bewirken eine _______ Funktion.
+FZ3         =
+Min         = 500000
+Max        = 1000000
+Antwort_1  = 0AND / UND   
+Antwort_2  = 0OR / ODER   
+Antwort_3  = 1NAND / Nicht Und  
+Antwort_4  = 0NOR / Nicht Oder  
+
+[17]
+FZ1         = 
+FZ2         = Zwei Öffnerkontakte parallel geschaltet bewirken eine ______ Funktion!
+FZ3         =
+Min         = 500000
+Max         = 1000000
+Antwort_1  = 0AND / UND   
+Antwort_2  = 0OR / ODER   
+Antwort_3  = 0NAND / Nicht Und  
+Antwort_4  = 1NOR / Nicht Oder  

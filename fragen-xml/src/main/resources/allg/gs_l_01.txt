@@ -1,0 +1,1006 @@
+[Thema]
+Thema= Grundschule leicht
+Fragen=91
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wer schrieb die Geschichten über die bösen Streiche von Max und Moritz ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Wilhelm Busch
+Antwort_2=0	 Wilhelm Strauch
+Antwort_3=0	 Wilhelm Baum
+Antwort_4=0	 Wilhelm Blume
+
+[2]
+FZ1=
+FZ2=Was baute Noah im Auftrag Gottes ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 eine Haus
+Antwort_2=1	 eine Arche
+Antwort_3=0	 eine Kirche
+Antwort_4=0	 eine Straße
+
+[3]
+FZ1=
+FZ2=Worin bewahren die Bienen den Honig auf ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Wappen
+Antwort_2=1	 Waben
+Antwort_3=0	 Gläser
+Antwort_4=0	 Rucksäcke
+
+[4]
+FZ1=
+FZ2=Mit welchen Tieren fliegt Niels Holgersson davon ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Enten
+Antwort_2=0	 Adlern
+Antwort_3=1	 Gänsen
+Antwort_4=0	 Tauben
+
+[5]
+FZ1=
+FZ2=Wie heißt der Grashüpfer bei Biene Maja ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Flipper
+Antwort_2=1	 Flip
+Antwort_3=0	 Flippie
+Antwort_4=0	 Lassie
+
+[6]
+FZ1=
+FZ2=Wie kann man  einen Glückskäfer oder Siebenpunkt noch nennen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Maikäfer
+Antwort_2=0	 Annenkäfer
+Antwort_3=0	 Juliakäfer
+Antwort_4=1	 Marienkäfer
+
+[7]
+FZ1=
+FZ2=Die beiden Schurken, die Pinocchio immer hereinlegen wollen,
+FZ3=heißen "Der Fuchs und ... "
+Min=125000
+Max=500000
+Antwort_1=0	 die hässliche Straßenkatze
+Antwort_2=0	 der raue Hinterhofkater
+Antwort_3=1	 der räudige Straßenkater
+Antwort_4=0	 der katzige Räuber
+
+[8]
+FZ1=
+FZ2=Was ist Pumuckl ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Zauberer
+Antwort_2=0	 Wassermann
+Antwort_3=1	 Kobold
+Antwort_4=0	 Elf
+
+[9]
+FZ1=
+FZ2=Mit welchem verformbaren Material, das zur Ziegelherstellung verwendet
+FZ3=wird, kann man auch Figuren basteln ?
+Min=0
+Max=2000
+Antwort_1=0	 Schall
+Antwort_2=0	 Klang
+Antwort_3=0	 Geräusch
+Antwort_4=1	 Ton
+
+[10]
+FZ1=
+FZ2=Wozu entwickelt sich möglicherweise Schnee, der plötzlich
+FZ3=von einem Hang abrutscht ?
+Min=0
+Max=2000
+Antwort_1=0	 Mure
+Antwort_2=1	 Lawine
+Antwort_3=0	 Fontäne
+Antwort_4=0	 Terrine
+
+[11]
+FZ1=
+FZ2=Welchem heute lebenden Tier sieht das Mammut der Eiszeit ähnlich ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Bison
+Antwort_2=0	 Nashorn
+Antwort_3=0	 Kamel
+Antwort_4=1	 Elefant
+
+[12]
+FZ1=
+FZ2=Wie nennt man eine fruchtbare Stelle in Wüsten,
+FZ3=wo Palmen und andere Pflanzen wachsen ?
+Min=0
+Max=2000
+Antwort_1=0	 Büffet
+Antwort_2=1	 Oase
+Antwort_3=0	 Mensa
+Antwort_4=0	 Supermarkt
+
+[13]
+FZ1=
+FZ2=Gegen welche achtbeinigen Krabbeltiere, die Krankheiten
+FZ3=übertragen können, kann man sich im Frühling impfen lassen ?
+Min=0
+Max=2000
+Antwort_1=0	 Weberknechte
+Antwort_2=0	 Milben
+Antwort_3=0	 Skorpione
+Antwort_4=1	 Zecken
+
+[14]
+FZ1=
+FZ2=Wo versteckte sich das siebente Geißlein im
+FZ3=Märchen "Der Wolf und die sieben Geißlein ?"
+Min=0
+Max=2000
+Antwort_1=1	 im Uhrkasten
+Antwort_2=0	 in der Badewanne
+Antwort_3=0	 im Backofen
+Antwort_4=0	 hinter dem Vorhang
+
+[15]
+FZ1=
+FZ2=Wie heißen die Neffen von Donald Duck ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Tick, Trick und Track
+Antwort_2=0	 Zick, Zack und Zuck
+Antwort_3=0	 Fix und Foxi
+Antwort_4=0	 Tim und Struppi
+
+[16]
+FZ1=
+FZ2=Wie heißt der Wasseranschluss für die Feuerwehr,
+FZ3=den man auf Gehwegen findet ?
+Min=0
+Max=2000
+Antwort_1=1	 Hydrant
+Antwort_2=0	 Litfaßsäule
+Antwort_3=0	 Ampel
+Antwort_4=0	 Gulli
+
+[17]
+FZ1=
+FZ2=Aus welchem Märchen stammt der Ausdruck
+FZ3="Der Wind, der Wind, das himmlische Kind!" ?
+Min=0
+Max=2000
+Antwort_1=0	 Brüderchen und Schwesterchen
+Antwort_2=0	  Rumpelstilzchen
+Antwort_3=0	 Schneeweißchen und Rosenrot
+Antwort_4=1	 Hänsel und Gretel
+
+[18]
+FZ1=
+FZ2=Der Mensch züchtet Bienen und bekommt von ihnen ... ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Milch
+Antwort_2=0	 Wolle
+Antwort_3=0	 Eier
+Antwort_4=1	 Honig
+
+[19]
+FZ1=
+FZ2=Welche Tiere verwandelt die Fee für Aschenputtel in Pferde,
+FZ3=die die Kutsche ziehen sollen ?
+Min=125000
+Max=500000
+Antwort_1=0	 Katzen
+Antwort_2=0	 Ameisen
+Antwort_3=0	 Kühe
+Antwort_4=1	 Mäuse
+
+[20]
+FZ1=
+FZ2=Wer trug den Titel Pharao ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0	 griechische Götter
+Antwort_2=0	 römische Feldherren
+Antwort_3=0	 israelische Priester
+Antwort_4=1	 ägyptische Könige
+
+[21]
+FZ1=
+FZ2=Wer hatte 12 Apostel ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Adam
+Antwort_2=0	 Eva
+Antwort_3=1	 Jesus
+Antwort_4=0	 Maria
+
+[22]
+FZ1=
+FZ2=Woraus macht man Chips ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Rindfleisch
+Antwort_2=1	 Kartoffeln
+Antwort_3=0	 Zuckerrüben
+Antwort_4=0	 Birnen
+
+[23]
+FZ1=
+FZ2=Wie heißen die kleinen Heringfische, die in Dosen
+FZ3=eng geschichtet und in Öl eingelegt sind ?
+Min=0
+Max=2000
+Antwort_1=1	 Sardinen
+Antwort_2=0	 Sandalen
+Antwort_3=0	 Sand
+Antwort_4=0	 Salto
+
+[24]
+FZ1=
+FZ2=Was klebt man rechts oben auf das Kuvert eines Briefes,
+FZ3=damit er verschickt werden kann ?
+Min=0
+Max=2000
+Antwort_1=0	 Sticker
+Antwort_2=1	 Briefmarke
+Antwort_3=0	 Pflaster
+Antwort_4=0	 Magnet
+
+[25]
+FZ1=
+FZ2=Welcher große Fluss fließt durch Deutschland ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Rhaus
+Antwort_2=0	 Rhauf
+Antwort_3=1	 Rhein
+Antwort_4=0	 Rhunter
+
+[26]
+FZ1=
+FZ2=Wer setzte Hänsel und Gretel im Wald aus ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Vater
+Antwort_2=0	 Stiefmutter
+Antwort_3=0	 Hexe
+Antwort_4=0	 böse Wolf
+
+[27]
+FZ1=
+FZ2=Pommes "rot - weiß" isst man mit Ketchup und ... ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Nivea
+Antwort_2=0	 Vanillesoße
+Antwort_3=1	 Majonäse
+Antwort_4=0	 Schlagsahne
+
+[28]
+FZ1=
+FZ2=Welche Farbe ist nicht auf der deutschen Flagge zu sehen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 gelb
+Antwort_2=0	 schwarz
+Antwort_3=0	 rot
+Antwort_4=1	 grün
+
+[29]
+FZ1=
+FZ2=Wie heißt das Schreibgerät, das man mit
+FZ3=auswechselbaren Tintenpatronen versehen kann ?
+Min=0
+Max=2000
+Antwort_1=0	 Wachskreide
+Antwort_2=1	 Füllfederhalter
+Antwort_3=0	 Aquarellstift
+Antwort_4=0	 Filzstift
+
+[30]
+FZ1=
+FZ2=Wie nennt man die dichte Behaarung vieler Tiere,
+FZ3=die der Mensch auch als Bekleidung nützt ?
+Min=0
+Max=2000
+Antwort_1=0	 Gefieder
+Antwort_2=0	 Falle
+Antwort_3=1	 Fell
+Antwort_4=0	 Beschuppung
+
+[31]
+FZ1=
+FZ2=Welches Tier heißt im Märchen auch Adebar ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Bär
+Antwort_2=0	 Wolf
+Antwort_3=0	 Fuchs
+Antwort_4=1	 Storch
+
+[32]
+FZ1=
+FZ2="Heute back´ ich, morgen brau´ ich ..."
+FZ3=Was möchte Rumpelstilzchen übermorgen machen ?
+Min=0
+Max=2000
+Antwort_1=0	 ein großes Fest
+Antwort_2=0	 ein Huhn braten
+Antwort_3=0	 die Königin heiraten
+Antwort_4=1	 das Kind der Königin holen
+
+[33]
+FZ1=
+FZ2=Wie nennt man das Instrument, mit dem man Wasser
+FZ3=oder andere unterirdische Stoffe finden kann ?
+Min=4000
+Max=64000
+Antwort_1=0	 Hirtenstab
+Antwort_2=0	 Astwippe
+Antwort_3=1	 Wünschelrute
+Antwort_4=0	 Schatzfeder
+
+[34]
+FZ1=
+FZ2=Was ist der Bizeps ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Oberarmmuskel
+Antwort_2=0	 zweiteiliger Turnanzug
+Antwort_3=0	 Käfer mit zwei Hörnern
+Antwort_4=0	 Gebirge in der Türkei
+
+[35]
+FZ1=
+FZ2=Wie lautet die auch bei uns verwendete
+FZ3=englische Bezeichnung für Jugendliche ?
+Min=4000
+Max=64000
+Antwort_1=0	 Coffedrinker
+Antwort_2=0	 Terminator
+Antwort_3=0	 Oldies
+Antwort_4=1	 Teenager
+
+[36]
+FZ1=
+FZ2=Welche Farbe hat die Rinde der Birke ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 braun
+Antwort_2=0	 schwarz
+Antwort_3=1	 weiß
+Antwort_4=0	 grau
+
+[37]
+FZ1=
+FZ2=Was für ein Tier ist der Filmstar Flipper ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Delfin
+Antwort_2=0	 Weißer Hai
+Antwort_3=0	 Orca
+Antwort_4=0	 Seelöwe
+
+[38]
+FZ1=
+FZ2=An welchem Datum beginnt der Fasching ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 3.11.
+Antwort_2=0	 14.2.
+Antwort_3=0	 22.3.
+Antwort_4=1	 11.11.
+
+[39]
+FZ1=
+FZ2=Was wird bei Babys nach der Geburt abgetrennt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Zehenband
+Antwort_2=1	 Nabelschnur
+Antwort_3=0	 Fingertau
+Antwort_4=0	 Ohrenzwirn
+
+[40]
+FZ1=
+FZ2=Wo legt man seine Hand redensartlich hin,
+FZ3=wenn man für jemanden bürgt ?
+Min=4000
+Max=64000
+Antwort_1=0	 ins Waschbecken
+Antwort_2=0	 aufs Herz
+Antwort_3=0	 auf den Herd
+Antwort_4=1	 ins Feuer
+
+[41]
+FZ1=
+FZ2=Wie heißen die Nasenlöcher von Pferden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Nöstern
+Antwort_2=0	 Nästern
+Antwort_3=0	 Nastern
+Antwort_4=1	 Nüstern
+
+[42]
+FZ1=
+FZ2=Wie heißt der Hund aus "5 Freunde" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Tommy
+Antwort_2=0	 Sammy
+Antwort_3=1	 Timmy
+Antwort_4=0	 Rexi
+
+[43]
+FZ1=
+FZ2=Welche dieser Sportarten ist kein Ballsport ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Eishockey
+Antwort_2=0	 American Football
+Antwort_3=0	 Rugby
+Antwort_4=0	 Baseball
+
+[44]
+FZ1=
+FZ2=Wer ist der Schöpfer der Micky Maus ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Walt Disney
+Antwort_2=0	 Jules Verne
+Antwort_3=0	 Wilhelm Busch
+Antwort_4=0	 Steven Spielberg
+
+[45]
+FZ1=
+FZ2=Welcher dieser vier ist kein Teletubbie ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Gipsy
+Antwort_2=0	 Laa Laa
+Antwort_3=0	 Po
+Antwort_4=0	 Tinky Winky
+
+[46]
+FZ1=
+FZ2=Wenn man jemandem gutes Gelingen wünscht,
+FZ3=sagt man "Hals- und ... " ?
+Min=4000
+Max=64000
+Antwort_1=0	 Kniefall
+Antwort_2=0	 Zahnschmerz
+Antwort_3=1	 Beinbruch
+Antwort_4=0	 Ohrenweh
+
+[47]
+FZ1=
+FZ2=Was versteht man unter "im Uhrzeigersinn" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 nach rechts drehend
+Antwort_2=0	 so langsam wie die Uhr
+Antwort_3=0	 pünktlich
+Antwort_4=0	 nach links drehend
+
+[48]
+FZ1=
+FZ2=Welches Tier produziert Ostereier ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Henne
+Antwort_2=0	 Frosch
+Antwort_3=0	 Osterschwein
+Antwort_4=0	 Osterhase
+
+[49]
+FZ1=
+FZ2=Welches australische Tier springt auf
+FZ3=seinen kräftigen Hinterbeinen ?
+Min=4000
+Max=64000
+Antwort_1=0	 Koala
+Antwort_2=1	 Känguru
+Antwort_3=0	 Ameisenigel
+Antwort_4=0	 Schnabeltier
+
+[50]
+FZ1=
+FZ2=Wie nennt man Tiere, die ihre Jungen mit aus
+FZ3=eigenen Drüsen produzierter Milch ernähren ?
+Min=4000
+Max=64000
+Antwort_1=1	 Säugetiere
+Antwort_2=0	 Vögel
+Antwort_3=0	 Spinnen
+Antwort_4=0	 Fische
+
+[51]
+FZ1=
+FZ2=Welche Farbe hat ein Pferd, das ein Schimmel ist ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 schwarz
+Antwort_2=1	 weiß
+Antwort_3=0	 grau
+Antwort_4=0	 braun
+
+[52]
+FZ1=
+FZ2=Wie wird das tägliche Ansteigen des Meeresspiegels genannt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Flut
+Antwort_2=0	 Fluss
+Antwort_3=0	 Flug
+Antwort_4=0	 Floß
+
+[53]
+FZ1=
+FZ2=Wie heißt der runde Edelschimmelkäse, der
+FZ3=auch gebacken köstlich schmeckt ?
+Min=4000
+Max=64000
+Antwort_1=0	 Robert
+Antwort_2=1	 Camembert
+Antwort_3=0	 Norbert
+Antwort_4=0	 Herbert
+
+[54]
+FZ1=
+FZ2=Wie nennt man ein Stück Fleisch, das flach
+FZ3=geklopft, paniert und gebraten wird ?
+Min=4000
+Max=64000
+Antwort_1=1	 Schnitzel
+Antwort_2=0	 Roulade
+Antwort_3=0	 Gulasch
+Antwort_4=0	 Braten
+
+[55]
+FZ1=
+FZ2=Wie heißt die Hochschule, an der man zum Beispiel
+FZ3=Medizin oder Sprachen studieren kann ?
+Min=4000
+Max=64000
+Antwort_1=0	 Arsenal
+Antwort_2=0	 Museum
+Antwort_3=0	 Kloster
+Antwort_4=1	 Universität
+
+[56]
+FZ1=
+FZ2=Wie nennt man eine schnelle Schwimmtechnik, bei der
+FZ3=man die Arme abwechselnd nach vor und zurück zieht ?
+Min=4000
+Max=64000
+Antwort_1=1	 Kraulen
+Antwort_2=0	 Kratzen
+Antwort_3=0	 Streicheln
+Antwort_4=0	 Liebkosen
+
+[57]
+FZ1=Wie heißt die Turnfigur, bei der man auf
+FZ2=einem Bein steht und mit dem anderen Bein
+FZ3=sowie mit dem Oberkörper ausbalanciert ?
+Min=4000
+Max=64000
+Antwort_1=1	 Waage
+Antwort_2=0	 Feder
+Antwort_3=0	 Hebel
+Antwort_4=0	 Spirale
+
+[58]
+FZ1=
+FZ2=Was ist ein Trampolin ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Musikinstrument
+Antwort_2=1	 Sprunggerät
+Antwort_3=0	 Zelt
+Antwort_4=0	 Wanderer
+
+[59]
+FZ1=
+FZ2=Wie heißt das nur 10 cm breite Turngerät beim Kunstturnen,
+FZ3=auf dem man Balanceübungen durchführt ?
+Min=4000
+Max=64000
+Antwort_1=1	 Schwebebalken
+Antwort_2=0	 Kran
+Antwort_3=0	 Seilbahn
+Antwort_4=0	 Gondel
+
+[60]
+FZ1=
+FZ2=Von welchem Planeten kam Alf auf die Erde ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Melmac
+Antwort_2=0	 Mars
+Antwort_3=0	 Venus
+Antwort_4=0	 Merkur
+
+[61]
+FZ1=
+FZ2=Wie nennt man eine Kleiderablage auch noch ?
+FZ3=
+Min=0
+Max=64000
+Antwort_1=0	 Gardine
+Antwort_2=0	 Robbe
+Antwort_3=0	 Garten
+Antwort_4=1	 Garderobe
+
+[62]
+FZ1=
+FZ2=Wie viele Tage hat der August ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 31
+Antwort_2=0	 30
+Antwort_3=0	 28
+Antwort_4=0	 32
+
+[63]
+FZ1=
+FZ2=Was sind Maronen ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Früchte der Edelkastanie
+Antwort_2=0	 Einwohner Marokkos
+Antwort_3=0	 Matrosenlehrlinge
+Antwort_4=0	 Affen auf Malta
+
+[64]
+FZ1=
+FZ2=Welche Strahlen sendet die Fernbedienung
+FZ3=eines Fernsehgerätes aus ?
+Min=125000
+Max=500000
+Antwort_1=0	 Infragrünstrahlen
+Antwort_2=0	 Infragelbstrahlen
+Antwort_3=0	 Infrablaustrahlen
+Antwort_4=1	 Infrarotstrahlen
+
+[65]
+FZ1=
+FZ2=Wie heißt es bei Max und Moritz ?
+FZ3="Ach was muss man oft von bösen Kindern hören oder ... "
+Min=125000
+Max=1000000
+Antwort_1=1	 lesen
+Antwort_2=0	 sehen
+Antwort_3=0	 mitbekommen
+Antwort_4=0	 aufschnappen
+
+[66]
+FZ1=
+FZ2=Wer war Wilhelm Tell ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 schweizer Nationalheld
+Antwort_2=0	 deutscher Atomforscher
+Antwort_3=0	 österreichischer Bäcker
+Antwort_4=0	 italienischer Sänger
+
+[67]
+FZ1=
+FZ2=Von welchem Schriftsteller stammt
+FZ3=die Figur Kara Ben Nemsi ?
+Min=125000
+Max=1000000
+Antwort_1=1	 Karl May
+Antwort_2=0	 Carl Orff
+Antwort_3=0	 Otfried Preußler
+Antwort_4=0	 Patrick Süskind
+
+[68]
+FZ1=
+FZ2=Wie heißt der große Freund von Tiffy in der "Sesamstraße" ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Samson
+Antwort_2=0	 Goliath
+Antwort_3=0	 Ballon
+Antwort_4=0	 Christoph
+
+[69]
+FZ1=
+FZ2=Wie nennt man auf Mauern und Fassaden
+FZ3=gesprühte Parolen ?
+Min=125000
+Max=1000000
+Antwort_1=0	 Souflaki
+Antwort_2=1	 Graffiti
+Antwort_3=0	 Kontiki
+Antwort_4=0	 Schickimicki
+
+[70]
+FZ1=
+FZ2=Wen erreicht man in Deutschland
+FZ3=unter der Telefonnummer 112 ?
+Min=125000
+Max=1000000
+Antwort_1=0	 Polizei
+Antwort_2=0	 ZDF
+Antwort_3=0	 Bundeskanzler
+Antwort_4=1	 Feuerwehr
+
+[71]
+FZ1=
+FZ2=In welcher Stadt steht der Eiffelturm ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Paris
+Antwort_2=0	 Rom
+Antwort_3=0	 Berlin
+Antwort_4=0	 Athen
+
+[72]
+FZ1=
+FZ2=Welcher Comicheld sagt immer:
+FZ3="Die spinnen, die Römer!" ?
+Min=125000
+Max=1000000
+Antwort_1=0	 Garfield
+Antwort_2=0	 Hägar
+Antwort_3=0	 Asterix
+Antwort_4=1	 Obelix
+
+[73]
+FZ1=
+FZ2=Wie heißen künstlich konservierte Leichname ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Mumien
+Antwort_2=0	 Murmeln
+Antwort_3=0	 Mungos
+Antwort_4=0	 Mulatten
+
+[74]
+FZ1=
+FZ2=Was sind die Flecken auf der Mondoberfläche,
+FZ3=die man schon mit einem Fernglas sehen kann ?
+Min=125000
+Max=1000000
+Antwort_1=0	 Wiesen
+Antwort_2=0	 Städte
+Antwort_3=1	 Krater
+Antwort_4=0	 Seen
+
+[75]
+FZ1=
+FZ2=Welches Tier entwickelt sich aus der
+FZ3=kleinen Raupe Nimmersatt ?
+Min=125000
+Max=1000000
+Antwort_1=0	 Maikäfer
+Antwort_2=0	 Hummel
+Antwort_3=0	 Ohrwurm
+Antwort_4=1	 Schmetterling
+
+[76]
+FZ1=
+FZ2=Was ist ein Klabautermann ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Schiffskobold
+Antwort_2=0	 Koch auf einem Schiff
+Antwort_3=0	 Segelstange am Großmast
+Antwort_4=0	 Bezeichnung für den Kapitän
+
+[77]
+FZ1=
+FZ2=Was bewegt sich beim Schlucken ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Adamsapfel
+Antwort_2=0	 Evasbirne
+Antwort_3=0	 Kainbeere
+Antwort_4=0	 Abelbanane
+
+[78]
+FZ1=
+FZ2=Welcher berühmte Hund hat einen Vogel
+FZ3=mit Namen Woodstock als Freund ?
+Min=125000
+Max=1000000
+Antwort_1=0	 Pluto
+Antwort_2=0	 Twiggy
+Antwort_3=0	 Snacky
+Antwort_4=1	 Snoopy
+
+[79]
+FZ1=
+FZ2=Wie nennt man einen Feigling noch ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 Katzenpfote
+Antwort_2=1	 Hasenfuß
+Antwort_3=0	 Bärentatze
+Antwort_4=0	 Hühnerbein
+
+[80]
+FZ1=
+FZ2=Wie nennt man die Plättchen, die
+FZ3=die Haut der Fische bedecken ?
+Min=125000
+Max=1000000
+Antwort_1=1	 Schuppen
+Antwort_2=0	 Hütte
+Antwort_3=0	 Ziegel
+Antwort_4=0	 Fell
+
+[81]
+FZ1=
+FZ2=Wie nennt man den Bildschirm eines Computers auch ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Monitor
+Antwort_2=0	 Monoposto
+Antwort_3=0	 Monopol
+Antwort_4=0	 Monolith
+
+[82]
+FZ1=
+FZ2=Wo wachsen Kartoffeln ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 in der Erde
+Antwort_2=0	 am Baum
+Antwort_3=0	 am Strauch
+Antwort_4=0	 im Wasser
+
+[83]
+FZ1=
+FZ2=Bei welchem Brettspiel hat man Bauern, Türme
+FZ3=und Läufer als Spielfiguren ?
+Min=125000
+Max=1000000
+Antwort_1=1	 Schach
+Antwort_2=0	 Dame
+Antwort_3=0	 Mühle
+Antwort_4=0	 Halma
+
+[84]
+FZ1=
+FZ2=Wie heißt ein Tierbändiger, der wilde Tiere zähmt ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Dompteur
+Antwort_2=0	 Friseur
+Antwort_3=0	 Masseur
+Antwort_4=0	 Regisseur
+
+[85]
+FZ1=
+FZ2=Was gehört sicher nicht in die Schokolade ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Erbsen
+Antwort_2=0	 Milch
+Antwort_3=0	 Kakaobutter
+Antwort_4=0	 Zucker
+
+[86]
+FZ1=
+FZ2=Wie nennt man den oberen beblätterten
+FZ3=Teil eines Baumes ?
+Min=125000
+Max=1000000
+Antwort_1=1	 Baumkrone
+Antwort_2=0	 Blätterhaube
+Antwort_3=0	 Astkapuze
+Antwort_4=0	 Pflanzenhut
+
+[87]
+FZ1=
+FZ2=Wie heißt die männliche Ente ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Erpel
+Antwort_2=0	 Entenmann
+Antwort_3=0	 Enter
+Antwort_4=0	 Entenhahn
+
+[88]
+FZ1=
+FZ2=Wo leben Karpfen ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	  im Süßwasser
+Antwort_2=0	 im Salzwasser
+Antwort_3=0	 im Badewasser
+Antwort_4=0	 in jedem Gewässer
+
+[89]
+FZ1=
+FZ2=Wo wachsen Zitronen ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 auf einem Baum
+Antwort_2=0	 an einem Strauch
+Antwort_3=0	 unter der Erde
+Antwort_4=0	 in einer Orchidee
+
+[90]
+FZ1=
+FZ2=Womit wird ein Skiläufer bequem
+FZ3=auf einen Berg befördert ?
+Min=125000
+Max=500000
+Antwort_1=1	 Sessellift
+Antwort_2=0	 Förderband
+Antwort_3=0	  Rolltreppe
+Antwort_4=0	 Bungee - Jumping
+
+[91]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	
+Antwort_2=0	
+Antwort_3=0	
+Antwort_4=0	
+

@@ -1,0 +1,1083 @@
+[Thema]
+Thema=  Welches Wort passt  n i c h t  dazu ?
+Fragen=98
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 eins
+Antwort_2=0	 zwei
+Antwort_3=0	 drei
+Antwort_4=1	  blau
+
+[2]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 vier
+Antwort_2=1	 grün
+Antwort_3=0	 fünf
+Antwort_4=0	 sechs
+
+[3]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 elf
+Antwort_2=1	 schwarz
+Antwort_3=0	 neun
+Antwort_4=0	 acht
+
+[4]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 blau
+Antwort_2=0	 grün
+Antwort_3=1	 drei
+Antwort_4=0	 rot
+
+[5]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 weiß
+Antwort_2=1	 sieben
+Antwort_3=0	 schwarz
+Antwort_4=0	 grau
+
+[6]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 zehn
+Antwort_2=0	 vierzehn
+Antwort_3=0	 zwanzig
+Antwort_4=1	 rosa
+
+[7]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 lila
+Antwort_2=0	 braun
+Antwort_3=1	 zwanzig
+Antwort_4=0	 gelb
+
+[8]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Tiger
+Antwort_2=0	 Löwe
+Antwort_3=1	 Tisch
+Antwort_4=0	 Hase
+
+[9]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Schlange
+Antwort_2=0	 Rabe
+Antwort_3=0	 Schwein
+Antwort_4=1	 Mond
+
+[10]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Hamster
+Antwort_2=1	 Stein
+Antwort_3=0	 Eule
+Antwort_4=0	 Storch
+
+[11]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Kuckuck
+Antwort_2=0	 Ameise
+Antwort_3=0	 Pferd
+Antwort_4=1	 Sattel
+
+[12]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Maus
+Antwort_2=1	 Turm
+Antwort_3=0	 Adler
+Antwort_4=0	 Mücke
+
+[13]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Elefant
+Antwort_2=0	 Maulwurf
+Antwort_3=0	 Wal
+Antwort_4=1	 Buch
+
+[14]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	 Zirkus
+Antwort_2=0	 Zebra
+Antwort_3=0	 Stier
+Antwort_4=0	 Schaf
+
+[15]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	 Auto
+Antwort_2=0	 Bank
+Antwort_3=0	 Stuhl
+Antwort_4=0	 Tisch
+
+[16]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	 Flugzeug
+Antwort_2=0	 Bett
+Antwort_3=0	 Sofa
+Antwort_4=0	 Schrank
+
+[17]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 Fahrrad
+Antwort_2=0	  Roller
+Antwort_3=1	 Garage
+Antwort_4=0	 Motorrad
+
+[18]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 Brot
+Antwort_2=0	 Nudeln
+Antwort_3=0	 Kartoffeln
+Antwort_4=1	 Kiste
+
+[19]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 Hose
+Antwort_2=0	 Hemd
+Antwort_3=0	 Kleid
+Antwort_4=1	 Schule
+
+[20]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 Mantel
+Antwort_2=0	 Schal
+Antwort_3=0	 Mütze
+Antwort_4=1	 Pony
+
+[21]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 Mittwoch
+Antwort_2=0	 Donnerstag
+Antwort_3=1	 Herbst
+Antwort_4=0	 Freitag
+
+[22]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 Herbst
+Antwort_2=1	 Sonntag
+Antwort_3=0	 Frühling
+Antwort_4=0	 Sommer
+
+[23]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	 Schirm
+Antwort_2=0	 Regen
+Antwort_3=0	 Schnee
+Antwort_4=0	 Hagel
+
+[24]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 Meise
+Antwort_2=1	 Adler
+Antwort_3=0	 Fink
+Antwort_4=0	 Nachtigall
+
+[25]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 Susi
+Antwort_2=0	 Anna
+Antwort_3=1	 Fabian
+Antwort_4=0	 Clara
+
+[26]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	 Felicitas
+Antwort_2=0	 Felix
+Antwort_3=0	 Fabian
+Antwort_4=0	 Friedrich
+
+[27]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 Tiger
+Antwort_2=0	 Löwe
+Antwort_3=1	 Wolf
+Antwort_4=0	 Gepard
+
+[28]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 Luchs
+Antwort_2=0	 Leopard
+Antwort_3=0	 Puma
+Antwort_4=1	 Kojote
+
+[29]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 schlafen
+Antwort_2=1	 müde
+Antwort_3=0	 gähnen
+Antwort_4=0	 träumen
+
+[30]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 freuen
+Antwort_2=0	 lachen
+Antwort_3=1	 Clown
+Antwort_4=0	 stolpern
+
+[31]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 salzig
+Antwort_2=0	 sauer
+Antwort_3=0	 spitz
+Antwort_4=1	 sehr
+
+[32]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 langsam
+Antwort_2=0	 lahm
+Antwort_3=0	 leicht
+Antwort_4=1	 lieben
+
+[33]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 frech
+Antwort_2=0	 brav
+Antwort_3=1	 schimpfen
+Antwort_4=0	 böse
+
+[34]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	 enttäuscht
+Antwort_2=0	 rennen
+Antwort_3=0	 verlieren
+Antwort_4=0	 gewinnen
+
+[35]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 mutig
+Antwort_2=0	 schlau
+Antwort_3=0	 ernst
+Antwort_4=1	 zaubern
+
+[36]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 er
+Antwort_2=0	 du
+Antwort_3=1	 in
+Antwort_4=0	 sie
+
+[37]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	 aus
+Antwort_2=0	 wir
+Antwort_3=0	 es
+Antwort_4=0	 ich
+
+[38]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 multiplizieren
+Antwort_2=0	 dividieren
+Antwort_3=0	 subtrahieren
+Antwort_4=1	 probieren
+
+[39]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 Forelle
+Antwort_2=1	 Bachstelze
+Antwort_3=0	 Karpfen
+Antwort_4=0	 Hecht
+
+[40]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 Grille
+Antwort_2=0	 Ameise
+Antwort_3=0	 Biene
+Antwort_4=1	 Gans
+
+[41]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 Klingel
+Antwort_2=0	 Luftpumpe
+Antwort_3=0	 Sattel
+Antwort_4=1	 Lenkrad
+
+[42]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 Buch
+Antwort_2=0	 Heft
+Antwort_3=1	 Kiosk
+Antwort_4=0	 Zeitung
+
+[43]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	 Zentimeter
+Antwort_2=0	 Gramm
+Antwort_3=0	 Kilogramm
+Antwort_4=0	 Tonne
+
+[44]
+FZ1=
+FZ2=Was passt  n i c h t  dazu ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	 kg
+Antwort_2=0	 km
+Antwort_3=0	 cm
+Antwort_4=0	 m
+
+[45]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	 Auge
+Antwort_2=0	 Zahn
+Antwort_3=0	 Zunge
+Antwort_4=0	 Lippe
+
+[46]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0	 Leber
+Antwort_2=0	 Milz
+Antwort_3=1	 Hand
+Antwort_4=0	 Niere
+
+[47]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	 Rakete
+Antwort_2=0	 Rennwagen
+Antwort_3=0	 Omnibus
+Antwort_4=0	 Fahrrad
+
+[48]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	 Mai
+Antwort_2=0	 Advent
+Antwort_3=0	 Dezember
+Antwort_4=0	 Nikolaus
+
+[49]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0	 minus
+Antwort_2=1	 egal
+Antwort_3=0	 mal
+Antwort_4=0	 plus
+
+[50]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	 Bodensee
+Antwort_2=0	 Ostsee
+Antwort_3=0	 Nordsee
+Antwort_4=0	 Südsee
+
+[51]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0	 Hermine
+Antwort_2=1	 Albert
+Antwort_3=0	  Ron
+Antwort_4=0	  Harry
+
+[52]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	 Old Silverhand
+Antwort_2=0	 Old Shatterhand
+Antwort_3=0	 Old Surehand
+Antwort_4=0	 Old Firehand
+
+[53]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0	 Mars
+Antwort_2=1	 Mond
+Antwort_3=0	 Merkur
+Antwort_4=0	 Venus
+
+[54]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	 Orion
+Antwort_2=0	 Jupiter
+Antwort_3=0	 Saturn
+Antwort_4=0	 Pluto
+
+[55]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0	 Pluto
+Antwort_2=0	 Snoopy
+Antwort_3=0	 Struppi
+Antwort_4=1	 Garfield
+
+[56]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	 Lärche
+Antwort_2=0	 Tanne
+Antwort_3=0	 Fichte
+Antwort_4=0	 Kiefer
+
+[57]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 Max Frisch
+Antwort_2=0	 Joanne K. Rowling
+Antwort_3=0	 Michael Ende
+Antwort_4=0	 Karl May
+
+[58]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0	 Amerika
+Antwort_2=1	 Indien
+Antwort_3=0	 Afrika
+Antwort_4=0	 Europa
+
+[59]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 Spanien
+Antwort_2=0	 Australien
+Antwort_3=0	 Asien
+Antwort_4=0	 Antarktis
+
+[60]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 Lüneburger Heide
+Antwort_2=0	 Hessen
+Antwort_3=0	 Saarland
+Antwort_4=0	 Rheinland - Pfalz
+
+[61]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0	 Bayern
+Antwort_2=0	 Baden -  Württemberg
+Antwort_3=0	 Brandenburg
+Antwort_4=1	 Berlin
+
+[62]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 ATC
+Antwort_2=0	 ARD
+Antwort_3=0	 ZDF
+Antwort_4=0	 RTL
+
+[63]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 Trommel
+Antwort_2=0	 Trompete
+Antwort_3=0	 Oboe
+Antwort_4=0	 Mundharmonika
+
+[64]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0	 Saxophon
+Antwort_2=0	 Querflöte
+Antwort_3=0	 Trompete
+Antwort_4=1	 Cello
+
+[65]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	 Kiwi
+Antwort_2=0	 Pflaume
+Antwort_3=0	 Kirsche
+Antwort_4=0	 Pfirsich
+
+[66]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	 Teddybär
+Antwort_2=0	 Puppe
+Antwort_3=0	 Raupe
+Antwort_4=0	 Schmetterling
+
+[67]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	 Ratte
+Antwort_2=0	 Scanner
+Antwort_3=0	 Modem
+Antwort_4=0	 Maus
+
+[68]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	 Mexiko
+Antwort_2=0	 Nil
+Antwort_3=0	 Ägypten
+Antwort_4=0	 Pyramiden
+
+[69]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0	 Rapunzel
+Antwort_2=1	 Stiefmütterchen
+Antwort_3=0	 Rumpelstilzchen
+Antwort_4=0	 Dornröschen
+
+[70]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0	 Norwegen
+Antwort_2=0	 Finnland
+Antwort_3=0	 Schweden
+Antwort_4=1	 Spanien
+
+[71]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Reis
+Antwort_2=0	 Weizen
+Antwort_3=0	 Hafer
+Antwort_4=0	 Gerste
+
+[72]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0	 Globus
+Antwort_2=0	 Kugel
+Antwort_3=0	 Ball
+Antwort_4=1	 Zahnrad
+
+[73]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Toyota
+Antwort_2=0	 Honda
+Antwort_3=0	 Suzuki
+Antwort_4=0	 Kawasaki
+
+[74]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0	 Asterix
+Antwort_2=0	 Obelix
+Antwort_3=1	 Machtjanix
+Antwort_4=0	 Idefix
+
+[75]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0	 Chile
+Antwort_2=0	 Peru
+Antwort_3=0	 Bolivien
+Antwort_4=1	 Nigeria
+
+[76]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Fiat
+Antwort_2=0	 VW
+Antwort_3=0	 Audi
+Antwort_4=0	 BMW
+
+[77]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Saab
+Antwort_2=0	 Mercedes
+Antwort_3=0	 Porsche
+Antwort_4=0	 Opel
+
+[78]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0	 Berlin
+Antwort_2=0	 Paris
+Antwort_3=0	 Rom
+Antwort_4=1	 München
+
+[79]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0	 MD
+Antwort_2=1	 SL
+Antwort_3=0	 IV
+Antwort_4=0	 XII
+
+[80]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	 Aachen
+Antwort_2=0	 Athen
+Antwort_3=0	 Amsterdam
+Antwort_4=0	 Brüssel
+
+[81]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	 Nepal
+Antwort_2=0	 Ungarn
+Antwort_3=0	 Schweiz
+Antwort_4=0	 Portugal
+
+[82]
+FZ1=
+FZ2=
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	 Rhein
+Antwort_2=0	 Ruhr
+Antwort_3=0	 Mosel
+Antwort_4=0	 Weser
+
+[83]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	 Lindgren
+Antwort_2=0	 Grimm
+Antwort_3=0	 Andersen
+Antwort_4=0	 Hauff
+
+[84]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	 schließen
+Antwort_2=0	 baggern
+Antwort_3=0	 schmettern
+Antwort_4=0	 stellen
+
+[85]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	 Lehm
+Antwort_2=0	 Lava
+Antwort_3=0	 Magma
+Antwort_4=0	 Asche
+
+[86]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	 Sirup
+Antwort_2=0	 Honig
+Antwort_3=0	 Amme
+Antwort_4=0	 Drohne
+
+[87]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	 Talar
+Antwort_2=0	 Kahle Asten
+Antwort_3=0	 Brocken
+Antwort_4=0	 Arber
+
+[88]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	  Vegeta
+Antwort_2=0	 Pikachu
+Antwort_3=0	 Glumanda
+Antwort_4=0	 Mauzi
+
+[89]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	 Piccolo
+Antwort_2=0	 Relaxo
+Antwort_3=0	 Traumato
+Antwort_4=0	 Amoroso
+
+[90]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	 Bäcker
+Antwort_2=0	 Bauer
+Antwort_3=0	  Turm
+Antwort_4=0	 Pferd
+
+[91]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	 Pond
+Antwort_2=0	 Volt
+Antwort_3=0	 Ampere
+Antwort_4=0	 Watt
+
+[92]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Dragonir
+Antwort_2=0	 Vegeta
+Antwort_3=0	 Piccolo
+Antwort_4=0	 Son - Goku
+
+[93]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Tauboss
+Antwort_2=0	 Freezer
+Antwort_3=0	 Son - Gohan
+Antwort_4=0	 Kuririn
+
+[94]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Presley
+Antwort_2=0	 Kennedy
+Antwort_3=0	 Bush
+Antwort_4=0	 Lincoln
+
+[95]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Pavian
+Antwort_2=0	 Gorilla
+Antwort_3=0	 Schimpanse
+Antwort_4=0	 Orang - Utan
+
+[96]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 V
+Antwort_2=0	 A
+Antwort_3=0	 U
+Antwort_4=0	 I
+
+[97]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Uruguay
+Antwort_2=0	 Sambia
+Antwort_3=0	 Zaire
+Antwort_4=0	 Uganda
+
+[98]
+FZ1=
+FZ2=Welches Wort passt  n i c h t  dazu ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Bibor
+Antwort_2=0	 Smettbo
+Antwort_3=0	 Raupy
+Antwort_4=0	 Safcon
+

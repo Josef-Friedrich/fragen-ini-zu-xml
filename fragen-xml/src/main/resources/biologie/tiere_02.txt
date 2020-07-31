@@ -1,0 +1,1756 @@
+[Thema]
+Thema       = Tierquiz 2
+Fragen      = 100
+Autor       = Manfred Hartisch 10/ 05/2001
+
+[1]
+FZ1         =  
+FZ2         =  Welches Tierkind gehört nicht zu den Eltern ?
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 1 Küken - Hund
+Antwort_2   = 0 Kitz - Reh
+Antwort_3   = 0 Kalb - Kuh
+Antwort_4   = 0 Fohlen - Pferd 
+
+[2]
+FZ1         =  
+FZ2         = Welches Tierkind gehört nicht zu den Eltern ? 
+FZ3         =  
+Min         = 0
+Max         = 500
+Antwort_1   = 0 Frischling - Wildschwein
+Antwort_2   = 1 Welpe - Katze
+Antwort_3   = 0 Kaulquappe - Frosch
+Antwort_4   = 0 Lamm - Schaf
+
+[3]
+FZ1         = 
+FZ2         =  Welches Tierkind gehört nicht zu den Eltern ?
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 0 Ferkel - Schwein
+Antwort_2   = 1 Fohlen - Rind
+Antwort_3   = 0 Zicklein - Ziege
+Antwort_4   = 0 Küken - Ente
+
+[4]
+FZ1         = 
+FZ2         =  Wie heißt der männliche Hund ?
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 0 Hasso
+Antwort_2   = 0 Rüdiger
+Antwort_3   = 1 Rüde
+Antwort_4   = 0 Rüge
+
+[5]
+FZ1         = 
+FZ2         = Wie heißt das weibliche Schwein ? 
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 0 Eber
+Antwort_2   = 1 Sau
+Antwort_3   = 0 Ferkel
+Antwort_4   = 0 Frischling
+
+[6]
+FZ1         = 
+FZ2         = Wie heißt die bekannteste Fernsehbiene ? 
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 0 Bienchen
+Antwort_2   = 0 Honig
+Antwort_3   = 0 Monja
+Antwort_4   = 1 Maja
+
+[7]
+FZ1         = 
+FZ2         = Wie heißt das weibliche Pferd ? 
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 0 Hengst
+Antwort_2   = 0 Rappe
+Antwort_3   = 1 Stute
+Antwort_4   = 0 Schimmel
+
+[8]
+FZ1         = 
+FZ2         =  Wie heißt das weibliche Huhn ?
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 0 Hahn
+Antwort_2   = 0 Küken
+Antwort_3   = 1 Henne
+Antwort_4   = 0 Berta
+
+[9]
+FZ1         = 
+FZ2         =  Wie heißt das weibliche Wildschwein ?
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 Lache
+Antwort_2   = 0 Sache
+Antwort_3   = 0 Mache
+Antwort_4   = 1 Bache
+
+[10]
+FZ1         = 
+FZ2         =  Das Zebra hat ...
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 0 Punkte
+Antwort_2   = 1 Streifen
+Antwort_3   = 0 Flecken
+Antwort_4   = 0 Dreiecke
+
+[11]
+FZ1         =  
+FZ2         =  Das schnellste Landtier ist der ..
+FZ3         = 
+Min         = 2000
+Max         = 160000
+Antwort_1   = 0 Leopard
+Antwort_2   = 0 Tiger
+Antwort_3   = 0 Löwe
+Antwort_4   = 1 Gepard
+
+[12]
+FZ1         = 
+FZ2         =  Welcher Vogel kann nicht fliegen ?
+FZ3         = 
+Min         = 500
+Max         = 8000
+Antwort_1   = 0 Kolibri
+Antwort_2   = 1 Strauß
+Antwort_3   = 0 Flamingo
+Antwort_4   = 0 Pelikan 
+
+[13]
+FZ1         = 
+FZ2         =  Welcher Vogel ist kein Raubvogel ?
+FZ3         = 
+Min         = 16000
+Max         = 1250000
+Antwort_1   = 0 Adler
+Antwort_2   = 0 Habicht
+Antwort_3   = 0 Falke
+Antwort_4   = 1 Fasan
+
+[14]
+FZ1         = 
+FZ2         = Mit welchen Lebewesen sind die Affen nahe verwandt ? 
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 1 mit den Menschen
+Antwort_2   = 0 mit den Schweinen
+Antwort_3   = 0 mit den Giraffen
+Antwort_4   = 0 mit den Fischen
+
+[15]
+FZ1         = 
+FZ2         = Was ist keine Raubkatze ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 1 Wolf
+Antwort_2   = 0 Tiger
+Antwort_3   = 0 Löwe
+Antwort_4   = 0 Leopard
+
+[16]
+FZ1         =  
+FZ2         =  Wo leben die Hyänen ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 in Afrika und Asien
+Antwort_2   = 0 nur im Zoo
+Antwort_3   = 0 in Afrika und Australien
+Antwort_4   = 0 in Südamerika und Russland
+
+[17]
+FZ1         = 
+FZ2         =  Welches Tier gehört nicht zu den Bremer Stadtmusikanten ?
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 0 Hund
+Antwort_2   = 0 Katze
+Antwort_3   = 1 Maus
+Antwort_4   = 0 Hahn
+
+[18]
+FZ1         = 
+FZ2         =  Wie nennt man eine kleine Pferderasse ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Pferdchen
+Antwort_2   = 0 Traber
+Antwort_3   = 0 Hengst
+Antwort_4   = 1 Pony
+                
+[19]
+FZ1         = 
+FZ2         = Auf welchem Pferd kann man nicht reiten ? 
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 0 Hengst
+Antwort_2   = 0 Schimmel
+Antwort_3   = 0 Rennpferd
+Antwort_4   = 1 Seepferdchen
+                
+[20]
+FZ1         =  
+FZ2         = Gehört die Fledermaus zu den Vögeln ? 
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 ja
+Antwort_2   = 0 Nur wenn sie fliegt.
+Antwort_3   = 0 Das weiß man noch nicht.
+Antwort_4   = 1 nein
+
+[21]
+FZ1         = 
+FZ2         =  Wovon ernähren sich die Geier ?
+FZ3         = 
+Min         = 1000
+Max         = 64000
+Antwort_1   = 0 hauptsächlich von Getreide
+Antwort_2   = 0 hauptsächlich von Blättern
+Antwort_3   = 1 hauptsächlich von Aas
+Antwort_4   = 0 hauptsächlich von Apfelmus
+
+[22]
+FZ1         = 
+FZ2         =  Welches Tier ist kein Nagetier ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Kaninchen
+Antwort_2   = 1 Katze
+Antwort_3   = 0 Maus
+Antwort_4   = 0 Hamster
+
+[23]
+FZ1         =  
+FZ2         =  Welcher Vogel ist ein Zugvogel ?
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 1 Kranich
+Antwort_2   = 0 Kolibri
+Antwort_3   = 0 Sperling
+Antwort_4   = 0 Krabach
+
+[24]
+FZ1         = 
+FZ2         =  Wie wird der Spatz noch genannt ?
+FZ3         = 
+Min         = 200
+Max         = 1000
+Antwort_1   = 0 Hugo
+Antwort_2   = 1 Sperling
+Antwort_3   = 0 Spätzle
+Antwort_4   = 0 Flattermatz
+
+[25]
+FZ1         = 
+FZ2         = Wo leben die Seekühe ? 
+FZ3         = 
+Min         = 16000
+Max         = 500000
+Antwort_1   = 0 im Bodensee
+Antwort_2   = 1 im seichten Gewässer tropischer Meere
+Antwort_3   = 0 in kleinen Seen auf dem Bauernhof
+Antwort_4   = 0 in der Tiefsee
+
+[26]
+FZ1         =  
+FZ2         =  Welches ist das höchste Tier ?
+FZ3         = 
+Min         = 200
+Max         = 1000
+Antwort_1   = 1 Giraffe 
+Antwort_2   = 0 Elefant
+Antwort_3   = 0 Strauß
+Antwort_4   = 0 Känguru
+
+[27]
+FZ1         = 
+FZ2         =  Gibt es noch viele Nashörner ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 ganz bestimmt
+Antwort_2   = 0 natürlich
+Antwort_3   = 1 nein
+Antwort_4   = 0 ja
+
+[28]
+FZ1         = 
+FZ2         = Welche Fuchsart gibt es nicht ? 
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Rotfuchs
+Antwort_2   = 0 Blaufuchs
+Antwort_3   = 0 Graufuchs
+Antwort_4   = 1 Gelbfuchs
+
+[29]
+FZ1         = 
+FZ2         = Zu welcher Tierart gehören die Büffel ?  
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 zu den Antilopen
+Antwort_2   = 1 zu den Rindern
+Antwort_3   = 0 zu den Pferden
+Antwort_4   = 0 zu den Kamelen
+
+[30]
+FZ1         = 
+FZ2         = Was ist ein Rhinozeros ? 
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 ein Raubfisch
+Antwort_2   = 0 ein ausgestorbener Elefant
+Antwort_3   = 1 ein Nashorn
+Antwort_4   = 0 ein kleiner Vogel
+
+[31]
+FZ1         = 
+FZ2         = Wo lebt der Ameisenbär ? 
+FZ3         = 
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 nur noch im Zoo
+Antwort_2   = 0 in Australien
+Antwort_3   = 0 in Nordamerika
+Antwort_4   = 1 in Südamerika
+
+[32]
+FZ1         = 
+FZ2         =  Was nannte man früher eine Bergmannskuh ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 eine fette Sau
+Antwort_2   = 0 ein dickes Schaf
+Antwort_3   = 0 ein Huhn
+Antwort_4   = 1 eine Ziege
+
+[33]
+FZ1         = 
+FZ2         = Wie nennt man die Ohren des Hasen ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Gabeln
+Antwort_2   = 0 Messer
+Antwort_3   = 1 Löffel
+Antwort_4   = 0 Harken
+
+[34]
+FZ1         = 
+FZ2         = Wie nennt man einen weiblichen Hirsch ? 
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 Hirschkuh 
+Antwort_2   = 0 Hirschfrau
+Antwort_3   = 0 Hirschweib
+Antwort_4   = 0 Hirschkalb
+
+[35]
+FZ1         =
+FZ2         =  Wie heißt das männliche Schwein ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Egon
+Antwort_2   = 0 Eberhard
+Antwort_3   = 0 Emil
+Antwort_4   = 1 Eber
+
+[36]
+FZ1         = 
+FZ2         = Wo leben die Zebras ? 
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 nur noch im Zoo
+Antwort_2   = 0 in Asien
+Antwort_3   = 1 in Afrika
+Antwort_4   = 0 in Amerika
+
+[37]
+FZ1         =
+FZ2         =  Wo leben die Giraffen ?
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 1 in Afrika
+Antwort_2   = 0 in Asien
+Antwort_3   = 0 in Amerika
+Antwort_4   = 0 in Australien
+
+[38]
+FZ1         =
+FZ2         =  Wie nennt man das Rufen der Pferde ?
+FZ3         = 
+Min         = 10000
+Max         = 100000
+Antwort_1   = 0 bellen
+Antwort_2   = 0 brüllen
+Antwort_3   = 0 winseln
+Antwort_4   = 1 wiehern
+
+[39]
+FZ1         =
+FZ2         =  Wie nennt man einen Bienenzüchter ?
+FZ3         = 
+Min         = 100
+Max         = 2000
+Antwort_1   = 0 Iltis
+Antwort_2   = 1 Imker
+Antwort_3   = 0 Ingolf
+Antwort_4   = 0 Irrer
+
+[40]
+FZ1         = Wie heißt das Eisenteil, das zu jeder
+FZ2         = Pferdeausrüstung gehört und zugleich ein 
+FZ3         = uraltes Glückssymbol ist ?
+Min         = 2000
+Max         = 100000
+Antwort_1   = 0 Hufnagel
+Antwort_2   = 0 Pferdeeisen
+Antwort_3   = 0 Eisenhuf
+Antwort_4   = 1 Hufeisen
+
+[41]
+FZ1         =
+FZ2         = Welches Produkt der Elefanten ist sehr wertvoll ?
+FZ3         = 
+Min         = 2000
+Max         = 100000
+Antwort_1   = 0 die Haare
+Antwort_2   = 0 die Elefantenhaut
+Antwort_3   = 0 die Ohren
+Antwort_4   = 1 die Stoßzähne
+
+[42]
+FZ1         =
+FZ2         = Welches Tier kann nicht fliegen ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Adler
+Antwort_2   = 0 Amsel
+Antwort_3   = 1 Frosch
+Antwort_4   = 0 Fink
+
+[43]
+FZ1         =
+FZ2         =  Welches Tier kann nicht fliegen ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 1 Hase
+Antwort_2   = 0 Habicht
+Antwort_3   = 0 Hahn
+Antwort_4   = 0 Bussard
+
+[44]
+FZ1         =
+FZ2         =  Welches Tier kann nicht fliegen ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 1 Maus
+Antwort_2   = 0 Fledermaus
+Antwort_3   = 0 Geier
+Antwort_4   = 0 Gans
+
+[45]
+FZ1         =
+FZ2         =  Welches Tier kann nicht fliegen ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 1 Esel
+Antwort_2   = 0 Ente
+Antwort_3   = 0 Storch
+Antwort_4   = 0 Kranich
+
+[46]
+FZ1         =
+FZ2         =  Welches Tier kann nicht fliegen ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Flamingo
+Antwort_2   = 0 Albatros
+Antwort_3   = 1 Eber
+Antwort_4   = 0 Elster
+
+[47]
+FZ1         =
+FZ2         =  Wie heißt der diebische Vogel ?
+FZ3         = 
+Min         = 300
+Max         = 10000
+Antwort_1   = 1 Elster
+Antwort_2   = 0 Meise
+Antwort_3   = 0 Falke
+Antwort_4   = 0 Reiher
+
+[48]
+FZ1         =
+FZ2         =  Fressen Nashörner Fleisch ?
+FZ3         = 
+Min         = 1000
+Max         = 64000
+Antwort_1   = 1 nein
+Antwort_2   = 0 ja
+Antwort_3   = 0 nur im Zoo
+Antwort_4   = 0 nur im Winter
+
+[49]
+FZ1         =
+FZ2         =  Wie wird der Fuchs auch im Märchen und 
+FZ3         =  in Fabeln genannt ?
+Min         = 64000
+Max         = 1000000
+Antwort_1   = 0 Reinhard
+Antwort_2   = 1 Reinike
+Antwort_3   = 0 Meinike
+Antwort_4   = 0 Schlaufuchs
+
+[50]
+FZ1         = 
+FZ2         =  Wie nennt man den Puma auch noch ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Silberlöwe
+Antwort_2   = 0 Goldlöwe
+Antwort_3   = 0 Braunlöwe
+Antwort_4   = 0 Bronzelöwe
+
+[51]
+FZ1         = 
+FZ2         =  Wie heißt das größte, lebende Landtier ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 Giraffe
+Antwort_2   = 1 Elefant
+Antwort_3   = 0 Nashorn
+Antwort_4   = 0 Büffel
+
+[52]
+FZ1         = 
+FZ2         = Legen die Pinguine Eier ? 
+FZ3         = 
+Min         = 500
+Max         = 125000
+Antwort_1   = 1 ja
+Antwort_2   = 0 nein
+Antwort_3   = 0 nur im Zoo
+Antwort_4   = 0 das weiß man nicht
+
+[53]
+FZ1         =
+FZ2         =  Wie heißen die gefährlichen Eckzähne 
+FZ3         =  des männlichen Wildschweines ?
+Min         = 2000
+Max         = 125000
+Antwort_1   = 0 Bauer
+Antwort_2   = 1 Hauer
+Antwort_3   = 0 Reißer
+Antwort_4   = 0 Malmer
+
+[54]
+FZ1         = 
+FZ2         =  Wie leben Wölfe zusammen ?
+FZ3         = 
+Min         = 200
+Max         = 4000
+Antwort_1   = 1 im Rudel
+Antwort_2   = 0 immer zu zweit
+Antwort_3   = 0 nur alleine
+Antwort_4   = 0 genau immer 12
+
+[55]
+FZ1         =
+FZ2         =  Gehören die Schnabeltiere zu den Vögeln ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 ja
+Antwort_2   = 0 das weiß man noch nicht
+Antwort_3   = 0 nur die mit einem spitzen Schnabel
+Antwort_4   = 1 nein
+
+[56]
+FZ1         =
+FZ2         = Wie nennt man eine männliche Biene ? 
+FZ3         = 
+Min         = 5000
+Max         = 10000
+Antwort_1   = 1 Drohne
+Antwort_2   = 0 Bienerich
+Antwort_3   = 0 Willi
+Antwort_4   = 0 Biemä
+
+[57]
+FZ1         =
+FZ2         =  Was fressen Eichhörnchen auch ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 Nüsse
+Antwort_2   = 0 Schokolade
+Antwort_3   = 0 Marmelade
+Antwort_4   = 0 Marzipan
+
+[58]
+FZ1         =
+FZ2         =  Woran kann man das Löwenmännchen erkennen ?
+FZ3         = 
+Min         = 500
+Max         = 16000
+Antwort_1   = 0 an seinen Augen
+Antwort_2   = 1 an seiner Mähne
+Antwort_3   = 0 an seinem Gebrüll
+Antwort_4   = 0 an seiner Farbe
+
+[59]
+FZ1         =
+FZ2         =  Wie heißt die edelste österreichische Pferderasse ?
+FZ3         = 
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1 Lipizzaner
+Antwort_2   = 0 Lilliputaner
+Antwort_3   = 0 Pizzianer
+Antwort_4   = 0 Indianer
+
+[60]
+FZ1         =
+FZ2         =  Was ist ein Barsoi ?
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 1 ein russischer Windhund
+Antwort_2   = 0 ein arabischer Hengst
+Antwort_3   = 0 ein seltener Tiefseefisch
+Antwort_4   = 0 ein Tropenschmetterling
+
+[61]
+FZ1         =
+FZ2         =  Was ist ein Whippet ?
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 0 eine gefährliche Giftschlange
+Antwort_2   = 0 eine kleine Mäuseart
+Antwort_3   = 0 eine dressierte Kaninchenart
+Antwort_4   = 1 eine bekannte Rennhunderasse
+
+[62]
+FZ1         =
+FZ2         =  Was ist ein Greyhound ? 
+FZ3         = 
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1 eine bekannte Rennhunderasse
+Antwort_2   = 0 eine gezüchtete Rassekatze
+Antwort_3   = 0 ein einfarbiger Papagei
+Antwort_4   = 0 ein indischer Wildhund
+
+[63]
+FZ1         =
+FZ2         = Wie heißt die größte Eulenart ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Uhu
+Antwort_2   = 0 Rieseneule
+Antwort_3   = 0 Eulengiganto
+Antwort_4   = 0 Aha
+
+[64]
+FZ1         =
+FZ2         =  Woran kann man den Luchs erkennen ?
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 an seinem Bleistiftschwanz
+Antwort_2   = 0 an seinen Füllerohren
+Antwort_3   = 0 an seinen Pinselbeinen
+Antwort_4   = 1 an seinen Pinselohren
+
+[65]
+FZ1         =
+FZ2         = Behalten die Vögel dieselben Federn ihr ganzes Leben ? 
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 1 nein
+Antwort_2   = 0 das weiß man noch nicht
+Antwort_3   = 0 ja
+Antwort_4   = 0 nur die Männchen
+
+[66]
+FZ1         =
+FZ2         = Können alle Vögel fliegen ? 
+FZ3         = 
+Min         = 200
+Max         = 1000
+Antwort_1   = 1 nein
+Antwort_2   = 0 ja
+Antwort_3   = 0 selbstverständlich
+Antwort_4   = 0 natürlich
+
+[67]
+FZ1         =
+FZ2         = Wie leben die Pinguine zusammen ? 
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 in großen Gruppen
+Antwort_2   = 0 immer zu zweit
+Antwort_3   = 0 nur alleine
+Antwort_4   = 0 immer genau 102
+
+[68]
+FZ1         =
+FZ2         = Wie viele Höcker hat ein Trampeltier ? 
+FZ3         = 
+Min         = 200
+Max         = 2000
+Antwort_1   = 1 2
+Antwort_2   = 0 1
+Antwort_3   = 0 0
+Antwort_4   = 0 3
+
+[69]
+FZ1         =
+FZ2         = Was ist ein Chamäleon ? 
+FZ3         = 
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 ein Insekt
+Antwort_2   = 1 eine Eidechsenart
+Antwort_3   = 0 ein seltener Vogel
+Antwort_4   = 0 eine kleine Schlange
+
+[70]
+FZ1         =
+FZ2         = Was ist ein Walross ? 
+FZ3         = 
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 ein großes Pferd
+Antwort_2   = 0 ein kleiner Fisch
+Antwort_3   = 0 ein bunter Vogel
+Antwort_4   = 1 eine Robbenart
+
+[71]
+FZ1         = 
+FZ2         = Was ist ein Seelöwe ? 
+FZ3         = 
+Min         = 500
+Max         = 8000
+Antwort_1   = 1 eine Robbenart
+Antwort_2   = 0 ein Löwe mit scharfen Augen
+Antwort_3   = 0 ein junger, nasser Löwe
+Antwort_4   = 0 ein Fabeltier
+
+[72]
+FZ1         = 
+FZ2         = Können Hunde besser hören als Menschen ? 
+FZ3         = 
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 nein
+Antwort_2   = 0 Das weiß man noch nicht.
+Antwort_3   = 0 nur bei Nacht
+Antwort_4   = 1 ja
+
+[73]
+FZ1         = 
+FZ2         =  Können Hunde besser riechen als die Menschen ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 ja
+Antwort_2   = 0 nein
+Antwort_3   = 0 nur bei Tag
+Antwort_4   = 0 nur im Winter
+
+[74]
+FZ1         = Wie heißt das größte Säugetier ?
+FZ2         =  
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 Elefant
+Antwort_2   = 0 Dinosaurier
+Antwort_3   = 1 Blauwal
+Antwort_4   = 0 Giraffe
+
+[75]
+FZ1         = 
+FZ2         = Wie schwer kann ein Blauwal werden ? 
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 1 Tonne
+Antwort_2   = 0 10 Tonnen
+Antwort_3   = 0 1000 Tonnen
+Antwort_4   = 1 100 Tonnen
+
+[76]
+FZ1         = 
+FZ2         = Wie lang kann ein Blauwal werden ? 
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 1 ca. 31 Meter
+Antwort_2   = 0 ca. 21 Meter
+Antwort_3   = 0 ca. 51 Meter
+Antwort_4   = 0 ca. 8 Meter
+
+[77]
+FZ1         = 
+FZ2         = Was ist ein Kakadu ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 eine Papageienart
+Antwort_2   = 0 ein kleiner Käfer
+Antwort_3   = 0 ein Fisch in Kanada
+Antwort_4   = 0 ein männliches Kaninchen
+
+[78]
+FZ1         =
+FZ2         = Welches ist das älteste Haustier ? 
+FZ3         = 
+Min         = 2000
+Max         = 125000
+Antwort_1   = 0 Katze
+Antwort_2   = 0 Pferd
+Antwort_3   = 0 Esel
+Antwort_4   = 1 Hund
+
+[79]
+FZ1         =
+FZ2         = Wie heißt das männliche Schaf ? 
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Bockschaf
+Antwort_2   = 1 Widder
+Antwort_3   = 0 Wilder
+Antwort_4   = 0 Mähschaf
+
+[80]
+FZ1         =
+FZ2         = Wie heißt die Schafrasse der Lüneburger Heide ? 
+FZ3         = 
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1 Heidschnucke
+Antwort_2   = 0 Schnuckelschaf
+Antwort_3   = 0 Heideschaf
+Antwort_4   = 0 Lünischaf
+
+[81]
+FZ1         = 
+FZ2         = Wer gehört nicht zu den Ohrenrobben ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Berglöwe
+Antwort_2   = 0 Seelöwe
+Antwort_3   = 0 Seebär
+Antwort_4   = 0 Mähnenrobbe
+
+[82]
+FZ1         = 
+FZ2         = Wer gehört nicht zu den Ohrenrobben ? 
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Eisbär
+Antwort_2   = 0 Seebär
+Antwort_3   = 0 Seelöwe
+Antwort_4   = 0 Mähnenrobbe
+
+[83]
+FZ1         = 
+FZ2         = Wer gehört nicht zu den Ohrenrobben ? 
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Mähnenwolf
+Antwort_2   = 0 Mähnenrobbe
+Antwort_3   = 0 Seelöwe
+Antwort_4   = 0 Seebär
+
+[84]
+FZ1         = 
+FZ2         =  Was ist kein Wal ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Glaswal
+Antwort_2   = 0 Pottwal
+Antwort_3   = 0 Finnwal
+Antwort_4   = 0 Blauwal
+
+[85]
+FZ1         = 
+FZ2         = Was ist kein Wal ? 
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Degenwal
+Antwort_2   = 0 Schwertwal
+Antwort_3   = 0 Narwal
+Antwort_4   = 0 Grönlandwal
+
+[86]
+FZ1         = 
+FZ2         = Wie heißt die kleinste Haushunderasse der Welt ? 
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 1 Chihuahua
+Antwort_2   = 0 Fliwaowao
+Antwort_3   = 0 Stimeumeu
+Antwort_4   = 0 Griteoteo
+
+[87]
+FZ1         = 
+FZ2         =  Was ist ein Chihuahua ?
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 1 die kleinste Haushunderasse der Welt
+Antwort_2   = 0 die dickste Schnecke der Welt
+Antwort_3   = 0 der längste Wurm der Welt
+Antwort_4   = 0 der größte Schmetterling der Welt
+
+[88]
+FZ1         = 
+FZ2         =  Wie wird die Honigbiene auch genannt ?
+FZ3         = 
+Min         = 500000
+Max         = 500000
+Antwort_1   = 1 Imme
+Antwort_2   = 0 Amme
+Antwort_3   = 0 Umme
+Antwort_4   = 0 Omme
+
+[89]
+FZ1         = 
+FZ2         =  Was ist eine Imme ?
+FZ3         = 
+Min         = 500000
+Max         = 500000
+Antwort_1   = 1 eine Honigbiene
+Antwort_2   = 0 eine Wespenart
+Antwort_3   = 0 eine Hummellarve
+Antwort_4   = 0 eine Mückenlarve
+
+[90]
+FZ1         = 
+FZ2         = Was ist ein Alpaka ? 
+FZ3         = 
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1 eine Lamaart
+Antwort_2   = 0 eine Hirschart
+Antwort_3   = 0 eine Pferdeart
+Antwort_4   = 0 eine Rinderart
+
+[91]
+FZ1         = 
+FZ2         = Was sind Daunen ? 
+FZ3         = 
+Min         = 64000
+Max         = 64000
+Antwort_1   = 1 Flaumfedern der Vögel
+Antwort_2   = 0 Schwanzfedern der Vögel
+Antwort_3   = 0 Bauchfedern der Vögel
+Antwort_4   = 0 Kopffedern der Vögel
+
+[92]
+FZ1         = 
+FZ2         =  Wie nennt man die Flaumfedern der Vögel ?
+FZ3         = 
+Min         = 64000
+Max         = 64000
+Antwort_1   = 1 Daunen
+Antwort_2   = 0 Daumen
+Antwort_3   = 0 Flaumen
+Antwort_4   = 0 Flausen
+
+[93]
+FZ1         = 
+FZ2         =  Wie werden die Seekühe auch noch genannt ?
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 1 Sirenen
+Antwort_2   = 0 Hyänen
+Antwort_3   = 0 Elenen
+Antwort_4   = 0 Seemären
+
+[94]
+FZ1         = 
+FZ2         = Was sind Sirenen ? 
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 1 Seekühe
+Antwort_2   = 0 Seelöwen
+Antwort_3   = 0 Seebären
+Antwort_4   = 0 See-Elefanten
+
+[95]
+FZ1         =  
+FZ2         = Welcher Sinn ist beim Hund am stärksten ausgebildet ? 
+FZ3         =  
+Min         = 1000
+Max         = 32000
+Antwort_1   = 1 Geruchssinn
+Antwort_2   = 0 Hörsinn
+Antwort_3   = 0 Tastsinn
+Antwort_4   = 0 Sehsinn
+
+[96]
+FZ1         = 
+FZ2         =  Wozu dient Kamelmist ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 als Brennmaterial
+Antwort_2   = 0 als Baumaterial
+Antwort_3   = 0 als Spielmaterial
+Antwort_4   = 0 als Sportgerät
+
+[97]
+FZ1         = 
+FZ2         =  Wie wird der schwarze Leopard auch genannt ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Panter
+Antwort_2   = 0 Schwarleo
+Antwort_3   = 0 Gepard
+Antwort_4   = 0 Puma
+
+[98]
+FZ1         = 
+FZ2         = Wo leben die Hyänen ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Afrika und Asien
+Antwort_2   = 0 Asien und Amerika
+Antwort_3   = 0 Afrika und Amerika
+Antwort_4   = 0 Australien und Europa
+
+[99]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 100
+Max         = 500
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[100]
+FZ1         =  
+FZ2         =  Welches dieser Tiere ist vom Aussterben bedroht ? 
+FZ3         =  
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Nashorn
+Antwort_2   = 0 Hund
+Antwort_3   = 0 Maus
+Antwort_4   = 0 Kaninchen
+
+
+[101]
+FZ1         =
+FZ2         = Welches Nahrungsmittel wird von Insekten hergestellt ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Milch
+Antwort_2   = 0 Käse 
+Antwort_3   = 1 Honig
+Antwort_4   = 0 Marmelade
+
+[102]
+FZ1         =
+FZ2         = Welche Tiere haben Kiemen ? 
+FZ3         = 
+Min         = 16000
+Max         = 16000
+Antwort_1   = 1 Fische
+Antwort_2   = 0 Vögel 
+Antwort_3   = 0 Schlangen
+Antwort_4   = 0 Insekten
+
+[103]
+FZ1         =
+FZ2         = Womit atmen die Fische ? 
+FZ3         = 
+Min         = 16000
+Max         = 16000
+Antwort_1   = 1 Kiemen 
+Antwort_2   = 0 Kehlen
+Antwort_3   = 0 Lungen
+Antwort_4   = 0 Flossen
+
+[104]
+FZ1         =
+FZ2         = Welches Tier ist ein Beuteltier ? 
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Känguru
+Antwort_2   = 0 Hausmaus
+Antwort_3   = 0 Biber
+Antwort_4   = 0 Gazelle
+
+[105]
+FZ1         =
+FZ2         = Ferkel, Sau und Eber sind ... 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Hunde
+Antwort_2   = 0 Katzen
+Antwort_3   = 1 Schweine
+Antwort_4   = 0 Hasen
+
+[106]
+FZ1         =
+FZ2         = Wie viele Beine hat eine Möwe ? 
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 1 2 
+Antwort_2   = 0 4
+Antwort_3   = 0 6
+Antwort_4   = 0 8
+
+[107]
+FZ1         =
+FZ2         =  Wie viele Beine hat eine Antilope ? 
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 4
+Antwort_2   = 0 2
+Antwort_3   = 0 6
+Antwort_4   = 0 8
+
+[108]
+FZ1         =
+FZ2         =  Wie viele Beine hat eine Gazelle ? 
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 2
+Antwort_2   = 1 4
+Antwort_3   = 0 6
+Antwort_4   = 0 8
+
+[109]
+FZ1         = 
+FZ2         = Wie viele Beine hat ein Albatros ?  
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 2
+Antwort_2   = 0 4
+Antwort_3   = 0 6
+Antwort_4   = 0 8
+
+[110]
+FZ1         = 
+FZ2         = Wie viele Beine hat eine Jaguar ? 
+FZ3         = 
+Min         = 1000
+Max         = 2000
+Antwort_1   = 0 2
+Antwort_2   = 1 4
+Antwort_3   = 0 6
+Antwort_4   = 0 8
+
+[111]
+FZ1         = 
+FZ2         = Wie viele Beine hat ein Maikäfer ?  
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 6
+Antwort_2   = 0 8
+Antwort_3   = 0 2
+Antwort_4   = 0 4
+
+[112]
+FZ1         =
+FZ2         = Wie viele Beine hat eine Ameise ?  
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 4
+Antwort_2   = 1 6 
+Antwort_3   = 0 8
+Antwort_4   = 0 2
+
+[113]
+FZ1         = 
+FZ2         = Welche Tiere können in einem Aquarium   
+FZ3         = gehalten werden ?
+Min         = 0
+Max         = 500
+Antwort_1   = 1 Fische
+Antwort_2   = 0 Vögel
+Antwort_3   = 0 Schweine
+Antwort_4   = 0 Schmetterlinge
+
+[114]
+FZ1         =
+FZ2         = Welches Tier hält einen Winterschlaf ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Reh
+Antwort_2   = 0 Maus
+Antwort_3   = 0 Gans
+Antwort_4   = 1 Igel
+
+[115]
+FZ1         =
+FZ2         =  Welches Tier hält einen Winterschlaf ? 
+FZ3         = 
+Min         = 1000
+Max         = 2000
+Antwort_1   = 1 Siebenschläfer
+Antwort_2   = 0 Kamel
+Antwort_3   = 0 Hamster
+Antwort_4   = 0 Wellensittich
+
+[116]
+FZ1         =
+FZ2         = Welches Tier ist ein Wiederkäuer ? 
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 Rind
+Antwort_2   = 0 Gorilla
+Antwort_3   = 0 Wiesel
+Antwort_4   = 0 Hausmaus
+
+[117]
+FZ1         =
+FZ2         =  Welche teure Textilfaser wird
+FZ3         =  von einer Schmetterlingsraupe gemacht ?
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 Wolle
+Antwort_2   = 1 Seide
+Antwort_3   = 0 Leinen
+Antwort_4   = 0 Kord
+
+[118]
+FZ1         =
+FZ2         =  Schlangen, Schildkröten und Krokodile sind ...
+FZ3         = 
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1 Kriechtiere
+Antwort_2   = 0 Säugetiere
+Antwort_3   = 0 Insekten
+Antwort_4   = 0 Vögel
+
+[119]
+FZ1         =
+FZ2         =  Welches Tier ist kein Greifvogel ?
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 1 Amsel
+Antwort_2   = 0 Adler
+Antwort_3   = 0 Falke
+Antwort_4   = 0 Habicht
+
+[120]
+FZ1         =
+FZ2         =  Welches Tier ist kein Greifvogel ?
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 0 Bussard
+Antwort_2   = 0 Falke
+Antwort_3   = 0 Habicht
+Antwort_4   = 1 Meise
+
+[121]
+FZ1         =
+FZ2         = Wie nennt man die Vögel, die den Winter
+FZ3         = in wärmeren Ländern verbringen ?
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 Zugvögel
+Antwort_2   = 0 Wintervögel
+Antwort_3   = 0 Reisevögel
+Antwort_4   = 0 Wandervögel
+
+[122]
+FZ1         =
+FZ2         =  Welche Vögel fliegen in der Nacht ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 Eulen
+Antwort_2   = 0 Meisen
+Antwort_3   = 0 Spatzen
+Antwort_4   = 0 Elstern
+
+[123]
+FZ1         =
+FZ2         =  Welcher Vogel jagt in der Nacht ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 Rotkehlchen
+Antwort_2   = 0 Grünfink
+Antwort_3   = 0 Oha
+Antwort_4   = 1 Uhu
+
+[124]
+FZ1         =
+FZ2         = Welches Säugetier lebt nur im Wasser  ?
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 1 Wal
+Antwort_2   = 0 Hai
+Antwort_3   = 0 Kormoran
+Antwort_4   = 0 Biber
+
+[125]
+FZ1         =
+FZ2         =  Welches Säugetier frisst nur Pflanzen ?
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 Rind
+Antwort_2   = 0 Tiger
+Antwort_3   = 0 Wolf
+Antwort_4   = 0 Eisbär
+
+[126]
+FZ1         =
+FZ2         = Welches Säugetier frisst nur Pflanzen ? 
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 Nashorn
+Antwort_2   = 0 Löwe
+Antwort_3   = 0 Fuchs
+Antwort_4   = 0 Maulwurf
+
+[127]
+FZ1         =
+FZ2         = Wie heißen die Insekten, wo so viele Tiere zusammenleben, 
+FZ3         = dass man ihren Haufen einen Staat nennt ?
+Min         = 200
+Max         = 2000
+Antwort_1   = 1 Ameisen
+Antwort_2   = 0 Maikäfer
+Antwort_3   = 0 Pferdefliegen
+Antwort_4   = 0 Mücken
+
+[128]
+FZ1         =
+FZ2         =  Welches Tier ist ein Huftier ?
+FZ3         = 
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 Eichhörnchen
+Antwort_2   = 1 Rind
+Antwort_3   = 0 Salamander
+Antwort_4   = 0 Hauskaninchen
+
+[129]
+FZ1         =
+FZ2         =   Welches Tier ist ein Huftier ?
+FZ3         = 
+Min         = 1000
+Max         = 640000
+Antwort_1   = 0 Maulwurf
+Antwort_2   = 0 Grille
+Antwort_3   = 0 Hamster
+Antwort_4   = 1 Pferd
+
+[130]
+FZ1         = 
+FZ2         =   Welches Tier ist ein Huftier ?
+FZ3         = 
+Min         = 2000
+Max         = 64000
+Antwort_1   = 1 Esel
+Antwort_2   = 0 Ente
+Antwort_3   = 0 Elster
+Antwort_4   = 0 Forelle
+
+[131]
+FZ1         = 
+FZ2         =  Welches Tier ist ein Menschenaffe ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Rhesusaffe
+Antwort_2   = 0 Giraffe
+Antwort_3   = 0 Pavian
+Antwort_4   = 1 Schimpanse
+
+[132]
+FZ1         = 
+FZ2         =  Welches Tier ist  k e i n  Menschenaffe ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Pavian
+Antwort_2   = 0 Schimpanse
+Antwort_3   = 0 Gorilla
+Antwort_4   = 0 Orang - Utan
+
+[133]
+FZ1         = 
+FZ2         =  Welches Tier ist eine Raubkatze ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Hyäne
+Antwort_2   = 0 Wolf
+Antwort_3   = 1 Löwe
+Antwort_4   = 0 Schakal
+
+[134]
+FZ1         = 
+FZ2         =  Welches Tier gibt es nur in Afrika ?
+FZ3         = 
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 Tiger
+Antwort_2   = 0 Elefant
+Antwort_3   = 0 Pinguin
+Antwort_4   = 1 Giraffe
+
+[135]
+FZ1         = 
+FZ2         = Welches Tier legt  k e i n e  Eier ?
+FZ3         = 
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1 Seehund
+Antwort_2   = 0 Flamingo
+Antwort_3   = 0 Pelikan
+Antwort_4   = 0 Albatros
+
+[136]
+FZ1         = 
+FZ2         =  Welches Tier legt  k e i n e  Eier ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Mungo
+Antwort_2   = 0 Kormoran
+Antwort_3   = 0 Trottellumme
+Antwort_4   = 0 Wiedehopf
+
+[137]
+FZ1         =
+FZ2         =  Was ist eine Trottellumme ?
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 0 ein kleines Huhn 
+Antwort_2   = 0 ein dummer Käfer
+Antwort_3   = 0 ein braunes Schaf
+Antwort_4   = 1 ein Hochseevogel
+
+[138]
+FZ1         =
+FZ2         =  Welches Tier kann man auch in der Wohnung halten ?
+FZ3         = 
+Min         = 500
+Max         =16000
+Antwort_1   = 0 Giraffe
+Antwort_2   = 1 Meerschweinchen
+Antwort_3   = 0 Seehund
+Antwort_4   = 0 Stinktier
+
+[80]
+FZ1         =
+FZ2         =  
+FZ3         = 
+Min         = 64000
+Max         = 1000000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[81]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[82]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 100
+Max         = 200
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[83]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[84]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[85]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 100
+Max         = 2000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[86]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 100
+Max         = 300
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[87]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 2000
+Max         = 4000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[88]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 250000
+Max         = 500000
+Antwort_1   = 1  
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[89]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 64000
+Max         = 250000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[90]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0  
+Antwort_4   = 0 
+
+[91]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 500
+Max         = 1000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[92]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 16000
+Max         = 32000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[93]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 100
+Max         = 300
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[94]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[95]
+FZ1         =  
+FZ2         =  
+FZ3         =  
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[96]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[97]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 100
+Max         = 4000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[98]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[99]
+FZ1         = 
+FZ2         =  
+FZ3         = 
+Min         = 100
+Max         = 500
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+[100]
+FZ1         =  
+FZ2         =   
+FZ3         =  
+Min         = 500000
+Max         = 1000000
+Antwort_1   = 1 
+Antwort_2   = 0 
+Antwort_3   = 0 
+Antwort_4   = 0 
+
+

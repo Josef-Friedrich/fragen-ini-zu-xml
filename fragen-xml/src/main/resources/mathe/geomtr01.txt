@@ -1,0 +1,1028 @@
+[Thema]
+Thema=Mathematik, Geometrie
+Fragen=93
+Autor=A. Bergkemper, 29/5/2001
+
+[1]
+FZ1=
+FZ2=Thema Kreis
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+
+[2]
+FZ1=
+FZ2=Wenn man den Radius eines Kreises mit 2 multipliziert, erhält man
+FZ3=
+Min=0
+Max=0
+Antwort_1=1den Durchmesser
+Antwort_2=0den Umfang
+Antwort_3=0die Fläche
+Antwort_4=0die Diagonale
+
+[3]
+FZ1=
+FZ2=Dividiert man den Umfang eines Kreises durch die Zahl Pi, erhält man
+FZ3=
+Min=300
+Max=300
+Antwort_1=1den Durchmesser
+Antwort_2=0den Radius
+Antwort_3=0die Fläche
+Antwort_4=0die Sekante
+
+[4]
+FZ1=Wenn man eine Kugel mit einer Ebene schräg durchschneidet,
+FZ2=erhält man als Schnittfläche
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1einen Kreis
+Antwort_2=0eine Ellipse
+Antwort_3=0ein Quadrat
+Antwort_4=0einen Kolloid
+
+[5]
+FZ1=Wie nennt man die Figur, die eine an einen Pflock auf einer Wiese
+FZ2=angebundene Ziege nach einigen Tagen »abgegrast« hat.
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Kreis
+Antwort_2=0Dreieck
+Antwort_3=0Quadrat
+Antwort_4=0Ziegenviereck
+
+[6]
+FZ1=
+FZ2=Wird der Radius einer Kugel verdoppelt, wird ihre Oberfläche
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1vervierfacht
+Antwort_2=0versechsfacht
+Antwort_3=0verdoppelt
+Antwort_4=0verachtfacht
+
+[7]
+FZ1=
+FZ2=Wieviele Schnittpunkte hat eine Gerade höchstens mit einem Kreis?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1zwei
+Antwort_2=0einen
+Antwort_3=0drei
+Antwort_4=0vier
+
+[8]
+FZ1=Wieviel mal größer ist die Oberfläche einer Kugel als die Fläche
+FZ2=eines Kreises mit dem gleichen Durchmesser?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=0doppelt so groß
+Antwort_2=1viermal so groß
+Antwort_3=0dreimal so groß
+Antwort_4=0Pi-mal so groß
+
+[9]
+FZ1=
+FZ2=Halbiert man den Radius einer Kugel, schrumpft ihr Volumen auf
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=0die Hältfte
+Antwort_2=0ein Sechzehntel
+Antwort_3=0ein Viertel
+Antwort_4=1ein Achtel
+
+[10]
+FZ1=
+FZ2=Verdreifacht man den Durchmesser eines Kreises, wird seine Fläche
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=19mal so groß
+Antwort_2=03mal so groß
+Antwort_3=06mal so groß
+Antwort_4=012mal so groß
+
+[11]
+FZ1=Der Mittelpunkt eines Kreises hat von jedem Punkt der Kreislinie aus
+FZ2=den gleichen Abstand.
+FZ3=
+Min=100
+Max=100
+Antwort_1=0stimmt nicht
+Antwort_2=0stimmt für einige Punkte
+Antwort_3=1stimmt
+Antwort_4=0stimmt bei kleinen Kreisen
+
+[12]
+FZ1=Wenn sich zwei Kreise schneiden, bildet die Verbindungslinie
+FZ2=der Schnittpunkte mit der Verbindungslinie der Mittelpunkte
+FZ3=einen Winkel von
+Min=32000
+Max=32000
+Antwort_1=060°
+Antwort_2=190°
+Antwort_3=0120°
+Antwort_4=0180°
+
+[13]
+FZ1=
+FZ2=Zwei Kreise, die überall den gleichen Abstand haben, sind
+FZ3=
+Min=300
+Max=300
+Antwort_1=0kommunistisch
+Antwort_2=0kongenial
+Antwort_3=1konzentrisch
+Antwort_4=0kongruent
+
+[14]
+FZ1=
+FZ2=Halbiert man den Durchmesser eines Kreises, erhält man
+FZ3=
+Min=200
+Max=200
+Antwort_1=0die Diagonale
+Antwort_2=0Mittelsekante
+Antwort_3=1den Radius
+Antwort_4=0ein Viertel des Umfangs
+
+[15]
+FZ1=
+FZ2=Die Mittelsenkrechten zweier beliebiger Sekanten
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0schneiden sich.
+Antwort_2=0schneiden sich außerhalb des Kreises.
+Antwort_3=0schneiden sich nicht.
+Antwort_4=1schneiden sich im Mittelpunkt.
+
+[16]
+FZ1=
+FZ2=Thema Winkel
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+
+[17]
+FZ1=
+FZ2=Welcher dieser Winkel ist stumpf?
+FZ3=
+Min=100
+Max=100
+Antwort_1=191°
+Antwort_2=089°
+Antwort_3=088°
+Antwort_4=090°
+
+[18]
+FZ1=
+FZ2=Welcher dieser Winkel ist spitz?
+FZ3=
+Min=0
+Max=0
+Antwort_1=189°
+Antwort_2=090°
+Antwort_3=091°
+Antwort_4=092°
+
+[19]
+FZ1=
+FZ2=Welcher dieser Winkel ist nicht überstumpf?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0190°
+Antwort_2=0210°
+Antwort_3=1170°
+Antwort_4=0250°
+
+[20]
+FZ1=
+FZ2=Welcher dieser Winkel ist überstumpf?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1190°
+Antwort_2=0150°
+Antwort_3=0180°
+Antwort_4=0120°
+
+[21]
+FZ1=Wenn zwei parallele Geraden von einer dritten Gerade geschnitten
+FZ2=werden, sind einige der dabei entstehenden Winkel gleich groß.
+FZ3=Für welche Winkel trifft das zu?
+Min=4000
+Max=4000
+Antwort_1=0Nachbarwinkel
+Antwort_2=0Wechselwinkel
+Antwort_3=1Stufenwinkel
+Antwort_4=0Mittelpunktswinkel
+
+[22]
+FZ1=
+FZ2=Bei einem rechtwinkligen Dreieck ist die längste Seite
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0die Höhe
+Antwort_2=1die Hypotenuse
+Antwort_3=0die längere Kathete
+Antwort_4=0die Diagonale
+
+[23]
+FZ1=
+FZ2=Der größte Winkel in einem gleichseitigen Dreieck ist
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=160°
+Antwort_2=070°
+Antwort_3=080°
+Antwort_4=090°
+
+[24]
+FZ1=
+FZ2=Der kleinste Winkel in einem gleichseitigen Dreieck ist
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=160°
+Antwort_2=070°
+Antwort_3=045°
+Antwort_4=050°
+
+[25]
+FZ1=
+FZ2=Der größte Winkel in einem rechtwinkligen Dreieck ist
+FZ3=
+Min=300
+Max=300
+Antwort_1=190°
+Antwort_2=070°
+Antwort_3=080°
+Antwort_4=060°
+
+[26]
+FZ1=
+FZ2=Die Winkelsumme in einem gleichschenkligen Dreieck beträgt
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0120°
+Antwort_2=1180°
+Antwort_3=0140°
+Antwort_4=0160°
+
+[27]
+FZ1=
+FZ2=Die Winkelsumme in einem rechtwinkligen Dreieck beträgt
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0120°
+Antwort_2=1180°
+Antwort_3=0140°
+Antwort_4=0160°
+
+[28]
+FZ1=Der kleinste Winkel in einem rechtwinklig-gleichschenkligen
+FZ2=Dreieck ist wie groß?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=145°
+Antwort_2=030°
+Antwort_3=075°
+Antwort_4=090°
+
+[29]
+FZ1=Der größte Winkel in einem rechtwinklig-gleichschenkligen
+FZ2=Dreieck ist wie groß?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=190°
+Antwort_2=045°
+Antwort_3=075°
+Antwort_4=060°
+
+[30]
+FZ1=Wieviel mal größer als das Volumen einer quadratischen
+FZ2=Pyramide ist das Volumen eines gleich hohen Prismas?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1dreimal so groß
+Antwort_2=0doppelt so groß
+Antwort_3=0viermal so groß
+Antwort_4=0zweieinhalb mal so groß
+
+[31]
+FZ1=Der Mittelpunkt des Inkreises bei einem Dreieck liegt
+FZ2=auf dem Schnittpunkt der
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Winkelhalbierenden
+Antwort_2=0Mittelsenkrechten
+Antwort_3=0Höhen
+Antwort_4=0Diagonalen
+
+[32]
+FZ1=Der Mittelpunkt des Umkreises bei einem Dreieck liegt
+FZ2=auf dem Schnittpunkt der
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Mittelsenkrechten
+Antwort_2=0Winkelhalbierenden
+Antwort_3=0Höhen
+Antwort_4=0Diagonalen
+
+[33]
+FZ1=Wenn man einen beliebigen Punkt einer Kreislinie, der nicht auf dem Durchmesser
+FZ2=liegt,  mit den Endpunkten des Kreisduchmessers verbindet, erhält man ein
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0stumpfwinkliges Dreieck
+Antwort_2=1rechtwinkliges Dreieck
+Antwort_3=0gleichseitiges Dreieck
+Antwort_4=0gleichschenkliges Dreieck
+
+[34]
+FZ1=
+FZ2=Wenn man einen Kegelmantel flach ausbreitet, erhält man
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0ein Rechteck
+Antwort_2=1ein Kreissegment
+Antwort_3=0ein Dreieck
+Antwort_4=0einen Kreis
+
+[35]
+FZ1=Wenn man jeden Punkt einer Kreislinie mit einem Punkt verbindet,
+FZ2=der senkrecht über dem Kreismittelpunkt liegt, erhält man
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0eine Pyramide
+Antwort_2=0eine Kugel
+Antwort_3=1einen Kegel
+Antwort_4=0einen Würfel
+
+[36]
+FZ1=Wie oft passt der Inhalt eines Kegels in einen gleich hohen und
+FZ2=gleich »dicken« Zylinder?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1dreimal
+Antwort_2=0zweimal
+Antwort_3=0viermal
+Antwort_4=0Pi-mal
+
+[37]
+FZ1=
+FZ2=Wieviele Flächen hat ein Zylinder?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1drei
+Antwort_2=0zwei
+Antwort_3=0vier
+Antwort_4=0fünf
+
+[38]
+FZ1=
+FZ2=Wieviele Flächen hat ein Kegelstumpf?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1drei
+Antwort_2=0vier
+Antwort_3=0zwei
+Antwort_4=0fünf
+
+[39]
+FZ1=
+FZ2=Begriffe
+FZ3=
+Min=1000000
+Max=500000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[40]
+FZ1=
+FZ2=Welches Fremdwort benutzt man auch für den Begriff »waagerecht«
+FZ3=
+Min=500
+Max=500
+Antwort_1=0vertikal
+Antwort_2=0diagonal
+Antwort_3=1horizontal
+Antwort_4=0tangential
+
+[41]
+FZ1=
+FZ2=Welcher dieser Begriffe bezeichnet einen Würfel?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Ikosaeder
+Antwort_2=0Oktaeder
+Antwort_3=0Tetraeder
+Antwort_4=1Hexaeder
+
+[42]
+FZ1=
+FZ2=Welches ist kein platonischer Körper?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0Oktaeder
+Antwort_2=0Tetraeder
+Antwort_3=0Würfel
+Antwort_4=1Quader
+
+[43]
+FZ1=
+FZ2=Ein dünnes Seil mit einem Gewicht daran hängt
+FZ3=
+Min=300
+Max=300
+Antwort_1=1lotrecht
+Antwort_2=0waagerecht
+Antwort_3=0senkrecht
+Antwort_4=0diagonal
+
+[44]
+FZ1=Wenn man in einem Rechteck zwei nicht benachbarte Ecken durch
+FZ2=eine Gerade verbindet, erhält man
+FZ3=
+Min=500
+Max=500
+Antwort_1=1die Diagonale
+Antwort_2=0die Höhe
+Antwort_3=0den Durchmesser
+Antwort_4=0die Sekante
+
+[45]
+FZ1=
+FZ2=Eine Gerade, die einen Kreis in einem Punkt berührt, heißt
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Tangente
+Antwort_2=0Sekante
+Antwort_3=0Diagonale
+Antwort_4=0Horizontale
+
+[46]
+FZ1=
+FZ2=Die kürzeste Verbindung zwischen zwei Punkten ist
+FZ3=
+Min=200
+Max=200
+Antwort_1=1die Gerade
+Antwort_2=0die Diagonale
+Antwort_3=0die Tangente
+Antwort_4=0die Sekante
+
+[47]
+FZ1=Zwei Geraden, die an vier verschiedenen Stellen den gleichen
+FZ2=Abstand haben, nennt man
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Parallelen
+Antwort_2=0Quadrat
+Antwort_3=0Senkrechte
+Antwort_4=0Diagonalen
+
+[48]
+FZ1=
+FZ2=Wie definiert im rechtwinkligen Dreieck man den Sinus eines Winkels?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Gegenkathete durch Hypotenuse
+Antwort_2=0Ankathete durch Hypotenuse
+Antwort_3=0Gegenkathete durch Ankathete
+Antwort_4=0Ankathete durch Gegenkathete
+
+[49]
+FZ1=Wie nennt man einen Körper, dessen Oberfläche aus einem Rechteck
+FZ2=und zwei gleich großen parallelen Kreisen besteht?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Zylinder
+Antwort_2=0Kegel
+Antwort_3=0Kegelstumpf
+Antwort_4=0Kegelrumpf
+
+[50]
+FZ1=Nach wem benennt man den Lehrsatz, dass die Summe der Quadrate
+FZ2=über den Katheten eines rechtwinkligen Dreiecks gleich
+FZ3=dem Quadrat über der Hypotenuse ist?
+Min=8000
+Max=8000
+Antwort_1=0Thales von Milet
+Antwort_2=0Diogenes
+Antwort_3=1Pythagoras
+Antwort_4=0Sokrates
+
+[51]
+FZ1=Welcher Teil des Volumens geht verloren, wenn man von einem
+FZ2=Kreiskegel genau das obere Drittel abschneidet ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0ein Drittel
+Antwort_2=0ein Neuntel
+Antwort_3=0ein 81stel
+Antwort_4=1ein 27stel
+
+[52]
+FZ1=
+FZ2=Welches »Paar« in dieser Gruppe ist anders ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Dreieck - Dreieckspyramide
+Antwort_2=0Rechteck - Quader
+Antwort_3=0Fünfeck - Fünfeckprisma
+Antwort_4=0Kreis - Zylinder
+
+[53]
+FZ1=
+FZ2=Wieviele Seiten hat ein Würfel?
+FZ3=
+Min=100
+Max=100
+Antwort_1=0vier
+Antwort_2=0acht
+Antwort_3=1sechs
+Antwort_4=0zehn
+
+[54]
+FZ1=
+FZ2=Wieviele Kanten hat ein Würfel?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0sechs
+Antwort_2=0acht
+Antwort_3=0zehn
+Antwort_4=1zwölf
+
+[55]
+FZ1=
+FZ2=Wenn man die Kantenlänge eines Würfels verdoppelt, wird sein Volumen
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0vervierfacht
+Antwort_2=0versechsfacht
+Antwort_3=0verdoppelt
+Antwort_4=1verachtfacht
+
+[56]
+FZ1=Wieviel mal größer ist die Oberfläche eines Würfels als die
+FZ2=Fläche eines Quadrats mit der gleichen Seitenlänge?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1sechsmal so groß
+Antwort_2=0viermal so groß
+Antwort_3=0dreimal so groß
+Antwort_4=0doppelt so groß
+
+[57]
+FZ1=Wie nennt man einen Körper, der von zwei parallelen deckungsgleichen
+FZ2=Vielecken und Parallelogrammen als Seitenflächen begrenzt wird?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Prisma
+Antwort_2=0Oktaeder
+Antwort_3=0Ikosaeder
+Antwort_4=0Dodekaeder
+
+[58]
+FZ1=Unter welchem Winkel treffen sich je zwei Kanten eines Würfels
+FZ2=in einer Ecke?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=190°
+Antwort_2=060°
+Antwort_3=080°
+Antwort_4=0120°
+
+[59]
+FZ1=
+FZ2=Wieviele Kanten treffen in der Ecke eines Würfels aufeinander?
+FZ3=
+Min=100
+Max=100
+Antwort_1=0zwei
+Antwort_2=0vier
+Antwort_3=1drei
+Antwort_4=0sechs
+
+[60]
+FZ1=Wenn man die Kantenlänge eines Würfels verdoppelt, wird
+FZ2=seine Oberfläche
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1vervierfacht
+Antwort_2=0versechsfacht
+Antwort_3=0verdoppelt
+Antwort_4=0verachtfacht
+
+[61]
+FZ1=
+FZ2=Wieviele Seiten hat ein Quader?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0fünf
+Antwort_2=0acht
+Antwort_3=0vier
+Antwort_4=1sechs
+
+[62]
+FZ1=
+FZ2=Wieviele Kanten hat ein Quader?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=112
+Antwort_2=010
+Antwort_3=08
+Antwort_4=016
+
+[63]
+FZ1=
+FZ2=Wieviele Seiten hat ein Dreiecksprisma?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0vier
+Antwort_2=1fünf
+Antwort_3=0drei
+Antwort_4=0sechs
+
+[64]
+FZ1=Welcher dieser gleich hohen und gleich »dicken« Körper hat das
+FZ2=größte Volumen?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Würfel
+Antwort_2=0Zylinder
+Antwort_3=0Pyramide
+Antwort_4=0Kegel
+
+[65]
+FZ1=Unter welchem Winkel treffen sich je zwei Kanten eines regelmäßigen
+FZ2=Tetraeders in einer Ecke?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=160°
+Antwort_2=090°
+Antwort_3=080°
+Antwort_4=0120°
+
+[66]
+FZ1=
+FZ2=Wieviele Seiten hat eine quadratische Pyramide?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0vier
+Antwort_2=0sechs
+Antwort_3=0sieben
+Antwort_4=1fünf
+
+[67]
+FZ1=
+FZ2=Wieviele Kanten treffen sich in der Spitze einer Dreieckspyramide?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0vier
+Antwort_2=0fünf
+Antwort_3=1drei
+Antwort_4=0sechs
+
+[68]
+FZ1=
+FZ2=Wieviele Kanten treffen in der Ecke eines Tetraeders aufeinander?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0zwei
+Antwort_2=0vier
+Antwort_3=1drei
+Antwort_4=0sechs
+
+[69]
+FZ1=
+FZ2=Für welchen dieser Körper gilt nicht: »Volumen = Grundfläche mal Höhe ?«
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Dreieckspyramide
+Antwort_2=0Dreiecksprisma
+Antwort_3=0Zylinder
+Antwort_4=0Würfel
+
+[70]
+FZ1=Welche geometrische Figur entsteht, wenn man vier gleich lange
+FZ2=Stangen so aneinander lötet, dass sich jeweils drei von ihnen berühren?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Quadrat
+Antwort_2=0Okateder
+Antwort_3=0Rechteck
+Antwort_4=1Tetraeder
+
+[71]
+FZ1=
+FZ2=Wie viele Flächen hat ein Ikosaeder?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=09
+Antwort_2=012
+Antwort_3=016
+Antwort_4=120
+
+[72]
+FZ1=
+FZ2=Wie viele Flächen hat ein Pentagondodekaeder ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=08
+Antwort_2=112
+Antwort_3=06
+Antwort_4=05
+
+[73]
+FZ1=
+FZ2=Wie viele Flächen hat ein Oktaeder ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=06
+Antwort_2=18
+Antwort_3=010
+Antwort_4=012
+
+[74]
+FZ1=
+FZ2=Wieviemal länger ist der Umfang eines Quadrates als seine Seite?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1viermal so lang
+Antwort_2=0doppelt so lang
+Antwort_3=0dreimal so lang
+Antwort_4=0sechsmal so lang
+
+[75]
+FZ1=
+FZ2=Wieviele Ecken hat ein Quadrat?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1vier
+Antwort_2=0drei
+Antwort_3=0fünf
+Antwort_4=0zwei
+
+[76]
+FZ1=
+FZ2=Welche dieser Figuren ist kein Viereck?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Quadrat
+Antwort_2=1Quader
+Antwort_3=0Rechteck
+Antwort_4=0Rhombus
+
+[77]
+FZ1=
+FZ2=Welches dieser Vierecke ist *kein* Parallelogramm?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Trapez
+Antwort_2=0Quadrat
+Antwort_3=0Rechteck
+Antwort_4=0Rhombus
+
+[78]
+FZ1=Wenn man die Seitenlänge eines Quadrats verdoppelt,
+FZ2=wird seine Fläche
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1vervierfacht
+Antwort_2=0verdreifacht
+Antwort_3=0verdoppelt
+Antwort_4=0verachtfacht
+
+[79]
+FZ1=Alle diese Rechtecke haben den gleichen Umfang von 24m.
+FZ2=Welches davon hat die größte Fläche?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1a = 6m; b = 6m
+Antwort_2=0a = 5m; b = 7m
+Antwort_3=0a = 7m; b = 5m
+Antwort_4=0a = 11m; b = 1m
+
+[80]
+FZ1=
+FZ2=Wieviele Kubikzentimeter hat ein Liter?
+FZ3=
+Min=500
+Max=500
+Antwort_1=010
+Antwort_2=11000
+Antwort_3=0100
+Antwort_4=010000
+
+[81]
+FZ1=
+FZ2=Wieviele cm² hat ein m²?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=110.000
+Antwort_2=01.000
+Antwort_3=0100
+Antwort_4=0100.000
+
+[82]
+FZ1=
+FZ2=Wieviele Dezimeter hat ein Kilometer
+FZ3=
+Min=500
+Max=500
+Antwort_1=110.000
+Antwort_2=01.000
+Antwort_3=0100.000
+Antwort_4=01.000.000
+
+[83]
+FZ1=
+FZ2=Wieviele Quadratmeter hat ein Hektar?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=110.000
+Antwort_2=0100
+Antwort_3=01.000
+Antwort_4=0100.000
+
+[84]
+FZ1=
+FZ2=Wieviele Zentimeter hat ein Meter?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1100
+Antwort_2=010
+Antwort_3=00,1
+Antwort_4=00,01
+
+[85]
+FZ1=
+FZ2=Wieviele Millimeter hat ein Meter?
+FZ3=
+Min=100
+Max=100
+Antwort_1=11.000
+Antwort_2=010
+Antwort_3=0100
+Antwort_4=010.000
+
+[86]
+FZ1=
+FZ2=Wieviel Quadratmillimeter hat ein Quadratzentimeter?
+FZ3=
+Min=200
+Max=200
+Antwort_1=010
+Antwort_2=1100
+Antwort_3=01000
+Antwort_4=010.000
+
+[87]
+FZ1=
+FZ2=Wieviele Kubikmillimeter hat ein Kubikzentimeter?
+FZ3=
+Min=200
+Max=200
+Antwort_1=010
+Antwort_2=0100
+Antwort_3=11000
+Antwort_4=010.000
+
+[88]
+FZ1=Welchen Winkel überstreicht der Minutenzeiger einer Uhr
+FZ2=in der Zeit von 16:20 Uhr bis 16:35 Uhr?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=190°
+Antwort_2=015°
+Antwort_3=035°
+Antwort_4=0120°
+
+[89]
+FZ1=Welchen Winkel überstreicht der Stundenzeiger einer Uhr
+FZ2=in der Zeit von 6:00 Uhr bis Mitternacht?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1540°
+Antwort_2=0270°
+Antwort_3=0180°
+Antwort_4=0360°
+
+[90]
+FZ1=
+FZ2=Welchen Winkel überstreicht der Minutenzeiger einer Uhr in einer Stunde?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0100°
+Antwort_2=090°
+Antwort_3=0180°
+Antwort_4=1360°
+
+[91]
+FZ1=
+FZ2=Welchen Winkel überstreicht der Stundenzeiger einer Uhr in einer Stunde?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=010°
+Antwort_2=020°
+Antwort_3=130°
+Antwort_4=060°
+
+[92]
+FZ1=
+FZ2=Welchen Winkel überstreicht der Sekundenzeiger einer Uhr in 3 Minuten?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0300°
+Antwort_2=0680°
+Antwort_3=11080°
+Antwort_4=01800°
+
+[93]
+FZ1=Mit welchen dieser regelmäßigen Vielecke lässt sich eine Ebene nicht
+FZ2=deckend pflastern (parkettieren)?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=0mit Dreiecken
+Antwort_2=0mit Quadraten
+Antwort_3=0mit Sechsecken
+Antwort_4=1mit Achtecken
+

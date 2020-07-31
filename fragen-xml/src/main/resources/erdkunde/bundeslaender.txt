@@ -1,0 +1,316 @@
+[Thema]
+Thema=Bundesländer, Stand 27.05.01
+Fragen=28
+Autor=Rolf Gräbener, 4/2001
+
+
+[1]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Bayern?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Nürnberg
+Antwort_2=1München
+Antwort_3=0Berlin
+Antwort_4=0Ramsbeck
+
+[2]
+FZ1=
+FZ2=Was ist kein Bundesland?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Saarland
+Antwort_2=0Hamburg
+Antwort_3=0Niedersachsen
+Antwort_4=1Sauerland
+
+[3]
+FZ1=
+FZ2=Wie heißt das flächenmäßig größte Bundesland?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=0Nordrhein-Westfalen
+Antwort_2=0Baden-Württemberg
+Antwort_3=1Bayern
+Antwort_4=0Niedersachsen
+
+[4]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Sachsen?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0Erfurt
+Antwort_2=0Magdeburg
+Antwort_3=0Potsdam
+Antwort_4=1Dresden
+
+[5]
+FZ1=
+FZ2=Welches Bundesland hat die meisten Einwohner?
+FZ3=
+Min=8000
+Max=1000000
+Antwort_1=1Nordrhein-Westfalen
+Antwort_2=0Berlin
+Antwort_3=0Baden-Württemberg
+Antwort_4=0Hessen
+
+[6]
+FZ1=
+FZ2=Welche Stadt ist keine Landeshauptstadt?
+FZ3=
+Min=100
+Max=125000
+Antwort_1=0Schwerin
+Antwort_2=1Frankfurt
+Antwort_3=0Stuttgart
+Antwort_4=0Potsdam
+
+[7]
+FZ1=
+FZ2=Welches Bundesland hat die geringste Fläche?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Hamburg
+Antwort_2=0Berlin
+Antwort_3=1Bremen
+Antwort_4=0Saarland
+
+[8]
+FZ1=
+FZ2=Welches dieser Bundesländer hat die wenigsten Einwohner?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Brandenburg
+Antwort_2=1Mecklenburg-Vorpommern
+Antwort_3=0Sachsen-Anhalt
+Antwort_4=0Schleswig-Holstein
+
+[9]
+FZ1=
+FZ2=Welches Bundesland grenzt nicht an Nordrhein-Westfalen?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Niedersachsen
+Antwort_2=0Hessen
+Antwort_3=1Saarland
+Antwort_4=0Rheinland-Pfalz
+
+[10]
+FZ1=
+FZ2=In welchem Bundesland leben die wenigsten Einwohner pro km²?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0Baden-Württemberg
+Antwort_2=0Bayern
+Antwort_3=0Niedersachsen
+Antwort_4=1Brandenburg
+
+[11]
+FZ1=
+FZ2=Welches Bundesland grenzt nicht an Sachsen-Anhalt?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Niedersachsen
+Antwort_2=1Mecklenburg-Vorpommern
+Antwort_3=0Thüringen
+Antwort_4=0Brandenburg
+
+[12]
+FZ1=
+FZ2=Welches dieser Bundesländer hat keinen direkten ausländischen Nachbarn?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Niedersachsen
+Antwort_2=0Rheinland-Pfalz
+Antwort_3=1Hessen
+Antwort_4=0Sachsen
+
+[13]
+FZ1=
+FZ2=Mainz ist die Hauptstadt von welchem Bundesland?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0Baden-Württemberg
+Antwort_2=0Mecklenburg-Vorpommern
+Antwort_3=1Rheinland-Pfalz
+Antwort_4=0Schleswig-Holstein
+
+[14]
+FZ1=
+FZ2=Wie viele Bundesländer gibt es?
+FZ3=
+Min=100
+Max=16000
+Antwort_1=012
+Antwort_2=014
+Antwort_3=116
+Antwort_4=018
+
+[15]
+FZ1=
+FZ2=Welche Landeshauptstadt liegt am weitesten im Norden?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1Kiel
+Antwort_2=0Hamburg
+Antwort_3=0Schwerin
+Antwort_4=0Bremen
+
+[16]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Mecklenburg-Vorpommern?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0München
+Antwort_2=1Schwerin
+Antwort_3=0Meschede
+Antwort_4=0Nuttlar
+
+[17]
+FZ1=
+FZ2=Wiesbaden ist die Landeshauptstadt von welchem Bundesland?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Rheinland-Pfalz
+Antwort_2=0Brandenburg
+Antwort_3=1Hessen
+Antwort_4=0Thüringen
+
+[18]
+FZ1=
+FZ2=Was ist kein Bundesland?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0Bremen
+Antwort_2=1Saarbrücken
+Antwort_3=0Berlin
+Antwort_4=0Hamburg
+
+[19]
+FZ1=
+FZ2=In welchem Bundesland liegt Köln?
+FZ3=
+Min=400
+Max=16000
+Antwort_1=0Rheinland-Pfalz
+Antwort_2=0Hessen
+Antwort_3=1Nordrhein-Westfalen
+Antwort_4=0Sauerland
+
+[20]
+FZ1=
+FZ2=Welches Bundesland grenzt an Dänemark?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=1Schleswig-Holstein
+Antwort_2=0Niedersachsen
+Antwort_3=0Saarland
+Antwort_4=0Sachsen
+
+[21]
+FZ1=
+FZ2=Durch welches Bundesland fließt die Ruhr ausschließlich?
+FZ3=
+Min=500
+Max=32000
+Antwort_1=0Rheinland-Pfalz
+Antwort_2=0Niedersachsen
+Antwort_3=1Nordrhein-Westfalen
+Antwort_4=0Schleswig-Holstein
+
+[22]
+FZ1=
+FZ2=Welche Stadt liegt nicht in Nordrhein-Westfalen?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0Dortmund
+Antwort_2=0Bonn
+Antwort_3=1Nürnberg
+Antwort_4=0Essen
+
+[23]
+FZ1=
+FZ2=Von welchem Bundesland wird Berlin eingeschlossen?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0Sachsen
+Antwort_2=1Brandenburg
+Antwort_3=0Niedersachsen
+Antwort_4=0Sachsen-Anhalt
+
+[24]
+FZ1=Welches Bundesland liegt sowohl an
+FZ2=der Nordsee als auch an der Ostsee?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0Niedersachsen
+Antwort_2=0Mecklenburg-Vorpommern
+Antwort_3=0Bayern
+Antwort_4=1Schleswig-Holstein
+
+[25]
+FZ1=
+FZ2=Welche Stadt liegt in Bayern?
+FZ3=
+Min=8000
+Max=100000
+Antwort_1=0Leipzig
+Antwort_2=1Nürnberg
+Antwort_3=0Frankfurt
+Antwort_4=0Köln
+
+[26]
+FZ1=
+FZ2=Magdeburg ist die Hauptstadt von welchem Bundesland?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Thüringen
+Antwort_2=1Sachsen-Anhalt
+Antwort_3=0Brandenburg
+Antwort_4=0Baden-Württemberg
+
+[27]
+FZ1=
+FZ2=Saarbrücken ist die Hauptstadt von welchem Bundesland?
+FZ3=
+Min=0
+Max=400
+Antwort_1=0Legoland
+Antwort_2=0Sauerland
+Antwort_3=1Saarland
+Antwort_4=0Schlaraffenland
+
+[28]
+FZ1=
+FZ2=Wie lautet die Landeshauptstadt von Niedersachsen?
+FZ3=
+Min=2000
+Max=1000000
+Antwort_1=0Magdeburg
+Antwort_2=0Stuttgart
+Antwort_3=1Hannover
+Antwort_4=0Wolfsburg
+
+
+

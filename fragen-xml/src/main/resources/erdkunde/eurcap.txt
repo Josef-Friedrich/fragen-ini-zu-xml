@@ -1,0 +1,489 @@
+[Thema]
+Thema= Europäische Länder und ihre Hauptstädte
+Fragen=44
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Deutschland
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Berlin
+Antwort_2=0	 Rom
+Antwort_3=0	 Paris
+Antwort_4=0	  Wien
+
+[2]
+FZ1=
+FZ2=Finnland
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Helsinki
+Antwort_2=0	 Berlin
+Antwort_3=0	 Athen
+Antwort_4=0	 Oslo
+
+[3]
+FZ1=
+FZ2=Dänemark
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Kopenhagen
+Antwort_2=0	 Oslo
+Antwort_3=0	 Berlin
+Antwort_4=0	  Paris
+
+[4]
+FZ1=
+FZ2=Frankreich
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Paris
+Antwort_2=0	 Berlin
+Antwort_3=0	 Rom
+Antwort_4=0	 Wien
+
+[5]
+FZ1=
+FZ2=Griechenland
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Athen
+Antwort_2=0	 Amsterdam
+Antwort_3=0	 Madrid
+Antwort_4=0	 Helsinki
+
+[6]
+FZ1=
+FZ2=Großbritannien
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 London
+Antwort_2=0	 Kopenhagen
+Antwort_3=0	 Paris
+Antwort_4=0	 Berlin
+
+[7]
+FZ1=
+FZ2=Liechtenstein
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Vaduz
+Antwort_2=0	 Luxemburg
+Antwort_3=0	  Prag
+Antwort_4=0	  Lienz
+
+[8]
+FZ1=
+FZ2=Luxemburg
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Luxemburg
+Antwort_2=0	 Rom
+Antwort_3=0	 Paris
+Antwort_4=0	 Brüssel
+
+[9]
+FZ1=
+FZ2=Monaco
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	 Monaco
+Antwort_2=0	 Vaduz
+Antwort_3=0	 Helsinki
+Antwort_4=0	  Warschau
+
+[10]
+FZ1=
+FZ2=Norwegen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Oslo
+Antwort_2=0	 Kopenhagen
+Antwort_3=0	 Helsinki
+Antwort_4=0	 Paris
+
+[11]
+FZ1=
+FZ2=Österreich
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Wien
+Antwort_2=0	 Paris
+Antwort_3=0	 Rom
+Antwort_4=0	 London
+
+[12]
+FZ1=
+FZ2=Polen
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Warschau
+Antwort_2=0	 Wien
+Antwort_3=0	 Lissabon
+Antwort_4=0	 Paris
+
+[13]
+FZ1=
+FZ2=Portugal
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Lissabon
+Antwort_2=0	 London
+Antwort_3=0	 Madrid
+Antwort_4=0	 Wien
+
+[14]
+FZ1=
+FZ2=Rumänien
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Bukarest
+Antwort_2=0	Budapest
+Antwort_3=0	 Belgrad
+Antwort_4=0	 Stockholm
+
+[15]
+FZ1=
+FZ2=Russland
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Moskau
+Antwort_2=0	 Madrid
+Antwort_3=0	 Oslo
+Antwort_4=0	 Athen
+
+[16]
+FZ1=
+FZ2=San Marino
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 San Marino
+Antwort_2=0	 Luxemberg
+Antwort_3=0	 Stockholm
+Antwort_4=0	 Andorra
+
+[17]
+FZ1=
+FZ2=Schweden
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Stockholm
+Antwort_2=0	 Helsinki
+Antwort_3=0	 Paris
+Antwort_4=0	 London
+
+[18]
+FZ1=
+FZ2=Schweiz
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Bern
+Antwort_2=0	 Budapest
+Antwort_3=0	 Berlin
+Antwort_4=0	 Wien
+
+[19]
+FZ1=
+FZ2=Slowakei
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Bratislava
+Antwort_2=0	 Ljubljana
+Antwort_3=0	 Sarajewo
+Antwort_4=0	  Prag
+
+[20]
+FZ1=
+FZ2=Slowenien
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Ljubljana
+Antwort_2=0	 Bratislava
+Antwort_3=0	 Belgrad
+Antwort_4=0	 Tirana
+
+[21]
+FZ1=
+FZ2=Spanien
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Madrid
+Antwort_2=0	 Lissabon
+Antwort_3=0	 Bern
+Antwort_4=0	 Kopenhagen
+
+[22]
+FZ1=
+FZ2=Tschechien
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Prag
+Antwort_2=0	 Ljublana
+Antwort_3=0	 Sofia
+Antwort_4=0	 Zagreb
+
+[23]
+FZ1=
+FZ2=Ukraine
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1	 Kiew
+Antwort_2=0	 Riga
+Antwort_3=0	 Taschkent
+Antwort_4=0	 Wilna
+
+[24]
+FZ1=
+FZ2=Ungarn
+FZ3=
+Min=300
+Max=8000
+Antwort_1=1	 Budapest
+Antwort_2=0	 Ljubljana
+Antwort_3=0	 Warschau
+Antwort_4=0	 Bukarest
+
+[25]
+FZ1=
+FZ2=Zypern
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Nikosia
+Antwort_2=0	 MInsk
+Antwort_3=0	 Budapest
+Antwort_4=0	 Sarajewo
+
+[26]
+FZ1=
+FZ2=Albanien
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Tirana
+Antwort_2=0	 Tallinn
+Antwort_3=0	 Minsk
+Antwort_4=0	 Zagreb
+
+[27]
+FZ1=
+FZ2=Andorra
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Andorra La Vella
+Antwort_2=0	 Monaco
+Antwort_3=0	 Liechtenstein
+Antwort_4=0	 Luxemburg
+
+[28]
+FZ1=
+FZ2=Italien
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Rom
+Antwort_2=0	 Paris
+Antwort_3=0	 Berlin
+Antwort_4=0	 Wien
+
+[29]
+FZ1=
+FZ2=Estland
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Tallinn
+Antwort_2=0	 Wilna
+Antwort_3=0	 Helsinki
+Antwort_4=0	 Tiflis
+
+[30]
+FZ1=
+FZ2=Jugoslawien (Serbien)
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Belgrad
+Antwort_2=0	 Sofia
+Antwort_3=0	 Tirana
+Antwort_4=0	 Bukarest
+
+[31]
+FZ1=
+FZ2=Island
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Reykjavik
+Antwort_2=0	 Dublin
+Antwort_3=0	 Amman
+Antwort_4=0	 Bischkek
+
+[32]
+FZ1=
+FZ2=Vatikan
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	 Vatikan
+Antwort_2=0	 Caracas
+Antwort_3=0	  Hanoi
+Antwort_4=0	 Rom
+
+[33]
+FZ1=
+FZ2=Belgien
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Brüssel
+Antwort_2=0	 Paris
+Antwort_3=0	 Rom
+Antwort_4=0	Berlin
+
+[34]
+FZ1=
+FZ2=Malta
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1	 Valletta
+Antwort_2=0	 Maputo
+Antwort_3=0	 Yaren
+Antwort_4=0	  Abuja
+
+[35]
+FZ1=
+FZ2=Niederlande
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Amsterdam
+Antwort_2=0	 Stockholm
+Antwort_3=0	 Kopenhagen
+Antwort_4=0	 Athen
+
+[36]
+FZ1=
+FZ2=Makedonien
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Skopje
+Antwort_2=0	 Dubrovnik
+Antwort_3=0	 Bukarest
+Antwort_4=0	 Ljubljana
+
+[37]
+FZ1=
+FZ2=Lettland
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1	 Riga
+Antwort_2=0	 Minsk
+Antwort_3=0	 Tallinn
+Antwort_4=0	 Eriwan
+
+[38]
+FZ1=
+FZ2=Kroatien
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1	 Zagreb
+Antwort_2=0	 Sofia
+Antwort_3=0	 Sarajewo
+Antwort_4=0	 Skopje
+
+[39]
+FZ1=
+FZ2=Bulgarien
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	 Sofia
+Antwort_2=0	 Skopje
+Antwort_3=0	 Sarajewo
+Antwort_4=0	 Zagreb
+
+[40]
+FZ1=
+FZ2=Belarus (Weissrussland)
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Minsk
+Antwort_2=0	 Tallinn
+Antwort_3=0	 Tiflis
+Antwort_4=0	 Riga
+
+[41]
+FZ1=
+FZ2=Moldau (Moldawien)
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Kischinjow
+Antwort_2=0	 Dubrovnik
+Antwort_3=0	 Kigali
+Antwort_4=0	 Bratislava
+
+[42]
+FZ1=
+FZ2=Bosnien-Herzegowina
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1	 Sarajewo
+Antwort_2=0	 Zagreb
+Antwort_3=0	 Sofia
+Antwort_4=0	 Skopje
+
+[43]
+FZ1=
+FZ2=Litauen
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1	Wilna
+Antwort_2=0	Reval
+Antwort_3=0	Riga
+Antwort_4=0	Helsinki
+
+[44]
+FZ1=
+FZ2=Irland
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	 Dublin
+Antwort_2=0	 Reykjavik
+Antwort_3=0	 London
+Antwort_4=0	 Kingston
+

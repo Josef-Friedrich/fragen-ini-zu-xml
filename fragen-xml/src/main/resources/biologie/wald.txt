@@ -1,0 +1,1325 @@
+[Thema]
+Thema=Rund um den Wald
+Fragen=120
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie groß wird die Waldwühlmaus ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1bis 12,3 cm
+Antwort_2=0bis 15,8 cm
+Antwort_3=0bis 9,5 cm
+Antwort_4=0bis 7,2 cm
+
+[2]
+FZ1=
+FZ2=Wie heißt unsere häufigste Eule ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Waldkauz
+Antwort_2=0Wiesenkauz
+Antwort_3=0Parkkauz
+Antwort_4=0Feldkauz
+
+[3]
+FZ1=
+FZ2=Welche Eule gibt es ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Waldohreule
+Antwort_2=0Waldnaseneule
+Antwort_3=0Waldaugeneule
+Antwort_4=0Waldschnabeleule
+
+[4]
+FZ1=Wie wird der Fuchs auch genannt ?
+FZ2=
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Reineke
+Antwort_2=0Gevatter
+Antwort_3=0Isegrim
+Antwort_4=0Meister Petz
+
+[5]
+FZ1=
+FZ2=Welches Tier wird auch "Reineke" genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Fuchs
+Antwort_2=0Marder
+Antwort_3=0Dachs
+Antwort_4=0Reh
+
+[6]
+FZ1=
+FZ2=Was fressen die Rehe besonders gerne ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Knospen von Laubbäumen
+Antwort_2=0Kastanienblätter
+Antwort_3=0Nadelholztriebe
+Antwort_4=0Bucheckern
+
+[7]
+FZ1=
+FZ2=Wie viele Jungen kann ein weibliches Wildschwein mit einem Wurf bekommen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=14 - 8
+Antwort_2=0immer genau 4
+Antwort_3=01 - 3
+Antwort_4=09 - 12
+
+[8]
+FZ1=
+FZ2=Wie oft kann ein weibliches Wildschwein im Jahr Nachwuchs bekommen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11 mal
+Antwort_2=03 mal
+Antwort_3=02 mal
+Antwort_4=04 mal
+
+[9]
+FZ1=
+FZ2=Wie nennt man das weibliche Wildschwein ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Bache
+Antwort_2=0Fähe
+Antwort_3=0Ricke
+Antwort_4=0Stute
+
+[10]
+FZ1=
+FZ2=Wie nennt man das männliche Wildschwein ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Keiler
+Antwort_2=0Erpel
+Antwort_3=0Rüde
+Antwort_4=0Egon
+
+[11]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[12]
+FZ1=
+FZ2=Wie groß kann die Rote Waldameise werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1bis 9 mm
+Antwort_2=0bis 4 mm
+Antwort_3=0bis 6 mm
+Antwort_4=0bis 20 mm
+
+[13]
+FZ1=
+FZ2=Welches Tier wird auch die "Gesundheitspolizei des Waldes" genannt ?
+FZ3=
+Min=300
+Max=8000
+Antwort_1=1Rote Waldameise
+Antwort_2=0Grünfink
+Antwort_3=0Buntspecht
+Antwort_4=0Wildschweine
+
+[14]
+FZ1=
+FZ2=Wie groß kann die Waldmaus werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1bis 11 cm
+Antwort_2=0bis 18 cm
+Antwort_3=0bis 6 cm
+Antwort_4=0bis 25 cm
+
+[15]
+FZ1=
+FZ2=Wozu benutzt der Rothirsch sein Geweih ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1für Kämpfe mit Rivalen
+Antwort_2=0zum Ausgraben von Wurzeln
+Antwort_3=0zum Angeben bei den Weibchen
+Antwort_4=0als Waffe gegen Wölfe
+
+[16]
+FZ1=
+FZ2=Wie nennt man die weiblichen Rehe ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Ricken
+Antwort_2=0Wicken
+Antwort_3=0Zicken
+Antwort_4=0Dicken
+
+[17]
+FZ1=
+FZ2=Aus welchem Land wurde der Waschbär eingeschleppt ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Nordamerika
+Antwort_2=0China
+Antwort_3=0Südamerika
+Antwort_4=0Indien
+
+[18]
+FZ1=
+FZ2=Welches aus Nordamerika eingeschleppte Pelztier wäscht seine Nahrung ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Waschbär
+Antwort_2=0Bisamratte
+Antwort_3=0Biber
+Antwort_4=0Wasserassel
+
+[19]
+FZ1=
+FZ2=Welche Nahrung bevorzugt die Waldspitzmaus ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Insekten
+Antwort_2=0Würmer
+Antwort_3=0Eicheln
+Antwort_4=0Haselnüsse
+
+[20]
+FZ1=
+FZ2=Welche auch für den Menschen lebensgefährliche Krankheit kann der Fuchs
+FZ3=übertragen ?
+Min=2000
+Max=32000
+Antwort_1=1Tollwut
+Antwort_2=0Maul -  und Klauenseuche
+Antwort_3=0Malaria
+Antwort_4=0B S E
+
+[21]
+FZ1=
+FZ2=Wer "suhlt" sich gerne im Schlamm ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Wildschweine
+Antwort_2=0Biber
+Antwort_3=0Dachse
+Antwort_4=0Füchse
+
+[22]
+FZ1=
+FZ2=Wie beschreibt man die Art der Körperpflege, die Wildschweine betreiben ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1suhlen
+Antwort_2=0wühlen
+Antwort_3=0buhlen
+Antwort_4=0grunzen
+
+[23]
+FZ1=
+FZ2=Was sind Frischlinge ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1junge Wildschweine
+Antwort_2=0kleine Speisepilze
+Antwort_3=0frische Baumknospen
+Antwort_4=0junge Füchse
+
+[24]
+FZ1=
+FZ2=Wie nennt man die Jungtiere der Wildschweine ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Frischlinge
+Antwort_2=0Welpen
+Antwort_3=0Ferkel
+Antwort_4=0Kälbchen
+
+[25]
+FZ1=
+FZ2=Wie werden die Wildschweine auch genannt ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Schwarzkittel
+Antwort_2=0Buntfinken
+Antwort_3=0Rotkehlchen
+Antwort_4=0Isegrim
+
+[26]
+FZ1=
+FZ2=Welche Tiere des Waldes werden auch "Schwarzkittel" genannt ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Wildschweine
+Antwort_2=0Amseln
+Antwort_3=0Dachse
+Antwort_4=0HIrschkäfer
+
+[27]
+FZ1=
+FZ2=Wie heißt die giftige Staude, deren rote Blüten einem "Nähwerkzeug" ähneln ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1roter Fingerhut
+Antwort_2=0Fliegenpilz
+Antwort_3=0Hagebutte
+Antwort_4=0wilder Wacholder
+
+[28]
+FZ1=
+FZ2=Wie wird die helle Fläche am Popo bei den Rehen auch genannt ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Spiegel
+Antwort_2=0Blitz
+Antwort_3=0Lampe
+Antwort_4=0Scheinwerfer
+
+[29]
+FZ1=
+FZ2=Was ist der "Spiegel" bei den Rehen ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1helle Fläche am Popo
+Antwort_2=0der helle Bauch
+Antwort_3=0die weißen Innenohren
+Antwort_4=0die weißen Vorderpfoten
+
+[30]
+FZ1=
+FZ2=Welcher Nachtraubvogel mit deutlich abgegrenztem Gesicht ist in seinem Bestand
+FZ3=stark gefährdet ?
+Min=4000
+Max=64000
+Antwort_1=1Schleiereule
+Antwort_2=0Nachtigall
+Antwort_3=0Uhu
+Antwort_4=0Nachtfalke
+
+[31]
+FZ1=
+FZ2=Wie heißen die asselähnlichen Tiere im Laubstreu, die sich bei Gefahr einrollen
+FZ3=können ?
+Min=8000
+Max=125000
+Antwort_1=1Saftkugler
+Antwort_2=0Rollmöpse
+Antwort_3=0Igel
+Antwort_4=0Pillendreher
+
+[32]
+FZ1=
+FZ2=Welche Bodenart bevorzugen Birken- und Kiefernwälder ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1trockenen Sandboden
+Antwort_2=0nassen Moorboden
+Antwort_3=0feuchten Lehmboden
+Antwort_4=0harten Steinboden
+
+[33]
+FZ1=
+FZ2=Wie nennt man einen Wald, in dem es Laubbäume  u n d  Nadelbäume gibt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mischwald
+Antwort_2=0nadeliger Laubwald
+Antwort_3=0laubiger Nadelwald
+Antwort_4=0Launa - Wald
+
+[34]
+FZ1=
+FZ2=Auf welchem Boden gedeiht Buchenwald am besten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Lehm- und Kalkböden
+Antwort_2=0Stein- und Schieferböden
+Antwort_3=0Sandböden
+Antwort_4=0Moorböden
+
+[35]
+FZ1=
+FZ2=Welche Wirkung hat der saure Regen im Boden ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Die Wurzeln und die Symbiosepilze	werden geschädigt oder abgetötet.
+Antwort_2=0Das Grundwasser wird zu sauer.
+Antwort_3=0Die versteckten Eicheln, Nüsse und	Buckeckern werden vergiftet.
+Antwort_4=0Die Ameisenhöhlen werden überspült.
+
+[36]
+FZ1=
+FZ2=Welche Säuren sind im sauren Regen enthalten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schwefelsäure und Salpetersäure
+Antwort_2=0Essigsäure und Kohlensäure
+Antwort_3=0Ammoniaksäure und Salzsäure
+Antwort_4=0Zitronensäure und Ameisensäure
+
+[37]
+FZ1=
+FZ2=Wie heißt der Niederschlag, der unseren Wald schädigt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1saurer Regen
+Antwort_2=0süßer Regen
+Antwort_3=0saurer Nebel
+Antwort_4=0salziger Regen
+
+[38]
+FZ1=
+FZ2=Welche drei Gase schädigen unseren Wald am meisten ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Schwefeldioxid, Stickoxide und Ozon
+Antwort_2=0Kohlenmonoxid, Butan und Kaliumsulfat
+Antwort_3=0Sauerstoff, Kohlenstoff und Wasserstoff
+Antwort_4=0Schwefeldioxid, Neon und Zeratoxid
+
+[39]
+FZ1=
+FZ2=Welchen Schaden erleidet die Forstwirtschaft, wenn die Bäume krank sind ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Verminderung des Holzzuwachses
+Antwort_2=0Erhöhung der Luftfeuchtigkeit
+Antwort_3=0Vermehrung von Waldschädlingen
+Antwort_4=0Flucht der jagdbaren Waldtiere
+
+[40]
+FZ1=
+FZ2=Woran erkennt man, dass Laubbäume krank sind ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Vergilbung oder früher Abwurf der	Blätter
+Antwort_2=0krankhafte Triebe am Stamm
+Antwort_3=0Verfärbung der Blätter
+Antwort_4=0verdickte Wurzeln
+
+[41]
+FZ1=
+FZ2=Wie sehen die Nadeln kranker Kiefern aus ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1vergilbt
+Antwort_2=0verlaust
+Antwort_3=0verstaubt
+Antwort_4=0verlassen
+
+[42]
+FZ1=
+FZ2=Wer schließt den Stoffkreislauf zwischen Verbrauchern und Erzeugern in einem
+FZ3=Ökosystem ?
+Min=4000
+Max=64000
+Antwort_1=1die Abfallfresser, Zersetzer und	Mineralisierer
+Antwort_2=0die Kleidermotten und roten	Waldameisen
+Antwort_3=0die aasfressenden Vögel und	Schleimschnecken
+Antwort_4=0die Waldarbeiter und Holzfäller
+
+[43]
+FZ1=
+FZ2=Wie entsteht ein Nahrungsnetz ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1durch Verflechtung mehrerer	Nahrungsketten
+Antwort_2=0durch kleine Waldspinnen
+Antwort_3=0durch Verknüpfung eines	Nahrungsnetzes
+Antwort_4=0Es wird durch den Förster angelegt.
+
+[44]
+FZ1=
+FZ2=Wer ist für die Bestäubung der meisten Waldbäume verantwortlich ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Wind
+Antwort_2=0Eichelhäher
+Antwort_3=0Förster
+Antwort_4=0Eichhörnchen
+
+[45]
+FZ1=
+FZ2=Warum werden Monokulturen angepflanzt ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Sie bieten wirtschaftliche Vorteile.
+Antwort_2=0Sie vertreiben wilde Tiere.
+Antwort_3=0Sie sehen schöner aus.
+Antwort_4=0Sie bieten seltenen Tieren Schutz.
+
+[46]
+FZ1=
+FZ2=Wie nennt man einen Waldhüter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Förster
+Antwort_2=0Bauer
+Antwort_3=0Wilderer
+Antwort_4=0Bäumerich
+
+[47]
+FZ1=
+FZ2=Für welche Forstschädlinge hat man Duftfallen aufgestellt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Borkenkäfer
+Antwort_2=0Maikäfer
+Antwort_3=0Mistkäfer
+Antwort_4=0Herkuleskäfer
+
+[48]
+FZ1=
+FZ2=Welcher Käfer trägt zur Eiablage Kotreste in tiefere Erdschichten ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Mistkäfer
+Antwort_2=0Maulwurfkäfer
+Antwort_3=0Heukäfer
+Antwort_4=0Maikäfer
+
+[49]
+FZ1=
+FZ2=Wie nennt man das Nest eines Eichhörnchen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Kobel
+Antwort_2=0Kabel
+Antwort_3=0Kübel
+Antwort_4=0Zobel
+
+[50]
+FZ1=
+FZ2=Wie nennt man das Nest eines Greifvogels ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Horst
+Antwort_2=0Karl
+Antwort_3=0Klaus
+Antwort_4=0Hans
+
+[51]
+FZ1=
+FZ2=Welcher Vogel hat einen Zangenschnabel zum Freilegen der Samen in Zapfen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Fichtenkreuzschnabel
+Antwort_2=0Schwarzspecht
+Antwort_3=0Eichelhäher
+Antwort_4=0Zangenvogel
+
+[52]
+FZ1=
+FZ2=Was ist eine Spechtschmiede ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Rindenritze oder Astgabel, in die	Spechte Zapfen zum Zerhacken	einklemmen
+Antwort_2=0eine Falle für Buntspechte
+Antwort_3=0eine besonders harte Spechtzunge
+Antwort_4=0eine Schmiede für Spechtkäfige
+
+[53]
+FZ1=
+FZ2=Welcher Vogel lässt seine Jungen von fremden Eltern aufziehen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kuckuck	
+Antwort_2=0Eichelhäher	
+Antwort_3=0Specht	
+Antwort_4=0Kleiber	
+
+[54]
+FZ1=
+FZ2=Was frisst die Wasseramsel ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Würmer und Insekten im Wasser
+Antwort_2=0Karpfen und Hechte
+Antwort_3=0kleine Fische und Frösche
+Antwort_4=0Feuersalamander
+
+[55]
+FZ1=
+FZ2=Welcher Vogel hat einen Meißelschnabel und eine Schleuderzunge ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Specht
+Antwort_2=0Distelfink
+Antwort_3=0Kohlmeise
+Antwort_4=0Spatz
+
+[56]
+FZ1=
+FZ2=Welcher Vogel kann kopfunter den Stamm herunterlaufen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kleiber
+Antwort_2=0Rotkehlchen
+Antwort_3=0Buntspecht
+Antwort_4=0Eichelhäher
+
+[57]
+FZ1=
+FZ2=Welches große Nagetier baut in Flussauen seine Staudämme ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Biber
+Antwort_2=0Wasserratte
+Antwort_3=0Eichhörnchen
+Antwort_4=0Maulwurf
+
+[58]
+FZ1=
+FZ2=Welche Bedeutung haben die Ameisen im Wald ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Vertilgung von Schadinsekten, Abbau	toter Insekten, Bodenlockerung und	Samenverbreitung
+Antwort_2=0Verschönerung des Waldes durch	Ameisenhügel, leise Musik für kleinere	Waldtiere
+Antwort_3=0Vertreibung größerer Tiere, sammeln	von wertvollen Holzreserven,	Wärmespeicherung
+Antwort_4=0Hitzeregulierung des Waldbodens,	anlocken schmackhafter Wildschweine,	aufräumen schmutziger Blätter
+
+[59]
+FZ1=
+FZ2=Was findet man in "Gallen" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Gelege oder Larven von Insekten und	Milben
+Antwort_2=0kleine Rehkitze
+Antwort_3=0Gelege von Kuckuckseiern
+Antwort_4=0vergessene Eicheln und Kastanien
+
+[60]
+FZ1=
+FZ2=Wie hoch kann die Rotbuche werden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 30 m
+Antwort_2=0ca. 50 m
+Antwort_3=0ca. 40 m
+Antwort_4=0ca. 60 m
+
+[61]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[62]
+FZ1=
+FZ2=Wie hoch kann eine Tanne werden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 65 m
+Antwort_2=0ca. 45 m
+Antwort_3=0ca. 55 m
+Antwort_4=0ca. 35 m
+
+[63]
+FZ1=
+FZ2=Was ist das Besondere an den Tannenzapfen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Sie stehen auf den Zweigen.
+Antwort_2=0Sie wechseln jeden Monat ihre Farbe.
+Antwort_3=0Sie hängen an den Zweigen.
+Antwort_4=0Sie wachsen immer in 5 - er Gruppen.
+
+[64]
+FZ1=
+FZ2=Wie groß kann die Waldkiefer werden ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 40 m
+Antwort_2=0ca. 10 m
+Antwort_3=0ca. 20 m
+Antwort_4=0ca. 60 m
+
+[65]
+FZ1=
+FZ2=Wie wird die Waldkiefer auch genannt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Föhre
+Antwort_2=0Göre
+Antwort_3=0Röhre
+Antwort_4=0Stör
+
+[66]
+FZ1=
+FZ2=Wann blüht die Rotbuche ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1im Mai
+Antwort_2=0im Oktober
+Antwort_3=0im März
+Antwort_4=0im Februar
+
+[67]
+FZ1=
+FZ2=Wann blüht die Stieleiche ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1im Mai
+Antwort_2=0im August
+Antwort_3=0im März
+Antwort_4=0im November
+
+[68]
+FZ1=
+FZ2=Wie hoch kann die Stieleiche werden ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ca. 50 m
+Antwort_2=0ca. 25 m
+Antwort_3=0ca. 35 m
+Antwort_4=020 m - 40 m
+
+[69]
+FZ1=
+FZ2=Wie wird die Stieleiche auch genannt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Sommereiche
+Antwort_2=0Herbsteiche
+Antwort_3=0Frühlingseiche
+Antwort_4=0Wintereiche
+
+[70]
+FZ1=
+FZ2=Wie hoch kann die Schwarzerle werden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 25 m
+Antwort_2=0ca. 15 m
+Antwort_3=0ca. 20 m
+Antwort_4=0ca. 10 m
+
+[71]
+FZ1=
+FZ2=Wie hoch kann eine Birke werden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 20 m
+Antwort_2=0ca. 40 m
+Antwort_3=0ca. 11 m
+Antwort_4=0ca. 7 m
+
+[72]
+FZ1=
+FZ2=Wohin legen Schlupfwespen ihre Eier ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1in die Larven anderer Insekten
+Antwort_2=0in einen Fuchsbau
+Antwort_3=0in die Nester anderer Vögel
+Antwort_4=0in heruntergefallene Eicheln und	Bucheckern
+
+[73]
+FZ1=
+FZ2=Wie trägt der Eichelhäher zur Waldverjüngung bei ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Er vergräbt Eicheln als Nahrungsvorrat,	findet sie aber nicht wieder.
+Antwort_2=0Er lässt junge Eichen in Ruhe wachsen.
+Antwort_3=0Er hackt alte Eichen um.
+Antwort_4=0Er verscheucht räuberische Tiere aus	dem Wald.
+
+[74]
+FZ1=
+FZ2=Wie nennt man die durch Überflutungen gekennzeichneten Wälder in Flussnähe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Auwälder
+Antwort_2=0Schmerzwälder
+Antwort_3=0Wehwälder
+Antwort_4=0Ohwälder
+
+[75]
+FZ1=
+FZ2=In welchem Wald gibt es feuchte Hitze, üppige Vegetation und schummriges
+FZ3=Dämmerlicht ?
+Min=0
+Max=1000
+Antwort_1=1Tropischer Regenwald
+Antwort_2=0Arktischer Tundrawald
+Antwort_3=0Subtropischer Nebelwald
+Antwort_4=0Sibirischer Schneewald
+
+[76]
+FZ1=
+FZ2=Mit welchem Begriffwerden Pflanzenfresser und Tierfresser in einem Ökosystem
+FZ3=bezeichnet ?
+Min=16000
+Max=250000
+Antwort_1=1Verbraucher
+Antwort_2=0Schmarotzer
+Antwort_3=0Erzeuger
+Antwort_4=0Nutznießer
+
+[77]
+FZ1=
+FZ2=Wie werden die Pflanzen in einem Ökosystem genannt ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Erzeuger
+Antwort_2=0Schmarotzer
+Antwort_3=0Verbraucher
+Antwort_4=0Nutznießer
+
+[78]
+FZ1=
+FZ2=Was versteht man unter einem biologischen Gleichgewicht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Räuber und Beute stehen in einem	ausgewogenen Verhältnis.
+Antwort_2=0Es gibt dicke und dünne Tiere.
+Antwort_3=0Es ist mal warm und mal kalt.
+Antwort_4=0Vögel und Kriechtiere stehen  in einem	ausgewogenen Verhältnis.
+
+[79]
+FZ1=
+FZ2=Warum spielt der Wald in der Trinkwasseraufbereitung eine Rolle ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Der Waldboden wirkt wie ein Filter.
+Antwort_2=0Der Waldboden entzieht dem Wasser	Natriucarbonatsulfamit.
+Antwort_3=0Der Waldboden süßt das Wasser.
+Antwort_4=0Der Waldboden leitet das Wasser um.
+
+[80]
+FZ1=
+FZ2=Wie heißt der häufigste Baum in unseren Wäldern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Rotbuche
+Antwort_2=0Eiche
+Antwort_3=0Blautanne
+Antwort_4=0Fichte
+
+[81]
+FZ1=
+FZ2=Was versteht man unter einer "ökologischen Nische" ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Gesamtheit aller Umweltbedingungen,	die für das Überleben einer Art	notwendig sind
+Antwort_2=0einzelne Verstecke im Wald, in denen	Jungtiere Zuflucht suchen können
+Antwort_3=0alle Umweltbedingungen, die helfen,	dass die Vögel brüten können
+Antwort_4=0gut getarnte Hinterhalte, wo sich die	Jäger verstecken können
+
+[82]
+FZ1=
+FZ2=Zu welcher Pflanzengruppe gehört das Buschwindröschen, das schon ab Mitte März
+FZ3=in unseren Wäldern blüht ?
+Min=2000
+Max=32000
+Antwort_1=1Frühblüher
+Antwort_2=0Halbblüher
+Antwort_3=0Spätblüher
+Antwort_4=0Vollblüher
+
+[83]
+FZ1=
+FZ2=Wie nennt man die dickeren und kleineren Blätter eines Laubbaumes,
+FZ3=die viel Licht abbekommen ?
+Min=4000
+Max=64000
+Antwort_1=1Sonnenblätter
+Antwort_2=0Sternenblätter
+Antwort_3=0Mondblätter
+Antwort_4=0Silberblätter
+
+[84]
+FZ1=
+FZ2=In welche Stockwerke gliedert sich der Laubwald ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Moosschicht, Krautschicht,	Strauchschicht, Baumschicht
+Antwort_2=0Wurzelschicht, Farnschicht,	Knospenschicht, Stammschicht
+Antwort_3=0Erdschicht, Buschschicht,	Blattschicht, Luftschicht
+Antwort_4=0Bodenschicht, Astschicht,	Stammschicht, Wipfelschicht
+
+[85]
+FZ1=
+FZ2=Welche wichtigen Aufgaben haben die Pilze im Wald ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Zersetzung und Mineralstoffbildung
+Antwort_2=0Düngung und Befruchtung
+Antwort_3=0Aasverwertung und Sauerstoffbildung
+Antwort_4=0Wasserspeicherung und	Nahrungslieferant
+
+[86]
+FZ1=
+FZ2=Was sind Hexenringe ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1kreisförmige Anordnung der	Fruchtkörper mancher Pilze
+Antwort_2=0kreisrunde Kastanienschalen
+Antwort_3=0Jahresringe der Hexenbäume
+Antwort_4=0runde Wildschweinspuren
+
+[87]
+FZ1=
+FZ2=Nach wie vielen Jahren werden Fichtenbäume geschlagen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=180 - 120
+Antwort_2=070 - 90
+Antwort_3=030 - 50
+Antwort_4=0140 - 180
+
+[88]
+FZ1=
+FZ2=Wie viele Baumarten kommen in unseren Wäldern etwa vor ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=135
+Antwort_2=022
+Antwort_3=028
+Antwort_4=017
+
+[89]
+FZ1=
+FZ2=Wie viel Sauerstoff liefert ein Nadelwald in der Größe eines Fußballfeldes
+FZ3=in einem Jahr ?
+Min=64000
+Max=500000
+Antwort_1=130 Tonnen
+Antwort_2=020 Tonnen
+Antwort_3=040 Tonnen
+Antwort_4=010 Tonnen
+
+[90]
+FZ1=
+FZ2=Wie viel Liter Wasser verdunstet eine 100 - jährige Buche am Tag ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1400 l
+Antwort_2=0200 l
+Antwort_3=0600 l
+Antwort_4=0800 l
+
+[91]
+FZ1=
+FZ2=Um wie viel Prozent verringert ein 100 m breiter Waldstreifen die Lärmwirkung ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=150 %
+Antwort_2=030 %
+Antwort_3=040 %
+Antwort_4=020 %
+
+[92]
+FZ1=
+FZ2=Um wie viel Grad senkt ein 100 m breiter Waldstreifen die Lufttemperatur ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=13 - 4°C
+Antwort_2=05 - 7°C
+Antwort_3=01  - 2°C
+Antwort_4=08 - 10°C
+
+[93]
+FZ1=
+FZ2=Wie viel Tonnen Ruß und Staub entzieht ein Buchenwald in der Größe eines
+FZ3=Fußballplatzes  der Luft in einem Jahr ?
+Min=32000
+Max=250000
+Antwort_1=168 t
+Antwort_2=026 t
+Antwort_3=012 t
+Antwort_4=049 t
+
+[94]
+FZ1=
+FZ2=Wie viel Liter Wasser können unter einem Quadratmeter Waldboden
+FZ3=gespeichert werden ?
+Min=2000
+Max=32000
+Antwort_1=150 - 200
+Antwort_2=05 - 10
+Antwort_3=0300 - 500
+Antwort_4=015 - 50
+
+[95]
+FZ1=
+FZ2=Welcher große, essbare Pilz ist in unseren Wäldern selten geworden ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Steinpilz
+Antwort_2=0Baumpilz
+Antwort_3=0Holzpilz
+Antwort_4=0Flusspilz
+
+[96]
+FZ1=
+FZ2=Welche Pflanze lebt als Halbschmarotzer auf hohen Bäumen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Mistel
+Antwort_2=0Fistel
+Antwort_3=0Distel
+Antwort_4=0Bistel
+
+[97]
+FZ1=
+FZ2=Wie heißen die Früchte der an Waldrändern wachsenden Rosen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hagebutten
+Antwort_2=0Kamille
+Antwort_3=0Pfefferminze
+Antwort_4=0Salbei
+
+[98]
+FZ1=
+FZ2=Wie vermehren sich die Farne ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1durch Sporen
+Antwort_2=0durch Blüten
+Antwort_3=0durch Dornen
+Antwort_4=0durch Pollen
+
+[99]
+FZ1=
+FZ2=Wie heißen die krustenartig aussehenden Pflanzen, die auf Steinen
+FZ3=oder auf Bäumen wachsen ?
+Min=2000
+Max=32000
+Antwort_1=1Flechten
+Antwort_2=0Farne
+Antwort_3=0Moose
+Antwort_4=0Efeu
+
+[100]
+FZ1=
+FZ2=Was verträgt die Schwarzerle im Gegensatz zu den anderen Baumarten besonders
+FZ3=gut ?
+Min=64000
+Max=500000
+Antwort_1=1Staunässe
+Antwort_2=0Windstärken bis 9
+Antwort_3=0lange Trockenheit
+Antwort_4=0Borkenkäfer
+
+[101]
+FZ1=
+FZ2=Welche Wurzelform besitzt die Fichte ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1flacher Wurzelteller
+Antwort_2=0lange Schlingwurzeln
+Antwort_3=0tiefgehende Pfahlwurzel
+Antwort_4=0breite Saugwurzeln
+
+[102]
+FZ1=
+FZ2=Woran erkennt man das Alter von Bäumen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1an der Zahl der Jahresringe
+Antwort_2=0an der Zahl der Blätter
+Antwort_3=0an der Anzahl der Zweige
+Antwort_4=0an der Stammdicke
+
+[103]
+FZ1=
+FZ2=Wie nennt man die niedrigen Nadelbäume zwischen der Baum- und Strauchgrenze
+FZ3=des Bergwaldes ?
+Min=8000
+Max=125000
+Antwort_1=1Latschenkiefern
+Antwort_2=0Bodenkiefern
+Antwort_3=0Knüppelkiefern
+Antwort_4=0Bergkiefern
+
+[104]
+FZ1=
+FZ2=Bei welcher Baumart sitzen die Früchte in traubig angeordneten, schuppigen
+FZ3=Bechern ?
+Min=4000
+Max=64000
+Antwort_1=1Traubeneiche
+Antwort_2=0Latschenkiefer
+Antwort_3=0Trauerweide
+Antwort_4=0Rosskastanie
+
+[105]
+FZ1=
+FZ2=Bei welcher Baumart sitzen die Früchte in gestielten, schuppigen Bechern ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Stieleiche
+Antwort_2=0Blautanne
+Antwort_3=0Rotbuche
+Antwort_4=0Trauerweide
+
+[106]
+FZ1=
+FZ2=Welche Wurzelform besitzt die Kiefer ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1tiefgehende Pfahlwurzeln
+Antwort_2=0flache Schlingwurzeln
+Antwort_3=0platte Bodenwurzeln
+Antwort_4=0knorrige Korkenzieherwurzeln
+
+[107]
+FZ1=
+FZ2=Bei welchem Baum sitzen die Nadeln stets zu zweit in den Kurztrieben ?
+FZ3=
+Min=500
+Max=16000
+Antwort_1=1Kiefer
+Antwort_2=0Lärche
+Antwort_3=0Tanne
+Antwort_4=0Fichte
+
+[108]
+FZ1=
+FZ2=Welcher Laubbaum hat eine weiße Rinde ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Birke
+Antwort_2=0Kastanie
+Antwort_3=0Ulme
+Antwort_4=0Buche
+
+[109]
+FZ1=
+FZ2=Wie wird die Fichte auch genannt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Rottanne
+Antwort_2=0Gelbkiefer
+Antwort_3=0Blautanne
+Antwort_4=0Grünlärche
+
+[110]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[111]
+FZ1=
+FZ2=Der Gemeine Wurmfarn ist in schattigen Wäldern zu Hause.
+FZ3=Wie groß kann er werden ?
+Min=32000
+Max=250000
+Antwort_1=1bis 120 cm
+Antwort_2=0bis 80 cm
+Antwort_3=0bis 100 cm
+Antwort_4=0bis 60 cm
+
+[112]
+FZ1=
+FZ2=Welcher Pilz ist ein gefürchteter Baumschädling ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Hallimasch
+Antwort_2=0Fliegenpilz
+Antwort_3=0Steinpilz
+Antwort_4=0Pfifferling
+
+[113]
+FZ1=
+FZ2=Welche Rose findet man an Waldrändern ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Hundsrose
+Antwort_2=0Pferderose
+Antwort_3=0Katzenrose
+Antwort_4=0Mausrose
+
+[114]
+FZ1=
+FZ2=Wie hoch kann eine Lärche werden ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 30 m
+Antwort_2=0ca. 50 m
+Antwort_3=0ca. 40 m
+Antwort_4=0ca. 20 m
+
+[115]
+FZ1=
+FZ2=Welcher Nadelbaum verliert im Winter seine Nadeln ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Lärche
+Antwort_2=0Fichte
+Antwort_3=0Tanne
+Antwort_4=0Kiefer
+
+[116]
+FZ1=
+FZ2=Wie heißt der häufigste Nadelbaum unserer Wälder ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Fichte
+Antwort_2=0Kiefer
+Antwort_3=0Tanne
+Antwort_4=0Lärche
+
+[117]
+FZ1=
+FZ2=Wie nennt man die Blütenform der Kiefern ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Zapfenblüten
+Antwort_2=0Kiefernblüten
+Antwort_3=0Tannenblüten
+Antwort_4=0Kelchblüten
+
+[118]
+FZ1=
+FZ2=Um welche Fruchtart handelt es sich bei den Bucheckern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nussfrüchte
+Antwort_2=0Südfrüchte
+Antwort_3=0Obstfrüchte
+Antwort_4=0Waldfrüchte
+
+[119]
+FZ1=
+FZ2=Wie nennt man es, wenn männliche und weibliche Blüten zusammen auf einem
+FZ3=Baum sitzen, wie z. B. bei der Rotbuche ?
+Min=125000
+Max=500000
+Antwort_1=1getrennt-geschlechtig und einhäusig
+Antwort_2=0einträchtig und baumnah
+Antwort_3=0zusammen-geschlechtig und häuslich
+Antwort_4=0einzig und artig
+
+[120]
+FZ1=
+FZ2=Wie heißt der häufigste Nadelbaum unserer Wälder ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Fichte
+Antwort_2=0Kiefer
+Antwort_3=0Tanne
+Antwort_4=0Lärche
+

@@ -1,0 +1,184 @@
+[Thema]
+Thema       = "Digitaltechnik"
+Fragen      = 16
+Autor       = Elmar F. Werker, V1.0 5/2001
+
+
+[1]
+FZ1         = 
+FZ2         = Die Reihenschaltung von Schließern entspricht
+FZ3         = welcher Digitalschaltung
+Min         = 0
+Max         = 100
+Antwort_1   = 1UND
+Antwort_2   = 0ODER
+Antwort_3   = 0NAND
+Antwort_4   = 0NOR
+
+
+[2]
+FZ1         = 
+FZ2         = Wie heißt die einfachste
+FZ3         = Digitalschaltung
+Min         = 100
+Max         = 200
+Antwort_1   = 0UND
+Antwort_2   = 0ODER
+Antwort_3   = 1Identität
+Antwort_4   = 0Negation
+
+[3]
+FZ1         = 
+FZ2         = Welcher Grundschaltung entspricht ein Öffner?
+FZ3         = 
+Min         = 200
+Max         = 300
+Antwort_1   = 0UND
+Antwort_2   = 0ODER
+Antwort_3   = 0Identität
+Antwort_4   = 1Negation
+
+
+[4]
+FZ1         = Zwei Zeilen einer Wahrheitstabelle liefern 1
+FZ2         = Signal. Wie werden die Vollkonjunktionen
+FZ3         = zur Schaltfuntktion verschaltet?
+Min         = 200
+Max         = 500
+Antwort_1   = 0UND
+Antwort_2   = 1ODER
+Antwort_3   = 0X-Oder
+Antwort_4   = 0NOR
+
+[5]
+FZ1         = 
+FZ2         = Wie kann man eine UND Schaltung noch nennen?
+FZ3         = 
+Min         = 300
+Max         = 500
+Antwort_1   = 0Wendeschaltung
+Antwort_2   = 0Kreuzschaltung
+Antwort_3   = 1Konjunktion
+Antwort_4   = 0Disjunktion
+
+[6]
+FZ1         = 
+FZ2         = Wieviele Zeilen enthält eine Wahrheitstabelle
+FZ3         = mit 3 Eingangsvariablen?
+Min         = 500
+Max         = 1000
+Antwort_1   = 02
+Antwort_2   = 04
+Antwort_3   = 18
+Antwort_4   = 016
+
+[7]
+FZ1         = 
+FZ2         = Wieviele Zeilen enthält eine KV-Tafel
+FZ3         = mit 4 Eingangsvariablen?
+Min         = 1000
+Max         = 2000
+Antwort_1   = 02
+Antwort_2   = 04
+Antwort_3   = 08
+Antwort_4   = 116
+
+[8]
+FZ1         = 
+FZ2         = Die Reihenschaltung von Schließern
+FZ3         = entspricht der ...Schaltung?
+Min         = 2000
+Max         = 4000
+Antwort_1   = 0Negation
+Antwort_2   = 0Identität
+Antwort_3   = 1UND
+Antwort_4   = 0ODER
+
+[9]
+FZ1         = 
+FZ2         = Die Parallelschaltung von Schließern
+FZ3         = entspricht der ...Schaltung?
+Min         = 4000
+Max         = 8000
+Antwort_1   = 0Negation
+Antwort_2   = 0Identität
+Antwort_3   = 0UND
+Antwort_4   = 1ODER
+
+[10]
+FZ1         = Was macht man mit einer KV-Tafel in der
+FZ2         = Digitaltechnik
+FZ3         = 
+Min         = 8000
+Max         = 16000
+Antwort_1   = 1Vereinfachung
+Antwort_2   = 0Lösung
+Antwort_3   = 0Gleichung
+Antwort_4   = 0Funktionsplan
+
+[11]
+FZ1         = 
+FZ2         = Welcher Schaltung entspricht der Wechselschaltung?
+FZ3         = 
+Min         = 16000
+Max         = 32000
+Antwort_1   = 0UND
+Antwort_2   = 1Antivalenz
+Antwort_3   = 0ODER
+Antwort_4   = 0Negation
+
+[12]
+FZ1         = 
+FZ2         = Wieviele Anschlüsse hat ein Kreuzschalter ?
+FZ3         = 
+Min         = 32000
+Max         = 64000
+Antwort_1   = 02
+Antwort_2   = 03
+Antwort_3   = 14
+Antwort_4   = 06
+
+[13]
+FZ1         = Eine Lampe schaltet sich jeweils dauerhaft
+FZ2         = Ein und Aus wenn sie von einem Taster
+FZ3         = getastet wird. Es handelt sich um eine..
+Min         = 64000
+Max         = 125000
+Antwort_1   = 0Ausschaltung
+Antwort_2   = 0Wechselsch.
+Antwort_3   = 1Stromstoßsch.
+Antwort_4   = 0Kreuzschalt.
+
+[14]
+FZ1         = 
+FZ2         = Was ist die größte Anzahl der Schaltstellen
+FZ3         = die man mit einer Kreuzschaltung schalten kann?
+Min         = 125000
+Max         = 250000
+Antwort_1   = 01
+Antwort_2   = 02
+Antwort_3   = 03
+Antwort_4   = 14 und mehr..
+
+[15]
+FZ1         = 
+FZ2         = Eine Schaltung wird durch einen EIN- und einen
+FZ3         = AUS-Taster betätigt. Die Schützschaltung heißt?
+Min         = 250000
+Max         = 500000
+Antwort_1   = 0Ausschaltung
+Antwort_2   = 0Wechselsch.
+Antwort_3   = 0Stromstoßsch.
+Antwort_4   = 1Selbsthaltung
+
+
+[16]
+FZ1         = 
+FZ2         = In einer automatischen Treppenhaussteuerung 
+FZ3         = arbeitet welches Relais?
+Min         = 5000000
+Max         = 1000000
+Antwort_1   = 0Stromstoß-
+Antwort_2   = 0EInschaltvz.
+Antwort_3   = 1Ausschaltvz.
+Antwort_4   = 0Schütz

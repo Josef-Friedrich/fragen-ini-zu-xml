@@ -1,0 +1,4008 @@
+[Thema]
+Thema=Anfangswortschatz Englisch
+Fragen=364
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Tante
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	aunt
+Antwort_2=0	brother
+Antwort_3=0	baby
+Antwort_4=0	father
+
+[2]
+FZ1=
+FZ2=Baby
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	baby
+Antwort_2=0	father
+Antwort_3=0	mother
+Antwort_4=0	sister
+
+[3]
+FZ1=
+FZ2=Bruder
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	brother
+Antwort_2=0	mother
+Antwort_3=0	sister
+Antwort_4=0	father
+
+[4]
+FZ1=
+FZ2=Papi
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	daddy
+Antwort_2=0	father
+Antwort_3=0	mum
+Antwort_4=0	uncle
+
+[5]
+FZ1=
+FZ2=Tochter
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	daughter
+Antwort_2=0	father
+Antwort_3=0	brother
+Antwort_4=0	mother
+
+[6]
+FZ1=
+FZ2=Vater
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	father
+Antwort_2=0	uncle
+Antwort_3=0	mother
+Antwort_4=0	grandpa
+
+[7]
+FZ1=
+FZ2=Großvater
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	grandfather
+Antwort_2=0	grand hotel
+Antwort_3=0	grandmother
+Antwort_4=0	grand brother
+
+[8]
+FZ1=
+FZ2=Oma
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	grandma
+Antwort_2=0	grand mum
+Antwort_3=0	grandpa
+Antwort_4=0	grand sister
+
+[9]
+FZ1=
+FZ2=Großmutter
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	grandmother
+Antwort_2=0	grandaunt
+Antwort_3=0	grandfather
+Antwort_4=0	granduncle
+
+[10]
+FZ1=
+FZ2=Opa
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	grandpa
+Antwort_2=0	grandmother
+Antwort_3=0	grandma
+Antwort_4=0	grand sister
+
+[11]
+FZ1=
+FZ2=Mutter
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	mother
+Antwort_2=0	brother
+Antwort_3=0	father
+Antwort_4=0	sister
+
+[12]
+FZ1=
+FZ2=Mutti
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	mum
+Antwort_2=0	baby
+Antwort_3=0	dad
+Antwort_4=0	son
+
+[13]
+FZ1=
+FZ2=Mama
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	mummy
+Antwort_2=0	daddy
+Antwort_3=0	mother
+Antwort_4=0	sister
+
+[14]
+FZ1=
+FZ2=Schwester
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	sister
+Antwort_2=0	uncle
+Antwort_3=0	brother
+Antwort_4=0	aunt
+
+[15]
+FZ1=
+FZ2=Sohn
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	son
+Antwort_2=0	baby
+Antwort_3=0	daughter
+Antwort_4=0	uncle
+
+[16]
+FZ1=
+FZ2=eins
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	one
+Antwort_2=0	three
+Antwort_3=0	two
+Antwort_4=0	four
+
+[17]
+FZ1=
+FZ2=zwei
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	two
+Antwort_2=0	three
+Antwort_3=0	one
+Antwort_4=0	five
+
+[18]
+FZ1=
+FZ2=drei
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	three
+Antwort_2=0	one
+Antwort_3=0	two
+Antwort_4=0	nine
+
+[19]
+FZ1=
+FZ2=vier
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	four
+Antwort_2=0	six
+Antwort_3=0	five
+Antwort_4=0	seven
+
+[20]
+FZ1=
+FZ2=fünf
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	five
+Antwort_2=0	six
+Antwort_3=0	four
+Antwort_4=0	seven
+
+[21]
+FZ1=
+FZ2=sechs
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	six
+Antwort_2=0	one
+Antwort_3=0	seven
+Antwort_4=0	two
+
+[22]
+FZ1=
+FZ2=sieben
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	seven
+Antwort_2=0	nine
+Antwort_3=0	six
+Antwort_4=0	ten
+
+[23]
+FZ1=
+FZ2=acht
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	eight
+Antwort_2=0	three
+Antwort_3=0	nine
+Antwort_4=0	four
+
+[24]
+FZ1=
+FZ2=neun
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	nine
+Antwort_2=0	two
+Antwort_3=0	number
+Antwort_4=0	four
+
+[25]
+FZ1=
+FZ2=zehn
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	ten
+Antwort_2=0	one
+Antwort_3=0	three
+Antwort_4=0	nine
+
+[26]
+FZ1=
+FZ2=elf
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1	eleven
+Antwort_2=0	six
+Antwort_3=0	four
+Antwort_4=0	eight
+
+[27]
+FZ1=
+FZ2=zwölf
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1	twelve
+Antwort_2=0	four
+Antwort_3=0	eleven
+Antwort_4=0	zero
+
+[28]
+FZ1=
+FZ2=null
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	zero
+Antwort_2=0	two
+Antwort_3=0	one
+Antwort_4=0	six
+
+[29]
+FZ1=
+FZ2=Montag
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	Monday
+Antwort_2=0	Friday
+Antwort_3=0	Tuesday
+Antwort_4=0	Sunday
+
+[30]
+FZ1=
+FZ2=Dienstag
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	Tuesday
+Antwort_2=0	Saturday
+Antwort_3=0	Thursday
+Antwort_4=0	Friday
+
+[31]
+FZ1=
+FZ2=Mittwoch
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	Wednesday
+Antwort_2=0	Sunday
+Antwort_3=0	Monday
+Antwort_4=0	Thursday
+
+[32]
+FZ1=
+FZ2=Donnerstag
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	Thursday
+Antwort_2=0	Saturday
+Antwort_3=0	Tuesday
+Antwort_4=0	Friday
+
+[33]
+FZ1=
+FZ2=Freitag
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	Friday
+Antwort_2=0	Tuesday
+Antwort_3=0	Monday
+Antwort_4=0	Sunday
+
+[34]
+FZ1=
+FZ2=Samstag
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	Saturday
+Antwort_2=0	Wednesday
+Antwort_3=0	Sunday
+Antwort_4=0	Monday
+
+[35]
+FZ1=
+FZ2=Januar
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	January
+Antwort_2=0	June
+Antwort_3=0	February
+Antwort_4=0	July
+
+[36]
+FZ1=
+FZ2=Februar
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	February
+Antwort_2=0	May
+Antwort_3=0	October
+Antwort_4=0	July
+
+[37]
+FZ1=
+FZ2=März
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	March
+Antwort_2=0	April
+Antwort_3=0	May
+Antwort_4=0	August
+
+[38]
+FZ1=
+FZ2=April
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	April
+Antwort_2=0	December
+Antwort_3=0	August
+Antwort_4=0	November
+
+[39]
+FZ1=
+FZ2=Mai
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	May
+Antwort_2=0	June
+Antwort_3=0	March
+Antwort_4=0	July
+
+[40]
+FZ1=
+FZ2=Juni
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	June
+Antwort_2=0	April
+Antwort_3=0	July
+Antwort_4=0	May
+
+[41]
+FZ1=
+FZ2=Juli
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	July
+Antwort_2=0	May
+Antwort_3=0	June
+Antwort_4=0	April
+
+[42]
+FZ1=
+FZ2=August
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	August
+Antwort_2=0	December
+Antwort_3=0	November
+Antwort_4=0	January
+
+[43]
+FZ1=
+FZ2=September
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	September
+Antwort_2=0	May
+Antwort_3=0	April
+Antwort_4=0	June
+
+[44]
+FZ1=
+FZ2=Oktober
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	October
+Antwort_2=0	December
+Antwort_3=0	November
+Antwort_4=0	May
+
+[45]
+FZ1=
+FZ2=November
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	November
+Antwort_2=0	January
+Antwort_3=0	December
+Antwort_4=0	February
+
+[46]
+FZ1=
+FZ2=Dezember
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	December
+Antwort_2=0	January
+Antwort_3=0	October
+Antwort_4=0	May
+
+[47]
+FZ1=
+FZ2=Frühling
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	spring
+Antwort_2=0	autumn
+Antwort_3=0	summer
+Antwort_4=0	winter
+
+[48]
+FZ1=
+FZ2=Sommer
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	summer
+Antwort_2=0	autumn
+Antwort_3=0	spring
+Antwort_4=0	winter
+
+[49]
+FZ1=
+FZ2=Herbst
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	autumn
+Antwort_2=0	summer
+Antwort_3=0	winter
+Antwort_4=0	spring
+
+[50]
+FZ1=
+FZ2=Winter
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	winter
+Antwort_2=0	spring
+Antwort_3=0	summer
+Antwort_4=0	autumn
+
+[51]
+FZ1=
+FZ2=Aprilschauer
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	April showers
+Antwort_2=0	April love
+Antwort_3=0	Easter eggs
+Antwort_4=0	swimming pool
+
+[52]
+FZ1=
+FZ2=Vögel
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	birds
+Antwort_2=0	dogs
+Antwort_3=0	cats
+Antwort_4=0	aunts
+
+[53]
+FZ1=
+FZ2=Ostereier
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	Easter eggs
+Antwort_2=0	octopus
+Antwort_3=0	Easter eagle
+Antwort_4=0	chestnuts
+
+[54]
+FZ1=
+FZ2=Blumen
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	flowers
+Antwort_2=0	animals
+Antwort_3=0	trees
+Antwort_4=0	stones
+
+[55]
+FZ1=
+FZ2=Regen
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	rain
+Antwort_2=0	wind
+Antwort_3=0	snow
+Antwort_4=0	sun
+
+[56]
+FZ1=
+FZ2=Regenbogen
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1	rainbow
+Antwort_2=0	raincoat
+Antwort_3=0	bow and arrow
+Antwort_4=0	red and blue
+
+[57]
+FZ1=
+FZ2=Strand
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	beach
+Antwort_2=0	pool
+Antwort_3=0	ball
+Antwort_4=0	hot
+
+[58]
+FZ1=
+FZ2=heiß
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	hot
+Antwort_2=0	warm
+Antwort_3=0	cool
+Antwort_4=0	white
+
+[59]
+FZ1=
+FZ2=Speiseeis
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	ice-cream
+Antwort_2=0	eagle
+Antwort_3=0	ice
+Antwort_4=0	egg
+
+[60]
+FZ1=
+FZ2=Sonne
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1	sun
+Antwort_2=0	stars
+Antwort_3=0	moon
+Antwort_4=0	heaven
+
+[61]
+FZ1=
+FZ2=Sonnenbrille
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	fezzen sun glasses
+Antwort_2=0	sun umbrella
+Antwort_3=0	sunshine
+Antwort_4=0	water ship
+
+[62]
+FZ1=
+FZ2=schwimmen
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1	swimming
+Antwort_2=0	going
+Antwort_3=0	running
+Antwort_4=0	crying
+
+[63]
+FZ1=
+FZ2=Schwimmbecken
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	swimming pool
+Antwort_2=0	ocean
+Antwort_3=0	sea
+Antwort_4=0	poor boy
+
+[64]
+FZ1=
+FZ2=warm
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	warm
+Antwort_2=0	cold
+Antwort_3=0	hot
+Antwort_4=0	frozen
+
+[65]
+FZ1=
+FZ2=Kastanien
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	chestnuts
+Antwort_2=0	autumn
+Antwort_3=0	nuts
+Antwort_4=0	colour
+
+[66]
+FZ1=
+FZ2=Farben
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	colours
+Antwort_2=0	far
+Antwort_3=0	black
+Antwort_4=0	frighten
+
+[67]
+FZ1=
+FZ2=Drachen
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	kite
+Antwort_2=0	ice
+Antwort_3=0	white
+Antwort_4=0	sky
+
+[68]
+FZ1=
+FZ2=Kürbis
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	pumpkin
+Antwort_2=0	copybook
+Antwort_3=0	skating
+Antwort_4=0	felt tip
+
+[69]
+FZ1=
+FZ2=Regen
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	rain
+Antwort_2=0	fog
+Antwort_3=0	snow
+Antwort_4=0	wind
+
+[70]
+FZ1=
+FZ2=Wind
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	wind
+Antwort_2=0	rain
+Antwort_3=0	warm
+Antwort_4=0	storm
+
+[71]
+FZ1=
+FZ2=kalt
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1	cold
+Antwort_2=0	warm
+Antwort_3=0	hot
+Antwort_4=0	ice
+
+[72]
+FZ1=
+FZ2=Eis
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	ice
+Antwort_2=0	white
+Antwort_3=0	snow
+Antwort_4=0	biro
+
+[73]
+FZ1=
+FZ2=Eis laufen
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	skating
+Antwort_2=0	running
+Antwort_3=0	swimming
+Antwort_4=0	blowing
+
+[74]
+FZ1=
+FZ2=Schlitten
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	sledge
+Antwort_2=0	sun
+Antwort_3=0	snow
+Antwort_4=0	school
+
+[75]
+FZ1=
+FZ2=Schnee
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	snow
+Antwort_2=0	sun
+Antwort_3=0	rain
+Antwort_4=0	hail
+
+[76]
+FZ1=
+FZ2=Schneeflocken
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	snowflakes
+Antwort_2=0	sun flakes
+Antwort_3=0	cornflakes
+Antwort_4=0	rain flakes
+
+[77]
+FZ1=
+FZ2=Schneemann
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1	snowman
+Antwort_2=0	snowball
+Antwort_3=0	snowwoman
+Antwort_4=0	snow
+
+[78]
+FZ1=
+FZ2=Wolke
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	cloud
+Antwort_2=0	heaven
+Antwort_3=0	sky
+Antwort_4=0	wind
+
+[79]
+FZ1=
+FZ2=wolkig
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	cloudy
+Antwort_2=0	warm
+Antwort_3=0	sunny
+Antwort_4=0	crayon
+
+[80]
+FZ1=
+FZ2=Nebel
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	fog
+Antwort_2=0	storm
+Antwort_3=0	rain
+Antwort_4=0	sun
+
+[81]
+FZ1=
+FZ2=Hagel
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	hail
+Antwort_2=0	heaven
+Antwort_3=0	hot
+Antwort_4=0	hair
+
+[82]
+FZ1=
+FZ2=Himmel
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	sky
+Antwort_2=0	silver
+Antwort_3=0	storm
+Antwort_4=0	wind
+
+[83]
+FZ1=
+FZ2=Sturm
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	storm
+Antwort_2=0	sun
+Antwort_3=0	fog
+Antwort_4=0	wind
+
+[84]
+FZ1=
+FZ2=Sonnenschein
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	sunshine
+Antwort_2=0	skating
+Antwort_3=0	rainbow
+Antwort_4=0	summer
+
+[85]
+FZ1=
+FZ2=Gewitter
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	thunder and lightning
+Antwort_2=0	sky and earth
+Antwort_3=0	hot and cold
+Antwort_4=0	summer and winter
+
+[86]
+FZ1=
+FZ2=windig
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	windy
+Antwort_2=0	angry
+Antwort_3=0	kindly
+Antwort_4=0	sunny
+
+[87]
+FZ1=
+FZ2=schwarz
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	black
+Antwort_2=0	red
+Antwort_3=0	white
+Antwort_4=0	blue
+
+[88]
+FZ1=
+FZ2=blau
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	blue
+Antwort_2=0	green
+Antwort_3=0	red
+Antwort_4=0	white
+
+[89]
+FZ1=
+FZ2=braun
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	brown
+Antwort_2=0	blue
+Antwort_3=0	black
+Antwort_4=0	pink
+
+[90]
+FZ1=
+FZ2=grün
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	green
+Antwort_2=0	yellow
+Antwort_3=0	grey
+Antwort_4=0	orange
+
+[91]
+FZ1=
+FZ2=dunkelgrün
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1	dark green
+Antwort_2=0	green
+Antwort_3=0	light green
+Antwort_4=0	grey
+
+[92]
+FZ1=
+FZ2=hellgrün
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1	light green
+Antwort_2=0	green
+Antwort_3=0	dark green
+Antwort_4=0	grey
+
+[93]
+FZ1=
+FZ2=grau
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	grey
+Antwort_2=0	black
+Antwort_3=0	green
+Antwort_4=0	brown
+
+[94]
+FZ1=
+FZ2=orange
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	orange
+Antwort_2=0	white
+Antwort_3=0	yellow
+Antwort_4=0	purple
+
+[95]
+FZ1=
+FZ2=rosa
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	pink
+Antwort_2=0	white
+Antwort_3=0	purple
+Antwort_4=0	red
+
+[96]
+FZ1=
+FZ2=lila
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	purple
+Antwort_2=0	white
+Antwort_3=0	yellow
+Antwort_4=0	blue
+
+[97]
+FZ1=
+FZ2=rot
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	red
+Antwort_2=0	grey
+Antwort_3=0	white
+Antwort_4=0	brown
+
+[98]
+FZ1=
+FZ2=gelb
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	yellow
+Antwort_2=0	green
+Antwort_3=0	grey
+Antwort_4=0	purple
+
+[99]
+FZ1=
+FZ2=weiß
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	white
+Antwort_2=0	red
+Antwort_3=0	black
+Antwort_4=0	blue
+
+[100]
+FZ1=
+FZ2=Kugelschreiber
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	biro
+Antwort_2=0	crayon
+Antwort_3=0	chalk
+Antwort_4=0	door
+
+[101]
+FZ1=
+FZ2=Tafel
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	blackboard
+Antwort_2=0	window
+Antwort_3=0	door
+Antwort_4=0	copybook
+
+[102]
+FZ1=
+FZ2=Buch
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1	book
+Antwort_2=0	door
+Antwort_3=0	pencil
+Antwort_4=0	table
+
+[103]
+FZ1=
+FZ2=Kreide
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	chalk
+Antwort_2=0	pen
+Antwort_3=0	crayon
+Antwort_4=0	book
+
+[104]
+FZ1=
+FZ2=Kind
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	child
+Antwort_2=0	man
+Antwort_3=0	chalk
+Antwort_4=0	woman
+
+[105]
+FZ1=
+FZ2=Kinder
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1	children
+Antwort_2=0	men
+Antwort_3=0	babys
+Antwort_4=0	women
+
+[106]
+FZ1=
+FZ2=Schulheft
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	copybook
+Antwort_2=0	blackboard
+Antwort_3=0	felt tip
+Antwort_4=0	snowflakes
+
+[107]
+FZ1=
+FZ2=Mappe
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	folder
+Antwort_2=0	table
+Antwort_3=0	picture
+Antwort_4=0	ruler
+
+[108]
+FZ1=
+FZ2=Farbkasten
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	paintbox
+Antwort_2=0	teacher
+Antwort_3=0	schoolbag
+Antwort_4=0	pencil
+
+[109]
+FZ1=
+FZ2=Stift
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	pen
+Antwort_2=0	rubber
+Antwort_3=0	picture
+Antwort_4=0	sheet
+
+[110]
+FZ1=
+FZ2=Bleistift
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	pencil
+Antwort_2=0	chick
+Antwort_3=0	pen
+Antwort_4=0	scissors
+
+[111]
+FZ1=
+FZ2=Federmäppchen
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	pencil case
+Antwort_2=0	schoolbag
+Antwort_3=0	window colour
+Antwort_4=0	felt tip
+
+[112]
+FZ1=
+FZ2=Bleistiftanspitzer
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	pencil sharpener
+Antwort_2=0	pen
+Antwort_3=0	pencil case
+Antwort_4=0	pencil
+
+[113]
+FZ1=
+FZ2=Bild
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	picture
+Antwort_2=0	beaver
+Antwort_3=0	window
+Antwort_4=0	teacher
+
+[114]
+FZ1=
+FZ2=Radiergummi
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	rubber
+Antwort_2=0	ruler
+Antwort_3=0	reindeer
+Antwort_4=0	donkey
+
+[115]
+FZ1=
+FZ2=Lineal
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	ruler
+Antwort_2=0	cock
+Antwort_3=0	rubber
+Antwort_4=0	lamb
+
+[116]
+FZ1=
+FZ2=Schule
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	school
+Antwort_2=0	sheep
+Antwort_3=0	sheet
+Antwort_4=0	sunshine
+
+[117]
+FZ1=
+FZ2=Schultasche
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	schoolbag
+Antwort_2=0	blackboard
+Antwort_3=0	pencil case
+Antwort_4=0	table
+
+[118]
+FZ1=
+FZ2=Schere
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	scissors
+Antwort_2=0	parrot
+Antwort_3=0	sister
+Antwort_4=0	school
+
+[119]
+FZ1=
+FZ2=Blatt
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	sheet
+Antwort_2=0	bed
+Antwort_3=0	chair
+Antwort_4=0	horse
+
+[120]
+FZ1=
+FZ2=Tisch
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	table
+Antwort_2=0	ten
+Antwort_3=0	turkey
+Antwort_4=0	teacher
+
+[121]
+FZ1=
+FZ2=Lehrer
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	teacher
+Antwort_2=0	picture
+Antwort_3=0	teatime
+Antwort_4=0	lucky
+
+[122]
+FZ1=
+FZ2=Fenster
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	window
+Antwort_2=0	clock
+Antwort_3=0	windy
+Antwort_4=0	money
+
+[123]
+FZ1=
+FZ2=Katze
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	cat
+Antwort_2=0	horse
+Antwort_3=0	dog
+Antwort_4=0	mouse
+
+[124]
+FZ1=
+FZ2=Küken
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	chick
+Antwort_2=0	garden
+Antwort_3=0	lamb
+Antwort_4=0	lion
+
+[125]
+FZ1=
+FZ2=Huhn
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	chicken
+Antwort_2=0	chair
+Antwort_3=0	chalk
+Antwort_4=0	hippo
+
+[126]
+FZ1=
+FZ2=Hahn
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	cock
+Antwort_2=0	picture
+Antwort_3=0	cow
+Antwort_4=0	turkey
+
+[127]
+FZ1=
+FZ2=Kuh
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	cow
+Antwort_2=0	egg
+Antwort_3=0	dog
+Antwort_4=0	uncle
+
+[128]
+FZ1=
+FZ2=Hund
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	dog
+Antwort_2=0	pig
+Antwort_3=0	cat
+Antwort_4=0	ant
+
+[129]
+FZ1=
+FZ2=Esel
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	donkey
+Antwort_2=0	horse
+Antwort_3=0	monkey
+Antwort_4=0	buffalo
+
+[130]
+FZ1=
+FZ2=Ente
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	duck
+Antwort_2=0	sheep
+Antwort_3=0	chick
+Antwort_4=0	bee
+
+[131]
+FZ1=
+FZ2=Henne
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	hen
+Antwort_2=0	egg
+Antwort_3=0	rat
+Antwort_4=0	bat
+
+[132]
+FZ1=
+FZ2=Pferd
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	horse
+Antwort_2=0	parrot
+Antwort_3=0	hippo
+Antwort_4=0	pig
+
+[133]
+FZ1=
+FZ2=Lamm
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	lamb
+Antwort_2=0	light
+Antwort_3=0	lion
+Antwort_4=0	love
+
+[134]
+FZ1=
+FZ2=Maus
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	mouse
+Antwort_2=0	moon
+Antwort_3=0	monkey
+Antwort_4=0	mirror
+
+[135]
+FZ1=
+FZ2=Mäuse
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	mice
+Antwort_2=0	meat
+Antwort_3=0	ice
+Antwort_4=0	mail
+
+[136]
+FZ1=
+FZ2=Ratte
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	rat
+Antwort_2=0	rain
+Antwort_3=0	ruler
+Antwort_4=0	bat
+
+[137]
+FZ1=
+FZ2=Schwein
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	pig
+Antwort_2=0	parrot
+Antwort_3=0	picture
+Antwort_4=0	beaver
+
+[138]
+FZ1=
+FZ2=Pony
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	pony
+Antwort_2=0	dog
+Antwort_3=0	horse
+Antwort_4=0	cat
+
+[139]
+FZ1=
+FZ2=Schaf
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	sheep
+Antwort_2=0	sheet
+Antwort_3=0	school
+Antwort_4=0	shirt
+
+[140]
+FZ1=
+FZ2=Truthahn
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	turkey
+Antwort_2=0	monkey
+Antwort_3=0	donkey
+Antwort_4=0	parrot
+
+[141]
+FZ1=
+FZ2=Bär
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	bear
+Antwort_2=0	beaver
+Antwort_3=0	bat
+Antwort_4=0	bee
+
+[142]
+FZ1=
+FZ2=Büffel
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	buffalo
+Antwort_2=0	bee
+Antwort_3=0	bear
+Antwort_4=0	beaver
+
+[143]
+FZ1=
+FZ2=Kamel
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	camel
+Antwort_2=0	turkey
+Antwort_3=0	ant
+Antwort_4=0	chalk
+
+[144]
+FZ1=
+FZ2=Elefant
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	elephant
+Antwort_2=0	horse
+Antwort_3=0	hippo
+Antwort_4=0	cow
+
+[145]
+FZ1=
+FZ2=Giraffe
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	giraffe
+Antwort_2=0	table
+Antwort_3=0	pig
+Antwort_4=0	garden
+
+[146]
+FZ1=
+FZ2=Nilpferd
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	hippo
+Antwort_2=0	donkey
+Antwort_3=0	horse
+Antwort_4=0	lion
+
+[147]
+FZ1=
+FZ2=Känguru
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	kangaroo
+Antwort_2=0	cow
+Antwort_3=0	buffalo
+Antwort_4=0	dog
+
+[148]
+FZ1=
+FZ2=Löwe
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	lion
+Antwort_2=0	cock
+Antwort_3=0	lamb
+Antwort_4=0	bat
+
+[149]
+FZ1=
+FZ2=Affe
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	monkey
+Antwort_2=0	turkey
+Antwort_3=0	donkey
+Antwort_4=0	parrot
+
+[150]
+FZ1=
+FZ2=Papagei
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0	turkey
+Antwort_2=0	frog
+Antwort_3=1	parrot
+Antwort_4=0	pencil
+
+[151]
+FZ1=
+FZ2=Rentier
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	reindeer
+Antwort_2=0	rainbow
+Antwort_3=0	rat
+Antwort_4=0	rubber
+
+[152]
+FZ1=
+FZ2=Tiger
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	tiger
+Antwort_2=0	cat
+Antwort_3=0	lion
+Antwort_4=0	dog
+
+[153]
+FZ1=
+FZ2=Zebra
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	zebra
+Antwort_2=0	animal
+Antwort_3=0	horse
+Antwort_4=0	pony
+
+[154]
+FZ1=
+FZ2=Ameise
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	ant
+Antwort_2=0	dog
+Antwort_3=0	cat
+Antwort_4=0	pig
+
+[155]
+FZ1=
+FZ2=Fledermaus
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	bat
+Antwort_2=0	cat
+Antwort_3=0	rat
+Antwort_4=0	pig
+
+[156]
+FZ1=
+FZ2=Biber
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	beaver
+Antwort_2=0	bee
+Antwort_3=0	bear
+Antwort_4=0	bean
+
+[157]
+FZ1=
+FZ2=Biene
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1	bee
+Antwort_2=0	bear
+Antwort_3=0	budgie
+Antwort_4=0	bread
+
+[158]
+FZ1=
+FZ2=Schmetterling
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	butterfly
+Antwort_2=0	cucumber
+Antwort_3=0	bubble gum
+Antwort_4=0	rabbit
+
+[159]
+FZ1=
+FZ2=Raupe
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1	caterpillar
+Antwort_2=0	hedgehog
+Antwort_3=0	guinea pig
+Antwort_4=0	blueberry
+
+[160]
+FZ1=
+FZ2=Fliege
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	fly
+Antwort_2=0	bee
+Antwort_3=0	sky
+Antwort_4=0	bat
+
+[161]
+FZ1=
+FZ2=Fuchs
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	fox
+Antwort_2=0	fish
+Antwort_3=0	box
+Antwort_4=0	frog
+
+[162]
+FZ1=
+FZ2=Igel
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	hedgehog
+Antwort_2=0	cat food
+Antwort_3=0	magpie
+Antwort_4=0	guinea pig
+
+[163]
+FZ1=
+FZ2=Elster
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	magpie
+Antwort_2=0	tortoise
+Antwort_3=0	mother
+Antwort_4=0	spider
+
+[164]
+FZ1=
+FZ2=Hase
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1	rabbit
+Antwort_2=0	rat
+Antwort_3=0	rubber
+Antwort_4=0	robin
+
+[165]
+FZ1=
+FZ2=Rotkehlchen
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	robin
+Antwort_2=0	rabbit
+Antwort_3=0	ruler
+Antwort_4=0	rainbow
+
+[166]
+FZ1=
+FZ2=Spinne
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	spider
+Antwort_2=0	curd
+Antwort_3=0	sheep
+Antwort_4=0	apple
+
+[167]
+FZ1=
+FZ2=Wurm
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	worm
+Antwort_2=0	window
+Antwort_3=0	wind
+Antwort_4=0	cheese
+
+[168]
+FZ1=
+FZ2=Wellensittich
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	budgie
+Antwort_2=0	donkey
+Antwort_3=0	turkey
+Antwort_4=0	magpie
+
+[169]
+FZ1=
+FZ2=Katze
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	cat
+Antwort_2=0	dog
+Antwort_3=0	lion
+Antwort_4=0	mouse
+
+[170]
+FZ1=
+FZ2=Hund
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	dog
+Antwort_2=0	mouse
+Antwort_3=0	doll
+Antwort_4=0	cat
+
+[171]
+FZ1=
+FZ2=Fisch
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	fish
+Antwort_2=0	fox
+Antwort_3=0	frog
+Antwort_4=0	fly
+
+[172]
+FZ1=
+FZ2=Meerschweinchen
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	guinea pig
+Antwort_2=0	hedgehog
+Antwort_3=0	magpie
+Antwort_4=0	budgie
+
+[173]
+FZ1=
+FZ2=Schildkröte
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	tortoise
+Antwort_2=0	caterpillar
+Antwort_3=0	table
+Antwort_4=0	budgie
+
+[174]
+FZ1=
+FZ2=Apfel
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1	apple
+Antwort_2=0	cherry
+Antwort_3=0	banana
+Antwort_4=0	jam
+
+[175]
+FZ1=
+FZ2=Banane
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	banana
+Antwort_2=0	chips
+Antwort_3=0	bean
+Antwort_4=0	grapes
+
+[176]
+FZ1=
+FZ2=Bohne
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	bean
+Antwort_2=0	egg
+Antwort_3=0	bear
+Antwort_4=0	dips
+
+[177]
+FZ1=
+FZ2=Blaubeere
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	blueberry
+Antwort_2=0	marmalade
+Antwort_3=0	chocolate
+Antwort_4=0	bread
+
+[178]
+FZ1=
+FZ2=Brot
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	bread
+Antwort_2=0	butter
+Antwort_3=0	apple
+Antwort_4=0	bee
+
+[179]
+FZ1=
+FZ2=Frühstück
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	breakfast
+Antwort_2=0	dog food
+Antwort_3=0	bedroom
+Antwort_4=0	rainbow
+
+[180]
+FZ1=
+FZ2=Kaugummi
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	bubble gum
+Antwort_2=0	ice - cream
+Antwort_3=0	cucumber
+Antwort_4=0	breakfast
+
+[181]
+FZ1=
+FZ2=Katzenfutter
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	cat food
+Antwort_2=0	breakfast
+Antwort_3=0	dog food
+Antwort_4=0	mice
+
+[182]
+FZ1=
+FZ2=Käse
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	cheese
+Antwort_2=0	cherry
+Antwort_3=0	cucumber
+Antwort_4=0	cats
+
+[183]
+FZ1=
+FZ2=Kirsche
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	cherry
+Antwort_2=0	chips
+Antwort_3=0	chair
+Antwort_4=0	chicken
+
+[184]
+FZ1=
+FZ2=Pommes frites
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	chips
+Antwort_2=0	potatoes
+Antwort_3=0	chicken
+Antwort_4=0	grapes
+
+[185]
+FZ1=
+FZ2=Schokolade
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	chocolate
+Antwort_2=0	cheese
+Antwort_3=0	cream
+Antwort_4=0	cucumber
+
+[186]
+FZ1=
+FZ2=Sahne
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	cream
+Antwort_2=0	chicken
+Antwort_3=0	cheese
+Antwort_4=0	chips
+
+[187]
+FZ1=
+FZ2=Gurke
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	cucumber
+Antwort_2=0	cream
+Antwort_3=0	chips
+Antwort_4=0	cat
+
+[188]
+FZ1=
+FZ2=Quark
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	curd
+Antwort_2=0	chips
+Antwort_3=0	cherry
+Antwort_4=0	ham
+
+[189]
+FZ1=
+FZ2=Hundefutter
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	dog food
+Antwort_2=0	dips
+Antwort_3=0	cat food
+Antwort_4=0	bread
+
+[190]
+FZ1=
+FZ2=Ei
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	egg
+Antwort_2=0	bat
+Antwort_3=0	ant
+Antwort_4=0	bean
+
+[191]
+FZ1=
+FZ2=Trauben
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	grapes
+Antwort_2=0	juice
+Antwort_3=0	curd
+Antwort_4=0	chips
+
+[192]
+FZ1=
+FZ2=Schinken
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	ham
+Antwort_2=0	bread
+Antwort_3=0	jam
+Antwort_4=0	curd
+
+[193]
+FZ1=
+FZ2=Hamburger
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	hamburger
+Antwort_2=0	chocolate
+Antwort_3=0	marmalade
+Antwort_4=0	banana
+
+[194]
+FZ1=
+FZ2=Speiseeis
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	ice - cream
+Antwort_2=0	breakfast
+Antwort_3=0	cat food
+Antwort_4=0	cucumber
+
+[195]
+FZ1=
+FZ2=Marmelade
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	jam
+Antwort_2=0	blueberry
+Antwort_3=0	ham
+Antwort_4=0	cheese
+
+[196]
+FZ1=
+FZ2=Saft
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1	juice
+Antwort_2=0	bean
+Antwort_3=0	bread
+Antwort_4=0	egg
+
+[197]
+FZ1=
+FZ2=Zitrone
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	lemon
+Antwort_2=0	pea
+Antwort_3=0	tasty
+Antwort_4=0	rice
+
+[198]
+FZ1=
+FZ2=Kopfsalat
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	lettuce
+Antwort_2=0	pineapple
+Antwort_3=0	raspberry
+Antwort_4=0	watermelon
+
+[199]
+FZ1=
+FZ2=Fleisch
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	meat
+Antwort_2=0	raisin
+Antwort_3=0	bread
+Antwort_4=0	plum
+
+[200]
+FZ1=
+FZ2=Öl
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	oil
+Antwort_2=0	rice
+Antwort_3=0	salt
+Antwort_4=0	pea
+
+[201]
+FZ1=
+FZ2=Erbse
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	pea
+Antwort_2=0	egg
+Antwort_3=0	salt
+Antwort_4=0	ant
+
+[202]
+FZ1=
+FZ2=Pfirsich
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	peach
+Antwort_2=0	lemon
+Antwort_3=0	bean
+Antwort_4=0	meat
+
+[203]
+FZ1=
+FZ2=Erdnuss
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	peanut
+Antwort_2=0	raisin
+Antwort_3=0	peach
+Antwort_4=0	bowl
+
+[204]
+FZ1=
+FZ2=Birne
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	pear
+Antwort_2=0	bean
+Antwort_3=0	apple
+Antwort_4=0	plum
+
+[205]
+FZ1=
+FZ2=Ananas
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	pineapple
+Antwort_2=0	strawberry
+Antwort_3=0	raspberry
+Antwort_4=0	tomato
+
+[206]
+FZ1=
+FZ2=Pflaume
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	plum
+Antwort_2=0	pear
+Antwort_3=0	meat
+Antwort_4=0	salt
+
+[207]
+FZ1=
+FZ2=Rosine
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	raisin
+Antwort_2=0	turkey
+Antwort_3=0	rice
+Antwort_4=0	lemon
+
+[208]
+FZ1=
+FZ2=Himbeere
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	raspberry
+Antwort_2=0	peanut
+Antwort_3=0	strawberry
+Antwort_4=0	lettuce
+
+[209]
+FZ1=
+FZ2=Reis
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	rice
+Antwort_2=0	salt
+Antwort_3=0	nice
+Antwort_4=0	pea
+
+[210]
+FZ1=
+FZ2=Salz
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	salt
+Antwort_2=0	say
+Antwort_3=0	sand
+Antwort_4=0	since
+
+[211]
+FZ1=
+FZ2=Sandwich
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	sandwich
+Antwort_2=0	lollipop
+Antwort_3=0	breakfast
+Antwort_4=0	orange
+
+[212]
+FZ1=
+FZ2=Erdbeere
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	strawberry
+Antwort_2=0	blueberry
+Antwort_3=0	raspberry
+Antwort_4=0	red berry
+
+[213]
+FZ1=
+FZ2=lecker
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	tasty
+Antwort_2=0	loudly
+Antwort_3=0	windy
+Antwort_4=0	mummy
+
+[214]
+FZ1=
+FZ2=Tomate
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1	tomato
+Antwort_2=0	apple
+Antwort_3=0	peach
+Antwort_4=0	turkey
+
+[215]
+FZ1=
+FZ2=Nachmittag
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	afternoon
+Antwort_2=0	night
+Antwort_3=0	day
+Antwort_4=0	evening
+
+[216]
+FZ1=
+FZ2=Schüssel
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	bowl
+Antwort_2=0	book
+Antwort_3=0	bear
+Antwort_4=0	soap
+
+[217]
+FZ1=
+FZ2=Tasse
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	cup
+Antwort_2=0	tea
+Antwort_3=0	plate
+Antwort_4=0	saucer
+
+[218]
+FZ1=
+FZ2=Milch
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	milk
+Antwort_2=0	tray
+Antwort_3=0	mice
+Antwort_4=0	mouth
+
+[219]
+FZ1=
+FZ2=Serviette
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	napkin
+Antwort_2=0	budgie
+Antwort_3=0	peanut
+Antwort_4=0	sugar
+
+[220]
+FZ1=
+FZ2=Zucker
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1	sugar
+Antwort_2=0	water
+Antwort_3=0	salt
+Antwort_4=0	shoulder
+
+[221]
+FZ1=
+FZ2=Tischtuch
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	tablecloth
+Antwort_2=0	blackboard
+Antwort_3=0	window
+Antwort_4=0	table
+
+[222]
+FZ1=
+FZ2=Tee
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	tea
+Antwort_2=0	time
+Antwort_3=0	cat
+Antwort_4=0	tear
+
+[223]
+FZ1=
+FZ2=Tablett
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	tray
+Antwort_2=0	way
+Antwort_3=0	say
+Antwort_4=0	stay
+
+[224]
+FZ1=
+FZ2=Teebeutel
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	teabag
+Antwort_2=0	teacup
+Antwort_3=0	teaspoon
+Antwort_4=0	teatime
+
+[225]
+FZ1=
+FZ2=Teetasse
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	teacup
+Antwort_2=0	teatime
+Antwort_3=0	teaspoon
+Antwort_4=0	teabag
+
+[226]
+FZ1=
+FZ2=Teekanne
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	teapot
+Antwort_2=0	teaspoon
+Antwort_3=0	teacup
+Antwort_4=0	teatime
+
+[227]
+FZ1=
+FZ2=Teelöffel
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1	teaspoon
+Antwort_2=0	teapot
+Antwort_3=0	teatime
+Antwort_4=0	teacup
+
+[228]
+FZ1=
+FZ2=Wasser
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	water
+Antwort_2=0	heart
+Antwort_3=0	warm
+Antwort_4=0	way
+
+[229]
+FZ1=
+FZ2=Arm
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	arm
+Antwort_2=0	head
+Antwort_3=0	leg
+Antwort_4=0	finger
+
+[230]
+FZ1=
+FZ2=Rücken
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	back
+Antwort_2=0	hip
+Antwort_3=0	eye
+Antwort_4=0	throat
+
+[231]
+FZ1=
+FZ2=Ohr
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	ear
+Antwort_2=0	mouth
+Antwort_3=0	eye
+Antwort_4=0	nose
+
+[232]
+FZ1=
+FZ2=Auge
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	eye
+Antwort_2=0	nose
+Antwort_3=0	ear
+Antwort_4=0	arm
+
+[233]
+FZ1=
+FZ2=Finger
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	finger
+Antwort_2=0	leg
+Antwort_3=0	arm
+Antwort_4=0	head
+
+[234]
+FZ1=
+FZ2=Fuß
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	foot
+Antwort_2=0	leg
+Antwort_3=0	arm
+Antwort_4=0	back
+
+[235]
+FZ1=
+FZ2=Füße
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	feet
+Antwort_2=0	neck
+Antwort_3=0	sheet
+Antwort_4=0	knee
+
+[236]
+FZ1=
+FZ2=Hand
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	hand
+Antwort_2=0	arm
+Antwort_3=0	finger
+Antwort_4=0	toe
+
+[237]
+FZ1=
+FZ2=Kopf
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	head
+Antwort_2=0	leg
+Antwort_3=0	heart
+Antwort_4=0	shoulder
+
+[238]
+FZ1=
+FZ2=Herz
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	heart
+Antwort_2=0	arm
+Antwort_3=0	head
+Antwort_4=0	hand
+
+[239]
+FZ1=
+FZ2=Hüfte
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	hip
+Antwort_2=0	head
+Antwort_3=0	toe
+Antwort_4=0	ear
+
+[240]
+FZ1=
+FZ2=Knie
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	knee
+Antwort_2=0	mouth
+Antwort_3=0	leg
+Antwort_4=0	toe
+
+[241]
+FZ1=
+FZ2=Bein
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	leg
+Antwort_2=0	throat
+Antwort_3=0	arm
+Antwort_4=0	back
+
+[242]
+FZ1=
+FZ2=Mund
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	mouth
+Antwort_2=0	mice
+Antwort_3=0	neck
+Antwort_4=0	heart
+
+[243]
+FZ1=
+FZ2=Hals
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	neck
+Antwort_2=0	toe
+Antwort_3=0	back
+Antwort_4=0	eye
+
+[244]
+FZ1=
+FZ2=Nase
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	nose
+Antwort_2=0	ear
+Antwort_3=0	neck
+Antwort_4=0	toe
+
+[245]
+FZ1=
+FZ2=Schulter
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	shoulder
+Antwort_2=0	foot
+Antwort_3=0	shower
+Antwort_4=0	leg
+
+[246]
+FZ1=
+FZ2=Kehle
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	throat
+Antwort_2=0	knee
+Antwort_3=0	tree
+Antwort_4=0	ear
+
+[247]
+FZ1=
+FZ2=Daumen
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	thumb
+Antwort_2=0	feet
+Antwort_3=0	throat
+Antwort_4=0	hand
+
+[248]
+FZ1=
+FZ2=Zeh
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	toe
+Antwort_2=0	ear
+Antwort_3=0	eye
+Antwort_4=0	hip
+
+[249]
+FZ1=
+FZ2=Brille
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	glasses
+Antwort_2=0	sugar
+Antwort_3=0	bear
+Antwort_4=0	garden
+
+[250]
+FZ1=
+FZ2=Kopfschmerzen
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	headache
+Antwort_2=0	sore throat
+Antwort_3=0	runny nose
+Antwort_4=0	cold
+
+[251]
+FZ1=
+FZ2=Halsschmerzen
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	sore throat
+Antwort_2=0	runny nose
+Antwort_3=0	headache
+Antwort_4=0	heartbeat
+
+[252]
+FZ1=
+FZ2=laufende Nase
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	runny nose
+Antwort_2=0	headache
+Antwort_3=0	windy ear
+Antwort_4=0	sore throat
+
+[253]
+FZ1=
+FZ2=Bluse
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	blouse
+Antwort_2=0	shirt
+Antwort_3=0	boots
+Antwort_4=0	socks
+
+[254]
+FZ1=
+FZ2=Stiefel
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	boot
+Antwort_2=0	dress
+Antwort_3=0	blouse
+Antwort_4=0	shirt
+
+[255]
+FZ1=
+FZ2=Wäscheleine
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	clothesline
+Antwort_2=0	doormat
+Antwort_3=0	tablecloth
+Antwort_4=0	mailbox
+
+[256]
+FZ1=
+FZ2=Mantel
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	coat
+Antwort_2=0	hat
+Antwort_3=0	dress
+Antwort_4=0	skirt
+
+[257]
+FZ1=
+FZ2=Kleid
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	dress
+Antwort_2=0	socks
+Antwort_3=0	hat
+Antwort_4=0	coat
+
+[258]
+FZ1=
+FZ2=Hut
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	hat
+Antwort_2=0	fat
+Antwort_3=0	cat
+Antwort_4=0	bat
+
+[259]
+FZ1=
+FZ2=Jacke
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	jacket
+Antwort_2=0	trousers
+Antwort_3=0	dress
+Antwort_4=0	shoes
+
+[260]
+FZ1=
+FZ2=Jeanshose
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	jeans
+Antwort_2=0	chair
+Antwort_3=0	shorts
+Antwort_4=0	jacket
+
+[261]
+FZ1=
+FZ2=mittelgroß
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1	medium
+Antwort_2=0	small
+Antwort_3=0	large
+Antwort_4=0	long
+
+[262]
+FZ1=
+FZ2=groß
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1	large
+Antwort_2=0	small
+Antwort_3=0	medium
+Antwort_4=0	short
+
+[263]
+FZ1=
+FZ2=klein
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1	small
+Antwort_2=0	large
+Antwort_3=0	long
+Antwort_4=0	medium
+
+[264]
+FZ1=
+FZ2=Hosentasche
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1	pocket
+Antwort_2=0	parrot
+Antwort_3=0	pencil
+Antwort_4=0	plum
+
+[265]
+FZ1=
+FZ2=Hemd
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	shirt
+Antwort_2=0	shoe
+Antwort_3=0	skirt
+Antwort_4=0	hat
+
+[266]
+FZ1=
+FZ2=Schuhe
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	shoes
+Antwort_2=0	shower
+Antwort_3=0	school
+Antwort_4=0	key
+
+[267]
+FZ1=
+FZ2=kurze Hose
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	shorts
+Antwort_2=0	trousers
+Antwort_3=0	pocket
+Antwort_4=0	boots
+
+[268]
+FZ1=
+FZ2=Waschmaschine
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	washing machine
+Antwort_2=0	shower curtain
+Antwort_3=0	water machine
+Antwort_4=0	children´s  room
+
+[269]
+FZ1=
+FZ2=Dachboden
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	attic
+Antwort_2=0	hall
+Antwort_3=0	chair
+Antwort_4=0	mirror
+
+[270]
+FZ1=
+FZ2=Badezimmer
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	bathroom
+Antwort_2=0	children´s  room
+Antwort_3=0	bedroom
+Antwort_4=0	coat rack
+
+[271]
+FZ1=
+FZ2=Bett
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	bed
+Antwort_2=0	chair
+Antwort_3=0	table
+Antwort_4=0	door
+
+[272]
+FZ1=
+FZ2=Schlafzimmer
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	bedroom
+Antwort_2=0	kitchen
+Antwort_3=0	bathroom
+Antwort_4=0	hall
+
+[273]
+FZ1=
+FZ2=Stuhl
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	chair
+Antwort_2=0	chips
+Antwort_3=0	chalk
+Antwort_4=0	coat
+
+[274]
+FZ1=
+FZ2=Kinderzimmer
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	children´s  room
+Antwort_2=0	bedroom
+Antwort_3=0	kitchen
+Antwort_4=0	fireplace
+
+[275]
+FZ1=
+FZ2=Kleiderständer
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	coat rack
+Antwort_2=0	furniture
+Antwort_3=0	fireplace
+Antwort_4=0	rainbow
+
+[276]
+FZ1=
+FZ2=Schreibtisch
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	desk
+Antwort_2=0	door
+Antwort_3=0	table
+Antwort_4=0	window
+
+[277]
+FZ1=
+FZ2=Tür
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	door
+Antwort_2=0	table
+Antwort_3=0	window
+Antwort_4=0	room
+
+[278]
+FZ1=
+FZ2=Fußmatte
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	doormat
+Antwort_2=0	rainbow
+Antwort_3=0	fireplace
+Antwort_4=0	mailbox
+
+[279]
+FZ1=
+FZ2=Kamin
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	fireplace
+Antwort_2=0	bedroom
+Antwort_3=0	mailbox
+Antwort_4=0	coat rack
+
+[280]
+FZ1=
+FZ2=Kühlschrank
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	fridge
+Antwort_2=0	cold
+Antwort_3=0	fire
+Antwort_4=0	ice
+
+[281]
+FZ1=
+FZ2=Möbel
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	furniture
+Antwort_2=0	mirror
+Antwort_3=0	desk
+Antwort_4=0	attic
+
+[282]
+FZ1=
+FZ2=Standuhr
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	grandfather clock
+Antwort_2=0	coat rack
+Antwort_3=0	grandmother clock
+Antwort_4=0	shower curtain
+
+[283]
+FZ1=
+FZ2=Diele
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	hall
+Antwort_2=0	room
+Antwort_3=0	attic
+Antwort_4=0	key
+
+[284]
+FZ1=
+FZ2=Schlüssel
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	key
+Antwort_2=0	shoulder
+Antwort_3=0	shower
+Antwort_4=0	bee
+
+[285]
+FZ1=
+FZ2=Küche
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	kitchen
+Antwort_2=0	bed
+Antwort_3=0	key
+Antwort_4=0	hall
+
+[286]
+FZ1=
+FZ2=Wohnzimmer
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	living room
+Antwort_2=0	bathroom
+Antwort_3=0	bedroom
+Antwort_4=0	children´s  room
+
+[287]
+FZ1=
+FZ2=Briefkasten
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1	mailbox
+Antwort_2=0	doormat
+Antwort_3=0	mirror
+Antwort_4=0	kitchen
+
+[288]
+FZ1=
+FZ2=Spiegel
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	mirror
+Antwort_2=0	table
+Antwort_3=0	chair
+Antwort_4=0	trousers
+
+[289]
+FZ1=
+FZ2=Zimmer
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1	room
+Antwort_2=0	hall
+Antwort_3=0	chair
+Antwort_4=0	attic
+
+[290]
+FZ1=
+FZ2=Dusche
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	shower
+Antwort_2=0	school
+Antwort_3=0	shoulder
+Antwort_4=0	desk
+
+[291]
+FZ1=
+FZ2=Duschvorhang
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	shower curtain
+Antwort_2=0	washing machine
+Antwort_3=0	children´s  room
+Antwort_4=0	mailbox
+
+[292]
+FZ1=
+FZ2=Sofa
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	sofa
+Antwort_2=0	door
+Antwort_3=0	table
+Antwort_4=0	bed
+
+[293]
+FZ1=
+FZ2=Toaster
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	toaster
+Antwort_2=0	desk
+Antwort_3=0	table
+Antwort_4=0	door
+
+[294]
+FZ1=
+FZ2=Vogel
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	bird
+Antwort_2=0	fish
+Antwort_3=0	cat
+Antwort_4=0	horse
+
+[295]
+FZ1=
+FZ2=Feder
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	feather
+Antwort_2=0	stone
+Antwort_3=0	field
+Antwort_4=0	tail
+
+[296]
+FZ1=
+FZ2=Feld
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	field
+Antwort_2=0	feather
+Antwort_3=0	flower
+Antwort_4=0	fine
+
+[297]
+FZ1=
+FZ2=Blume
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	flower
+Antwort_2=0	forest
+Antwort_3=0	field
+Antwort_4=0	wing
+
+[298]
+FZ1=
+FZ2=Wald
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	forest
+Antwort_2=0	flower
+Antwort_3=0	wood
+Antwort_4=0	trees
+
+[299]
+FZ1=
+FZ2=Gras
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	grass
+Antwort_2=0	stone
+Antwort_3=0	rose
+Antwort_4=0	green
+
+[300]
+FZ1=
+FZ2=Hügel
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	hill
+Antwort_2=0	hat
+Antwort_3=0	high
+Antwort_4=0	head
+
+[301]
+FZ1=
+FZ2=Berg
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	mountain
+Antwort_2=0	rock
+Antwort_3=0	mouth
+Antwort_4=0	country
+
+[302]
+FZ1=
+FZ2=Teich
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	pond
+Antwort_2=0	ocean
+Antwort_3=0	sea
+Antwort_4=0	river
+
+[303]
+FZ1=
+FZ2=Felsen
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	rock
+Antwort_2=0	hill
+Antwort_3=0	stone
+Antwort_4=0	mountain
+
+[304]
+FZ1=
+FZ2=Rose
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	rose
+Antwort_2=0	flower
+Antwort_3=0	nose
+Antwort_4=0	tree
+
+[305]
+FZ1=
+FZ2=Stein
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	stone
+Antwort_2=0	hill
+Antwort_3=0	rock
+Antwort_4=0	mountain
+
+[306]
+FZ1=
+FZ2=Schwanz
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	tail
+Antwort_2=0	neck
+Antwort_3=0	beak
+Antwort_4=0	back
+
+[307]
+FZ1=
+FZ2=Flügel
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	wing
+Antwort_2=0	field
+Antwort_3=0	wind
+Antwort_4=0	bird
+
+[308]
+FZ1=
+FZ2=Holz
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	wood
+Antwort_2=0	white
+Antwort_3=0	tree
+Antwort_4=0	horse
+
+[309]
+FZ1=
+FZ2=Ball
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	ball
+Antwort_2=0	doll
+Antwort_3=0	balloon
+Antwort_4=0	bear
+
+[310]
+FZ1=
+FZ2=Luftballon
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1	balloon
+Antwort_2=0	doll
+Antwort_3=0	ball
+Antwort_4=0	puzzle
+
+[311]
+FZ1=
+FZ2=Briefumschlag
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	envelope
+Antwort_2=0	blackbird
+Antwort_3=0	evening
+Antwort_4=0	planet
+
+[312]
+FZ1=
+FZ2=Freundschaft
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	friendship
+Antwort_2=0	field
+Antwort_3=0	love letter
+Antwort_4=0	flower
+
+[313]
+FZ1=
+FZ2=Kuss
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	kiss
+Antwort_2=0	secret
+Antwort_3=0	miss
+Antwort_4=0	mouth
+
+[314]
+FZ1=
+FZ2=Liebe
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	love
+Antwort_2=0	live
+Antwort_3=0	earth
+Antwort_4=0	toys
+
+[315]
+FZ1=
+FZ2=Spielzeug
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	toys
+Antwort_2=0	shoes
+Antwort_3=0	trees
+Antwort_4=0	kiss
+
+[316]
+FZ1=
+FZ2=Geheimnis
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	secret
+Antwort_2=0	seven
+Antwort_3=0	search
+Antwort_4=0	silent
+
+[317]
+FZ1=
+FZ2=Erde
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	earth
+Antwort_2=0	sun
+Antwort_3=0	moon
+Antwort_4=0	star
+
+[318]
+FZ1=
+FZ2=Mond
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	moon
+Antwort_2=0	sun
+Antwort_3=0	Monday
+Antwort_4=0	earth
+
+[319]
+FZ1=
+FZ2=Weltraum
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1	space
+Antwort_2=0	heaven
+Antwort_3=0	sky
+Antwort_4=0	cloud
+
+[320]
+FZ1=
+FZ2=Geschwindigkeit
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	speed
+Antwort_2=0	power
+Antwort_3=0	need
+Antwort_4=0	cream
+
+[321]
+FZ1=
+FZ2=Sterne
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	stars
+Antwort_2=0	moon
+Antwort_3=0	sun
+Antwort_4=0	earth
+
+[322]
+FZ1=
+FZ2=backen
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	bake
+Antwort_2=0	mix
+Antwort_3=0	cake
+Antwort_4=0	sugar
+
+[323]
+FZ1=
+FZ2=links
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	left
+Antwort_2=0	under
+Antwort_3=0	right
+Antwort_4=0	over
+
+[324]
+FZ1=
+FZ2=rechts
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	right
+Antwort_2=0	north
+Antwort_3=0	left
+Antwort_4=0	under
+
+[325]
+FZ1=
+FZ2=alt
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	old
+Antwort_2=0	ear
+Antwort_3=0	young
+Antwort_4=0	one
+
+[326]
+FZ1=
+FZ2=Auf Wiedersehen
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	good - bye
+Antwort_2=0	breakfast
+Antwort_3=0	good luck
+Antwort_4=0	straight ahead
+
+[327]
+FZ1=
+FZ2=bitte
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1	please
+Antwort_2=0	walk
+Antwort_3=0	thank you
+Antwort_4=0	plum
+
+[328]
+FZ1=
+FZ2=danke
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	thank you
+Antwort_2=0	three
+Antwort_3=0	please
+Antwort_4=0	Thursday
+
+[329]
+FZ1=
+FZ2=du
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	you
+Antwort_2=0	he
+Antwort_3=0	I
+Antwort_4=0	she
+
+[330]
+FZ1=
+FZ2=er
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	he
+Antwort_2=0	you
+Antwort_3=0	she
+Antwort_4=0	I
+
+[331]
+FZ1=
+FZ2=es
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1	it
+Antwort_2=0	he
+Antwort_3=0	she
+Antwort_4=0	you
+
+[332]
+FZ1=
+FZ2=Fahrrad
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	bicycle
+Antwort_2=0	bus
+Antwort_3=0	car
+Antwort_4=0	field
+
+[333]
+FZ1=
+FZ2=falsch
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	wrong
+Antwort_2=0	sad
+Antwort_3=0	right
+Antwort_4=0	left
+
+[334]
+FZ1=
+FZ2=Geburtstag
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	birthday
+Antwort_2=0	Monday
+Antwort_3=0	Sunday
+Antwort_4=0	Friday
+
+[335]
+FZ1=
+FZ2=gehen
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1	walk
+Antwort_2=0	sleep
+Antwort_3=0	chalk
+Antwort_4=0	good
+
+[336]
+FZ1=
+FZ2=Gesicht
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	face
+Antwort_2=0	head
+Antwort_3=0	five
+Antwort_4=0	glad
+
+[337]
+FZ1=
+FZ2=glücklich
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	happy
+Antwort_2=0	stormy
+Antwort_3=0	windy
+Antwort_4=0	ugly
+
+[338]
+FZ1=
+FZ2=gut
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	good
+Antwort_2=0	gold
+Antwort_3=0	bad
+Antwort_4=0	green
+
+[339]
+FZ1=
+FZ2=Haare
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	hair
+Antwort_2=0	heart
+Antwort_3=0	head
+Antwort_4=0	hat
+
+[340]
+FZ1=
+FZ2=haben
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	have
+Antwort_2=0	hip
+Antwort_3=0	hart
+Antwort_4=0	hair
+
+[341]
+FZ1=
+FZ2=heute
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	today
+Antwort_2=0	yesterday
+Antwort_3=0	tomorrow
+Antwort_4=0	soon
+
+[342]
+FZ1=
+FZ2=ich
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	I
+Antwort_2=0	he
+Antwort_3=0	you
+Antwort_4=0	she
+
+[343]
+FZ1=
+FZ2=krank
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	ill
+Antwort_2=0	left
+Antwort_3=0	inch
+Antwort_4=0	autumn
+
+[344]
+FZ1=
+FZ2=langsam
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	slow
+Antwort_2=0	snow
+Antwort_3=0	fast
+Antwort_4=0	food
+
+[345]
+FZ1=
+FZ2=machen
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	make
+Antwort_2=0	bake
+Antwort_3=0	cake
+Antwort_4=0	snake
+
+[346]
+FZ1=
+FZ2=mein
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	my
+Antwort_2=0	sky
+Antwort_3=0	bye
+Antwort_4=0	why
+
+[347]
+FZ1=
+FZ2=mir
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	me
+Antwort_2=0	knee
+Antwort_3=0	we
+Antwort_4=0	bee
+
+[348]
+FZ1=
+FZ2=Morgen
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	morning
+Antwort_2=0	night
+Antwort_3=0	evening
+Antwort_4=0	day
+
+[349]
+FZ1=
+FZ2=nein
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	no
+Antwort_2=0	okay
+Antwort_3=0	yes
+Antwort_4=0	perhaps
+
+[350]
+FZ1=
+FZ2=neu
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	new
+Antwort_2=0	no
+Antwort_3=0	now
+Antwort_4=0	nine
+
+[351]
+FZ1=
+FZ2=nicht
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	not
+Antwort_2=0	no
+Antwort_3=0	number
+Antwort_4=0	nose
+
+[352]
+FZ1=
+FZ2=sauber
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	clean
+Antwort_2=0	cat
+Antwort_3=0	cream
+Antwort_4=0	black
+
+[353]
+FZ1=
+FZ2=schmutzig
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	dirty
+Antwort_2=0	stormy
+Antwort_3=0	windy
+Antwort_4=0	duty
+
+[354]
+FZ1=
+FZ2=sehr
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	very
+Antwort_2=0	sad
+Antwort_3=0	ferry
+Antwort_4=0	time
+
+[355]
+FZ1=
+FZ2=sie
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	she
+Antwort_2=0	I
+Antwort_3=0	he
+Antwort_4=0	you
+
+[356]
+FZ1=
+FZ2=Spiel
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	game
+Antwort_2=0	sweet
+Antwort_3=0	fun
+Antwort_4=0	toys
+
+[357]
+FZ1=
+FZ2=Straße
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	street
+Antwort_2=0	sheep
+Antwort_3=0	sheet
+Antwort_4=0	sleep
+
+[358]
+FZ1=
+FZ2=süß
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	sweet
+Antwort_2=0	sleep
+Antwort_3=0	sheet
+Antwort_4=0	street
+
+[359]
+FZ1=
+FZ2=Tag
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	day
+Antwort_2=0	may
+Antwort_3=0	night
+Antwort_4=0	nine
+
+[360]
+FZ1=
+FZ2=Wagen
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1	car
+Antwort_2=0	train
+Antwort_3=0	far
+Antwort_4=0	wood
+
+[361]
+FZ1=
+FZ2=was
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1	what
+Antwort_2=0	where
+Antwort_3=0	water
+Antwort_4=0	who
+
+[362]
+FZ1=
+FZ2=wie
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	how
+Antwort_2=0	why
+Antwort_3=0	who
+Antwort_4=0	hot
+
+[363]
+FZ1=
+FZ2=Zahl
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	number
+Antwort_2=0	nine
+Antwort_3=0	zero
+Antwort_4=0	ruler
+
+[364]
+FZ1=
+FZ2=Zeit
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	time
+Antwort_2=0	fine
+Antwort_3=0	wine
+Antwort_4=0	slime

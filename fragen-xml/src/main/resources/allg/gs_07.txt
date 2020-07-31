@@ -1,0 +1,1105 @@
+[Thema]
+Thema= Grundschule 7
+Fragen=100
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Aus welchem Land stammt der Döner ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Türkei
+Antwort_2=0	 Dänemark
+Antwort_3=0	 Griechenland
+Antwort_4=0	  Indien
+
+[2]
+FZ1=
+FZ2=Was ist ein Matador ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 ein Staubsauger
+Antwort_2=1	 ein Stierkämpfer
+Antwort_3=0	 ein Muttersöhnchen
+Antwort_4=0	 ein Metzgergeselle
+
+[3]
+FZ1=
+FZ2=Welches Tier ist ein christliches Opfertier ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Hahn
+Antwort_2=1	 Lamm
+Antwort_3=0	 Kaninchen
+Antwort_4=0	 Hase
+
+[4]
+FZ1=
+FZ2=Welches Straßenschild hat acht Ecken ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=0	 das Parkverbotsschild
+Antwort_2=0	 da Vorfahrtsschild
+Antwort_3=1	 das Stoppschild
+Antwort_4=0	 das Einbahnstraßenschild
+
+[5]
+FZ1=
+FZ2=Wo ist Westen auf der Landkarte ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 oben
+Antwort_2=1	 links
+Antwort_3=0	 unten
+Antwort_4=0	 rechts
+
+[6]
+FZ1=
+FZ2=Was zeigt ein Hygrometer an ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 die Lichtstrahlung
+Antwort_2=0	 die Helligkeit
+Antwort_3=0	 die Temperatur
+Antwort_4=1	 die Luftfeuchtigkeit
+
+[7]
+FZ1=
+FZ2=Welche Farbe ist nicht in der deutschen Flagge enthalten ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 gelb
+Antwort_2=0	 schwarz
+Antwort_3=1	 grün
+Antwort_4=0	 rot
+
+[8]
+FZ1=
+FZ2=Wie heißt der Berg der Zehn Gebote ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Donnersberg
+Antwort_2=0	 Mount Everest
+Antwort_3=1	 Sinai
+Antwort_4=0	 Ölberg
+
+[9]
+FZ1=
+FZ2=Welches Instrument spielte Glenn Miller ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0	 Saxophon
+Antwort_2=0	 Tuba
+Antwort_3=0	 Trompete
+Antwort_4=1	 Posaune
+
+[10]
+FZ1=
+FZ2=Wo geht die Sonne unter ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Osten
+Antwort_2=0	 Norden
+Antwort_3=0	 Süden
+Antwort_4=1	 Westen
+
+[11]
+FZ1=
+FZ2=Was ist ein Olymp ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 ein Tintenfisch
+Antwort_2=0	 ein Nagellack
+Antwort_3=0	 ein Amateursportler
+Antwort_4=1	 ein altgriechischer Göttersitz
+
+[12]
+FZ1=
+FZ2=Welche Waffe hatte Wilhelm Tell ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0	 Gewehr
+Antwort_2=1	 Armbrust
+Antwort_3=0	 Steinschleuder
+Antwort_4=0	 Bogen
+
+[13]
+FZ1=
+FZ2=Welches Tier ist der Erzfeind der Mäuse ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Hund
+Antwort_2=0	 Hase
+Antwort_3=0	 Dromedar
+Antwort_4=1	 Katze
+
+[14]
+FZ1=
+FZ2=Wie heißt der Hund von Obelix ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Idefix
+Antwort_2=0	 Asterix
+Antwort_3=0	 Snoopy
+Antwort_4=0	 Pluto
+
+[15]
+FZ1=
+FZ2=Wie viele Felder hat ein Schachbrett ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 64
+Antwort_2=0	 49
+Antwort_3=0	 36
+Antwort_4=0	 50
+
+[16]
+FZ1=
+FZ2=Durch welchen Sport wurde Boris Becker berühmt ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	 Tennis
+Antwort_2=0	 Fußball
+Antwort_3=0	 Badminton
+Antwort_4=0	 Autorennen
+
+[17]
+FZ1=
+FZ2=Wie viele Dezimeter sind ein Meter ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 2
+Antwort_2=0	  4
+Antwort_3=1	 10
+Antwort_4=0	 100
+
+[18]
+FZ1=
+FZ2=Wer hat Rotkäppchens Großmutter gefressen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Teufel
+Antwort_2=0	 Fuchs
+Antwort_3=0	 Bär
+Antwort_4=1	 Wolf
+
+[19]
+FZ1=
+FZ2=Wo leben die Quechua - Indianer ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0	 in Nordamerika
+Antwort_2=0	 in Mexiko
+Antwort_3=0	 in Mittelamerika
+Antwort_4=1	 in Südamerika
+
+[20]
+FZ1=
+FZ2=Was ist ein Fossil ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 eine Taschenuhr
+Antwort_2=0	 eine Muppetfigur
+Antwort_3=0	 ein Lederfußball
+Antwort_4=1	 eine Versteinerung
+
+[21]
+FZ1=
+FZ2=Wie viele Meter sind ein Kilometer ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 100
+Antwort_2=0	 10
+Antwort_3=1	 1.000
+Antwort_4=0	 10.000
+
+[22]
+FZ1=
+FZ2=Was steht auf einer Visitenkarte ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Alphabet
+Antwort_2=1	 Adresse
+Antwort_3=0	 Horoskop
+Antwort_4=0	 Diktat
+
+[23]
+FZ1=
+FZ2=Was kann operiert werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Virus
+Antwort_2=0	 Stativ
+Antwort_3=0	 Infusion
+Antwort_4=1	 Tumor
+
+[24]
+FZ1=
+FZ2=Wer bringt die Leute zum Lachen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0	 Chirurg
+Antwort_2=1	 Clown
+Antwort_3=0	 Invalide
+Antwort_4=0	 Portier
+
+[25]
+FZ1=
+FZ2=Wo wird viel geredet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 im Container
+Antwort_2=0	 im Koma
+Antwort_3=1	 im Parlament
+Antwort_4=0	 im Dschungel
+
+[26]
+FZ1=
+FZ2=Wo bekommt man etwas zu essen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 im Restaurant
+Antwort_2=0	 in einer Boutique
+Antwort_3=0	 im Orchester
+Antwort_4=0	 im Museum
+
+[27]
+FZ1=
+FZ2=Wo beten Mohammedaner ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0	 in der Kneipe
+Antwort_2=0	 in einem Atelier
+Antwort_3=1	 in der Moschee
+Antwort_4=0	 in einer Garage
+
+[28]
+FZ1=
+FZ2=Welches Gift ist im Zigarettenrauch ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0	 Koffein
+Antwort_2=0	 Paraffin
+Antwort_3=0	 Vanillin
+Antwort_4=1	 Nikotin
+
+[29]
+FZ1=
+FZ2=Wo haben 10.000 Leute Platz ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0	 im Caravan
+Antwort_2=1	 im Stadion
+Antwort_3=0	 im Pool
+Antwort_4=0	 im Lift
+
+[30]
+FZ1=
+FZ2=Was hat mit Mathematik zu tun ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Lexikon
+Antwort_2=0	 Astrologie
+Antwort_3=1	 Geometrie
+Antwort_4=0	 Konfitüre
+
+[31]
+FZ1=
+FZ2=Was befindet sich im Auge ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0	 Perücke
+Antwort_2=0	 Meniskus
+Antwort_3=0	 Trommelfell
+Antwort_4=1	 Pupille
+
+[32]
+FZ1=
+FZ2=Was lernt man im Mathematikunterricht ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0	 exportieren
+Antwort_2=0	 gratulieren
+Antwort_3=0	 komponieren
+Antwort_4=1	 multiplizieren
+
+[33]
+FZ1=
+FZ2=Was braucht man im Sport ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0	 Volumen
+Antwort_2=0	 Komposition
+Antwort_3=1	 Kondition
+Antwort_4=0	 Parfüm
+
+[34]
+FZ1=
+FZ2=Was ist sehr wertvoll ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 ein Brillant
+Antwort_2=0	 ein Orkan
+Antwort_3=0	 ein Cello
+Antwort_4=0	 ein Bikini
+
+[35]
+FZ1=
+FZ2=Was kann man anziehen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0	 Dokumente
+Antwort_2=0	 Kuvert
+Antwort_3=0	 Cellophan
+Antwort_4=1	 Jeans
+
+[36]
+FZ1=
+FZ2=Wo ist Geld sicher aufgehoben ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0	 Jacht
+Antwort_2=0	 Parlament
+Antwort_3=1	 Tresor
+Antwort_4=0	 Sauna
+
+[37]
+FZ1=
+FZ2=Wo kann man etwas gewinnen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1	 Tombola
+Antwort_2=0	 Püree
+Antwort_3=0	 Schaschlik
+Antwort_4=0	 Smog
+
+[38]
+FZ1=
+FZ2=Was war Albert Einstein ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 Minister
+Antwort_2=0	 Komiker
+Antwort_3=0	 Monster
+Antwort_4=1	 Physiker
+
+[39]
+FZ1=
+FZ2=Welches ist eine Krankheit ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0	 Attest
+Antwort_2=1	 Asthma
+Antwort_3=0	 Konfetti
+Antwort_4=0	 Apotheke
+
+[40]
+FZ1=
+FZ2=Wer fliegt ins All ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0	 Diabetiker
+Antwort_2=0	 Komponist
+Antwort_3=0	 Cowboy
+Antwort_4=1	 Astronaut
+
+[41]
+FZ1=
+FZ2=Was hilft bei einer Krankheit ?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0	 Ornament
+Antwort_2=0	 Plastik
+Antwort_3=0	 Epilepsie
+Antwort_4=1	 Medikament
+
+[42]
+FZ1=
+FZ2=Wo wohnen die Soldaten ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0	 Garderobe
+Antwort_2=0	 Museum
+Antwort_3=1	 Kaserne
+Antwort_4=0	 Lazarett
+
+[43]
+FZ1=
+FZ2=Was hilft gegen Krankheit ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1	 Medizin
+Antwort_2=0	 Haschisch
+Antwort_3=0	 Deodorant
+Antwort_4=0	 Angina
+
+[44]
+FZ1=
+FZ2=Was hat mit Wasser zu tun ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 surfen
+Antwort_2=0	 tätowieren
+Antwort_3=0	 rotieren
+Antwort_4=0	 konstruieren
+
+[45]
+FZ1=
+FZ2=Was braucht man für einen Computer ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Disketten
+Antwort_2=0	 Diskothek
+Antwort_3=0	 Medizin
+Antwort_4=0	 Tablett
+
+[46]
+FZ1=
+FZ2=Was ist ein anderes Wort für "großartig" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0	 kompliziert
+Antwort_2=0	 miserabel
+Antwort_3=1	 gigantisch
+Antwort_4=0	 privat
+
+[47]
+FZ1=
+FZ2=Worüber freut man sich besonders ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 Pokal
+Antwort_2=0	 Prothese
+Antwort_3=0	 Globus
+Antwort_4=0	 Stress
+
+[48]
+FZ1=
+FZ2=Was kauft man im Blumenladen ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1	 Orchidee
+Antwort_2=0	 Kavalier
+Antwort_3=0	 Revolver
+Antwort_4=0	 Generator
+
+[49]
+FZ1=
+FZ2=Was ist sehr teuer ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0	 Chrom
+Antwort_2=1	 Platin
+Antwort_3=0	 Spiritus
+Antwort_4=0	 Nickel
+
+[50]
+FZ1=
+FZ2=Was macht man am besten, wenn etwas kaputt ist ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1	 reparieren
+Antwort_2=0	 sich amüsieren
+Antwort_3=0	 jonglieren
+Antwort_4=0	 regieren
+
+[51]
+FZ1=
+FZ2=Was hilft gegen Kälte ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0	 Bikini
+Antwort_2=1	 Pullover
+Antwort_3=0	 Revolver
+Antwort_4=0	 Zylinder
+
+[52]
+FZ1=
+FZ2=Was misst man mit dem Thermometer ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	 Temperatur
+Antwort_2=0	 Tempo
+Antwort_3=0	 These
+Antwort_4=0	 Theater
+
+[53]
+FZ1=
+FZ2=Was hilft einem, fit zu bleiben ?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=0	 Benzin
+Antwort_2=1	 Gymnastik
+Antwort_3=0	 Mathematik
+Antwort_4=0	 Pizza
+
+[54]
+FZ1=
+FZ2=Wen erkennt man an seiner Frisur ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Skinhead
+Antwort_2=0	 Professor
+Antwort_3=0	 Doktor
+Antwort_4=0	 Offizier
+
+[55]
+FZ1=
+FZ2=Mit wem hat man lieber nichts zu tun ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0	 Gentleman
+Antwort_2=0	 Jockey
+Antwort_3=0	 Modell
+Antwort_4=1	 Gangster
+
+[56]
+FZ1=
+FZ2=Was kann zerbrechen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	 Porzellan
+Antwort_2=0	 Skizze
+Antwort_3=0	 Story
+Antwort_4=0	 Asphalt
+
+[57]
+FZ1=
+FZ2=Was kann man hören ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1	 Applaus
+Antwort_2=0	 Appetit
+Antwort_3=0	 Advent
+Antwort_4=0	 Acker
+
+[58]
+FZ1=
+FZ2=Was hat mit Musik zu tun ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0	 Jumbo
+Antwort_2=1	 Jazz
+Antwort_3=0	 Jeep
+Antwort_4=0	 Job
+
+[59]
+FZ1=
+FZ2=Womit kann man sich schön machen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	 Kosmetik
+Antwort_2=0	 Majonäse
+Antwort_3=0	 Kabarett
+Antwort_4=0	 Ketchup
+
+[60]
+FZ1=
+FZ2=Wo ist es sehr laut ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	 Disco
+Antwort_2=0	 Diskette
+Antwort_3=0	 Friteuse
+Antwort_4=0	 Safe
+
+[61]
+FZ1=
+FZ2=Wen gibt es bei der Polizei ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=0	 Hebamme
+Antwort_2=0	 Apotheker
+Antwort_3=0	 Playboy
+Antwort_4=1	 Kommissar
+
+[62]
+FZ1=
+FZ2=Mit welchem gerät kann man Dinge ganz
+FZ3=stark vergrößert betrachten ?
+Min=4000
+Max=64000
+Antwort_1=1	 Mikroskop
+Antwort_2=0	 Lupe
+Antwort_3=0	 Mikrophon
+Antwort_4=0	 Dimmer
+
+[63]
+FZ1=
+FZ2=Wie nennt man Sportkleidung ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	Dress
+Antwort_2=0	 Slip
+Antwort_3=0	 Turnier
+Antwort_4=0	 Pokal
+
+[64]
+FZ1=
+FZ2=Wie heißt das Fremdwort für "Briefumschlag" ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=0	 Kuvertüre
+Antwort_2=0	 Ouvertüre
+Antwort_3=0	 Markise
+Antwort_4=1	 Kuvert
+
+[65]
+FZ1=
+FZ2=Wie nennt man jemanden, der voraussichtlich siegen wird ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	 Favorit
+Antwort_2=0	 Genie
+Antwort_3=0	 Ganove
+Antwort_4=0	 Komplize
+
+[66]
+FZ1=
+FZ2=Was ist das Gegenteil von "positiv" ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	 negativ
+Antwort_2=0	 naiv
+Antwort_3=0	 alternativ
+Antwort_4=0	 passiv
+
+[67]
+FZ1=
+FZ2=Was ist das Gegenteil von "negativ" ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	 passiv
+Antwort_2=0	 passend
+Antwort_3=0	 porös
+Antwort_4=0	 ultimativ
+
+[68]
+FZ1=
+FZ2=Wie nennt man den Spielleiter
+FZ3=bei einem Film oder im Theater ?
+Min=32000
+Max=125000
+Antwort_1=1	 Regisseur
+Antwort_2=0	 Masseur
+Antwort_3=0	 Partisan
+Antwort_4=0	 Redakteur
+
+[69]
+FZ1=
+FZ2=Wie nennt man einen Turnkünstler ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=0	 Roboter
+Antwort_2=1	 Akrobat
+Antwort_3=0	 Manager
+Antwort_4=0	 Kidnapper
+
+[70]
+FZ1=
+FZ2=Was sind Bakterien ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=0	 Backmittel
+Antwort_2=0	 Regenwürmer
+Antwort_3=0	 Wassertiere
+Antwort_4=1	 kleinste Lebewesen
+
+[71]
+FZ1=
+FZ2=Wann gibt es ein Dessert ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 als Nachtisch
+Antwort_2=0	 als Hauptspeise
+Antwort_3=0	 als Mittagessen
+Antwort_4=0	 als Frühstück
+
+[72]
+FZ1=
+FZ2=Wo gibt es meist ein "Happy End" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0	 im Flugzeug
+Antwort_2=0	 im Krankenhaus
+Antwort_3=0	 in der Schule
+Antwort_4=1	 im Film
+
+[73]
+FZ1=
+FZ2=Wann braucht man Proviant ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 auf Reisen
+Antwort_2=0	 beim Mittagsschlaf
+Antwort_3=0	 im Unterricht
+Antwort_4=0	 beim Rasenmähen
+
+[74]
+FZ1=
+FZ2=Welche Farbe ist "pink" ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=0	 gelb
+Antwort_2=0	 grün
+Antwort_3=1	 rosa
+Antwort_4=0	 hellblau
+
+[75]
+FZ1=
+FZ2=Was ist ein Slum ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0	 ein Außerirdischer
+Antwort_2=0	 ein teures Kleidungsstück
+Antwort_3=0	 ein seltener Meeresfisch
+Antwort_4=1	 ein Elendsviertel
+
+[76]
+FZ1=
+FZ2=Wo schläft man in einer Kajüte ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1	 auf dem Schiff
+Antwort_2=0	 in der Jugendherberge
+Antwort_3=0	 bei den Eskimos
+Antwort_4=0	 im Schlafwagen
+
+[77]
+FZ1=
+FZ2=Wozu braucht man Munition ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 zum Schießen
+Antwort_2=0	 zum Backen
+Antwort_3=0	 zum Fliegen
+Antwort_4=0	 zum Essen
+
+[78]
+FZ1=
+FZ2=Was bedeutet "präzise" ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0	 schlecht
+Antwort_2=0	 schnell
+Antwort_3=0	 gerade
+Antwort_4=1	 genau
+
+[79]
+FZ1=
+FZ2=Wer kann eine Razzia machen ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0	 Pizza - Bäcker
+Antwort_2=1	 Polizei
+Antwort_3=0	 Feuerwehr
+Antwort_4=0	 ADAC
+
+[80]
+FZ1=
+FZ2=Wer kann einen Tumor behandeln ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1	 Chirurg
+Antwort_2=0	 Installateur
+Antwort_3=0	 Kommissar
+Antwort_4=0	 Krankenpfleger
+
+[81]
+FZ1=
+FZ2=In welchem Beruf müssen die Arbeitsgeräte
+FZ3=oft steril sein ?
+Min=4000
+Max=64000
+Antwort_1=1	 Arzt
+Antwort_2=0	 Maler
+Antwort_3=0	 Uhrmacher
+Antwort_4=0	 Bauer
+
+[82]
+FZ1=
+FZ2=Was wird mit dem Barometer gemessen ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Luftdruck
+Antwort_2=0	 Luftfeuchtigkeit
+Antwort_3=0	 Ozongehalt
+Antwort_4=0	 Temperatur
+
+[83]
+FZ1=
+FZ2=Wo kann man eine Infusion bekommen ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1	 im Krankenhaus
+Antwort_2=0	 in der Pizzeria
+Antwort_3=0	 bei der Polizei
+Antwort_4=0	 im Baumarkt
+
+[84]
+FZ1=
+FZ2=Womit hat eine Inflation zu tun ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Geld
+Antwort_2=0	 Straßenverkehr
+Antwort_3=0	 Krankheiten
+Antwort_4=0	 Umweltverschmutzung
+
+[85]
+FZ1=
+FZ2=Was bedeutet "rasant" ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1	 äußerst schnell
+Antwort_2=0	 unheimlich wütend
+Antwort_3=0	 sehr zornig
+Antwort_4=0	 ziemlich sportlich
+
+[86]
+FZ1=
+FZ2=Was ist eine Region ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 eine bestimmte Gegend
+Antwort_2=0	 ein Erdteil
+Antwort_3=0	 eine Marzipantorte
+Antwort_4=0	 eine Großstadt
+
+[87]
+FZ1=
+FZ2=Was bedeutet "Pardon" ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Entschuldigung !
+Antwort_2=0	 Pass auf !
+Antwort_3=0	 Achtung !
+Antwort_4=0	 Hereinspaziert !
+
+[88]
+FZ1=
+FZ2=Was kann man tun, um kein Karies zu bekommen ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1	  Zähne putzen
+Antwort_2=0	 Hände waschen
+Antwort_3=0	 Nase putzen
+Antwort_4=0	 Arzt anrufen
+
+[89]
+FZ1=
+FZ2=Wie heißt das Fremdwort für Haarwaschmittel ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	 Shampoon
+Antwort_2=0	 Gelee
+Antwort_3=0	 Spray
+Antwort_4=0	 Creme
+
+[90]
+FZ1=
+FZ2=Wie nennt man - zum Beispiel beim Sport - einen Geldgeber ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1	 Sponsor
+Antwort_2=0	 Monteur
+Antwort_3=0	  Passagier
+Antwort_4=0	 Kandidat
+
+[91]
+FZ1=
+FZ2=Wo kauft man eine Brille ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	 Optiker
+Antwort_2=0	 Apotheker
+Antwort_3=0	 Organist
+Antwort_4=0	 Frisör
+
+[92]
+FZ1=
+FZ2=Welches dieser Tiere lebt nicht im Wasser ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1	 Nashorn
+Antwort_2=0	 Nilpferd
+Antwort_3=0	 Frosch
+Antwort_4=0	 Krokodil
+
+[93]
+FZ1=
+FZ2=Was sind Sandwichs ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1	 belegte Brote
+Antwort_2=0	 Sandburgen
+Antwort_3=0	 Schuhcremesorten
+Antwort_4=0	 Sandstürme
+
+[94]
+FZ1=
+FZ2=Wie viele Stunden haben zwei Tage ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1	 48
+Antwort_2=0	 24
+Antwort_3=0	 12
+Antwort_4=0	 96
+
+[95]
+FZ1=
+FZ2=Wie heißt der achte und neunte Buchstabe des Alphabetes ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1	 H und I
+Antwort_2=0	 G und H
+Antwort_3=0	 I und J
+Antwort_4=0	 J und K
+
+[96]
+FZ1=
+FZ2=In welcher Himmelsrichtung ist bei uns die Sonne nie zu sehen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	 Norden
+Antwort_2=0	 Osten
+Antwort_3=0	 Westen
+Antwort_4=0	 Süden
+
+[97]
+FZ1=
+FZ2=Was frisst das Krümelmonster am liebsten ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1	 Kekse
+Antwort_2=0	 Kuchen
+Antwort_3=0	 Kohlen
+Antwort_4=0	 Salat
+
+[98]
+FZ1=
+FZ2=Wie viele Schichten erhält man, wenn man
+FZ3=ein Blatt dreimal faltet ?
+Min=4000
+Max=64000
+Antwort_1=1	 8
+Antwort_2=0	 4
+Antwort_3=0	 6
+Antwort_4=0	 12
+
+[99]
+FZ1=
+FZ2=Was bedeutet die Abkürzung "z.B." ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1	 zum Beispiel
+Antwort_2=0	 zwei Bier
+Antwort_3=0	 zur Brücke
+Antwort_4=0	 zwölf Bäcker
+
+[100]
+FZ1=
+FZ2=Was bedeutet UKW ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1	 Ultrakurzwelle
+Antwort_2=0	 unbenutzter Kraftwagen
+Antwort_3=0	 Ultrakurzwasser
+Antwort_4=0	 unbekannte Welt
+

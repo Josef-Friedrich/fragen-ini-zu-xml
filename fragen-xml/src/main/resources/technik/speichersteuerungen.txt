@@ -1,0 +1,184 @@
+[Thema]
+Thema       = "SPS - Speichersteuerungen"
+Fragen      = 16
+Autor       = Elmar F. Werker, V1.0 6/2001
+
+
+[1]
+FZ1         = 
+FZ2         = Was ist bei Steuerungen mit Speichersteu-
+FZ3         = erungen immer austauschbar?
+Min         = 0
+Max         = 100
+Antwort_1   = 0Eingänge
+Antwort_2   = 0Ausgänge
+Antwort_3   = 0Spannung
+Antwort_4   = 1Programm
+
+
+[2]
+FZ1         = 
+FZ2         = Welche Signale kann eine Speichersteuerung
+FZ3         = nicht beeinflussen?
+Min         = 100
+Max         = 200
+Antwort_1   = 1Eingänge
+Antwort_2   = 0Ausgänge
+Antwort_3   = 0Merker
+Antwort_4   = 0Zeitglieder
+
+[3]
+FZ1         = 
+FZ2         = Ein unbetätigter Öffnerkontakt ist an eine SPS
+FZ3         = angeschlossen. Welcher Signalzustand liegt an?
+Min         = 200
+Max         = 300
+Antwort_1   = 0Null
+Antwort_2   = 1Eins
+Antwort_3   = 0230V
+Antwort_4   = 05 Volt
+
+
+[4]
+FZ1         = 
+FZ2         = Wie werden die Eingangssignale der SPS an
+FZ3         = den Mikroprozessor übergeben? Mit..
+Min         = 200
+Max         = 500
+Antwort_1   = 0Relais
+Antwort_2   = 1Optokopplern
+Antwort_3   = 0Händen
+Antwort_4   = 0Spracheingabe
+
+[5]
+FZ1         = 
+FZ2         = Welche Ausgabebaugruppen gibt es bei kleinen
+FZ3         = Speichersteuerungen nicht?
+Min         = 300
+Max         = 500
+Antwort_1   = 0Digitalausgang
+Antwort_2   = 0Analogausgang
+Antwort_3   = 0Relaisausgang
+Antwort_4   = 1Instabusausgang
+
+[6]
+FZ1         = 
+FZ2         = Welchen Eingangstyp benötigt man für die
+FZ3         = Auswertung eines 24V Grenztasters?
+Min         = 500
+Max         = 1000
+Antwort_1   = 0Digitalausgang
+Antwort_2   = 1Digitaleingang
+Antwort_3   = 0Analogausgang
+Antwort_4   = 0Analogeingang
+
+[7]
+FZ1         = Welchen Eingangstyp benötigt man für die
+FZ2         = Auswertung eines Temperatursensors
+FZ3         = PTC und Vorwiderstand an 24V
+Min         = 1000
+Max         = 2000
+Antwort_1   = 0Digitalausgang
+Antwort_2   = 0Digitaleingang
+Antwort_3   = 0Analogausgang
+Antwort_4   = 1Analogeingang
+
+[8]
+FZ1         = Die Treppenhausbeleuchtung eines Wohnhauses
+FZ2         = wird mit einer LOGO automatisiert. Welche
+FZ3         = Spezialfunktion emfpehlen Sie?
+Min         = 2000
+Max         = 4000
+Antwort_1   = 0Selbsthaltung
+Antwort_2   = 0Einschaltverz.
+Antwort_3   = 1Treppenhaussch.
+Antwort_4   = 0Ausschaltverz.
+
+[9]
+FZ1         = 
+FZ2         = Eine Steuerung soll täglich zwischen 9 und
+FZ3         = 12 Uhr eingeschaltet sein?
+Min         = 4000
+Max         = 8000
+Antwort_1   = 0Selbsthaltung
+Antwort_2   = 0Treppenhaussch.
+Antwort_3   = 1Tagesprogramm
+Antwort_4   = 0Wochenprogramm
+
+[10]
+FZ1         = Was macht man mit einer KV-Tafel in der
+FZ2         = Digitaltechnik
+FZ3         = 
+Min         = 8000
+Max         = 16000
+Antwort_1   = 1Vereinfachung
+Antwort_2   = 0Lösung
+Antwort_3   = 0Gleichung
+Antwort_4   = 0Funktionsplan
+
+[11]
+FZ1         = 
+FZ2         = Welcher Schaltung entspricht der Wechselschaltung?
+FZ3         = 
+Min         = 16000
+Max         = 32000
+Antwort_1   = 0UND
+Antwort_2   = 1Antivalenz
+Antwort_3   = 0ODER
+Antwort_4   = 0Negation
+
+[12]
+FZ1         = 
+FZ2         = Durch welche Steuerung wird eine Schützsteurung
+FZ3         = mit Selbsthaltung in SPS-Technik realisiert?
+Min         = 32000
+Max         = 64000
+Antwort_1   = 0Und 
+Antwort_2   = 0Oder
+Antwort_3   = 1SR-Kippglied
+Antwort_4   = 0Ausschaltverz.
+
+[13]
+FZ1         = Wie können Zwischenergebnisse und mehrfach 
+FZ2         = verwendete Zwischenwerte verarbeitet werden?
+FZ3         = Mit...
+Min         = 64000
+Max         = 125000
+Antwort_1   = 0Eingängen
+Antwort_2   = 0Ausgängen
+Antwort_3   = 1Merkern
+Antwort_4   = 0Zeigliedern
+
+[14]
+FZ1         = 
+FZ2         = Wie können Schrittketten in Speichersteuerungen
+FZ3         = realisiert werden? Mit ...
+Min         = 125000
+Max         = 250000
+Antwort_1   = 0Eingängen
+Antwort_2   = 0AUsgängen
+Antwort_3   = 0Merkern
+Antwort_4   = 1Zeitgliedern
+
+[15]
+FZ1         = 
+FZ2         = Wie kann eine Speichersteuerung die Befehls-
+FZ3         = weitergabe überwachen / Überprüfen?
+Min         = 250000
+Max         = 500000
+Antwort_1   = 0weitere Eingänge
+Antwort_2   = 0weitere Ausgänge
+Antwort_3   = 0bessere Programm.
+Antwort_4   = 1Feedback-Kontakte
+
+
+[16]
+FZ1         = 
+FZ2         = Wie kann man die LOGO-Speichersteuerung
+FZ3         = um weitere Ein- un Ausgänge vernetzen?
+Min         = 5000000
+Max         = 1000000
+Antwort_1   = 0Instabus
+Antwort_2   = 0Profibus
+Antwort_3   = 1ASI-Bus
+Antwort_4   = 0Intranet

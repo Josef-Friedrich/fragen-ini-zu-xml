@@ -1,0 +1,555 @@
+[Thema]
+Thema=Geschichte: 1871 - 1914
+Fragen=42
+Autor=A. Bergkemper, 4/4/2001
+
+[1]
+FZ1=
+FZ2=Wo wurde am 18. Januar 1871 das neue Deutsche Reich ausgerufen?
+FZ3=
+Min=0
+Max=400
+Antwort_1=1Versailles
+Antwort_2=0Berlin
+Antwort_3=0Frankfurt
+Antwort_4=0München
+
+[2]
+FZ1=
+FZ2=Welche Farben trug die deutsche Reichsflagge um 1871?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=0schwarz rot gold
+Antwort_2=1schwarz weiß rot
+Antwort_3=0blau weiß rot
+Antwort_4=0weißes Kreuz auf rot
+
+[3]
+FZ1=
+FZ2=Wer wurde der erste deutsche Reichskanzler?
+FZ3=
+Min=0
+Max=400
+Antwort_1=0Adolf Hitler
+Antwort_2=1Otto von Bismarck
+Antwort_3=0Wilhem I.
+Antwort_4=0Helmut Kohl
+
+[4]
+FZ1=Wie hieß im Deutschen Reich ab 1871 die Vertretung der
+FZ2=einzelnen deutschen Länder?
+FZ3=
+Min=400
+Max=4000
+Antwort_1=0Reichstag
+Antwort_2=0Bundestag
+Antwort_3=1Bundesrat
+Antwort_4=0Länderrat
+
+[5]
+FZ1=
+FZ2=Welches Verfassungsorgan wurde vom Volk gewählt?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=0Der Reichskanzler
+Antwort_2=1Der Reichstag
+Antwort_3=0Der Bundestag
+Antwort_4=0Der Bundesrat
+
+[6]
+FZ1=
+FZ2=Von wem wurde der Reichskanzler bestimmt?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=0Vom Volk direkt
+Antwort_2=0Vom Reichstag
+Antwort_3=0Vom Bundesrat
+Antwort_4=1Vom Kaiser
+
+[7]
+FZ1=Welche Rohstoffe waren im 19. Jahrhunder die Grundlage der
+FZ2=Industriestaaten Deutschland und England?
+FZ3=
+Min=0
+Max=400
+Antwort_1=0Hopfen und Malz
+Antwort_2=0Butter und Schmalz
+Antwort_3=1Kohle und Eisen
+Antwort_4=0Wasser und Luft
+
+[8]
+FZ1=Welches europäische Land war schon vor Deutschland
+FZ2=zum Industriestaat geworden?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=0Dänemark
+Antwort_2=0Nordamerika
+Antwort_3=1England
+Antwort_4=0Frankreich
+
+[9]
+FZ1=Was entstand, wenn sich mehrere Betriebe zusammenschlossen
+FZ2=oder andere aufkauften?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=0Ein Konsum
+Antwort_2=0Ein Konzert
+Antwort_3=0Ein Betriebsverein
+Antwort_4=1Ein Konzern
+
+[10]
+FZ1=Wie nennt man den Zusammenschluss mehrerer Unternehmer
+FZ2=mit dem Ziel, Mindestpreise festzusetzen?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=0Eine Kartusche
+Antwort_2=1Ein Kartell
+Antwort_3=0Ein Kartaster
+Antwort_4=0Eine Kastanie
+
+[11]
+FZ1=Wie nennt man den Zusammenschluss von Arbeitnehmern
+FZ2=mit dem Ziel, bessere Arbeitsbedingungen zu schaffen?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=0Wirtschaft
+Antwort_2=0Bürgschaft
+Antwort_3=0Seilschaft
+Antwort_4=1Gewerkschaft
+
+[12]
+FZ1=Welcher Stand spielte in der Gesellschaft des Kaiserreiches
+FZ2=eine große Rolle?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=0Der Stadel
+Antwort_2=1Der Adel
+Antwort_3=0Der Pudel
+Antwort_4=0Der Strudel
+
+[13]
+FZ1=Wie nannte man Leute, die mit viel Geld versuchten, sich dem
+FZ2=Lebensstil des Adels anzugleichen?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=0Handwerker
+Antwort_2=0Neuadel
+Antwort_3=0Semiadel
+Antwort_4=1Großbürger
+
+[14]
+FZ1=Für die Männer des bürgerlichen Mittelstandes war es ein
+FZ2=hohes Ziel, ________________ zu werden?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Reserveoffizier
+Antwort_2=0Bankangestellter
+Antwort_3=0Priester
+Antwort_4=0Fußballprofi
+
+[15]
+FZ1=Was war schon im 18. Jahrhundert in den deutschen Ländern
+FZ2=vorgesehen, konnte aber erst im 19. Jahrhundert verwirklicht
+FZ3=werden?
+Min=4000
+Max=32000
+Antwort_1=1allgemeine Schulpflicht
+Antwort_2=0Wehrpflicht
+Antwort_3=0Impfpflicht
+Antwort_4=0Anschnallpflicht
+
+[16]
+FZ1=
+FZ2=Welches war die im 19. Jahrhundert die meist besuchte Schulform?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Volksschule
+Antwort_2=0Mittelschule
+Antwort_3=0höhere Schule
+Antwort_4=0Dorfschule
+
+[17]
+FZ1=Wie nannte man im 19. Jahrhundert eine Frau,  die über Küche und
+FZ2=Kochtopf hinaus gebildet war?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0Xanthippe
+Antwort_2=0Emanze
+Antwort_3=1Blaustrumpf
+Antwort_4=0Gänseblümchen
+
+[18]
+FZ1=Welche Partei war aus den Anhängern Bebels und Lasalles
+FZ2=hervorgegangen?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0die Nationalliberale Partei
+Antwort_2=0die Fortschrittspartei
+Antwort_3=0das Zentrum
+Antwort_4=1die Sozialdemokraten
+
+[19]
+FZ1=
+FZ2=Welche Partei war im Reichstag um 1871 nicht vertreten?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0Nationalliberale Partei
+Antwort_2=0Fortschrittspartei
+Antwort_3=0Zentrum
+Antwort_4=1die Autofahrerpartei
+
+[20]
+FZ1=
+FZ2=Wo hatte 1848 die Deutsche Nationalversammlung getagt?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0im Reichstag
+Antwort_2=0im Bundestag
+Antwort_3=0im Kölner Dom
+Antwort_4=1in der Paulskirche
+
+[21]
+FZ1=
+FZ2=Welcher dieser Politiker war ein Gegner der Sozialdemokratie?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Bebel
+Antwort_2=0Lasalle
+Antwort_3=1Bismarck
+Antwort_4=0Liebknecht
+
+[22]
+FZ1=Welche Organisationen bemühten sich um die Verbesserung
+FZ2=der Lage der Arbeiter?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Schützenvereine
+Antwort_2=1Gewerkschaften
+Antwort_3=0Karnevalsvereine
+Antwort_4=0Das Finanzamt
+
+[23]
+FZ1=Welche Partei empfand Bismarck als Zusammenschluss von
+FZ2=»Reichsfeinden«?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1Zentrum
+Antwort_2=0Fortschrittspartei
+Antwort_3=0Nationalliberale Partei
+Antwort_4=0Konservative Partei
+
+[24]
+FZ1=
+FZ2=Wer war Bismarcks »Gegner« im sogenannten Kulturkampf?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0Die Gewerkschaften
+Antwort_2=1Die Kirche
+Antwort_3=0Der Reichstag
+Antwort_4=0Der Kaiser
+
+[25]
+FZ1=Welcher Orden wurde während des Kulturkampfes
+FZ2=in Deutschland verboten?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0Der Hosenbandorden
+Antwort_2=0Der Templerorder
+Antwort_3=1Der Jesuitenorden
+Antwort_4=0Der Orden wider den tierischen Ernst
+
+[26]
+FZ1=Welches Ergebnis des ’Kulturkampfes’ zwischen Bismarck
+FZ2=und der katholischen Kirche hat noch heute Bestand?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Eheschließung vor dem Standesamt
+Antwort_2=0Besteuerung des Weihwassers
+Antwort_3=0Autountersuchung beim TÜV
+Antwort_4=0Verbot der Massentierhaltung
+
+[27]
+FZ1=Welches Ergebnis des ’Kulturkampfes’ zwischen Bismarck
+FZ2=und der katholischen Kirche hat noch heute Bestand?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0Abschaffung von Buß- und Bettag
+Antwort_2=0Freie und allgemeine Wahlen
+Antwort_3=1Staatliche Aufsicht über die Schule
+Antwort_4=0Einführung der Branntweinsteuer
+
+[28]
+FZ1=Für wen oder was sah Bismarck eine große Gefahr in den
+FZ2=demokratisch-sozialistischen Zielen der Arbeiterbewegung?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0Für die Gewerkschaften
+Antwort_2=0Für die Kirche
+Antwort_3=0Für den Reichstag
+Antwort_4=1Für das Reich der Fürsten
+
+[29]
+FZ1=Was gab Bismarck die Möglichkeit, ganz legal gegen die
+FZ2=Sozialdemokratie vorzugehen?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=0Beleidigung des Kaisers durch Bebel
+Antwort_2=1Zwei Attentate auf den Kaiser
+Antwort_3=0Hohe Beiträge der Gewerkschaften
+Antwort_4=0Streit zwischen Bebel und Lasalle
+
+[30]
+FZ1=Was brachte Bismarck am 18. Oktober 1878 im Reichstag ein,
+FZ2=um die Sozialdemokraten zurückzudrängen?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0Verbot von Kampfhunden
+Antwort_2=0Das Wehrpflichtgesetz
+Antwort_3=1Das Sozialistengesetz
+Antwort_4=0Das Kommunistengesetz
+
+[31]
+FZ1=Was wurde nach Inkrafttreten des Sozialistengesetzes bei den
+FZ2=Sozialdemokraten nicht beschlagnahmt?
+FZ3=
+Min=500
+Max=32000
+Antwort_1=0Zeitungen
+Antwort_2=0Bücher
+Antwort_3=0Zeitschriften
+Antwort_4=1Führerscheine
+
+[32]
+FZ1=Bei der Reichstagswahl 1877 erhielten die Sozialdemokraten
+FZ2=ca. 500 000 Stimmen. Wieviel Stimmen erhielten sie 1890?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0200 000 Stimmen
+Antwort_2=0400 000 Stimmen
+Antwort_3=0800 000 Stimmen
+Antwort_4=11 500 000 Stimmen
+
+[33]
+FZ1=Welches Gesetz wurde in der Zeit von 1880 bis 1890 von Bismarck
+FZ2=nicht eingebracht?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=0Krankenversicherungsgesetz
+Antwort_2=0Unfallversicherungsgesetz
+Antwort_3=1Rentenverdopplungsgesetz
+Antwort_4=0Invaliden- und Altersv.-gesetz
+
+[34]
+FZ1=Durch Bismarcks Arbeiterschutzgesetze traten erhebliche
+FZ2=Kosten auf. Wer wurde davon nicht direkt betroffen?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Die Kirche
+Antwort_2=0Arbeitnehmer
+Antwort_3=0Arbeitgeber
+Antwort_4=0Der Staat
+
+[35]
+FZ1=Wie bezeichnet man das weltweite Wettrennen um die
+FZ2=Errichtung neuer Herrschaftsgebiete in den Jahren
+FZ3=1880 bis 1914?
+Min=4000
+Max=32000
+Antwort_1=1Imperialismus
+Antwort_2=0Sozialismus
+Antwort_3=0Kommunismus
+Antwort_4=0Nationalsozialismus
+
+[36]
+FZ1=Welchen Anteil an der gesamten Landoberfläche der Erde
+FZ2=umschloss das britische Weltreich zu Bismarcks Zeiten?
+FZ3=
+Min=4000
+Max=1000000
+Antwort_1=0ein Sechstel
+Antwort_2=0ein Fünftel
+Antwort_3=0ein Drittel
+Antwort_4=1ein Viertel
+
+[37]
+FZ1=
+FZ2=Welches Land war Ende des 19. Jahrhunderts die größte Seemacht?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Österreich
+Antwort_2=0Frankreich
+Antwort_3=0Spanien
+Antwort_4=1England
+
+[38]
+FZ1=
+FZ2=Worin bestand der Reichtum der Südstaaten der USA?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Baumwolle
+Antwort_2=0Rum
+Antwort_3=0Stahl
+Antwort_4=0Zuckerrohr
+
+[39]
+FZ1=
+FZ2=Wer war während des Sezessionskrieges Präsident der USA?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Abraham Lincoln
+Antwort_2=0George Washington
+Antwort_3=0Harry Truman
+Antwort_4=0Dwight Eisenhower
+
+[40]
+FZ1=
+FZ2=Wann war der Sezessionskrieg der USA?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=11861-1865
+Antwort_2=01914-1918
+Antwort_3=01939-1945
+Antwort_4=01789-1796
+
+[41]
+FZ1=
+FZ2=Was wurde nach dem Sezessionskrieg im Süden der USA aufgehoben?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1die Sklaverei
+Antwort_2=0die Branntweinsteuer
+Antwort_3=0die Sonntagsarbeit
+Antwort_4=0Französisch als Amtssprache
+
+[42]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[43]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[44]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[]
+FZ1=
+FZ2=
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[]
+FZ1=
+FZ2=
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[]
+FZ1=
+FZ2=
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[]
+FZ1=
+FZ2=
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[]
+FZ1=
+FZ2=
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[42]
+Max=1000000
+Min=64000
+Antwort_1=1Alaska
+Antwort_2=014 Güterwagen voll Gold
+Antwort_3=0die Pläne für Winchestergewehre
+Antwort_4=0das Bernsteinzimmer
+FZ1=
+FZ2=Was kauften die USA im Jahr 1867 für 7,2 Millionen $ den Russen ab?
+FZ3=
+

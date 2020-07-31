@@ -1,0 +1,236 @@
+[Thema]
+Thema=Steigerung der Adjektive
+Fragen=20
+Autor=Rudi GOEBEL, 5/2002
+
+[1]
+FZ1=
+FZ2=What is __________ programme on TV?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1the funniest
+Antwort_2=0the funnier
+Antwort_3=0funny
+Antwort_4=0fun
+
+[2]
+FZ1=
+FZ2=Who is __________ teacher at your school?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=1the nicest
+Antwort_2=0nice
+Antwort_3=0nicer
+Antwort_4=0nicerest
+
+[3]
+FZ1=
+FZ2=A cow is __________ than a sheep.
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1bigger
+Antwort_2=0biger
+Antwort_3=0biggest
+Antwort_4=0bigga
+
+[4]
+FZ1=
+FZ2=Berlin was __________ than London.
+FZ3=
+Min=0
+Max=125000
+Antwort_1=1warmer
+Antwort_2=0wormer
+Antwort_3=0warm
+Antwort_4=0warmar
+
+[5]
+FZ1=
+FZ2=In winter it is __________ than in summer.
+FZ3=
+Min=0
+Max=64000
+Antwort_1=1colder
+Antwort_2=0cool
+Antwort_3=0could
+Antwort_4=0Cola
+
+[6]
+FZ1=
+FZ2=My sister is young. - Anne's sister is __________ .
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1younger
+Antwort_2=0yonger
+Antwort_3=0yanger
+Antwort_4=0junger
+
+[7]
+FZ1=
+FZ2=An ice-cream is __________ than a hamburger.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1cheaper
+Antwort_2=0tschieper
+Antwort_3=0sheeper
+Antwort_4=0shipper
+
+[8]
+FZ1=
+FZ2=My pizza is good. - My pizza is __________.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1better
+Antwort_2=0bedder
+Antwort_3=0badder
+Antwort_4=0betta
+
+[9]
+FZ1=
+FZ2=The Beatles are __________ pop group in the world.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1the best
+Antwort_2=0the bist
+Antwort_3=0the beast
+Antwort_4=0Dr. Best 
+
+[10]
+FZ1=
+FZ2=My parents bought a new bike for me last year. - But Tom's bike is __________.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1newer
+Antwort_2=0never
+Antwort_3=0neuer
+Antwort_4=0new
+
+[11]
+FZ1=
+FZ2=The Zugspitze is __________ mountain in Germany.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1the highest
+Antwort_2=0the higher
+Antwort_3=0high
+Antwort_4=0hi
+
+[12]
+FZ1=
+FZ2=Exercise 5 is __________ exercise in this book.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1the easiest
+Antwort_2=0easier
+Antwort_3=0easy
+Antwort_4=0iiiih sie
+
+[13]
+FZ1=
+FZ2=A flat is __________ than a house.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1smaller
+Antwort_2=0small
+Antwort_3=0smoller
+Antwort_4=0the smallest
+
+[14]
+FZ1=
+FZ2=This is __________ supermarket.
+FZ3=
+Min=1000
+Max=500000
+Antwort_1=1the nearest
+Antwort_2=0the nierest
+Antwort_3=0the nearer
+Antwort_4=0the nearerest
+
+[15]
+FZ1=
+FZ2=Mary's room is __________ than her bother's room.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1cleaner
+Antwort_2=0kleener
+Antwort_3=0cliener
+Antwort_4=0ceaner
+
+[16]
+FZ1=
+FZ2=This Mercedes is older __________ our VW.
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1than
+Antwort_2=0then
+Antwort_3=0ten
+Antwort_4=0hen
+
+[17]
+FZ1=
+FZ2=Alex is __________ boy in class 6b.
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1the quietest
+Antwort_2=0the queitest
+Antwort_3=0the quitest
+Antwort_4=0the quiettest
+
+[18]
+FZ1=
+FZ2=It is __________ to ride a bike when you are older.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1easier
+Antwort_2=0the easiest
+Antwort_3=0esier
+Antwort_4=0iesier
+
+[19]
+FZ1=
+FZ2=I'm going to do my homework __________.
+FZ3=
+Min=1000
+Max=500000
+Antwort_1=1later
+Antwort_2=0latter
+Antwort_3=0leter
+Antwort_4=0lader
+
+[20]
+FZ1=
+FZ2=Mrs Brown is a very __________ teacher.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1busy
+Antwort_2=0busier
+Antwort_3=0busiest
+Antwort_4=0bussy
+
+[21]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+

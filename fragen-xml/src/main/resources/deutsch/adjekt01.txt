@@ -1,0 +1,302 @@
+[Thema]
+Thema     = Finde das Eigenschaftswort (Adjektiv) !  
+Fragen    = 27
+Autor     = Heribert Daxl, 6/2001
+
+
+[1]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 0
+Max       = 500
+Antwort_1 = 0suchen
+Antwort_2 = 1staubig
+Antwort_3 = 0Stachel
+Antwort_4 = 0selber
+
+[2]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       =  
+Min       = 500
+Max       = 16000
+Antwort_1 = 0bringen
+Antwort_2 = 1böse
+Antwort_3 = 0bald
+Antwort_4 = 0brinden
+
+[3]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 4000
+Max       = 125000
+Antwort_1 = 0malen
+Antwort_2 = 1munter
+Antwort_3 = 0Mutter
+Antwort_4 = 0masen
+
+[4]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 8000
+Max       = 32000
+Antwort_1 = 0laren
+Antwort_2 = 1leise
+Antwort_3 = 0leider
+Antwort_4 = 0lachen
+
+[5]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 8000
+Max       = 1000000
+Antwort_1 = 0weinen
+Antwort_2 = 0wenig
+Antwort_3 = 1wichtig
+Antwort_4 = 0wammen
+
+[6]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 200
+Max       = 125000
+Antwort_1 = 0rennen
+Antwort_2 = 1rot
+Antwort_3 = 0Rast
+Antwort_4 = 0ruben
+
+[7]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 1000
+Max       = 1000000
+Antwort_1 = 0relen
+Antwort_2 = 0rasten
+Antwort_3 = 1rund
+Antwort_4 = 0rauben
+
+[8]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 100
+Max       = 125000
+Antwort_1 = 0weinen
+Antwort_2 = 1weiß
+Antwort_3 = 0wildern
+Antwort_4 = 0weren
+
+[9]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 32000
+Max       = 1000000
+Antwort_1 = 0schlagen
+Antwort_2 = 1schlau
+Antwort_3 = 0Schlechtigkeit
+Antwort_4 = 0schlemen
+
+[10]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 0rufen
+Antwort_2 = 1riesig
+Antwort_3 = 0Rundung
+Antwort_4 = 0rechten
+
+[11]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 0fliegen
+Antwort_2 = 1fein
+Antwort_3 = 0gieben
+Antwort_4 = 0Graben
+
+[12]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 125000
+Max       = 1000000
+Antwort_1 = 0schwimmen
+Antwort_2 = 1schwer
+Antwort_3 = 0Schwanz
+Antwort_4 = 0schwaunen
+
+[13]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       =  
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 1hoch
+Antwort_2 = 0hütten
+Antwort_3 = 0hier
+Antwort_4 = 0hüpfen
+
+[14]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       =  
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 1zart
+Antwort_2 = 0zieken
+Antwort_3 = 0zanken
+Antwort_4 = 0zum
+
+[15]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 0schreiben
+Antwort_2 = 1schwierig
+Antwort_3 = 0schraulen
+Antwort_4 = 0schauen
+
+[16]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 32000
+Max       = 1000000
+Antwort_1 = 0legen
+Antwort_2 = 1leicht
+Antwort_3 = 0lennen
+Antwort_4 = 0Lücke
+
+[17]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 64000
+Max       = 1000000
+Antwort_1 = 0bauen
+Antwort_2 = 1bunt
+Antwort_3 = 0bauzen
+Antwort_4 = 0bald
+
+[18]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 0kellen
+Antwort_2 = 1kaputt
+Antwort_3 = 0Kalk
+Antwort_4 = 0kegeln
+
+[19]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?  
+FZ2       =  
+FZ3       = 
+Min       = 4000
+Max       = 1000000
+Antwort_1 = 0beim
+Antwort_2 = 1bitter
+Antwort_3 = 0baden
+Antwort_4 = 0Sbaren
+
+[20]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 1000
+Max       = 125000
+Antwort_1 = 0hören
+Antwort_2 = 1höher
+Antwort_3 = 0höven
+Antwort_4 = 0Hölle
+
+[21]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?  
+FZ2       =  
+FZ3       = 
+Min       = 500
+Max       = 32000
+Antwort_1 = 0reiten
+Antwort_2 = 1reizend
+Antwort_3 = 0reifen
+Antwort_4 = 0reippen
+
+[22]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 0rechnen
+Antwort_2 = 1rege
+Antwort_3 = 0rechts
+Antwort_4 = 0remmeln
+
+[23]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 500
+Max       = 8000
+Antwort_1 = 0bedienen
+Antwort_2 = 0bersten
+Antwort_3 = 1blind
+Antwort_4 = 0Blitz
+
+[24]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 500
+Max       = 8000
+Antwort_1 = 0angeln
+Antwort_2 = 0Andreas
+Antwort_3 = 1alt
+Antwort_4 = 0akkeln
+
+[25]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?  
+FZ2       =  
+FZ3       = 
+Min       = 8000
+Max       = 1000000
+Antwort_1 = 1spät
+Antwort_2 = 0Spatz
+Antwort_3 = 0sprechen
+Antwort_4 = 0sprannen
+
+[26]
+FZ1       = 
+FZ2       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ3       = 
+Min       = 2000
+Max       = 1000000
+Antwort_1 = 0küssen
+Antwort_2 = 1kühl
+Antwort_3 = 0Kunst
+Antwort_4 = 0kümmeln
+
+[27]
+FZ1       = Welches von den folgenden Wörtern ist ein Eigenschaftswort (Adjektiv) ?
+FZ2       =  
+FZ3       = 
+Min       = 1000
+Max       = 1000000
+Antwort_1 = 0basteln
+Antwort_2 = 0basseln
+Antwort_3 = 1bange
+Antwort_4 = 0backeln

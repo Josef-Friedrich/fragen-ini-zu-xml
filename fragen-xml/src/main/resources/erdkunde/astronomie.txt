@@ -1,0 +1,269 @@
+[Thema]
+Thema=Astronomie
+Fragen=24
+Autor=Lukas Pusl, VS Pemfling, Klasse 4, 10/2001
+
+[1]
+FZ1=
+FZ2=Wie heiﬂt der grˆﬂte Planet in unserem Sonnensystem?
+FZ3=
+Min=0
+Max=0
+Antwort_1=0	Saturn
+Antwort_2=0	Neptun
+Antwort_3=0	Erde
+Antwort_4=1	Jupiter
+
+[2]
+FZ1=
+FZ2=Womit beobachtet man heute die Sterne?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Mikroskop
+Antwort_2=1	Teleskop
+Antwort_3=0	Fernglas
+Antwort_4=0	Brille
+
+[3]
+FZ1=
+FZ2=Wie wird eine Sternwarte noch genannt?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Krematorium
+Antwort_2=0	Oratorium
+Antwort_3=1	Observatorium
+Antwort_4=0	Raumstation
+
+[4]
+FZ1=
+FZ2=Wie wird die Galaxie noch genannt, zu der unser Sonnensystem gehˆrt?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1	Milchstraﬂe
+Antwort_2=0	Sternstraﬂe
+Antwort_3=0	Sternhaufen
+Antwort_4=0	Milchautobahn
+
+[5]
+FZ1=
+FZ2=Welcher Forscher entdeckte zuerst die Gebirge des Mondes?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Johannes Kepler
+Antwort_2=1	Galileo Galilei
+Antwort_3=0	Johann Sebastian Bach
+Antwort_4=0	Friedrich Schiller
+
+[6]
+FZ1=
+FZ2=Woraus bestehen die Ringe des Saturn?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Luft
+Antwort_2=0	Gas
+Antwort_3=0	Nebel
+Antwort_4=1	Gestein, Eis und Staub
+
+[7]
+FZ1=
+FZ2=Wie heiﬂen die zwei Mondes des Mars?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Uranus und Neptun
+Antwort_2=0	Miranda und Triton
+Antwort_3=1	Phobos und Deimos
+Antwort_4=0	Titan und Charon
+
+[8]
+FZ1=
+FZ2=Wie heiﬂt die russische Raumstation?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Apollo
+Antwort_2=1	MIR
+Antwort_3=0	Sojus
+Antwort_4=0	Hubble
+
+[9]
+FZ1=
+FZ2=Wie heiﬂen Flug- und Messobjekte,
+FZ3=die Bilder auf die Erde senden?
+Min=0
+Max=1000000
+Antwort_1=1	Satelliten
+Antwort_2=0	Raketen
+Antwort_3=0	Sonden
+Antwort_4=0	Raumschiffe
+
+[10]
+FZ1=
+FZ2=Welcher Planet ist am weitesten von
+FZ3=der Sonne entfernt?
+Min=0
+Max=1000000
+Antwort_1=0	Erde
+Antwort_2=0	Merkur
+Antwort_3=1	Pluto
+Antwort_4=0	Titan
+
+[11]
+FZ1=
+FZ2=Welcher Himmelkˆrper nimmt in einem Monat stark ab?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Planet
+Antwort_2=0	Mars
+Antwort_3=0	Sonne
+Antwort_4=1	Mond
+
+[12]
+FZ1=
+FZ2=Wer betrat als erster Mensch den Mond?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1	Neil Armstrong
+Antwort_2=0	John Glenn
+Antwort_3=0	Juri Gagarin
+Antwort_4=0	Ulf Merbold
+
+[13]
+FZ1=
+FZ2=Welche Himmelskˆrper haben einen Schweif?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Planeten
+Antwort_2=0	Asteroiden
+Antwort_3=1	Kometen
+Antwort_4=0	Sterne
+
+[14]
+FZ1=
+FZ2=Aus welchem Stoff bestehen die Sterne?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	aus Eis
+Antwort_2=0	aus Luft
+Antwort_3=0	aus Gestein
+Antwort_4=1	aus heiﬂem Gas
+
+[15]
+FZ1=
+FZ2=Wie heiﬂen Raumfahrer noch?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Physiker
+Antwort_2=1	Astronauten
+Antwort_3=0	Biologen
+Antwort_4=0	Sterngucker
+
+[16]
+FZ1=
+FZ2=Wie heiﬂt der Begleiter der Erde?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1	Mond
+Antwort_2=0	Miranda
+Antwort_3=0	Triton
+Antwort_4=0	Charon
+
+[17]
+FZ1=
+FZ2=Wie wird die Erde noch genannt?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0	der schˆne Planet
+Antwort_2=0	der bewohnte Planet
+Antwort_3=0	der fruchtbare Planet
+Antwort_4=1	der blaue Planet
+
+[18]
+FZ1=
+FZ2=Wie heiﬂen die Flugobjekte der Auﬂerirdischen?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=1	UFOs
+Antwort_2=0	fliegende Unterteller
+Antwort_3=0	Raketen
+Antwort_4=0	Raumschiffe
+
+[19]
+FZ1=
+FZ2=Welcher Planet unseres Sonnensystems
+FZ3=ist der kleinste?
+Min=0
+Max=500000
+Antwort_1=0	Uranus
+Antwort_2=0	Merkur
+Antwort_3=0	Mond
+Antwort_4=1	Pluto
+
+[20]
+FZ1=
+FZ2=Was ist eine Galaxie?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0	eine Raumstation
+Antwort_2=0	eine italienische Eisdiele
+Antwort_3=1	ein Sternensystem
+Antwort_4=0	eine Diskothek
+
+[21]
+FZ1=
+FZ2=Wie lange braucht die Erde bis sie einmal
+FZ3=die Sonne umkreist?
+Min=0
+Max=500000
+Antwort_1=0	eine Woche
+Antwort_2=1	ein Jahr
+Antwort_3=0	einen Tag
+Antwort_4=0	einen Monat
+
+[22]
+FZ1=
+FZ2=Welches Sternzeichen gibt es nicht?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Stier
+Antwort_2=0	Fisch
+Antwort_3=1	Ochse
+Antwort_4=0	Zwilling
+
+[23]
+FZ1=
+FZ2=Wie heiﬂt die Schutzschicht der Erde?
+FZ3=
+Min=0
+Max=1000000
+Antwort_1=0	Gasschicht
+Antwort_2=0	Atmosph‰re
+Antwort_3=0	Luftschicht
+Antwort_4=1	Ozonschicht
+
+[24]
+FZ1=
+FZ2=Welcher Himmelskˆrper wird nach einem Meeresgott benannt?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0	Pluto
+Antwort_2=1	Neptun
+Antwort_3=0	Mars
+Antwort_4=0	Jupiter
+

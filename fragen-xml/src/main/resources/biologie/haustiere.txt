@@ -1,0 +1,2117 @@
+[Thema]
+Thema=Rund um Haus- und Bauernhoftiere
+Fragen=192
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Katzen werden in Gruppen eingeteilt. Wie viele Katzengruppen gibt es ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=13	
+Antwort_2=05	
+Antwort_3=04	
+Antwort_4=02	
+
+[2]
+FZ1=
+FZ2=Was ist  k e i n e  Katzengruppe ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Mittelkatzen	
+Antwort_2=0Großkatzen	
+Antwort_3=0Kleinkatzen	
+Antwort_4=0Geparden	
+
+[3]
+FZ1=
+FZ2=Wie viele Stunden nach der Fütterung sollte man 
+FZ3=mit einem Hund "Gassi" gehen ?
+Min=8000
+Max=125000
+Antwort_1=13 - 4	
+Antwort_2=02 - 3	
+Antwort_3=01 - 2	
+Antwort_4=04 - 5	
+
+[4]
+FZ1=
+FZ2=Wie nennt man einen Schlittenhund ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Husky	
+Antwort_2=0Pluto	
+Antwort_3=0Snoopy	
+Antwort_4=0Retriever	
+
+[5]
+FZ1=
+FZ2=Mit einer Duftdrüse produzieren Hunde ihr eigenes "Parfum". 
+FZ3=Wo befindet sich diese Duftdrüse ?
+Min=0
+Max=1000
+Antwort_1=1unter dem Schwanz	
+Antwort_2=0hinter dem Ohr	
+Antwort_3=0unter dem Bauch	
+Antwort_4=0unter dem Kinn	
+
+[6]
+FZ1=
+FZ2=Was bedeutet es, wenn ein Hund seinen Schwanz einzieht ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Er hat Angst.	
+Antwort_2=0Er will spielen.	
+Antwort_3=0Er freut sich.	
+Antwort_4=0Er hat Hunger.	
+
+[7]
+FZ1=
+FZ2=Was bedeutet es, wenn Kaninchen mit den Hinterbeinen auf den Boden klopfen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Es hat Angst.	
+Antwort_2=0Es hat gute Laune.	
+Antwort_3=0Es möchte spielen.	
+Antwort_4=0Es wird von Hasenflöhen am Fuß	gejuckt.	
+
+[8]
+FZ1=
+FZ2=Was tun Kanarienvögel besonders gerne ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1baden	
+Antwort_2=0klettern	
+Antwort_3=0schlafen	
+Antwort_4=0im Laufrad laufen	
+
+[9]
+FZ1=
+FZ2=Wie alt kann ein Beo werden, wenn er gut gepflegt wird ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 20 Jahre	
+Antwort_2=0ca. 30 Jahre	
+Antwort_3=0ca. 10 Jahre	
+Antwort_4=0ca. 40 Jahre	
+
+[10]
+FZ1=
+FZ2=Warum reiben Kaninchen oft ihr Kinn an Gegenständen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie markieren ihr Revier.	
+Antwort_2=0Sie wollen spielen.	
+Antwort_3=0Sie haben Zahnschmerzen.	
+Antwort_4=0Sie werden von Hasenflöhen geplagt.	
+
+[11]
+FZ1=
+FZ2=Was tun zwei Hamster, die sich außerhalb der Paarungszeit begegnen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie stellen sich drohend auf die	Hinterbeine.	
+Antwort_2=0Sie liebkosen sich.	
+Antwort_3=0Sie beschnüffeln sich.	
+Antwort_4=0Sie laufen schnell weg.	
+
+[12]
+FZ1=
+FZ2=Wie heißt der berühmteste Collie der Filmgeschichte ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Lassie	
+Antwort_2=0Flipper	
+Antwort_3=0Fury	
+Antwort_4=0Charly	
+
+[13]
+FZ1=
+FZ2=Wie viel wiegt eine ausgewachsene Deutsche Dogge ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 60 kg	
+Antwort_2=0ca. 80 kg	
+Antwort_3=0ca. 70 kg	
+Antwort_4=0ca. 100 kg	
+
+[14]
+FZ1=
+FZ2=Warum trugen früher die Tierärzte auf dem Land oft eine Mundharmonika
+FZ3=bei sich, wenn sie einsame Gehöfte mit gefährlichen Wachhunden besuchten ?
+Min=250000
+Max=500000
+Antwort_1=1weil der Mundharmonikaton für Hunde	sehr unangenehm ist und sie sogar zum	Erstarren bringen kann	
+Antwort_2=0Der Tierarzt konnte sich mit der	Mundharmonika Mut machen.	
+Antwort_3=0damit der Bauer den Tierarzt schon von	weitem hören konnte	
+Antwort_4=0weil Hunde den Mundharmonikaton	gerne hören und fast zahm werden	
+
+[15]
+FZ1=
+FZ2=Was ist ein "Harzer Roller" ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1eine Zuchtform des Kanarienvogels	
+Antwort_2=0eine Zuchtform des Rottweilers	
+Antwort_3=0eine Zuchtform des Herings	
+Antwort_4=0eine Zuchtform des Hamsters	
+
+[16]
+FZ1=
+FZ2=Woher stammt der Collie ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schottland	
+Antwort_2=0Grönland	
+Antwort_3=0Island	
+Antwort_4=0England	
+
+[17]
+FZ1=
+FZ2=Welches Land ist die Heimat der Wellensittiche ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Australien	
+Antwort_2=0Peru	
+Antwort_3=0Indonesien	
+Antwort_4=0Japan	
+
+[18]
+FZ1=
+FZ2=Wozu dienen die Barthaare einer Katze ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1als Orientierungshilfe	
+Antwort_2=0als zusätzliche Riechorgane	
+Antwort_3=0als Verständigungsmittel zwischen den	Artgenossen	
+Antwort_4=0als Verschönerung	
+
+[19]
+FZ1=
+FZ2=Welche Hunderasse hat ein weißes Fell mit großen schwarzen Tupfen ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1Dalmatiner	
+Antwort_2=0Collie	
+Antwort_3=0Boxer	
+Antwort_4=0Bernhardiner	
+
+[20]
+FZ1=
+FZ2=Was brauchen Papageien unbedingt zur Schnabelpflege
+FZ3=und Kräftigung ihrer Muskeln ?
+Min=500
+Max=4000
+Antwort_1=1einen Kletterbaum	
+Antwort_2=0ein Laufrad	
+Antwort_3=0eine Feile	
+Antwort_4=0Anabolika	
+
+[21]
+FZ1=
+FZ2=Muss man die Krallen von Hunden ab und zu kürzen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ja	
+Antwort_2=0nur bei Hündinnen	
+Antwort_3=0nein	
+Antwort_4=0nur bei den Rüden	
+
+[22]
+FZ1=
+FZ2=Wie nennt man es, wenn eine Katze mit etwas hochgezogener Oberlippe einen
+FZ3=besonders interessanten Duft einzieht ?
+Min=500000
+Max=500000
+Antwort_1=1flehmen	
+Antwort_2=0flennen	
+Antwort_3=0gähnen	
+Antwort_4=0fleiern	
+
+[23]
+FZ1=
+FZ2=Wie heißen die feinen Federn, die dem Geflügel als Kälteschutz dienen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Daunen	
+Antwort_2=0Launen	
+Antwort_3=0Sauna	
+Antwort_4=0Gaumen	
+
+[24]
+FZ1=
+FZ2=Wie nennt man den Federwechsel der Vögel ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Mauser	
+Antwort_2=0Hauser	
+Antwort_3=0Klauser	
+Antwort_4=0Sauser	
+
+[25]
+FZ1=
+FZ2=Wie kommt es, dass die Federn von Wasservögeln nicht nass werden ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Sie werden eingefettet.	
+Antwort_2=0Sie werden immer gut gewärmt.	
+Antwort_3=0Sie sind leserartig.	
+Antwort_4=0Sie sind gut durchblutet.	
+
+[26]
+FZ1=
+FZ2=An welchen Teilen des Arms sitzen die großen Flugfedern der Vögel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Finger	
+Antwort_2=0Unterarm	
+Antwort_3=0Ellbogen	
+Antwort_4=0Oberarm	
+
+[27]
+FZ1=
+FZ2=Welche Auswüchse der Haut besitzen nur die Vögel ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Federn	
+Antwort_2=0Knochen	
+Antwort_3=0Schuppen	
+Antwort_4=0Krallen	
+
+[28]
+FZ1=
+FZ2=Aus welchem Stoff bestehen die Schalen der Hühnereier ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Kalk	
+Antwort_2=0Schiefer	
+Antwort_3=0Marmor	
+Antwort_4=0Gips	
+
+[29]
+FZ1=
+FZ2=Wie nennt man sehr junge Hühner ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Küken	
+Antwort_2=0Kitzchen	
+Antwort_3=0Kälbchen	
+Antwort_4=0Kaulquappen	
+
+[30]
+FZ1=
+FZ2=Wie nennt man die in einer Hühnerschar sich ausbildende soziale Schichtung ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hackordnung	
+Antwort_2=0Hauordnung	
+Antwort_3=0Fressordnung	
+Antwort_4=0Kratzordnung	
+
+[31]
+FZ1=
+FZ2=Aus welcher Urform ist unser Hausschwein hervorgegangen ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Wildschwein	
+Antwort_2=0Meerschwein	
+Antwort_3=0Stachelschwein	
+Antwort_4=0Warzenschwein	
+
+[32]
+FZ1=
+FZ2=Wie wird das junge Pferd genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Fohlen	
+Antwort_2=0Welpe	
+Antwort_3=0Kalb	
+Antwort_4=0Kitz	
+
+[33]
+FZ1=
+FZ2=Wie wird ein weißes Pferd genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schimmel	
+Antwort_2=0Hengst	
+Antwort_3=0Rappe	
+Antwort_4=0Stute	
+
+[34]
+FZ1=
+FZ2=Wie ist der Name einer kleinwüchsigen Sorte von Pferden ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Pony	
+Antwort_2=0Haflinger	
+Antwort_3=0Mustang	
+Antwort_4=0Trakehner	
+
+[35]
+FZ1=
+FZ2=Wie wird ein schwarzes Pferd genannt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Rappe	
+Antwort_2=0Fuchs	
+Antwort_3=0Schimmel	
+Antwort_4=0Pony	
+
+[36]
+FZ1=
+FZ2=Wie heißt das männliche Hausschwein ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Eber	
+Antwort_2=0Rüde	
+Antwort_3=0Keiler	
+Antwort_4=0Hengst	
+
+[37]
+FZ1=
+FZ2=Wie heißen die noch nicht voll entwickelten Stadien von Insekten,
+FZ3=die gelegentlich unsere Gartenpflanzen benagen ?
+Min=500
+Max=4000
+Antwort_1=1Raupen	
+Antwort_2=0Maden	
+Antwort_3=0Puppen	
+Antwort_4=0Eier	
+
+[38]
+FZ1=
+FZ2=Zu welcher Gruppe von Tieren zählen Pferd und Esel aufgrund des Baues ihrer
+FZ3=Gliedmaßen ?
+Min=2000
+Max=32000
+Antwort_1=1Einhufer	
+Antwort_2=0Dreihufer	
+Antwort_3=0Paarhufer	
+Antwort_4=0Vierhufer	
+
+[39]
+FZ1=
+FZ2=Mit welchem Teil des Beines berührt das Pferd den Boden ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Zehenspitzen	
+Antwort_2=0Unterschenkel	
+Antwort_3=0Knie	
+Antwort_4=0Oberschenkel	
+
+[40]
+FZ1=
+FZ2=Wie werden die verwilderten Pferde der nordamerikanischen Prärie genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mustangs	
+Antwort_2=0Araber	
+Antwort_3=0Ponys	
+Antwort_4=0Holsteiner	
+
+[41]
+FZ1=
+FZ2=Wie wird die gemächliche Art des Laufens beim Pferd genannt ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Trab	
+Antwort_2=0Schritt	
+Antwort_3=0Galopp	
+Antwort_4=0Sprung	
+
+[42]
+FZ1=
+FZ2=Wie werden die grobknochigen, schweren Zugpferde genannt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kaltblüter	
+Antwort_2=0Warmblüter	
+Antwort_3=0Heißblüter	
+Antwort_4=0Mittelblüter	
+
+[43]
+FZ1=
+FZ2=Wie wird der größte Magen des Rindes genannt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Pansen	
+Antwort_2=0Euter	
+Antwort_3=0Fransen	
+Antwort_4=0Hansen	
+
+[44]
+FZ1=
+FZ2=Wie heißt das Organ des Rindes, in dem die Milch produziert wird ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Euter	
+Antwort_2=0Zitzen	
+Antwort_3=0Pansen	
+Antwort_4=0Magen	
+
+[45]
+FZ1=
+FZ2=Wie viele Mägen besitzt ein Rind ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=14	
+Antwort_2=05	
+Antwort_3=03	
+Antwort_4=06	
+
+[46]
+FZ1=
+FZ2=Zu welcher Gruppe von Tieren mit besonderer Art der Verdauung gehören
+FZ3=Rind, Schaf und Ziege ?
+Min=500
+Max=4000
+Antwort_1=1Wiederkäuer	
+Antwort_2=0Einmalesser	
+Antwort_3=0Wiederschlucker	
+Antwort_4=0Einmaltrinker	
+
+[47]
+FZ1=
+FZ2=Wie heißt das unfruchtbar gemachte männliche Rind ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Ochse	
+Antwort_2=0Hengst	
+Antwort_3=0Stier	
+Antwort_4=0Kalb	
+
+[48]
+FZ1=
+FZ2=Warum sind Pflanzen in einem Aquarium wichtig ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1weil sie Sauerstoff erzeugen	
+Antwort_2=0weil es dann schöner aussieht	
+Antwort_3=0weil die Fische immer etwas zu	knabbern haben	
+Antwort_4=0weil sie die Futterreste verwerten	
+
+[49]
+FZ1=
+FZ2=Wie viele Junge bekommt eine Maus durchschnittlich bei einer Geburt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=14 - 8	
+Antwort_2=08 - 10	
+Antwort_3=02 - 4	
+Antwort_4=010 - 12	
+
+[50]
+FZ1=
+FZ2=Warum darf man nur ein Männchen des Schleierkampffisches im Aquarium halten ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1weil sich zwei Männchen bis zum Tode	eines der beiden Rivalen bekämpfen	würden	
+Antwort_2=0weil zwei Männchen zu viel fressen	würden	
+Antwort_3=0weil zwei Männchen zu teuer sind	
+Antwort_4=0weil sich ein Männchen sofort	eingraben und ersticken würde	
+
+[51]
+FZ1=
+FZ2=Wie viele Hunderassen gibt es heute ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1ca. 400	
+Antwort_2=0ca. 200	
+Antwort_3=0ca. 300	
+Antwort_4=0ca. 100	
+
+[52]
+FZ1=
+FZ2=Woran kann man Männchen und Weibchen bei den Wellensittichen unterscheiden ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1an der Farbe der Nasenhaut	
+Antwort_2=0an der Farbe der Flügelfedern	
+Antwort_3=0an der Farbe der Schwanzfedern	
+Antwort_4=0an der Größe	
+
+[53]
+FZ1=
+FZ2=Wie oft im Jahr bekommen Mäuse Junge ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=15 - 6 mal	
+Antwort_2=03 - 4 mal	
+Antwort_3=01 - 2 mal	
+Antwort_4=07 - 8 mal	
+
+[54]
+FZ1=
+FZ2=Wer züchtete die ersten Kanarienvögel ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Spanier	
+Antwort_2=0Chinesen	
+Antwort_3=0Kanadier	
+Antwort_4=0Kolumbianer	
+
+[55]
+FZ1=
+FZ2=Aus welchem Land kommen ursprünglich die Meerschweinchen her ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Guyana	
+Antwort_2=0Madagaskar	
+Antwort_3=0Papua - Neuguinea	
+Antwort_4=0Chile	
+
+[56]
+FZ1=
+FZ2=Wie alt kann ein Wellensittich werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=115 - 20 Jahre	
+Antwort_2=01 - 3 Jahre	
+Antwort_3=03 - 5 Jahre	
+Antwort_4=06 - 10 Jahre	
+
+[57]
+FZ1=
+FZ2=Wie nennt man ein Tier mit weißem Fell und roten Augen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Albino	
+Antwort_2=0Alberto	
+Antwort_3=0Albano	
+Antwort_4=0Alhambra	
+
+[58]
+FZ1=
+FZ2=Wie oft können Hündinnen Welpen bekommen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1etwa alle 6 Monate	
+Antwort_2=0alle 30 tage	
+Antwort_3=0ca. alle 3 Monate	
+Antwort_4=0jedes Jahr einmal	
+
+[59]
+FZ1=
+FZ2=In welchem Alter kann man Katzen am besten an eine Leine gewöhnen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1im Alter von 10 - 12 Wochen	
+Antwort_2=0im Alter von 6 - 8 Wochen	
+Antwort_3=0im Alter von 2 - 4 Wochen	
+Antwort_4=0im Alter von 24 - 30 Wochen	
+
+[60]
+FZ1=
+FZ2=Was fressen Molche, Salamander und Frösche ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1lebende Tiere	
+Antwort_2=0Pflanzen	
+Antwort_3=0Aas	
+Antwort_4=0Gras und Insekten	
+
+[61]
+FZ1=
+FZ2=Wo wurden zum ersten Mal Hunde gezüchtet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1China	
+Antwort_2=0Australien	
+Antwort_3=0Südamerika	
+Antwort_4=0Madagaskar	
+
+[62]
+FZ1=
+FZ2=Woher kommen die Chinchillas ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Südamerika	
+Antwort_2=0Australien	
+Antwort_3=0China	
+Antwort_4=0Indien	
+
+[63]
+FZ1=
+FZ2=Warum haben Papageien so große Füße ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Die großen, beweglichen Krallen sind	gute Greifwerkzeuge, mit ihnen können	die Vögel auch gut klettern.	
+Antwort_2=0Die großen Füße bilden das	Gegengewicht zu großen Schnabel.	
+Antwort_3=0Die Papageien brauchen so große Füße	beim Starten und beim Landen.	
+Antwort_4=0Mit den großen Füßen können sich die	Papageien gut verteidigen.	
+
+[64]
+FZ1=
+FZ2=Warum soll man Futterreste regelmäßig aus dem Futternapf entfernen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Fliegen legen dort ihre Eier ab und es	bilden sich Schmarotzer.	
+Antwort_2=0Die Reste locken fremde Haustiere an.	
+Antwort_3=0Es sieht nicht schön aus und das Tier	frisst dann nicht mehr aus diesem Napf.	
+Antwort_4=0Das Haustier könnte sich überfressen.	
+
+[65]
+FZ1=
+FZ2=Sind Katzen gesellige Tiere ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1nein	
+Antwort_2=0nur die Weibchen	
+Antwort_3=0ja	
+Antwort_4=0nur die Männchen	
+
+[66]
+FZ1=
+FZ2=Was ist die "Rote Liste" ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1eine Liste von Tieren, die vom	Aussterben bedroht sind	
+Antwort_2=0eine Stammbaumliste von Rassekatzen	
+Antwort_3=0eine Liste, die die Wege der Roten	Waldameisen enthält	
+Antwort_4=0eine Liste mit allen rot gefärbten Tieren	
+
+[67]
+FZ1=
+FZ2=Wo galten die Katzen in der Vergangenheit als heilige Tiere ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Ägypten	
+Antwort_2=0Griechenland	
+Antwort_3=0Rom	
+Antwort_4=0Indien	
+
+[68]
+FZ1=
+FZ2=Welche Tiere gelten als die ältesten Haustiere des Menschen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Hunde	
+Antwort_2=0Pferde	
+Antwort_3=0Katzen	
+Antwort_4=0Schweine	
+
+[69]
+FZ1=
+FZ2=Was ist ein Puter ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1männlicher Truthahn	
+Antwort_2=0männlicher Puma	
+Antwort_3=0männlicher Hase	
+Antwort_4=0männliches Schwein	
+
+[70]
+FZ1=
+FZ2=Wie wird der männliche Truthahn genannt ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Puter	
+Antwort_2=0Muter	
+Antwort_3=0Guter	
+Antwort_4=0Zuter	
+
+[71]
+FZ1=
+FZ2=Wie wird ein Brathähnchen mit einem Gewicht von über 1150 g genannt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Poularde	
+Antwort_2=0Mansarde	
+Antwort_3=0Roulade	
+Antwort_4=0Remoulade	
+
+[72]
+FZ1=
+FZ2=Wie werden die Ohren des Hasen auch genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Löffel	
+Antwort_2=0Gabel	
+Antwort_3=0Messer	
+Antwort_4=0Schere	
+
+[73]
+FZ1=
+FZ2=Welche Schafrasse kommt besonders häufig in der Lüneburger Heide vor ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Heidschnucke	
+Antwort_2=0Merinolandschaf	
+Antwort_3=0Texelschaf	
+Antwort_4=0Weißköpfiges Fleischschaf	
+
+[74]
+FZ1=
+FZ2=Von welchem Haustier bekommen wir die Wolle ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schaf	
+Antwort_2=0Huhn	
+Antwort_3=0Schwein	
+Antwort_4=0Kuh	
+
+[75]
+FZ1=
+FZ2=Was ist  k e i n  Teil eines Rindermagens ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Beutelmagen	
+Antwort_2=0Blättermagen	
+Antwort_3=0Netzmagen	
+Antwort_4=0Labmagen	
+
+[76]
+FZ1=
+FZ2=Wie nennt man das weibliche Rind bis zur Geburt des ersten Kalbes ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Färse	
+Antwort_2=0Fohlen	
+Antwort_3=0Föhre	
+Antwort_4=0Muhkuh	
+
+[77]
+FZ1=
+FZ2=Wie wird das fortpflanzungsfähige männliche Rind genannt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Stier	
+Antwort_2=0Ochse	
+Antwort_3=0Wallach	
+Antwort_4=0Kuh	
+
+[78]
+FZ1=
+FZ2=Wie viele Liter Milch gibt eine gute Kuh im Jahr ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 3.500	
+Antwort_2=0ca. 3.900	
+Antwort_3=0ca. 3.000	
+Antwort_4=0ca. 2.800	
+
+[79]
+FZ1=
+FZ2=Wie nennt man ein Verhalten, das angeboren ist, also nicht erlernt werden muss ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Instinkt	
+Antwort_2=0Imker	
+Antwort_3=0Insekt	
+Antwort_4=0Insulin	
+
+[80]
+FZ1=
+FZ2=Welche Hunderasse besitzt eine blaue Zunge ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Chow - Chow	
+Antwort_2=0Boxer	
+Antwort_3=0Pekines	
+Antwort_4=0Pudel	
+
+[81]
+FZ1=
+FZ2=Wie heißt die Hunderasse, die früher von Mönchen zur Suche nach Lawinenopfern
+FZ3=eingesetzt wurde ?
+Min=0
+Max=1000
+Antwort_1=1Bernhardiner	
+Antwort_2=0Collie	
+Antwort_3=0Dalmatiner	
+Antwort_4=0Dobermann	
+
+[82]
+FZ1=
+FZ2=Wie viele Regenwürmer sind in einem Quadratmeter Wiesenboden etwa zu finden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 300	
+Antwort_2=0ca. 100	
+Antwort_3=0ca. 200	
+Antwort_4=0ca. 400	
+
+[83]
+FZ1=
+FZ2=Wie werden die Vogeljungen genannt, die sofort nach dem Schlüpfen
+FZ3=sehen und laufen können ?
+Min=1000
+Max=16000
+Antwort_1=1Nestflüchter	
+Antwort_2=0Nestbeschmutzer	
+Antwort_3=0Nesthocker	
+Antwort_4=0Nestrenner	
+
+[84]
+FZ1=
+FZ2=Welcher nachtaktive Insektenfresser orientiert sich beim Fliegen mit Hilfe von
+FZ3=Ultraschall - Rufen ?
+Min=500
+Max=4000
+Antwort_1=1Fledermaus	
+Antwort_2=0Nachtigall	
+Antwort_3=0Uhu	
+Antwort_4=0Bussard	
+
+[85]
+FZ1=
+FZ2=Wie nennt man Tiere, die am liebsten in der Gesellschaft
+FZ3=mit ihresgleichen leben ?
+Min=1000
+Max=16000
+Antwort_1=1Herdentiere	
+Antwort_2=0Rudeltiere	
+Antwort_3=0Gruppentiere	
+Antwort_4=0Familientiere	
+
+[86]
+FZ1=
+FZ2=Wie heißen die Raupen des Maikäfers, die sich in der Erde entwickeln ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Engerlinge	
+Antwort_2=0Silberlinge	
+Antwort_3=0Frühlinge	
+Antwort_4=0Mailinge	
+
+[87]
+FZ1=
+FZ2=Welches wirbellose Tier ernährt sich von humusreicher Erde ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Regenwurm	
+Antwort_2=0Feuersalamander	
+Antwort_3=0Blindschleiche	
+Antwort_4=0Maulwurf	
+
+[88]
+FZ1=
+FZ2=Wie heißt das gelb - schwarze Insekt, dessen Stich sehr schmerzhaft ist ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wespe	
+Antwort_2=0Libelle	
+Antwort_3=0Mücke	
+Antwort_4=0Bremse	
+
+[89]
+FZ1=
+FZ2=Bei welchem Vogel, der viel in unseren Gärten anzutreffen ist,
+FZ3=besitzt das Männchen einen gelben Schnabel ?
+Min=500
+Max=8000
+Antwort_1=1Amsel	
+Antwort_2=0Blaumeise	
+Antwort_3=0Rotkehlchen	
+Antwort_4=0Gelbfink	
+
+[90]
+FZ1=
+FZ2=Wie heißt der stachelige, erwünschte Gast in unseren Gärten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Igel	
+Antwort_2=0Stinktier	
+Antwort_3=0Stachelschwein	
+Antwort_4=0Eichhörnchen	
+
+[91]
+FZ1=
+FZ2=Wie heißt der schwarz, weiß und rostbraun gefärbte Vogel, der sein offenes Nest
+FZ3=gern in Ställen und Scheunen baut ?
+Min=300
+Max=2000
+Antwort_1=1Rauchschwalbe	
+Antwort_2=0Nachtigall	
+Antwort_3=0Kuckuck	
+Antwort_4=0Amsel	
+
+[92]
+FZ1=
+FZ2=Wie heißen die an Pflanzen saugenden Insekten,
+FZ3=die sich vielfach ungeschlechtlich vermehren ?
+Min=1000
+Max=16000
+Antwort_1=1Blattläuse	
+Antwort_2=0Flöhe	
+Antwort_3=0Blattkäfer	
+Antwort_4=0Blattschneideameisen	
+
+[93]
+FZ1=
+FZ2=Welche Nahrung frisst der Maulwurf besonders gerne ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Würmer und Engerlinge	
+Antwort_2=0Libellen und kleine Frösche	
+Antwort_3=0Fliegen und Spinnen	
+Antwort_4=0Johannisbeeren und Erdbeeren	
+
+[94]
+FZ1=
+FZ2=Welches große Nagetier war mitverantwortlich für die Ausbreitung der Pest im
+FZ3=Mittelalter ?
+Min=1000
+Max=16000
+Antwort_1=1Ratte	
+Antwort_2=0Eichhörnchen	
+Antwort_3=0Biber	
+Antwort_4=0Feldmaus	
+
+[95]
+FZ1=
+FZ2=Welches Tier besitzt acht Beine ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Spinne	
+Antwort_2=0Ameise	
+Antwort_3=0Marienkäfer	
+Antwort_4=0Maulwurf	
+
+[96]
+FZ1=
+FZ2=Wie heißt das kleine, flugunfähige Insekt, das sich in Ritzen
+FZ3=von feuchten Räumen aufhält ?
+Min=0
+Max=1000
+Antwort_1=1Silberfischchen	
+Antwort_2=0Kupferfischchen	
+Antwort_3=0Goldfischchen	
+Antwort_4=0Bronzefischchen	
+
+[97]
+FZ1=
+FZ2=Wie werden die zusammengesetzten Augen der Insekten genannt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Facettenaugen	
+Antwort_2=0Glasaugen	
+Antwort_3=0Mosaikaugen	
+Antwort_4=0Stielaugen	
+
+[98]
+FZ1=
+FZ2=Wie ist der genaue Name eines lästigen, aber ungefährlichen Insekts,
+FZ3=das sich von allerlei Abfällen ernährt ?
+Min=0
+Max=1000
+Antwort_1=1Stubenfliege	
+Antwort_2=0Mücke	
+Antwort_3=0Libelle	
+Antwort_4=0Biene	
+
+[99]
+FZ1=
+FZ2=Wie wird ein Käfig für frei fliegende Vögel genannt ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Voliere	
+Antwort_2=0Terrarium	
+Antwort_3=0Aquarium	
+Antwort_4=0Zwinger	
+
+[100]
+FZ1=
+FZ2=Wie heißen die kleinen Reptilien, die wegen ihrer Kletterfähigkeit
+FZ3=als Fliegenfänger im Haus gehalten werden ?
+Min=2000
+Max=32000
+Antwort_1=1Geckos	
+Antwort_2=0Salamander	
+Antwort_3=0Lurche	
+Antwort_4=0Molche	
+
+[101]
+FZ1=
+FZ2=Wie heißen die Atmungsorgane der Fische ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kiemen	
+Antwort_2=0Blasen	
+Antwort_3=0Lungen	
+Antwort_4=0Flossen	
+
+[102]
+FZ1=
+FZ2=Wie nennt man das heute verbotene Kürzen des Schwanzes und der Ohren bei
+FZ3=Hunden ?
+Min=1000000
+Max=0
+Antwort_1=1Kupieren	
+Antwort_2=0Kapieren	
+Antwort_3=0Kopieren	
+Antwort_4=0Pürieren	
+
+[103]
+FZ1=
+FZ2=Wie heißt die größte Hunderasse, die in Deutschland gezüchtet wurde ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Dogge	
+Antwort_2=0Dobermann	
+Antwort_3=0Boxer	
+Antwort_4=0Collie	
+
+[104]
+FZ1=
+FZ2=Wie heißen die Fische, deren Junge bei Gefahr in den Mund
+FZ3=der Elterntiere flüchten ?
+Min=2000
+Max=32000
+Antwort_1=1Maulbrüter	
+Antwort_2=0Schnauzenrenner	
+Antwort_3=0Mundflüchter	
+Antwort_4=0Schnabelhocker	
+
+[105]
+FZ1=
+FZ2=Welche Gruppe von Fischen legt keine Eier, sondern bringt die Jungen
+FZ3=schwimmfähig zur Welt ?
+Min=2000
+Max=32000
+Antwort_1=1Zahnkarpfen	
+Antwort_2=0Bachforellen	
+Antwort_3=0Bartwelse	
+Antwort_4=0Goldfische	
+
+[106]
+FZ1=
+FZ2=Wie heißt der künstliche Lebensraum für Wassertiere ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Aquarium	
+Antwort_2=0Terrarium	
+Antwort_3=0Aquamarin	
+Antwort_4=0Voliere	
+
+[107]
+FZ1=
+FZ2=Wie nennt man eine Gruppe von Fischen,
+FZ3=die für ihre Eier ein Schaumnest herstellt ?
+Min=2000
+Max=32000
+Antwort_1=1Fadenfische	
+Antwort_2=0Taufische	
+Antwort_3=0Schnurfische	
+Antwort_4=0Seilfische	
+
+[108]
+FZ1=
+FZ2=Wie nennt man einen "Lebensraum", in dem kleine Landtiere gehalten und zur
+FZ3=Schau gestellt werden ?
+Min=1000
+Max=16000
+Antwort_1=1Terrarium	
+Antwort_2=0Aquarium	
+Antwort_3=0Atrium	
+Antwort_4=0Voliere	
+
+[109]
+FZ1=
+FZ2=Wie nennt man einen Käfig für frei herumlaufende Tiere ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Zwinger	
+Antwort_2=0Burg	
+Antwort_3=0Falle	
+Antwort_4=0Voliere	
+
+[110]
+FZ1=
+FZ2=Welche Käfig - Vogelart ist durch ihren Gesang berühmt geworden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kanarienvogel	
+Antwort_2=0Papagei	
+Antwort_3=0Nachtigall	
+Antwort_4=0Wellensittich	
+
+[111]
+FZ1=
+FZ2=Welche in Käfig gehaltenen Vögel können zwar behände klettern,
+FZ3=aber nicht von Ast zu Ast hüpfen ?
+Min=1000
+Max=16000
+Antwort_1=1Papageien	
+Antwort_2=0Kanarienvögel	
+Antwort_3=0Wellensittiche	
+Antwort_4=0Finken	
+
+[112]
+FZ1=
+FZ2=Wie heißt die kleinste Hunderasse ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Chiuahua	
+Antwort_2=0Pekinese	
+Antwort_3=0Chow - Chow	
+Antwort_4=0Bobtail	
+
+[113]
+FZ1=
+FZ2=Aus welcher Gegend stammt das Meerschweinchen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1nördliches Südamerika	
+Antwort_2=0westliches Indien	
+Antwort_3=0südliches China	
+Antwort_4=0östliches Nordaustralien	
+
+[114]
+FZ1=
+FZ2=Wie heißt die Kaninchenrasse mit langen, feinen , weißen Haaren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Angora	
+Antwort_2=0Siam	
+Antwort_3=0Angola	
+Antwort_4=0Collie	
+
+[115]
+FZ1=
+FZ2=Warum sollte man ein Aquarium nicht auf die Fensterbank stellen ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1weil die Algen dort zu schnell wachsen	
+Antwort_2=0weil es dort oft zieht	
+Antwort_3=0weil es leicht herunterfallen kann	
+Antwort_4=0weil Nachbars Katze die Fische sieht	
+
+[116]
+FZ1=
+FZ2=Wie werden Katzenkinder stubenrein ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Sie lernen durch das Vorbild ihrer	Mutter, die Katzentoilette zu benutzen.	
+Antwort_2=0Man muss sie ständig ermahnen.	
+Antwort_3=0Sie sind von Anfang an stubenrein.	
+Antwort_4=0Man gibt ihnen 4 Tage nichts	zu fressen .	
+
+[117]
+FZ1=
+FZ2=Welche Tiere sind für die Sauberkeit des Bodens und der Glaswände in einem
+FZ3=Aquarium sehr nützlich ?
+Min=500
+Max=4000
+Antwort_1=1Schnecken	
+Antwort_2=0Muscheln	
+Antwort_3=0Würmer	
+Antwort_4=0Frösche	
+
+[118]
+FZ1=
+FZ2=Warum nannte man im Mittelalter den Spitz auch "Mistbello" ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1weil seine Hundehütte auf dem	Misthaufen stand	
+Antwort_2=0weil er oft stank	
+Antwort_3=0weil die Leute ihn wegen seines	Gekläffes nicht gut leiden konnten	
+Antwort_4=0weil es den Namen Spitz noch nicht gab	
+
+[119]
+FZ1=
+FZ2=In welchem Alter werden Mäusejunge geschlechtsreif ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1nach 40 Tagen	
+Antwort_2=0nach 60 Tagen	
+Antwort_3=0nach 20 Tagen	
+Antwort_4=0nach 80 Tagen	
+
+[120]
+FZ1=
+FZ2=Warum dreht sich ein Hund mehrmals um sich selbst, bevor er sich hinlegt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Er vergewissert sich, dass kein	ungebetener Gast (Schlange, Skorpion	o.ä.) in seinem Revier ist.	
+Antwort_2=0Er muss sich vor dem Schlafen noch	einmal alles genau anschauen.	
+Antwort_3=0Er wird dadurch sehr schnell müde.	
+Antwort_4=0Hunde können sich schlecht	entschließen, auf welcher Seite sie	liegen wollen.	
+
+[121]
+FZ1=
+FZ2=Wie viele Wochen dauert die Tragzeit der Katze ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=19 Wochen	
+Antwort_2=04 Wochen	
+Antwort_3=06 Wochen	
+Antwort_4=07 Wochen	
+
+[122]
+FZ1=
+FZ2=Wie viele Tage dauert die Tragzeit des Hundes ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=130	
+Antwort_2=020	
+Antwort_3=040	
+Antwort_4=050	
+
+[123]
+FZ1=
+FZ2=Wie heißen die verwilderten Haushunde Australiens ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Dingos	
+Antwort_2=0Dalmatiner	
+Antwort_3=0Mungos	
+Antwort_4=0Gringos	
+
+[124]
+FZ1=
+FZ2=Seit wie vielen Jahren etwa ist der Hund ein Gefährte des Menschen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1seit ca. 12.000 Jahren	
+Antwort_2=0seit ca. 4.000 Jahren	
+Antwort_3=0seit ca. 6.000 Jahren	
+Antwort_4=0seit ca. 2.000 Jahren	
+
+[125]
+FZ1=
+FZ2=Wie nennt man den männlichen Hund ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1Rüde	
+Antwort_2=0Rüdiger	
+Antwort_3=0Eber	
+Antwort_4=0Rappe	
+
+[126]
+FZ1=
+FZ2=Welche Hunderasse wurde früher vorwiegend für die Fuchs- und Dachsjagd
+FZ3=abgerichtet ?
+Min=200
+Max=2000
+Antwort_1=1Dackel	
+Antwort_2=0Collie	
+Antwort_3=0Doberman	
+Antwort_4=0Spitz	
+
+[127]
+FZ1=
+FZ2=Wie nennt man junge Hunde ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Welpen	
+Antwort_2=0Kälbchen	
+Antwort_3=0Hündchen	
+Antwort_4=0Ferkel	
+
+[128]
+FZ1=
+FZ2=Welche besonderen Einrichtungen zum Fangen von Beutetieren besitzen die
+FZ3=Katzenpfoten ?
+Min=500
+Max=8000
+Antwort_1=1einziehbare Krallen	
+Antwort_2=0Krallen mit Widerhaken	
+Antwort_3=0giftige Krallen	
+Antwort_4=0mehrfach geteilte Krallen	
+
+[129]
+FZ1=
+FZ2=Von welcher Tierart stammt die Hauskatze ab ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ägypytische Falbkatze	
+Antwort_2=0Siamkatze	
+Antwort_3=0Perserkatze	
+Antwort_4=0Sibirischer Tiger	
+
+[130]
+FZ1=
+FZ2=Wo liegt die Heimat der Goldhamster ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Syrien	
+Antwort_2=0Peru	
+Antwort_3=0Afghanistan	
+Antwort_4=0China	
+
+[131]
+FZ1=
+FZ2=Zu welcher Tiergruppe gehört der Goldhamster ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nagetiere	
+Antwort_2=0Amphibien	
+Antwort_3=0Reptilien	
+Antwort_4=0Vögel	
+
+[132]
+FZ1=
+FZ2=Was zeigt der Hund mit dem Schwanz an, wenn er wedelt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Freude	
+Antwort_2=0Ärger	
+Antwort_3=0Wut	
+Antwort_4=0Trauer	
+
+[133]
+FZ1=
+FZ2=Wodurch ist eine Katze in der Lage, auch im Dunkeln zu sehen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1die Pupille ist weit zu öffnen	
+Antwort_2=0die Pupille kann sich nicht	zusammenziehen	
+Antwort_3=0die Pupille wird von innen beleuchtet	
+Antwort_4=0die Pupille besitzt auch Tasthaare	
+
+[134]
+FZ1=
+FZ2=Wie heißt ein unfruchtbar gemachtes männliches Pferd ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Wallach	
+Antwort_2=0Schimmel	
+Antwort_3=0Hengst	
+Antwort_4=0Rappe	
+
+[135]
+FZ1=
+FZ2=Wie heißen die vier großen Eckzähne im Gebiss von Hund und Katze ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Fangzähne	
+Antwort_2=0Schneidezähne	
+Antwort_3=0Beißzähne	
+Antwort_4=0Mahlzähne	
+
+[136]
+FZ1=
+FZ2=Zu welcher Gruppe der Säugetiere gehört der Hund ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Raubtiere	
+Antwort_2=0Rüsseltiere	
+Antwort_3=0Huftiere	
+Antwort_4=0Paarzeher	
+
+[137]
+FZ1=
+FZ2=Wie heißt die kleinste Hunderasse ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Chiuahua	
+Antwort_2=0Pekinese	
+Antwort_3=0Chow - Chow	
+Antwort_4=0Bobtail	
+
+[138]
+FZ1=
+FZ2=Wie heißen die kleinen Reptilien, die wegen ihrer Kletterfähigkeit
+FZ3=als Fliegenfänger im Haus gehalten werden ?
+Min=2000
+Max=32000
+Antwort_1=1Geckos	
+Antwort_2=0Salamander	
+Antwort_3=0Lurche	
+Antwort_4=0Molche	
+
+[139]
+FZ1=
+FZ2=Welches ist der größte Windhund ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Irische Wolfshund	
+Antwort_2=0Whippet	
+Antwort_3=0Greyhound	
+Antwort_4=0Sloughi	
+
+[140]
+FZ1=
+FZ2=Wie oft sollte man einen ausgewachsenen Hund füttern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1einmal am Tag	
+Antwort_2=0dreimal am Tag	
+Antwort_3=0zweimal am Tag	
+Antwort_4=0viermal am Tag	
+
+[141]
+FZ1=
+FZ2=Wie oft sollte man seinen Hund baden ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1alle 8 - 12 Wochen	
+Antwort_2=0alle 3 Wochen	
+Antwort_3=0jeden Tag	
+Antwort_4=0einmal im Monat	
+
+[142]
+FZ1=
+FZ2=Von wem lernen junge Katzen das Mäusefangen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1von ihrer Mutter	
+Antwort_2=0von ihren Geschwistern	
+Antwort_3=0von ihrem Vater	
+Antwort_4=0Das Mäusefangen ist angeboren.	
+
+[143]
+FZ1=
+FZ2=Wie weist eine Hundemutter ein aufmüpfiges Hundekind zurecht ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie schüttelt es kurz am Nackenfell.	
+Antwort_2=0Sie gibt ihm einen Nasenstüber.	
+Antwort_3=0Sie beißt es ins Ohr.	
+Antwort_4=0Sie stellt ihm ein Beinchen.	
+
+[144]
+FZ1=
+FZ2=Was muss man einem jungen Hund als Erstes beibringen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1sein Geschäft im Freien zu machen	
+Antwort_2=0wo er schlafen soll	
+Antwort_3=0seinen Namen	
+Antwort_4=0wo er sein Fressen bekommt	
+
+[145]
+FZ1=
+FZ2=In welchem Alter sollte ein Hund sein, wenn man ihn bei sich aufnimmt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nicht älter als 2 - 3 Monate	
+Antwort_2=0nicht älter als 1 Monat	
+Antwort_3=0nicht älter als 2 - 3 Tage	
+Antwort_4=0nicht älter als 4 - 6 Monate	
+
+[146]
+FZ1=
+FZ2=In welchem Alter wird ein Pudel das erste Mal geschoren ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1mit 4 Monaten	
+Antwort_2=0mit 4 Jahren	
+Antwort_3=0mit 4 Wochen	
+Antwort_4=0mit 4 Tagen	
+
+[147]
+FZ1=
+FZ2=Wie viele Krallen haben Hunde an jeder Pfote ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=14	
+Antwort_2=03	
+Antwort_3=05	
+Antwort_4=02	
+
+[148]
+FZ1=
+FZ2=In welchem Alter sollte man Meerschweinchen am besten kaufen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1im Alter von 5 - 6 Wochen	
+Antwort_2=0im Alter von 3 - 4 Wochen	
+Antwort_3=0im Alter von 4 - 5 Wochen	
+Antwort_4=0im Alter von 2 - 3 Wochen	
+
+[149]
+FZ1=
+FZ2=Wo wurden zuerst Katzen mit langem Fell gezüchtet ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1in der Türkei	
+Antwort_2=0in China	
+Antwort_3=0in den USA	
+Antwort_4=0in Indien	
+
+[150]
+FZ1=
+FZ2=Was bedeutet es, wenn eine Katze schnurrt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Sie fühlt sich wohl.	
+Antwort_2=0Sie ist müde.	
+Antwort_3=0Sie hat Angst.	
+Antwort_4=0Sie hat Hunger.	
+
+[151]
+FZ1=
+FZ2=Warum leckt ein Kaninchen manchmal die Hand, wenn man es streichelt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1weil es sich wohl fühlt	
+Antwort_2=0weil es durstig ist	
+Antwort_3=0weil es Hunger hat	
+Antwort_4=0weil es müde ist	
+
+[152]
+FZ1=
+FZ2=Warum ist der Neonfisch so bunt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1um Feinde abzuschrecken	
+Antwort_2=0zur Tarnung	
+Antwort_3=0um Artgenossen anzulocken	
+Antwort_4=0um Feinde anzulocken	
+
+[153]
+FZ1=
+FZ2=In welchem Alter öffnet ein Katzenbaby zum ersten Mal die Augen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nach 7 Tagen	
+Antwort_2=0nach 9 Tagen	
+Antwort_3=0nach 5 Tagen	
+Antwort_4=0nach 11 Tagen	
+
+[154]
+FZ1=
+FZ2=Wieso können Geckos an senkrechten Wänden emporklettern ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie haben an der Unterseite ihrer Füße	Lamellen mit hunderttausender feiner	Häkchen.	
+Antwort_2=0Weil Geckos extrem leicht sind.	
+Antwort_3=0Sie haben an der Unterseite ihre Füße	Saugnäpfe.	
+Antwort_4=0Sie sind absolut schwindelfrei.	
+
+[155]
+FZ1=
+FZ2=Zu welcher Fischfamilie gehören die Skalare ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Buntbarsche	
+Antwort_2=0Welse	
+Antwort_3=0Neons	
+Antwort_4=0Hechte	
+
+[156]
+FZ1=
+FZ2=Wie lang kann eine Anakonda werden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 9 Meter	
+Antwort_2=0ca. 5 Meter	
+Antwort_3=0ca. 7 Meter	
+Antwort_4=0ca. 15 Meter	
+
+[157]
+FZ1=
+FZ2=Wie heißen Meerschweinchen, die Wirbel in ihrem Haarkleid haben ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Rosettenmeerschweinchen	
+Antwort_2=0Wirbelmeerschweinchen	
+Antwort_3=0Angorameerschweinchen	
+Antwort_4=0Hurikanmeerschweinchen	
+
+[158]
+FZ1=
+FZ2=Warum fressen Katzen so gerne Gras ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Gras hilft der Katze beim Auswürgen	von Haarballen und fördert die	Verdauung.	
+Antwort_2=0Damit sie nicht immer Mäuse fressen	müssen.	
+Antwort_3=0Katzen möchten so gerne Kühe sein.	
+Antwort_4=0Weil die Grashalme am und im Maul so	angenehm kribbeln.	
+
+[159]
+FZ1=
+FZ2=Wie wird der Diskusfisch auch genannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1König der Aquarienfische	
+Antwort_2=0Liebling der Aquarienfische	
+Antwort_3=0Schrecken der Aquarienfische	
+Antwort_4=0Retter der Aquarienfische	
+
+[160]
+FZ1=
+FZ2=Woher stammt der prächtige Diskusfisch ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Südamerika	
+Antwort_2=0Malaysia	
+Antwort_3=0Indonesien	
+Antwort_4=0Australien	
+
+[161]
+FZ1=
+FZ2=Wie alt werden Nagetiere normalerweise ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=12 - 3 Jahre	
+Antwort_2=03 - 4 Jahre	
+Antwort_3=01 - 2 Jahre	
+Antwort_4=04 - 5 Jahre	
+
+[162]
+FZ1=
+FZ2=Wann wechseln junge Katzen ihre Zähne ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1nach ca. 5 Monaten	
+Antwort_2=0nach ca. 3 Monaten	
+Antwort_3=0nach ca. 4 Monaten	
+Antwort_4=0nach ca. 2 Monaten	
+
+[163]
+FZ1=
+FZ2=Wechseln kleine Katzen ihre Zähne ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1ja	
+Antwort_2=0nur die weißen Weibchen	
+Antwort_3=0nein	
+Antwort_4=0nur die schwarzen Männchen	
+
+[164]
+FZ1=
+FZ2=Wie groß kann der Schnabel des Arakakadus werden ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1etwa 10 cm	
+Antwort_2=0etwa 20 cm	
+Antwort_3=0etwa 15 cm	
+Antwort_4=0etwa 7 cm	
+
+[165]
+FZ1=
+FZ2=Welche Papageienart hat den größten Schnabel ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Arakakadu	
+Antwort_2=0Fächerpapgei	
+Antwort_3=0Inkakakdu	
+Antwort_4=0Schnabelpapagei	
+
+[166]
+FZ1=
+FZ2=Wie alt können Vogelspinnen werden ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1bis zu 30 Jahren	
+Antwort_2=0bis zu 10 Jahren	
+Antwort_3=0bis zu 20 Jahren	
+Antwort_4=0bis zu 5 Jahren	
+
+[167]
+FZ1=
+FZ2=Wann wurde das Meerschweinchen bei uns in Europa bekannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1im 16. Jahrhundert	
+Antwort_2=0im 14. Jahrhundert	
+Antwort_3=0im 12. Jahrhundert	
+Antwort_4=0im 18. Jahrhundert	
+
+[168]
+FZ1=
+FZ2=Wann öffnen Mäusejunge ihre Augen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1nach 10 - 14 Tagen	
+Antwort_2=0nach 14 - 19 Tagen	
+Antwort_3=0nach 3 - 4 Tagen	
+Antwort_4=0nach 20 - 25 Tagen	
+
+[169]
+FZ1=
+FZ2=Woran kann man erkennen, wie groß ein Kaninchen wird ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1an seinen Ohren	
+Antwort_2=0an seinem Fell	
+Antwort_3=0an seinen Pfoten	
+Antwort_4=0an seinem Pummelschwänzchen	
+
+[170]
+FZ1=
+FZ2=Wie alt können Papageien werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=160 - 100 Jahre	
+Antwort_2=04 - 9 Jahre	
+Antwort_3=010 - 35 Jahre	
+Antwort_4=040 - 60 Jahre	
+
+[171]
+FZ1=
+FZ2=Für welche Haustiere gilt die Grundregel:
+FZ3="Kein Auslauf ohne Aufsicht"  ?
+Min=500
+Max=8000
+Antwort_1=1Nagetiere	
+Antwort_2=0Hunde	
+Antwort_3=0Katzen	
+Antwort_4=0Pferde	
+
+[172]
+FZ1=
+FZ2=Welche Höchstgeschwindigkeit erreicht der Greyhound ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 60 km/h	
+Antwort_2=0ca. 40 km/h	
+Antwort_3=0ca. 50 km/h	
+Antwort_4=0ca. 70 km/h	
+
+[173]
+FZ1=
+FZ2=Was drücken Meerschweinchen aus, wenn sie durchdringend quieken ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Sie sind aufgeregt.	
+Antwort_2=0Sie sind ängstlich.	
+Antwort_3=0Sie fühlen sich wohl.	
+Antwort_4=0Sie sind hungrig.	
+
+[174]
+FZ1=
+FZ2=Wie heißen kräftige, muskulöse und stämmige Hunde mit Schlappohren und
+FZ3=stumpfen Fang ?
+Min=300
+Max=2000
+Antwort_1=1Doggen	
+Antwort_2=0Pinscher	
+Antwort_3=0Terrier	
+Antwort_4=0Dackel	
+
+[175]
+FZ1=
+FZ2=Was drücken Meerschweinchen durch Schnurren und Grunzen aus ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie fühlen sich wohl.	
+Antwort_2=0Sie ängstigen sich.	
+Antwort_3=0Sie ärgern sich.	
+Antwort_4=0Sie haben Hunger und Durst.	
+
+[176]
+FZ1=
+FZ2=Woher stammen unsere grauen Hausmäuse ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Iran	
+Antwort_2=0Sudan	
+Antwort_3=0Irak	
+Antwort_4=0Ägypten	
+
+[177]
+FZ1=
+FZ2=Warum brauchen Nagetiere unbedingt viel Knabberfutter ?
+FZ3=
+Min=300
+Max=8000
+Antwort_1=1Ihre Nagetiere wachsen ständig nach	und müssen durch das Nagen	abgeschliffen werden.	
+Antwort_2=0Damit viel Knabberfutter verkauft wird.	
+Antwort_3=0Damit sie groß und stark werden.	
+Antwort_4=0Sonst würden die Nagetiere zu viel	trinken.	
+
+[178]
+FZ1=
+FZ2=Wozu hat der Hamster seine großen Backentaschen ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Er trägt Nahrungsvorräte in den	Backentaschen in sein Häuschen und	lagert sie dort.	
+Antwort_2=0Der Hamster sieht damit schöner aus.	
+Antwort_3=0Dort haben seine kräftigen Nagezähne	Platz.	
+Antwort_4=0Bei Gefahr versteckt er dort seine	Jungen.	
+
+[179]
+FZ1=
+FZ2=Wie viel lichtempfindlicher als unsere Augen sind die Augen von Katzen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=16 - mal	
+Antwort_2=04 - mal	
+Antwort_3=02 - mal	
+Antwort_4=08 - mal	
+
+[180]
+FZ1=
+FZ2=Welchen Duft mögen Katzen nicht ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Orangenschalenduft	
+Antwort_2=0Baldrian	
+Antwort_3=0Katzenminze	
+Antwort_4=0Thymian	
+
+[181]
+FZ1=
+FZ2=Wie heißen die kleinen Reptilien, die wegen ihrer Kletterfähigkeit
+FZ3=als Fliegenfänger im Haus gehalten werden ?
+Min=2000
+Max=32000
+Antwort_1=1Geckos	
+Antwort_2=0Salamander	
+Antwort_3=0Lurche	
+Antwort_4=0Molche	
+
+[182]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[183]
+FZ1=
+FZ2=Wie alt werden Mäuse ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 3 Jahre	
+Antwort_2=0ca. 2 Jahre	
+Antwort_3=0ca. 1 Jahr	
+Antwort_4=0ca. 4 Jahre	
+
+[184]
+FZ1=
+FZ2=Wie viel cm wachsen die Schneidezähne eines Kaninchens im Jahr ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=18 -  10 cm	
+Antwort_2=04 - 6 cm	
+Antwort_3=02 - 4 cm	
+Antwort_4=06 - 8 cm	
+
+[185]
+FZ1=
+FZ2=Wie hoch ist die Idealtemperatur für Kaninchen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=118 °C	
+Antwort_2=014 °C	
+Antwort_3=023 °C	
+Antwort_4=027 °C	
+
+[186]
+FZ1=
+FZ2=Wie schwer können die Riesenrassen bei den Kaninchen werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=15 - 8 kg	
+Antwort_2=01 - 3 kg	
+Antwort_3=02 - 4 kg	
+Antwort_4=010 - 18 kg	
+
+[187]
+FZ1=
+FZ2=Wie schwer werden Zwergkaninchen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1800 g - 2 kg	
+Antwort_2=0200 g - 45 g	
+Antwort_3=0500 g - 900 g	
+Antwort_4=02 kg - 4 kg	
+
+[188]
+FZ1=
+FZ2=Wie alt kann ein Kaninchen werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis 10 Jahre	
+Antwort_2=0bis 15 Jahre	
+Antwort_3=0bis 5 Jahre	
+Antwort_4=0bis 3 Jahre	
+
+[189]
+FZ1=
+FZ2=Ab welcher Temperatur sollten Meerschweinchen im Haus untergebracht werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1unter 15 - 18 °C	
+Antwort_2=0unter 7 -  9 °C	
+Antwort_3=0unter 10 - 15 °C	
+Antwort_4=0unter 0 °C	
+
+[190]
+FZ1=
+FZ2=Wie lang ist die Tragzeit bei Meerschweinchen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=163 - 70 Tage	
+Antwort_2=028 - 35 Tage	
+Antwort_3=040 - 55 Tage	
+Antwort_4=017 - 28 Tage	
+
+[191]
+FZ1=
+FZ2=Wie alt können Meerschweinchen werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=15 - 7 Jahre	
+Antwort_2=09 - 12 Jahre	
+Antwort_3=02 - 4 Jahre	
+Antwort_4=01 - 3 Jahre	
+
+[192]
+FZ1=
+FZ2=Wie alt werden Mäuse ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 3 Jahre	
+Antwort_2=0ca. 2 Jahre	
+Antwort_3=0ca. 1 Jahr	
+Antwort_4=0ca. 4 Jahre	
+

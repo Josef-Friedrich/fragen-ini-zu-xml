@@ -1,0 +1,1281 @@
+[Thema]
+Thema=Rund um das Leben am und im  Wasser
+Fragen=116
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welchen langgestreckten Karpfenfisch gibt es ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Nase	
+Antwort_2=0Auge	
+Antwort_3=0Ohr	
+Antwort_4=0Mund	
+
+[2]
+FZ1=
+FZ2=Wie lang kann ein Aalweibchen werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 1,50 m	
+Antwort_2=0ca. 2 m	
+Antwort_3=0ca. 1 m	
+Antwort_4=0ca. 2,50 m	
+
+[3]
+FZ1=
+FZ2=Wie nennt man die ca. 9 mm große Wasserwanze, die sich gerne kopfüber
+FZ3=mit den Füßen am Oberflächenhäutchen des Wassers festhält ?
+Min=4000
+Max=64000
+Antwort_1=1Rückenschwimmer	
+Antwort_2=0Seitenschwimmer	
+Antwort_3=0Brustschwimmer	
+Antwort_4=0Kopfschwimmer	
+
+[4]
+FZ1=
+FZ2=Was ist eine "Blaugrüne Mosaikjungfer" ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1eine große Libelle	
+Antwort_2=0einen schimmernde Moorpflanze	
+Antwort_3=0eine prächtige Wasserpflanze	
+Antwort_4=0ein kleiner Fisch	
+
+[5]
+FZ1=
+FZ2=Wie wird die Wasseraloe auch genannt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Krebsschere	
+Antwort_2=0Krebsschwert	
+Antwort_3=0Krebsmesser	
+Antwort_4=0Krebsdolch	
+
+[6]
+FZ1=
+FZ2=Wie lang können die Stiele der Seerose werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis zu 2 m	
+Antwort_2=0bis zu 1 m	
+Antwort_3=0bis zu 1,5 m	
+Antwort_4=0bis zu 0,50 m	
+
+[7]
+FZ1=
+FZ2=Welche Farbe haben die Blüten der Sumpfdotterblumen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1gelb	
+Antwort_2=0blau	
+Antwort_3=0rosa	
+Antwort_4=0grün	
+
+[8]
+FZ1=
+FZ2=Wie werden die Watvögel auch genannt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Limikolen	
+Antwort_2=0Limonade	
+Antwort_3=0Linoleum	
+Antwort_4=0Larifari	
+
+[9]
+FZ1=
+FZ2=Wie heißt der größte Watvogel Europas ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Großer Brachvogel	
+Antwort_2=0Gemeiner Brachvogel	
+Antwort_3=0Kleiner Brachvogel	
+Antwort_4=0Riesenbrachvogel	
+
+[10]
+FZ1=
+FZ2=Wie groß kann die Stockente werden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 60 cm	
+Antwort_2=0ca. 20 cm	
+Antwort_3=0ca. 40 cm	
+Antwort_4=0ca. 1,20 m	
+
+[11]
+FZ1=
+FZ2=Wie heißt die Entenart, die bei uns am häufigsten vorkommt ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Stockente	
+Antwort_2=0Astente	
+Antwort_3=0Stabente	
+Antwort_4=0Zweigente	
+
+[12]
+FZ1=
+FZ2=Zu welchen Tieren gehören das Teichhuhn ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Rallen	
+Antwort_2=0Enten	
+Antwort_3=0Ratten	
+Antwort_4=0Schwänen	
+
+[13]
+FZ1=Wie nennt man die großen Wasservögel, die mit den Enten in einer Familie
+FZ2=zusammengefasst sind, sich von diesen aber durch einen längeren,
+FZ3= schlankeren Hals unterscheiden ?
+Min=1000
+Max=16000
+Antwort_1=1Gänse	
+Antwort_2=0Kolibris	
+Antwort_3=0Schwäne	
+Antwort_4=0Reiher	
+
+[14]
+FZ1=
+FZ2=Wie wird der Fischreiher auch genannt ?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=1Graureiher	
+Antwort_2=0Schwarzreiher	
+Antwort_3=0Weißreiher	
+Antwort_4=0Braunreiher	
+
+[15]
+FZ1=
+FZ2=Wie groß kann ein Eisvogel werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1bis zu 16,5 cm	
+Antwort_2=0bis zu 27,5 cm	
+Antwort_3=0bis zu 10 cm	
+Antwort_4=0bis zu 35 cm	
+
+[16]
+FZ1=
+FZ2=Wie heißen die jungen Frösche ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kaulquappen	
+Antwort_2=0Fröschlis	
+Antwort_3=0Quappkaulen	
+Antwort_4=0Lurchi	
+
+[17]
+FZ1=
+FZ2=Wie nennt man es, wenn Enten auf dem Boden unter Wasser nach Nahrung suchen ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1gründeln	
+Antwort_2=0bödeln	
+Antwort_3=0schnorcheln	
+Antwort_4=0tauchen	
+
+[18]
+FZ1=
+FZ2=Wie heißt die männliche Ente ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Erpel	
+Antwort_2=0Eber	
+Antwort_3=0Esau	
+Antwort_4=0Entchen	
+
+[19]
+FZ1=
+FZ2=Wie nennt man die Algen, die große grüne Lappen bilden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Meersalat	
+Antwort_2=0Meergurken	
+Antwort_3=0Meerblätter	
+Antwort_4=0Meerlappen	
+
+[20]
+FZ1=
+FZ2=Wo brüten die Silbermöwen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1am Boden	
+Antwort_2=0in Höhlen	
+Antwort_3=0auf Büschen	
+Antwort_4=0auf Bäumen	
+
+[21]
+FZ1=
+FZ2=Was frisst der Austernfischer am häufigsten ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Herzmuscheln	
+Antwort_2=0Miesmuscheln	
+Antwort_3=0Austern	
+Antwort_4=0Schwertmuscheln	
+
+[22]
+FZ1=
+FZ2=Wie tief kann die Eiderente tauchen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 50 m	
+Antwort_2=0ca. 15 m	
+Antwort_3=0ca. 5 m	
+Antwort_4=0ca. 25 m	
+
+[23]
+FZ1=
+FZ2=Welche Farbe hat die Miesmuschel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1blauschwarz	
+Antwort_2=0weiß	
+Antwort_3=0braungrau	
+Antwort_4=0rotbraun	
+
+[24]
+FZ1=
+FZ2=Was geschieht mit gestrandeten Quallen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie sterben sofort.	
+Antwort_2=0Sie leben noch 2 - 3 Stunden.	
+Antwort_3=0Sie graben sich ein	
+Antwort_4=0Sie schwimmen zurück.	
+
+[25]
+FZ1=
+FZ2=Wenn ein Seestern einen seiner Arme verliert, dann ...
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1wächst er nach.	
+Antwort_2=0passiert nichts.	
+Antwort_3=0stirbt der Seestern.	
+Antwort_4=0wachsen zwei Arme nach.	
+
+[26]
+FZ1=
+FZ2=Wie viele Arme hat ein Seestern ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=15	
+Antwort_2=03	
+Antwort_3=04	
+Antwort_4=07	
+
+[27]
+FZ1=
+FZ2=Wie wird die Nordseegarnele auch genannt  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Granat	
+Antwort_2=0Spinat	
+Antwort_3=0Salat	
+Antwort_4=0Zutat	
+
+[28]
+FZ1=
+FZ2=Was ist ein "Petermännchen" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ein Fisch	
+Antwort_2=0der Wattführer von St. Peter Ording	
+Antwort_3=0eine Muschel	
+Antwort_4=0eine Schnecke	
+
+[29]
+FZ1=
+FZ2=Welchen Krebs gibt es ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Taschenkrebs	
+Antwort_2=0Netzkrebs	
+Antwort_3=0Tütenkrebs	
+Antwort_4=0Beutelkrebs	
+
+[30]
+FZ1=
+FZ2=Wächst der Panzer einer Strandkrabbe mit ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nein	
+Antwort_2=0nur bei den Männchen	
+Antwort_3=0ja	
+Antwort_4=0nur bei den Weibchen	
+
+[31]
+FZ1=
+FZ2=Wie nennt man jungen Robben, die den Kontakt zur Mutter verloren haben ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Heuler	
+Antwort_2=0Schreier	
+Antwort_3=0Brüller	
+Antwort_4=0Rufer	
+
+[32]
+FZ1=
+FZ2=Wie nennt man die Mischung aus Salz- und Süßwasser
+FZ3=im Mündungsbereich von Flüssen ?
+Min=16000
+Max=125000
+Antwort_1=1Brackwasser	
+Antwort_2=0Flachwasser	
+Antwort_3=0Schlackwasser	
+Antwort_4=0Bitterwasser	
+
+[33]
+FZ1=
+FZ2=Wie weit können Stöhn- und Schnalzlaute der Wale noch wahrgenommen werden ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1bis fast 200 km	
+Antwort_2=0bis fast 100 km	
+Antwort_3=0bis fast 20 km	
+Antwort_4=0bis fast 80 km	
+
+[34]
+FZ1=
+FZ2=Gegen wen kämpfen große Pottwalmännchen in der Tiefsee ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1gegen bis zu 17 Meter langen	Riesenkraken	
+Antwort_2=0gegen Killerwale	
+Antwort_3=0gegen ein Rudel Hammerhaie	
+Antwort_4=0gegen Tiefseemuränen	
+
+[35]
+FZ1=
+FZ2=Welchen Wal gibt es auch in der Nordsee ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Schweinswal	
+Antwort_2=0Grönlandwal	
+Antwort_3=0Entenwal	
+Antwort_4=0Grindwal	
+
+[36]
+FZ1=
+FZ2=Wie groß werden die Minikrebschen (Krill),
+FZ3=die den Bartenwalen als Nahrung dienen ?
+Min=32000
+Max=250000
+Antwort_1=1bis 7 cm	
+Antwort_2=0bis 5 cm	
+Antwort_3=0bis 3 cm	
+Antwort_4=0bis 5 cm	
+
+[37]
+FZ1=
+FZ2=Wo leben die Wale ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1in allen Meeren	
+Antwort_2=0nur am Südpol	
+Antwort_3=0nur am Nordpol	
+Antwort_4=0nur im Mittelmeer	
+
+[38]
+FZ1=
+FZ2=Aus welchen zwei Körperbaumerkmalen kann man schließen, dass der Wal
+FZ3=eigentlich ein Landtier ist ?
+Min=4000
+Max=64000
+Antwort_1=1Er besitzt Lungen und Reste eines	Beckengürtels.	
+Antwort_2=0Er besitzt einen massigen Kopf und	dicke Flossen.	
+Antwort_3=0Er besitzt eine starke Wirbelsäule und	kräftige Kniegelenke.	
+Antwort_4=0Er besitzt eine schuppige Haut und	eine gelenkige Schwanzflosse.	
+
+[39]
+FZ1=
+FZ2=Welcher einheimische Vogel bewegt sich unter Wasser
+FZ3=mit Hilfe seiner Flügel voran ?
+Min=0
+Max=1000
+Antwort_1=1Eisvogel	
+Antwort_2=0Frostvogel	
+Antwort_3=0Schneevogel	
+Antwort_4=0Sonnenvogel	
+
+[40]
+FZ1=
+FZ2=Wie heißen die im Wasser lebenden Ringelwürmer, die sich mit zwei Saugnäpfen
+FZ3=anheften können ?
+Min=4000
+Max=64000
+Antwort_1=1Blutegel	
+Antwort_2=0Röhrchenwurm	
+Antwort_3=0Plankton	
+Antwort_4=0Wattwurm	
+
+[41]
+FZ1=
+FZ2=Woran sind die im Wasser lebenden Larven der Eintagsfliege zu erkennen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1an drei, feinen fadenförmigen	Fortsätzen des Hinterleibes	
+Antwort_2=0an den sechs sich bildenden	Schwimmhäuten an den Beinen	
+Antwort_3=0an den zarten Schwimmflügeln	
+Antwort_4=0an dem langen Luftrüssel	
+
+[42]
+FZ1=
+FZ2=Warum ist die Bezeichnung "Tintenfisch" falsch ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Sie gehören wie Schnecken und	Muscheln zu den Weichtieren.	
+Antwort_2=0Sie gehören zu den Reptilien.	
+Antwort_3=0Sie gehören zu den Seeschlangen.	
+Antwort_4=0Sie gehören zu den Walen.	
+
+[43]
+FZ1=Wie viele Eier legt eine Libelle ab ?
+FZ2=
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1200 - 1.600	
+Antwort_2=050 - 130	
+Antwort_3=02.000 - 3.500	
+Antwort_4=04 - 7	
+
+[44]
+FZ1=
+FZ2=Was ist Perlmutt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Die innere Schalenschicht bei	verschiedenen Schnecken und	Muscheln.	
+Antwort_2=0Die innere Schicht bei verschiedenen	Seeigeln.	
+Antwort_3=0Die äußere Schalenschicht bei	verschiedenen Schnecken und	Muscheln.	
+Antwort_4=0die Mutter der Perle	
+
+[45]
+FZ1=
+FZ2=Wie heißen die Weichtiere mit zweiklappiger Schale ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Muscheln	
+Antwort_2=0Quallen	
+Antwort_3=0Krebse	
+Antwort_4=0Seesterne	
+
+[46]
+FZ1=
+FZ2=Was versteht man unter dem "Umkippen" eines Gewässers ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Durch Fäulnisvorgänge ist der	Sauerstoffgehalt so stark abgesunken,	das alles Leben abstirbt.	
+Antwort_2=0Die Wellenbewegung des Gewässers ist	so stark, dass alle Boote, die auf ihm	fahren immer umkippen.	
+Antwort_3=0Durch zu hohe Wellenbewegung	schwappt alles Wasser an Land und das	Gewässer trocknet aus.	
+Antwort_4=0Durch Erdbeben werden Gewässer auf	die Seite gekippt, sodass alles Wasser	abfließt.	
+
+[47]
+FZ1=
+FZ2=Wie heißen die Männchen einer einheimischen Fischart, die bei der Balz
+FZ3=einen roten Bauch haben ?
+Min=1000
+Max=16000
+Antwort_1=1Stichling	
+Antwort_2=0Bückling	
+Antwort_3=0Hering	
+Antwort_4=0Pieksling	
+
+[48]
+FZ1=
+FZ2=Wie nennt man die im freien Wasser schwebenden Organismen ohne
+FZ3=Eigenbewegung ?
+Min=4000
+Max=64000
+Antwort_1=1Plankton	
+Antwort_2=0Pocken	
+Antwort_3=0Krill	
+Antwort_4=0Quallen	
+
+[49]
+FZ1=
+FZ2=Wie nennt man tierische, im Wasser schwebende Organismen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Zooplankton	
+Antwort_2=0Hausplankton	
+Antwort_3=0Hofplankton	
+Antwort_4=0Meerplankton	
+
+[50]
+FZ1=
+FZ2=Was bedeutet das griechische Wort Plankton ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1das "Umhergetriebene"	
+Antwort_2=0das "Vielfältige"	
+Antwort_3=0das "Schwebende"	
+Antwort_4=0das "Schmackhafte"	
+
+[51]
+FZ1=
+FZ2=Wie nennt man den Kieferapparat der Seeigel ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Laterne des Aristoteles	
+Antwort_2=0Leuchte des Olymp	
+Antwort_3=0Lampe des Kopernikus	
+Antwort_4=0Licht des Ptolomäus	
+
+[52]
+FZ1=
+FZ2=Welche ökologische Bedeutung haben Muscheln ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sie filtern Schwebstoffe aus dem	Wasser.	
+Antwort_2=0Sie erwärmen das Wasser.	
+Antwort_3=0Sie kühlen das Wasser ab.	
+Antwort_4=0Sie regulieren den Säuregehalt des	Wassers.	
+
+[53]
+FZ1=
+FZ2=Wie heißt der kleine einheimische Fisch, der für die Fortpflanzung
+FZ3=Muscheln benötigt ?
+Min=2000
+Max=32000
+Antwort_1=1Bitterling	
+Antwort_2=0Säuerling	
+Antwort_3=0Süßling	
+Antwort_4=0Salzling	
+
+[54]
+FZ1=
+FZ2=Wodurch schützen sich Leuchtkrebse vor dem Gefressenwerden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Sie haben an der Bauchseite Leucht-	organe, wodurch sie für tiefer schwim-	mende Fische unsichtbar werden.	
+Antwort_2=0Sie können ihre Leuchtorgane an- und	ausschalten.	
+Antwort_3=0Sie können mit ihren Leuchtorganen	ihre Feinde blenden.	
+Antwort_4=0Sie haben am Schwanzende	"Blinkorgane", die ihre Fressfeinde	irritieren.	
+
+[55]
+FZ1=
+FZ2=Welches technische Prinzip nutzen Tintenfische zur schnelleren Fortbewegung ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Rückstoßschwimmen	
+Antwort_2=0Jetschwimmen	
+Antwort_3=0Turboschwimmen	
+Antwort_4=0Kraulschwimmen	
+
+[56]
+FZ1=
+FZ2=Wie nennt man nährstoffreiche Seen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1eutroph	
+Antwort_2=0autark	
+Antwort_3=0amorph	
+Antwort_4=0eumelisch	
+
+[57]
+FZ1=
+FZ2=Welche Farbe hat das Fleisch des Lachses  n a c h  dem Ablaichen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1grauweiß	
+Antwort_2=0graugrün	
+Antwort_3=0rosa	
+Antwort_4=0blau	
+
+[58]
+FZ1=
+FZ2=Wie atmet die Wasserspinne ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1mit Hilfe einer Luftschicht zwischen der	dichten Körperbehaarung	
+Antwort_2=0mit Hilfe eines langen Rüssels, der unter	dem Bauch eingerollt ist	
+Antwort_3=0mit Hilfe von kleinen Schnorcheln an	den Vorderbeinen	
+Antwort_4=0mit Hilfe einer großen Luftblase, in der	sie sich einschließt	
+
+[59]
+FZ1=
+FZ2=Wie nennt man die Kleinkrebse in den antarktischen Gewässern, von denen sich die
+FZ3=Bartenwale ernähren ?
+Min=500
+Max=8000
+Antwort_1=1Krill	
+Antwort_2=0Mill	
+Antwort_3=0Dill	
+Antwort_4=0Still	
+
+[60]
+FZ1=
+FZ2=Wie heißen Stachelhäuter mit abgeplattetem, sternförmigen Körper ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Seesterne	
+Antwort_2=0Seesonnen	
+Antwort_3=0Seemonde	
+Antwort_4=0Seeplaneten	
+
+[61]
+FZ1=
+FZ2=Welche in der Donau vorkommende Fischart hat lange Bartfäden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Wels	
+Antwort_2=0Hecht	
+Antwort_3=0Karpfen	
+Antwort_4=0Barsch	
+
+[62]
+FZ1=
+FZ2=Was bildet sich aus Fremdkörpern, die zwischen Schale und Mantel einer Muschel
+FZ3=gebracht werden ?
+Min=500
+Max=4000
+Antwort_1=1Perlen	
+Antwort_2=0Seesterne	
+Antwort_3=0Pocken	
+Antwort_4=0Quallen	
+
+[63]
+FZ1=
+FZ2=Wie nennt man pflanzliche, in Wasser schwebende Organismen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Phytoplankton	
+Antwort_2=0Pylone	
+Antwort_3=0Pharmaka	
+Antwort_4=0Pyramiden	
+
+[64]
+FZ1=
+FZ2=Wie heißt der Fisch, der seine Eier in schraubenförmigen Bändern an Pflanzen
+FZ3=ablegt ?
+Min=2000
+Max=32000
+Antwort_1=1Moderlieschen	
+Antwort_2=0Schlammheini	
+Antwort_3=0Schimmelgretchen	
+Antwort_4=0Dreckaugust	
+
+[65]
+FZ1=
+FZ2=Welche besonderen Mundwerkzeuge besitzen Libellenlarven ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Sie besitzen eine ausklappbare	Fangmaske für den Beutefang.	
+Antwort_2=0Sie besitzen kleine Zangen mit spitzen	Dornen.	
+Antwort_3=0Sie besitzen giftige Widerhaken.	
+Antwort_4=0Sie besitzen eine ausfahrbare	Leimzunge.	
+
+[66]
+FZ1=
+FZ2=Womit schützt der Einsiedlerkrebs seinen ungepanzerten Hinterleib ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1durch ein leeres Schneckenhaus	
+Antwort_2=0durch einen spitzen Stachel	
+Antwort_3=0durch giftigen Schleim	
+Antwort_4=0durch harte Dornen	
+
+[67]
+FZ1=
+FZ2=Welches ist der größte Bartenwal ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Blauwal	
+Antwort_2=0Grönlandwal	
+Antwort_3=0Grauwal	
+Antwort_4=0Pottwal	
+
+[68]
+FZ1=
+FZ2=Was entsteht aus den von Mantelepithelien abgeschiedenen
+FZ3=Kalkkrumen bei Muscheln ?
+Min=250000
+Max=500000
+Antwort_1=1Perlen	
+Antwort_2=0Quallen	
+Antwort_3=0Eier	
+Antwort_4=0Seetang	
+
+[69]
+FZ1=
+FZ2=Wie nennt man einen wassergefüllten Behälter, für die Aufzucht und Beobachtung
+FZ3=von Wassertieren ?
+Min=0
+Max=1000
+Antwort_1=1Aquarium	
+Antwort_2=0Aquamarin	
+Antwort_3=0Terrarium	
+Antwort_4=0Rosarium	
+
+[70]
+FZ1=
+FZ2=Wie nennt man nährstoffarme Seen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1oligotroph	
+Antwort_2=0isotopisch	
+Antwort_3=0metamorph	
+Antwort_4=0helioskop	
+
+[71]
+FZ1=
+FZ2=Wie nennt man das spezielle Organ der Fische, mit dem sie Strömungen und
+FZ3=Druckwellen wahrnehmen können ?
+Min=125000
+Max=500000
+Antwort_1=1Seitenlinienorgan	
+Antwort_2=0Kiemenortungsorgan	
+Antwort_3=0Schwanzflossenorgan	
+Antwort_4=0Rückenlinienorgan	
+
+[72]
+FZ1=
+FZ2=Warum schwimmen Seerosenblätter auf der Wasseroberfläche ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Sie besitzen Luftkammern.	
+Antwort_2=0Sie werden von kleinsten Fischchen	über Wasser gehalten.	
+Antwort_3=0Sie besitzen Schwimmhäute.	
+Antwort_4=0Sie besitzen an der Unterseite kleine	Wasserdüsen.	
+
+[73]
+FZ1=
+FZ2=Woran erkennen Lachse ihren Heimatfluss, in dem sie aus den Eiern schlüpften ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1am Geruch	
+Antwort_2=0an der Farbe	
+Antwort_3=0am Geschmack	
+Antwort_4=0an der Fließgeschwindigkeit	
+
+[74]
+FZ1=
+FZ2=Wie heißen die nur im Meer lebenden, walzenförmigen Stachelhäuter ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Seegurken	
+Antwort_2=0Seemelonen	
+Antwort_3=0Seetomaten	
+Antwort_4=0Seezucchinis	
+
+[75]
+FZ1=
+FZ2=Wie heißen die Rankenfußkrebse, die vor allem als Schiffsbewuchs
+FZ3=sehr schädlich sind ?
+Min=2000
+Max=32000
+Antwort_1=1Seepocken	
+Antwort_2=0Seemasern	
+Antwort_3=0Windpocken	
+Antwort_4=0Schiffspest	
+
+[76]
+FZ1=
+FZ2=Was muss der Hai ständig machen, weil er keine Kiemendeckel hat ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1schwimmen	
+Antwort_2=0fressen	
+Antwort_3=0schnell atmen	
+Antwort_4=0angreifen	
+
+[77]
+FZ1=
+FZ2=Warum muss ein Hai ständig schwimmen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Er hat keine Kiemendeckel, mit denen	er das Wasser durch die Kiemen saugen	könnte.	
+Antwort_2=0Sonst würden seine Muskeln schwächer.	
+Antwort_3=0Er hat keine Schwimmblase.	
+Antwort_4=0Er würde sonst nicht genug Beute	finden.	
+
+[78]
+FZ1=
+FZ2=Wie schützt der Biber seinen Bau vor Fressfeinden ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Der Eingang liegt unter Wasser.	
+Antwort_2=0Das stärkste Männchen beschützt den	Eingang.	
+Antwort_3=0Er verschließt den Eingang mit einem	dicken Baumstamm.	
+Antwort_4=0Vor dem Eingang gräbt der Biber eine	Fallgrube.	
+
+[79]
+FZ1=
+FZ2=Wie heißt der gelb blühende Verwandte der Seerose ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Teichrose	
+Antwort_2=0Zitronenrose	
+Antwort_3=0Ozeanrose	
+Antwort_4=0Tümpelrose	
+
+[80]
+FZ1=
+FZ2=Zu welcher Gruppe von Fischen zählen die Lachse ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Forellenartige	
+Antwort_2=0Haiartige	
+Antwort_3=0Karpfenartige	
+Antwort_4=0Hechtartige	
+
+[81]
+FZ1=
+FZ2=Welche Namen hat die einzige nur im Wasser lebende Spinne ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Wasserspinne	
+Antwort_2=0Nassspinne	
+Antwort_3=0Tauchspinne	
+Antwort_4=0Ozeanspinne	
+
+[82]
+FZ1=
+FZ2=Wie heißt das hydrostatische Organ, das die meisten Knochenfische besitzen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schwimmblase	
+Antwort_2=0Schwimmhaut	
+Antwort_3=0Taucherglocke	
+Antwort_4=0Kiemenblase	
+
+[83]
+FZ1=
+FZ2=Welche Fähigkeit verlieh den Kopffüßern den Namen Tintenfische ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Bei Gefahr entleerten sie ihren	Tintenbeutel und werden dadurch für	die Feinde unsichtbar.	
+Antwort_2=0Sie spritzen  Nachrichten mit Tinte auf	den Meeresboden.	
+Antwort_3=0Sie verstecken ihren Laich in einer	Tintenwolke.	
+Antwort_4=0Bei Gefahr trinken sie ganz viel Tinte	und wirken so bedrohlicher.	
+
+[84]
+FZ1=
+FZ2=Wie heißt das aus Nordamerika stammende Froschbissgewächs, 
+FZ3=das seit 1896 bei uns eingebürgert ist ?
+Min=125000
+Max=500000
+Antwort_1=1kanadische Wasserpest	
+Antwort_2=0kanadische Wassergurgel	
+Antwort_3=0nordamerikanische Froschkieferpflanze	
+Antwort_4=0nordamerikanische Schlingpflanze	
+
+[85]
+FZ1=
+FZ2=Wie hoch können Stromschnellen sein, die Lachse auf ihrer Wanderung
+FZ3=überspringen ?
+Min=64000
+Max=500000
+Antwort_1=1bis 3 m	
+Antwort_2=0bis 2 m	
+Antwort_3=0bis 1m	
+Antwort_4=0bis 0,75 m	
+
+[86]
+FZ1=
+FZ2=Welches ist der größte Zahnwal ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Pottwal	
+Antwort_2=0Grönlandwal	
+Antwort_3=0Blauwal	
+Antwort_4=0Grauwal	
+
+[87]
+FZ1=
+FZ2=Wie heißt die Tierart, bei der das Männchen die Laichschnüre um seine 
+FZ3=Hinterbeine schlingt ?
+Min=64000
+Max=500000
+Antwort_1=1Geburtshelferkröte	
+Antwort_2=0Hebammenkröte	
+Antwort_3=0Kreuzkröte	
+Antwort_4=0Schlingkröte	
+
+[88]
+FZ1=
+FZ2=Zu welcher Fischgruppe gehören Flunder, Scholle oder Seezunge ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1Plattfische	
+Antwort_2=0Brettfische	
+Antwort_3=0Grundfische	
+Antwort_4=0Kugelfische	
+
+[89]
+FZ1=
+FZ2=Wie heißen die bei uns wachsenden Wasserpflanzen mit großen, weißen,
+FZ3=schwimmenden Blüten ?
+Min=0
+Max=1000
+Antwort_1=1Seerosen	
+Antwort_2=0Seeveilchen	
+Antwort_3=0Seetulpen	
+Antwort_4=0Seeanemonen	
+
+[90]
+FZ1=
+FZ2=Welche Bedingungen muss der Laichplatz der Lachse erfüllen ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1kiesiger Boden, klares, kaltes Wasser	
+Antwort_2=0sandiger Boden, warmes und trübes	Wasser	
+Antwort_3=0lehmiger Boden, schnell fließendes	Gewässer	
+Antwort_4=0steiniger Boden, sprudelndes, salziges	Wasser	
+
+[91]
+FZ1=
+FZ2=Wie heißen die Insekten, deren Larven sich aus Sand und Steinchen Wohnröhren
+FZ3=bauen ?
+Min=4000
+Max=64000
+Antwort_1=1Köcherfliegen	
+Antwort_2=0Prachtlibellen	
+Antwort_3=0Stechmücken	
+Antwort_4=0Honigbienen	
+
+[92]
+FZ1=
+FZ2=Wovon ernährt sich der Biber ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Rinde und Zweige von Laubbäumen	und sonstige Pflanzenteile	
+Antwort_2=0Insekten, Frösche und kleine Fische, die	in Ufernähe schwimmen	
+Antwort_3=0Wurzeln und Farne	
+Antwort_4=0Baumstämme	
+
+[93]
+FZ1=
+FZ2=Was haben Haie und Rochen gemeinsam ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Ihr Skelett besteht aus Knorpel und	nicht aus Knochen.	
+Antwort_2=0Ihre Rückenflossen können	nachwachsen.	
+Antwort_3=0Sie haben Lungen anstelle von Kiemen.	
+Antwort_4=0Sie können sich tief in den	Meeresboden eingraben.	
+
+[94]
+FZ1=
+FZ2=Welche Kröte hüpft nicht, sondern läuft wie ein Säugetier auf allen vieren ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Kreuzkröte	
+Antwort_2=0Pfeilkröte	
+Antwort_3=0Krummkröte	
+Antwort_4=0Schlitzkröte	
+
+[95]
+FZ1=
+FZ2=Warum können manche Lachsarten während der Laichwanderung nichts mehr
+FZ3=fressen ?
+Min=16000
+Max=250000
+Antwort_1=1Ihr Unterkiefer wächst hakenförmig	nach vorne.	
+Antwort_2=0Sie haben sich vor der Laichwanderung	überfressen.	
+Antwort_3=0Ihre Kiefer sind zusammengewachsen.	
+Antwort_4=0Ihr Magen ist zusammengepresst.	
+
+[96]
+FZ1=
+FZ2=Wie passen sich die Seerosen dem schwankenden Wasserstand an ?
+FZ3=
+Min=8000
+Max=500000
+Antwort_1=1Die Blattstiele können sehr schnell	wachsen.	
+Antwort_2=0Sie tauchen für einige Zeit unter.	
+Antwort_3=0Die Blätter rollen sich an den Rändern	ein.	
+Antwort_4=0Die Blätter lösen sich von den Stielen .	
+
+[97]
+FZ1=
+FZ2=In welcher Form legen die Frösche ihren Laich ab ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Laichballen	
+Antwort_2=0Laichklumpen	
+Antwort_3=0Laichschnüre	
+Antwort_4=0Laichblase	
+
+[98]
+FZ1=
+FZ2=Wie lautet ein anderer Ausdruck für Amphibien ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Lurche	
+Antwort_2=0Otter	
+Antwort_3=0Molche	
+Antwort_4=0Kaulquappen	
+
+[99]
+FZ1=
+FZ2=Welche Farbe hat das Fleisch des Lachses vor dem Laichen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1rosa	
+Antwort_2=0bläulich	
+Antwort_3=0weiß	
+Antwort_4=0bräunlich	
+
+[100]
+FZ1=
+FZ2=Wie heißt die größte Pinguinart ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kaiserpinguin	
+Antwort_2=0Monsterpinguin	
+Antwort_3=0Königspinguin	
+Antwort_4=0Riesenpinguin	
+
+[101]
+FZ1=
+FZ2=Wie heißt die Tiergruppe, die ihre Jugendzeit im Wasser verbringt, 
+FZ3=als Erwachsene aber auf dem festen Land lebt ?
+Min=2000
+Max=32000
+Antwort_1=1Amphibien	
+Antwort_2=0Insekten	
+Antwort_3=0Reptilien	
+Antwort_4=0Bakterien	
+
+[102]
+FZ1=
+FZ2=In welcher Form legen die Kröten ihren Laich ab ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Laichschnüre	
+Antwort_2=0Laichkugel	
+Antwort_3=0Laichklumpen	
+Antwort_4=0Laichblase	
+
+[103]
+FZ1=
+FZ2=Welcher Teil der Aale gilt als giftig ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1das Aalblut	
+Antwort_2=0der Aalschwanz	
+Antwort_3=0die Aalhaut	
+Antwort_4=0das Aalauge	
+
+[104]
+FZ1=
+FZ2=Wie heißt das am Wasser lebende, größte europäische Nagetier ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Biber	
+Antwort_2=0Wasserratte	
+Antwort_3=0Eichhörnchen	
+Antwort_4=0Hamster	
+
+[105]
+FZ1=
+FZ2=Wie tief muss ein Teich sein, damit er am Grunde nicht zufriert ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca 1 m	
+Antwort_2=0ca 0,50 m	
+Antwort_3=0ca 2 m	
+Antwort_4=0ca 1,50 m	
+
+[106]
+FZ1=
+FZ2=Wie heißen die Atmungsorgane der im Wasser lebenden Tiere ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kiemen	
+Antwort_2=0Striemen	
+Antwort_3=0Riemen	
+Antwort_4=0Lungen	
+
+[107]
+FZ1=
+FZ2=Wie lange braucht eine Erdkröte, um eine zweispurige Straße zu überqueren ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 15 Minuten	
+Antwort_2=0ca. 30 Minuten	
+Antwort_3=0ca. 5 Minuten	
+Antwort_4=0ca. 45 Minuten	
+
+[108]
+FZ1=
+FZ2=Wie heißen die flugunfähigen Vögel am Südpolargebiet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Pinguine	
+Antwort_2=0Albatrosse	
+Antwort_3=0Emus	
+Antwort_4=0Kiwis	
+
+[109]
+FZ1=
+FZ2=Wie heißen die bei uns in Flüssen lebenden, schlangenförmigen Fische ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Aale	
+Antwort_2=0Hechte	
+Antwort_3=0Karpfen	
+Antwort_4=0Forelle	
+
+[110]
+FZ1=
+FZ2=Was geschieht beim Wachstum der Plattfische mit dem unterseitigen Auge ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Es wandert auf die Oberseite.	
+Antwort_2=0Es schließt sich fast ganz.	
+Antwort_3=0Es verschwindet.	
+Antwort_4=0Es wandert zur Schwanzspitze.	
+
+[111]
+FZ1=
+FZ2=Welcher Molch kann nur in Gewässern mit Temperaturen  u n t e r  18° C leben ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Bergmolch	
+Antwort_2=0Landmolch	
+Antwort_3=0Talmolch	
+Antwort_4=0Seemolch	
+
+[112]
+FZ1=
+FZ2=Welches ist die Hauptnahrung der Libellennymphen (Libellenlarven) ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schlammröhrenwürmer	
+Antwort_2=0Blattläuse	
+Antwort_3=0Schlammfliegen	
+Antwort_4=0Mückenlarven	
+
+[113]
+FZ1=
+FZ2=Wie nennt man die durchsichtigen Aallarven ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Glasaale	
+Antwort_2=0Geisteraale	
+Antwort_3=0Fensteraale	
+Antwort_4=0Geleeaale	
+
+[114]
+FZ1=
+FZ2=Wie nennt man die Insekten, die sich auf der Wasseroberfläche
+FZ3=fortbewegen können ?
+Min=0
+Max=1000
+Antwort_1=1Wasserläufer	
+Antwort_2=0Wasserrenner	
+Antwort_3=0Wassergeher	
+Antwort_4=0Wassersprinter	
+
+[115]
+FZ1=
+FZ2=Welcher Molch braucht für sein Wohlbefinden Wasser von über 18° C ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Teichmolch	
+Antwort_2=0Meermolch	
+Antwort_3=0Seemolch	
+Antwort_4=0Flussmolch	
+
+[116]
+FZ1=
+FZ2=Wo laichen die europäischen Aale ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1in der Sargasso-See	
+Antwort_2=0im Kaspischen Meer	
+Antwort_3=0im Bodensee	
+Antwort_4=0in der Ostsee	
+

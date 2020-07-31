@@ -1,0 +1,224 @@
+[Thema]
+Thema       = Alles was Flügel hat fliegt
+Fragen      = 20
+Autor       = Heribert Daxl  9/2001
+
+[1]
+FZ1         = 
+FZ2         = Wo baut die Amsel ihr Nest ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 1in einer Astgabel
+Antwort_2   = 0am Boden unter einer Hecke
+Antwort_3   = 0in Sumpfgebieten
+Antwort_4   = 0neben dem Komposthaufen
+
+[2]
+FZ1         =  
+FZ2         =  Wie nennt man das, was Amseleltern 
+FZ3         =  mit ihren Jungen betreiben?
+Min         = 0
+Max         = 2000
+Antwort_1   = 0aus dem Nest werfen
+Antwort_2   = 1Brutpflege
+Antwort_3   = 0Pflegedienst
+Antwort_4   = 0Brutdienst
+
+[3]
+FZ1         = 
+FZ2         = Die Amseljungen bezeichnet man als ... ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0Stubenhocker
+Antwort_2   = 1Nesthocker
+Antwort_3   = 0Nesttiger
+Antwort_4   = 0Nestflüchter
+
+[4]
+FZ1         = 
+FZ2         =  Wenn junge Vögel fliegen können 
+FZ3         =  bezeichnet man sind sie ... ?
+Min         = 0
+Max         = 2000
+Antwort_1   = 0flugreif
+Antwort_2   = 0selbständig
+Antwort_3   = 1flügge
+Antwort_4   = 0erwachsen
+
+[5]
+FZ1         = 
+FZ2         = Wie nennt man einen Vogel,  
+FZ3         = der im Winter wegzieht ?
+Min         = 0
+Max         = 2000
+Antwort_1   = 0Winterling
+Antwort_2   = 1Zugvogel
+Antwort_3   = 0Aussteiger
+Antwort_4   = 0Wintervogel
+
+[6]
+FZ1         = 
+FZ2         =  Wie nennt man einen Vogel, 
+FZ3         =  der das ganze Jahr bei uns bleibt ?
+Min         = 0
+Max         = 2000
+Antwort_1   = 0Dauergast
+Antwort_2   = 0Jahresvogel
+Antwort_3   = 0Gastvogel
+Antwort_4   = 1Standvogel
+
+[7]
+FZ1         = 
+FZ2         =  Eine beliebte Speise der Amsel !
+FZ3         =  
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0Sonnenblumenkerne
+Antwort_2   = 0Salatblätter
+Antwort_3   = 1Regenwurm
+Antwort_4   = 0Kompostabfälle
+
+[8]
+FZ1         = 
+FZ2         =  Welche Farbe hat das Federkleid 
+FZ3         =  des Amselmännchens ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0braun
+Antwort_2   = 0grün gesprenkelt
+Antwort_3   = 1schwarz
+Antwort_4   = 0schwarz-weiß
+
+[9]
+FZ1         = 
+FZ2         =  Der auf der Welt meist verbreitetste Vogel
+FZ3         =  
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0Amsel
+Antwort_2   = 0Kanarienvogel
+Antwort_3   = 0Meise
+Antwort_4   = 1Sperling
+
+[10]
+FZ1         = 
+FZ2         =  Dieser Vogel baut sein Nest ganz aus Lehm !
+FZ3         =  
+Min         = 4000
+Max         = 125000
+Antwort_1   = 0gestreifter Lehmling
+Antwort_2   = 1Schwalbe
+Antwort_3   = 0Lemminge
+Antwort_4   = 0Bachstelze
+
+[11]
+FZ1         =  
+FZ2         =  Wie nennt man einen Vogel, 
+FZ3         =  der sein Nest am Boden baut ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0Bodenbauer
+Antwort_2   = 0Bodenvogel
+Antwort_3   = 0Brütvogel
+Antwort_4   = 1Bodenbrüter
+
+[12]
+FZ1         = 
+FZ2         =  Wie heißt der Vogel, der seine Eier 
+FZ3         =  in fremde Nester legt ?
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0Kanarienvogel
+Antwort_2   = 1Kuckuck
+Antwort_3   = 0Diebische Elster
+Antwort_4   = 0Falke
+
+[13]
+FZ1         = 
+FZ2         =  Was kann der Mensch dem Star anbieten, 
+FZ3         =  damit er in seinem Garten brütet ?
+Min         = 2000
+Max         = 4000
+Antwort_1   = 0Nahrung
+Antwort_2   = 1Nistkasten
+Antwort_3   = 0Wildnis
+Antwort_4   = 0Lehmpfützen
+
+[14]
+FZ1         = 
+FZ2         =  Dieses Tier ist ein großer Feind der Vögel ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1Katze
+Antwort_2   = 0Meerschweinchen
+Antwort_3   = 0Hund
+Antwort_4   = 0Regenwurm
+
+[15]
+FZ1         = 
+FZ2         =  Worin brüten Meisen ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1Höhlen
+Antwort_2   = 0Kuhställe
+Antwort_3   = 0Hecken
+Antwort_4   = 0Baumwipfeln
+
+[16]
+FZ1         =  
+FZ2         =  Warum bauen Vögel Nester ?
+FZ3         =  
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0um darin zu schlafen
+Antwort_2   = 1um darin zu brüten
+Antwort_3   = 0um sich zu verstecken
+Antwort_4   = 0um sich vor Regen zu schützen
+
+[17]
+FZ1         = 
+FZ2         =  Welcher Vogel ist kein Singvogel ?
+FZ3         =  beim zweiten Mal umbringen ?
+Min         = 64000
+Max         = 125000
+Antwort_1   = 0Amsel
+Antwort_2   = 0Star
+Antwort_3   = 1Schwan
+Antwort_4   = 0Rotkehlchen
+
+[18]
+FZ1         = 
+FZ2         =  Welcher Vogel frisst keine Körner ?
+FZ3         =  
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0Spatz
+Antwort_2   = 0Meise
+Antwort_3   = 0Buchfink
+Antwort_4   = 1Amsel
+                
+[19]
+FZ1         = 
+FZ2         =  Wie schlafen Vögel ?
+FZ3         = 
+Min         = 4000
+Max         = 250000
+Antwort_1   = 0gar nicht
+Antwort_2   = 0auf dem Bauch
+Antwort_3   = 0hängend mit dem Kopf nach unten
+Antwort_4   = 1sitzend
+                
+[20]
+FZ1         =   
+FZ2         =  Was macht das Amselpärchen nach
+FZ3         =  der Aufzucht der Jungen ?
+Min         = 64000
+Max         = 125000
+Antwort_1   = 0jeder macht was er will
+Antwort_2   = 0sie fliegen in den Süden
+Antwort_3   = 0sie bleiben zusammen und brüten nochmal
+Antwort_4   = 1sie bleiben zusammen und suchen einen anderen Partner

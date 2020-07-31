@@ -1,0 +1,665 @@
+[Thema]
+Thema=Deutschland
+Fragen=54
+Autor=Theo Sander 4/2001
+
+[1]
+FZ1=
+FZ2=Wie heißt der höchste Berg Deutschlands?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Zugspitze
+Antwort_2=0Brocken
+Antwort_3=0Schneekoppe
+Antwort_4=0Feldberg
+
+[2]
+FZ1=
+FZ2=Wo liegt der höchste Berg Deutschlands?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Alpen
+Antwort_2=0Harz
+Antwort_3=0Schwarzwald
+Antwort_4=0Riesengebirge
+
+[3]
+FZ1=
+FZ2=Wie heißt das Mittelgebirge im südwestlichsten Teil Deutschlands?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Schwarzwald
+Antwort_2=0Schwäbische Alb
+Antwort_3=0Vogesen
+Antwort_4=0Pfälzer Wald
+
+[4]
+FZ1=
+FZ2=Wie heißt der größte See Deutschlands?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Bodensee
+Antwort_2=0Chiemsee
+Antwort_3=0Starnberger See
+Antwort_4=0Steinhuder Meer
+
+[5]
+FZ1=
+FZ2=In welchem Teil der Alpen liegt die Zugspitze?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0Allgäuer Alpen
+Antwort_2=1Bayerische Alpen
+Antwort_3=0Salzburger Alpen
+Antwort_4=0Lechtaler Alpen
+
+[6]
+FZ1=
+FZ2=Wie heißt der höchste Berg nördlich der Donau?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Feldberg
+Antwort_2=1Brocken
+Antwort_3=0Schneeberg
+Antwort_4=0Wasserkuppe
+
+[7]
+FZ1=
+FZ2=Welches Mittelgebirge liegt zwischen Spessart und Thüringer Wald?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1Rhön
+Antwort_2=0Vogelsberg
+Antwort_3=0Steigerwald
+Antwort_4=0Frankenwald
+
+[8]
+FZ1=
+FZ2=Wie heißt das Grenzgebirge zwischen Bayern und Tschechien?
+FZ3=
+Min=1000
+Max=5000
+Antwort_1=1Böhmerwald
+Antwort_2=0Fränkische Alb
+Antwort_3=0Fichtelgebirge
+Antwort_4=0Erzgebirge
+
+[9]
+FZ1=
+FZ2=Wie heißt das Grenzgebirge zwischen Sachsen und Tschechien?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=1Erzgebirge
+Antwort_2=0Böhmerwald
+Antwort_3=0Fichtelgebirge
+Antwort_4=0Frankenwald
+
+[10]
+FZ1=
+FZ2=Wo liegt der Feldberg?
+FZ3=
+Min=200
+Max=8000
+Antwort_1=1Schwarzwald
+Antwort_2=0Vogesen
+Antwort_3=0Schwäbische Alb
+Antwort_4=0Odenwald
+
+[11]
+FZ1=
+FZ2=Wie hoch ist die Zugspitze?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=02863
+Antwort_2=02763
+Antwort_3=02663
+Antwort_4=12963
+
+[12]
+FZ1=
+FZ2=Der Harz liegt ________________ des Main?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=0südlich
+Antwort_2=0östlich
+Antwort_3=1nördlich
+Antwort_4=0westlich
+
+[13]
+FZ1=
+FZ2=An welchem Fluss liegt Hamburg?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Weser
+Antwort_2=0Oder
+Antwort_3=1Elbe
+Antwort_4=0Aller
+
+[14]
+FZ1=
+FZ2=Welcher Fluss mündet in die Ostsee?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0Oste
+Antwort_2=0Havel
+Antwort_3=0Elde
+Antwort_4=1Peene
+
+[15]
+FZ1=
+FZ2=Nenne den größten linken Nebenfluss des Rheins.
+FZ3=
+Min=500
+Max=4000
+Antwort_1=0Maas
+Antwort_2=1Mosel
+Antwort_3=0Marne
+Antwort_4=0Main
+
+[16]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Baden-Württemberg?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Stuttgart
+Antwort_2=0Freiburg
+Antwort_3=0Frankfurt
+Antwort_4=0Wiesbaden
+
+[17]
+FZ1=
+FZ2=Durch welches Bundesland fließt der Rhein nicht?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Baden-Württemberg
+Antwort_2=0Hessen
+Antwort_3=0Rheinland-Pfalz
+Antwort_4=1Saarland
+
+[18]
+FZ1=
+FZ2=Wo entspringt die Saale?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Fichtelgebirge
+Antwort_2=0Frankenwald
+Antwort_3=0Erzgebirge
+Antwort_4=0Oberpfälzer Wald
+
+[19]
+FZ1=
+FZ2=Welcher Fluss fließt durch die meisten deutschen Bundesländer?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Rhein
+Antwort_2=1Elbe
+Antwort_3=0Donau
+Antwort_4=0Main
+
+[20]
+FZ1=
+FZ2=Welches ist flächenmäßig das größte Bundesland?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Bayern
+Antwort_2=0Baden-Württemberg
+Antwort_3=0Nordrhein-Westfalen
+Antwort_4=0Mecklenburg-Vorpommern
+
+[21]
+FZ1=
+FZ2=Welches Bundesland grenzt an drei andere Staaten?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Saarland
+Antwort_2=0Nordrhein-Westfalen
+Antwort_3=0Baden-Württemberg
+Antwort_4=1Rheinland-Pfalz
+
+[22]
+FZ1=
+FZ2=Wie heißt die Stadt an der Mündung der Mosel in den Rhein?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Koblenz
+Antwort_2=0Mosella
+Antwort_3=0Ahrweiler
+Antwort_4=0Bingen
+
+[23]
+FZ1=
+FZ2=Welche Stadt liegt etwa auf gleicher geografischer Länge wie Hamburg?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Ulm
+Antwort_2=0München
+Antwort_3=0Kassel
+Antwort_4=0Friedrichshafen
+
+[24]
+FZ1=
+FZ2=Durch welches Bundesland fließt die Elbe nicht?
+FZ3=
+Min=1000
+Max=1000000
+Antwort_1=1Thüringen
+Antwort_2=0Sachsen
+Antwort_3=0Sachsen-Anhalt
+Antwort_4=0Hamburg
+
+[25]
+FZ1=
+FZ2=Wie heißt die Stadt an der Mündung des Neckar in den Rhein?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Mannheim
+Antwort_2=0Heidelberg
+Antwort_3=0Ludwigshafen
+Antwort_4=0Worms
+
+[26]
+FZ1=
+FZ2=Wie heißt die höchste Erhebung in der Eifel?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hohe Acht
+Antwort_2=0Ernstberg
+Antwort_3=0Nürburgring
+Antwort_4=0Kyll
+
+[27]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Hessen?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0Frankfurt
+Antwort_2=0Kassel
+Antwort_3=1Wiesbaden
+Antwort_4=0Darmstadt
+
+[28]
+FZ1=
+FZ2=Potsdam ist die Landeshauptstadt von
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0Mecklenburg-Vorpommern
+Antwort_2=0Thüringen
+Antwort_3=1Brandenburg
+Antwort_4=0Sachsen
+
+[29]
+FZ1=
+FZ2=Welches Bundesland erstreckt sich am weitesten nach Osten?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Brandenburg
+Antwort_2=0Mecklenburg-Vorpommern
+Antwort_3=0Schleswig-Holstein
+Antwort_4=1Sachsen
+
+[30]
+FZ1=
+FZ2=Welche zwei Flüsse entspringen im selben Gebirge?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Werra und Fulda
+Antwort_2=0Altmühl und Lech
+Antwort_3=0Havel und Spree
+Antwort_4=1Main und Saale
+
+[31]
+FZ1=
+FZ2=Welches Bundesland hat die meisten Einwohner?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0Bayern
+Antwort_2=0Brandenburg
+Antwort_3=0Niedersachsen
+Antwort_4=1Nordrhein-Westfalen
+
+[32]
+FZ1=
+FZ2=Wie heißt der längste Fluss Deutschlands?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Elbe
+Antwort_2=0Rhein
+Antwort_3=1Donau
+Antwort_4=0Main
+
+[33]
+FZ1=
+FZ2=Welches Bundesland grenzt an Frankreich?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Nordrhein-Westfalen
+Antwort_2=1Rheinland-Pfalz
+Antwort_3=0Niedersachsen
+Antwort_4=0Hessen
+
+[34]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Sachsen?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=0Leipzig
+Antwort_2=1Dresden
+Antwort_3=0Erfurt
+Antwort_4=0Chemnitz
+
+[35]
+FZ1=
+FZ2=Welches ist die größte Stadt Deutschlands?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1Berlin
+Antwort_2=0Hamburg
+Antwort_3=0Frankfurt
+Antwort_4=0München
+
+[36]
+FZ1=
+FZ2=Welche Stadt liegt an der Elbe?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=1Magdeburg
+Antwort_2=0Schwerin
+Antwort_3=0Halle
+Antwort_4=0Bautzen
+
+[37]
+FZ1=
+FZ2=Welches Bundesland hat die meisten Nachbarn (Bundesländer)?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0Sachsen-Anhalt
+Antwort_2=1Niedersachsen
+Antwort_3=0Bremen
+Antwort_4=0Thüringen
+
+[38]
+FZ1=
+FZ2=Welcher Fluss fließt nur in einem Bundesland?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0Weser
+Antwort_2=0Ems
+Antwort_3=1Neckar
+Antwort_4=0Saale
+
+[39]
+FZ1=
+FZ2=Wieviele Nachbarstaaten hat Deutschland?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=19
+Antwort_2=010
+Antwort_3=08
+Antwort_4=011
+
+[40]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Deutschland?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Berlin
+Antwort_2=0Bonn
+Antwort_3=0Frankfurt
+Antwort_4=0München
+
+[41]
+FZ1=
+FZ2=Welche Stadt ist ein Stadtstaat?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hamburg
+Antwort_2=0Saarbrücken
+Antwort_3=0Magdeburg
+Antwort_4=0Potsdam
+
+[42]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Schleswig-Holstein?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kiel
+Antwort_2=0Flensburg
+Antwort_3=0Schwerin
+Antwort_4=0Schleswig
+
+[43]
+FZ1=
+FZ2=Welches Bundesland grenzt an Dänemark?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Schleswig-Holstein
+Antwort_2=0Mecklenburg-Vorpommern
+Antwort_3=0Hamburg
+Antwort_4=0Bremen
+
+[44]
+FZ1=
+FZ2=Welcher Fluss ist linker Nebenfluss der Elbe?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Saale
+Antwort_2=0Elde
+Antwort_3=0Spree
+Antwort_4=0Havel
+
+[45]
+FZ1=
+FZ2=Welcher Fluss ist Quellfluss der Weser?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Fulda
+Antwort_2=0Eder
+Antwort_3=0Aller
+Antwort_4=0Leine
+
+[46]
+FZ1=
+FZ2=Wieviele Bundesländer hat Deutschland?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=116
+Antwort_2=015
+Antwort_3=017
+Antwort_4=014
+
+[47]
+FZ1=
+FZ2=Welches Land hat keinen Anteil am Bodensee?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1Liechtenstein
+Antwort_2=0Deutschland
+Antwort_3=0Schweiz
+Antwort_4=0Österreich
+
+[48]
+FZ1=
+FZ2=Die Landeshauptstadt von Thüringen ist
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Erfurt
+Antwort_2=0Weimar
+Antwort_3=0Gotha
+Antwort_4=0Gera
+
+[49]
+FZ1=
+FZ2=Neuwerk gehört zu
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hamburg
+Antwort_2=0Cuxhaven
+Antwort_3=0Bremerhaven
+Antwort_4=0Wilhelmshaven
+
+[50]
+FZ1=
+FZ2=Welche Insel gehört nicht zu den Ostfriesischen Inseln?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Föhr
+Antwort_2=0Juist
+Antwort_3=0Borkum
+Antwort_4=0Norderney
+
+[51]
+FZ1=
+FZ2=Die Landeshauptstadt von Nordrhein-Westfalen ist
+FZ3=
+Min=200
+Max=16000
+Antwort_1=1Düsseldorf
+Antwort_2=0Dortmund
+Antwort_3=0Köln
+Antwort_4=0Bonn
+
+[52]
+FZ1=
+FZ2=Saßnitz liegt auf
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1Rügen
+Antwort_2=0Usedom
+Antwort_3=0Hiddensee
+Antwort_4=0Fehmarn
+
+[53]
+FZ1=
+FZ2=Was ist hier falsch?
+FZ3=
+Min=4000
+Max=10000
+Antwort_1=1Dresden an der Oder
+Antwort_2=0Hamburg an der Elbe
+Antwort_3=0Hannover an der Leine
+Antwort_4=0Stuttgart am Neckar
+
+[54]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Niedersachsen?
+FZ3=
+Min=100
+Max=16000
+Antwort_1=1Hannover
+Antwort_2=0Osnabrück
+Antwort_3=0Braunschweig
+Antwort_4=0Bremen
+
+[55]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[56]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[57]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[58]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[59]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[60]
+FZ1=
+FZ2=
+FZ3=
+Min=2000000
+Max=1000000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+

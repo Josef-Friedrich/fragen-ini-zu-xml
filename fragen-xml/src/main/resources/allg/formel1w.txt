@@ -1,0 +1,578 @@
+[Thema]
+Thema=Formel 1 Weltmeister
+Fragen=52
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wer wurde 2001 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0David Coulthard	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Rubens Barrichello	
+
+[2]
+FZ1=
+FZ2=Wer wurde 2000 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0Jacques Villeneuve	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Damon Hill	
+
+[3]
+FZ1=
+FZ2=Wer wurde 1999 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mika Häkkinen	
+Antwort_2=0Jacques Villeneuve	
+Antwort_3=0Michael Schumacher	
+Antwort_4=0Nigel Mansell	
+
+[4]
+FZ1=
+FZ2=Wer wurde 1998 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mika Häkkinen	
+Antwort_2=0Jacques Villeneuve	
+Antwort_3=0Michael Schumacher	
+Antwort_4=0Damon Hill	
+
+[5]
+FZ1=
+FZ2=Wer wurde 1997 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Jacques Villeneuve	
+Antwort_2=0Michael Schumacher	
+Antwort_3=0Mika Häkkinen	
+Antwort_4=0Damon Hill	
+
+[6]
+FZ1=
+FZ2=Wer wurde 1996 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Damon Hill	
+Antwort_2=0Mika Häkkinen	
+Antwort_3=0Jacques Villeneuve	
+Antwort_4=0Michael Schumacher	
+
+[7]
+FZ1=
+FZ2=Wer wurde 1995 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0Damon Hill	
+Antwort_3=0Jacques Villeneuve	
+Antwort_4=0Mika Häkkinen	
+
+[8]
+FZ1=
+FZ2=Wer wurde 1994 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Michael Schumacher	
+Antwort_2=0Gerhard Berger	
+Antwort_3=0Damon Hill	
+Antwort_4=0Jacques Villeneuve	
+
+[9]
+FZ1=
+FZ2=Wer wurde 1993 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Alain Prost	
+Antwort_2=0Damon Hill	
+Antwort_3=0Ayrton Senna	
+Antwort_4=0Nigel Mansell	
+
+[10]
+FZ1=
+FZ2=Wer wurde 1992 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nigel Mansell	
+Antwort_2=0Michael Schumacher	
+Antwort_3=0Riccardo Patrese	
+Antwort_4=0Alain Prost	
+
+[11]
+FZ1=
+FZ2=Wer wurde 1991 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ayrton Senna	
+Antwort_2=0Riccardo Patrese	
+Antwort_3=0Nigel Mansell	
+Antwort_4=0Nelson Piquet	
+
+[12]
+FZ1=
+FZ2=Wer wurde 1990 Formel - 1 - Weltmeister ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ayrton Senna	
+Antwort_2=0Nelson Piquet	
+Antwort_3=0Alain Prost	
+Antwort_4=0Nigel Mansell	
+
+[13]
+FZ1=
+FZ2=Wer wurde 1989 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Alain Prost	
+Antwort_2=0Riccardo Patrese	
+Antwort_3=0Ayrton Senna	
+Antwort_4=0Nigel Mansell	
+
+[14]
+FZ1=
+FZ2=Wer wurde 1988 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Ayrton Senna	
+Antwort_2=0Gerhard Berger	
+Antwort_3=0Alain Prost	
+Antwort_4=0Niki Lauda	
+
+[15]
+FZ1=
+FZ2=Wer wurde 1987 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Nelson Piquet	
+Antwort_2=0Ayrton Senna	
+Antwort_3=0Nigel Mansell	
+Antwort_4=0Alain Prost	
+
+[16]
+FZ1=
+FZ2=Wer wurde 1986 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Alain Prost	
+Antwort_2=0Nigel Mansell	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Nelson Piquet	
+
+[17]
+FZ1=
+FZ2=Wer wurde 1985 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Alain Prost	
+Antwort_2=0Nelson Piquet	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Keke Rosberg	
+
+[18]
+FZ1=
+FZ2=Wer wurde 1984 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Niki Lauda	
+Antwort_2=0Alain Prost	
+Antwort_3=0Nelson Piquet	
+Antwort_4=0Keke Rosberg	
+
+[19]
+FZ1=
+FZ2=Wer wurde 1983 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Nelson Piquet	
+Antwort_2=0Niki Lauda	
+Antwort_3=0Alain Prost	
+Antwort_4=0Alan Jones	
+
+[20]
+FZ1=
+FZ2=Wer wurde 1982 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Keke Rosberg	
+Antwort_2=0Nelson Piquet	
+Antwort_3=0Didier Pironi	
+Antwort_4=0Alan Jones	
+
+[21]
+FZ1=
+FZ2=Wer wurde 1981 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Nelson Piquet	
+Antwort_2=0Alan Jones	
+Antwort_3=0Carlos Reutemann	
+Antwort_4=0Keke Rosberg	
+
+[22]
+FZ1=
+FZ2=Wer wurde 1980 Formel - 1 - Weltmeister ?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Alan Jones	
+Antwort_2=0Carlos Reutemann	
+Antwort_3=0Nelson Piquet	
+Antwort_4=0Niki Lauda	
+
+[23]
+FZ1=
+FZ2=Wer wurde 1979 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Jody Scheckter	
+Antwort_2=0Gilles Villeneuve	
+Antwort_3=0NIki Lauda	
+Antwort_4=0Alan Jones	
+
+[24]
+FZ1=
+FZ2=Wer wurde 1978 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Mario Andretti	
+Antwort_2=0Ronnie Peterson	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Carlos Reutemann	
+
+[25]
+FZ1=
+FZ2=Wer wurde 1977 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Niki Lauda	
+Antwort_2=0Alan Jones	
+Antwort_3=0Jody Scheckter	
+Antwort_4=0Mario Andretti	
+
+[26]
+FZ1=
+FZ2=Wer wurde 1976 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1James Hunt	
+Antwort_2=0Jody Scheckter	
+Antwort_3=0Niki Lauda	
+Antwort_4=0Mario Andretti	
+
+[27]
+FZ1=
+FZ2=Wer wurde 1975 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Niki Lauda	
+Antwort_2=0Carlos Reutemann	
+Antwort_3=0Emerson Fittipaldi	
+Antwort_4=0James Hunt	
+
+[28]
+FZ1=
+FZ2=Wer wurde 1974 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Emerson Fittipaldi	
+Antwort_2=0Jody Scheckter	
+Antwort_3=0Clay Regazzoni	
+Antwort_4=0Jackie Stewart	
+
+[29]
+FZ1=
+FZ2=Wer wurde 1973 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Jackie Stewart	
+Antwort_2=0Ronnie Peterson	
+Antwort_3=0Emerson Fittipaldi	
+Antwort_4=0Clay Regazzoni	
+
+[30]
+FZ1=
+FZ2=Wer wurde 1972 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Emerson Fittipaldi	
+Antwort_2=0Denis Hulme	
+Antwort_3=0Jackie Stewart	
+Antwort_4=0Jack Brabham	
+
+[31]
+FZ1=
+FZ2=Wer wurde 1971 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Jackie Stewart	
+Antwort_2=0Francois Cevert	
+Antwort_3=0Ronnie Peterson	
+Antwort_4=0Clay Regazzoni	
+
+[32]
+FZ1=
+FZ2=Wer wurde 1970 Formel - 1 - Weltmeister ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Jochen Rindt	
+Antwort_2=0Clay Regazzoni	
+Antwort_3=0Jacky Ickx	
+Antwort_4=0Ronnie Peterson	
+
+[33]
+FZ1=
+FZ2=Wer wurde 1969 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Jackie Stewart	
+Antwort_2=0Jacky Ickx	
+Antwort_3=0Denis Hulme	
+Antwort_4=0Bruce McLaren	
+
+[34]
+FZ1=
+FZ2=Wer wurde 1968 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Graham Hill	
+Antwort_2=0Denis Hulme	
+Antwort_3=0Jackie Stewart	
+Antwort_4=0John Surtees	
+
+[35]
+FZ1=
+FZ2=Wer wurde 1967 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Denis Hulme	
+Antwort_2=0Jim Clark	
+Antwort_3=0Jack Brabham	
+Antwort_4=0John Surtees	
+
+[36]
+FZ1=
+FZ2=Wer wurde 1966 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Jack Brabham	
+Antwort_2=0Jochen Rindt	
+Antwort_3=0John Surtees	
+Antwort_4=0Denis Hulme	
+
+[37]
+FZ1=
+FZ2=Wer wurde 1965 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Jim Clark	
+Antwort_2=0Graham Hill	
+Antwort_3=0John Surtees	
+Antwort_4=0Jackie Stewart	
+
+[38]
+FZ1=
+FZ2=Wer wurde 1964 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1John Surtees	
+Antwort_2=0Jim Clark	
+Antwort_3=0Graham Hill	
+Antwort_4=0Jack Brabham	
+
+[39]
+FZ1=
+FZ2=Wer wurde 1963 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Jim Clark	
+Antwort_2=0Phil Hill	
+Antwort_3=0Graham Hill	
+Antwort_4=0Richie Ginther	
+
+[40]
+FZ1=
+FZ2=Wer wurde 1962 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Graham Hill	
+Antwort_2=0Jim Clark	
+Antwort_3=0Phil Hill	
+Antwort_4=0Bruce McLaren	
+
+[41]
+FZ1=
+FZ2=Wer wurde 1961 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Phil Hill	
+Antwort_2=0Stirling Moss	
+Antwort_3=0Wolfgang Graf Berghe von Trips	
+Antwort_4=0Jack Brabham	
+
+[42]
+FZ1=
+FZ2=Wer wurde 1960 Formel - 1 - Weltmeister ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Jack Brabham	
+Antwort_2=0Bruce McLaren	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Phil Hill	
+
+[43]
+FZ1=
+FZ2=Wer wurde 1959 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Jack Brabham	
+Antwort_2=0Tony Brooks	
+Antwort_3=0Mike Hawthorn	
+Antwort_4=0Stirling Moss	
+
+[44]
+FZ1=
+FZ2=Wer wurde 1958 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Mike Hawthorn	
+Antwort_2=0Tony Brooks	
+Antwort_3=0Juan Manuel Fangio	
+Antwort_4=0Peter Collins	
+
+[45]
+FZ1=
+FZ2=Wer wurde 1957 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Luigi Musso	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Mike Hawthorn	
+
+[46]
+FZ1=
+FZ2=Wer wurde 1956 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Peter Collins	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Luigi Musso	
+
+[47]
+FZ1=
+FZ2=Wer wurde 1955 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Alberto Ascari	
+Antwort_3=0Stirling Moss	
+Antwort_4=0Eugenio Castellotti	
+
+[48]
+FZ1=
+FZ2=Wer wurde 1954 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0José Froilan González	
+Antwort_3=0Alberto Ascari	
+Antwort_4=0Mike Hawthorn	
+
+[49]
+FZ1=
+FZ2=Wer wurde 1953 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alberto Ascari	
+Antwort_2=0Piero Taruffi	
+Antwort_3=0Juan Manuel Fangio	
+Antwort_4=0Guiseppe Farina	
+
+[50]
+FZ1=
+FZ2=Wer wurde 1952 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alberto Ascari	
+Antwort_2=0Guiseppe Farina	
+Antwort_3=0Juan Manuel Fangio	
+Antwort_4=0Mike Hawthorn	
+
+[51]
+FZ1=
+FZ2=Wer wurde 1951 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Juan Manuel Fangio	
+Antwort_2=0Piero Taruffi	
+Antwort_3=0Alberto Ascari	
+Antwort_4=0Guiseppe Farina	
+
+[52]
+FZ1=
+FZ2=Wer wurde 1950 Formel - 1 - Weltmeister ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Guiseppe Farina	
+Antwort_2=0Luigi Fagioli	
+Antwort_3=0Juan Manuel Fangio	
+Antwort_4=0Roberto Umbrella	
+
+

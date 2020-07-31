@@ -1,0 +1,996 @@
+[Thema]
+Thema= Mineralien und Gesteine
+Fragen=90
+Autor= Andrea Herrmann Juni 2004
+
+[1]
+FZ1=
+FZ2=Was sind Mineralien ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1 chemische Naturstoffe der Erdkruste
+Antwort_2=0 biologische Naturstoffe der Erdkruste
+Antwort_3=0 physikalische Naturstoffe der Erdkruste
+Antwort_4=0 physische Naturstoffe der Erdkruste
+
+[2]
+FZ1=
+FZ2=Was ist kein 
+FZ3=gesteinsbildendes Mineral
+Min=32000
+Max=125000
+Antwort_1=0 Glimmer - Muskuvit
+Antwort_2=1Olivin
+Antwort_3=0 Quarz
+Antwort_4=0 Feldspat
+
+[3]
+FZ1=
+FZ2=Was ist das häufigste chemische
+FZ3=Element der Erdkruste ?
+Min=0
+Max=2000
+Antwort_1=0 Silzium
+Antwort_2=1 Sauerstoff
+Antwort_3=0 Aluminium
+Antwort_4=0 Eisen
+
+[4]
+FZ1=
+FZ2=Was ist richtig?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Gips kratzt Orthoklas
+Antwort_2=0 Quarz kratzt Diamant
+Antwort_3=1 Korund kratzt Topas
+Antwort_4=0 Talk kratzt Fluorit
+
+[5]
+FZ1=
+FZ2=Mit welcher Skala wird die 
+FZ3=Gesteinshärte bestimmt?
+Min=2000
+Max=32000
+Antwort_1=0 Richterskala
+Antwort_2=1 Mohsskala
+Antwort_3=0 Fujita - Skala
+Antwort_4=0 Saffir - Simpson - Skala
+
+[6]
+FZ1=
+FZ2=Wo können Minerale in reiner
+FZ3=Form auskristallisieren?
+Min=64000
+Max=500000
+Antwort_1=0 Gänge
+Antwort_2=0 Klüfte
+Antwort_3=0 Schlote
+Antwort_4=1 Druse
+
+[7]
+FZ1=
+FZ2=Welches gesteinsbildende Mineral
+FZ3=tritt am häufigsten auf?
+Min=2000
+Max=32000
+Antwort_1=0 Quarz
+Antwort_2=0 Glimmer
+Antwort_3=1 Feldspat
+Antwort_4=0 Pyroxen / Amphibol
+
+[8]
+FZ1=
+FZ2=Was ist das härteste Mineral?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Quarz
+Antwort_2=0 Kalzit
+Antwort_3=1 Diamant
+Antwort_4=0 Topas
+
+[9]
+FZ1=
+FZ2=Welche Farbe hat Glimmer?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0 flaschengrün
+Antwort_2=0 schwarz - grünschwarz
+Antwort_3=0 rötlich - gelblich - weiß
+Antwort_4=1 schwarz / farblos-silbrigweiß
+
+[10]
+FZ1=
+FZ2=Bei der Bearbeitung von 
+FZ3=Mineralien entstehen ?
+Min=0
+Max=1000
+Antwort_1=0 Gesteine
+Antwort_2=1 Edelsteine
+Antwort_3=0 Erze
+Antwort_4=0 Kristalle
+
+[11]
+FZ1=
+FZ2=Minerale bestehen aus?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0 Erze
+Antwort_2=0 Steinen
+Antwort_3=0 Gemengteilen
+Antwort_4=1 Kristallen
+
+[12]
+FZ1=
+FZ2=Welche Farbe hat Quarz?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0 grün
+Antwort_2=1 weiß, farblos
+Antwort_3=0 rot
+Antwort_4=0 gelb
+
+[13]
+FZ1=
+FZ2=Was ist kein Edelstein?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0 Rubin
+Antwort_2=0 Smaragd
+Antwort_3=0 Granat
+Antwort_4=1 Quarz
+
+[14]
+FZ1=
+FZ2=Welches Mineral kristallisiert zuerst?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1 Olivin
+Antwort_2=0 Quarz
+Antwort_3=0 Orthoklas
+Antwort_4=0 Glimmer
+
+[15]
+FZ1=
+FZ2=Gesteine aus einem Mineral
+FZ3=bezeichnet man als ?
+Min=2000
+Max=64000
+Antwort_1=0 polymineralische Gesteine
+Antwort_2=0 hypermineralische Gesteine
+Antwort_3=1 monomineralische Gesteine
+Antwort_4=0 pedromineralische Gesteine
+
+[16]
+FZ1=
+FZ2=Aus was entstehen Magmatite?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1 Magma oder Lava
+Antwort_2=0 chemischen Lösungen
+Antwort_3=0 Wasser
+Antwort_4=0 toter Flora und Fauna
+
+[17]
+FZ1=
+FZ2=Was sind mafische Gesteine?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 saure Gesteine ohne Quarz
+Antwort_2=0 intermediäre Gesteine
+Antwort_3=1 basische Gesteine ohne Feldspäte
+Antwort_4=0 Gesteine aus Glimmer u. Quarz
+
+[18]
+FZ1=
+FZ2=Was ist kein Vulkanit?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0 Basalt
+Antwort_2=0 Rhyolith
+Antwort_3=0 Trachyt
+Antwort_4=1 Granit
+
+[19]
+FZ1=
+FZ2=Magmatite sind?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Umwandlungsgesteine
+Antwort_2=0 Sedimentgesteine
+Antwort_3=0 metamorphe Gesteine
+Antwort_4=1 Erstarrungsgesteine
+
+[20]
+FZ1=
+FZ2=saure Magmatite sind?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0 schwer 
+Antwort_2=0 dicht
+Antwort_3=0 kieselsäurearm
+Antwort_4=1 hell
+
+[21]
+FZ1=
+FZ2=Was sind Gesteine ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0 Gemenge aus Kristallen
+Antwort_2=0 Gemenge aus Erzen
+Antwort_3=1 Gemenge aus Mineralien
+Antwort_4=0 Gemenge aus Edelsteinen
+
+[22]
+FZ1=
+FZ2=Worin unterscheiden sich
+FZ3=Magma und Lava ?
+Min=16000
+Max=250000
+Antwort_1=0 Farbe
+Antwort_2=1 enthaltenen Substanzen
+Antwort_3=0 Temperatur
+Antwort_4=0 Aggregatzustand
+
+[23]
+FZ1=Wie werden Magmatite bezeichnet,
+FZ2=welche nicht den Plutoniten oder
+FZ3=Vulkaniten zugeordnet werden?
+Min=64000
+Max=500000
+Antwort_1=1 Ganggesteine
+Antwort_2=0 Feuersteine
+Antwort_3=0 Wirtsgestein
+Antwort_4=0 Metamorphite
+
+[24]
+FZ1=
+FZ2=Vulkanite weisen dieses Merkmal
+FZ3=nicht auf?
+Min=2000
+Max=64000
+Antwort_1=0 porphyrische Struktur
+Antwort_2=1 eine Schichtung
+Antwort_3=0 zu große Kristalle
+Antwort_4=0 keine Kristalle
+
+[25]
+FZ1=
+FZ2=Was ist kein Plutonit ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 Gabbro
+Antwort_2=0 Diorit
+Antwort_3=1 Basalt
+Antwort_4=0 Granit
+
+[26]
+FZ1=
+FZ2=Vulkanite entstehen durch ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1 schnelle Abkühlung von Lava
+Antwort_2=0 Abkühlung von Magma
+Antwort_3=0 Umwandlung von Plutoniten
+Antwort_4=0 Bildung eines Plutonits
+
+[27]
+FZ1=
+FZ2=Welches Merkmal weisen Plutonite
+FZ3=nicht auf?
+Min=2000
+Max=64000
+Antwort_1=0 gut ausgebildete Kristalle
+Antwort_2=0 ein körniges Gefüge
+Antwort_3=1 Einsprenglinge in einer Grundmasse
+Antwort_4=0 eine porphyrische Struktur
+
+[28]
+FZ1=
+FZ2=Wie entstehen Magmatite?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 durch Umwandlung anderer Gesteine 
+Antwort_2=1 Abkühlung einer Gesteinsschmelze
+Antwort_3=0 durch Einschmelzung
+Antwort_4=0 durch Verwitterung
+
+[29]
+FZ1=
+FZ2=Sedimentgestein entsteht nicht durch ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 biologische Prozessen
+Antwort_2=1 anthropogene Einflüsse
+Antwort_3=0 chemischen Prozessen
+Antwort_4=0 physikalischer Verwitterung
+
+[30]
+FZ1=
+FZ2=Der Gabbro ist das plutonische 
+FZ3=Äquivalent von?
+Min=125000
+Max=1000000
+Antwort_1=0 Rhyolith
+Antwort_2=0 Trachyt
+Antwort_3=1 Basalt
+Antwort_4=0 Andesit
+
+[31]
+FZ1=
+FZ2=Ganggestein lässt sich unterschieden in ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 fest und flüssig
+Antwort_2=0 dicht und locker
+Antwort_3=0 basisch und sauer
+Antwort_4=1 hell und dunkel
+
+[32]
+FZ1=
+FZ2=Warum weisen Bims / vulkanische Gläser
+FZ3=keine Kristalle auf?
+Min=125000
+Max=1000000
+Antwort_1=0 Restkristallisation
+Antwort_2=0 Gesteinsschmelze ist zu Substanzarm
+Antwort_3=0 Wasser an Gesteinsbildung beteiligt
+Antwort_4=1 zu schnelle Abkühlung
+
+
+[34]
+FZ1=
+FZ2=Welches Gestein gehört nicht 
+FZ3=zu den Magmatiten ?
+Min=250000
+Max=1000000
+Antwort_1=1 Tongestein
+Antwort_2=0 Bims
+Antwort_3=0 vulkanische Gläser
+Antwort_4=0 Tuffe
+
+[35]
+FZ1=
+FZ2=Wie lange dauert es bis 
+FZ3=Granit entsteht ?
+Min=64000
+Max=250000
+Antwort_1=0 ein Jahrzehnt
+Antwort_2=0 Jahrhunderte
+Antwort_3=0 Jahrtausende
+Antwort_4=1 Jahrmillionen
+
+[36]
+FZ1=
+FZ2=Welches Gestein schwimmt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 Porphyr
+Antwort_2=0 Granit
+Antwort_3=1 Bims
+Antwort_4=0 Gabbro
+
+[37]
+FZ1=
+FZ2=Wo ist der Granit zu finden?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 Brocken
+Antwort_2=0 Helgoland
+Antwort_3=0 Sächsische Schweiz
+Antwort_4=0 Rügen
+
+[38]
+FZ1=
+FZ2=Wo ist Basalt zu finden?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 Brocken
+Antwort_2=0 Kyffhäuser (Harz)
+Antwort_3=0 Kap Arkona
+Antwort_4=1 Scheibenberg (Erzgebirge)
+
+[39]
+FZ1=
+FZ2=Aus welchen Bestandteilen  
+FZ3=besteht Granit
+Min=2000
+Max=32000
+Antwort_1=0 Quarz, Feldspat, Olivin
+Antwort_2=1 Quarz, Feldspat, Glimmer
+Antwort_3=0 Quarz, Feldspat, Hornblende
+Antwort_4=0 Quarz, Feldspatvertreter, Glimmer
+
+[40]
+FZ1=
+FZ2=Wofür wird Granit verwendet?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 Schotter
+Antwort_2=0 Baumaterial
+Antwort_3=0 zu hochwertigen Werkstoff geschmolzen
+Antwort_4=1 Plastersteinen
+
+[41]
+FZ1=
+FZ2=Wo ist der Porphyr zu finden?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 Ruhrgebiet
+Antwort_2=0 Alpenvorland
+Antwort_3=0 Mecklenburgische Seenplatte
+Antwort_4=1 SW Sachsen/Umgebung von Halle
+
+[42]
+FZ1=
+FZ2=Wie kann Kalk nachgewiesen werden?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 Kochsalzlösung
+Antwort_2=0 Wasser
+Antwort_3=1 Salzsäure
+Antwort_4=0 Chlorkohlenwasserstoff
+
+[43]
+FZ1=
+FZ2=Welches Gefüge weist der Basalt auf?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1 feinkristallines Gefüge
+Antwort_2=0 Grundmasse mit Einsprenglinge
+Antwort_3=0 grobkristallines Gefüge
+Antwort_4=0 Schieferung
+
+[44]
+FZ1=
+FZ2=
+FZ3=Was ist für Magmatite typisch?
+Min=64000
+Max=500000
+Antwort_1=0 Skeletteilchen
+Antwort_2=0 Schieferung
+Antwort_3=1 Kristalle
+Antwort_4=0 Schichtung
+
+[45]
+FZ1=
+FZ2=Was ist am schnellsten abgekühlt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 Basalt
+Antwort_2=0 Porphyr
+Antwort_3=0 Granit
+Antwort_4=0 Gneis
+
+[46]
+FZ1=
+FZ2=Was ist ein Plutonit?
+TZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Andesit
+Antwort_2=0 Schiefer
+Antwort_3=1 Syenit
+Antwort_4=0 Gabbro
+
+[47]
+FZ1=Welches Gestein lässt sich
+FZ2=den Plutoniten und Vulkaniten 
+FZ3=nicht eindeutig zuordnen?
+Min=64000
+Max=500000
+Antwort_1=1 Porphyr
+Antwort_2=0 Diorit
+Antwort_3=0 Syerit
+Antwort_4=0 Gabbro
+
+[48]
+FZ1=
+FZ2=Wo gelten chemische Sedimente
+FZ3=als Klimazeugen?
+Min=32000
+Max=125000
+Antwort_1=0 an den Polen
+Antwort_2=0 in Hochgebirgsregionen
+Antwort_3=0 in humiden Gebieten
+Antwort_4=1 in ariden Gebieten
+
+[49]
+FZ1=
+FZ2=Hinsichtliche des Ablagerungsortes gibt 
+FZ3=es folgende Sedimente?
+Min=32000
+Max=250000
+Antwort_1=1 marine
+Antwort_2=0 hydrologische
+Antwort_3=0 pedrographische
+Antwort_4=0 geographische
+
+[50]
+FZ1=
+FZ2=Wo finden wir die häufigsten 
+FZ3=Sedimentgesteine?
+Min=64000
+Max=500000
+Antwort_1=1 an der Erdoberfläche
+Antwort_2=0 in der Lithosphäre
+Antwort_3=0 in der Asthenosphäre
+Antwort_4=0 in der Hydrosphäre
+
+[51]
+FZ1=
+FZ2=Was entsteht nicht durch Organismen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Kohle
+Antwort_2=1 Kalkstein
+Antwort_3=0 Torf
+Antwort_4=0 Graphit
+
+[52]
+FZ1=
+FZ2=Welches ist kein Merkmal
+FZ3=von Sedimentgesteinen ?
+Min=8000
+Max=125000
+Antwort_1=1 Kristalle
+Antwort_2=0 schichtiger Aufbau
+Antwort_3=0 Fossilien bzw. deren Abdrücke
+Antwort_4=0 Gesteinsstücke
+
+[53]
+FZ1=
+FZ2=Terrestrische Sedimente haben 
+FZ3=folgende Farbe?
+Min=16000
+Max=250000
+Antwort_1=0 gelb
+Antwort_2=1 rot
+Antwort_3=0 braun
+Antwort_4=0 weiß
+
+[54]
+FZ1=
+FZ2=Wo gibt es Kalksinterterrassen ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 Türkei 
+Antwort_2=0 Deutschland
+Antwort_3=0 Norwegen
+Antwort_4=0 Island
+
+[55]
+FZ1=
+FZ2=Was wird durch chemische Prozesse
+FZ3=nicht ausgeschieden?
+Min=16000
+Max=125000
+Antwort_1=0 Dolomit
+Antwort_2=0 Gips
+Antwort_3=0 Steinsalz
+Antwort_4=1 Löss
+
+[56]
+FZ1=
+FZ2=Was heißt Diagenese?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 Verfestig. Lockersedimente durch p/T
+Antwort_2=0 Transport von Lockersedimenten
+Antwort_3=0 Aufschmelzung von Gesteinen
+Antwort_4=0 Kristallbildung
+
+[57]
+FZ1=
+FZ2=Sandstein wird nicht verwendet als? 
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Schleif- und Mühlstein
+Antwort_2=0 Bildhauerstein
+Antwort_3=0 Werkstein
+Antwort_4=1 Baustein
+
+[58]
+FZ1=
+FZ2=Was ist kein physikalischer 
+FZ3= Verwitterungsprozess?
+Min=4000
+Max=64000
+Antwort_1=0 Frostverwitterung
+Antwort_2=1 Lösungsverwitterung
+Antwort_3=0 Salzsprengung
+Antwort_4=0 Temperaturverwitterung
+
+[59]
+FZ1=
+FZ2=Wie werden lockere Sedimente 
+FZ3=nicht transportiert?
+Min=4000
+Max=125000
+Antwort_1=1 Tiere
+Antwort_2=0 Wasser
+Antwort_3=0 Wind
+Antwort_4=0 Eis und Schmelzwasser
+
+[60]
+FZ1=
+FZ2=Wie lassen sich klastische Sedimente
+FZ3=klassifizieren?
+Min=32000
+Max=250000
+Antwort_1=0 nach der Farbe
+Antwort_2=1 nach der Korngröße
+Antwort_3=0 nach dem Gefüge
+Antwort_4=0 nach dem Geruch
+
+[61]
+FZ1=
+FZ2=Was ist kein Lockersediment?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=0 Schotter
+Antwort_2=0 Sand
+Antwort_3=0 Schlamm
+Antwort_4=1 Brecczie
+
+[62]
+FZ1=
+FZ2=Kaolin wird verwendet für
+FZ3=die Herstellung von?
+Min=32000
+Max=250000
+Antwort_1=1 Porzellan
+Antwort_2=0 Glas
+Antwort_3=0 Baumaterial
+Antwort_4=0 Keramik
+
+[63]
+FZ1=
+FZ2=Wo finden wir kein Sandstein?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0 Helgoland
+Antwort_2=0 Elbsandsteingebirge
+Antwort_3=0 Schwarzwald
+Antwort_4=1 Erzgebirge
+
+[64]
+FZ1=
+FZ2=Chemische Sedimente entstehen durch?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1 Verdunstung von Wasser
+Antwort_2=0 Zerfall der Gesteine
+Antwort_3=0 Auflösung der Gesteine
+Antwort_4=0 Verdichtung von Humus
+
+[65]
+FZ1=
+FZ2=Biogene Sedimente entstehen aus ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 abgestorbener Flora und Fauna
+Antwort_2=0 Abfällen von Menschen
+Antwort_3=0 umgewandelten Magmatiten
+Antwort_4=0 verwitterten Sedimentiten
+
+[66]
+FZ1=
+FZ2=Was ist Löss ?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0 Festgestein
+Antwort_2=1 gelbes, kalkhaltiges Material
+Antwort_3=0 Konglomerat
+Antwort_4=0 rotes, mineralisches Material
+
+[67]
+FZ1=
+FZ2=Brecczien unterschieden sich von 
+FZ3=Konglomerat durch?
+Min=64000
+Max=500000
+Antwort_1=1 Form der Gesteinstrümmer
+Antwort_2=0 Farbe
+Antwort_3=0 Mineralbestand
+Antwort_4=0 Zusammensetzung
+
+[68]
+FZ1=
+FZ2=Wo findet man keine Salzlagerstätten?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Raum Weser, Aller, Elbe
+Antwort_2=0 Erfurt
+Antwort_3=0 Halle
+Antwort_4=1 Brocken
+
+[69]
+FZ1=
+FZ2=Wie wird Salz verwendet?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0 Kunststoffe
+Antwort_2=1 Düngemittelgewinnung
+Antwort_3=0 Arzneimittel
+Antwort_4=0 Kosmetika
+
+[70]
+FZ1=
+FZ2=Welche Kohle ist am effizientesten?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 Braunkohle
+Antwort_2=0 Magerkohle
+Antwort_3=0 Steinkohle
+Antwort_4=1 Anthrazit
+
+[71]
+FZ1=
+FZ2=Wo finden wir Braunkohle?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Geiseltal bei Merseburg
+Antwort_2=0 Rheinisch-westfälische Revier
+Antwort_3=0 Zwickauer Revier
+Antwort_4=0 Ostsee
+
+[72]
+FZ1=
+FZ2=Als was wird Erdöl nicht verwendet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 Benzin
+Antwort_2=0 Schmier- und Heizöl
+Antwort_3=0 Vaseline
+Antwort_4=1 Bleistiftminen
+
+[73]
+FZ1=
+FZ2=Gips wird nicht verwendet als?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 Arzneimittel
+Antwort_2=0 Bestandteil von Tischplatten
+Antwort_3=0 Bestandteil von Lampenschalen
+Antwort_4=0 Düngemittel
+
+[74]
+FZ1=
+FZ2=Marine Sedimente finden wir?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 auf Helgoland
+Antwort_2=0 im Monument Valley (USA)
+Antwort_3=0 im Elbsandsteingebirge
+Antwort_4=0 im Glen Canyon (USA)
+
+[75]
+FZ1=
+FZ2=Wo sind die meisten Sedimente
+FZ3=zu finden ?
+Min=8000
+Max=64000
+Antwort_1=0 im Hochgebirge
+Antwort_2=0 im Flusslauf
+Antwort_3=0 im Delta
+Antwort_4=1 im Meer
+
+[76]
+FZ1=
+FZ2=Kalkstein findet keine Verwendung als ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1 Baumaterial
+Antwort_2=0 Zement
+Antwort_3=0 Farbe
+Antwort_4=0 Ziegelton
+
+[77]
+FZ1=
+FZ2=Wo ist die Temperatur am höchsten ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 an der Erdoberfläche
+Antwort_2=0 in der Epizone
+Antwort_3=1 in der Katazone
+Antwort_4=0 in der Mesozone
+
+[78]
+FZ1=
+FZ2=Metamorphite lassen sich nur 
+FZ3=schlecht nutzen. Warum?
+Min=125000
+Max=1000000
+Antwort_1=0 wegen dem Gefüge
+Antwort_2=0 wegen der Härte
+Antwort_3=0 wegen den Kristallen
+Antwort_4=1 wegen der Schiefrigkeit
+
+[79]
+FZ1=
+FZ2=Was sind Metamorphite ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Plutonite
+Antwort_2=1 durch p/T veränderte Sedimentite
+Antwort_3=0 Ganggesteine
+Antwort_4=0 Feuersteine
+
+[80]
+FZ1=
+FZ2=Eine Temperaturerhöhung wird nicht erreicht durch?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 Salzsprengung
+Antwort_2=0 Inkohlung
+Antwort_3=0 Regionalmetamorphose
+Antwort_4=0 Kontaktmetamorphose
+
+[81]
+FZ1=
+FZ2=Metamorphose fürht zu?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 Umkristallisation
+Antwort_2=0 Lösung der Gesteine
+Antwort_3=0 Vernichtung des Gesteins
+Antwort_4=0 Porosität
+
+[82]
+FZ1=
+FZ2=Die Metamorphose führt zur Bildung?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 einer Schichtung.
+Antwort_2=0 einer Grundmasse mit Einsprenglinge
+Antwort_3=0 von Fossilien
+Antwort_4=1 einer Schieferung
+
+[83]
+FZ1=
+FZ2=Werden Gesteine vollständig aufgeschmolzen,
+FZ3=spricht man von ?
+Min=0
+Max=1000
+Antwort_1=1 Anatexis
+Antwort_2=0 Diagenese
+Antwort_3=0 Inkohlung
+Antwort_4=0 Akkumulation
+
+[84]
+FZ1=
+FZ2=Marmor ist der Metamorphit aus?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0 Granit
+Antwort_2=1 Kalkstein
+Antwort_3=0 Mergel
+Antwort_4=0 Sandstein
+
+[85]
+FZ1=
+FZ2=Was sind Migmatite?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 Gesteine mit metamorphen/
+            magmatischen Komponenten
+Antwort_2=0 basische Gesteine
+Antwort_3=0 besonders harte Gesteine
+Antwort_4=0 Ganggesteine
+
+[86]
+FZ1=
+FZ2=Wo wird Marmor abgebaut?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0 Österreich
+Antwort_2=0 Deutschland
+Antwort_3=1 Italien
+Antwort_4=0 Norwegen
+
+[87]
+FZ1=
+FZ2=Glimmerschiefer finden wir nicht?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 in der Mecklenburgischen Seenplatte
+Antwort_2=0 in den Zentralalpen
+Antwort_3=0 im Südwesten des Erzgebirges
+Antwort_4=0 im Thüringer Wald
+
+[88]
+FZ1=
+FZ2=Gneis entsteht nicht aus?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0 Granit
+Antwort_2=1 Bauxit
+Antwort_3=0 Ton
+Antwort_4=0 Arkose
+
+[89]
+FZ1=
+FZ2=Was ist eine Orthogestein?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1 Metamorphit aus Magmatiten
+Antwort_2=0 Metamorphit aus Sedimentiten
+Antwort_3=0 Metamorphit aus Metamorphiten
+Antwort_4=0 Metamorphit aus vulkanischer Asche
+
+[90]
+FZ1=
+FZ2=Wie werden Metamorphite noch genannt?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1 Kristalline Schiefer
+Antwort_2=0 Erstarrungsgesteine
+Antwort_3=0 Trümmergesteine
+Antwort_4=0 Festgestein 
+
+[91]
+FZ1=
+FZ2=Kontaktmetamorphose tritt auf?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 im Fichtelberg
+Antwort_2=0 im Vogelsberg
+Antwort_3=0 in der Zugspitze
+Antwort_4=1 im Brocken

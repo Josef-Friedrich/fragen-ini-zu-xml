@@ -1,0 +1,3327 @@
+[Thema]
+Thema= Kennst du die Erde ?
+Fragen=302
+Autor=Manfred Hartisch Juli 2001
+
+[1]
+FZ1=
+FZ2=Wie wird die Erde auch genannt ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1 "Blauer Planet"
+Antwort_2=0 "Roter Planet"
+Antwort_3=0 "Grüner Planet"
+Antwort_4=0  "Gelber Planet"
+
+[2]
+FZ1=
+FZ2=Wie groß ist der Durchmesser
+FZ3=von einem Pol zum anderen Pol ?
+Min=32000
+Max=125000
+Antwort_1=0 25.875 km
+Antwort_2=112.756 km
+Antwort_3=0 6.072 km
+Antwort_4=0 76.913 km
+
+[3]
+FZ1=Wie nennt man die gedachte Mittellinie
+FZ2=um die Erde, die die Welt in eine Nordhalbkugel
+FZ3=und eine Südhalbkugel einteilt ?
+Min=0
+Max=2000
+Antwort_1=0 Terminator
+Antwort_2=1 Äquator
+Antwort_3=0 Ölquator
+Antwort_4=0 Bequator
+
+[4]
+FZ1=
+FZ2=Wodurch entstehen die Jahreszeiten
+FZ3=auf der Erde ?
+Min=32000
+Max=250000
+Antwort_1=0 durch die Drehung der Erde
+Antwort_2=0 durch das Magnetfeld der Erde
+Antwort_3=1 durch die Neigung der Erdachse
+Antwort_4=0 durch das Schmelzen der Polkappen
+
+[5]
+FZ1=Wenn am 21. Juni in Europa der
+FZ2=Sommer beginnt, welche Jahreszeit
+FZ3=beginnt dann in Südamerika ?
+Min=2000
+Max=32000
+Antwort_1=0 Herbst
+Antwort_2=1 Winter
+Antwort_3=0 Frühling
+Antwort_4=0 Sommer
+
+[6]
+FZ1=
+FZ2=In wie viele Zeitzonen
+FZ3=ist die Erde eingeteilt ?
+Min=64000
+Max=500000
+Antwort_1=0 6
+Antwort_2=0 12
+Antwort_3=0 48
+Antwort_4=1 24
+
+[7]
+FZ1=
+FZ2=Wie viele Erdteile gibt es ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0 4
+Antwort_2=0 5
+Antwort_3=1 6
+Antwort_4=0 7
+
+[8]
+FZ1=
+FZ2=Wie werden die Erdteile genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Fermente
+Antwort_2=0 Pontinente
+Antwort_3=1 Kontinente
+Antwort_4=0 Lavamente
+
+[9]
+FZ1=
+FZ2=Wie bezeichnet man die Bewegung der
+FZ3=Erdteile ?
+Min=64000
+Max=250000
+Antwort_1=0 Erdwanderung
+Antwort_2=0 Erddrehung
+Antwort_3=0 Kontinentalflucht
+Antwort_4=1 Kontinentaldrift
+
+[10]
+FZ1=
+FZ2=An welchem Ort der Erde ist
+FZ3=jede Himmelsrichtung Norden ?
+Min=0
+Max=1000
+Antwort_1=0 am Nordpol
+Antwort_2=1 am Südpol
+Antwort_3=0 am Äquator
+Antwort_4=0 in Nordamerika
+
+[11]
+FZ1=
+FZ2=Liegen alle Meere und Ozeane
+FZ3=auf einer Höhe ?
+Min=2000
+Max=125000
+Antwort_1=0 nein
+Antwort_2=0 nur die großen Meere
+Antwort_3=0 nur bei Vollmond
+Antwort_4=1 ja
+
+[12]
+FZ1=
+FZ2=Wohin fließt das Wasser aller
+FZ3=Flüsse irgendwann ?
+Min=1000
+Max=16000
+Antwort_1=0 zum Nordpol
+Antwort_2=1 ins Meer
+Antwort_3=0 zum Südpol
+Antwort_4=0 zum Äquator
+
+[13]
+FZ1=Wie nennt man die Bauwerke, die
+FZ2=uns vor Fluten und Hochwasser
+FZ3=schützen ?
+Min=1000
+Max=32000
+Antwort_1=0 Mauern und Brücken
+Antwort_2=0 Hügel und Häfen
+Antwort_3=0 Gräben und Kanäle
+Antwort_4=1 Dämme und Deiche
+
+[14]
+FZ1=
+FZ2=Wie heißt der größte Ozean ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1 Pazifik
+Antwort_2=0 Atlantik
+Antwort_3=0 Uramik
+Antwort_4=0 Tozenik
+
+[15]
+FZ1=
+FZ2=Wie nennt man die Höhe des
+FZ3=Meeresspiegels ?
+Min=2000
+Max=64000
+Antwort_1=0 Normal Zehn
+Antwort_2=0 Normal Hundert
+Antwort_3=1 Normal Null
+Antwort_4=0 Normal Eins
+
+[16]
+FZ1=
+FZ2=Wie viel der Erdoberfläche
+FZ3=ist mit Wasser bedeckt ?
+Min=1000
+Max=32000
+Antwort_1=1 zwei Drittel
+Antwort_2=0 ein Drittel
+Antwort_3=0 ein Viertel
+Antwort_4=0 zwei Viertel
+
+[17]
+FZ1=
+FZ2=In welchem Staat gibt es die
+FZ3=meisten Großstädte ?
+Min=64000
+Max=500000
+Antwort_1=0 USA
+Antwort_2=0 Australien
+Antwort_3=1 China
+Antwort_4=0 Südafrika
+
+[18]
+FZ1=
+FZ2=In welchem Land gibt es sehr viele
+FZ3=aktive Vulkane und Geysire ?
+Min=8000
+Max=250000
+Antwort_1=0 Grönland
+Antwort_2=0 Italien
+Antwort_3=0 Mexiko
+Antwort_4=1 Island
+
+[19]
+FZ1=
+FZ2=Wie nennt man den Wechsel von
+FZ3=Ebbe und Flut ?
+Min=0
+Max=1000
+Antwort_1=0 Tagzeiten
+Antwort_2=0 Nachtzeiten
+Antwort_3=0 Mondzeiten
+Antwort_4=1 Gezeiten
+
+[20]
+FZ1=
+FZ2=Was bewirkt die Anziehungskraft
+FZ3=des Mondes ?
+Min=1000
+Max=32000
+Antwort_1=0 Sturmfluten
+Antwort_2=0 Hurrikans
+Antwort_3=0 Monsunregen
+Antwort_4=1 Ebbe und Flut
+
+[21]
+FZ1=
+FZ2=Wo liegt das "Wattenmeer" ?
+FZ3=
+Min=500
+Max=32000
+Antwort_1=0 an der Ostseeküste
+Antwort_2=0 an der Südseeküste
+Antwort_3=1 an der Nordseeküste
+Antwort_4=0 an der Westseeküste
+
+[22]
+FZ1=
+FZ2=Wie nennt man die sprudelnden
+FZ3=heißen Springquellen ?
+Min=16000
+Max=250000
+Antwort_1=0 Vulkane
+Antwort_2=1 Geysire
+Antwort_3=0 Fakire
+Antwort_4=0 Geymane
+
+[23]
+FZ1=
+FZ2=Wo liegt der Grand Canyon ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 USA
+Antwort_2=0 Japan
+Antwort_3=0 Südafrika
+Antwort_4=0 Argentinien
+
+[24]
+FZ1=
+FZ2=Wie heißt der größte Kontinent ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 Europa
+Antwort_2=1 Asien
+Antwort_3=0 Afrika
+Antwort_4=0 Amerika
+
+[25]
+FZ1=
+FZ2=Wie heißt der kleinste Kontinent ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 Afrika
+Antwort_2=0 Antarktis
+Antwort_3=1 Australien
+Antwort_4=0 Europa
+
+[26]
+FZ1=
+FZ2=Wo liegt die Sahara ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1 Afrika
+Antwort_2=0 Amerika
+Antwort_3=0 Asien
+Antwort_4=0 Australien
+
+[27]
+FZ1=
+FZ2=Wie heißt die größte Insel der Erde ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 Madagaskar
+Antwort_2=0 Japan
+Antwort_3=1 Grönland
+Antwort_4=0 Irland
+
+[28]
+FZ1=
+FZ2=Wo stehen die höchsten Berge der Erde ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 Alpen
+Antwort_2=0 Anden
+Antwort_3=0 Rocky Mountains
+Antwort_4=1 Himalaya
+
+[29]
+FZ1=
+FZ2=Wie heißt der höchste Berg der Welt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Mount McKinley
+Antwort_2=1 Mount Everest
+Antwort_3=0 Kilimandscharo
+Antwort_4=0 Matterhorn
+
+[30]
+FZ1=
+FZ2=Wie weit driften Amerika und Europa
+FZ3=auseinander ?
+Min=125000
+Max=1000000
+Antwort_1=0 jährlich 10 mm
+Antwort_2=0 jährlich 13 mm
+Antwort_3=1 jährlich 20 mm
+Antwort_4=0 jährlich 23 mm
+
+[31]
+FZ1=
+FZ2=Wie hoch ist der höchste Berg der Welt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 7.522 m
+Antwort_2=0 6.094 m
+Antwort_3=0 9.971 m
+Antwort_4=1 8.863 m
+
+[32]
+FZ1=
+FZ2=Wo verläuft der Breitengrad Null ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 am Nordpol
+Antwort_2=0 am Südpol
+Antwort_3=0 in Nordafrika
+Antwort_4=1 am Äquator
+
+[33]
+FZ1=
+FZ2=Welcher große Fluss fließt
+FZ3=durch den südamerikanischen Regenwald ?
+Min=32000
+Max=500000
+Antwort_1=0 Nil
+Antwort_2=0 Mississippi
+Antwort_3=1 Amazonas
+Antwort_4=0 Wolga
+
+[34]
+FZ1=
+FZ2=Wo befindet sich der höchste Wasserfall
+FZ3=der Erde ?
+Min=250000
+Max=1000000
+Antwort_1=1 Venezuela
+Antwort_2=0 Guatemala
+Antwort_3=0 Indonesien
+Antwort_4=0 Nepal
+
+[35]
+FZ1=
+FZ2=Wie heißt der höchste Wasserfall
+FZ3=der Erde ?
+Min=64000
+Max=250000
+Antwort_1=0 Niagara - Fall
+Antwort_2=0 Devil - Fall
+Antwort_3=0 Himoro - Fall
+Antwort_4=1 Angel - Fall
+
+[36]
+FZ1=
+FZ2=Wo liegt der Niagara - Fall ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 in Südafrika
+Antwort_2=0 in Südamerika
+Antwort_3=1an d. Grenze zwischen Kanada und USA
+Antwort_4=0an d. Grenze zwischen Nepal und China
+
+[37]
+FZ1=
+FZ2=Wie viel Liter Wasser fließen jede Stunde
+FZ3=durch die Mündung des Amazonas ?
+Min=250000
+Max=1000000
+Antwort_1=1 400 Milliarden Liter
+Antwort_2=0 300 Milliarden Liter
+Antwort_3=0 200 Milliarden Liter
+Antwort_4=0 100 Milliarden Liter
+
+[38]
+FZ1=
+FZ2=Wie lang ist der Amazonas ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 5.132 km
+Antwort_2=0 4.982 km
+Antwort_3=0 7.081 km
+Antwort_4=1 6.518 km
+
+[39]
+FZ1=
+FZ2=Wie weit ist eine Reise rund um
+FZ3=die Erde am Äquator ?
+Min=2000
+Max=32000
+Antwort_1=0 ca. 20.000 km
+Antwort_2=1 ca. 40 .000 km
+Antwort_3=0 ca. 60.000 km
+Antwort_4=0 ca. 80.000 km
+
+[40]
+FZ1=
+FZ2=Wo liegt der höchste Berg Südamerikas ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 Bolivien
+Antwort_2=0 Uruguay
+Antwort_3=0 Chile
+Antwort_4=1 Argentinien
+
+[41]
+FZ1=
+FZ2=Wie heißt der höchste Berg Südamerikas ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 Kilimandscharo
+Antwort_2=0 Mount Everest
+Antwort_3=0 Opulananga
+Antwort_4=1 Aconcagua
+
+[42]
+FZ1=
+FZ2=Wie hoch ist der höchste Berg Südamerikas ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 5.097 m
+Antwort_2=0 7.254 m
+Antwort_3=1 6.959 m
+Antwort_4=0 8.578 m
+
+[43]
+FZ1=
+FZ2=Welchen Ozean gibt es nicht ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1 Afrikanischer Ozean
+Antwort_2=0 Atlantik
+Antwort_3=0 Pazifik
+Antwort_4=0 Indischer Ozean
+
+[44]
+FZ1=
+FZ2=Wie heißt die Verbindung zwischen
+FZ3=dem Atlantik und dem Pazifik ?
+Min=64000
+Max=500000
+Antwort_1=0 Suez - Kanal
+Antwort_2=0 Mittelland - Kanal
+Antwort_3=1 Panama - Kanal
+Antwort_4=0 Amerika - Kanal
+
+[45]
+FZ1=
+FZ2=Wie heißt die größte Stadt der Welt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 Mexiko - Stadt
+Antwort_2=0 New York
+Antwort_3=0 Peking
+Antwort_4=0 Bombay
+
+[46]
+FZ1=
+FZ2=Wo liegt der Fluss
+FZ3=Mississippi - Missouri ?
+Min=32000
+Max=250000
+Antwort_1=0 Kanada
+Antwort_2=0 Indien
+Antwort_3=1 USA
+Antwort_4=0 Brasilien
+
+[47]
+FZ1=
+FZ2=Wie lang ist der
+FZ3=Mississippi - Missouri ?
+Min=64000
+Max=500000
+Antwort_1=1 6.021 km
+Antwort_2=0 5.093 km
+Antwort_3=0 4.082 km
+Antwort_4=0 3.052 km
+
+[48]
+FZ1=
+FZ2=Wie heißt der höchste Berg Nordamerikas ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 Kilimandscharo
+Antwort_2=0 K 2
+Antwort_3=0 Matterhorn
+Antwort_4=1 Mount McKinley
+
+[49]
+FZ1=
+FZ2=Wie hoch ist der höchste Berg Nordamerikas ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 5.982 m
+Antwort_2=1 6.198 m
+Antwort_3=0 7.782 m
+Antwort_4=0 8.361 m
+
+[50]
+FZ1=
+FZ2=Wie viele Menschen lebten im Jahr 2000
+FZ3=auf der Erde ?
+Min=64000
+Max=500000
+Antwort_1=1 ca. 6 Milliarden
+Antwort_2=0 ca. 5 Milliarden
+Antwort_3=0 ca. 8 Milliarden
+Antwort_4=0 ca. 3 Milliarden
+
+[51]
+FZ1=
+FZ2=In welchem Staat leben die meisten Menschen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Brasilien
+Antwort_2=1 China
+Antwort_3=0 Indien
+Antwort_4=0 Mexiko
+
+[52]
+FZ1=
+FZ2=Welches Bauwerk kann man aus dem
+FZ3=Weltall erkennen ?
+Min=8000
+Max=125000
+Antwort_1=1 die Chinesische Mauer
+Antwort_2=0 den Eiffelturm
+Antwort_3=0 die Pyramiden
+Antwort_4=0 den Assuan - Staudamm
+
+[53]
+FZ1=
+FZ2=Wie heißt der Gebirgszug in Südamerika ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0 Alpen
+Antwort_2=1 Anden
+Antwort_3=0 Rocky Mountains
+Antwort_4=0 Himalaya
+
+[54]
+FZ1=
+FZ2=Wo liegt Feuerland ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 an der Südspitze Südamerikas
+Antwort_2=0 an der Nordspitze Südamerikas
+Antwort_3=0 an der Südspitze Südafrikas
+Antwort_4=0 an der Südspitze Indiens
+
+[55]
+FZ1=
+FZ2=Welches Land in Südamerika ist
+FZ3=am längsten ?
+Min=16000
+Max=125000
+Antwort_1=0 Bolivien
+Antwort_2=0 Paraguay
+Antwort_3=0 Uruguay
+Antwort_4=1Chile
+
+[56]
+FZ1=
+FZ2=Wie heißt der längste Fluss
+FZ3=in Mitteleuropa ?
+Min=0
+Max=0
+Antwort_1=1Donau
+Antwort_2=0Seine
+Antwort_3=0Rhein
+Antwort_4=0Po
+
+[57]
+FZ1=
+FZ2=Wie lang ist der längste Fluss
+FZ3=in Mitteleuropa ?
+Min=125000
+Max=1000000
+Antwort_1=0 3.095 km
+Antwort_2=0 4.761 km
+Antwort_3=0 3.698 km
+Antwort_4=1 2.850 km
+
+[58]
+FZ1=
+FZ2=Welches ist das größte Land der Erde ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 China
+Antwort_2=1 Russland
+Antwort_3=0 USA
+Antwort_4=0 Südafrika
+
+[59]
+FZ1=
+FZ2=Wie heißt der höchste Berg Europas ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1 Mont Blanc
+Antwort_2=0 Zugspitze
+Antwort_3=0 Matterhorn
+Antwort_4=0 St. Gotthard
+
+[60]
+FZ1=
+FZ2=Wie hoch ist der höchste Berg in Europa ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 3.905 m
+Antwort_2=1 4.807 m
+Antwort_3=0 5.056 m
+Antwort_4=0 6.230 m
+
+[61]
+FZ1=
+FZ2=Wie heißt das Hochgebirge in Mitteleuropa ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=0 Anden
+Antwort_2=0 Himalaya
+Antwort_3=0 Harz
+Antwort_4=1 Alpen
+
+[62]
+FZ1=
+FZ2=Welche Länder liegen sowohl in
+FZ3=Asien als auch in Europa ?
+Min=32000
+Max=250000
+Antwort_1=1 Türkei und Russland
+Antwort_2=0 Russland und Japan
+Antwort_3=0 Türkei und Iran
+Antwort_4=0 Griechenland und Belgien
+
+[63]
+FZ1=
+FZ2=Wie heißt der längste Fluss in Asien ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0 Nil
+Antwort_2=0 Mississippi
+Antwort_3=0 Amazonas
+Antwort_4=1 Jangtsekiang
+
+[64]
+FZ1=
+FZ2=Was wird am häufigsten auf der
+FZ3=Welt gegessen ?
+Min=1000
+Max=8000
+Antwort_1=0 Kartoffeln
+Antwort_2=0 Nudeln
+Antwort_3=0 Brot
+Antwort_4=1 Reis
+
+[65]
+FZ1=
+FZ2=Wie lang ist die Chinesische Mauer ?
+FZ3=
+Min=0
+Max=250000
+Antwort_1=1 2.500 km
+Antwort_2=0 3.300 km
+Antwort_3=0 1.800 km
+Antwort_4=0 4.200 km
+
+[66]
+FZ1=
+FZ2=Wie heißt der längste Fluss der Welt ?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0 Amazonas
+Antwort_2=1 Nil
+Antwort_3=0 Jangtsekiang
+Antwort_4=0 Mississippi
+
+[67]
+FZ1=
+FZ2=Welche Stadt liegt auf zwei Kontinenten ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 Istanbul
+Antwort_2=0 Kalkutta
+Antwort_3=0 Madrid
+Antwort_4=0 Johannisburg
+
+[68]
+FZ1=
+FZ2=Wo liegt der höchste Berg Afrikas ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Uganda
+Antwort_2=0 Sambesi
+Antwort_3=0 Kongo
+Antwort_4=1 Tansania
+
+[69]
+FZ1=
+FZ2=Wie heißt der höchste Berg in Afrika ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0 Kiribati
+Antwort_2=1 Kilimandscharo
+Antwort_3=0 Fukano
+Antwort_4=0 Vesuv
+
+[70]
+FZ1=
+FZ2=Wie hoch ist der höchste Berg in Afrika ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 8.971 m
+Antwort_2=0 7.345 m
+Antwort_3=0 6.012 m
+Antwort_4=1 5.895 m
+
+[71]
+FZ1=
+FZ2=In welchem Kontinent fließt der
+FZ3=längste Fluss der Welt ?
+Min=4000
+Max=64000
+Antwort_1=1 Afrika
+Antwort_2=0 Asien
+Antwort_3=0 Amerika
+Antwort_4=0 Australien
+
+[72]
+FZ1=
+FZ2=Wie lang ist der längste Fluss der Welt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 4.871 km
+Antwort_2=0 5.983 km
+Antwort_3=0 7.809 km
+Antwort_4=1 6.671 km
+
+[73]
+FZ1=
+FZ2=Wie heißt das größte Korallenriff der Welt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 das Große Barrier - Riff
+Antwort_2=0 das Große Terrier - Riff
+Antwort_3=0 das Große Warrior - Riff
+Antwort_4=0 das Große Atoll - Riff
+
+[74]
+FZ1=
+FZ2=Wo liegt das größte Korallenriff der Erde ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 vor Südafrika
+Antwort_2=0 vor Nordamerika
+Antwort_3=1 vor Australien
+Antwort_4=0 vor Indien
+
+[75]
+FZ1=
+FZ2=Wie nennt man eine enge, tiefe
+FZ3=Meeresbucht ?
+Min=8000
+Max=64000
+Antwort_1=0 Björn
+Antwort_2=0 Smord
+Antwort_3=0 Klond
+Antwort_4=1 Fjord
+
+[76]
+FZ1=
+FZ2=Wie heißt die größte Wüste der Erde ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1 Sahara
+Antwort_2=0 Gobi
+Antwort_3=0 Lahama
+Antwort_4=0 Sahata
+
+[77]
+FZ1=
+FZ2=Wo gibt es die größten Geysire ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Island
+Antwort_2=0 Irland
+Antwort_3=1 Yellowstone Nationalpark  (USA)
+Antwort_4=0 Kalahari Nationalpark (Afrika)
+
+[78]
+FZ1=
+FZ2=Gibt es am Äquator Jahreszeiten ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 ja
+Antwort_2=0 nur Sommer und Winter
+Antwort_3=0 nur Frühling und Herbst
+Antwort_4=1 nein
+
+[79]
+FZ1=
+FZ2=Welchen Kontinent gibt es nicht ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Europa
+Antwort_2=1 Euroma
+Antwort_3=0 Afrika
+Antwort_4=0 Amerika
+
+[80]
+FZ1=
+FZ2=Welchen Kontinent gibt es nicht ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 Arktis
+Antwort_2=0 Antarktis
+Antwort_3=0 Asien
+Antwort_4=0 Australien
+
+[81]
+FZ1=
+FZ2=Welchen Doppelkontinenten gibt es ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 Eurasien
+Antwort_2=0 Eurafrika
+Antwort_3=0 Australamerika
+Antwort_4=0 Amerikasien
+
+[82]
+FZ1=
+FZ2=Was geschieht durch die Kontinentaldrift in
+FZ3=vielen Millionen Jahren mit dem Mittelmeer ?
+Min=32000
+Max=250000
+Antwort_1=0 Es wandert zur Nordsee.
+Antwort_2=0 Es wird größer.
+Antwort_3=0 Es teilt sich in drei Meere.
+Antwort_4=1 Es verschwindet.
+
+[83]
+FZ1=
+FZ2=An welchem Ort der Erde ist
+FZ3=jede Himmelsrichtung Süden ?
+Min=0
+Max=1000
+Antwort_1=1 am Nordpol
+Antwort_2=0 am Südpol
+Antwort_3=0 am Äquator
+Antwort_4=0 in Südafrika
+
+[84]
+FZ1=
+FZ2=Wie viel der Erdoberfläche
+FZ3=ist mit Land bedeckt ?
+Min=1000
+Max=32000
+Antwort_1=0 zwei Drittel
+Antwort_2=1 ein Drittel
+Antwort_3=0 ein Viertel
+Antwort_4=0 zwei Viertel
+
+[85]
+FZ1=
+FZ2=In welchem Land der Erde leben
+FZ3=über 1 Milliarde Menschen ?
+Min=125000
+Max=500000
+Antwort_1=1 China
+Antwort_2=0 Japan
+Antwort_3=0 Indien
+Antwort_4=0 USA
+
+[86]
+FZ1=
+FZ2=Welches europäische Land hat
+FZ3=die meisten Inseln ?
+Min=1000
+Max=32000
+Antwort_1=0 Spanien
+Antwort_2=0 Italien
+Antwort_3=1 Griechenland
+Antwort_4=0 Portugal
+
+[87]
+FZ1=
+FZ2=Wer war der erste Europäer am Südpol ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 Roald Amundsen
+Antwort_2=0 Alexander Scott
+Antwort_3=0 Neil Armstrong
+Antwort_4=0 Albert Einstein
+
+[88]
+FZ1=
+FZ2=Welche Pflanzen gibt es in der Antarktis ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0 Büsche und Bäume
+Antwort_2=1 Gräser und Moos
+Antwort_3=0 Kiefern und Birken
+Antwort_4=0 Farne und Palmen
+
+[89]
+FZ1=
+FZ2=Welche Durchschnittstemperatur herrscht
+FZ3=im Sommer am Südpol ?
+Min=64000
+Max=250000
+Antwort_1=1 0° Celsius
+Antwort_2=0 - 5° Celsius
+Antwort_3=0 - 10° Celsius
+Antwort_4=0 - 15° Celsius
+
+[90]
+FZ1=
+FZ2=Wo wird es im Sommer niemals Nacht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1 am Nordpol
+Antwort_2=0 am Südpol
+Antwort_3=0  in Afrika
+Antwort_4=0 am Äquator
+
+[91]
+FZ1=
+FZ2=Welches Land hat die meisten
+FZ3=aktiven Vulkane ?
+Min=64000
+Max=500000
+Antwort_1=0 China
+Antwort_2=0 Kanada
+Antwort_3=0 Italien
+Antwort_4=1 Japan
+
+[92]
+FZ1=
+FZ2=Welches Meer trennt Europa
+FZ3=von Afrika ?
+Min=500
+Max=2000
+Antwort_1=0 Tote Meer
+Antwort_2=1 Mittelmeer
+Antwort_3=0 Atlantik
+Antwort_4=0 Pazifik
+
+[93]
+FZ1=
+FZ2=Welcher Kanal verbindet das Mittelmeer
+FZ3=mit dem Roten Meer ?
+Min=16000
+Max=250000
+Antwort_1=0 Panama - Kanal
+Antwort_2=0 Mittelmeer - Kanal
+Antwort_3=1 Suez - Kanal
+Antwort_4=0 Zubat - Kanal
+
+[94]
+FZ1=
+FZ2=Wie heißt die größte afrikanische Insel ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 Malta
+Antwort_2=0 Zypern
+Antwort_3=1 Madagaskar
+Antwort_4=0 Mallorca
+
+[95]
+FZ1=
+FZ2=Wie nennt man die Eismassen, die sich
+FZ3=von den Bergen in die Täler schieben ?
+Min=0
+Max=1000
+Antwort_1=1 Gletscher
+Antwort_2=0 Käscher
+Antwort_3=0 Glitscher
+Antwort_4=0 Korallen
+
+[96]
+FZ1=
+FZ2=Was ist keine Erdschicht ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0 Erdkern
+Antwort_2=0 Erdmantel
+Antwort_3=0 Erdkruste
+Antwort_4=1Erdhose
+
+[97]
+FZ1=
+FZ2=Wie nennt man den Ort an der Erdoberfläche,
+FZ3=der über einem Erdbebenherd liegt ?
+Min=16000
+Max=250000
+Antwort_1=1 Epizentrum
+Antwort_2=0 Egozentrum
+Antwort_3=0 Abizentrum
+Antwort_4=0 Obozentrum
+
+[98]
+FZ1=
+FZ2=Wie nennt man flüssiges Gestein und Gase, die
+FZ3=aus dem Erdinneren emporsteigen ?
+Min=4000
+Max=64000
+Antwort_1=0 Magnet
+Antwort_2=0 Mangan
+Antwort_3=1 Magma
+Antwort_4=0 Metall
+
+[99]
+FZ1=
+FZ2=Wie viele aktive Vulkane gibt es noch auf der Erde ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 ca. 500
+Antwort_2=0 ca. 350
+Antwort_3=0 ca. 225
+Antwort_4=0 ca. 110
+
+[100]
+FZ1=
+FZ2=Wie nennt man die Öffnung eines Vulkans ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=0 Prater
+Antwort_2=0 Kater
+Antwort_3=1 Krater
+Antwort_4=0 Vater
+
+[101]
+FZ1=
+FZ2=Wie nennt man die Abtragung von Felsen
+FZ3=und Erde durch Wind, Wasser und Eis ?
+Min=250000
+Max=1000000
+Antwort_1=1 Erosion
+Antwort_2=0 Explosion
+Antwort_3=0 Gravitation
+Antwort_4=0  Mutation
+
+[102]
+FZ1=
+FZ2=Wie nennt man versteinerte Überreste ausgestorbener
+FZ3=Pflanzen und Tiere ?
+Min=32000
+Max=250000
+Antwort_1=0 Mineralien
+Antwort_2=1 Fossilien
+Antwort_3=0 Meteoriten
+Antwort_4=0 Bromelien
+
+[103]
+FZ1=
+FZ2=Wie nennt man die besonders gefährlichen
+FZ3=Flutwellen ?
+Min=125000
+Max=1000000
+Antwort_1=0 Monsun
+Antwort_2=1 Tsunamis
+Antwort_3=0 Klingonen
+Antwort_4=0 Tiramisu
+
+[104]
+FZ1=
+FZ2=Was ist zum größten Teil für das
+FZ3=Wetter auf der Erde verantwortlich ?
+Min=16000
+Max=250000
+Antwort_1=0 der Erdmagnetismus
+Antwort_2=0 die Erdanziehung
+Antwort_3=1 die Winde
+Antwort_4=0 der Mond
+
+[105]
+FZ1=Wie nennt man Luftwirbel mit spiralförmigen
+FZ2=Wolkenbändern ab Windstärke 8, die
+FZ3=ungeheure Verwüstungen anrichten können ?
+Min=8000
+Max=125000
+Antwort_1=0 Hagelschauer
+Antwort_2=1 Wirbelsturm
+Antwort_3=0 Blitzgewitter
+Antwort_4=0 Schneestürme
+
+[106]
+FZ1=
+FZ2=Wie hoch kann die Windgeschwindigkeiten
+FZ3=von Hurrikanen werden ?
+Min=32000
+Max=250000
+Antwort_1=0 ca. 140 km / h
+Antwort_2=0 ca. 210 km / h
+Antwort_3=0 ca. 430 km / h
+Antwort_4=1 ca. 320 km / h
+
+[107]
+FZ1=
+FZ2=Wo befinden sich die meisten
+FZ3=Fjorde der Welt ?
+Min=32000
+Max=500000
+Antwort_1=0 Italien
+Antwort_2=0 Griechenland
+Antwort_3=1 Norwegen
+Antwort_4=0 Grönland
+
+[108]
+FZ1=Wie wird die schmale Luftsäule im Inneren
+FZ2=eines Hurrikans genannt, die sich nur
+FZ3=langsam dreht ?
+Min=1000
+Max=8000
+Antwort_1=0 Ohr
+Antwort_2=0 Nase
+Antwort_3=1 Auge
+Antwort_4=0 Mund
+
+[109]
+FZ1=
+FZ2=Wie ist das Wetter über den Wolken ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 neblig
+Antwort_2=0 regnerisch
+Antwort_3=0 diesig
+Antwort_4=1 sonnig
+
+[110]
+FZ1=
+FZ2=Wie nennt man die Explosion
+FZ3=in einer Gewitterwolke ?
+Min=200
+Max=1000
+Antwort_1=0 Krach
+Antwort_2=1 Donner
+Antwort_3=0 Lärm
+Antwort_4=0 Knall
+
+[111]
+FZ1=
+FZ2=Womit misst man den Wind ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 Thermometer
+Antwort_2=0 Barometer
+Antwort_3=0 Hygrometer
+Antwort_4=1 Anemometer
+
+[112]
+FZ1=
+FZ2=Wie nennt man einen über Land auftretenden
+FZ3=Luftwirbel (Windhose) auch ?
+Min=2000
+Max=16000
+Antwort_1=0 Phantom
+Antwort_2=1 Tornado
+Antwort_3=0 Eagle
+Antwort_4=0 Crash
+
+[113]
+FZ1=
+FZ2=Was ist ein "Eiland" ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1 eine Insel
+Antwort_2=0 ein runder Berg
+Antwort_3=0 ein Land mit vielen Hühnern
+Antwort_4=0 ein Versteck für Osterhasen
+
+[114]
+FZ1=
+FZ2=Wie nennt man den Ursprung
+FZ3=eines Baches oder eines Flusses ?
+Min=1000
+Max=8000
+Antwort_1=1 Quelle
+Antwort_2=0 Qualle
+Antwort_3=0 Quirl
+Antwort_4=0 Quäker
+
+[115]
+FZ1=
+FZ2=Welcher Kontinent liegt nicht
+FZ3=am Mittelmeer ?
+Min=8000
+Max=125000
+Antwort_1=0 Asien
+Antwort_2=0 Europa
+Antwort_3=1 Amerika
+Antwort_4=0 Afrika
+
+[116]
+FZ1=Wie werden Gesteins- und Schlammströme
+FZ2=in Gebirgen genannt, die mit ungeheurer
+FZ3=Gewalt zu Tal gehen ?
+Min=250000
+Max=1000000
+Antwort_1=0 Bure
+Antwort_2=0 Gure
+Antwort_3=0 Ture
+Antwort_4=1 Mure
+
+[117]
+FZ1=
+FZ2=Wie nennt man die Trennungslinie
+FZ3=zwischen Himmel und Erde ?
+Min=4000
+Max=125000
+Antwort_1=0 Diskont
+Antwort_2=0  Hokozont
+Antwort_3=1 Horizont
+Antwort_4=0 Balamont
+
+[118]
+FZ1=Wie nennt man eine Lawine, die sich aus
+FZ2=jüngeren Schneeschichten bildet und die
+FZ3=sich mit einem lauten Knall ablöst ?
+Min=8000
+Max=250000
+Antwort_1=0 Schneeholz
+Antwort_2=0 Schneestück
+Antwort_3=0 Schneeteller
+Antwort_4=1 Schneebrett
+
+[119]
+FZ1=
+FZ2=Wie nennt man eine Kugel, auf der
+FZ3=die Erde abgebildet ist ?
+Min=300
+Max=2000
+Antwort_1=0 Omnibus
+Antwort_2=1 Globus
+Antwort_3=0 Kaktus
+Antwort_4=0 Erdus
+
+[120]
+FZ1=
+FZ2=Wie nennt man eine Forschungsreise
+FZ3=in ein unbekanntes Gebiet ?
+Min=1000
+Max=16000
+Antwort_1=0 Experiment
+Antwort_2=0 Explosion
+Antwort_3=0 Expander
+Antwort_4=1 Expedition
+
+[121]
+FZ1=
+FZ2=Wie heißt der größte See
+FZ3=in Deutschland ?
+Min=4000
+Max=64000
+Antwort_1=0 Ammersee
+Antwort_2=0 Tegernsee
+Antwort_3=1 Bodensee
+Antwort_4=0 Walchensee
+
+[122]
+FZ1=
+FZ2=Wie heißt der höchste Berg
+FZ3=in Deutschland ?
+Min=1000
+Max=16000
+Antwort_1=0 Autospitze
+Antwort_2=1 Zugspitze
+Antwort_3=0 Bergspitze
+Antwort_4=0 Gipfelspitze
+
+[123]
+FZ1=
+FZ2=Wo liegt der Suez - Kanal ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1 in Ägypten
+Antwort_2=0 in Thailand
+Antwort_3=0 in Schweden
+Antwort_4=0 in Pakistan
+
+[124]
+FZ1=
+FZ2=Wie hoch ist der höchste
+FZ3=Berg in Deutschland ?
+Min=32000
+Max=250000
+Antwort_1=0 3.871 m
+Antwort_2=1 2.962 m
+Antwort_3=0 1.998 m
+Antwort_4=0 4.721 m
+
+[125]
+FZ1=
+FZ2=Wie wird der Himalaya auch
+FZ3=oft genannt ?
+Min=16000
+Max=250000
+Antwort_1=0 Ende der Welt
+Antwort_2=0 Gipfel der Welt
+Antwort_3=1 Dach der Welt
+Antwort_4=0 Anfang der Welt
+
+[126]
+FZ1=
+FZ2=Wie nennt man einen Ort in der
+FZ3=Wüste, an dem es Wasser gibt ?
+Min=300
+Max=2000
+Antwort_1=1 Oase
+Antwort_2=0 Kanal
+Antwort_3=0 Brunnen
+Antwort_4=0 Quelle
+
+[127]
+FZ1=Wie nennt man Kalkablagerungen in
+FZ2=Höhlen, die oft seltsame Formen haben
+FZ3=und durch tropfendes Kalkwasser entstehen ?
+Min=8000
+Max=250000
+Antwort_1=0 Höhlensteine
+Antwort_2=0 Kalksteine
+Antwort_3=1 Tropfsteine
+Antwort_4=0 Formsteine
+
+[128]
+FZ1=
+FZ2=Wie nennt man eine
+FZ3=ringförmige Koralleninsel ?
+Min=64000
+Max=250000
+Antwort_1=0 Otoll
+Antwort_2=0 Utoll
+Antwort_3=0 Etoll
+Antwort_4=1 Atoll
+
+[129]
+FZ1=
+FZ2=Wie nennt man eine
+FZ3=Luftspiegelung in der Wüste ?
+Min=0
+Max=1000
+Antwort_1=0 Mutter Morgana
+Antwort_2=1 Fata Morgana
+Antwort_3=0 Opa Morgana
+Antwort_4=0 Tante Morgana
+
+[130]
+FZ1=
+FZ2=An welche Meere grenzt Deutschland ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Nord -  und Südsee
+Antwort_2=0 Ost - und Westsee
+Antwort_3=1 Nord -  und Ostsee
+Antwort_4=0 Süd -  und Ostsee
+
+[131]
+FZ1=
+FZ2=Wie heißt die tiefste Stelle im Meer ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Marineschlucht
+Antwort_2=0 Teufelsloch
+Antwort_3=0 Gambadaschlot
+Antwort_4=1 Marianengraben
+
+[132]
+FZ1=
+FZ2=In welchem Ozean befindet sich die
+FZ3=tiefste Stelle ?
+Min=32000
+Max=250000
+Antwort_1=0 im Atlantischen Ozean
+Antwort_2=0 im Indischen Ozean
+Antwort_3=0 im Mittelmeer
+Antwort_4=1 im Pazifischen Ozean
+
+[133]
+FZ1=
+FZ2=Wie tief ist die tiefste Stelle
+FZ3=im Ozean  ?
+Min=64000
+Max=1000000
+Antwort_1=0 10.983 m
+Antwort_2=0 13.803 m
+Antwort_3=1 11.052 m
+Antwort_4=0 12.707 m
+
+[134]
+FZ1=
+FZ2=Wie nennt man das flache Meer
+FZ3=rund um die Kontinente ?
+Min=64000
+Max=500000
+Antwort_1=1 Schelfmeer
+Antwort_2=0 Wattenmeer
+Antwort_3=0 Randmeer
+Antwort_4=0 Speinmeer
+
+[135]
+FZ1=
+FZ2=Wie viel der Erdoberfläche bedeckt
+FZ3=der Pazifische Ozean ?
+Min=125000
+Max=500000
+Antwort_1=0 die Hälfte
+Antwort_2=0 ein Viertel
+Antwort_3=0 ein Achtel
+Antwort_4=1 ein Drittel
+
+[136]
+FZ1=
+FZ2=Wie tief sind die Ozeane im Durchschnitt ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0 ca. 3.300 m
+Antwort_2=0 ca. 4.400 m
+Antwort_3=1 ca. 5.500 m
+Antwort_4=0 ca. 6.600 m
+
+[137]
+FZ1=
+FZ2=Der Pazifische Ozean hat die meisten
+FZ3=Tiefseegräben. Wie viele sind es ?
+Min=32000
+Max=250000
+Antwort_1=1 mehr als 20
+Antwort_2=0 17 - 20
+Antwort_3=0 ca. 15
+Antwort_4=0 12
+
+[138]
+FZ1=
+FZ2=Wie nennt man die von Wellen und
+FZ3=Wind aufgetürmten Eismassen ?
+Min=16000
+Max=125000
+Antwort_1=0 Hackeis
+Antwort_2=0 Glatteis
+Antwort_3=0 Bergeis
+Antwort_4=1 Packeis
+
+[139]
+FZ1=
+FZ2=Wie nennt man die Spitze einer Welle ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0 Wellenbürste
+Antwort_2=1 Wellenkamm
+Antwort_3=0 Wellenföhn
+Antwort_4=0 Wellenspiegel
+
+[140]
+FZ1=
+FZ2=Wie nennt man die Stelle zwischen
+FZ3=zwei Wellen ?
+Min=2000
+Max=32000
+Antwort_1=0 Wellenloch
+Antwort_2=0 Wellenknick
+Antwort_3=0 Wellenberg
+Antwort_4=1 Wellental
+
+[141]
+FZ1=
+FZ2=Wie nennt man den Aufprall
+FZ3=der Wellen an der Küste ?
+Min=2000
+Max=32000
+Antwort_1=0 Landung
+Antwort_2=0 Strandung
+Antwort_3=0 Hoffnung
+Antwort_4=1 Brandung
+
+[142]
+FZ1=Welche Meeresströmung ist
+FZ2=besonders für das Klima in
+FZ3=Europa von Bedeutung ?
+Min=64000
+Max=500000
+Antwort_1=0 Astrastrom
+Antwort_2=0 Polostrom
+Antwort_3=1 Golfstrom
+Antwort_4=0 Hockeystrom
+
+[143]
+FZ1=
+FZ2=Wie heißt der größte See der Erde ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 Kaspisches Meer
+Antwort_2=0 Victoria - See
+Antwort_3=0 Bodensee
+Antwort_4=0 Aralsee
+
+[144]
+FZ1=
+FZ2=Woraus setzen sich alle Gesteine
+FZ3=der Erde zusammen ?
+Min=125000
+Max=500000
+Antwort_1=0 aus Fossilien
+Antwort_2=0 aus Magma
+Antwort_3=1 aus Mineralien
+Antwort_4=0 aus Sedimenten
+
+[145]
+FZ1=
+FZ2=Was ist der härteste Stoff der Welt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 Diamant
+Antwort_2=0 Basalt
+Antwort_3=0 Marmor
+Antwort_4=0 Gold
+
+[146]
+FZ1=
+FZ2=Wie hoch ist der höchste Wasserfall der Welt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 876 m
+Antwort_2=0 1.756 m
+Antwort_3=1 979 m
+Antwort_4=0 1.087 m
+
+[147]
+FZ1=Wie heißt der höchstgelegene See
+FZ2=der Welt, der noch mit Schiffen
+FZ3=befahrbar ist ?
+Min=64000
+Max=500000
+Antwort_1=1 Titicacasee
+Antwort_2=0 Mimicocosee
+Antwort_3=0 Bibicucusee
+Antwort_4=0 Lilicecesee
+
+[148]
+FZ1=
+FZ2=Was ist kein Wirbelsturm ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1 Terminator
+Antwort_2=0 Hurrikan
+Antwort_3=0 Taifun
+Antwort_4=0 Zyklon
+
+[149]
+FZ1=
+FZ2=Wie wird der Wirbelsturm im
+FZ3=Indischen Ozean genannt ?
+Min=64000
+Max=500000
+Antwort_1=0 Tornado
+Antwort_2=1 Zyklon
+Antwort_3=0 Taifun
+Antwort_4=0 Hurrikan
+
+[150]
+FZ1=
+FZ2=Wo treten die meisten Tsunamis
+FZ3=(gefährliche Flutwellen) auf ?
+Min=125000
+Max=500000
+Antwort_1=1 im Pazifischen Ozean
+Antwort_2=0 im Atlantischen Ozean
+Antwort_3=0 im Indischen Ozean
+Antwort_4=0 im Mittelmeer
+
+[151]
+FZ1=
+FZ2=Wie groß kann der Durchmesser
+FZ3=eines Tornados werden ?
+Min=64000
+Max=500000
+Antwort_1=0 ca. 200 m
+Antwort_2=0 ca. 300 m
+Antwort_3=0 ca. 400 m
+Antwort_4=1 ca. 500 m
+
+[152]
+FZ1=
+FZ2=Wie nennt man einen Tropfstein,
+FZ3=der von oben nach unten wächst ?
+Min=125000
+Max=1000000
+Antwort_1=1 Stalaktit
+Antwort_2=0 Stalagmit
+Antwort_3=0 Dynamit
+Antwort_4=0 Staralmit
+
+[153]
+FZ1=
+FZ2=Wo wurde die bisher höchste
+FZ3=Temperatur auf der Erde gemessen ?
+Min=64000
+Max=500000
+Antwort_1=0 Mexiko
+Antwort_2=1 Libyen
+Antwort_3=0 Pakistan
+Antwort_4=0 Hawaii
+
+[154]
+FZ1=
+FZ2=Wie wird das Magma genannt, wenn es an
+FZ3=die Erdoberfläche gelangt ist ?
+Min=1000
+Max=16000
+Antwort_1=1 Lava
+Antwort_2=0 Lepra
+Antwort_3=0 Lavados
+Antwort_4=0 Lehm
+
+[155]
+FZ1=
+FZ2=Wie dick ist die Erdkruste ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 ca. 10 km
+Antwort_2=0 ca. 25 km
+Antwort_3=0 ca. 100 km
+Antwort_4=1 ca. 50 km
+
+[156]
+FZ1=
+FZ2=Woraus besteht der Erdkern ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 Nickel und Eisen
+Antwort_2=0 Nickel und Bronze
+Antwort_3=0 Bronze und Eisen
+Antwort_4=0 Eisen und Kupfer
+
+[157]
+FZ1=
+FZ2=Wie hoch sind die Temperaturen im Erdkern ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 ca. 1000° Celsius
+Antwort_2=1 ca. 6000° Celsius
+Antwort_3=0 ca. 3000° Celsius
+Antwort_4=0 ca. 4200° Celsius
+
+[158]
+FZ1=
+FZ2=Wie heißt die Insel im Bodensee,
+FZ3=die für ihr mildes Klima bekannt ist ?
+Min=8000
+Max=250000
+Antwort_1=0 Deinau
+Antwort_2=1 Mainau
+Antwort_3=0 Grainau
+Antwort_4=0 Heinau
+
+[159]
+FZ1=
+FZ2=Wie hoch war die bisher höchste
+FZ3=gemessene Temperatur auf der Erde ?
+Min=125000
+Max=1000000
+Antwort_1=0 48,5° Celsius
+Antwort_2=1 57,7° Celsius
+Antwort_3=0 62,6° Celsius
+Antwort_4=0 51,8° Celsius
+
+[160]
+FZ1=
+FZ2=Wo wurde die bisher kälteste Temperatur
+FZ3=der Erde gemessen ?
+Min=64000
+Max=500000
+Antwort_1=1 in Wostock in der Antarktis
+Antwort_2=0 am Nordpol
+Antwort_3=0 in Grönland
+Antwort_4=0 in Wladiwostock
+
+[161]
+FZ1=
+FZ2=Wie kalt war die bisher kälteste
+FZ3=gemessene Temperatur auf der Erde ?
+Min=125000
+Max=1000000
+Antwort_1=0 minus 67,9° Celsius
+Antwort_2=0 minus 73,4° Celsius
+Antwort_3=0 minus 82,7° Celsius
+Antwort_4=1 minus 89,2° Celsius
+
+[162]
+FZ1=Wie nennt man einen riesigen Felsblock,
+FZ2=der von einem Gletscher in der letzten Eiszeit
+FZ3=in der Landschaft zurückgelassen wurde ?
+Min=32000
+Max=250000
+Antwort_1=1 Findling
+Antwort_2=0 Felsling
+Antwort_3=0 Eisling
+Antwort_4=0 Gletschling
+
+[163]
+FZ1=
+FZ2=Wann war die letzte Eiszeit ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0 vor ca. 100.000 Jahren
+Antwort_2=0 vor ca. 50.000 Jahren
+Antwort_3=1 vor ca. 20.000 Jahren
+Antwort_4=0 vor ca. 35.000 Jahren
+
+[164]
+FZ1=Wie nennt man einen einzelnen Steinblock,
+FZ2=der sich manchmal auch als Inselberg
+FZ3=unvermittelt aus der Landschaft erhebt ?
+Min=125000
+Max=500000
+Antwort_1=0 Duolith
+Antwort_2=0 Terziolith
+Antwort_3=0 Quadrolith
+Antwort_4=1 Monolith
+
+[165]
+FZ1=
+FZ2=Wie nennt man den Übergang vom Schelfmeer
+FZ3=zur Tiefsee ?
+Min=125000
+Max=1000000
+Antwort_1=1 Kontinentalabhang
+Antwort_2=0 Kontinentalberg
+Antwort_3=0 Kontinentalschlucht
+Antwort_4=0 Kontinentalschlick
+
+[166]
+FZ1=
+FZ2=Wie viele Mineralienarten gibt es ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 ca. 1.000
+Antwort_2=0 ca. 1.700
+Antwort_3=0 ca. 2.800
+Antwort_4=1 ca. 2.000
+
+[167]
+FZ1=
+FZ2=Wie nennt man eine Inselgruppe ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 Archipel
+Antwort_2=0 Biogel
+Antwort_3=0 Ceratel
+Antwort_4=0 Duomel
+
+[168]
+FZ1=
+FZ2=Welcher Kontinent liegt östlich
+FZ3=von Europa ?
+Min=2000
+Max=64000
+Antwort_1=0 Australien
+Antwort_2=0 Amerika
+Antwort_3=1 Asien
+Antwort_4=0 Afrika
+
+[169]
+FZ1=Auf welchen Kontinent kommen
+FZ2=nur Besucher ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=0 Asien
+Antwort_2=1 Antarktis
+Antwort_3=0 Australien
+Antwort_4=0 Europa
+
+[170]
+FZ1=
+FZ2=Bis zu welchem Kontinent kann man
+FZ3=von Europa mit der Eisenbahn reisen ?
+Min=16000
+Max=125000
+Antwort_1=0 Amerika
+Antwort_2=0 Australien
+Antwort_3=0 Antarktis
+Antwort_4=1 Asien
+
+[171]
+FZ1=
+FZ2=Auf welchem Kontinent kann man nicht
+FZ3=über den Äquator reisen ?
+Min=16000
+Max=125000
+Antwort_1=1 Europa
+Antwort_2=0 Asien
+Antwort_3=0 Afrika
+Antwort_4=0 Amerika
+
+[172]
+FZ1=
+FZ2=Auf welchem Kontinent befindet sich
+FZ3=der Südpol ?
+Min=16000
+Max=125000
+Antwort_1=0 Asien
+Antwort_2=0 Australien
+Antwort_3=0 Amerika
+Antwort_4=1 Antarktis
+
+[173]
+FZ1=
+FZ2=Auf welchem Kontinent gibt es
+FZ3=wilde Kängurus ?
+Min=16000
+Max=125000
+Antwort_1=1 Australien
+Antwort_2=0 Afrika
+Antwort_3=0 Amerika
+Antwort_4=0 Asien
+
+[174]
+FZ1=
+FZ2=Zu welchem Kontinent gehören
+FZ3=Schweden, Belgien und Frankreich ?
+Min=16000
+Max=125000
+Antwort_1=0 Asien
+Antwort_2=0 Afrika
+Antwort_3=1 Europa
+Antwort_4=0 Amerika
+
+[175]
+FZ1=
+FZ2=Wo befindet sich der berühmteste Monolith ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0 in Südafrika
+Antwort_2=0 im Himalaya
+Antwort_3=0 in Nordafrika
+Antwort_4=1 in Australien
+
+[176]
+FZ1=
+FZ2=Wie heißt der berühmteste Monolith ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 Ayers Rock
+Antwort_2=0 Externstein
+Antwort_3=0 Rocky Mountain
+Antwort_4=0 Mount Everest
+
+[177]
+FZ1=
+FZ2=Zu welchem Kontinent gehören
+FZ3=Chile, Mexiko und Kanada ?
+Min=16000
+Max=125000
+Antwort_1=0 Asien
+Antwort_2=1 Amerika
+Antwort_3=0 Australien
+Antwort_4=0 Afrika
+
+[178]
+FZ1=
+FZ2=Zu welchem Kontinent gehören
+FZ3=Nepal, Korea und Vietnam ?
+Min=16000
+Max=125000
+Antwort_1=0 Europa
+Antwort_2=0 Afrika
+Antwort_3=0 Australien
+Antwort_4=1 Asien
+
+[179]
+FZ1=
+FZ2=Zu welchem Kontinent gehören
+FZ3=Marokko, Ägypten und Nigeria ?
+Min=16000
+Max=125000
+Antwort_1=0 Europa
+Antwort_2=1 Afrika
+Antwort_3=0 Asien
+Antwort_4=0 Amerika
+
+[180]
+FZ1=
+FZ2=Zu welchem Kontinent gehören die Städte
+FZ3=Oslo, Bern und Paris ?
+Min=16000
+Max=125000
+Antwort_1=0 Afrika
+Antwort_2=1 Europa
+Antwort_3=0 Amerika
+Antwort_4=0 Asien
+
+[181]
+FZ1=
+FZ2=Zu welchem Kontinent gehören die Städte
+FZ3=Peking, Kambodscha und Bombay ?
+Min=16000
+Max=125000
+Antwort_1=0 Afrika
+Antwort_2=0 Europa
+Antwort_3=0 Amerika
+Antwort_4=1 Asien
+
+[182]
+FZ1=
+FZ2=Wie heißt der kleinste Kontinent ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 Australien
+Antwort_2=0 Amerika
+Antwort_3=0 Europa
+Antwort_4=0 Asien
+
+[183]
+FZ1=
+FZ2=Zu welchem Kontinent gehört Indien ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 Afrika
+Antwort_2=0 Amerika
+Antwort_3=1 Asien
+Antwort_4=0 Australien
+
+[184]
+FZ1=
+FZ2=Welches Land gehört zu
+FZ3=Europa und zu Asien ?
+Min=16000
+Max=125000
+Antwort_1=1 Türkei
+Antwort_2=0 Schweiz
+Antwort_3=0 Japan
+Antwort_4=0 Nepal
+
+[185]
+FZ1=
+FZ2=Auf welchem Kontinent
+FZ3=gibt es die höchsten Berge der Erde ?
+Min=16000
+Max=125000
+Antwort_1=0 Afrika
+Antwort_2=0 Amerika
+Antwort_3=1 Asien
+Antwort_4=0 Europa
+
+[186]
+FZ1=
+FZ2=Wie nennt man die Ureinwohner
+FZ3=von Australien ?
+Min=32000
+Max=250000
+Antwort_1=1 Aborigines
+Antwort_2=0 Eskimos
+Antwort_3=0 Mongolen
+Antwort_4=0 Indianer
+
+[187]
+FZ1=
+FZ2=Welcher Ozean liegt zwischen
+FZ3=Amerika und Asien ?
+Min=32000
+Max=125000
+Antwort_1=0 Atlantik
+Antwort_2=0 Indische Ozean
+Antwort_3=0 Asiatische Ozean
+Antwort_4=1 Pazifik
+
+[188]
+FZ1=
+FZ2=Welches Meer liegt zwischen
+FZ3=Europa und Afrika ?
+Min=16000
+Max=125000
+Antwort_1=0 Tote Meer
+Antwort_2=1 Mittelmeer
+Antwort_3=0 Kaspische Meer
+Antwort_4=0 Schwarze Meer
+
+[189]
+FZ1=
+FZ2=In welches Meer mündet der Nil ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1 Mittelmeer
+Antwort_2=0 Nordsee
+Antwort_3=0 Südsee
+Antwort_4=0 Atlantik
+
+[190]
+FZ1=
+FZ2=In welches Meer mündet der Amazonas ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0 Pazifik
+Antwort_2=0 Indische Ozean
+Antwort_3=1  Atlantik
+Antwort_4=0 Mittelmeer
+
+[191]
+FZ1=
+FZ2=Welcher Fluss fließt nicht durch Asien ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1 die Donau
+Antwort_2=0 der Indus
+Antwort_3=0 der Jangtsekiang
+Antwort_4=0 der Ganges
+
+[192]
+FZ1=
+FZ2=Welcher Fluss fließt an den
+FZ3=ägyptischen Pyramiden vorbei ?
+Min=16000
+Max=125000
+Antwort_1=0 Loire
+Antwort_2=0 Ems
+Antwort_3=0 Ganges
+Antwort_4=1 Nil
+
+[193]
+FZ1=
+FZ2=Welcher Fluss fließt durch den
+FZ3=größten Regenwald der Welt ?
+Min=64000
+Max=250000
+Antwort_1=0 Mississippi
+Antwort_2=1 Amazonas
+Antwort_3=0 Nil
+Antwort_4=0 Wolga
+
+[194]
+FZ1=
+FZ2=Über welches Meer fährt ein Schiff von
+FZ3=Kiel nach Oslo ?
+Min=32000
+Max=250000
+Antwort_1=1 Ostsee
+Antwort_2=0 Nordsee
+Antwort_3=0 Mittelmeer
+Antwort_4=0 Pazifik
+
+[195]
+FZ1=
+FZ2=In welchem Meer liegt Japan ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1 Pazifik
+Antwort_2=0 Atlantik
+Antwort_3=0 Indischer Ozean
+Antwort_4=0 Mittelmeer
+
+[196]
+FZ1=
+FZ2=Wie heißt die Meerenge
+FZ3=zwischen Frankreich und England ?
+Min=1000
+Max=8000
+Antwort_1=0 Kragenkanal
+Antwort_2=0 Hosenkanal
+Antwort_3=0 Gürtelkanal
+Antwort_4=1 Ärmelkanal
+
+[197]
+FZ1=
+FZ2=Durch welchen See fließt der Rhein ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 Bodensee
+Antwort_2=0 Tegernsee
+Antwort_3=0 Ostsee
+Antwort_4=0 Victoria - See
+
+[198]
+FZ1=
+FZ2=In welchem Ozean liegt
+FZ3=die Insel Madagaskar ?
+Min=64000
+Max=500000
+Antwort_1=0 Pazifik
+Antwort_2=0 Atlantik
+Antwort_3=1 Indischer Ozean
+Antwort_4=0 Afrikanischer Ozean
+
+[199]
+FZ1=
+FZ2=Welcher Tag ist der kürzeste Tag
+FZ3=auf der nördlichen Erdhälfte ?
+Min=32000
+Max=250000
+Antwort_1=1 21. Dezember
+Antwort_2=0 21. Februar
+Antwort_3=0 21. Juli
+Antwort_4=0 21. Oktober
+
+[200]
+FZ1=
+FZ2=Wie heißen die größten Wälder der Erde ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=0 Nebelwälder
+Antwort_2=0 Sonnenwälder
+Antwort_3=1 Regenwälder
+Antwort_4=0 Schneewälder
+
+[201]
+FZ1=
+FZ2=Wie heißen die höchsten Bäume der Erde ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Eukalyptusbäume
+Antwort_2=0Mammutbäume
+Antwort_3=0Eichen
+Antwort_4=0Elefantenbäume
+
+[202]
+FZ1=
+FZ2=Wie hoch können die höchsten Bäume
+FZ3=der Welt werden ?
+Min=125000
+Max=500000
+Antwort_1=0 ca. 100 m
+Antwort_2=0 ca. 80 m
+Antwort_3=0 ca. 60 m
+Antwort_4=1 ca. 150 m
+
+[203]
+FZ1=
+FZ2=Wo wachsen die höchsten Bäume
+FZ3=der Welt ?
+Min=32000
+Max=500000
+Antwort_1=0 Amerika
+Antwort_2=1 Australien
+Antwort_3=0 Afrika
+Antwort_4=0 Asien
+
+[204]
+FZ1=Mammutbäume können leicht 4.000 Jahre
+FZ2=werden. Wie alt ist der älteste Mammutbaum,
+FZ3=der in Kalifornien (USA) steht ?
+Min=250000
+Max=1000000
+Antwort_1=0 6.000 Jahre
+Antwort_2=0 8.000 Jahre
+Antwort_3=1 12.000 Jahre
+Antwort_4=0 10.000 Jahre
+
+[205]
+FZ1=
+FZ2=Welche Temperaturen herrschen
+FZ3=durchschnittlich in den Tiefen der Meere ?
+Min=32000
+Max=250000
+Antwort_1=0 4,5° Celsius
+Antwort_2=1 3,7° Celsius
+Antwort_3=0 1,2° Celsius
+Antwort_4=0 8,4° Celsius
+
+[206]
+FZ1=
+FZ2=Welche Stadt ist von Deutschland
+FZ3=am weitesten entfernt ?
+Min=16000
+Max=125000
+Antwort_1=0 Moskau
+Antwort_2=0 Peking
+Antwort_3=0 Athen
+Antwort_4=1 Tokio
+
+[207]
+FZ1=
+FZ2=Welche dieser Städte liegt am
+FZ3=weitesten im Norden ?
+Min=64000
+Max=250000
+Antwort_1=0 Rom
+Antwort_2=0 Madrid
+Antwort_3=1 Oslo
+Antwort_4=0 Paris
+
+[208]
+FZ1=
+FZ2=Welche dieser Städte liegt am
+FZ3=weitesten im Süden ?
+Min=64000
+Max=500000
+Antwort_1=0 New York
+Antwort_2=0 Kairo
+Antwort_3=1 Kapstadt
+Antwort_4=0 London
+
+[209]
+FZ1=
+FZ2=In welcher Stadt wird russisch gesprochen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0 Budapest
+Antwort_2=0 Singapur
+Antwort_3=0 Rom
+Antwort_4=1 Moskau
+
+[210]
+FZ1=
+FZ2=In welcher Stadt wird mit Dollar bezahlt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0 Helsinki
+Antwort_2=1 New York
+Antwort_3=0 New Delhi
+Antwort_4=0 Dortmund
+
+[211]
+FZ1=
+FZ2=Welche Stadt liegt nicht am Meer ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Athen
+Antwort_2=0 Lissabon
+Antwort_3=0 New York
+Antwort_4=1 Wien
+
+[212]
+FZ1=
+FZ2=In welcher Stadt steht die Freiheitsstatue ?
+FZ3=
+Min=4000
+Max=8000
+Antwort_1=0 San Franzisko
+Antwort_2=1 New York
+Antwort_3=0 Paris
+Antwort_4=0 Las Vegas
+
+[213]
+FZ1=
+FZ2=In welcher Stadt gibt es den
+FZ3="Platz des himmlischen Friedens" ?
+Min=16000
+Max=125000
+Antwort_1=0 Stockholm
+Antwort_2=0 Athen
+Antwort_3=0 Berlin
+Antwort_4=1 Peking
+
+[214]
+FZ1=
+FZ2=In welcher Stadt gibt es den
+FZ3="Roten Platz" ?
+Min=64000
+Max=500000
+Antwort_1=1 Moskau
+Antwort_2=0 Kairo
+Antwort_3=0 Jerusalem
+Antwort_4=0 Bagdad
+
+[215]
+FZ1=
+FZ2=In welcher Stadt steht das
+FZ3="Brandenburger Tor" ?
+Min=8000
+Max=64000
+Antwort_1=1 Berlin
+Antwort_2=0 Köln
+Antwort_3=0 Amsterdam
+Antwort_4=0 Brüssel
+
+[216]
+FZ1=
+FZ2=Wie heißt der Berg in Rio de Janeiro ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1 Zuckerhut
+Antwort_2=0 Salzhut
+Antwort_3=0 Zuckerberg
+Antwort_4=0 Zuckermütze
+
+[217]
+FZ1=
+FZ2=In welcher Stadt gibt es Kanäle anstatt Straßen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0 Rom
+Antwort_2=0  Mailand
+Antwort_3=1 Venedig
+Antwort_4=0 Bern
+
+[218]
+FZ1=
+FZ2=In welcher Stadt steht die
+FZ3="Golden - Gate - Brücke" ?
+Min=32000
+Max=125000
+Antwort_1=0 Melbourne
+Antwort_2=0 Tokio
+Antwort_3=0 Paris
+Antwort_4=1 San Franzisko
+
+[219]
+FZ1=
+FZ2=Welche Stadt liegt in der Nähe
+FZ3=der Pyramiden ?
+Min=32000
+Max=125000
+Antwort_1=0 Kalkutta
+Antwort_2=0 Köln
+Antwort_3=0 Kapstadt
+Antwort_4=1 Kairo
+
+[220]
+FZ1=
+FZ2=In welchem Land steht der Eiffelturm ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Schweden
+Antwort_2=0 Österreich
+Antwort_3=0 Polen
+Antwort_4=1 Frankreich
+
+[221]
+FZ1=
+FZ2=In welchem Land steht der
+FZ3="Schiefe Turm von Pisa" ?
+Min=16000
+Max=250000
+Antwort_1=0 Portugal
+Antwort_2=0 Dänemark
+Antwort_3=1 Italien
+Antwort_4=0 Spanien
+
+[222]
+FZ1=
+FZ2=In welchem Land gibt es
+FZ3=aktive Vulkane ?
+Min=4000
+Max=32000
+Antwort_1=0 Finnland
+Antwort_2=1 Italien
+Antwort_3=0 Niederlande
+Antwort_4=0 Luxemburg
+
+[223]
+FZ1=
+FZ2=Wie heißt der größte Vulkan
+FZ3=in Europa ?
+Min=8000
+Max=64000
+Antwort_1=1 Ätna
+Antwort_2=0 Stromboli
+Antwort_3=0 Ärna
+Antwort_4=0 Gengar
+
+[224]
+FZ1=
+FZ2=Wo liegt der Victoria - See ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Amerika
+Antwort_2=1 Afrika
+Antwort_3=0 Asien
+Antwort_4=0 Australien
+
+[225]
+FZ1=
+FZ2=Welches Tier lebt in Südamerika ?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0 Känguru
+Antwort_2=0 Tiger
+Antwort_3=1 Lama
+Antwort_4=0 Giraffe
+
+[226]
+FZ1=
+FZ2=Welches Land liegt in Afrika ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1 Nigeria
+Antwort_2=0 Norwegen
+Antwort_3=0 Nepal
+Antwort_4=0 Neuseeland
+
+[227]
+FZ1=
+FZ2=Welcher Berg liegt in Afrika ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Mount Everest
+Antwort_2=0 Mount Blanc
+Antwort_3=1 Kilimandscharo
+Antwort_4=0 Fujiyama
+
+[228]
+FZ1=
+FZ2=Welches Land ist von Deutschland
+FZ3=am weitesten entfernt ?
+Min=8000
+Max=64000
+Antwort_1=0 Israel
+Antwort_2=0 Türkei
+Antwort_3=0 Schweden
+Antwort_4=1 Neuseeland
+
+[229]
+FZ1=
+FZ2=Welche Inselgruppe gibt es im Atlantik ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 Malediven
+Antwort_2=1 Kanaren
+Antwort_3=0 Hawaii - Inseln
+Antwort_4=0 Philippinen
+
+[230]
+FZ1=
+FZ2=Welches Land liegt südlich des Äquators ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0 Griechenland
+Antwort_2=0 Ägypten
+Antwort_3=1 Argentinien
+Antwort_4=0 Grönland
+
+[231]
+FZ1=
+FZ2=Was ist keine Wüste ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0 Gobi
+Antwort_2=0 Sahara
+Antwort_3=0 Atacama
+Antwort_4=1 Wolmera
+
+[232]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Südafrika ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Kalkutta
+Antwort_2=0 Kairo
+Antwort_3=0 Kansas
+Antwort_4=1 Kapstadt
+
+[233]
+FZ1=
+FZ2=Wo liegt die Rheinquelle ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 in Deutschland
+Antwort_2=0 in Österreich
+Antwort_3=1 in der Schweiz
+Antwort_4=0 in Frankreich
+
+[234]
+FZ1=
+FZ2=Wo liegt die Insel Kreta ?
+FZ3=
+Min=0
+Max=250000
+Antwort_1=1 im Mittelmeer
+Antwort_2=0 im Pazifik
+Antwort_3=0 im Atlantik
+Antwort_4=0 in der Karibik
+
+[235]
+FZ1=
+FZ2=Wie heißt der größte Staat in Südamerika ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 Bolivien
+Antwort_2=0 Peru
+Antwort_3=0 Chile
+Antwort_4=1 Brasilien
+
+[236]
+FZ1=
+FZ2=Wo kommt Europa Afrika am nächsten ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1 Straße von Gibraltar
+Antwort_2=0 Weg von Sizilien
+Antwort_3=0 Bosporus
+Antwort_4=0 Meerenge von Dover
+
+[237]
+FZ1=
+FZ2=Welches "Pärchen" von Land mit Hauptstadt ist falsch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Dänemark - Kopenhagen
+Antwort_2=0 Polen - Warschau
+Antwort_3=0 Spanien - Madrid
+Antwort_4=1 Finnland - Oslo
+
+[238]
+FZ1=
+FZ2=Welches "Pärchen" von Land mit Hauptstadt ist falsch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Deutschland - Berlin
+Antwort_2=0 Österreich - Wien
+Antwort_3=0 Portugal - Lissabon
+Antwort_4=1 Norwegen - Helsinki
+
+[239]
+FZ1=
+FZ2=Welches "Pärchen" von Land mit Hauptstadt ist falsch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Russland - Moskau
+Antwort_2=1 China - Tokio
+Antwort_3=0 Südafrika - Kapstadt
+Antwort_4=0 USA - Washington
+
+[240]
+FZ1=
+FZ2=Welches "Pärchen" von Land mit Hauptstadt ist falsch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 Schweiz - Bern
+Antwort_2=0 Frankreich - Paris
+Antwort_3=1 Italien - Neapel
+Antwort_4=0 Ägypten - Kairo
+
+[241]
+FZ1=
+FZ2=Warschau, Moskau, Wien und Lissabon sind europäische Hauptstädte.
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0 stimmt nur für eine Stadt
+Antwort_2=0 stimmt für zwei Städte
+Antwort_3=0 stimmt für drei Städte
+Antwort_4=1 stimmt für alle Städte
+
+[242]
+FZ1=
+FZ2=Rom, Berlin, Bern und Rotterdam sind europäische Hauptstädte.
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0 stimmt nur für eine Stadt
+Antwort_2=0 stimmt für zwei Städte
+Antwort_3=1 stimmt für drei Städte
+Antwort_4=0 stimmt für alle Städte
+
+[243]
+FZ1=
+FZ2=Mailand, Paris, Bonn und Nizza sind europäische Hauptstädte.
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1 stimmt nur für eine Stadt
+Antwort_2=0 stimmt für zwei Städte
+Antwort_3=0 stimmt für drei Städte
+Antwort_4=0 stimmt für alle Städte
+
+[244]
+FZ1=
+FZ2=Welche Meere verbindet der Skagerrak ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0 Nordsee und Atlantik
+Antwort_2=0 Mittelmeer und Atlantik
+Antwort_3=1 Nordsee und Ostsee
+Antwort_4=0 Schwarzes Meer und Mittelmeer
+
+[245]
+FZ1=
+FZ2=Zu welchem Land hat Frankreich keinen
+FZ3=direkten Grenzkontakt ?
+Min=8000
+Max=125000
+Antwort_1=1 Österreich
+Antwort_2=0 Schweiz
+Antwort_3=0 Spanien
+Antwort_4=0 Luxemburg
+
+[246]
+FZ1=
+FZ2=Wie heißt die größte Insel im Mittelmeer ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 Sizilien
+Antwort_2=0 Sardinien
+Antwort_3=0 Korsika
+Antwort_4=0 Kreta
+
+[247]
+FZ1=
+FZ2=Wie lange braucht die Erde, um sich
+FZ3=einmal um sich selbst zu drehen ?
+Min=200
+Max=1000
+Antwort_1=0 12 Stunden
+Antwort_2=1 24 Stunden
+Antwort_3=0 36 Stunden
+Antwort_4=0 48 Stunden
+
+[248]
+FZ1=
+FZ2=Wie lange braucht die Erde, um sich
+FZ3=einmal um die Sonne zu drehen ?
+Min=200
+Max=1000
+Antwort_1=0 6 Monate
+Antwort_2=1 12 Monate
+Antwort_3=0 24 Monate
+Antwort_4=0 1 Monat
+
+[249]
+FZ1=
+FZ2=Wie dreht sich die Erde
+FZ3=um die Sonne ?
+Min=8000
+Max=64000
+Antwort_1=0 kreisförmig
+Antwort_2=0 in einer Achterschleife
+Antwort_3=1 ellipsenförmig
+Antwort_4=0 rechteckig
+
+[250]
+FZ1=
+FZ2=Wie viel mal schwerer als der
+FZ3=Mond ist die Erde ?
+Min=125000
+Max=500000
+Antwort_1=0 14  - mal
+Antwort_2=1 81 -  mal
+Antwort_3=0 53 -  mal
+Antwort_4=0 39 -  mal
+
+[251]
+FZ1=
+FZ2=Wie viele Meteoritenkrater
+FZ3=kennen wir auf der Erde ?
+Min=250000
+Max=1000000
+Antwort_1=0 ca. 10
+Antwort_2=0 ca. 1000
+Antwort_3=0 ca. 10.000
+Antwort_4=1 ca. 1000
+
+[252]
+FZ1=
+FZ2=Wie nennt man die Lufthülle
+FZ3=um die Erde ?
+Min=1000
+Max=32000
+Antwort_1=0 Erdhülle
+Antwort_2=0 Erdluft
+Antwort_3=1 Erdatmosphäre
+Antwort_4=0 Luftsphäre
+
+[253]
+FZ1=
+FZ2=Was ist keine Schicht der
+FZ3=Erdatmosphäre ?
+Min=250000
+Max=500000
+Antwort_1=1 Salsosphäre
+Antwort_2=0 Exospäre
+Antwort_3=0 Mesosphäre
+Antwort_4=0 Stratosphäre
+
+[254]
+FZ1=
+FZ2=Welcher Teil der Erdatmosphäre
+FZ3=ist stark geschädigt ?
+Min=16000
+Max=125000
+Antwort_1=0 die Wolkenschicht
+Antwort_2=0 die Luftschicht
+Antwort_3=0 die Tagschicht
+Antwort_4=1 die Ozonschicht
+
+[255]
+FZ1=Wie nennt man die Schicht in der
+FZ2=Erdatmosphäre, die die Erde vor
+FZ3=der ultravioletten Strahlung schützt ?
+Min=8000
+Max=64000
+Antwort_1=0 Odolschicht
+Antwort_2=0 Neonschicht
+Antwort_3=1 Ozonschicht
+Antwort_4=0 Geoschicht
+
+[256]
+FZ1=
+FZ2=Wie heißen die Ureinwohner Amerikas ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1 Indianer
+Antwort_2=0 Amis
+Antwort_3=0 Eskimos
+Antwort_4=0 Cowboys
+
+[257]
+FZ1=
+FZ2=Wie alt ist die Erde ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 ca. 3 Milliarden Jahre
+Antwort_2=0 ca. 8 Milliarden Jahre
+Antwort_3=0 ca. 1,5 Milliarden Jahre
+Antwort_4=1 ca. 4,5 Milliarden Jahre
+
+[258]
+FZ1=
+FZ2=Wie viele Schichten hat der Erdboden ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0 1
+Antwort_2=0 2
+Antwort_3=1 3
+Antwort_4=0 4
+
+[259]
+FZ1=
+FZ2=Wie nennt man die obere Schicht des Erdbodens ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0 Blume
+Antwort_2=1 Krume
+Antwort_3=0 Strume
+Antwort_4=0 Pilume
+
+[260]
+FZ1=
+FZ2=Wie nennt man einen
+FZ3="Feuer spuckenden" Berg ?
+Min=0
+Max=1000
+Antwort_1=0 Krater
+Antwort_2=0 Gletscher
+Antwort_3=1 Vulkan
+Antwort_4=0 Feuerberg
+
+[261]
+FZ1=
+FZ2=Wer entdeckte Amerika ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1 Christopher Kolumbus
+Antwort_2=0 Sven Hedin
+Antwort_3=0 Marco Polo
+Antwort_4=0 Julius Cäsar
+
+[262]
+FZ1=
+FZ2=Wo befindet sich der tropische Regenwald ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0 in Nordpolnähe
+Antwort_2=0  in Südpolnähe
+Antwort_3=0  nur in Australien
+Antwort_4=1 in der Nähe des Äquators
+
+[263]
+FZ1=
+FZ2=Welches Klima herrscht
+FZ3=im tropischen Regenwald ?
+Min=500
+Max=2000
+Antwort_1=0 trocken und heiß
+Antwort_2=1 feucht und warm
+Antwort_3=0 kalt und neblig
+Antwort_4=0 trocken und kalt
+
+[264]
+FZ1=
+FZ2=Welche Durchschnittstemperatur herrscht
+FZ3=im tropischen Regenwald ?
+Min=64000
+Max=500000
+Antwort_1=1 26° Celsius
+Antwort_2=0 28° Celsius
+Antwort_3=0 30° Celsius
+Antwort_4=0 32° Celsius
+
+[265]
+FZ1=
+FZ2=Wie hoch ist die durchschnittliche
+FZ3=Luftfeuchtigkeit im tropischen Regenwald ?
+Min=32000
+Max=250000
+Antwort_1=0 50 %
+Antwort_2=0  60 %
+Antwort_3=0  70 %
+Antwort_4=1  80 %
+
+[266]
+FZ1=
+FZ2=Wie alt ist der tropische Regenwald ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1  über 60 Millionen Jahre
+Antwort_2=0  20 - 40 Millionen Jahre
+Antwort_3=0  ca. 10 Millionen Jahre
+Antwort_4=0 weniger als 5 Millionen Jahre
+
+[267]
+FZ1=
+FZ2=Wie heißt das größte Raubtier des
+FZ3=südamerikanischen Regenwaldes ?
+Min=2000
+Max=32000
+Antwort_1=0 Tiger
+Antwort_2=1 Jaguar
+Antwort_3=0 Puma
+Antwort_4=0 Löwe
+
+[268]
+FZ1=
+FZ2=Welche Wüste liegt nicht in Afrika ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1  Gobi
+Antwort_2=0  Namib
+Antwort_3=0  Kalahari
+Antwort_4=0 Sahara
+
+[269]
+FZ1=
+FZ2=Wie hoch ist der Felsblock "Ayers Rock"
+FZ3=in Australien ?
+Min=32000
+Max=250000
+Antwort_1=0 250 m
+Antwort_2=0  630 m
+Antwort_3=1  400 m
+Antwort_4=0 800 m
+
+[270]
+FZ1=
+FZ2=In welchem Land liegt die Atacama - Wüste ?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1 Chile
+Antwort_2=0  Bolivien
+Antwort_3=0  China
+Antwort_4=0 Marokko
+
+[271]
+FZ1=
+FZ2=Wie lang ist die Atacama - Wüste ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=0 200 km
+Antwort_2=0  500 km
+Antwort_3=0  1500 km
+Antwort_4=1 1000 km
+
+[272]
+FZ1=
+FZ2=Wie nennt man die nomadischen Hirtenvölker,
+FZ3=die auch durch die Wüsten ziehen ?
+Min=2000
+Max=32000
+Antwort_1=1  Beduinen
+Antwort_2=0  Mongolen
+Antwort_3=0  Bekassen
+Antwort_4=0 Ruinen
+
+[273]
+FZ1=
+FZ2=Wo liegt die Wüste Gobi ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 in Afrika
+Antwort_2=0  in Australien
+Antwort_3=0  in Europa
+Antwort_4=1 in Asien
+
+[274]
+FZ1=
+FZ2=Was ist eine typische Wüstenpflanze ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Palme
+Antwort_2=1 Kaktus
+Antwort_3=0 Kürbis
+Antwort_4=0 Orchidee
+
+[275]
+FZ1=
+FZ2=Wo leben die Pinguine ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 am Südpol
+Antwort_2=0  am Nordpol
+Antwort_3=0  am Nord -  und Südpol
+Antwort_4=0 am Äquator
+
+[276]
+FZ1=
+FZ2=Wo leben die Eisbären ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0 am Südpol
+Antwort_2=0  am Nord -  und Südpol
+Antwort_3=1 am Nordpol
+Antwort_4=0 am Äquator
+
+[277]
+FZ1=
+FZ2=Die Polarweide ist der kleinste Baum der Welt.
+FZ3=Wie groß wird er ?
+Min=64000
+Max=500000
+Antwort_1=0 1 cm
+Antwort_2=1  2 - 3 cm
+Antwort_3=0  ca. 5 cm
+Antwort_4=0 etwa 12 cm
+
+[278]
+FZ1=
+FZ2=Wo liegt die Arktis ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1 am Nordpol
+Antwort_2=0 am Südpol
+Antwort_3=0 am Äquator
+Antwort_4=0 vor Australien
+
+[279]
+FZ1=
+FZ2=Der Saguaro ist ein riesiger Kaktus, der 200 Jahre
+FZ3=alt werden kann. Wie groß wird er ?
+Min=32000
+Max=250000
+Antwort_1=0  ca. 5 m
+Antwort_2=0  ca. 11 m
+Antwort_3=1  ca. 15 m
+Antwort_4=0 ca. 9 m
+
+[280]
+FZ1=In der Kalahari - Wüste lebt eines der primitivsten
+FZ2=Völker der Welt. Man schätzt ihre Zahl auf
+FZ3=10. 000 Menschen. Wie heißen sie ?
+Min=4000
+Max=32000
+Antwort_1=1 Buschmänner
+Antwort_2=0 Grasmänner
+Antwort_3=0 Baummänner
+Antwort_4=0 Waldmänner
+
+[281]
+FZ1=Es gibt etwa 5.000 Eingeborene der
+FZ2=australischen Wüste. Sie heißen Bindibu.
+FZ3=Womit jagen sie auch ?
+Min=4000
+Max=64000
+Antwort_1=0 Armbrust
+Antwort_2=0 Gewehr
+Antwort_3=0 Pistole
+Antwort_4=1 Bumerang
+
+[282]
+FZ1=
+FZ2=Wie heißt die kälteste aller Wüsten ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1 Gobi
+Antwort_2=0 Kalahari
+Antwort_3=0 Atacama
+Antwort_4=0 Sahara
+
+[283]
+FZ1=
+FZ2=Wo liegt die Antarktis ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=0 am Nordpol
+Antwort_2=1  am Südpol
+Antwort_3=0  am Äquator
+Antwort_4=0  vor Grönland
+
+[284]
+FZ1=Wie nennt man die Gegend im Nordpolargebiet
+FZ2=zwischen der Baumgrenze im Süden und
+FZ3=dem ewigen Eis im Norden ?
+Min=4000
+Max=32000
+Antwort_1=0 Savanne
+Antwort_2=0 Steppe
+Antwort_3=1 Tundra
+Antwort_4=0 Wüste
+
+[285]
+FZ1=
+FZ2=Welche Pole gibt es auf der Erde ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Ost-  und Westpol
+Antwort_2=1 Nord-  und Südpol
+Antwort_3=0 Nord-, West-, Süd- und Ostpol
+Antwort_4=0 Nord- und Westpol
+
+[286]
+FZ1=
+FZ2=Wie heißt die größte Schlucht der Erde ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1 Grand Canyon
+Antwort_2=0 Dead Valley
+Antwort_3=0 Harley Davidson
+Antwort_4=0 Big Mountain
+
+[287]
+FZ1=
+FZ2=Wie lang ist die größte Schlucht der Erde ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0  ca. 211 km
+Antwort_2=1 ca. 446 km
+Antwort_3=0 ca. 357 km
+Antwort_4=0 ca. 109 km
+
+[288]
+FZ1=
+FZ2=Wie tief ist die größte Schlucht der Erde
+FZ3=im Durchschnitt ?
+Min=32000
+Max=250000
+Antwort_1=0 1000 m
+Antwort_2=0  750 m
+Antwort_3=1 1600 m
+Antwort_4=0  2400 m
+
+[289]
+FZ1=
+FZ2=Wie breit ist die größte Schlucht der Erde
+FZ3=im Durchschnitt ?
+Min=32000
+Max=250000
+Antwort_1=0  3 km
+Antwort_2=1  16 km
+Antwort_3=0  7 km
+Antwort_4=0  10 km
+
+[290]
+FZ1=
+FZ2=Welcher Fluss fließt durch
+FZ3=die größte Schlucht der Erde ?
+Min=16000
+Max=125000
+Antwort_1=0 Amazonas
+Antwort_2=0 Mississippi
+Antwort_3=0 Nil
+Antwort_4=1 Colorado
+
+[291]
+FZ1=
+FZ2=In welchem Land befindet sich
+FZ3=die größte Schlucht der Erde ?
+Min=8000
+Max=64000
+Antwort_1=0  Ägypten
+Antwort_2=1  USA
+Antwort_3=0  Indien
+Antwort_4=0  China
+
+[292]
+FZ1=
+FZ2=Seit wie vielen Jahren gab es in der
+FZ3=Atacama - Wüste keinen Regen ?
+Min=64000
+Max=500000
+Antwort_1=0 seit 100 Jahren
+Antwort_2=0 seit 200 Jahren
+Antwort_3=1 seit 400 Jahren
+Antwort_4=0 seit 300 Jahren
+
+[293]
+FZ1=Wo befindet sich die tiefstgelegene
+FZ2=Senke an Land ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Ruanda
+Antwort_2=1 Jordanien
+Antwort_3=0 Australien
+Antwort_4=0 Ecuador
+
+[294]
+FZ1=
+FZ2=Wie tief ist die tiefstgelegene
+FZ3=Senke an Land ?
+Min=250000
+Max=1000000
+Antwort_1=1 400 m unter dem Meeresspiegel
+Antwort_2=0 300 m unter dem Meeresspiegel
+Antwort_3=0 200 m unter dem Meeresspiegel
+Antwort_4=0 100 m unter dem Meeresspiegel
+
+[295]
+FZ1=
+FZ2=Wo liegt der tiefste See der Erde ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0  in Kanada
+Antwort_2=1  in Russland
+Antwort_3=0  in Südafrika
+Antwort_4=0  in Argentinien
+
+[296]
+FZ1=
+FZ2=Wie heißt der tiefste See der Erde ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=0 Bodensee
+Antwort_2=0 Victoriasee
+Antwort_3=1 Baikalsee
+Antwort_4=0 Michigansee
+
+[297]
+FZ1=
+FZ2=Wie lang ist der Felsblock "Ayers Rock"
+FZ3=in Australien ?
+Min=250000
+Max=1000000
+Antwort_1=0 1,3 km
+Antwort_2=1 3,1 km
+Antwort_3=0 2,4 km
+Antwort_4=0 4,2 km
+
+[298]
+FZ1=Wie nennt man die Ebenen in Afrika, in denen
+FZ2=vor allem hohes Gras, aber auch einige Büsche
+FZ3=oder einzelne Bäume wachsen ?
+Min=32000
+Max=250000
+Antwort_1=1 Savanne
+Antwort_2=0 Steppe
+Antwort_3=0 Tundra
+Antwort_4=0 Wüste
+
+[299]
+FZ1=Wie nennt man die Landschaften, in denen es
+FZ2=nur Gräser, Kräuter und Sträucher aber keine Bäume
+FZ3=gibt und wo es meistens sehr warm und trocken ist ?
+Min=32000
+Max=250000
+Antwort_1=0 Savanne
+Antwort_2=0 Tundra
+Antwort_3=1 Steppe
+Antwort_4=0 Wüste
+
+[300]
+FZ1=
+FZ2=Wie tief ist der tiefste See der Erde ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1 1.637 m
+Antwort_2=0 1.064 m
+Antwort_3=0 1.285 m
+Antwort_4=0 1.962 m
+
+[301]
+FZ1=
+FZ2=Wie nennt man die Steppen in Nordamerika ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0 Marien
+Antwort_2=0 Larrien
+Antwort_3=0 Salinen
+Antwort_4=1 Prärien
+
+[302]
+FZ1=
+FZ2=Wie nennt man die heißen Gegenden,
+FZ3=in denen es kaum Wasser gibt ?
+Min=0
+Max=1000
+Antwort_1=0 Wälder
+Antwort_2=1 Wüsten
+Antwort_3=0 Tropen
+Antwort_4=0 Polargebiet
+

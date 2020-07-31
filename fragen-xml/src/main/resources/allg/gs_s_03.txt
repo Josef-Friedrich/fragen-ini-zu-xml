@@ -1,0 +1,1083 @@
+[Thema]
+Thema= Grundschule E
+Fragen=98
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie nennt man einen Arzt der Sprachheilkunde ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1	 Logopäde
+Antwort_2=0	 Chirurg
+Antwort_3=0	 Dentist
+Antwort_4=0	  Othologe
+
+[2]
+FZ1=
+FZ2=Welche dieser Nordfriesischen Inseln
+FZ3=gehört nicht zu Deutschland, sondern zu Dänemark ?
+Min=0
+Max=100
+Antwort_1=0	 Föhr
+Antwort_2=1	 Römö
+Antwort_3=0	 Nordstrand
+Antwort_4=0	 Pellworm
+
+[3]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt
+FZ3=von Baden - Württemberg ?
+Min=0
+Max=100
+Antwort_1=0	 Karlsruhe
+Antwort_2=1	 Stuttgart
+Antwort_3=0	 Freiburg
+Antwort_4=0	 Mannheim
+
+[4]
+FZ1=
+FZ2=Welche dieser Inseln liegt in der Deutschen Bucht ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 Mallorca
+Antwort_2=0	 Rügen
+Antwort_3=1	 Helgoland
+Antwort_4=0	 Mainau
+
+[5]
+FZ1=
+FZ2=Der Zoo welcher deutschen Stadt heißt Wilhelma ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 Wilhelmshaven
+Antwort_2=1	 Stuttgart
+Antwort_3=0	 Berlin
+Antwort_4=0	 Frankfurt
+
+[6]
+FZ1=
+FZ2=Wie lautet die Abkürzung für den
+FZ3=Deutschen Aktienindex ?
+Min=0
+Max=100
+Antwort_1=0	 Wiesel
+Antwort_2=0	 Marder
+Antwort_3=0	 Luchs
+Antwort_4=1	 Dax
+
+[7]
+FZ1=
+FZ2=In welchem Monat beginnt jedes Jahr in München das Oktoberfest ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=0	 August
+Antwort_2=0	 Oktober
+Antwort_3=1	 September
+Antwort_4=0	 Juli
+
+[8]
+FZ1=
+FZ2=Wie lautet die bayrisch - österreichische Bezeichnung für Sahne ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Creme
+Antwort_2=0	 Milch
+Antwort_3=0	 Unters
+Antwort_4=1	 Obers
+
+[9]
+FZ1=
+FZ2=Wie heißt der Meeresarm zwischen England und Frankreich ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Kragenkanal
+Antwort_2=0	 Manschettenkanal
+Antwort_3=0	 Hosenkanal
+Antwort_4=1	 Ärmelkanal
+
+[10]
+FZ1=
+FZ2=Wie viele Wochen dauert die Trächtigkeit bei Hunden ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 3
+Antwort_2=1	 9
+Antwort_3=0	 5
+Antwort_4=0	 40
+
+[11]
+FZ1=
+FZ2=Welcher weltberühmte Maler schnitt sich einen
+FZ3=Teil seines linken Ohres ab ?
+Min=200
+Max=200
+Antwort_1=0	 Dürer
+Antwort_2=0	 Hals
+Antwort_3=0	 Rubens
+Antwort_4=1	 van Gogh
+
+[12]
+FZ1=
+FZ2=In welcher Einheit misst man die
+FZ3=Geschwindigkeit eines Schiffes ?
+Min=200
+Max=200
+Antwort_1=0	 Schleifen
+Antwort_2=1	 Knoten
+Antwort_3=0	 Maschen
+Antwort_4=0	 Ketten
+
+[13]
+FZ1=
+FZ2=Was ergeben mehrere Gemüsearten zusammengemischt ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0	 Berliner Durcheinander
+Antwort_2=0	 Dresdner Chaos
+Antwort_3=0	 Magdeburger Mischmasch
+Antwort_4=1	 Leipziger Allerlei
+
+[14]
+FZ1=
+FZ2=Mit welchem Bundesland ist Sylt verbunden ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1	 Schleswig - Holstein
+Antwort_2=0	 Nordrhein - Westfalen
+Antwort_3=0	 Rheinland - Pfalz
+Antwort_4=0	  Mecklenburg - Vorpommern
+
+[15]
+FZ1=
+FZ2=Was ist die Silberbüchse ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1	 das Gewehr Winnetous
+Antwort_2=0	 Kosename für die Mercedes A - Klasse
+Antwort_3=0	 das Schmuckdöschen von Sissi
+Antwort_4=0	 der Klingelbeutel in der Kirche
+
+[16]
+FZ1=
+FZ2=Welche Süßigkeit wird aus der Wurzel der
+FZ3=Süßholzstaude gemacht ?
+Min=300
+Max=300
+Antwort_1=1	 Lakritze
+Antwort_2=0	 Gummibären
+Antwort_3=0	 Negerkuss
+Antwort_4=0	 Zuckerwatte
+
+[17]
+FZ1=
+FZ2=Wie nennt man den Wasserstrahl eines Springbrunnens ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 Fontanelle
+Antwort_2=0	  Lava
+Antwort_3=1	 Fontäne
+Antwort_4=0	 Fondue
+
+[18]
+FZ1=
+FZ2=Wer ist der Dalai - Lama ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 männlicher Anführer einer Lamaherde
+Antwort_2=0	 afrikanischer Krankheitserreger
+Antwort_3=0	 teuerster Diamant der Welt
+Antwort_4=1 Oberhaupt des tibetanischen Buddhismus
+
+[19]
+FZ1=
+FZ2=Womit misst man den Luftdruck ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 Thermometer
+Antwort_2=0	 Zentimeter
+Antwort_3=0	 Chronometer
+Antwort_4=1	 Barometer
+
+[20]
+FZ1=
+FZ2=Wie nennt man die Adern, die vom Herzen wegführen ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0	 Bermudas
+Antwort_2=0	 Kanaren
+Antwort_3=0	 Balearen
+Antwort_4=1	 Arterien
+
+[21]
+FZ1=
+FZ2=Der Kirchturm des Münsters in Ulm
+FZ3=ist der höchste ... ?
+Min=300
+Max=300
+Antwort_1=0	 Baden - Württembergs
+Antwort_2=0	 Deutschlands
+Antwort_3=0	 Europas
+Antwort_4=1	 der Welt
+
+[22]
+FZ1=
+FZ2=Welches Tier ist auf dem Landeswappen von Brandenburg ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 weiße Maus
+Antwort_2=1	 roter Adler
+Antwort_3=0	 grüner Frosch
+Antwort_4=0	 gelber Hund
+
+[23]
+FZ1=
+FZ2=In welcher Stadt findet alljährlich die größte
+FZ3=Buchmesse im deutschen Sprachraum statt ?
+Min=500
+Max=500
+Antwort_1=1	 Frankfurt/ Main
+Antwort_2=0	 Zürich
+Antwort_3=0	 Berlin
+Antwort_4=0	 Wien
+
+[24]
+FZ1=
+FZ2=Zu welchem Gebirge gehört der Schneeberg ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 Hunsrück
+Antwort_2=1	 Fichtelgebirge
+Antwort_3=0	 Westerwald
+Antwort_4=0	 Rhön
+
+[25]
+FZ1=
+FZ2=Welches Tier ist der Vater eines Maulesels ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 Esel
+Antwort_2=0	 Maulwurf
+Antwort_3=1	 Pferd
+Antwort_4=0	 Maulbrüter
+
+[26]
+FZ1=
+FZ2=Die Mutter eines Maultieres ist ein ... ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1	 Pferd
+Antwort_2=0	 Lama
+Antwort_3=0	 Esel
+Antwort_4=0	 Maulwurf
+
+[27]
+FZ1=
+FZ2=Welche Sprache wird in der Toskana gesprochen ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0	 Französisch
+Antwort_2=0	 Toskanisch
+Antwort_3=1	 Italienisch
+Antwort_4=0	 Spanisch
+
+[28]
+FZ1=
+FZ2=Wohin kommt man, wenn man auf der Erde immer
+FZ3=in Richtung Polarstern fährt ?
+Min=500
+Max=500
+Antwort_1=0	 nach Amerika
+Antwort_2=0	 nach Polen
+Antwort_3=0	 ins Niemandsland
+Antwort_4=1	 zum Nordpol
+
+[29]
+FZ1=
+FZ2=Eine Comicserie über die Wikinger heißt
+FZ3="Hägar der ... " ?
+Min=1000
+Max=1000
+Antwort_1=0	 Jäger
+Antwort_2=1	 Schreckliche
+Antwort_3=0	 Grausame
+Antwort_4=0	 Hinterhältige
+
+[30]
+FZ1=
+FZ2=Mit welcher Wolle kann man weder stricken noch häkeln ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 Baumwolle
+Antwort_2=0	 Schurwolle
+Antwort_3=1	 Holzwolle
+Antwort_4=0	 Schafwolle
+
+[31]
+FZ1=
+FZ2=Wie nennt man einen Facharzt für innere Krankheiten noch ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 Interno
+Antwort_2=0	 Innerist
+Antwort_3=0	 Interner
+Antwort_4=1	 Internist
+
+[32]
+FZ1=
+FZ2=Welche Bedeutung hat der Drache für die Chinesen ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 Feuerwerk
+Antwort_2=0	 Kampf
+Antwort_3=0	 Tod
+Antwort_4=1	 Glück
+
+[33]
+FZ1=
+FZ2=Gibt es Lebewesen mit blauem Blut ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 ja, alle Tiere haben blaues Blut
+Antwort_2=0	 nein, Blut ist immer rot
+Antwort_3=1	 ja, Spinnen, Schnecken und Skorpione
+Antwort_4=0	 ja, adelige Menschen
+
+[34]
+FZ1=
+FZ2=Was ist eine Schattenmorelle ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1	 Kirsche
+Antwort_2=0	 Speisefisch
+Antwort_3=0	 Palme
+Antwort_4=0	 Schnecke
+
+[35]
+FZ1=
+FZ2=Welche ostdeutsche Stadt ist berühmt für ihre Christstollen ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0	 Frankfurt
+Antwort_2=0	 Magdeburg
+Antwort_3=0	 Jena
+Antwort_4=1	 Dresden
+
+[36]
+FZ1=
+FZ2=Wie wird das Heidekraut in Deutschland noch bezeichnet ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 Claudia
+Antwort_2=0	 Petra
+Antwort_3=1	 Erika
+Antwort_4=0	 Klara
+
+[37]
+FZ1=
+FZ2=Welche deutsche Mannschaft wurde bis 2002 am
+FZ3=häufigsten Deutscher Meister im Fußball ?
+Min=2000
+Max=2000
+Antwort_1=1	 Bayern München
+Antwort_2=0	 Borussia Dortmund
+Antwort_3=0	 Schalke 04
+Antwort_4=0	 1. FC Nürnberg
+
+[38]
+FZ1=
+FZ2=Was ist keine Verbindung zwischen
+FZ3=Ost- und Nordsee ?
+Min=2000
+Max=2000
+Antwort_1=0	 Kleiner Belt
+Antwort_2=0	 Großer Belt
+Antwort_3=0	 Öresund
+Antwort_4=1	 Beringstraße
+
+[39]
+FZ1=
+FZ2=Auf welchem Kontinent liegt Syrien ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 Afrika
+Antwort_2=1	 Asien
+Antwort_3=0	 Australien
+Antwort_4=0	 Europa
+
+[40]
+FZ1=
+FZ2=Was ist ein "Orca" ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1	 Killerwal
+Antwort_2=0	 Hai
+Antwort_3=0	 Rochen
+Antwort_4=0	 Delfin
+
+[41]
+FZ1=
+FZ2=Welcher Schriftsteller schreib "Gullivers Reisen" ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0	 Daniel Defoe
+Antwort_2=0	 Karl May
+Antwort_3=0	 Joanne K. Rowling
+Antwort_4=1	 Jonathan Swift
+
+[42]
+FZ1=
+FZ2=Wie lautet der Segen, den der Papst jedes
+FZ3=Jahr zu Ostern erteilt ?
+Min=2000
+Max=2000
+Antwort_1=0	 Ora et labora
+Antwort_2=0	 Ave Maria
+Antwort_3=1	 Urbi et orbi
+Antwort_4=0	 Mette
+
+[43]
+FZ1=
+FZ2=Was ist ein Prädikat ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	 ein Satzteil
+Antwort_2=0	 ein Konsonant
+Antwort_3=0	 eine Formel
+Antwort_4=0	 ein Satzzeichen
+
+[44]
+FZ1=
+FZ2=Was ist die "Blaue Mauritius" ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	 eine Briefmarke
+Antwort_2=0	 eine Münze
+Antwort_3=0	 eine Orchidee
+Antwort_4=0	 eine Schnecke
+
+[45]
+FZ1=
+FZ2=Welches Bauwerk auf der Erde kann man vom
+FZ3=Mond aus mit bloßem Auge sehen ?
+Min=4000
+Max=4000
+Antwort_1=1	 Chinesische Mauer
+Antwort_2=0	 Eiffelturm
+Antwort_3=0	 Pyramiden
+Antwort_4=0	 Freiheitsstatue
+
+[46]
+FZ1=
+FZ2=Durch die Drehung welchen Himmelskörpers
+FZ3=entsteht der Wechsel zwischen Tag und Nacht ?
+Min=4000
+Max=4000
+Antwort_1=0	 Sonne
+Antwort_2=0	 Mond
+Antwort_3=1	 Erde
+Antwort_4=0	 Mars
+
+[47]
+FZ1=
+FZ2=Ein Minotaurus ist ein Zwitterwesen
+FZ3=aus Mensch und ... ?
+Min=4000
+Max=4000
+Antwort_1=1	 Stier
+Antwort_2=0	 Löwe
+Antwort_3=0	 Adler
+Antwort_4=0	 Ziege
+
+[48]
+FZ1=
+FZ2=Wie heißt der längste Fluss in Europa ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1	 Wolga
+Antwort_2=0	 Donau
+Antwort_3=0	 Rhein
+Antwort_4=0	 Seine
+
+[49]
+FZ1=
+FZ2=Welche Farbe gehört nicht zu den Grundfarben ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0	 rot
+Antwort_2=1	 grün
+Antwort_3=0	 blau
+Antwort_4=0	 gelb
+
+[50]
+FZ1=
+FZ2=Was ist eine Balalaika
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	 Seiteninstrument
+Antwort_2=0	 Fischgericht
+Antwort_3=0	 Zeichentrickfigur
+Antwort_4=0	 CD - ROM
+
+[51]
+FZ1=
+FZ2=Womit atmet eine Muschel ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0	 Lunge
+Antwort_2=1	 Kiemen
+Antwort_3=0	 Perle
+Antwort_4=0	 Saugfuß
+
+[52]
+FZ1=
+FZ2=Welches Bundesland hat die meisten Einwohner ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	 Nordrhein - Westfalen
+Antwort_2=0	 Bayern
+Antwort_3=0	 Sachsen
+Antwort_4=0	 Thüringen
+
+[53]
+FZ1=
+FZ2=In welcher deutschen Stadt lebten die Fugger ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0	 Stuttgart
+Antwort_2=1	  Augsburg
+Antwort_3=0	 Kempten
+Antwort_4=0	 Bochum
+
+[54]
+FZ1=
+FZ2=Was sieht man auf dem Landeswappen von Hamburg ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	 Burg
+Antwort_2=0	 Pferd
+Antwort_3=0	 Ritterhelm
+Antwort_4=0	 Schiff
+
+[55]
+FZ1=
+FZ2=Wer oder was ist Labskaus ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0	 Fisch aus der Ostsee
+Antwort_2=0	 polnische Stadt
+Antwort_3=0	 deutscher Maler
+Antwort_4=1	 Eintopfgericht aus Norddeutschland
+
+[56]
+FZ1=
+FZ2=Welche dieser Tiere sind Primaten ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1	 Affen
+Antwort_2=0	 Pferde
+Antwort_3=0	 Vögel
+Antwort_4=0	 Hunde
+
+[57]
+FZ1=
+FZ2=Welchen Wert hat die römische Ziffer "D" ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 500
+Antwort_2=0	 1.000
+Antwort_3=0	 100
+Antwort_4=0	 1
+
+[58]
+FZ1=
+FZ2=Ottawa ist die Hauptstadt von ... ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0	 China
+Antwort_2=1	 Kanada
+Antwort_3=0	 Großbritannien
+Antwort_4=0	 Brasilien
+
+[59]
+FZ1=
+FZ2=Von wem stammt die Geschichte
+FZ3="Alice im Wunderland" ?
+Min=16000
+Max=16000
+Antwort_1=1	 Lewis Carroll
+Antwort_2=0	 Charles Dickens
+Antwort_3=0	 Daniel Defoe
+Antwort_4=0	 Karl May
+
+[60]
+FZ1=
+FZ2=Welche ist keine Musikstil-Epoche ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 Kommunismus
+Antwort_2=0	 Klassik
+Antwort_3=0	 Romantik
+Antwort_4=0	 Barock
+
+[61]
+FZ1=
+FZ2=Wer war nie amerikanischer Präsident ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0	 George Bush
+Antwort_2=0	 Ronald Reagen
+Antwort_3=0	 Jimmy Carter
+Antwort_4=1	 John Wayne
+
+[62]
+FZ1=
+FZ2=Dublin ist die Hauptstadt von ... ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 Irland
+Antwort_2=0	 Irland
+Antwort_3=0	 Großbritannien
+Antwort_4=0	 Dänemark
+
+[63]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Südafrika ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1	 Kapstadt
+Antwort_2=0	 Pretoria
+Antwort_3=0	 Port Elizabeth
+Antwort_4=0	 Johannesburg
+
+[64]
+FZ1=
+FZ2=Wie heißt der germanische Gott des Donners ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0	 Rumms
+Antwort_2=0	 Dhonar
+Antwort_3=0	 Thonet
+Antwort_4=1	 Thor
+
+[65]
+FZ1=
+FZ2=Wie nennt man das Gesetz zur Ausbildungsförderung
+FZ3=von Schülern und Studenten in Deutschland ?
+Min=32000
+Max=32000
+Antwort_1=1	 BaföG
+Antwort_2=0	 Stütze
+Antwort_3=0	 G.A.S.
+Antwort_4=0	 LAUregel
+
+[66]
+FZ1=
+FZ2=Welchen Beinamen trug der
+FZ3=deutsche Kaiser Friedrich I. ?
+Min=32000
+Max=32000
+Antwort_1=1	 Barbarossa
+Antwort_2=0	 Barbar
+Antwort_3=0	 Barbino
+Antwort_4=0	 Barbaratello
+
+[67]
+FZ1=
+FZ2=Wie viele Rippenpaare hat der Mensch ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1	 12
+Antwort_2=0	 4
+Antwort_3=0	 6
+Antwort_4=0	 8
+
+[68]
+FZ1=
+FZ2=Wer malte das berühmte "Letzte Abendmahl",
+FZ3=das sich in Mailand befindet ?
+Min=32000
+Max=32000
+Antwort_1=1	 Leonardo da Vinci
+Antwort_2=0	 Francisco Goya
+Antwort_3=0	 Michelangelo
+Antwort_4=0	 Rembrandt
+
+[69]
+FZ1=
+FZ2=Was versteht man unter dem Begriff "Lapsus" ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0	 Faulheit
+Antwort_2=1	 Fehler
+Antwort_3=0	 Umarmung
+Antwort_4=0	 kleiner Lappen
+
+[70]
+FZ1=
+FZ2=Was tun Hühner besonders gern, um ihr
+FZ3=Gefieder zu pflegen und die Haut zu reinigen ?
+Min=32000
+Max=32000
+Antwort_1=0	 im Wind fliegen
+Antwort_2=0	 sich bürsten
+Antwort_3=0	 sich duschen
+Antwort_4=1	 im Sand baden
+
+[71]
+FZ1=
+FZ2=Wer betrat 1969 als erster Mensch den Mond ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Neil Armstrong
+Antwort_2=0	 Jurij Gagarin
+Antwort_3=0	 Edwin Aldrin
+Antwort_4=0	 Louis Armstrong
+
+[72]
+FZ1=
+FZ2=Was war Herbert von Karajan ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0	 Politiker
+Antwort_2=0	 Sänger
+Antwort_3=0	 Sportler
+Antwort_4=1	 Dirigent
+
+[73]
+FZ1=
+FZ2=Welches Land gehört nicht zu den Beneluxstaaten ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Frankreich
+Antwort_2=0	 Niederlande
+Antwort_3=0	 Belgien
+Antwort_4=0	 Luxemburg
+
+[74]
+FZ1=
+FZ2=
+FZ3=Welches Land gehört nicht zu Skandinavien ?
+Min=64000
+Max=64000
+Antwort_1=0	 Schweden
+Antwort_2=0	 Norwegen
+Antwort_3=0	 Finnland
+Antwort_4=1	 Polen
+
+[75]
+FZ1=
+FZ2=Wer schrieb die berühmte
+FZ3=Hundegeschichte "Krambambuli" ?
+Min=64000
+Max=64000
+Antwort_1=1	 Marie von Ebner-Eschenbach
+Antwort_2=0	 Christine Nöstlinger
+Antwort_3=0	 Annette von Droste-Hülshoff
+Antwort_4=0	 Vera Ferra-Mikura
+
+[76]
+FZ1=
+FZ2=Welche ist die höchste männliche Gesangstimme ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1	 Tenor
+Antwort_2=0	 Bariton
+Antwort_3=0	 Sopran
+Antwort_4=0	 Bass
+
+[77]
+FZ1=
+FZ2=Wie heißt die alljährlich in Hannover
+FZ3=stattfindende größte Computermesse der Welt ?
+Min=64000
+Max=64000
+Antwort_1=1	 CeBIT
+Antwort_2=0	 deBIT
+Antwort_3=0	 eBIT
+Antwort_4=0	 Orbit
+
+[78]
+FZ1=
+FZ2=Der Deutsche Theodor Storm war ein berühmter ... ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0	 Seefahrer
+Antwort_2=0	 Koch
+Antwort_3=0	 Maler
+Antwort_4=1	 Schriftsteller
+
+[79]
+FZ1=
+FZ2=Womit wollten die Sirenen Odysseus verführen ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0	 mit ihrer Schönheit
+Antwort_2=1	 mit ihrem Gesang
+Antwort_3=0	 mit Wein
+Antwort_4=0	 mit Düften
+
+[80]
+FZ1=
+FZ2=Mit welchem Fuß hat Neil Armstrong
+FZ3=das erste Mal den Mond betreten ?
+Min=125000
+Max=125000
+Antwort_1=1	 mit dem linken
+Antwort_2=0	 mit dem rechten
+Antwort_3=0	 mit beiden gleichzeitig
+Antwort_4=0 mit keinem - er ist auf dem Bauch gelandet
+
+[81]
+FZ1=
+FZ2=Woher stammt die Tomate ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1	 Südamerika
+Antwort_2=0	 Asien
+Antwort_3=0	 Australien
+Antwort_4=0	 Afrika
+
+[82]
+FZ1=
+FZ2=Was machen Blattschneiderameisen aus dem
+FZ3=Blättern, die sie gekaut haben ?
+Min=125000
+Max=125000
+Antwort_1=1	 Pilze züchten
+Antwort_2=0	 Blattsalat
+Antwort_3=0	 Matratzen
+Antwort_4=0	 Ameisenhaufen
+
+[83]
+FZ1=
+FZ2=Von welchem deutschen Schriftsteller
+FZ3=stammt der "Herr von Ribbeck" ?
+Min=125000
+Max=125000
+Antwort_1=1	 Fontane
+Antwort_2=0	 Thoma
+Antwort_3=0	 Schiller
+Antwort_4=0	 Böll
+
+[84]
+FZ1=
+FZ2=Wer soll gesagt haben: "Hier stehe ich,
+FZ3=ich kann nicht anders" ?
+Min=125000
+Max=125000
+Antwort_1=1	 Martin Luther
+Antwort_2=0	 Helmut Kohl
+Antwort_3=0	 Neil Armstrong
+Antwort_4=0	 Peter Tweer
+
+[85]
+FZ1=
+FZ2=Womit hat in Deutschland die GEZ zu tun ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	 Rundfunkgebühren
+Antwort_2=0	 Ebbe und Flut
+Antwort_3=0	 Tierschutz
+Antwort_4=0	 Bundeswehr
+
+[86]
+FZ1=
+FZ2=Welcher deutsche Physiker startete 1982
+FZ3=an Bord der US - Raumfähre Columbia ins All ?
+Min=250000
+Max=250000
+Antwort_1=1	 Ulf Merbold
+Antwort_2=0	 Albert Einstein
+Antwort_3=0	 Peter Rosegger
+Antwort_4=0	 Max Planck
+
+[87]
+FZ1=
+FZ2=Wie heißt der Mond der Venus ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1	 Die Venus hat keinen Mond.
+Antwort_2=0	 Eros
+Antwort_3=0	 Brutus
+Antwort_4=0	 Nero
+
+[88]
+FZ1=
+FZ2=Wie darf sich ein Moslem nennen, der eine
+FZ3=Pilgerfahrt nach Mekka absolviert hat ?
+Min=250000
+Max=250000
+Antwort_1=1	  Hadschi
+Antwort_2=0	 Ladschi
+Antwort_3=0	 Radschi
+Antwort_4=0	 Padschi
+
+[89]
+FZ1=
+FZ2=Wie heißt z.B. in einem Internet - Chat eine künstliche
+FZ3=dreidimensionale Figur, die man sich aussuchen kann ?
+Min=250000
+Max=250000
+Antwort_1=1	 Avatar
+Antwort_2=0	 Altar
+Antwort_3=0	 Sansibar
+Antwort_4=0	 Adebar
+
+[90]
+FZ1=
+FZ2=Was hat der Aktionskünstler Christo 1995 mit dem
+FZ3=ehemaligen Reichstagsgebäude in Berlin gemacht ?
+Min=250000
+Max=250000
+Antwort_1=1	 verhüllt
+Antwort_2=0	 angemalt
+Antwort_3=0	  verkauft
+Antwort_4=0	 gesprengt
+
+[91]
+FZ1=
+FZ2=Unter welchem Namen trat eine Gruppe von Künstlern auf,
+FZ3=die 1911 in München gegründet wurde ?
+Min=250000
+Max=250000
+Antwort_1=1	 Blauer Reiter
+Antwort_2=0	 Grüner Galopper
+Antwort_3=0	 Gelber Traber
+Antwort_4=0	 Roter Kutscher
+
+[92]
+FZ1=
+FZ2=Wie heiß der erste Präsident der
+FZ3=Bundesrepublik Deutschland ?
+Min=500000
+Max=500000
+Antwort_1=1	 Theodor Heuss
+Antwort_2=0	 Konrad Adenauer
+Antwort_3=0	 Walter Scheel
+Antwort_4=0	 Helmut Kohl
+
+[93]
+FZ1=
+FZ2=Welcher deutsche Bundeskanzler erhielt
+FZ3=den Friedensnobelpreis ?
+Min=500000
+Max=500000
+Antwort_1=1	 Brandt
+Antwort_2=0	 Kohl
+Antwort_3=0	 Schmidt
+Antwort_4=0	 Schröder
+
+[94]
+FZ1=
+FZ2=Welcher König ließ Schloss Neuschwanstein erbauen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Ludwig II.
+Antwort_2=0	 Wilhelm II.
+Antwort_3=0	 Karl der Große
+Antwort_4=0	 Friedrich der Schöne
+
+[95]
+FZ1=
+FZ2=Welcher deutsche Bundeskanzler entschied seine
+FZ3=Wahl im Bundestag mit seiner eigenen Stimme ?
+Min=500000
+Max=500000
+Antwort_1=1	 Konrad Adenauer
+Antwort_2=0	 Willy Brandt
+Antwort_3=0	 Helmut Kohl
+Antwort_4=0	 Helmut Schmidt
+
+[96]
+FZ1=
+FZ2=Auf welchem Kontinent fließt der Mississippi ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Amerika
+Antwort_2=0	 Asien
+Antwort_3=0	 Australien
+Antwort_4=0	 Europa
+
+[97]
+FZ1=
+FZ2=Was sind Anchovis ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1	 Fische
+Antwort_2=0	 Affen
+Antwort_3=0	 Autos
+Antwort_4=0	 Bücher
+
+[98]
+FZ1=
+FZ2=Was ist Chlorophyll ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0	 Medikament
+Antwort_2=1	 Blattgrün
+Antwort_3=0	 Reinigungsmittel
+Antwort_4=0	Musikinstrument
+

@@ -1,0 +1,1655 @@
+[Thema]
+Thema=Krabbeltiere
+Fragen=150
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[2]
+FZ1=
+FZ2=Welche Farbe hat das Blut der meisten Insekten ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1grün	
+Antwort_2=0blau	
+Antwort_3=0rot	
+Antwort_4=0gelb	
+
+[3]
+FZ1=
+FZ2=In wie viele Segmente (Teile) ist die Insektenbrust unterteilt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=13	
+Antwort_2=04	
+Antwort_3=02	
+Antwort_4=06	
+
+[4]
+FZ1=
+FZ2=Wie lautet der Fachbegriff für den Hinterleib der Insekten ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Abdomen
+Antwort_2=0Aufdomen
+Antwort_3=0Abkommen
+Antwort_4=0Andomen
+
+[5]
+FZ1=
+FZ2=Wie lautet der Fachbegriff für die Brust bei den Insekten ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Thorax
+Antwort_2=0Moritz
+Antwort_3=0Votax
+Antwort_4=0Borathax
+
+[6]
+FZ1=
+FZ2=Wie heißen die Ameisen, die ihre Nester aus Blättern zusammennähen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Weberameisen
+Antwort_2=0Holzameisen
+Antwort_3=0Schneiderameisen
+Antwort_4=0Heeresameisen
+
+[7]
+FZ1=
+FZ2=Woran erkennen die Ameisen ihre Straßen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1am Duft
+Antwort_2=0am Betrieb
+Antwort_3=0am Lärm
+Antwort_4=0am Wegweiser
+
+[8]
+FZ1=
+FZ2=Wo sitzen bei den Grillen die Ohren ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1an den Vorderbeinen
+Antwort_2=0an den Hinterbeinen
+Antwort_3=0am Kopf
+Antwort_4=0am Hinterleib
+
+[9]
+FZ1=
+FZ2=Aus welcher Entfernung kann das Augenspinnermännchen (Schmetterling) ein
+FZ3=Weibchen riechen ?
+Min=32000
+Max=250000
+Antwort_1=1aus vielen Kilometern
+Antwort_2=0500 - 800 m
+Antwort_3=0800 - 1.000 m
+Antwort_4=050 - 350 m
+
+[10]
+FZ1=
+FZ2=Wo sitzen bei den meisten Schmetterlingen die Geschmacksknospen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1an den Füßen
+Antwort_2=0am Rüssel
+Antwort_3=0an den Fühlern
+Antwort_4=0an den Flügelspitzen
+
+[11]
+FZ1=
+FZ2=Wie alt kann eine Termitenkönigin werden ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1bis zu 15 Jahren
+Antwort_2=0bis zu 4 Jahren
+Antwort_3=0bis zu 10 Jahren
+Antwort_4=01 - 3 Jahre
+
+[12]
+FZ1=
+FZ2=Welche Spinne gibt es  n i c h t  ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Giraffenspinne
+Antwort_2=0Krabbenspinne
+Antwort_3=0Wolfsspinne
+Antwort_4=0Vogelspinne
+
+[13]
+FZ1=
+FZ2=Welche Spinne gibt es ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Falltürspinne
+Antwort_2=0Schlosstürspinne
+Antwort_3=0Hintertürspinne
+Antwort_4=0Haustürspinne
+
+[14]
+FZ1=
+FZ2=Wie groß kann eine Vogelspinne werden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1bis zu 9 cm
+Antwort_2=0bis zu 5 cm
+Antwort_3=0bis zu 7 cm
+Antwort_4=0bis zu 3 cm
+
+[15]
+FZ1=
+FZ2=Wie heißt ein Verwandter der Spinne mit recht langen Beinen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Weberknecht
+Antwort_2=0Schneiderknecht
+Antwort_3=0Webermagd
+Antwort_4=0Spinnenknecht
+
+[16]
+FZ1=
+FZ2=Welche Spinnen haben Fühler ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1keine Spinne hat Fühler
+Antwort_2=0nur die Männchen
+Antwort_3=0nur die Weibchen
+Antwort_4=0Nur die Jungtiere haben Fühler, später	fallen die Fühler ab.
+
+[17]
+FZ1=
+FZ2=Welche Hummeln überleben als einzige den Winter ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Königinnen
+Antwort_2=0Männchen
+Antwort_3=0Weibchen
+Antwort_4=0Soldaten
+
+[18]
+FZ1=
+FZ2=Was sind Ameisenwespen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1behaarte Wespen
+Antwort_2=0gelb - schwarze Mücken
+Antwort_3=0schwarz - gelbe Ameisen
+Antwort_4=0eine Libellenart
+
+[19]
+FZ1=
+FZ2=Womit werden die zukünftigen Bienenköniginnen
+FZ3=in den Weiselzellen ständig gefüttert ?
+Min=250000
+Max=500000
+Antwort_1=1Gelée Royal
+Antwort_2=0Baumharz
+Antwort_3=0Zuckerwasser
+Antwort_4=0Sirup Gelée
+
+[20]
+FZ1=
+FZ2=Wie heißen die speziellen Zellen für die zukünftigen Bienenköniginnen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Weiselzellen
+Antwort_2=0Königinnenzellen
+Antwort_3=0Schwarzzellen
+Antwort_4=0Royalzellen
+
+[21]
+FZ1=
+FZ2=Zu welcher Art gehört die Riesenhornisse ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Wespen
+Antwort_2=0Mücken
+Antwort_3=0Bienen
+Antwort_4=0Fliegen
+
+[22]
+FZ1=
+FZ2=Wie viele verschiedene Hirschkäferarten gibt es ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ca. 1.250
+Antwort_2=0ca. 950
+Antwort_3=0ca. 500
+Antwort_4=0ca. 340
+
+[23]
+FZ1=
+FZ2=Wie groß wird der Goliathkäfer ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1bis 12,5 cm
+Antwort_2=0bis 7,5 cm
+Antwort_3=0bis 10,5 cm
+Antwort_4=0bis 18,5 cm
+
+[24]
+FZ1=
+FZ2=Wie heißt einer der größten und schwersten Käfer ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1Goliathkäfer
+Antwort_2=0Monsterkäfer
+Antwort_3=0Riesenkäfer
+Antwort_4=0Mammutkäfer
+
+[25]
+FZ1=
+FZ2=Wie viele verschiedene Käferarten sind bis jetzt bekannt ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1mehr als 250.000
+Antwort_2=0ca. 150.000
+Antwort_3=0180.000 - 220.000
+Antwort_4=090.000 - 130.000
+
+[26]
+FZ1=
+FZ2=Wie heißt die berühmteste Bilderbuchraupe ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nimmersatt
+Antwort_2=0Fridolin
+Antwort_3=0Immersatt
+Antwort_4=0Rudi Räupchen
+
+[27]
+FZ1=
+FZ2=Welche Gruppe bildet die größte Insektengruppe ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Käfer
+Antwort_2=0Schmetterlinge und Motten
+Antwort_3=0Zweiflügler
+Antwort_4=0Fangschrecken und Libellen
+
+[28]
+FZ1=
+FZ2=Wie weit kann der Katzenfloh springen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1200 mal so weit, wie er lang ist
+Antwort_2=050 mal so weit, wie er lang ist
+Antwort_3=0100 mal so weit, wie er lang ist
+Antwort_4=010 mal so weit, wie er lang ist
+
+[29]
+FZ1=
+FZ2=Können alle Insekten fliegen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nein
+Antwort_2=0nur die Männchen
+Antwort_3=0ja
+Antwort_4=0nur die Weibchen
+
+[30]
+FZ1=
+FZ2=Wie wird die Pferdefliege auch genannt ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Bremse
+Antwort_2=0Gaspedal
+Antwort_3=0Blinker
+Antwort_4=0Kupplung
+
+[31]
+FZ1=
+FZ2=Welche Mücken stehen nicht ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Zuckmücke
+Antwort_2=0Stechmücke
+Antwort_3=0Gnitze
+Antwort_4=0Kriebelmücke
+
+[32]
+FZ1=
+FZ2=Wie heißen die Insekten, die wie große Stechmücken aussehen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Schnaken
+Antwort_2=0Laken
+Antwort_3=0Braken
+Antwort_4=0Knaken
+
+[33]
+FZ1=
+FZ2=Wie heißt der größte Schmetterlingsart, die nur in Südostasien
+FZ3=und im Norden von Australien vorkommt ?
+Min=16000
+Max=125000
+Antwort_1=1Vogelfalter
+Antwort_2=0Monsterfalter
+Antwort_3=0Riesenfalter
+Antwort_4=0Adlerfalter
+
+[34]
+FZ1=
+FZ2=Womit nimmt ein Schmetterling seine Nahrung auf ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Rüssel
+Antwort_2=0Zangen
+Antwort_3=0Fühler
+Antwort_4=0Lippen
+
+[35]
+FZ1=
+FZ2=Wie wird der junge Schmetterling genannt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Raupe
+Antwort_2=0Schmetterlingchen
+Antwort_3=0Schlepper
+Antwort_4=0little Schmetterling
+
+[36]
+FZ1=
+FZ2=Wie groß ist die größte Flügelspannweite einer Schmetterlingsart auf Neuguinea ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=128 cm
+Antwort_2=018 cm
+Antwort_3=022 cm
+Antwort_4=014 cm
+
+[37]
+FZ1=
+FZ2=Wie viele Schmetterlingsarten gibt es ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 150.000
+Antwort_2=0ca. 320.000
+Antwort_3=0ca. 400.000
+Antwort_4=0ca. 75.000
+
+[38]
+FZ1=
+FZ2=Wie groß können Riesenwanzen werden ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ungefähr 65 mm
+Antwort_2=0etwa 40 mm
+Antwort_3=0ca. 3,5 cm
+Antwort_4=010 - 25 mm
+
+[39]
+FZ1=
+FZ2=Wie groß können Blattläuse werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis zu 1 cm
+Antwort_2=0bis zu 3 cm
+Antwort_3=0bis zu 2 cm
+Antwort_4=0bis zu 4 cm
+
+[40]
+FZ1=
+FZ2=Wie nennt man die jungen Libellen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Nymphen
+Antwort_2=0Nylon
+Antwort_3=0Embryo
+Antwort_4=0Symphonie
+
+[41]
+FZ1=
+FZ2=Wie groß können Libellen werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis 13 cm
+Antwort_2=05 - 9 cm
+Antwort_3=0bis 10 cm
+Antwort_4=060 mm
+
+[42]
+FZ1=
+FZ2=Wie viele verschiedene Libellenarten gibt es ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 5.000
+Antwort_2=0ca. 1.200
+Antwort_3=0ca. 3.500
+Antwort_4=0600 - 900
+
+[43]
+FZ1=
+FZ2=Wie schnell können Libellen fliegen ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1bis 50 km/h
+Antwort_2=015 - 25 km/h
+Antwort_3=020 - 30 km/h
+Antwort_4=038 km/h
+
+[44]
+FZ1=
+FZ2=Wie sieht ein ausgewachsener Ameisenlöwe aus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1wie eine Libelle
+Antwort_2=0wie eine Ameise
+Antwort_3=0wie ein Löwe
+Antwort_4=0wie eine Wespe
+
+[45]
+FZ1=
+FZ2=Welche Fliege hat einen besonders langen Hals ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Kamelhalsfliege
+Antwort_2=0Elefantenhalsfliege
+Antwort_3=0Giraffenhalsfliege
+Antwort_4=0Pferdehalsfliege
+
+[46]
+FZ1=
+FZ2=Wo groß können Gottesanbeterinnen werden ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1bis 16 cm
+Antwort_2=03 - 6 cm
+Antwort_3=04 - 8 cm
+Antwort_4=010,5 cm
+
+[47]
+FZ1=
+FZ2=Womit fängt die Gottesanbeterin ihre Beute ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1mit ihren kräftigen Vorderbeinen
+Antwort_2=0mit ihren langen Fühlern
+Antwort_3=0mit ihren spitzen Zangen
+Antwort_4=0mit ihren behaarten Hinterbeinen
+
+[48]
+FZ1=
+FZ2=Welche Fangschrecke gibt es ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Gottesanbeterin
+Antwort_2=0Mondanbeterin
+Antwort_3=0Sonnenanbeterin
+Antwort_4=0Tempelanbeterin
+
+[49]
+FZ1=
+FZ2=Womit singen die echten Grillen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1mit ihren Vorderflügeln
+Antwort_2=0mit ihren Fühlern
+Antwort_3=0mit ihren Hinterbeinen
+Antwort_4=0mit ihren Vorderbeinen
+
+[50]
+FZ1=
+FZ2=Welche Grille gibt es ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1Maulwurfsgrille
+Antwort_2=0Hamstergrille
+Antwort_3=0Pferdegrille
+Antwort_4=0Meerschweinchengrille
+
+[51]
+FZ1=
+FZ2=Wie sieht eine Gespenstheuschrecke aus ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1wie ein blattloser Zweig
+Antwort_2=0wie ein Totenkopf
+Antwort_3=0wie ein alter Schlossgeist
+Antwort_4=0wieeine Mumie
+
+[52]
+FZ1=
+FZ2=Wie lang kann eine Gespenstheuschrecke werden ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1bis zu 30 cm
+Antwort_2=045 cm
+Antwort_3=020 - 25 cm
+Antwort_4=060 - 70 mm
+
+[53]
+FZ1=
+FZ2=Wie groß kann eine Wanderheuschrecke werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=17,5 cm
+Antwort_2=02 - 5 cm
+Antwort_3=03 cm
+Antwort_4=05,5 cm
+
+[54]
+FZ1=
+FZ2=Aus wie vielen Tieren kann ein Schwarm von Wanderheuschrecken bestehen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Milliarden
+Antwort_2=0ca. 600.000
+Antwort_3=0Millionen
+Antwort_4=0200.000 - 500.000
+
+[55]
+FZ1=
+FZ2=Welche Heuschrecken gehören zu den schädlichsten Insekten überhaupt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Wanderheuschrecken
+Antwort_2=0australische Langfühlerschrecke
+Antwort_3=0Gespenstheuschrecke
+Antwort_4=0Kampfheuschrecken
+
+[56]
+FZ1=
+FZ2=Wie groß wird das "Wandelnde Blatt" (Heuschreckenart) ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=15 - 10 cm
+Antwort_2=03 - 5 cm
+Antwort_3=01 - 2 cm
+Antwort_4=012 - 18 cm
+
+[57]
+FZ1=
+FZ2=Welche Heuschrecke kann sich besonders gut tarnen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Wandelndes Blatt
+Antwort_2=0Wandelnder Busch
+Antwort_3=0Wandelnder Baum
+Antwort_4=0Wandelnder Zweig
+
+[58]
+FZ1=
+FZ2=Womit zirpen die Heuschrecken ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1mit den Flügeln
+Antwort_2=0mit den Fühlern
+Antwort_3=0mit den Hinterbeinen
+Antwort_4=0mit den Zangen
+
+[59]
+FZ1=
+FZ2=Wie weit kann eine Heuschrecke springen, um einer Gefahr zu entgehen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1mehr als 200 mal so weit,	wie sie lang ist
+Antwort_2=0ungefähr 50 mal so weit,	wie sie lang ist
+Antwort_3=0ca. 100 mal so weit,	wie sie lang ist
+Antwort_4=0genau 10 mal so weit,	wie sie lang ist
+
+[60]
+FZ1=
+FZ2=Welche zwei große Arten von Heuschrecken gibt es ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kurzfühlerschrecken und	Langfühlerschrecken
+Antwort_2=0langsame Heuschrecken und schnelle	Heuschrecken
+Antwort_3=0dünne Heuschrecken und dicke	Heuschrecken
+Antwort_4=0Brummheuschrecken und	Summheuschrecken
+
+[61]
+FZ1=
+FZ2=Wie groß können Silberfischchen werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=18 - 19 mm
+Antwort_2=01 - 5 mm
+Antwort_3=02 - 3 mm
+Antwort_4=025 - 45 mm
+
+[62]
+FZ1=
+FZ2=Aus wie vielen Teilen besteht ein typischer Spinnenkörper ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=12
+Antwort_2=04
+Antwort_3=03
+Antwort_4=05
+
+[63]
+FZ1=
+FZ2=Wie viele Arten von Spinnentieren sind bekannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 75.000
+Antwort_2=0ca. 40.000
+Antwort_3=0ca. 3.000
+Antwort_4=0ca. 2 Millionen
+
+[64]
+FZ1=
+FZ2=Wo befinden sich die Beine eines Insektes ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1an der Brust
+Antwort_2=0am Kopf
+Antwort_3=0am Hinterleib
+Antwort_4=0immer zwei an der Brust und vier am	Hinterleib
+
+[65]
+FZ1=
+FZ2=Was ist  k e i n  Segment (Teil) eines Insektes ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hals
+Antwort_2=0Brust
+Antwort_3=0Kopf
+Antwort_4=0Hinterleib
+
+[66]
+FZ1=
+FZ2=Aus wie vielen Segmenten (Teilen) besteht der Körper von Insekten ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=13
+Antwort_2=09
+Antwort_3=06
+Antwort_4=02
+
+[67]
+FZ1=
+FZ2=Wie oft schlagen die Flügel einer Stechmücke in einer Sekunde ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1500 mal
+Antwort_2=0150 mal
+Antwort_3=0300 mal
+Antwort_4=075 mal
+
+[68]
+FZ1=
+FZ2=Womit fangen die meisten Spinnen ihre Beute ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Netz
+Antwort_2=0Falle
+Antwort_3=0Korb
+Antwort_4=0Pfeil
+
+[69]
+FZ1=
+FZ2=Wie heißt die Gruppe von Schmetterlingen, deren Raupen nur am Anfang und am
+FZ3=Ende des Körpers Füße besitzen und sich daher schreitend fortbewegen ?
+Min=300
+Max=2000
+Antwort_1=1Spanner
+Antwort_2=0Spunner
+Antwort_3=0Spinner
+Antwort_4=0Sponner
+
+[70]
+FZ1=
+FZ2=Wie lang lebt etwa eine Arbeitsbiene ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=14 - 6 Wochen
+Antwort_2=07 - 10 Wochen
+Antwort_3=02 - 3 Wochen
+Antwort_4=01/2 Jahr
+
+[71]
+FZ1=
+FZ2=Welches zangenbewehrte, flügellose Tier trägt am Ende
+FZ3=seines Hinterleibes einen Giftstachel ?
+Min=0
+Max=1000
+Antwort_1=1Skorpion
+Antwort_2=0Heuschrecke
+Antwort_3=0Hirschkäfer
+Antwort_4=0Gottesanbeterin
+
+[72]
+FZ1=
+FZ2=Von welchem Insekt werden erst im Dunkeln aufblühende Pflanzen bestäubt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Nachfalter
+Antwort_2=0Motte
+Antwort_3=0Glühwürmchen
+Antwort_4=0Nachtwespe
+
+[73]
+FZ1=
+FZ2=Welche wespen- oder bienenähnlich aussehenden Insekten können
+FZ3=in der Luft schwirrend stehen ?
+Min=2000
+Max=32000
+Antwort_1=1Schwebfliegen
+Antwort_2=0Kuhfliegen
+Antwort_3=0Libellen
+Antwort_4=0Hornissen
+
+[74]
+FZ1=
+FZ2=Wie heißt die größte heimische Wespenart ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hornisse
+Antwort_2=0Schlupfwespe
+Antwort_3=0Gallwespe
+Antwort_4=0Hummel
+
+[75]
+FZ1=
+FZ2=Welche Insekten wurden früher zur Herstellung eines roten Farbstoffes gesammelt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Schildläuse
+Antwort_2=0Rote Waldameisen
+Antwort_3=0Blattläuse
+Antwort_4=0Rotbrandkäfer
+
+[76]
+FZ1=
+FZ2=Welches im Haus lebende Insekt stört mit seinem "Konzert" oft den nächtlichen
+FZ3=Schlaf der Bewohner ?
+Min=2000
+Max=32000
+Antwort_1=1Heimchen
+Antwort_2=0Nächtchen
+Antwort_3=0Schläfchen
+Antwort_4=0Summchen
+
+[77]
+FZ1=
+FZ2=Welches im Hochgebirge lebende, nur 2 mm große Insekt ist so frostunempfindlich,
+FZ3=das es sogar wochenlanges Einfrieren übersteht ?
+Min=4000
+Max=64000
+Antwort_1=1Gletscherfloh
+Antwort_2=0Schneefloh
+Antwort_3=0Eisfloh
+Antwort_4=0Winterfloh
+
+[78]
+FZ1=
+FZ2=Welches Tier lässt sich von  Zweigen oder Halmen auf vorbeistreifende Tiere fall
+FZ3=um sich in ihre Haut zu bohren und Blut zu saugen ?
+Min=0
+Max=1000
+Antwort_1=1Zecke
+Antwort_2=0Mücke
+Antwort_3=0Schnecke
+Antwort_4=0Floh
+
+[79]
+FZ1=
+FZ2=Welche grüne Heuschreckenart lauert unbeweglich mit
+FZ3=erhobenen Vorderbeinen auf Beute ?
+Min=0
+Max=1000
+Antwort_1=1Gottesanbeterin
+Antwort_2=0Käferanbeterin
+Antwort_3=0Sonnenanbeterin
+Antwort_4=0Heuschreckenanbeterin
+
+[80]
+FZ1=
+FZ2=Welche dunkelbraunen, schlanken Insekten tragen an ihrem Hinterende
+FZ3=zwei kräftige Zangen ?
+Min=2000
+Max=32000
+Antwort_1=1Ohrwürmer
+Antwort_2=0Hirschkäfer
+Antwort_3=0Ohrkäfer
+Antwort_4=0Skorpionkäfer
+
+[81]
+FZ1=
+FZ2=Welches ungeflügelte, schnell laufende Insekt besitzt einen mit silberglänzenden
+FZ3=Schuppen bedeckten Körper ?
+Min=2000
+Max=32000
+Antwort_1=1Silberfischchen
+Antwort_2=0Silberwanze
+Antwort_3=0Silberkäfer
+Antwort_4=0Silberfloh
+
+[82]
+FZ1=
+FZ2=Wie heißt das kurzlebige Insekt, das nur als Larve Nahrung aufnehmen kann ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Eintagsfliege
+Antwort_2=0Minutenfliege
+Antwort_3=0Wochenfliege
+Antwort_4=0Stundenfliege
+
+[83]
+FZ1=
+FZ2=Wie heißen die eleganten Flieger mit schmalem Hinterleib,
+FZ3=die ihre Beute im Flug erhaschen ?
+Min=0
+Max=1000
+Antwort_1=1Libellen
+Antwort_2=0Wespen
+Antwort_3=0Hummeln
+Antwort_4=0Bienen
+
+[84]
+FZ1=
+FZ2=Wie heißen die springenden Insekten mit langen Fühlern,
+FZ3=die mit ihren Flügeln Musik machen können ?
+Min=0
+Max=1000
+Antwort_1=1Heuschrecken
+Antwort_2=0Hirschkäfer
+Antwort_3=0Heulsusen
+Antwort_4=0Hundeflöhe
+
+[85]
+FZ1=
+FZ2=Wie viele Eier kann eine Termitenkönigin täglich legen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1bis 10.000
+Antwort_2=0bis 1 Millionen
+Antwort_3=0bis 100.000
+Antwort_4=0bis 1.000
+
+[86]
+FZ1=
+FZ2=Welches Insekt saugt an der Wurzel der Weinstöcke ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Reblaus
+Antwort_2=0Rebkäfer
+Antwort_3=0Weinlaus
+Antwort_4=0Weinkäfer
+
+[87]
+FZ1=
+FZ2=Welches Insekt jagt auf der Wasseroberfläche laufend seine Beute ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Wasserläufer
+Antwort_2=0Wassersprinter
+Antwort_3=0Wasserrenner
+Antwort_4=0Wasserraser
+
+[88]
+FZ1=
+FZ2=Wie heißt das flügellose Insekt, das bei Mensch und Tier heftig juckende Stiche
+FZ3=hervorruft ?
+Min=1000
+Max=16000
+Antwort_1=1Floh
+Antwort_2=0Mücke
+Antwort_3=0Wanze
+Antwort_4=0Bremse
+
+[89]
+FZ1=
+FZ2=Warum werden die Nester der Waldameisen vor Zerstörung geschützt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Sie vertilgen Schadinsekten.
+Antwort_2=0Die Nester vertreiben tollwütige Füchse.
+Antwort_3=0Die Nester verbessern die Waldluft.
+Antwort_4=0Sie bestäuben die Nadelbäume.
+
+[90]
+FZ1=
+FZ2=Wie nennt der Imker die mit Blütenpollen beladenen Säcke
+FZ3=an den Hinterbeinen der Bienen ?
+Min=2000
+Max=32000
+Antwort_1=1Höschen
+Antwort_2=0Honigrucksack
+Antwort_3=0Jäckchen
+Antwort_4=0Honigtäschlein
+
+[91]
+FZ1=
+FZ2=Wie viele Blüten etwa müssen Bienen besuchen,
+FZ3=um ein Pfund Honig zu erzeugen ?
+Min=125000
+Max=500000
+Antwort_1=1ca. 8 Millionen
+Antwort_2=0ca. 2,5 Millionen
+Antwort_3=0ca. 250.000
+Antwort_4=0ca. 900.000
+
+[92]
+FZ1=
+FZ2=Wie nennt man die Umwandlung einer Larve in ein erwachsenes Insekt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Metamorphose	
+Antwort_2=0Metahobit	
+Antwort_3=0Metapher	
+Antwort_4=0Metakokonose	
+
+[93]
+FZ1=
+FZ2=Wie heißt einer unserer häufigsten Schmetterlinge, dessen Raupen in
+FZ3=Gemüsekulturen große Schäden anrichten können ?
+Min=32000
+Max=250000
+Antwort_1=1Kohlweißling	
+Antwort_2=0Tagpfauenauge	
+Antwort_3=0Zitronenfalter	
+Antwort_4=0Kleiner Fuchs	
+
+[94]
+FZ1=
+FZ2=Wie viele Jahre lebt ein Wespenstaat ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=11 Jahr	
+Antwort_2=03 Jahre	
+Antwort_3=02 Jahre	
+Antwort_4=04 Jahre	
+
+[95]
+FZ1=
+FZ2=Wie heißt das Insekt, dessen Larven in wilden Rosen zottige,
+FZ3=bunte Wucherungen hervorbringt ?
+Min=64000
+Max=500000
+Antwort_1=1Rosengallwespe	
+Antwort_2=0Rosengallbiene	
+Antwort_3=0Rosengallfliege	
+Antwort_4=0Rosengallhummel	
+
+[96]
+FZ1=
+FZ2=Welches Insekt stößt bei Gefahr Tröpfchen einer Flüssigkeit aus,
+FZ3=die an der Luft mit einem Knall verpuffen ?
+Min=64000
+Max=500000
+Antwort_1=1Bombardierkäfer	
+Antwort_2=0Raketenkäfer	
+Antwort_3=0Kanonenkäfer	
+Antwort_4=0Torpedokäfer	
+
+[97]
+FZ1=
+FZ2=Wodurch teilen Bienen ihren Stockgenossen mit,
+FZ3=wo aussichtsreiche Beute zu finden ist ?
+Min=300
+Max=2000
+Antwort_1=1Schwänzeltänze	
+Antwort_2=0Flügelsurren	
+Antwort_3=0Fühlerkreisel	
+Antwort_4=0Beinchenklatschen	
+
+[98]
+FZ1=
+FZ2=Aus welchem Material bestehen die Fäden eines Spinnennetzes ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Seide	
+Antwort_2=0Nylon	
+Antwort_3=0Wolle	
+Antwort_4=0Draht	
+
+[99]
+FZ1=
+FZ2=Welches winzige Spinnentier lebt in Bibliotheken und Sammlungen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Bücherskorpion	
+Antwort_2=0Bücherspinne	
+Antwort_3=0Bücherwurm	
+Antwort_4=0Bücherlaus	
+
+[100]
+FZ1=
+FZ2=Wie viele Beine besitzen die Spinnentiere ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=18	
+Antwort_2=012	
+Antwort_3=06	
+Antwort_4=04	
+
+[101]
+FZ1=
+FZ2=Wie heißt ein zartes, grasgrünes Geschöpf mit goldenen Augen,
+FZ3=das gerne im Haus überwintert ?
+Min=2000
+Max=32000
+Antwort_1=1Florfliege	
+Antwort_2=0Hausfliege	
+Antwort_3=0Moorfliege	
+Antwort_4=0Froschfliege	
+
+[102]
+FZ1=
+FZ2=Wovon leben die Hirschkäfer ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Saft von Bäumen	
+Antwort_2=0abgestoßene Hirschgeweihe	
+Antwort_3=0Insekten im Fell der Hirsche	
+Antwort_4=0Fallobst	
+
+[103]
+FZ1=
+FZ2=Welche Ameisenart züchtet Pilze zur Ernährung der Brut ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Blattschneiderameisen	
+Antwort_2=0Melkameisen	
+Antwort_3=0Honigameisen	
+Antwort_4=0südamerikanische Riesenameisen	
+
+[104]
+FZ1=
+FZ2=Welche Aufgabe im Lebenszyklus der Pflanzen wird vielfach
+FZ3=von den Insekten übernommen ?
+Min=2000
+Max=32000
+Antwort_1=1Bestäubung der Blüten	
+Antwort_2=0Ernten der Früchte	
+Antwort_3=0Düngen der Wurzeln	
+Antwort_4=0Beschneiden der Blätter	
+
+[105]
+FZ1=
+FZ2=Welche Insekten werden von toten Kleintieren angelockt und versenken
+FZ3=deren Leichen in den Boden ?
+Min=2000
+Max=32000
+Antwort_1=1Totengräber	
+Antwort_2=0Aaskäfer	
+Antwort_3=0Leichengräber	
+Antwort_4=0Mumienkäfer	
+
+[106]
+FZ1=
+FZ2=Wie heißt der flugunfähige Falter, dessen Larve für ihren Kokon einen bis 4 km
+FZ3=langen Faden herstellt ?
+Min=2000
+Max=32000
+Antwort_1=1Seidenspinner	
+Antwort_2=0Seidendummer	
+Antwort_3=0Seidennarr	
+Antwort_4=0Seidenblödel	
+
+[107]
+FZ1=
+FZ2=Wie heißt die im Boden an Wurzeln fressende Larve des Maikäfers ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1Engerling	
+Antwort_2=0Ingerling	
+Antwort_3=0Angerling	
+Antwort_4=0Ungerling	
+
+[108]
+FZ1=
+FZ2=Wie heißt der Schmetterling, dessen Flügel auf der Oberseite jeweils
+FZ3=einen großen, bunten Farbfleck tragen ?
+Min=500
+Max=16000
+Antwort_1=1Tagpfauenauge	
+Antwort_2=0Abendpfauenauge	
+Antwort_3=0Nachtpfauenauge	
+Antwort_4=0Morgenpfauenauge	
+
+[109]
+FZ1=
+FZ2=Welche Lichtart kann das Bienenauge wahrnehmen,
+FZ3=das der Mensch nicht sehen kann ?
+Min=500
+Max=16000
+Antwort_1=1Ultraviolett	
+Antwort_2=0Himmelblau	
+Antwort_3=0Türkisgrün	
+Antwort_4=0Rosarot	
+
+[110]
+FZ1=
+FZ2=Von welchem Schmetterling stammen die häufig im Obst anzutreffenden Raupen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Apfelwickler	
+Antwort_2=0Kirschendreher	
+Antwort_3=0Birnenzwirbler	
+Antwort_4=0Pflaumenroller	
+
+[111]
+FZ1=
+FZ2=Wie heißt der Falter, dessen Raupen Kleider und Pelze anfressen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Motte	
+Antwort_2=0Rotte	
+Antwort_3=0Lotte	
+Antwort_4=0Grotte	
+
+[112]
+FZ1=
+FZ2=Wie heißt der hellgelbe Schmetterling, der im Frühjahr
+FZ3=als einer der erscheint ?
+Min=2000
+Max=32000
+Antwort_1=1Zitronenfalter	
+Antwort_2=0Pampelmusenfalter	
+Antwort_3=0Bananenfalter	
+Antwort_4=0Sonnenfalter	
+
+[113]
+FZ1=
+FZ2=Welche Mücken ernähren sich von Pflanzensäften ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Männchen	
+Antwort_2=0Königinnen	
+Antwort_3=0Weibchen	
+Antwort_4=0Arbeiterinnen	
+
+[114]
+FZ1=
+FZ2=Wie werden die an einzelne Haare geklebte Eier der Kopflaus genannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Nissen	
+Antwort_2=0Bissen	
+Antwort_3=0Kissen	
+Antwort_4=0Wissen	
+
+[115]
+FZ1=
+FZ2=Wie nennt man die Mitglieder eines Termitenstaates, deren Aufgabe es ist,
+FZ3=den Staat zu verteidigen ?
+Min=4000
+Max=64000
+Antwort_1=1Männchen	
+Antwort_2=0Königinnen	
+Antwort_3=0Weibchen	
+Antwort_4=0Wächterinnen	
+
+[116]
+FZ1=
+FZ2=Wie heißen die winzigen Spinnentiere, die oft in Polstermöbeln hausen und beim
+FZ3=Menschen Allergien auslösen ?
+Min=2000
+Max=32000
+Antwort_1=1Hausmilbe	
+Antwort_2=0Kakerlake	
+Antwort_3=0Hausmade	
+Antwort_4=0Hausmumie	
+
+[117]
+FZ1=
+FZ2=Wie heißt die handtellergroße, stark behaarte und gifte Spinne, die mit
+FZ3=Bananensendungen eingeschleppt wurde ?
+Min=0
+Max=1000
+Antwort_1=1Vogelspinne	
+Antwort_2=0Bananenspinne	
+Antwort_3=0Fischspinne	
+Antwort_4=0Mörderspinne	
+
+[118]
+FZ1=
+FZ2=Wie werden die Atmungsröhren der Insekten genannt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Tracheen	
+Antwort_2=0Kakteen	
+Antwort_3=0Drachmen	
+Antwort_4=0Truchin	
+
+[119]
+FZ1=
+FZ2=Wie heißen die männlichen Bienen ?
+FZ3=
+Min=500
+Max=16000
+Antwort_1=1Drohnen	
+Antwort_2=0Dornen	
+Antwort_3=0Willi	
+Antwort_4=0Bohnen	
+
+[120]
+FZ1=
+FZ2=Wie nennt man die kleinen Käfer, die mit ihren Larven in trockenem Holz wohnen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Holzwürmer	
+Antwort_2=0Trockenwürmer	
+Antwort_3=0Trockenholzkäfer	
+Antwort_4=0Trockenkäfer	
+
+[121]
+FZ1=
+FZ2=Wie heißt der Schmetterling, dessen Larven oft massenhaft auftreten und großen
+FZ3=Schaden in Nadelwäldern anrichten ?
+Min=64000
+Max=500000
+Antwort_1=1Nonne	
+Antwort_2=0Priester	
+Antwort_3=0Mönch	
+Antwort_4=0Kaplan	
+
+[122]
+FZ1=
+FZ2=Wie heißt der im Wasser räuberisch lebende, große Käfer ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Gelbbrandkäfer	
+Antwort_2=0Rotbrandkäfer	
+Antwort_3=0Grünbrandkäfer	
+Antwort_4=0Blaubrandkäfer	
+
+[123]
+FZ1=
+FZ2=Welches Insekt der warmen Länder überträgt beim Stich die Erreger der Malaria ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Anophelesmücke	
+Antwort_2=0Anakondamücke	
+Antwort_3=0Malariamücke	
+Antwort_4=0Aristotelesmücke	
+
+[124]
+FZ1=
+FZ2=Wie heißt das Insekt, dessen Larven unter Wasser leben und aus allerlei Material
+FZ3=Wohnröhren bauen ?
+Min=64000
+Max=500000
+Antwort_1=1Köcherfliege	
+Antwort_2=0Wasserfliege	
+Antwort_3=0Röhrenfliege	
+Antwort_4=0Küchenfliege	
+
+[125]
+FZ1=
+FZ2=Wie nennt man die Leuchtkäfer, die mit Leuchtorganen ausgestattet sind ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Glühwürmchen	
+Antwort_2=0Scheinwürmchen	
+Antwort_3=0Leuchtwürmchen	
+Antwort_4=0Strahlewürmchen	
+
+[126]
+FZ1=
+FZ2=Wie heißt der gefürchtete Waldschädling, dessen Larven Gänge
+FZ3=unter der Rinde fressen ?
+Min=2000
+Max=32000
+Antwort_1=1Borkenkäfer	
+Antwort_2=0Baumkäfer	
+Antwort_3=0Rindenkäfer	
+Antwort_4=0Waldkäfer	
+
+[127]
+FZ1=
+FZ2=Wie heißt das Entwicklungsstadium, das die Raupe durchläuft, bis daraus
+FZ3=das fertige Insekt schlüpft ?
+Min=0
+Max=1000
+Antwort_1=1Puppe	
+Antwort_2=0Säugling	
+Antwort_3=0Teddy	
+Antwort_4=0Embryo	
+
+[128]
+FZ1=
+FZ2=Wie heißt ein kleiner, roter Käfer mit schwarzen Punkten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Marienkäfer	
+Antwort_2=0Josefskäfer	
+Antwort_3=0Johanneskäfer	
+Antwort_4=0Barbarakäfer	
+
+[129]
+FZ1=
+FZ2=Welches Produkt wird vom Imker den Bienenwaben entnommen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Honig	
+Antwort_2=0Nektar	
+Antwort_3=0Marmelade	
+Antwort_4=0Sirup	
+
+[130]
+FZ1=
+FZ2=Wie heißt das Insekt, dessen Männchen mit auffälligen, großen Greifzangen
+FZ3=ausgestattet ist ?
+Min=0
+Max=1000
+Antwort_1=1Hirschkäfer	
+Antwort_2=0Wildschweinkäfer	
+Antwort_3=0Rehkäfer	
+Antwort_4=0Elchkäfer	
+
+[131]
+FZ1=
+FZ2=Wie heißt der schwarzgelb gestreifte Käfer, dessen Larven die Blätter einer
+FZ3=wichtigen Nutzpflanze zerfressen ?
+Min=0
+Max=1000
+Antwort_1=1Kartoffelkäfer	
+Antwort_2=0Reiskäfer	
+Antwort_3=0Nudelkäfer	
+Antwort_4=0Weizenkäfer	
+
+[132]
+FZ1=
+FZ2=Welche Fliegenart aus dem tropischen Afrika überträgt beim Stich
+FZ3=die Erreger der Schlafkrankheit ?
+Min=2000
+Max=32000
+Antwort_1=1Tsetse	
+Antwort_2=0Chow - Chow	
+Antwort_3=0Bähbäh	
+Antwort_4=0Yangtse	
+
+[133]
+FZ1=
+FZ2=Was jagen und fressen Marienkäfer vorwiegend ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Blattläuse	
+Antwort_2=0Flöhe	
+Antwort_3=0Ameisen	
+Antwort_4=0Maden	
+
+[134]
+FZ1=
+FZ2=Wie heißt der Käfer, der seine Eier in Kuhdung legt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mistkäfer	
+Antwort_2=0Marienkäfer	
+Antwort_3=0Maikäfer	
+Antwort_4=0Hirschkäfer	
+
+[135]
+FZ1=
+FZ2=Welche Insekten schützen ihre zarten Flügel durch derbe Flügeldecken ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Käfer	
+Antwort_2=0Fliegen	
+Antwort_3=0Libellen	
+Antwort_4=0Mücken	
+
+[136]
+FZ1=
+FZ2=Wie heißt die berühmteste Fernsehbiene ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Maja	
+Antwort_2=0Klara	
+Antwort_3=0Marion	
+Antwort_4=0Sara	
+
+[137]
+FZ1=
+FZ2=Wie heißt der Saft, der von den Bienen aus den Blüten geholt wird ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nektar	
+Antwort_2=0Sirup	
+Antwort_3=0Honig	
+Antwort_4=0Nutella	
+
+[138]
+FZ1=
+FZ2=Welches Insekt legt seine Eier in lebende Raupen einer anderen Art ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schlupfwespe	
+Antwort_2=0Schrumpfwespe	
+Antwort_3=0Rennwespe	
+Antwort_4=0Schlafwespe	
+
+[139]
+FZ1=
+FZ2=Wie wird das einzig fruchtbare Weibchen eines Bienevolkes genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Königin	
+Antwort_2=0Prinzessin	
+Antwort_3=0Kaiserin	
+Antwort_4=0Maja	
+
+[140]
+FZ1=
+FZ2=Wie heißen die aus Wachs geformten Vorratsbehälter für Bienenhonig ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Waben	
+Antwort_2=0Krüge	
+Antwort_3=0Becher	
+Antwort_4=0Kammern	
+
+[141]
+FZ1=
+FZ2=Welche Insekten werden von den Ameisen als Melkkühe benutzt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Blattläuse	
+Antwort_2=0Gallwespen	
+Antwort_3=0Libellen	
+Antwort_4=0Honigbienen	
+
+[142]
+FZ1=
+FZ2=Wie heißen wurmförmige Insektenlarven ohne Beine ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Maden	
+Antwort_2=0Schaden	
+Antwort_3=0Waden	
+Antwort_4=0Laden	
+
+[143]
+FZ1=
+FZ2=Welche Staaten bildenden Insekten bekämpfen ihre Feinde mit Säurespritzern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Ameisen	
+Antwort_2=0Wespen	
+Antwort_3=0Bienen	
+Antwort_4=0Hummeln	
+
+[144]
+FZ1=
+FZ2=Wie nennt man das aus dem Insektenei schlüpfende Entwicklungsstadium, das den
+FZ3=Eltern überhaupt nicht ähnlich sieht ?
+Min=2000
+Max=32000
+Antwort_1=1Larve	
+Antwort_2=0Kokon	
+Antwort_3=0Puppe	
+Antwort_4=0Harfe	
+
+[145]
+FZ1=
+FZ2=Wie viele Insektenarten gibt es schätzungsweise auf der ganzen Welt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ca. 750.000	
+Antwort_2=0ca. 430.000	
+Antwort_3=0ca. 200.000	
+Antwort_4=01.300.000	
+
+[146]
+FZ1=
+FZ2=Wie heißt der Fachausdruck für die zusammengesetzten Augen der Insekten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Facettenaugen	
+Antwort_2=0Spiegelaugen	
+Antwort_3=0Mosaikaugen	
+Antwort_4=0Raclettaugen	
+
+[147]
+FZ1=
+FZ2=Wie heißen die Körperteile, mit denen Insekten fühlen und auch riechen können ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Fühler	
+Antwort_2=0Antennen	
+Antwort_3=0Riecher	
+Antwort_4=0Rüssel	
+
+[148]
+FZ1=
+FZ2=Woraus besteht der Panzer der Insekten ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Chitin	
+Antwort_2=0Karotin	
+Antwort_3=0Strichnin	
+Antwort_4=0Hämoglobin	
+
+[149]
+FZ1=
+FZ2=Wie viele Beine besitzen Insekten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=16	
+Antwort_2=04	
+Antwort_3=08	
+Antwort_4=010	
+
+[150]
+FZ1=
+FZ2=Wie nennt man das aus dem Insektenei schlüpfende Entwicklungsstadium, das den
+FZ3=Eltern überhaupt nicht ähnlich sieht ?
+Min=2000
+Max=32000
+Antwort_1=1Larve	
+Antwort_2=0Kokon	
+Antwort_3=0Puppe	
+Antwort_4=0Harfe	
+

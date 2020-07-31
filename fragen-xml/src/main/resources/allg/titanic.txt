@@ -1,0 +1,2734 @@
+[Thema]
+Thema=Rund um die Titanic
+Fragen=248
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wie viele Kabinen gab es auf der Titanic ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1762	
+Antwort_2=0422	
+Antwort_3=0648	
+Antwort_4=0297	
+
+[2]
+FZ1=
+FZ2=Wie lang waren insgesamt alle Korridore, die zu den Kabinen führten ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=17 km	
+Antwort_2=03.500 m	
+Antwort_3=05 km	
+Antwort_4=02.800 m	
+
+[3]
+FZ1=
+FZ2=Wer entdeckte 1985 die Titanic ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Dr. R. Ballard	
+Antwort_2=0Dr. Brinkmann	
+Antwort_3=0Dr. Schiwago	
+Antwort_4=0Dr. Müller - Wohlfarth	
+
+[4]
+FZ1=
+FZ2=Wie groß war die Messingglocke im Krähennest ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=140 cm	
+Antwort_2=080 cm	
+Antwort_3=060 cm	
+Antwort_4=0120 cm	
+
+[5]
+FZ1=
+FZ2=Wie hießen die beiden Wachtposten im Krähennest, die den Eisberg sichteten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Lee und Fleet	
+Antwort_2=0Stan und Laurel	
+Antwort_3=0Pat und Patterchon	
+Antwort_4=0Jack und Jill	
+
+[6]
+FZ1=
+FZ2=Wie viele Passagiere schliefen im großen Schlafsaal unten am G - Deck ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1164	
+Antwort_2=0104	
+Antwort_3=0124	
+Antwort_4=088	
+
+[7]
+FZ1=
+FZ2=Wie hoch war die Titanic - ohne Masten -  ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=153 m	
+Antwort_2=0153 m	
+Antwort_3=035 m	
+Antwort_4=019 m	
+
+[8]
+FZ1=
+FZ2=Wie nennt man ein Fass, das am Vormast des Schiffes befestigt ist
+FZ3=und den Ausguckposten Schutz bietet ?
+Min=4000
+Max=64000
+Antwort_1=1Krähennest	
+Antwort_2=0Elsternnest	
+Antwort_3=0Rabennest	
+Antwort_4=0Möwennest	
+
+[9]
+FZ1=
+FZ2=Wie viele Flaschen Mineralwasser waren an Bord der Titanic ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=115.000	
+Antwort_2=05.000	
+Antwort_3=010.000	
+Antwort_4=02.500	
+
+[10]
+FZ1=
+FZ2=Um wie viel Uhr war für die Dritte Klasse Nachtruhe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=122 Uhr	
+Antwort_2=023 Uhr	
+Antwort_3=021 Uhr	
+Antwort_4=020 Uhr	
+
+[11]
+FZ1=
+FZ2=Wie viele Personen fanden im Speisesaal der Dritten Klasse Platz ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1473	
+Antwort_2=0573	
+Antwort_3=0373	
+Antwort_4=0673	
+
+[12]
+FZ1=
+FZ2=Wie viele Personen fanden im Speisesaal der Zweiten Klasse Platz ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1394	
+Antwort_2=0194	
+Antwort_3=0294	
+Antwort_4=0494	
+
+[13]
+FZ1=
+FZ2=Wie lang war der Empfangsraum, der sich neben dem Speisesaal befand ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=116 m	
+Antwort_2=08 m	
+Antwort_3=012 m	
+Antwort_4=04 m	
+
+[14]
+FZ1=
+FZ2=Nach wie vielen Metern kam die Titanic beim Notbremsetest
+FZ3=bei einer Geschwindigkeit von 20 Knoten zum Stillstand ?
+Min=2000
+Max=32000
+Antwort_1=1850 m	
+Antwort_2=0450 m	
+Antwort_3=0650 m	
+Antwort_4=0250 m	
+
+[15]
+FZ1=
+FZ2=Wie nennt man die "Hupe" der Titanic ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Typhon	
+Antwort_2=0Xylophon	
+Antwort_3=0Megaphon	
+Antwort_4=0Gigaphon	
+
+[16]
+FZ1=
+FZ2=Wie schwer waren die Ketten, die bei den Seitenankern verwendet wurden ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=196 Tonnen	
+Antwort_2=032 Tonnen	
+Antwort_3=064 Tonnen	
+Antwort_4=0248 Tonnen	
+
+[17]
+FZ1=
+FZ2=Wie viele Uhren gab es an Bord der Titanic ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=148	
+Antwort_2=096	
+Antwort_3=064	
+Antwort_4=012	
+
+[18]
+FZ1=
+FZ2=Wie breit war das Ruder der Titanic ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=14,50 m	
+Antwort_2=02,75 m	
+Antwort_3=01,50 m	
+Antwort_4=012,80 m	
+
+[19]
+FZ1=
+FZ2=Wie hoch war das Ruder der Titanic ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=124 m	
+Antwort_2=036 m	
+Antwort_3=012 m	
+Antwort_4=048 m	
+
+[20]
+FZ1=
+FZ2=Wie schwer war die Tiefdruck-Turbine, die die mittlere Schiffsschraube antrieb ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1420 Tonnen	
+Antwort_2=0680 Tonnen	
+Antwort_3=0240 Tonnen	
+Antwort_4=0860 Tonnen	
+
+[21]
+FZ1=
+FZ2=Wie groß war die maximale Passagier- und Besatzungskapazität ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=13.547	
+Antwort_2=02.157	
+Antwort_3=02.904	
+Antwort_4=01.456	
+
+[22]
+FZ1=
+FZ2=Die Titanic war auf ihrer Jungfernfahrt nicht ausgebucht.
+FZ3=Wie viele Passagiere hätten noch mitfahren können ?
+Min=4000
+Max=64000
+Antwort_1=11.000	
+Antwort_2=0500	
+Antwort_3=0700	
+Antwort_4=0300	
+
+[23]
+FZ1=
+FZ2=Wo sank die Titanic ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1in der Nähe der Großen	Neufundlandbank	
+Antwort_2=0in der Nähe des Großen	Neufundlandstuhles	
+Antwort_3=0in der Nähe des Großen	Neufundlandtisches	
+Antwort_4=0in der Nähe des Großen	Neufundlandsessels	
+
+[24]
+FZ1=
+FZ2=Wie viel PS hatte die Titanic ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=151.000	
+Antwort_2=0120.000	
+Antwort_3=018.000	
+Antwort_4=034.000	
+
+[25]
+FZ1=
+FZ2=Bei der wie vielten Überseereise sank die Titanic ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1bei der ersten	
+Antwort_2=0bei der zehnten	
+Antwort_3=0bei der zweiten	
+Antwort_4=0bei der hundertsten	
+
+[26]
+FZ1=
+FZ2=Wann ging die Titanic unter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nachts	
+Antwort_2=0nachmittags	
+Antwort_3=0vormittags	
+Antwort_4=0mittags	
+
+[27]
+FZ1=
+FZ2=Was stand am Heck der Titanic ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1T I T A N I C	Liverpool	
+Antwort_2=0T I T A N I C	Dublin	
+Antwort_3=0T I T A N I C	London	
+Antwort_4=0T I T A N I C	Manchester	
+
+[28]
+FZ1=
+FZ2=Wie heißt der Titelsong aus dem Film "Titanic" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1My heart will go on	
+Antwort_2=0My Bonnie is over the ocean	
+Antwort_3=0Strangers in the night	
+Antwort_4=0Watership down	
+
+[29]
+FZ1=
+FZ2=Ist die Szene im Film, in der Jack mit ausgebreiteten Armen vorne im Bug steht,
+FZ3=realistisch ?
+Min=0
+Max=1000
+Antwort_1=1Nein, Passagieren war es verboten, das	Vorderdeck zu betreten und erst recht,	sich im Bug aufzuhalten.	
+Antwort_2=0Ja, allerdings durften dies nur die	Passagiere der ersten Klasse.	
+Antwort_3=0ja	
+Antwort_4=0Ja, allerdings war das nur in Begleitung	eines Offiziers erlaubt.	
+
+[30]
+FZ1=
+FZ2=Mit welchen Buchstaben waren die Passierdecks der Titanic bezeichnet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1A - G	
+Antwort_2=0A - F	
+Antwort_3=0A - D	
+Antwort_4=0A - H	
+
+[31]
+FZ1=
+FZ2=Wie nennt man die beweglichen, senkrechten Trennwände, mit denen die einzelnen
+FZ3=Abteilungen eines Schiffes wasserdicht geschlossen werden können ?
+Min=16000
+Max=125000
+Antwort_1=1Schotten	
+Antwort_2=0Zotten	
+Antwort_3=0Grotten	
+Antwort_4=0Rotten	
+
+[32]
+FZ1=
+FZ2=Welches Ziel hatte die Titanic ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1New York	
+Antwort_2=0London	
+Antwort_3=0San Franzisco	
+Antwort_4=0Amsterdam	
+
+[33]
+FZ1=
+FZ2=Wie viele Oscars hat der Film "Titanic" gewonnen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=111	
+Antwort_2=06	
+Antwort_3=09	
+Antwort_4=03	
+
+[34]
+FZ1=
+FZ2=Wie teuer war der Film "Titanic", der 1998 gedreht wurde ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1fast doppelt so teuer wie der Bau der	Titanic (ca. 200 Millionen $)	
+Antwort_2=0halb so teuer wie der Bau der Titanic	(ca. 70 Millionen $)	
+Antwort_3=0genauso teuer wie der Bau der Titanic	(ca. 128 Millionen $)	
+Antwort_4=0mehr als doppelt so teuer wie der Bau	der Titanic (ca. 260 Millionen $)	
+
+[35]
+FZ1=
+FZ2=Wie tief hat sich der Bug beim Aufprall auf den Meeresboden
+FZ3=in den Schlamm gebohrt ?
+Min=4000
+Max=64000
+Antwort_1=118 m	
+Antwort_2=06 m	
+Antwort_3=03 m	
+Antwort_4=012 m	
+
+[36]
+FZ1=
+FZ2=Wie weit entfernt vom Bug  liegt die Heckhälfte ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1600 m	
+Antwort_2=0200m	
+Antwort_3=0400 m	
+Antwort_4=01.200 m	
+
+[37]
+FZ1=
+FZ2=In welcher Tiefe liegt das Wrack der Titanic ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=13.798 m	
+Antwort_2=06.812 m	
+Antwort_3=02.435 m	
+Antwort_4=01.622 m	
+
+[38]
+FZ1=
+FZ2=Wann wurde das Wrack der Titanic entdeckt ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=11. September 1985	
+Antwort_2=01. November 2001	
+Antwort_3=01. April 1943	
+Antwort_4=01. Januar 1966	
+
+[39]
+FZ1=
+FZ2=Welche Vorschrift für die Anzahl von Rettungsbooten gilt
+FZ3=- zum Teil aufgrund der Titanic - Katastrophe -  heute ?
+Min=16000
+Max=250000
+Antwort_1=1Die Kapazität der Rettungsboote muss	um 25 Prozent höher sein, als die an	Bord befindlichen Personen.
+Antwort_2=0Die Kapazität der Rettungsboote muss	genauso hoch sein, wie die Anzahl	der an Bord befindlichen Personen.
+Antwort_3=0Die Kapazität der Rettungsboote muss	um 50 Prozent höher sein, als die an	Bord befindlichen Personen.
+Antwort_4=0Die Kapazität der Rettungsboote muss	um 15 Prozent höher sein, als die an	Bord befindlichen Personen.
+
+[40]
+FZ1=
+FZ2=Wie viele der schätzungsweise 710 Passagiere der dritten Klasse
+FZ3=überlebten das Unglück ?
+Min=4000
+Max=64000
+Antwort_1=1174
+Antwort_2=0332
+Antwort_3=0282
+Antwort_4=0409
+
+[41]
+FZ1=
+FZ2=Wie viele der insgesamt 899 Besatzungsmitglieder überlebten ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1214
+Antwort_2=0539
+Antwort_3=0406
+Antwort_4=0631
+
+[42]
+FZ1=
+FZ2=Wie viele Leichen wurden gefunden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1329
+Antwort_2=0114
+Antwort_3=058
+Antwort_4=0251
+
+[43]
+FZ1=
+FZ2=Wie hieß die Schifffahrtsgesellschaft, der die Titanic gehörte ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1White Star Line
+Antwort_2=0King of the Ocean
+Antwort_3=0Black Star Line
+Antwort_4=0Ozean Queen
+
+[44]
+FZ1=
+FZ2=Wohin fuhr die Carpathia mit den Überlebenden ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nach New York
+Antwort_2=0nach Rotterdam
+Antwort_3=0nach London
+Antwort_4=0nach Peking
+
+[45]
+FZ1=
+FZ2=Wie lange dauerte die Fahrt der Überlebenden nach New York ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=13 1/2 Tage
+Antwort_2=07 Tage
+Antwort_3=02 Tage
+Antwort_4=05 Tage
+
+[46]
+FZ1=
+FZ2=Wie hieß das zweite Schiff, dass sich in der Unglücksnacht
+FZ3=in der Nähe der Titanic befand ?
+Min=250000
+Max=500000
+Antwort_1=1Californian	
+Antwort_2=0Maryland	
+Antwort_3=0Mississippi	
+Antwort_4=0Bismark	
+
+[47]
+FZ1=
+FZ2=Welche Farbe haben die Raketen auf See, die "Schiff in Seenot" bedeuten ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1weiß
+Antwort_2=0grün
+Antwort_3=0rot
+Antwort_4=0gelb
+
+[48]
+FZ1=
+FZ2=Wer ging als Letzter an Bord der Carpathia ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1der Zweite Offizier Lightoller
+Antwort_2=0J. Bruce Ismay, der Präsident der	Schifffahrtslinie
+Antwort_3=0der Kapitän Smith
+Antwort_4=0Thomas Andrews, der Konstrukteur
+
+[49]
+FZ1=
+FZ2=Wie viele Menschen wurden gerettet ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1705
+Antwort_2=0905
+Antwort_3=0505
+Antwort_4=01105
+
+[50]
+FZ1=
+FZ2=Wie lange dauerte die gesamte Rettungsaktion ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1mehr als 4 Stunden
+Antwort_2=0ca. 3 Stunden
+Antwort_3=01- 2 Stunden
+Antwort_4=03 Stunden 45 Minuten
+
+[51]
+FZ1=
+FZ2=Das erste Rettungsboot erreichte die Carpathia gegen 4.10 Uhr.
+FZ3=Wann erreichte das letzte Rettungsboot die Carpathia ?
+Min=4000
+Max=64000
+Antwort_1=1gegen 8.30 Uhr
+Antwort_2=0gegen 6.30 Uhr
+Antwort_3=0gegen 5.30 Uhr
+Antwort_4=0gegen 7.30 Uhr
+
+[52]
+FZ1=
+FZ2=Wann legte das erste Rettungsboot längsseits der Carpathia an ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=14.10 Uhr
+Antwort_2=02.10 Uhr
+Antwort_3=03.10 Uhr
+Antwort_4=05.10 Uhr
+
+[53]
+FZ1=
+FZ2=Welches Rettungsboot kam zuerst bei der Carpathia an ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Nr. 2
+Antwort_2=0Nr. 10
+Antwort_3=0Nr.12
+Antwort_4=0Nr. 1
+
+[54]
+FZ1=
+FZ2=Wann erreichte die Carpathia die Unglückstelle ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1gegen 3.30 Uhr
+Antwort_2=0gegen 2.20 Uhr
+Antwort_3=0gegen 1.10 Uhr
+Antwort_4=0gegen 4.40 Uhr
+
+[55]
+FZ1=Die Carpathia war normalerweise 14,5 Knoten schnell. Da der Kapitän angeordnet
+FZ2=hatte, alle Nebensysteme abzuschalten, konnte der gesparte Dampf für die
+FZ3=Maschinen genutzt werden. Wie schnell war die Carpathia nun ?
+Min=250000
+Max=500000
+Antwort_1=117,5 Knoten
+Antwort_2=016,5 Knoten
+Antwort_3=015,5 Knoten
+Antwort_4=018,5 Knoten
+
+[56]
+FZ1=
+FZ2=Wie viele Eisberge musste die Carpathia umschiffen,
+FZ3=bevor sie die Überlebenden der Titanic retten konnte ?
+Min=250000
+Max=500000
+Antwort_1=16	
+Antwort_2=010	
+Antwort_3=04	
+Antwort_4=022	
+
+[57]
+FZ1=
+FZ2=Für wie viele Passagiere hatte die Carpathia (das Schiff, das die Überlebenden der
+FZ3=Titanic rettete) Platz ?
+Min=64000
+Max=250000
+Antwort_1=12.550
+Antwort_2=0675
+Antwort_3=01.370
+Antwort_4=01.780
+
+[58]
+FZ1=
+FZ2=Wohin wollte die Titanic ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nach Amerika
+Antwort_2=0nach Australien
+Antwort_3=0nach Afrika
+Antwort_4=0nach Indien
+
+[59]
+FZ1=
+FZ2=Welchen Ozean wollte die Titanic überqueren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1den Atlantischen Ozean
+Antwort_2=0den Indischen Ozean
+Antwort_3=0den Pazifischen Ozean
+Antwort_4=0den Stillen Ozean
+
+[60]
+FZ1=
+FZ2=Wie hieß das Schiff, das die Überlebenden der Titanic rettete ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Carpathia
+Antwort_2=0Californian
+Antwort_3=0Olympic
+Antwort_4=0Queen Mary
+
+[61]
+FZ1=
+FZ2=Wie lange mussten die Menschen bis zu ihrer Rettung in den Booten ausharren ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis zu 6 Stunden
+Antwort_2=0bis zu 10 Stunden
+Antwort_3=0bis zu 8 Stunden
+Antwort_4=0bis zu 12 Stunden
+
+[62]
+FZ1=
+FZ2=Welchen Spitznamen erwarb sich Molly Brown ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1die Unsinkbare
+Antwort_2=0die Rudermeisterin
+Antwort_3=0die Rettungsschwimmerin
+Antwort_4=0die Kapitänsbraut
+
+[63]
+FZ1=
+FZ2=Wann wurden die ersten Signalraketen der Carpathia entdeckt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1um 3.30 Uhr
+Antwort_2=0um 5.50 Uhr
+Antwort_3=0um 4.40 Uhr
+Antwort_4=0um 2.20 Uhr
+
+[64]
+FZ1=
+FZ2=Warum konnten die Schiffbrüchigen nicht auf einen Eisberg klettern ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1In der Nähe der Unglücksstelle waren	keine Eisberge.
+Antwort_2=0Die Ränder waren zu glatt.
+Antwort_3=0Die Ränder waren zu steil.
+Antwort_4=0Der Wellengang war zu stark.
+
+[65]
+FZ1=
+FZ2=Wie lange trieb der Bäckermeister Charles Joughin im eiskalten Wasser,
+FZ3=bevor er an Bord von Rettungsboot 12 gezogen wurde und überlebte ?
+Min=4000
+Max=64000
+Antwort_1=12 Stunden
+Antwort_2=01 Stunde
+Antwort_3=030 Minuten
+Antwort_4=090 Minuten
+
+[66]
+FZ1=
+FZ2=Wie kalt war das Wasser, als die Titanic sank ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1- 2° C	
+Antwort_2=0+ 1°C	
+Antwort_3=00° C	
+Antwort_4=0+ 4°C	
+
+[67]
+FZ1=
+FZ2=Wie wurde die Titanic genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schiff der Träume
+Antwort_2=0Schiff der Reichen
+Antwort_3=0Schiff der Giganten
+Antwort_4=0Schiff der Götter
+
+[68]
+FZ1=
+FZ2=Wo brach die Titanic auseinander ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1zwischen dem 3. und dem 4.	Schornstein
+Antwort_2=0zwischen dem 2. und dem 3.	Schornstein
+Antwort_3=0zwischen dem 1. und dem 2.	Schornstein
+Antwort_4=0zwischen dem Bug und dem	1. Schornstein
+
+[69]
+FZ1=
+FZ2=Wie ging die Titanic unter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Sie zerbrach in zwei Teile.
+Antwort_2=0Sie zerbrach in viele Teile.
+Antwort_3=0Sie zerbrach in drei Teile.
+Antwort_4=0Sie ging intakt unter.
+
+[70]
+FZ1=
+FZ2=Wie lange brannten die Lichter auf der Titanic ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis 2 Minuten vor dem endgültigen	Untergang
+Antwort_2=0bis 20 Minuten vor dem endgültigen	Untergang
+Antwort_3=0bis 10 Minuten vor dem endgültigen	Untergang
+Antwort_4=0bis 32 Minuten vor dem endgültigen	Untergang
+
+[71]
+FZ1=
+FZ2=Wie viele Menschen waren um 2 Uhr noch an Bord, als sich bereits die großen
+FZ3=Schiffsschrauben aus dem Wasser hoben  ?
+Min=2000
+Max=32000
+Antwort_1=1mehr als 1.500
+Antwort_2=0950 - 1.100
+Antwort_3=0ca. 1.200
+Antwort_4=0857
+
+[72]
+FZ1=
+FZ2=Wie lautete der letzte Funkspruch der Titanic ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Maschinenraum voll gelaufen bis über	die Kessel
+Antwort_2=0Titanic sinkt mit schwerer Schlagseite
+Antwort_3=0Rettet uns, wir sinken schnell !
+Antwort_4=0Wir sinken ! Frauen und Kinder in den	Booten !
+
+[73]
+FZ1=
+FZ2=Wann empfing die CARPATHIA den letzten Funkspruch der Titanic ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11.45 Uhr
+Antwort_2=00.45 Uhr
+Antwort_3=02.35 Uhr
+Antwort_4=023.30 Uhr
+
+[74]
+FZ1=
+FZ2=Wann erreichte der Wasserspiegel den Schriftzug TITANIC am Bug ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1gegen 1.15 Uhr
+Antwort_2=0gegen 2.15 Uhr
+Antwort_3=0gegen 1.45 Uhr
+Antwort_4=0gegen 23.45 Uhr
+
+[75]
+FZ1=
+FZ2=Wie viel Meter Seil war für das Herablassen eines Rettungsbootes vom Oberdeck
+FZ3=(18 Meter bis zur Wasseroberfläche) nötig ?
+Min=64000
+Max=250000
+Antwort_1=1117 m
+Antwort_2=048 m
+Antwort_3=022 m
+Antwort_4=089 m
+
+[76]
+FZ1=
+FZ2=Wie tief mussten die Rettungsboote vom Oberdeck bis zur Wasseroberfläche
+FZ3=herabgelassen werden ?
+Min=2000
+Max=32000
+Antwort_1=118 m	
+Antwort_2=06 m	
+Antwort_3=012 m	
+Antwort_4=028 m	
+
+[77]
+FZ1=Da in der Aufregung niemand mitgezählt hat, sind die Angaben zur Besetzung der
+FZ2=Rettungsboote nur Schätzwerte. Wie viele Menschen befanden sich insgesamt in den
+FZ3=Rettungsbooten, wenn man jeweils die niedrigsten Zahlen zusammenrechnet ?
+Min=16000
+Max=250000
+Antwort_1=1815
+Antwort_2=01.165
+Antwort_3=0635
+Antwort_4=01.483
+
+[78]
+FZ1=
+FZ2=Wie viele Signalraketen wurden insgesamt gezündet ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=18
+Antwort_2=016
+Antwort_3=04
+Antwort_4=032
+
+[79]
+FZ1=
+FZ2=Welche Farbe hatten die ersten Signalraketen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1weiß
+Antwort_2=0grün
+Antwort_3=0rot
+Antwort_4=0gelb
+
+[80]
+FZ1=
+FZ2=Wann wurden Signalraketen abgeschossen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=10.55 Uhr
+Antwort_2=030 Minuten nach der Kollision mit dem	Eisberg
+Antwort_3=0unmittelbar nach dem Aufprall auf den	Eisberg
+Antwort_4=02.15 Uhr
+
+[81]
+FZ1=
+FZ2=Weshalb war das erste Rettungsboot nicht voll besetzt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Viele Passagiere glaubten immer noch	nicht, dass die Titanic sinken würde.
+Antwort_2=0Die Seeleute ließen das Rettungsboot	zu schnell zu Wasser, so dass nicht	mehr Passagiere einsteigen konnten.
+Antwort_3=0Die Offiziere ließen nur die Kinder aus	der ersten Klasse einsteigen.
+Antwort_4=0Viele Passagiere hatten den Befehl, die	Rettungsboote zu besetzen, noch nicht	gehört.
+
+[82]
+FZ1=
+FZ2=Wann wurde das Orchester angewiesen, zur Beruhigung der Passagiere leichte und
+FZ3=fröhliche Melodien zu spielen ?
+Min=32000
+Max=250000
+Antwort_1=1gegen 0.15 Uhr
+Antwort_2=020 Minuten nach dem Zusammenstoß	mit dem Eisberg
+Antwort_3=0unmittelbar nach der Sichtung des	Eisbergs
+Antwort_4=0gegen 1.35 Uhr
+
+[83]
+FZ1=
+FZ2=Mit wie vielen Personen war das erste Rettungsboot besetzt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=119
+Antwort_2=059
+Antwort_3=039
+Antwort_4=079
+
+[84]
+FZ1=
+FZ2=Welches Rettungsboot wurde zuerst zu Wasser gelassen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Nr. 7
+Antwort_2=0Nr. 16
+Antwort_3=0Nr. 1
+Antwort_4=0Nr. 9
+
+[85]
+FZ1=
+FZ2=Wann kam der Befehl, die Rettungsboote zu besetzen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=10.25 Uhr
+Antwort_2=01.45 Uhr
+Antwort_3=030 Minuten nach der Sichtung des	Eisbergs
+Antwort_4=0unmittelbar nach der Sichtung des	Eisbergs
+
+[86]
+FZ1=
+FZ2=Wie nennt man die gebogenen Schiffskräne mit Flaschenzügen, mit deren Hilfe
+FZ3=Ruderboote zu Wasser gelassen werden können ?
+Min=500000
+Max=500000
+Antwort_1=1Davits	
+Antwort_2=0Herkules	
+Antwort_3=0Goliaths	
+Antwort_4=0Samsons	
+
+[87]
+FZ1=
+FZ2=War die Titanic vorschriftsmäßig mit Rettungsbooten ausgestattet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ja
+Antwort_2=0Nein, es fiel aber nicht auf, da die	Konstruktionszeichnung gefälscht	wurde.
+Antwort_3=0nein
+Antwort_4=0Eigentlich nicht, denn die mitgeführten	Rettungsboote waren zu klein.
+
+[88]
+FZ1=
+FZ2=Für wie viele Menschen war insgesamt in den 20 Rettungsbooten Platz ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11.178
+Antwort_2=0850
+Antwort_3=01.590
+Antwort_4=02.166
+
+[89]
+FZ1=
+FZ2=Wie viele Personen konnte jedes der 4 Faltboote an Bord aufnehmen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=147
+Antwort_2=087
+Antwort_3=027
+Antwort_4=0127
+
+[90]
+FZ1=
+FZ2=Wie viele Faltboote gab es an Bord ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=14
+Antwort_2=08
+Antwort_3=06
+Antwort_4=010
+
+[91]
+FZ1=
+FZ2=Wie viele Personen konnte jedes der beiden Notboote aufnehmen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=140
+Antwort_2=060
+Antwort_3=020
+Antwort_4=080
+
+[92]
+FZ1=
+FZ2=Wie viele Notboote gab es für jeweils 40 Personen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=12
+Antwort_2=06
+Antwort_3=04
+Antwort_4=08
+
+[93]
+FZ1=
+FZ2=Es gab insgesamt 20 Rettungsboote. Wie viele davon waren Hauptrettungsboote ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=114
+Antwort_2=018
+Antwort_3=010
+Antwort_4=06
+
+[94]
+FZ1=
+FZ2=Wie viele Personen konnten jeweils in eines der 14 Hauptrettungsboote ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=165
+Antwort_2=085
+Antwort_3=045
+Antwort_4=0125
+
+[95]
+FZ1=
+FZ2=Wie viele Schwimmwesten waren an Bord ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=13.560
+Antwort_2=01.075
+Antwort_3=02.190
+Antwort_4=06.970
+
+[96]
+FZ1=
+FZ2=Wie weit war die Carpathia - eines der Schiffe, die auf den Notruf antworteten - von
+FZ3=der Unglücksstelle entfernt ?
+Min=1000
+Max=16000
+Antwort_1=1ca. 93 km	
+Antwort_2=0ca. 143 km	
+Antwort_3=0ca. 53 km	
+Antwort_4=0ca. 345 km	
+
+[97]
+FZ1=
+FZ2=Wer antwortete  n i c h t  auf den Notruf ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1die Queen Mary
+Antwort_2=0die Frankfurt
+Antwort_3=0die Olympic
+Antwort_4=0die Carpathia
+
+[98]
+FZ1=
+FZ2=Wann wurde das erste Notsignal abgegeben ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1gegen 0.10 Uhr
+Antwort_2=0unmittelbar nach der Entdeckung des	Eisbergs
+Antwort_3=0gegen 23.10 Uhr
+Antwort_4=0ca. 2.10 Uhr
+
+[99]
+FZ1=
+FZ2=Wie ging die Titanic unter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1mit dem Bug zuerst
+Antwort_2=0Sie kippte auf die Steuerbordseite.
+Antwort_3=0mit dem Heck zuerst
+Antwort_4=0Sie kippte auf die Backbordseite.
+
+[100]
+FZ1=
+FZ2=Wann bekam der Leitende Offizier Wilde den Befehl,
+FZ3=die Rettungsboote klar zu machen ?
+Min=4000
+Max=64000
+Antwort_1=1genau 5 Minuten nach Mitternacht, also	ca. 25 Minuten nach dem Aufprall
+Antwort_2=0ungefähr 20 Minuten vor 1 Uhr, also	etwa eine Stunde nach dem Aufprall
+Antwort_3=0sofort nach dem Aufprall
+Antwort_4=0ca. 10 Minuten nach dem Aufprall, also	gegen 23.50 Uhr
+
+[101]
+FZ1=
+FZ2=Mit wie vielen vollgelaufenen der insgesamt 16 "wasserdichten" Abteilungen hätte
+FZ3=sich die Titanic noch über Wasser halten können ?
+Min=64000
+Max=250000
+Antwort_1=14
+Antwort_2=08
+Antwort_3=06
+Antwort_4=02
+
+[102]
+FZ1=
+FZ2=Wie viele der 16 "wasserdichten" Abteilungen waren beschädigt worden ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=16
+Antwort_2=04
+Antwort_3=08
+Antwort_4=010
+
+[103]
+FZ1=
+FZ2=Wie viele "wasserdichte" Abteilungen hatte die Titanic ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=116
+Antwort_2=04
+Antwort_3=08
+Antwort_4=032
+
+[104]
+FZ1=
+FZ2=Wie lange dauerte es, bis sich die vorderen fünf Abteilungen des Rumpfes mit
+FZ3=Wasser füllten, wodurch sich der Bug bereits deutlich zu neigen begann ?
+Min=1000
+Max=16000
+Antwort_1=110 Minuten
+Antwort_2=030 Minuten
+Antwort_3=020 Minuten
+Antwort_4=040 Minuten
+
+[105]
+FZ1=
+FZ2=Wo drang das Wasser rasch ein ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1in die Poststelle auf dem G - Deck
+Antwort_2=0in die Löcher für die Ankerketten
+Antwort_3=0in die Ladeluken auf dem D - Deck
+Antwort_4=0in die Bullaugen auf der	Steuerbordseite, die bei dem Aufprall	zerplatzten
+
+[106]
+FZ1=
+FZ2=Wie hieß der Chef der Nachtbäckerei ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Walter Belford	
+Antwort_2=0Walter Ulbricht	
+Antwort_3=0Walter Scheel	
+Antwort_4=0Walter Icemountain	
+
+[107]
+FZ1=
+FZ2=Wie beschädigte der Eisberg die Titanic ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Die genieteten Platten waren zwar	nur eingedellt, aber die Nieten hielten	dem Wasserdruck nicht stand.
+Antwort_2=0Der Eisberg schlug zwei große Löcher in	den Rumpf.
+Antwort_3=0Der Rumpf wurde auf einer Länge von	90 Metern aufgerissen.
+Antwort_4=0Der Eisberg riss den gesamten Bug ab.
+
+[108]
+FZ1=
+FZ2=Wie hoch ragte die Spitze des Eisbergs aus dem Wasser ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 18 m
+Antwort_2=0ca. 12 m
+Antwort_3=0ca. 6 m
+Antwort_4=0ca. 3 m
+
+[109]
+FZ1=
+FZ2=Welche Kommandos gab der erste Offizier nach der Entdeckung des Eisbergs ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1"Stopp ! Volle Kraft zurück !	Hart steuerbord !"
+Antwort_2=0"Halbe Kraft voraus !"
+Antwort_3=0"Stopp ! Volle Kraft zurück !	Hart backbord !"
+Antwort_4=0"Maschinen stopp ! Halbe Kraft zurück !	30 Grad steuerbord !"
+
+[110]
+FZ1=
+FZ2=Wie viel Zeit verging zwischen der Meldung "Eisberg voraus" und dem Aufprall ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=137 Sekunden
+Antwort_2=03 Minuten
+Antwort_3=092 Sekunden
+Antwort_4=0zwischen 5 und 6 Minuten
+
+[111]
+FZ1=
+FZ2=Wo wurde die Titanic vom Eisberg gerammt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1am Bug (Steuerbord)
+Antwort_2=0am Heck (Steuerbord)
+Antwort_3=0am Bug (Backbord)
+Antwort_4=0am Heck (Backbord)
+
+[112]
+FZ1=
+FZ2=Was rammte die Titanic ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1ein Eisberg
+Antwort_2=0eine Sandbank
+Antwort_3=0ein Korallenriff
+Antwort_4=0eine Riesenkrake
+
+[113]
+FZ1=
+FZ2=Weshalb kann man einen Eisberg riechen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Eingeschlossene Mineralien werden	freigesetzt und erzeugen den typischen	Eisberggeruch.
+Antwort_2=0Das schmelzende Süßwasser des	Eisbergs verdünnt das Salzwasser	um den Eisberg herum.
+Antwort_3=0Eisberge transportieren viel Möwenkot.
+Antwort_4=0An Eisbergen entstehen viele Wellen, so	dass die Luft salzhaltiger wird.
+
+[114]
+FZ1=
+FZ2=Verringerte die Titanic ihre Geschwindigkeit, als sie sich am frühen Abend dem von
+FZ3=der Baltic gemeldeten Eis näherte ?
+Min=0
+Max=1000
+Antwort_1=1nein
+Antwort_2=0ja, um ein Viertel
+Antwort_3=0ja, um die Hälfte
+Antwort_4=0ja, um ein Drittel
+
+[115]
+FZ1=
+FZ2=Welche Temperatur herrschte am Sonntag, dem 14. April um 19.30 Uhr ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=10,6° C
+Antwort_2=07 ° C
+Antwort_3=04 ° C
+Antwort_4=012 ° C
+
+[116]
+FZ1=
+FZ2=Wie schnell fuhr die Titanic am Sonntag, dem 14. April ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=122 Knoten	
+Antwort_2=018 Knoten	
+Antwort_3=026 Knoten	
+Antwort_4=012 Knoten	
+
+[117]
+FZ1=
+FZ2=Warum versammelten sich die Passagiere jeden Mittag beim Zahlmeister ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weil die aktuelle Position und die	Tagesleistung bekannt gegeben wurde
+Antwort_2=0weil dann das Geld verteilt wurde
+Antwort_3=0weil man dann Postkarten und	Souvenirs kaufen konnte
+Antwort_4=0weil dann die neuen Speisekarten	verlesen wurden
+
+[118]
+FZ1=
+FZ2=Was tat Kapitän Smith nach Erhalt der Eiswarnung ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Er änderte den Kurs in leicht südlicher	Richtung ab.
+Antwort_2=0Er änderte den Kurs in leicht westlicher	Richtung ab.
+Antwort_3=0Er änderte den Kurs in leicht nördlicher	Richtung ab.
+Antwort_4=0Er befahl "Halbe Kraft voraus".
+
+[119]
+FZ1=
+FZ2=Wann empfing die Titanic die erste Eiswarnung ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Freitag, 12. April
+Antwort_2=0Sonntag, 14. April
+Antwort_3=0Samstag, 13. April
+Antwort_4=0Donnerstag, 11. April
+
+[120]
+FZ1=
+FZ2=Wie viele Seemeilen legte die Titanic am Freitag, dem 12. April, zurück ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1386 Seemeilen
+Antwort_2=0586 Seemeilen
+Antwort_3=0186 Seemeilen
+Antwort_4=0786 Seemeilen
+
+[121]
+FZ1=
+FZ2=Wie groß war das Gesamtvermögen aller Passagiere der ersten Klasse
+FZ3=nach heutigen Maßstäben ?
+Min=250000
+Max=500000
+Antwort_1=1ca. 10 Milliarden Euro
+Antwort_2=0ca. 500 Millionen Euro
+Antwort_3=0ca. 5 Milliarden Euro
+Antwort_4=0ca. 200 Millionen Euro
+
+[122]
+FZ1=
+FZ2=Wie viele Hochzeitspaare hatten ihre Hochzeitsreise auf der Titanic gebucht ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=113
+Antwort_2=06
+Antwort_3=08
+Antwort_4=02
+
+[123]
+FZ1=
+FZ2=Wie viele Gläserspüler, Tellerwäscher und Spülhilfen gab es ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=136
+Antwort_2=0108
+Antwort_3=072
+Antwort_4=018
+
+[124]
+FZ1=
+FZ2=Wie viele Mahlzeiten wurden täglich serviert ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1über 6.000
+Antwort_2=0ca. 4.200
+Antwort_3=04.500 - 5.800
+Antwort_4=03.500 - 4.000
+
+[125]
+FZ1=
+FZ2=Wie viele Köche und Kochhilfen arbeiteten auf der Titanic ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=160
+Antwort_2=040
+Antwort_3=080
+Antwort_4=020
+
+[126]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Kartoffeln führte sie wohl mit ?
+Min=64000
+Max=250000
+Antwort_1=135.000 kg	
+Antwort_2=045.000 kg	
+Antwort_3=025.000 kg	
+Antwort_4=055.000 kg	
+
+[127]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Tomaten führte sie wohl mit ?
+Min=64000
+Max=250000
+Antwort_1=12.000
+Antwort_2=0500
+Antwort_3=01.000
+Antwort_4=04.000
+
+[128]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Salat führte sie wohl mit ?
+Min=64000
+Max=250000
+Antwort_1=17.000 Köpfe
+Antwort_2=09.000 Köpfe
+Antwort_3=05.000 Köpfe
+Antwort_4=013.000 Köpfe
+
+[129]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Butter führte sie wohl mit ?
+Min=32000
+Max=250000
+Antwort_1=12.700 kg
+Antwort_2=05.500 kg
+Antwort_3=03.900 kg
+Antwort_4=010.000 kg
+
+[130]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel frische Sahne führte sie wohl mit ?
+Min=32000
+Max=250000
+Antwort_1=11.300 l
+Antwort_2=0750 l
+Antwort_3=0900 l
+Antwort_4=0350 l
+
+[131]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel frische Milch führte sie wohl mit ?
+Min=16000
+Max=250000
+Antwort_1=15.700 l
+Antwort_2=03.100 l
+Antwort_3=04.300 l
+Antwort_4=01.800 l
+
+[132]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Weintrauben führte sie wohl mit ?
+Min=16000
+Max=250000
+Antwort_1=1450 kg
+Antwort_2=0125 kg
+Antwort_3=0250 kg
+Antwort_4=0900 kg
+
+[133]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Zitronen führte sie wohl mit ?
+Min=8000
+Max=125000
+Antwort_1=116.000
+Antwort_2=06.000
+Antwort_3=026.000
+Antwort_4=0600
+
+[134]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Orangen führte sie wohl mit ?
+Min=32000
+Max=250000
+Antwort_1=136.000
+Antwort_2=012.000
+Antwort_3=024.000
+Antwort_4=06.000
+
+[135]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Zucker führte sie wohl mit ?
+Min=8000
+Max=125000
+Antwort_1=14.500 kg
+Antwort_2=02.500 kg
+Antwort_3=01.500 kg
+Antwort_4=03.500 kg
+
+[136]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Tee führte sie wohl mit ?
+Min=32000
+Max=250000
+Antwort_1=1360 kg	
+Antwort_2=01.000 kg	
+Antwort_3=0600 kg	
+Antwort_4=0150 kg	
+
+[137]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Kaffee führte sie wohl mit ?
+Min=16000
+Max=125000
+Antwort_1=11.000 kg
+Antwort_2=0500 kg
+Antwort_3=05.000 kg
+Antwort_4=0250 kg
+
+[138]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel frische Eier führte sie wohl mit ?
+Min=8000
+Max=125000
+Antwort_1=140.000
+Antwort_2=010.000
+Antwort_3=020.000
+Antwort_4=05.000
+
+[139]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Speck und Schinken führte sie wohl mit ?
+Min=8000
+Max=125000
+Antwort_1=1ca. 3.400 kg
+Antwort_2=0ca. 5.500 kg
+Antwort_3=0ca. 1.200 kg
+Antwort_4=0ca. 670 kg
+
+[140]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel frischen Fisch führte sie wohl mit ?
+Min=8000
+Max=125000
+Antwort_1=1ca. 5.000 kg
+Antwort_2=0ca. 1.250 kg
+Antwort_3=0ca. 10.000 kg
+Antwort_4=0ca. 2.500 kg
+
+[141]
+FZ1=Die Proviantliste der Titanic ist zwar verlorengegangen, doch dürfte sie in etwa dem
+FZ2=entsprochen haben, was ihr Schwesternschiff, die Olympic, auf ihren
+FZ3=Transatlantikfahrten lud. Wie viel Frischfleisch führte sie wohl mit ?
+Min=8000
+Max=125000
+Antwort_1=1ca. 34.000 kg
+Antwort_2=0ca. 19.000 kg
+Antwort_3=0ca. 26.000 kg
+Antwort_4=0ca. 8.000 kg
+
+[142]
+FZ1=
+FZ2=Wie viele Menschen fanden im Speiseraum der ersten Klasse Platz ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1mehr als 550
+Antwort_2=0330
+Antwort_3=0350 - 480
+Antwort_4=0280 - 320
+
+[143]
+FZ1=
+FZ2=Der Speiseraum war der größte Raum, den es zur damaligen Zeit
+FZ3=auf einem Schiff gab. Wie groß war er ?
+Min=4000
+Max=64000
+Antwort_1=135 x 28 m
+Antwort_2=025 x 30 m
+Antwort_3=055 x 75 m
+Antwort_4=018 x 28 m
+
+[144]
+FZ1=
+FZ2=Um wie viel Uhr wurde das Abendessen serviert ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=118 - 19.30 Uhr
+Antwort_2=019.30 - 21 Uhr
+Antwort_3=017 - 18 Uhr
+Antwort_4=019 - 20 Uhr
+
+[145]
+FZ1=
+FZ2=Um wie viel Uhr wurde das Mittagessen serviert ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=113 - 14.30 Uhr
+Antwort_2=011.30 - 12.30 Uhr
+Antwort_3=012 - 13 Uhr
+Antwort_4=014 - 15.30 Uhr
+
+[146]
+FZ1=
+FZ2=Um wie viel Uhr wurde das Frühstück serviert ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=18.30 - 10.30 Uhr	
+Antwort_2=07.15 - 9.30 Uhr	
+Antwort_3=06.00 - 8. 00 Uhr	
+Antwort_4=09 - 11 Uhr	
+
+[147]
+FZ1=
+FZ2=Wie oft erschien auf der Titanic eine eigene Zeitung ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1täglich
+Antwort_2=0wöchentlich
+Antwort_3=0nie
+Antwort_4=0alle drei Tage
+
+[148]
+FZ1=
+FZ2=Wie viele Musiker hatte man für die Reise engagiert ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=18
+Antwort_2=016
+Antwort_3=012
+Antwort_4=020
+
+[149]
+FZ1=
+FZ2=Wie hieß der schiffseigene Squashtrainer ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Fred Wright
+Antwort_2=0Henry Wilde
+Antwort_3=0J. Bruce Ismay
+Antwort_4=0Thomas Andrews
+
+[150]
+FZ1=
+FZ2=Was konnte man unter Anleitung des schiffseigenen Trainers für 50 Cents die halbe
+FZ3=Stunde auf dem G - Deck spielen ?
+Min=16000
+Max=250000
+Antwort_1=1Squash
+Antwort_2=0Badminton
+Antwort_3=0Tennis
+Antwort_4=0Golf
+
+[151]
+FZ1=
+FZ2=Gab es ein Schwimmbad auf der Titanic ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Ja, ein gab ein Meerwasser - Pool.
+Antwort_2=0Ja, von jeder Kabine führten Rutschen	in ein Schwimmbecken.
+Antwort_3=0Nein, es gab nur ein türkisches Bad.
+Antwort_4=0Ja, es gab auf jedem Deck ein	Schwimmbecken, das kostenlos benutzt	werden konnte.
+
+[152]
+FZ1=
+FZ2=Wie wurde die dritte Klasse auch genannt ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Steerage
+Antwort_2=0Village
+Antwort_3=0Kottage
+Antwort_4=0New  Age
+
+[153]
+FZ1=
+FZ2=Wie viele Ärzte betreuten das Bordhospital ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=12
+Antwort_2=06
+Antwort_3=04
+Antwort_4=012
+
+[154]
+FZ1=
+FZ2=Wo befand sich das Hospital an Bord ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1D - Deck
+Antwort_2=0B - Deck
+Antwort_3=0C - Deck
+Antwort_4=0A - Deck
+
+[155]
+FZ1=
+FZ2=Gab es auf der Titanic einen Tanzsaal ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1nein
+Antwort_2=0Ab 20 Uhr wurde die Kapitänssuite zum	Tanzsaal umgestaltet.
+Antwort_3=0ja
+Antwort_4=0Jeden zweiten Tag konnte in der	Lounge der ersten Klasse getanzt	werden.
+
+[156]
+FZ1=
+FZ2=Zu welchen Räumen hatte die Frauen keinen Zutritt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1zu den 3 Rauchsalons	
+Antwort_2=0zu den Kabinen der dritten Klasse	
+Antwort_3=0zu den Kabinen der ersten Klasse	
+Antwort_4=0zum zweiten Treppenhaus im hinteren	Bereich des Schiffes	
+
+[157]
+FZ1=Da Passagier- und Mannschaftslisten von Hand geschrieben und von vielen ver-
+FZ2=schiedenen Menschen bearbeitet wurden, ist eine gesicherte Anzahl über die Men-
+FZ3=schen an Bord unmöglich. Wie viele Menschen befanden sich an Bord der Titanic ?
+Min=4000
+Max=64000
+Antwort_1=1vermutlich 2.207
+Antwort_2=0vermutlich 1.864
+Antwort_3=0vermutlich 1.681
+Antwort_4=0vermutlich 3.709
+
+[158]
+FZ1=
+FZ2=Wie viele Kilometer hatte die Titanic vor ihrer Reise bereits zurückgelegt ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1917 km
+Antwort_2=02.304 km
+Antwort_3=01.793 km
+Antwort_4=03.521 km
+
+[159]
+FZ1=
+FZ2=Wann lief die Titanic zur Probefahrt aus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=12. April 1912
+Antwort_2=01. Januar1912
+Antwort_3=03. März 1912
+Antwort_4=05. Mai 1912
+
+[160]
+FZ1=
+FZ2=Wie lange dauerte die Überprüfung der Seetüchtigkeit der Titanic ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1nicht einmal einen Tag
+Antwort_2=05 Tage
+Antwort_3=02 Tage
+Antwort_4=02 Wochen
+
+[161]
+FZ1=Die Kaianlagen in Queenstown - Irland - (letzter Halt vor der Atlantiküberquerung)
+FZ2=waren für die Titanic nicht groß genug.
+FZ3=Wie weit vor der Küste musste die Titanic ankern ?
+Min=32000
+Max=125000
+Antwort_1=13 Kilometer
+Antwort_2=01 Kilometer
+Antwort_3=02 Kilometer
+Antwort_4=0500 Meter
+
+[162]
+FZ1=
+FZ2=Wie hieß die letzte Anlaufstation vor der Atlantiküberquerung ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Queenstown , Irland
+Antwort_2=0Rotterdam, Niederlande
+Antwort_3=0Cherbourg, Frankreich
+Antwort_4=0London, Großbritannien
+
+[163]
+FZ1=
+FZ2=Wie lange brauchte die Titanic bis zu ihrem ersten Halt in Chersbourg ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1etwas über 4 Stunden
+Antwort_2=0ca. 2 Stunden
+Antwort_3=03 Stunden und 33 Minuten
+Antwort_4=0etwas über 8 Stunden
+
+[164]
+FZ1=
+FZ2=Welches Ziel steuerte die Titanic zuerst an ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Cherbourg in Frankreich auf der	anderen Seite des Ärmelkanals
+Antwort_2=0Queenstown in Irland
+Antwort_3=0Helgoland
+Antwort_4=0Rotterdam
+
+[165]
+FZ1=
+FZ2=Wann wurde das Feuer gelöscht, das bei der Ausfahrt  im Kohlenbehälter von
+FZ3=Kesselraum 5 brannte und schon einige Tage vorher ausgebrochen war ?
+Min=8000
+Max=64000
+Antwort_1=1nach 3 Tagen
+Antwort_2=0^nach 2 Tagen
+Antwort_3=0nach 1 Tag
+Antwort_4=0nach 4 Tagen
+
+[166]
+FZ1=
+FZ2=Welches Problem gab es am Nachmittag der Abreise ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Im Kohlebehälter von Kesselraum 5	brannte noch immer ein Feuer, das vor	Tagen ausgebrochen war.	
+Antwort_2=0Die Mittelschraube konnte sich nur mit	halber Kraft drehen.	
+Antwort_3=0Der Anker auf der Steuerbordseite ließ	sich nur bis zur Hälfte hochziehen.	
+Antwort_4=0Die Klimaanlage in der ersten Klasse	arbeitete noch nicht.	
+
+[167]
+FZ1=
+FZ2=Warum wurde ein Hornsignal geblasen, kaum dass die Titanic unterwegs war ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1um bekanntzugeben, dass das	Mittagessen wegen der verzögerten	Abfahrt über 1 Stunde Verspätung hatte
+Antwort_2=0Ein Seehundrudel kreuzte den Weg der	Titanic.
+Antwort_3=0um den anderen Schiffen zu	signalisieren, dass nun die volle Fahrt	aufgenommen wurde
+Antwort_4=0Die Schlepper wurden mit diesem	Signal verabschiedet.
+
+[168]
+FZ1=
+FZ2=Wo befanden sich die beiden Luxus - Salonsuiten,
+FZ3=die sogar über eigene Promenadendecks verfügten ?
+Min=32000
+Max=250000
+Antwort_1=1auf dem B - Deck
+Antwort_2=0auf dem C - Deck
+Antwort_3=0auf dem A - Deck
+Antwort_4=0auf dem D - Deck
+
+[169]
+FZ1=
+FZ2=Wie viele Badewannen gab es in der 3. Klasse für über 700 Passagiere ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=12
+Antwort_2=0200
+Antwort_3=020
+Antwort_4=045
+
+[170]
+FZ1=
+FZ2=Hatte jede Kabine einen eigenen Waschraum ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nein
+Antwort_2=0nur die Kabinen der 1. und 2. Klasse
+Antwort_3=0nur die Kabinen der 1. Klasse
+Antwort_4=0ja
+
+[171]
+FZ1=
+FZ2=Wie viele Kinder hatte die größte Familie, die Familie Sage aus Petersborough ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=19
+Antwort_2=07
+Antwort_3=08
+Antwort_4=06
+
+[172]
+FZ1=
+FZ2=Da es keine genauen Auflistungen gibt, ist man bei der Anzahl der Passagiere auf
+FZ3=Schätzungen angewiesen. Wie viele Passagiere waren es in der 3. Klasse ?
+Min=64000
+Max=250000
+Antwort_1=1710
+Antwort_2=0310
+Antwort_3=0510
+Antwort_4=0910
+
+[173]
+FZ1=
+FZ2=Da es keine genauen Auflistungen gibt, ist man bei der Anzahl der Passagiere auf
+FZ3=Schätzungen angewiesen. Wie viele Passagiere waren es in der 2. Klasse ?
+Min=64000
+Max=250000
+Antwort_1=1285
+Antwort_2=0565
+Antwort_3=0107
+Antwort_4=0971
+
+[174]
+FZ1=
+FZ2=Da es keine genauen Auflistungen gibt, ist man bei der Anzahl der Passagiere auf
+FZ3=Schätzungen angewiesen. Wie viele Passagiere waren es in der 1. Klasse ?
+Min=64000
+Max=250000
+Antwort_1=1329
+Antwort_2=0682
+Antwort_3=0108
+Antwort_4=0499
+
+[175]
+FZ1=
+FZ2=Da es keine genauen Auflistungen gibt, ist man bei der Anzahl der Passagiere auf
+FZ3=Schätzungen angewiesen. Wie viele Passagiere waren es insgesamt ?
+Min=16000
+Max=125000
+Antwort_1=11.324
+Antwort_2=01.056
+Antwort_3=01.891
+Antwort_4=0875
+
+[176]
+FZ1=
+FZ2=Wie viele Diener, die reiche Passagiere begleiteten, fuhren mit ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=131	
+Antwort_2=06	
+Antwort_3=012	
+Antwort_4=0Keine, die Diener wurden von der	Schifffahrtsgesellschaft gestellt.	
+
+[177]
+FZ1=
+FZ2=Welche preisgekrönten Tiere nahm Marie Young, die ehemalige Klavierlehrerin der
+FZ3=Kinder Präsident Roosevelts, mit auf die Titanic ?
+Min=64000
+Max=500000
+Antwort_1=1zwei französische Hähne und Hühner
+Antwort_2=0zwei persische Siamkatzen
+Antwort_3=0eine englische Bulldogge
+Antwort_4=0drei deutsche Langohrhasen
+
+[178]
+FZ1=
+FZ2=Wie viele Hunde gingen mit auf die Reise ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1mindestens 9
+Antwort_2=04
+Antwort_3=0keiner
+Antwort_4=06  - 8
+
+[179]
+FZ1=
+FZ2=Welche Kabinennummer wurde nicht vergeben ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=113
+Antwort_2=07
+Antwort_3=01
+Antwort_4=010
+
+[180]
+FZ1=
+FZ2=Wie viele Klassen gab es an Bord der Titanic ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=13
+Antwort_2=01
+Antwort_3=02
+Antwort_4=04
+
+[181]
+FZ1=
+FZ2=Wer empfing die Passagiere der 3. Klasse an Bord ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1ein Stabsarzt
+Antwort_2=0niemand
+Antwort_3=0der Schiffskoch
+Antwort_4=0der 3. Offizier
+
+[182]
+FZ1=
+FZ2=Wer empfing die Passagiere der 1. Klasse an Bord ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Chef - Stewart Latimer
+Antwort_2=0der Kapitän
+Antwort_3=0der erste Offizier
+Antwort_4=0der Präsident der Schifffahrtslinie
+
+[183]
+FZ1=
+FZ2=Wie waren die Decks der Titanic angeordnet ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1alphabetisch
+Antwort_2=0Sie trugen die Namen von griechischen	Göttern.
+Antwort_3=0nummeriert von 1 - 9
+Antwort_4=0Sie waren farblich von hellgelb bis	tiefviolett angeordnet.
+
+[184]
+FZ1=
+FZ2=Wer war der erste Passagier, der an Bord kam ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Thomas Andrews,	der Konstrukteur der Titanic
+Antwort_2=0J. Bruce Ismay,	der Präsident der White Star Line
+Antwort_3=0Sibylle Frank,	die Schwester des Schiffskochs
+Antwort_4=0Marie Young,	die Klavierlehrerin der Kinder Präsident	Roosevelts
+
+[185]
+FZ1=
+FZ2=Wie viele von den 23 Frauen, die auf der Titanic arbeiteten, wurden gerettet ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=120
+Antwort_2=05
+Antwort_3=010
+Antwort_4=0keine
+
+[186]
+FZ1=
+FZ2=Wie viele Frauen arbeiteten auf der Titanic ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=123	
+Antwort_2=079	
+Antwort_3=0112	
+Antwort_4=0201	
+
+[187]
+FZ1=
+FZ2=Wie groß war die Mannschaft der Titanic laut Mannschaftsbuch ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1892
+Antwort_2=0651
+Antwort_3=0742
+Antwort_4=0598
+
+[188]
+FZ1=
+FZ2=Wie wurde der Kapitän der Titanic genannt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Millionärskapitän
+Antwort_2=0Königskapitän
+Antwort_3=0Kaiserkapitän
+Antwort_4=0Captain Hook
+
+[189]
+FZ1=
+FZ2=Wie hieß der sechste Offizier ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1James Moody
+Antwort_2=0Louis Armstrong
+Antwort_3=0Glenn Miller
+Antwort_4=0Paul Anka
+
+[190]
+FZ1=
+FZ2=Wie hieß der fünfte Offizier ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1Harold Lowe
+Antwort_2=0Hans Puma
+Antwort_3=0Harry Tiger
+Antwort_4=0Heinz Luchs
+
+[191]
+FZ1=
+FZ2=Wie hieß der vierte Offizier ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Joseph Boxhall
+Antwort_2=0James Kalahan
+Antwort_3=0Joseph Vauxhall
+Antwort_4=0James Last
+
+[192]
+FZ1=
+FZ2=Wie hieß der dritte Offizier ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Herbert Pitman
+Antwort_2=0Paul Pitman
+Antwort_3=0Ernst Pitman
+Antwort_4=0Kurt Pitman
+
+[193]
+FZ1=
+FZ2=Wie hieß der zweite Offizier ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Charles Lightoller
+Antwort_2=0Charles Mühlacker
+Antwort_3=0Charles Lindbergh
+Antwort_4=0Charles Groovy
+
+[194]
+FZ1=
+FZ2=Wie hieß der erste Offizier ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1William Murdoch
+Antwort_2=0James Tulaway
+Antwort_3=0George McLoud
+Antwort_4=0Frank Sinatra
+
+[195]
+FZ1=
+FZ2=Wie hieß der leitende Offizier ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Henry Wilde
+Antwort_2=0Henry Maske
+Antwort_3=0Henry Miller
+Antwort_4=0Henry Fonda
+
+[196]
+FZ1=
+FZ2=Wie hieß der Kapitän der Titanic ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Edward J. Smith	
+Antwort_2=0Harold B. Granger	
+Antwort_3=0William Overhoff	
+Antwort_4=0Charles Lightoller	
+
+[197]
+FZ1=
+FZ2=Wie alt war Kapitän Smith ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=162 Jahre
+Antwort_2=056 Jahre
+Antwort_3=052 Jahre
+Antwort_4=066 Jahre
+
+[198]
+FZ1=
+FZ2=Welches Auto wurde in Southampton in den vorderen Laderaum
+FZ3=der Titanic verstaut ?
+Min=250000
+Max=500000
+Antwort_1=1Renault
+Antwort_2=0Peugeot
+Antwort_3=0Ford
+Antwort_4=0Citroen
+
+[199]
+FZ1=
+FZ2=Wie viele Telefonanschlüsse gab es in der Zentrale, mit denen man aber keine
+FZ3=Verbindung zum Festland herstellen konnte ?
+Min=64000
+Max=250000
+Antwort_1=150
+Antwort_2=025
+Antwort_3=010
+Antwort_4=0125
+
+[200]
+FZ1=
+FZ2=Wie viele Bullaugen und Fenster besaß das Schiff ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 2.000
+Antwort_2=0ca. 500
+Antwort_3=0ca. 1.000
+Antwort_4=0ca. 4.000
+
+[201]
+FZ1=
+FZ2=Wie viele Kilometer Elektrokabel waren auf der Titanic verlegt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=13.220 km
+Antwort_2=02.450 km
+Antwort_3=01.140 km
+Antwort_4=04.910 km
+
+[202]
+FZ1=
+FZ2=Wozu diente der vierte Schornstein ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1als Abluftschacht für den Turbinenraum	und die Hauptküche
+Antwort_2=0Der vierte Schornstein diente zum	Ausbalancieren des Schiffsgewichtes.
+Antwort_3=0als Sendemast für den Funkverkehr
+Antwort_4=0Aus dem vierten Schornstein konnten	die Signalraketen abgefeuert werden.
+
+[203]
+FZ1=
+FZ2=Wie viele Schornsteine waren eine Attrappe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11
+Antwort_2=03
+Antwort_3=02
+Antwort_4=04
+
+[204]
+FZ1=
+FZ2=Die Schornsteine der Titanic waren nicht ganz rund.
+FZ3=Wie lang war ein Schornstein ?
+Min=2000
+Max=32000
+Antwort_1=17 m
+Antwort_2=011 m
+Antwort_3=02 m
+Antwort_4=025 m
+
+[205]
+FZ1=
+FZ2=Die Schornsteine der Titanic waren nicht ganz rund.
+FZ3=Wie breit war ein Schornstein ?
+Min=0
+Max=1000
+Antwort_1=16 m
+Antwort_2=028 m
+Antwort_3=02 m
+Antwort_4=0120 m
+
+[206]
+FZ1=
+FZ2=Wie hoch war ein Schornstein ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=119 m	
+Antwort_2=039 m	
+Antwort_3=029 m	
+Antwort_4=09 m	
+
+[207]
+FZ1=
+FZ2=Wie viele Schornsteine hatte die Titanic ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=14
+Antwort_2=02
+Antwort_3=03
+Antwort_4=06
+
+[208]
+FZ1=
+FZ2=Wie schwer war die Mittelschraube ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=120 t
+Antwort_2=01 t
+Antwort_3=05 t
+Antwort_4=060 t
+
+[209]
+FZ1=
+FZ2=Welchen Durchmesser hatte die Mittelschraube ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=15 m
+Antwort_2=03 m
+Antwort_3=07 m
+Antwort_4=09 m
+
+[210]
+FZ1=
+FZ2=Wie schwer war eine seitliche Schiffsschraube ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=134 Tonnen
+Antwort_2=064 Tonnen
+Antwort_3=048 Tonnen
+Antwort_4=082 Tonnen
+
+[211]
+FZ1=
+FZ2=Welchen Durchmesser hatten die beiden seitlichen Schiffsschrauben ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1jeweils 7 m
+Antwort_2=0jeweils 9 m
+Antwort_3=0jeweils 5 m
+Antwort_4=0jeweils 11 m
+
+[212]
+FZ1=
+FZ2=Wie viele Blätter hatte die Mittelschraube  ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=14
+Antwort_2=02
+Antwort_3=03
+Antwort_4=06
+
+[213]
+FZ1=
+FZ2=Wie viele Blätter hatten die beiden seitlichen Schiffsschrauben ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1jeweils 3
+Antwort_2=0jeweils 4
+Antwort_3=0jeweils 2
+Antwort_4=0jeweils 5
+
+[214]
+FZ1=
+FZ2=Wie viele Schiffsschrauben besaß die Titanic ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=13
+Antwort_2=01
+Antwort_3=02
+Antwort_4=04
+
+[215]
+FZ1=
+FZ2=Wie hoch schwebte das Krähennest für den Ausguck über dem Wasserspiegel ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=127 m
+Antwort_2=012 m
+Antwort_3=045 m
+Antwort_4=078 m
+
+[216]
+FZ1=
+FZ2=Wie hoch waren die beiden Masten ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1jeweils 63 m	
+Antwort_2=0jeweils 36 m	
+Antwort_3=0jeweils 48 m	
+Antwort_4=0jeweils 15 m	
+
+[217]
+FZ1=
+FZ2=Wie viele Masten hatte die Titanic ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=12
+Antwort_2=01
+Antwort_3=03
+Antwort_4=0Die Titanic hatte keine Masten.
+
+[218]
+FZ1=
+FZ2=Wie viele Tonnen Kohle wurden an einem Tag verfeuert ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1560 - 580 t
+Antwort_2=0690 - 710 t
+Antwort_3=0320 - 370 t
+Antwort_4=0100 - 130 t
+
+[219]
+FZ1=
+FZ2=Wie viele Tonnen Kohle hatte die Titanic geladen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=15.344 t
+Antwort_2=03.075 t
+Antwort_3=01.390 t
+Antwort_4=04.486 t
+
+[220]
+FZ1=
+FZ2=Wie viele Rettungsboote gab es auf der Titanic ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=120
+Antwort_2=030
+Antwort_3=010
+Antwort_4=040
+
+[221]
+FZ1=
+FZ2=Wie viele Rettungsboote waren ursprünglich geplant ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=164
+Antwort_2=058
+Antwort_3=0100
+Antwort_4=040
+
+[222]
+FZ1=
+FZ2=Wie hoch waren die Heizkessel ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=14,50 m
+Antwort_2=06,70 m
+Antwort_3=01,80 m
+Antwort_4=03,05 m
+
+[223]
+FZ1=
+FZ2=Wie viele Heizkessel hatte die Titanic ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=129
+Antwort_2=09
+Antwort_3=019
+Antwort_4=039
+
+[224]
+FZ1=Wie lange dauerte die Ausrüstung ( Zur Ausrüstung gehört alles, was ein Schiff für
+FZ2=eine Seereise benötigt. Dazu zählen die Aufbauten an Deck und die Schornsteine
+FZ3=genauso wie die Töpfe und Pfannen in der Küche.) der Titanic ?
+Min=1000
+Max=16000
+Antwort_1=110 Monate
+Antwort_2=010 Tage
+Antwort_3=010 Wochen
+Antwort_4=010 Stunden
+
+[225]
+FZ1=
+FZ2=Wie lange dauerte es, bis der mächtige Schiffskörper beim Stapellauf
+FZ3=ins Wasser rutschte ?
+Min=250000
+Max=500000
+Antwort_1=162 Sekunden
+Antwort_2=032 Sekunden
+Antwort_3=092 Sekunden
+Antwort_4=0132 Sekunden
+
+[226]
+FZ1=
+FZ2=Wie viele Pferde waren nötig, um den Mittelanker zu ziehen ?
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=120	
+Antwort_2=012	
+Antwort_3=04	
+Antwort_4=016	
+
+[227]
+FZ1=
+FZ2=Wie viel wog ein Anker für die Bugseite ?
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=17 t
+Antwort_2=03 t
+Antwort_3=010 t
+Antwort_4=015 t
+
+[228]
+FZ1=
+FZ2=Wie viel wog der Mittelanker ?
+FZ3=
+Min=32000
+Max=64000
+Antwort_1=114 t
+Antwort_2=020 t
+Antwort_3=010 t
+Antwort_4=06 t
+
+[229]
+FZ1=
+FZ2=Wie viel wogen die drei Anker zusammen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=128 t
+Antwort_2=018 t
+Antwort_3=012 t
+Antwort_4=022 t
+
+[230]
+FZ1=
+FZ2=Wie viele Anker hatte die Titanic ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1drei - einen für jede Bugseite und	ein zentraler Anker in der Mitte auf dem	Bugdeck
+Antwort_2=0keinen - unglaublich, aber zum	"Ankern" besaß die Titanic vier extra	horizontale Schiffsschrauben
+Antwort_3=0zwei - jeweils einen Anker auf der	Steuerbordseite und einen Anker auf	der Backbordseite
+Antwort_4=0vier - an jeder Schiffsseite (vorne und	hinten) waren große Anker
+
+[231]
+FZ1=
+FZ2=Wie viel wog der Schiffkörper ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=123.600 t
+Antwort_2=035.400 t
+Antwort_3=012.800 t
+Antwort_4=05.900 t
+
+[232]
+FZ1=
+FZ2=Wie viele Zuschauer beobachteten den Stapellauf des leeren Schiffskörpers ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1mehr als 100.000 Menschen
+Antwort_2=0alle 15.000 Werftarbeiter
+Antwort_3=0ca. 50.000 Zuschauer
+Antwort_4=0nur die Geschäftsführer und Thomas	Andrews vom Planungsbüro
+
+[233]
+FZ1=
+FZ2=Wann lief die Titanic vom Stapel ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=131. Mai 1911
+Antwort_2=031. Mai 1921
+Antwort_3=031. Mai 1901
+Antwort_4=031. Mai 1931
+
+[234]
+FZ1=
+FZ2=Weshalb hielt man die Titanic praktisch für unsinkbar ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1weil der Rumpf doppelwandig war und	in 16 wasserdicht verschließbare	Abteilungen aufgeteilt war
+Antwort_2=0weil der Rumpf aus 2.500 luft- und	wasserdichten Zellen bestand
+Antwort_3=0weil der Rumpf aus 6 cm dicken	Stahlplatten bestand, die nicht zerstört	werden konnten
+Antwort_4=0weil die Titanic einen rundum	verlaufenden aufblasbaren	Rettungsschwimmring besaß
+
+[235]
+FZ1=
+FZ2=Der Bau der Titanic verschlang ungefähr 7,5 Millionen Dollar.
+FZ3=Wie viel Euro wären das ungefähr heute ?
+Min=250000
+Max=500000
+Antwort_1=1120 Millionen
+Antwort_2=030 Millionen
+Antwort_3=075 Millionen
+Antwort_4=062 Millionen
+
+[236]
+FZ1=
+FZ2=Wie dick und wie lang waren die verwendeten Eisennieten ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=13 cm dick und 8 cm lang	
+Antwort_2=01 cm dick und 4 cm lang	
+Antwort_3=02 cm dick und 6 cm lang	
+Antwort_4=06 cm dick und 18 cm lang	
+
+[237]
+FZ1=
+FZ2=Wie viele Nieten hielten die 3 cm dicken Stahlplatten des Rumpfes
+FZ3=der Titanic zusammen ?
+Min=4000
+Max=64000
+Antwort_1=1ca. 3 Millionen
+Antwort_2=01.345.697
+Antwort_3=0ca. 2 Millionen
+Antwort_4=0ca. 750.000
+
+[238]
+FZ1=
+FZ2=Aus welchem Material bestand der Rumpf der Titanic ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1aus 3 cm dicken Stahlplatten
+Antwort_2=0aus 15 cm dicken Holzplanken
+Antwort_3=0aus 2 cm dicken Eisenstäben
+Antwort_4=0aus 1 cm dicken Aluminiumblechen
+
+[239]
+FZ1=
+FZ2=Wann wurde mit dem Bau der Titanic begonnen ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=131. März 1909
+Antwort_2=031. März 1919
+Antwort_3=031. März 1899
+Antwort_4=031. März 1929
+
+[240]
+FZ1=
+FZ2=Wo wurde die Titanic gebaut ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Irland
+Antwort_2=0Holland
+Antwort_3=0Amerika
+Antwort_4=0England
+
+[241]
+FZ1=
+FZ2=Wie schnell war die Titanic ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=144 km / h
+Antwort_2=0134 km / h
+Antwort_3=084 km / h
+Antwort_4=014 km / h
+
+[242]
+FZ1=
+FZ2=Wie schwer war die Titanic ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1über 53.000 t
+Antwort_2=042.350 t
+Antwort_3=0ca. 48.000 t
+Antwort_4=039.500 t
+
+[243]
+FZ1=
+FZ2=Wie viele Decks hatte die Titanic ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=19
+Antwort_2=05
+Antwort_3=07
+Antwort_4=011
+
+[244]
+FZ1=
+FZ2=Wie breit war die Titanic ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=128 m
+Antwort_2=0138 m
+Antwort_3=08 m
+Antwort_4=068 m
+
+[245]
+FZ1=
+FZ2=Wie lange dauerte es, bis die Titanic gesunken war ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1ca. 2 Stunden und 40 Minuten
+Antwort_2=0ca. 3 Stunden und 30 Minuten
+Antwort_3=0ca. 1 Stunden und 10 Minuten
+Antwort_4=0ca. 4 Stunden und 50 Minuten
+
+[246]
+FZ1=
+FZ2=Um wie viel Uhr rammte die Titanic einen Eisberg ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=123.40 Uhr	
+Antwort_2=012.15 Uhr	
+Antwort_3=018.35 Uhr	
+Antwort_4=09.45 Uhr	
+
+[247]
+FZ1=
+FZ2=Wann rammte die Titanic einen Eisberg ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=114. April 1912
+Antwort_2=014. April 1942
+Antwort_3=014. April 1882
+Antwort_4=014. April 1962
+
+[248]
+FZ1=
+FZ2=Wann wurde das Wrack der Titanic entdeckt ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=11. September 1985	
+Antwort_2=01. November 2001	
+Antwort_3=01. April 1943	
+Antwort_4=01. Januar 1966	
+
+

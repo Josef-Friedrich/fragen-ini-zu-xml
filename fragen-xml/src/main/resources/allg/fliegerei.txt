@@ -1,0 +1,5376 @@
+[Thema]
+Thema=Rund um die Flugzeuge
+Fragen=488
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welches Flugzeug stellte den Tieffluggeschwindigkeitsweltrekord von 1.452 km/h auf,
+FZ3=der 16 Jahre lang bestehen blieb ?
+Min=500000
+Max=500000
+Antwort_1=1McDonnell F - 4 Phantom II
+Antwort_2=0Convair F - 102 Delta Dagger
+Antwort_3=0Lockheed F - 94 Starfire
+Antwort_4=0Northrop YF - 17 A
+
+[2]
+FZ1=
+FZ2=Wie lange blieb der Tieffluggeschwindigkeitsweltrekord von 1.452 km/h
+FZ3=der  McDonnell F - 4 Phantom II bestehen ?
+Min=500000
+Max=500000
+Antwort_1=116 Jahre
+Antwort_2=010 Jahre
+Antwort_3=022 Jahre
+Antwort_4=05 Jahre
+
+[3]
+FZ1=
+FZ2=Welchen Tieffluggeschwindigkeitsweltrekord stellte die McDonnell F - 4 Phantom II
+FZ3=auf, der 16 Jahre bestehen blieb ?
+Min=500000
+Max=500000
+Antwort_1=11.452 km/h
+Antwort_2=01.134 km/h
+Antwort_3=0975 km/h
+Antwort_4=0801 km/h
+
+[4]
+FZ1=
+FZ2=Welche Geschwindigkeit erreichte die McDonnell F - 4 Phantom II bei ihrem
+FZ3=Weltrekordflug am 22. November 1961 ?
+Min=500000
+Max=500000
+Antwort_1=12.585 km/h
+Antwort_2=02.215 km/h
+Antwort_3=02.975 km/h
+Antwort_4=03.265 km/h
+
+[5]
+FZ1=
+FZ2=Welches Flugzeug stellte am 22. November 1961 den Geschwindigkeitsweltrekord
+FZ3=von 2.585 km/h auf ?
+Min=500000
+Max=500000
+Antwort_1=1McDonnell F - 4 Phantom II
+Antwort_2=0Saab - 37 Viggen
+Antwort_3=0Mikojan - Gurewitsch MiG - 25
+Antwort_4=0Lockheed F - 22 Rapier
+
+[6]
+FZ1=
+FZ2=Wann stellte die McDonnell F - 4 Phantom II den Geschwindigkeitsweltrekord
+FZ3=von 2.585 km/h auf ?
+Min=500000
+Max=500000
+Antwort_1=122. November 1961
+Antwort_2=03. November 1956
+Antwort_3=014. Februar 1964
+Antwort_4=022. März 1971
+
+[7]
+FZ1=
+FZ2=Welches Flugzeug stellte am 6. Dezember 1959 den Weltrekordhöhenflug
+FZ3=von 30.040 m auf ?
+Min=500000
+Max=500000
+Antwort_1=1McDonnell F - 4 Phantom II
+Antwort_2=0North American X - 15 A - 2
+Antwort_3=0Lockheed F - 104 Starfighter
+Antwort_4=0Boeing B - 52 Stratofortress
+
+[8]
+FZ1=
+FZ2=Wann stellte die McDonnell F - 4 Phantom II den Weltrekordhöhenflug
+FZ3=von 30.040 m auf ?
+Min=500000
+Max=500000
+Antwort_1=16. Dezember 1959
+Antwort_2=03. November 1956
+Antwort_3=014. Februar 1954
+Antwort_4=022. März 1993
+
+[9]
+FZ1=
+FZ2=Welche Höhe erreichte die McDonnell F - 4 Phantom II bei ihrem Weltrekordflug
+FZ3=am 6. Dezember 1959 ?
+Min=500000
+Max=500000
+Antwort_1=130.040 m
+Antwort_2=040.050 m
+Antwort_3=020.080 m
+Antwort_4=010.020 m
+
+[10]
+FZ1=
+FZ2=Welche Höhe erreichte das Forschungsflugzeug
+FZ3=North American X - 15 A - 2 für extreme Höhen und Geschwindigkeiten ?
+Min=500000
+Max=500000
+Antwort_1=1107.960 m
+Antwort_2=055.430 m
+Antwort_3=080.560 m
+Antwort_4=038.210 m
+
+[11]
+FZ1=
+FZ2=Welche Spitzengeschwindigkeit erreichte das Forschungsflugzeug
+FZ3=North American X - 15 A - 2 für extreme Höhen und Geschwindigkeiten ?
+Min=500000
+Max=500000
+Antwort_1=17.297 km/h
+Antwort_2=03.463 km/h
+Antwort_3=05.875 km/h
+Antwort_4=09.532 km/h
+
+[12]
+FZ1=
+FZ2=Wie groß ist die Umlaufgeschwindigkeit eines Space Shuttle ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=128.325 km/h
+Antwort_2=012.985 km/h
+Antwort_3=016.545 km/h
+Antwort_4=08.455 km/h
+
+[13]
+FZ1=
+FZ2=Wie groß können die Temperaturen beim Wiedereintritt in die Erdatmosphäre bei
+FZ3=dem Space Shuttle werden ?
+Min=500000
+Max=500000
+Antwort_1=1bis zu 1.648° C
+Antwort_2=0ungefähr 1.175° C
+Antwort_3=0zwischen 1.200 und 1.400° C
+Antwort_4=0etwa 895° C
+
+[14]
+FZ1=
+FZ2=Wann startete der erste Space Shuttle "Columbia" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=112. April 1981
+Antwort_2=014. Februar 1985
+Antwort_3=022. März 1978
+Antwort_4=03. November 1972
+
+[15]
+FZ1=
+FZ2=Wann explodierte der Space Shuttle "Challenger" ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11986
+Antwort_2=01982
+Antwort_3=01984
+Antwort_4=01988
+
+[16]
+FZ1=Wie groß war das Gesamtgewicht (Hubschrauber plus Nutzlast), das der
+FZ2=Hubschrauber Mil Mi - 26 am 3. Februar 1982 -  im Rahmen einer ganzen Reihe von
+FZ3=neuen Rekorden -  bis auf 2.000 m Höhe hob ?
+Min=500000
+Max=500000
+Antwort_1=156.768 kg
+Antwort_2=034.239 kg
+Antwort_3=048.973 kg
+Antwort_4=0126.809 kg
+
+[17]
+FZ1=
+FZ2=Wie lange hatte der Geschwindigkeitsweltrekord einer Messerschmitt ME 209 mit
+FZ3=755 km/h von 1939 Gültigkeit ?
+Min=250000
+Max=500000
+Antwort_1=1etwas mehr als 30 Jahre
+Antwort_2=021 Jahre
+Antwort_3=0knapp 25 Jahre
+Antwort_4=010 Jahre und 6 Monate
+
+[18]
+FZ1=
+FZ2=Wann stellte die Messerschmitt ME 209 - ein Propellerflugzeug mit bis zu 2.300 PS -
+FZ3=den Geschwindigkeitsweltrekord von 755 km/h auf ?
+Min=125000
+Max=500000
+Antwort_1=126. April 1939
+Antwort_2=014. Februar 1949
+Antwort_3=03. November 1929
+Antwort_4=022. März 1959
+
+[19]
+FZ1=
+FZ2=Welchen Geschwindigkeitsrekord stellte die Messerschmitt ME 209 - ein
+FZ3=Propellerflugzeug mit bis zu 2.300 PS -  am 26. April 1939 auf ?
+Min=250000
+Max=500000
+Antwort_1=1755 km/h
+Antwort_2=0555 km/h
+Antwort_3=0655 km/h
+Antwort_4=0455 km/h
+
+[20]
+FZ1=
+FZ2=Wo starten und landen die Flugzeuge ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Flughafen
+Antwort_2=0Bahnhof
+Antwort_3=0Überseehafen
+Antwort_4=0Haltestelle
+
+[21]
+FZ1=
+FZ2=Wie lautet die Kurzform für Düsenjäger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Jet
+Antwort_2=0Düjä
+Antwort_3=0Met
+Antwort_4=0Bob
+
+[22]
+FZ1=
+FZ2=Welches Flugzeug wurde Starfighter genannt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Lockheed F - 104	
+Antwort_2=0SAAB Jas 39 Gripen	
+Antwort_3=0Boeing F/A -18	
+Antwort_4=0MiG 29	
+
+[23]
+FZ1=
+FZ2=Wie wurde die Lockheed F - 104 genannt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Starfigher
+Antwort_2=0Starship
+Antwort_3=0Space Shuttle
+Antwort_4=0Thunderbolt
+
+[24]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Düsenjäger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Airbus A 300
+Antwort_2=0Grumman F - 14 B Tomcat
+Antwort_3=0Eurofighter 2000
+Antwort_4=0Panavia Tornado ADV
+
+[25]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Düsenjäger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Boeing 747 - 400 Combi
+Antwort_2=0British Aerospace HAWK
+Antwort_3=0Dassault Mirage 2000
+Antwort_4=0IAI KFIR
+
+[26]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Düsenjäger ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Iljuschin IL - 62	
+Antwort_2=0Mirage F - 1	
+Antwort_3=0Sukhoi SU - 35	
+Antwort_4=0Mikoyan MiG 31	
+
+[27]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Düsenjäger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Boeing 767
+Antwort_2=0SAAB Draken 35 OE
+Antwort_3=0Boeing F - 15 Eagle
+Antwort_4=0British Aerospace Sea Harrier
+
+[28]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Düsenjäger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Concorde	
+Antwort_2=0SAAB Jas 39 Gripen	
+Antwort_3=0Boeing F/A - 18 E Super Hornet	
+Antwort_4=0MiG 29 Fulcrum	
+
+[29]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Düsenjäger ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Airbus A 310 - 200
+Antwort_2=0Lockheed Martin F - 16 A	Fighting Falcon
+Antwort_3=0Boeing F/A - 18 Hornet
+Antwort_4=0SEPECAT Jaguar
+
+[30]
+FZ1=
+FZ2=Wie schnell fliegt der Tornado ADV ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11.112 km/h
+Antwort_2=02.087 km/h
+Antwort_3=01.875 km/h
+Antwort_4=0875 km/h
+
+[31]
+FZ1=
+FZ2=Wie schnell fliegt der Eurofighter 2000 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=12.200 km/h
+Antwort_2=01.100 km/h
+Antwort_3=03.300 km/h
+Antwort_4=0880 km/h
+
+[32]
+FZ1=
+FZ2=Wie schnell fliegt der IAI KFIR ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=12.440 km/h
+Antwort_2=01.650 km/h
+Antwort_3=02.080 km/h
+Antwort_4=01.130 km/h
+
+[33]
+FZ1=
+FZ2=Aus welchem Land kommt der Düsenjäger IAI KFIR ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Israel
+Antwort_2=0Österreich
+Antwort_3=0Ungarn
+Antwort_4=0Schweiz
+
+[34]
+FZ1=
+FZ2=Wie schnell fliegt die Mirage 2000 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=12.390 km/h
+Antwort_2=01.230 km/h
+Antwort_3=01.760 km/h
+Antwort_4=0960 km/h
+
+[35]
+FZ1=
+FZ2=Wie schnell fliegt die Mikoyan MiG - 31 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=13.000 km/h	
+Antwort_2=01.000 km/h	
+Antwort_3=02.000 km/h	
+Antwort_4=0500 km/h	
+
+[36]
+FZ1=
+FZ2=Wie schnell fliegt die Mirage F - 1 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=12.338 km/h
+Antwort_2=03.045 km/h
+Antwort_3=01.785 km/h
+Antwort_4=0985 km/h
+
+[37]
+FZ1=
+FZ2=Aus welchem Land kommt die Mirage F - 1 ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Frankreich
+Antwort_2=0Russland
+Antwort_3=0USA
+Antwort_4=0England
+
+[38]
+FZ1=
+FZ2=Wie schnell fliegt die Sukhoi SU - 35 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=12.500 km/h
+Antwort_2=0800 km/h
+Antwort_3=01.900 km/h
+Antwort_4=0400 km/h
+
+[39]
+FZ1=
+FZ2=Wie schnell fliegt die MiG 29 Fulcrum ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=12.445 km/h	
+Antwort_2=0980 km/h	
+Antwort_3=01.875 km/h	
+Antwort_4=0550 km/h	
+
+[40]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing F - 15 Eagle ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=12.655 km/h
+Antwort_2=01.750 km/h
+Antwort_3=02.085 km/h
+Antwort_4=01.280 km/h
+
+[41]
+FZ1=
+FZ2=Wie schnell fliegt der  SAAB JAS 39 Gripen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=12.120 km/h
+Antwort_2=03.470 km/h
+Antwort_3=01.560 km/h
+Antwort_4=0640 km/h
+
+[42]
+FZ1=
+FZ2=Aus welchem Land kommt der Düsenjäger SAAB JAS 39 Gripen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Schweden
+Antwort_2=0England
+Antwort_3=0USA
+Antwort_4=0Deutschland
+
+[43]
+FZ1=
+FZ2=Welches Flugzeug ist ein Transportflugzeug ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Lockheed C - 130 Herkules
+Antwort_2=0Fokker 100
+Antwort_3=0SEPECAT Jaguar
+Antwort_4=0Airbus A 300 - 600
+
+[44]
+FZ1=
+FZ2=Wie schnell fliegt die Lockheed Martin F - 16 A Fighting Falcon ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=12.125 km/h
+Antwort_2=02.985 km/h
+Antwort_3=01.785 km/h
+Antwort_4=0865 km/h
+
+[45]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing F/A - 18 Hornet ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11.915 km/h
+Antwort_2=01.425 km/h
+Antwort_3=02.345 km/h
+Antwort_4=0965 km/h
+
+[46]
+FZ1=
+FZ2=Was ist  k e i n  Passagierflugzeug ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Boeing F/A - 18 Hornet
+Antwort_2=0Airbus A 310 - 200
+Antwort_3=0Boeing 747 - 400
+Antwort_4=0Tupolev Tu 204
+
+[47]
+FZ1=
+FZ2=Was ist ein Looping ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ein senkrecht in der Luft geflogener	Kreis
+Antwort_2=0ein anderer Name für Kopilot
+Antwort_3=0eine Rolle um die Längsachse eines	Flugzeuges
+Antwort_4=0ein kleiner Transporthubschrauber
+
+[48]
+FZ1=
+FZ2=Wie nennt man einen senkrecht in der Luft geflogenen Kreis ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Looping
+Antwort_2=0Kreisel
+Antwort_3=0Rolle
+Antwort_4=0Stream
+
+[49]
+FZ1=
+FZ2=Wie viele Passagiere können in der Boeing 777 mitfliegen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1363
+Antwort_2=0484
+Antwort_3=0777
+Antwort_4=0212
+
+[50]
+FZ1=
+FZ2=Über welche Reichweite verfügt die Boeing 747 SP ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 12.500 km
+Antwort_2=0ca. 8.500 km
+Antwort_3=0ca. 10.900 km
+Antwort_4=0ca. 6.300 km
+
+[51]
+FZ1=
+FZ2=Wie viele Passagiere können in der Boeing 747 - 200 B  mitfliegen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1442
+Antwort_2=0342
+Antwort_3=0242
+Antwort_4=0542
+
+[52]
+FZ1=
+FZ2=Wie viele Passagiere können im Airbus A 310 - 300 mitfliegen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1216
+Antwort_2=0416
+Antwort_3=0316
+Antwort_4=0516
+
+[53]
+FZ1=
+FZ2=Wie viele Passagiere können im Airbus A 320 - 200 mitfliegen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1150
+Antwort_2=0350
+Antwort_3=0250
+Antwort_4=0450
+
+[54]
+FZ1=
+FZ2=Wie viele Passagiere können im Airbus A 340 - 300 mitfliegen ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1262
+Antwort_2=0462
+Antwort_3=0362
+Antwort_4=0562
+
+[55]
+FZ1=
+FZ2=Wie viele Passagiere können im Airbus A 330 - 300 mitfliegen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1335
+Antwort_2=0235
+Antwort_3=0435
+Antwort_4=0535
+
+[56]
+FZ1=Nur wenige Tage nachdem die Bell X - 1 1947 als erstes Flugzeug die Schallmauer
+FZ2=durchbrochen hatte, stellte sie auch einen neuen Höhenweltrekord auf.
+FZ3=Wie hoch flog die Bell X - 1 ?
+Min=250000
+Max=500000
+Antwort_1=121.372 m
+Antwort_2=027.983 m
+Antwort_3=018.235 m
+Antwort_4=033.742 m
+
+[57]
+FZ1=
+FZ2=Wie viele Welt - und Klassenrekorde stellte die Antonow An - 225 Mrija (das bis
+FZ3=dahin größte Flugzeug der Welt) 1989 während eines einzigen Fluges auf ?
+Min=250000
+Max=500000
+Antwort_1=1106
+Antwort_2=065
+Antwort_3=088
+Antwort_4=048
+
+[58]
+FZ1=
+FZ2=Welche Flügelspannweite hat das größte Flugzeug der Welt ? (Stand 1997)
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=188,40 m
+Antwort_2=077,35 m
+Antwort_3=099,50 m
+Antwort_4=066,30 m
+
+[59]
+FZ1=
+FZ2=Wie lang ist das größte Flugzeug der Welt ? (Stand 1997)
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=184,00 m
+Antwort_2=078,00 m
+Antwort_3=092,00 m
+Antwort_4=069,00 m
+
+[60]
+FZ1=
+FZ2=Wie heißt das größte Flugzeug der Welt ? (Stand 1997)
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Antonow An - 225 Mrija
+Antwort_2=0Airbus A 3 XX - 100
+Antwort_3=0Boeing 474 - 400 Combi
+Antwort_4=0Lockheed C - 5 Galaxy
+
+[61]
+FZ1=
+FZ2=Wie viel Liter Treibstoff führt die Concorde mit sich ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1119.787 Liter
+Antwort_2=077.275 Liter
+Antwort_3=02.908.541 Liter
+Antwort_4=038.109 Liter
+
+[62]
+FZ1=
+FZ2=Welchen neuen Geschwindigkeits - Weltrekord für Hubschrauber stellte  1986 ein
+FZ3=Hubschrauber Westland Lynx mit Rotorblätter aus einer Speziallegierung auf ?
+Min=125000
+Max=500000
+Antwort_1=1400,87 km/h
+Antwort_2=0500,87 km/h
+Antwort_3=0300,87 km/h
+Antwort_4=0600,87 km/h
+
+[63]
+FZ1=
+FZ2=In welcher Zeit überquerte ein hochgeheimer Aufklärer SR - 71 A Blackbird der
+FZ3=US Air Force am 1. September 1974 den Atlantik ?
+Min=125000
+Max=500000
+Antwort_1=1in weniger als zwei Stunden
+Antwort_2=0in genau drei Stunden
+Antwort_3=0in zwei Stunden und 21 Minuten
+Antwort_4=0in 32 Minuten
+
+[64]
+FZ1=
+FZ2=Wann ging der erste Jumbo - Jet in Dienst und eröffnete damit eine neue Ära der
+FZ3=kommerziellen Luftfahrt ?
+Min=2000
+Max=32000
+Antwort_1=121. Januar 1970
+Antwort_2=022. März 1990
+Antwort_3=014. Februar 1980
+Antwort_4=03. November 1960
+
+[65]
+FZ1=
+FZ2=Mit welchem Gerät können Düsenflugzeuge ihre Geschwindigkeit steigern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nachbrenner
+Antwort_2=0Vorglüher
+Antwort_3=0Bunsenbrenner
+Antwort_4=0Turbostream
+
+[66]
+FZ1=
+FZ2=Bei wie viel Metern steht der Höhenweltrekord für Segelflugzeuge ? (Stand 2001)
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 15.000 m
+Antwort_2=0ungefähr 9.000 m
+Antwort_3=0etwa 11.000 m
+Antwort_4=07.543 m
+
+[67]
+FZ1=
+FZ2=Wie hoch flog die Douglas Skyrocket D-558-II im Jahre 1951
+FZ3=bei ihrem neuen Höhenweltrekord ?
+Min=500000
+Max=500000
+Antwort_1=125.924 m
+Antwort_2=032.803 m
+Antwort_3=018.432 m
+Antwort_4=07.712 m
+
+[68]
+FZ1=
+FZ2=Wie wurde der Bomber vom Typ B - 50 A genannt, dem 1949 der erste Nonstop - Flug
+FZ3=rund um die Welt in 94 Stunden gelang ?
+Min=500000
+Max=500000
+Antwort_1=1Lucky Lady
+Antwort_2=0Spirit of St. Louis
+Antwort_3=0Star Eagle
+Antwort_4=0Glamorous Glennis
+
+[69]
+FZ1=
+FZ2=Wie lange dauerte 1949 der erste Nonstop - Flug rund um die Welt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=194 Stunden
+Antwort_2=074 Stunden
+Antwort_3=084 Stunden
+Antwort_4=064 Stunden
+
+[70]
+FZ1=
+FZ2=Wann fand der erste Nonstop - Flug rund um die Welt statt ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=11949
+Antwort_2=01959
+Antwort_3=01939
+Antwort_4=01969
+
+[71]
+FZ1=
+FZ2=Welches war eines der erfolgreichsten Flugzeuge aller Zeiten ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Spitfire
+Antwort_2=0De Havilland D. H. 16
+Antwort_3=0Tupolev Tu - 144
+Antwort_4=0Cessna Modell 404 Titan
+
+[72]
+FZ1=
+FZ2=Wie lange flog die Amerikanerin Amy Johnson, die als erste Frau 1932 den Atlantik
+FZ3=nonstop im Alleinflug überquerte ?
+Min=500000
+Max=500000
+Antwort_1=114 Stunden 54 Minuten
+Antwort_2=010 Stunden 35 Minuten
+Antwort_3=022 Stunden 48 Minuten
+Antwort_4=038 Stunden 7 Minuten
+
+[73]
+FZ1=
+FZ2=Wer überflog 1932 als erste Frau den Atlantik nonstop im Alleinflug ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Amy Johnson
+Antwort_2=0Barbara Stanwyck
+Antwort_3=0Ellen Church
+Antwort_4=0Petuala Clark
+
+[74]
+FZ1=
+FZ2=Wann überflog die Amerikanerin Amy Johnson als erste Frau den Atlantik
+FZ3=nonstop im Alleinflug ?
+Min=500000
+Max=500000
+Antwort_1=11932
+Antwort_2=01912
+Antwort_3=01922
+Antwort_4=01942
+
+[75]
+FZ1=
+FZ2=Wie lange flog die 26 - jährige Engländerin Amy Johnson 1930
+FZ3=von England nach Australien ?
+Min=500000
+Max=500000
+Antwort_1=119 Tage
+Antwort_2=09 Tage
+Antwort_3=029 Tage
+Antwort_4=039 Tage
+
+[76]
+FZ1=
+FZ2=Wann flog die 26 - jährige Engländerin Amy Johnson von England nach Australien ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11930
+Antwort_2=01940
+Antwort_3=01920
+Antwort_4=01950
+
+[77]
+FZ1=
+FZ2=Wie weit flog der deutsche Automobilkonstrukteur Fritz von Opel
+FZ3=1929 in einem raketenangetriebenen Flugzeug ?
+Min=250000
+Max=500000
+Antwort_1=11,6 km
+Antwort_2=0160 km
+Antwort_3=016 km
+Antwort_4=01.600 km
+
+[78]
+FZ1=
+FZ2=Wie hieß das raketengetriebene Flugzeug, in dem der deutsche
+FZ3=Automobilkonstrukteur Fritz von Opel 1929 einen 1,6 km langen Flug vollführte ?
+Min=250000
+Max=500000
+Antwort_1=1Ente
+Antwort_2=0Adler
+Antwort_3=0Gans
+Antwort_4=0Schwan
+
+[79]
+FZ1=
+FZ2=Wann vollführte der deutsche Automobilkonstrukteur Fritz von Opel einen 1,6 km
+FZ3=langen Flug in einem raketengetriebenen Flugzeug ?
+Min=250000
+Max=500000
+Antwort_1=11929
+Antwort_2=01939
+Antwort_3=01919
+Antwort_4=01949
+
+[80]
+FZ1=
+FZ2=Wie lange dauerte 1924 der Flug von sechs USA - Offizieren rund um die Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1fast 175 Tage
+Antwort_2=0etwa 89 Tage
+Antwort_3=0ungefähr 32 Tage
+Antwort_4=0ca. 122 Tage
+
+[81]
+FZ1=
+FZ2=Wann flogen sechs Offiziere der USA rund um die Welt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11924
+Antwort_2=01936
+Antwort_3=01912
+Antwort_4=01948
+
+[82]
+FZ1=
+FZ2=Wann wurde die erste Passagierfluglinie eröffnet ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=11. Januar 1914
+Antwort_2=022. März 1919
+Antwort_3=014. Februar 1921
+Antwort_4=03. November 1930
+
+[83]
+FZ1=
+FZ2=Wo wurde 1903 der erste gesteuerte Motorflug gemacht ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kitty Hawk,  North Carolina
+Antwort_2=0Augsburg,  Deutschland
+Antwort_3=0Tuscon,  Arizona
+Antwort_4=0Paris,  Frankreich
+
+[84]
+FZ1=
+FZ2=Wie nennt man die "Luftschrauben" eines Flugzeuges ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Propeller
+Antwort_2=0Flügel
+Antwort_3=0Ventilator
+Antwort_4=0Turbo
+
+[85]
+FZ1=
+FZ2=Wie nennt man die Frühwarnflugzeuge, die eine riesige Radaranlage
+FZ3=auf ihrem Rumpf haben ?
+Min=64000
+Max=500000
+Antwort_1=1A W A C S
+Antwort_2=0E R E M T
+Antwort_3=0U H T A S
+Antwort_4=0I L I B T
+
+[86]
+FZ1=
+FZ2=Wie wird der Tarnkappenjäger F - 117 A auch genannt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Stealth
+Antwort_2=0Ghost
+Antwort_3=0Health
+Antwort_4=0Hornet
+
+[87]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Passagierflugzeug ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1MiG  29
+Antwort_2=0Tupolev Tu 204
+Antwort_3=0Boeing 777 - 300
+Antwort_4=0Airbus A 3 XX - 100
+
+[88]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Passagierflugzeug ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Tornado
+Antwort_2=0Boeing 767
+Antwort_3=0Concorde
+Antwort_4=0Tupolev Tu - 144
+
+[89]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Passagierflugzeug ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1McDonnell F - 4 Phantom II	
+Antwort_2=0Iljuschin Il - 52	
+Antwort_3=0Boeing 747 - 400 Combi	
+Antwort_4=0Airbus A 310 - 100	
+
+[90]
+FZ1=
+FZ2=Wie nannte man die Flugzeuge, die Westberlin nach dem 2. Weltkrieg
+FZ3=über eine Luftbrücke versorgt haben ?
+Min=2000
+Max=32000
+Antwort_1=1Rosinenbomber
+Antwort_2=0Müslibomber
+Antwort_3=0Schokoladenbomber
+Antwort_4=0Zuckerbomber
+
+[91]
+FZ1=
+FZ2=Womit können Piloten eines Düsenjägers im Notfall aussteigen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schleudersitz
+Antwort_2=0Sprengfenster
+Antwort_3=0Falltür
+Antwort_4=0Strickleiter
+
+[92]
+FZ1=
+FZ2=Welches Flugzeug wird Jumbo genannt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Boeing 747
+Antwort_2=0Iljuschin IL - 62
+Antwort_3=0Concorde
+Antwort_4=0Airbus A 320
+
+[93]
+FZ1=
+FZ2=Wie wird die Boeing 747 auch genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Jumbo - Jet
+Antwort_2=0Riesen - Jet
+Antwort_3=0Elefanten -Jet
+Antwort_4=0Mega - Jet
+
+[94]
+FZ1=
+FZ2=Wie nennt man die Flügel eines Flugzeuges ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Tragflächen
+Antwort_2=0Federn
+Antwort_3=0Schwingen
+Antwort_4=0Flugflächen
+
+[95]
+FZ1=
+FZ2=Über welchen Schub verfügt der Airbus A 3 XX - 100 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1129.480 kp
+Antwort_2=054.185 kp
+Antwort_3=087.909 kp
+Antwort_4=026.303 kp
+
+[96]
+FZ1=
+FZ2=Über welchen Schub verfügt die Boeing 737 - 300 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=19.072 kp
+Antwort_2=029.072 kp
+Antwort_3=019.072 kp
+Antwort_4=039.072 kp
+
+[97]
+FZ1=
+FZ2=Über welchen Schub verfügt der Airbus A 330 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=130.618 kp
+Antwort_2=040.128 kp
+Antwort_3=020.583 kp
+Antwort_4=050.914 kp
+
+[98]
+FZ1=
+FZ2=Über welchen Schub verfügt der Airbus A 320 - 200 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=111.567 kp
+Antwort_2=033.456 kp
+Antwort_3=022.678 kp
+Antwort_4=044.789 kp
+
+[99]
+FZ1=
+FZ2=Über welchen Schub verfügt die Iljuschin IL - 62 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=142.000 kp
+Antwort_2=032.000 kp
+Antwort_3=052.000 kp
+Antwort_4=022.000 kp
+
+[100]
+FZ1=
+FZ2=Über welchen Schub verfügt die Boeing 767 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=140.200 kp
+Antwort_2=020.200 kp
+Antwort_3=030.200 kp
+Antwort_4=050.200 kp
+
+[101]
+FZ1=
+FZ2=Über welchen Schub verfügt die Tupolew Tu - 144 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=180.000 kp
+Antwort_2=0100.000 kp
+Antwort_3=090.000 kp
+Antwort_4=0110.000 kp
+
+[102]
+FZ1=
+FZ2=Über welchen Schub verfügt die Concorde ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=187.632 kp
+Antwort_2=098.347 kp
+Antwort_3=066.532 kp
+Antwort_4=074.631 kp
+
+[103]
+FZ1=
+FZ2=Über welchen Schub verfügt der Airbus A 310 - 200 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=121.909 kp
+Antwort_2=012.654 kp
+Antwort_3=027.208 kp
+Antwort_4=016.664 kp
+
+[104]
+FZ1=
+FZ2=Über welchen Schub verfügt die Antonow AN - 124 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=192.664 kp
+Antwort_2=050.271 kp
+Antwort_3=074.653 kp
+Antwort_4=033.517 kp
+
+[105]
+FZ1=
+FZ2=Wie hoch ist die Antonow AN - 124 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=121,08 m
+Antwort_2=017,08 m
+Antwort_3=025,08 m
+Antwort_4=012,08 m
+
+[106]
+FZ1=
+FZ2=Wie lang ist die Antonow AN - 124 ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=169,10 m
+Antwort_2=059,10 m
+Antwort_3=079,10 m
+Antwort_4=049,10 m
+
+[107]
+FZ1=
+FZ2=Wie hoch ist die Boeing 747 - 400 Combi ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=119,41 m
+Antwort_2=025,41 m
+Antwort_3=022,41 m
+Antwort_4=016,41 m
+
+[108]
+FZ1=
+FZ2=Wie lang ist die Boeing 747 - 400 Combi ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=170,66 m
+Antwort_2=050,66 m
+Antwort_3=060,66 m
+Antwort_4=040,66 m
+
+[109]
+FZ1=
+FZ2=Wie hoch ist die Iljuschin IL - 62 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=112,35 m
+Antwort_2=018,35 m
+Antwort_3=015,35 m
+Antwort_4=021,35 m
+
+[110]
+FZ1=
+FZ2=Wie lang ist die Iljuschin IL - 62 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=143,20 m
+Antwort_2=063,20 m
+Antwort_3=053,20 m
+Antwort_4=073,20 m
+
+[111]
+FZ1=
+FZ2=Wie hoch ist die Boeing 777 - 300 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=118,50 m
+Antwort_2=016,50 m
+Antwort_3=020,50 m
+Antwort_4=022,50 m
+
+[112]
+FZ1=
+FZ2=Wie lang ist die Boeing 777 - 300 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=173,80 m
+Antwort_2=053,80 m
+Antwort_3=063,80 m
+Antwort_4=043,80 m
+
+[113]
+FZ1=
+FZ2=Wie hoch ist die Boeing 737 - 700 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=112,50 m
+Antwort_2=016,50 m
+Antwort_3=014,50 m
+Antwort_4=018,50 m
+
+[114]
+FZ1=
+FZ2=Wie lang ist die Boeing 737 - 700 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=133,63 m
+Antwort_2=053,63 m
+Antwort_3=043,63 m
+Antwort_4=063,63 m
+
+[115]
+FZ1=
+FZ2=Wie hoch ist die Tupolev Tu - 144 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=128,80 m
+Antwort_2=016,80 m
+Antwort_3=022,80 m
+Antwort_4=012,80 m
+
+[116]
+FZ1=
+FZ2=Wie lang ist die Tupolev Tu - 144 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=165,70 m
+Antwort_2=045,70 m
+Antwort_3=055,70 m
+Antwort_4=075,70 m
+
+[117]
+FZ1=
+FZ2=Wie hoch ist die Boeing 767 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=115,85 m
+Antwort_2=018,85 m
+Antwort_3=012,85 m
+Antwort_4=021,85 m
+
+[118]
+FZ1=
+FZ2=Wie lang ist die Boeing 767 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=148,51 m
+Antwort_2=078,51 m
+Antwort_3=058,51 m
+Antwort_4=068,51 m
+
+[119]
+FZ1=
+FZ2=Wie hoch ist die Concorde ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=111,40 m
+Antwort_2=014,40 m
+Antwort_3=018,40 m
+Antwort_4=07,40 m
+
+[120]
+FZ1=
+FZ2=Wie lang ist die Concorde ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=162,10 m
+Antwort_2=072,10 m
+Antwort_3=052,10 m
+Antwort_4=042,10 m
+
+[121]
+FZ1=
+FZ2=Wie hoch ist der Airbus A 310 - 200 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=115,80 m
+Antwort_2=018,80 m
+Antwort_3=012,80 m
+Antwort_4=021,80 m
+
+[122]
+FZ1=
+FZ2=Wie lang ist der Airbus A 310 - 200 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=146,66 m
+Antwort_2=036,66 m
+Antwort_3=056,66 m
+Antwort_4=066,66 m
+
+[123]
+FZ1=
+FZ2=In welcher Maßeinheit wird der Schub von Düsenflugzeugen angegeben ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Kilopond (kp)
+Antwort_2=0Kilogramm (kg)
+Antwort_3=0Kilometer (km)
+Antwort_4=0Kilowatt (kw)
+
+[124]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing MD - 95 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1811 km/h
+Antwort_2=0711 km/h
+Antwort_3=0911 km/h
+Antwort_4=01.011 km/h
+
+[125]
+FZ1=
+FZ2=Wie schnell fliegt die Avro RJ 85 Jumbolino ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1796 km/h
+Antwort_2=0696 km/h
+Antwort_3=0896 km/h
+Antwort_4=0596 km/h
+
+[126]
+FZ1=
+FZ2=Wie schnell fliegt die Tupolev Tu 204 ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1830 km/h
+Antwort_2=0730 km/h
+Antwort_3=0930 km/h
+Antwort_4=01.030 km/h
+
+[127]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing MD - 80  ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1811 km/h
+Antwort_2=01.011 km/h
+Antwort_3=0911 km/h
+Antwort_4=01.111 km/h
+
+[128]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing 737 - 400 ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1800 km/h
+Antwort_2=01000 km/h
+Antwort_3=0900 km/h
+Antwort_4=01.100 km/h
+
+[129]
+FZ1=
+FZ2=Wie schnell fliegt die Iljuschin IL - 86 Aerobus ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1950 km/h
+Antwort_2=0850 km/h
+Antwort_3=01050 km/h
+Antwort_4=0750 km/h
+
+[130]
+FZ1=
+FZ2=Wie schnell fliegt die Iljuschin IL - 96 M ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1870 km/h
+Antwort_2=01070 km/h
+Antwort_3=0970 km/h
+Antwort_4=0770 km/h
+
+[131]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 3 XX -100 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11015 km/h
+Antwort_2=0815 km/h
+Antwort_3=0915 km/h
+Antwort_4=0715 km/h
+
+[132]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 340 - 300 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1880 km/h
+Antwort_2=0780 km/h
+Antwort_3=0980 km/h
+Antwort_4=01080 km/h
+
+[133]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing MD -11 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1945 km/h
+Antwort_2=01145 km/h
+Antwort_3=01045 km/h
+Antwort_4=01245 km/h
+
+[134]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing DC - 10 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1900 km/h
+Antwort_2=0800 km/h
+Antwort_3=01000 km/h
+Antwort_4=0700 km/h
+
+[135]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing 757 - 200 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1915 km/h
+Antwort_2=01015 km/h
+Antwort_3=0815 km/h
+Antwort_4=0715 km/h
+
+[136]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing 737 - 300 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1795 km/h
+Antwort_2=01095 km/h
+Antwort_3=0895 km/h
+Antwort_4=0695 km/h
+
+[137]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 300 - 600 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1906 km/h
+Antwort_2=01006 km/h
+Antwort_3=0806 km/h
+Antwort_4=0706 km/h
+
+[138]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 300 - 600 "Beluga" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1773 km/h
+Antwort_2=0973 km/h
+Antwort_3=0873 km/h
+Antwort_4=0673 km/h
+
+[139]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 310 - 300 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1928 km/h
+Antwort_2=0728 km/h
+Antwort_3=0828 km/h
+Antwort_4=01028 km/h
+
+[140]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 330 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1880 km/h
+Antwort_2=01080 km/h
+Antwort_3=0980 km/h
+Antwort_4=0780 km/h
+
+[141]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus 319 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1850 km/h
+Antwort_2=0650 km/h
+Antwort_3=0750 km/h
+Antwort_4=0550 km/h
+
+[142]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 320 - 200 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1850 km/h
+Antwort_2=01050 km/h
+Antwort_3=0950 km/h
+Antwort_4=01150 km/h
+
+[143]
+FZ1=
+FZ2=Wie schnell fliegt die Antonow AN - 124 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1865 km/h
+Antwort_2=0765 km/h
+Antwort_3=0965 km/h
+Antwort_4=0665 km/h
+
+[144]
+FZ1=
+FZ2=Wie schnell fliegt die Fokker 100 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1856 km/h
+Antwort_2=0656 km/h
+Antwort_3=0756 km/h
+Antwort_4=0556 km/h
+
+[145]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 321 - 100 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1840 km/h
+Antwort_2=01040 km/h
+Antwort_3=0940 km/h
+Antwort_4=0740 km/h
+
+[146]
+FZ1=
+FZ2=Wie schnell fliegt Airbus A 340 - 200 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1880 km/h
+Antwort_2=01080 km/h
+Antwort_3=0980 km/h
+Antwort_4=01280 km/h
+
+[147]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing MD - 90 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1812 km/h
+Antwort_2=0712 km/h
+Antwort_3=0912 km/h
+Antwort_4=0612 km/h
+
+[148]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing 747 - 400 Combi ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1980 km/h
+Antwort_2=01080 km/h
+Antwort_3=0880 km/h
+Antwort_4=0780 km/h
+
+[149]
+FZ1=
+FZ2=Wie schnell fliegt die Iljuschin IL - 62 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1900 km/h
+Antwort_2=0700 km/h
+Antwort_3=0800 km/h
+Antwort_4=0600 km/h
+
+[150]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing 777 - 300 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1880 km/h
+Antwort_2=01080 km/h
+Antwort_3=0980 km/h
+Antwort_4=01280 km/h
+
+[151]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing 737 - 700 ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1980 km/h
+Antwort_2=0780 km/h
+Antwort_3=0880 km/h
+Antwort_4=01080 km/h
+
+[152]
+FZ1=
+FZ2=Wie schnell fliegt die Tupolev Tu - 144 ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1ca. 2.800 km/h
+Antwort_2=0ca. 1.600 km/h
+Antwort_3=0ca. 2.100 km/h
+Antwort_4=0ca. 900 km/h
+
+[153]
+FZ1=
+FZ2=Wie schnell fliegt die Boeing 767 ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1960 km/h
+Antwort_2=0760 km/h
+Antwort_3=0860 km/h
+Antwort_4=0660 km/h
+
+[154]
+FZ1=
+FZ2=Wie schnell fliegt die Concorde ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=12.179 km/h
+Antwort_2=01.432 km/h
+Antwort_3=03.976 km/h
+Antwort_4=0974 km/h
+
+[155]
+FZ1=
+FZ2=Wie schnell fliegt der Airbus A 310 - 200 ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1870 km/h
+Antwort_2=0770 km/h
+Antwort_3=0970 km/h
+Antwort_4=0670 km/h
+
+[156]
+FZ1=
+FZ2=Mit welcher Geschwindigkeit landet ein Spaceshuttle ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ca. 400 km/h
+Antwort_2=0ca. 200 km/h
+Antwort_3=0ca. 300 km/h
+Antwort_4=0ca. 100 km/h
+
+[157]
+FZ1=
+FZ2=Mit welcher Geschwindigkeit  - je nach Gewicht -  landet ein Jumbo - Jet ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 200 km/h
+Antwort_2=0ca. 300 km/h
+Antwort_3=0ca. 100 km/h
+Antwort_4=0ca. 400 km/h
+
+[158]
+FZ1=
+FZ2=Wie nennt man ein Flugzeug, dessen Tragflügeloberkante
+FZ3=sich unter dem Rumpf befindet ?
+Min=2000
+Max=32000
+Antwort_1=1Tiefdecker
+Antwort_2=0Mitteldecker
+Antwort_3=0Hochdecker
+Antwort_4=0Längsdecker
+
+[159]
+FZ1=
+FZ2=Wie nennt man einen Raumgleiter, der mit einer Rakete ins All geschossen wird,
+FZ3=aber wieder zur Erde zurückkehrt und somit wiederverwendet werden kann ?
+Min=1000
+Max=8000
+Antwort_1=1Spaceshuttle
+Antwort_2=0Kosmosshuttle
+Antwort_3=0Airshuttle
+Antwort_4=0Turboshuttle
+
+[160]
+FZ1=
+FZ2=Wie nennt man ein Flugzeug, dessen Tragflügeloberkante mit der Rumpfoberkante
+FZ3=in gleicher Höhe liegt ?
+Min=2000
+Max=32000
+Antwort_1=1Schulterdecker
+Antwort_2=0Bauchdecker
+Antwort_3=0Rückendecker
+Antwort_4=0Kopfdecker
+
+[161]
+FZ1=
+FZ2=Wie nennt man die billigste Tarifklasse in einem Verkehrsflugzeug ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Economyklasse
+Antwort_2=0Thirdklasse
+Antwort_3=0Businessklasse
+Antwort_4=0Billigklasse
+
+[162]
+FZ1=
+FZ2=Wofür steht die Abkürzung C.A.T. ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Clear - Air - Turbulenz	gefährliche, unsichtbare Turbulenz,	die oft am Rand von Jetstreams auftritt
+Antwort_2=0Check - and - tank	Überprüfung und Auftanken des	Flugzeuges
+Antwort_3=0Crew - and - Tower	das gesamte Flughafenpersonal
+Antwort_4=0Cold - Air - Thunder	eisige Höhenwinde mit Donnerschlag
+
+[163]
+FZ1=
+FZ2=Wie nennt man eine gefährliche, unsichtbare Turbulenz,
+FZ3=die oft am Rand von Jetstreams auftritt ?
+Min=250000
+Max=500000
+Antwort_1=1CAT
+Antwort_2=0COW
+Antwort_3=0DOG
+Antwort_4=0PIG
+
+[164]
+FZ1=
+FZ2=Wie nennt man schwere Luftverwirbelungen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Turbulenzen
+Antwort_2=0Hypothesen
+Antwort_3=0Katastrophen
+Antwort_4=0Kosmonauten
+
+[165]
+FZ1=
+FZ2=In welcher Höhe befinden sich im Sommer die Jetstreams ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=110 - 13 Kilometer
+Antwort_2=07 - 9 Kilometer
+Antwort_3=014 - 17 Kilometer
+Antwort_4=03 - 8 Kilometer
+
+[166]
+FZ1=
+FZ2=Zwischen welchen Breitengraden kommen die Jetstreams vor ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=150° - 70° Nord  und  50° - 70° Süd
+Antwort_2=030° - 50° Nord  und  80° - 90° Süd
+Antwort_3=010° - 20° Nord  und  30° - 40° Süd
+Antwort_4=040° - 60° Nord  und  10° - 80° Süd
+
+[167]
+FZ1=Wie nennt man die schmalen Bänder gewaltiger Orkane, die in der untersten
+FZ2=Luftschicht der Erdatmosphäre mehr oder weniger permanent die Erdkugel von
+FZ3=West nach Ost umfließen ?
+Min=64000
+Max=500000
+Antwort_1=1Jetstream
+Antwort_2=0Tornadoway
+Antwort_3=0Orkandrive
+Antwort_4=0Sturmweg
+
+[168]
+FZ1=
+FZ2=Seit wann ist jedes Verkehrsflugzeug, das über die USA fliegt, mit einem
+FZ3=Antikollisionsgerät ausgerüstet ?
+Min=64000
+Max=500000
+Antwort_1=11972
+Antwort_2=01992
+Antwort_3=01982
+Antwort_4=02002
+
+[169]
+FZ1=
+FZ2=Weshalb ist der Abstand der Flugstraßen in Höhen unter 29.000 Fuß
+FZ3=geringer als in Höhen über 29.000 Fuß ?
+Min=125000
+Max=500000
+Antwort_1=1weil die Höhenmesser in geringeren	Höhen genauer messen
+Antwort_2=0weil die Flugzeuge in größeren Höhen	langsamer fliegen
+Antwort_3=0weil die Piloten nach unten eine	bessere Sicht haben
+Antwort_4=0weil in Höhen unter 29.000 Fuß weniger	Flugzeuge fliegen
+
+[170]
+FZ1=
+FZ2=Die Luftstraßen sind höhenmäßig voneinander getrennt. Wie groß ist der Abstand der
+FZ3=Luftstraßen über 29.000 Fuß voneinander ?
+Min=250000
+Max=500000
+Antwort_1=12.000 Fuß
+Antwort_2=03.000 Fuß
+Antwort_3=01.000 Fuß
+Antwort_4=04.000 Fuß
+
+[171]
+FZ1=
+FZ2=Die Luftstraßen sind höhenmäßig voneinander getrennt. Wie groß ist der Abstand
+FZ3=der Luftstraßen unter 29.000 Fuß voneinander ?
+Min=250000
+Max=500000
+Antwort_1=11.000 Fuß
+Antwort_2=03.000 Fuß
+Antwort_3=02.000 Fuß
+Antwort_4=04.000 Fuß
+
+[172]
+FZ1=
+FZ2=Wie heißt das Satelittennavigationssystem ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1G P S
+Antwort_2=0A B S
+Antwort_3=0S N S
+Antwort_4=0S O S
+
+[173]
+FZ1=Welcher Luftdruck wird in einem modernen Langstreckenflugzeug künstlich erzeugt,
+FZ2=damit die Differenz zwischen dem äußerst geringen Außendruck und dem Überdruck
+FZ3=in der Kabine nicht zu groß wird ?
+Min=64000
+Max=500000
+Antwort_1=1ein Luftdruck wie auf einem 1.200 bis	maximal 2.000 m hohen Berg
+Antwort_2=0ein Luftdruck wie auf einem 1.800 bis	maximal 3.500 m hohen Berg
+Antwort_3=0ein Luftdruck wie auf einem 200 bis	maximal 1.000 m hohen Berg
+Antwort_4=0ein Luftdruck wie auf einem 4.200 bis	maximal 6.000 m hohen Berg
+
+[174]
+FZ1=
+FZ2=Wie schnell flog die Douglas DC - 3 -  eines der erfolgreichsten Verkehrsflugzeuge
+FZ3=der Welt -  ?
+Min=64000
+Max=500000
+Antwort_1=1300 km/h
+Antwort_2=0400 km/h
+Antwort_3=0200 km/h
+Antwort_4=0500 km/h
+
+[175]
+FZ1=
+FZ2=Wie viel PS hatte die Douglas DC - 3 -  eines der erfolgreichsten Verkehrsflugzeuge
+FZ3=der Welt -  ?
+Min=64000
+Max=500000
+Antwort_1=12.400 PS
+Antwort_2=04.800 PS
+Antwort_3=03.600 PS
+Antwort_4=01.200 PS
+
+[176]
+FZ1=
+FZ2=Wie viele Passagiere konnte die Douglas DC - 3 -  eines der erfolgreichsten
+FZ3=Verkehrsflugzeuge der Welt -  transportieren ?
+Min=64000
+Max=500000
+Antwort_1=132
+Antwort_2=082
+Antwort_3=052
+Antwort_4=0122
+
+[177]
+FZ1=
+FZ2=Für den Start eines Flugzeuges sind drei Geschwindigkeiten wichtig.
+FZ3=Was bedeutet die Geschwindigkeit V 2 ?
+Min=64000
+Max=500000
+Antwort_1=1Bei dieser Geschwindigkeit muss das	Flugzeug bereits 12 Meter hoch sein.
+Antwort_2=0Der Start kann nicht mehr abgebrochen	werden, weil der Rest der Bahn für ein	Abbremsen nicht mehr ausreicht.
+Antwort_3=0Bei dieser Geschwindigkeit hebt sich	das Bugrad.
+Antwort_4=0Der Start kann noch abgebrochen	werden, da das Flugzeug noch zu	langsam ist.
+
+[178]
+FZ1=
+FZ2=Für den Start eines Flugzeuges sind drei Geschwindigkeiten wichtig.
+FZ3=Was bedeutet die Geschwindigkeit V r ?
+Min=64000
+Max=500000
+Antwort_1=1Bei dieser Geschwindigkeit hebt sich	das Bugrad.
+Antwort_2=0Bei dieser Geschwindigkeit muss das	Flugzeug bereits 12 Meter hoch sein.
+Antwort_3=0Der Start kann nicht mehr abgebrochen	werden, weil der Rest der Bahn für ein	Abbremsen nicht mehr ausreicht.
+Antwort_4=0Der Start kann noch abgebrochen	werden, da das Flugzeug noch zu	langsam ist.
+
+[179]
+FZ1=
+FZ2=Für den Start eines Flugzeuges sind drei Geschwindigkeiten wichtig.
+FZ3=Was bedeutet die Geschwindigkeit V 1 ?
+Min=64000
+Max=500000
+Antwort_1=1Der Start kann nicht mehr abgebrochen	werden, weil der Rest der Bahn für ein	Abbremsen nicht mehr ausreicht.
+Antwort_2=0Bei dieser Geschwindigkeit muss das	Flugzeug bereits 12 Meter hoch sein.
+Antwort_3=0Bei dieser Geschwindigkeit hebt sich	das Bugrad.
+Antwort_4=0Der Start kann noch abgebrochen	werden, da das Flugzeug noch zu	langsam ist.
+
+[180]
+FZ1=
+FZ2=Wo erfahren die Piloten vor dem Start etwas über das Abfluggewicht,
+FZ3=die Beladung und die Trimmung  ?
+Min=250000
+Max=500000
+Antwort_1=1aus dem Loadsheet
+Antwort_2=0aus dem Catering
+Antwort_3=0aus dem Briefing
+Antwort_4=0aus den Nachrichten
+
+[181]
+FZ1=
+FZ2=Bis zu wie viel Grad Kälte herrscht in einer Flughöhe von mehr 12 Kilometer Höhe ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1- 70 ° C
+Antwort_2=0- 30 ° C
+Antwort_3=0- 50 ° C
+Antwort_4=0- 120 ° C
+
+[182]
+FZ1=
+FZ2=Um wie viel verringerte sich die Anzahl der beweglichen und somit störanfälligen
+FZ3=Teile bei einem Düsenflugzeug im Gegensatz zu einem Propellerflugzeug ?
+Min=32000
+Max=250000
+Antwort_1=1um die Hälfte
+Antwort_2=0um ein Viertel
+Antwort_3=0um ein Drittel
+Antwort_4=0um ein Sechstel
+
+[183]
+FZ1=
+FZ2=Wie hieß der erste vierstrahlige Langstreckenjet ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Boeing 707
+Antwort_2=0Lockheed F 86
+Antwort_3=0Douglas DC - 6
+Antwort_4=0Caravelle II
+
+[184]
+FZ1=
+FZ2=Ab welcher Geschwindigkeit werden bei einem Passagier - Jet nur noch die inneren
+FZ3=Querruder betätigt, da sonst die Schräglage viel zu schlagartig einsetzen würde ?
+Min=250000
+Max=500000
+Antwort_1=1ab ca. 480 km/h
+Antwort_2=0ab ca. 240 km/h
+Antwort_3=0ab ca. 360 km/h
+Antwort_4=0ab ca. 720 km/h
+
+[185]
+FZ1=Welche Ruder werden bei Passagier -  Jets betätigt, damit bei größeren
+FZ2=Geschwindigkeiten die Schräglage bei einem Kurvenflug
+FZ3=nicht zu schlagartig einsetzt ?
+Min=250000
+Max=500000
+Antwort_1=1die inneren Querruder
+Antwort_2=0das Höhenruder
+Antwort_3=0die äußeren Querruder
+Antwort_4=0das Seitenruder
+
+[186]
+FZ1=
+FZ2=Weshalb war die Atlantiküberquerung von Ost nach West schwieriger ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1wegen des stets vorherrschenden	Gegenwindes
+Antwort_2=0wegen des Rückenwindes wurde die	Landung enorm erschwert
+Antwort_3=0wegen der längeren Flugstrecke
+Antwort_4=0weil die untergehende Sonne die	Piloten blendete
+
+[187]
+FZ1=
+FZ2=Wie viel Kilometer wurden bei der ersten Atlantiküberquerung von Ost nach West
+FZ3=(von Irland nach Greenly Island vor Neufundland) zurückgelegt ?
+Min=250000
+Max=500000
+Antwort_1=16.700 km
+Antwort_2=07.600 km
+Antwort_3=05.600 km
+Antwort_4=09.500 km
+
+[188]
+FZ1=
+FZ2=Wie lange dauerte die erste Atlantiküberquerung von Ost nach West, die wegen der
+FZ3=stets vorherrschenden Gegenwinde um so sensationeller war ?
+Min=250000
+Max=500000
+Antwort_1=136 Stunden
+Antwort_2=024 Stunden
+Antwort_3=048 Stunden
+Antwort_4=060 Stunden
+
+[189]
+FZ1=
+FZ2=Wann gelang die erste Atlantiküberquerung von Ost nach West, die wegen der stets
+FZ3=vorherrschenden Gegenwinde um so sensationeller war ?
+Min=250000
+Max=500000
+Antwort_1=112. April 1928
+Antwort_2=03. November 1932
+Antwort_3=014. Februar 1930
+Antwort_4=022. März 1934
+
+[190]
+FZ1=
+FZ2=In welchem Flugzeug gelang die erste Atlantiküberquerung von Ost nach West, die
+FZ3=wegen der stets vorherrschenden Gegenwinde um so sensationeller war ?
+Min=125000
+Max=500000
+Antwort_1=1in dem Passagierflugzeug Junkers W 33
+Antwort_2=0in dem Doppeldecker Bücker 133	Jungmeister
+Antwort_3=0in dem Kriegsflugzeug Heinkel FE 23
+Antwort_4=0in einer dreimotorigen Fokker F XVIII
+
+[191]
+FZ1=
+FZ2=Wie viele Stunden benötigte Charles Lindbergh 1927 für seine Atlantiküberquerung ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1knapp 34 Stunden
+Antwort_2=0ungefähr 39 Stunden
+Antwort_3=029 Stunden
+Antwort_4=0über 42 Stunden
+
+[192]
+FZ1=
+FZ2=Wie viel PS hatte der Eindecker, mit dem 1909 der Franzose Louis Blériot
+FZ3=über den Ärmelkanal flog ?
+Min=250000
+Max=500000
+Antwort_1=126 PS
+Antwort_2=039 PS
+Antwort_3=012 PS
+Antwort_4=052 PS
+
+[193]
+FZ1=
+FZ2=Welchen Namen hatte das erste Passagierflugzeug der Welt, eine Junkers F 13 ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Anneliese
+Antwort_2=0Felicitas
+Antwort_3=0Anne - Marie
+Antwort_4=0Brunhilde
+
+[194]
+FZ1=
+FZ2=Beim ersten offiziell bekundeten Motorflug blieb "Flyer I" 12 Sekunden in der Luft
+FZ3=und schaffte dabei 53 m. Wie lange blieb er bei seinem 4. Versuch in der Luft ?
+Min=64000
+Max=500000
+Antwort_1=1fast eine Minute
+Antwort_2=04 Minuten 25 Sekunden
+Antwort_3=032 Sekunden
+Antwort_4=0Er stürzte sofort ab.
+
+[195]
+FZ1=
+FZ2=Beim ersten offiziell bekundeten Motorflug blieb "Flyer I" 12 Sekunden in der Luft
+FZ3=und schaffte dabei 53 m. Wie viel Meter schaffte er bei seinem 4. Versuch ?
+Min=64000
+Max=500000
+Antwort_1=1260 m
+Antwort_2=0390 m
+Antwort_3=0120 m
+Antwort_4=01.300 m
+
+[196]
+FZ1=
+FZ2=Wie viele Flüge mit Hängegleitern hatte Otto Lilienthal bereits absolviert,
+FZ3=bevor er 1896 tödlich verunglückte ?
+Min=125000
+Max=500000
+Antwort_1=1über 2.000
+Antwort_2=0345
+Antwort_3=01.000 - 1.500
+Antwort_4=012
+
+[197]
+FZ1=
+FZ2=Wie viele Menschen kamen bei dem Unglück des Luftschiffes LZ 129 Hindenburg
+FZ3=im Mai 1937 in Lakehurst ums Leben ?
+Min=64000
+Max=500000
+Antwort_1=135
+Antwort_2=075
+Antwort_3=055
+Antwort_4=095
+
+[198]
+FZ1=
+FZ2=Wie lang war das größte jemals gebaute Luftschiff, die LZ 129 Hindenburg ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1247 m
+Antwort_2=0187 m
+Antwort_3=0212 m
+Antwort_4=0153 m
+
+[199]
+FZ1=
+FZ2=Wie groß war der Durchmesser des größten jemals gebauten Luftschiffes,
+FZ3=der LZ 129 Hindenburg ?
+Min=64000
+Max=250000
+Antwort_1=141 m
+Antwort_2=021 m
+Antwort_3=031 m
+Antwort_4=061 m
+
+[200]
+FZ1=
+FZ2=Wann umrundete das Luftschiff LZ 127 Graf Zeppelin die Erde ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=11929
+Antwort_2=01939
+Antwort_3=01919
+Antwort_4=01949
+
+[201]
+FZ1=
+FZ2=Wie schnell war das erste mit Wasserstoff gefüllte Luftschiff ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=18 km/h
+Antwort_2=028 km/h
+Antwort_3=018 km/h
+Antwort_4=038 km/h
+
+[202]
+FZ1=
+FZ2=Wie lang war das erste mit Wasserstoff gefüllte Luftschiff ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1über 40 m
+Antwort_2=026 m
+Antwort_3=0ca. 30 m
+Antwort_4=012 m
+
+[203]
+FZ1=
+FZ2=Wie viel PS hatte die winzige Dampfmaschine, die das erste mit Wasserstoff
+FZ3=gefüllte Luftschiff antrieb ?
+Min=16000
+Max=250000
+Antwort_1=13
+Antwort_2=06
+Antwort_3=01,5
+Antwort_4=012
+
+[204]
+FZ1=
+FZ2=Wie lange dauert es, bis ein Heißluftballon vom Beipackanhänger aus startklar
+FZ3=gemacht werden kann ?
+Min=8000
+Max=64000
+Antwort_1=1ca. 20 Minuten
+Antwort_2=0ca. 40 Minuten
+Antwort_3=0ca. 10 Minuten
+Antwort_4=0ca. 1 Stunde
+
+[205]
+FZ1=
+FZ2=Wann lebte der italienische Physiker Evangelista Torricelli, der entdeckte,
+FZ3=dass Luft und andere Gase Gewicht und Dichte haben ?
+Min=500000
+Max=500000
+Antwort_1=11608 - 1647
+Antwort_2=01802 - 1859
+Antwort_3=01712 -1770
+Antwort_4=01523 - 1563
+
+[206]
+FZ1=
+FZ2=Wer entdeckte, dass Luft und andere Gase Gewicht und Dichte haben ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1der italienische Physiker	Evangelista Torricelli
+Antwort_2=0der deutsche Astronom	Johann Gutenberg
+Antwort_3=0der französische Chemiker	Robert Avingnon
+Antwort_4=0der englische Mönch	Arthur Wellington
+
+[207]
+FZ1=
+FZ2=Wer ging als "Vater der Aeronautik" in die Fluggeschichte ein ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Sir George Cayley
+Antwort_2=0Roger Baccon
+Antwort_3=0Sir Bill Ramsey
+Antwort_4=0Jakob Sprenger
+
+[208]
+FZ1=
+FZ2=Was ist ein Terminal ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1das Flughafengebäude
+Antwort_2=0die Start -  und Landebahnanlage
+Antwort_3=0der Kontrollturm
+Antwort_4=0die große Halle für ein Flugzeug
+
+[209]
+FZ1=
+FZ2=Wie heißt das Lufthafengebäude in der Luftfahrt - Fachsprache ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Terminal
+Antwort_2=0Tower
+Antwort_3=0Basisgebäude
+Antwort_4=0Headquarter
+
+[210]
+FZ1=Wie nennt man es, wenn man die Koffer am Schalter abgibt und gegen Vorzeigen
+FZ2=des Flugtickets eine Bordkarte erhält, auf der steht, wann man an welchem Ausgang
+FZ3=sein muss, um den Flug nicht zu verpassen und auf welchem Platz man sitzt ?
+Min=2000
+Max=32000
+Antwort_1=1einchecken
+Antwort_2=0verreisen
+Antwort_3=0einsteigen
+Antwort_4=0chatten
+
+[211]
+FZ1=
+FZ2=Was macht man beim Einchecken ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Man gibt die Koffer am Schalter ab und	bekommt gegen Vorzeigen des	Flugtickets eine Bordkarte.
+Antwort_2=0Man stellt das Auto in die	Flughafengarage.
+Antwort_3=0Man besteigt die Gangway und geht ins	Flugzeug.
+Antwort_4=0Man befestigt seinen Sicherheitsgurt.
+
+[212]
+FZ1=
+FZ2=Woraus bestanden die meisten Flugzeuge bis zum Ende des 1. Weltkrieges ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1aus einem Holz-  oder Metallrahmen mit	Stoffbespannung
+Antwort_2=0aus Birkenholz und Pergament
+Antwort_3=0aus Styropor und Balsaholz
+Antwort_4=0aus Aluminium und Kunststoff
+
+[213]
+FZ1=
+FZ2=Was ist ein "Eindecker" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Flugzeug mit einer einzigen	Tragfläche
+Antwort_2=0ein Tower mit nur einer Radaranlage
+Antwort_3=0ein Mann des Bodenpersonals, der die	Flugzeuge im Hangar mit Tüchern	"eindeckt"
+Antwort_4=0der Steward an Bord, der den	Passagieren das Essen bringt
+
+[214]
+FZ1=
+FZ2=Wie nennt man den Zeitraum, in dem ein Flugzeug auf einem Flughafen
+FZ3=starten oder landen darf ?
+Min=250000
+Max=500000
+Antwort_1=1slot
+Antwort_2=0drot
+Antwort_3=0grot
+Antwort_4=0plot
+
+[215]
+FZ1=
+FZ2=Was ist ein "slot" ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1der Zeitraum, in dem ein Flugzeug auf	einem Flughafen starten oder landen	darf
+Antwort_2=0das Durchstarten nach einer	missglückten Landung
+Antwort_3=0ein Umweg, den ein Pilot wegen	schlechten Wetters fliegen muss
+Antwort_4=0eine Notwasserung
+
+[216]
+FZ1=
+FZ2=Wie viele Tonnen Kerosin werden von Flugzeugen jährlich verbraucht ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1200 Millionen
+Antwort_2=0300 Millionen
+Antwort_3=0100 Millionen
+Antwort_4=050 Millionen
+
+[217]
+FZ1=
+FZ2=Wie nennt man es, wenn das Flugzeug während des Fluges
+FZ3=Treibstoff ablassen muss ?
+Min=64000
+Max=500000
+Antwort_1=1Fuel Dump
+Antwort_2=0Fuel Over
+Antwort_3=0Fuel Stuff
+Antwort_4=0Fuel Exit
+
+[218]
+FZ1=
+FZ2=Was bedeutet der Begriff "Fuel Dump" ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0Dem Flugzeug geht der Treibstoff aus.
+Antwort_2=0Das Flugzeug wird in der Luft	aufgetankt.
+Antwort_3=1Das Flugzeug muss während des Fluges	Treibstoff ablassen.
+Antwort_4=0Das Flugzeug benötigt wegen voller	Tanks eine längere Startbahn.
+
+[219]
+FZ1=
+FZ2=Was wird bei einer "Enteisung" gemacht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Die Tragflächen und das Höhenruder	werden mit einer speziellen Glykol -	Alkohol - Mischung enteist.
+Antwort_2=0Die Klimaanlage wird überprüft.
+Antwort_3=0Die Start- und Landebahn wird mit	Streusalz enteist.
+Antwort_4=0Die Piloten bekommen warme Wäsche.
+
+[220]
+FZ1=
+FZ2=In welchem Jahr konnte die Lufthansa seit Ende des 2. Weltkrieges
+FZ3=zum ersten Mal wieder Berlin anfliegen ?
+Min=250000
+Max=500000
+Antwort_1=11990
+Antwort_2=01964
+Antwort_3=01952
+Antwort_4=01976
+
+[221]
+FZ1=
+FZ2=Wie nennt man das Beladen des Flugzeuges mit Bordverpflegung und sogenanntem
+FZ3=Borddienstmaterial, wie z.B. Zeitungen, Decken Kopfhörer und Toilettenartikel ?
+Min=32000
+Max=250000
+Antwort_1=1Catering
+Antwort_2=0Tapering
+Antwort_3=0Flatering
+Antwort_4=0Hatering
+
+[222]
+FZ1=
+FZ2=Was versteht man in der Flugsprache unter "Catering" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1das Beladen des Flugzeuges mit	Bordverpflegung und	sogenanntem Borddienstmaterial
+Antwort_2=0das Enteisen der Tragflächen
+Antwort_3=0das Säubern eines Flugzeuges nach	einem Überseeflug
+Antwort_4=0die Zusammenstellung der Flugroute
+
+[223]
+FZ1=
+FZ2=In welcher Höhe fliegen heutige Verkehrsflugzeuge ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=18 - 12 km
+Antwort_2=013 - 16 km
+Antwort_3=05 - 7 km
+Antwort_4=02 - 5 km
+
+[224]
+FZ1=
+FZ2=In welchem Abstand muss  - je nach Flugzeugtyp -  der A - Check
+FZ3=durchgeführt werden ?
+Min=8000
+Max=250000
+Antwort_1=1350 - 650 Flugstunden
+Antwort_2=0200 - 300 Flugstunden
+Antwort_3=0100 - 150 Flugstunden
+Antwort_4=0750 - 1.000 Flugstunden
+
+[225]
+FZ1=
+FZ2=Wer oder was wird beim A - Check überprüft ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1die technischen Systeme
+Antwort_2=0der Bordservice
+Antwort_3=0die Gesundheit der Piloten
+Antwort_4=0die Sauberkeit der Landebahnen
+
+[226]
+FZ1=
+FZ2=In welchem Jahr nahm die Lufthansa nach dem Ende des 2. Weltkrieges
+FZ3=den Linienverkehr wieder auf ?
+Min=250000
+Max=500000
+Antwort_1=11. April 1955
+Antwort_2=03. November 1956
+Antwort_3=014. Februar 1954
+Antwort_4=022. März 1993
+
+[227]
+FZ1=
+FZ2=Wie hieß die Gesellschaft, die die "Deutsche Luft Hansa" 1930 zusammen mit dem
+FZ3=chinesischen Verkehrsministerium gründete ?
+Min=125000
+Max=500000
+Antwort_1=1Eurasia
+Antwort_2=0Aktion Fernost
+Antwort_3=0Deutsch - Chinesische - Allianz
+Antwort_4=0Eastern Airlines
+
+[228]
+FZ1=
+FZ2=Wie orientierten sich die Piloten auf der ersten Nachtflugstrecke 1926
+FZ3=von Berlin nach Königsberg ?
+Min=32000
+Max=250000
+Antwort_1=1an kleinen Leuchttürmen und	Drehfeuern, die alle 5 Kilometer	installiert waren
+Antwort_2=0Sie flogen nach den Lichtscheinen der	großen Städte.
+Antwort_3=0Sie wurden von den Fluglotsen mit	Funksprüchen geleitet.
+Antwort_4=0an der Kompassnadel
+
+[229]
+FZ1=
+FZ2=Wohin führte die erste Nachtflugstrecke ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Berlin - Königsberg
+Antwort_2=0Berlin - Hamburg
+Antwort_3=0Berlin - Weimar
+Antwort_4=0Berlin - Kaiserslautern
+
+[230]
+FZ1=
+FZ2=Wann wurde die erste Nachtflugstrecke der Welt eröffnet ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11. Mai 1926 um 2 Uhr morgens
+Antwort_2=03. November 1922 um 1 Uhr morgens
+Antwort_3=014. Februar 1924 um Mitternacht
+Antwort_4=022. März 1920 um 3 Uhr morgens
+
+[231]
+FZ1=
+FZ2=Mit welchem Flugzeug wurde am 1. Mai 1926 um 2 Uhr morgens
+FZ3=die erste Nachtflugstrecke der Welt eröffnet ?
+Min=250000
+Max=500000
+Antwort_1=1Junkers G 24
+Antwort_2=0Douglas DC - 3
+Antwort_3=0Junkers F 13
+Antwort_4=0Douglas DC - 6
+
+[232]
+FZ1=
+FZ2=Wann flog die Fokker - Grulich zum ersten planmäßigen Flug der
+FZ3="Deutsche Luft Hansa AG" von Berlin nach Zürich ?
+Min=250000
+Max=500000
+Antwort_1=16. April 1926
+Antwort_2=022. März 1924
+Antwort_3=014. Februar 1928
+Antwort_4=03. November 1930
+
+[233]
+FZ1=
+FZ2=Wohin flog die Fokker - Grulich zum ersten planmäßigen Flug der
+FZ3="Deutsche Luft Hansa AG" am 6. April 1926 ?
+Min=64000
+Max=500000
+Antwort_1=1Berlin - Zürich
+Antwort_2=0Frankfurt - Paris
+Antwort_3=0Berlin - Wien
+Antwort_4=0Frankfurt - London
+
+[234]
+FZ1=
+FZ2=Wie nennt man einen instrumentengesteuerten Flug ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Blindflug
+Antwort_2=0Computerflug
+Antwort_3=0Instrumentenflug
+Antwort_4=0Automatenflug
+
+[235]
+FZ1=
+FZ2=Was versteht man unter einem "Blindflug" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1einen instrumentengesteuerten Flug
+Antwort_2=0ein Flug, an dem blinde Passagiere	teilnehmen
+Antwort_3=0einen Flug bei schlechter Sicht
+Antwort_4=0einen Flug mit ungewissem Landeort
+
+[236]
+FZ1=Wie nennt man die Tragflächen, deren Stellung zum Rumpf verändert werden kann,
+FZ2=sodass eine optimale Anpassung an die Geschwindigkeit
+FZ3=des Flugzeuges gegeben ist ?
+Min=8000
+Max=125000
+Antwort_1=1Schwenkflügel
+Antwort_2=0Flexiflügel
+Antwort_3=0Varioflügel
+Antwort_4=0Drehflügel
+
+[237]
+FZ1=
+FZ2=Was sind "Schwenkflügel" ?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Tragflächen, deren Stellung zum Rumpf	verändert werden kann
+Antwort_2=0die kleinen Flügel am Heck eines	Flugzeuges
+Antwort_3=0die Rotorblätter eines Hubschraubers
+Antwort_4=0so werden die Tragflächen eines	Segelflugzeuges genannt
+
+[238]
+FZ1=
+FZ2=Wie nennt man die Strecke, die ein Flugzeug ohne Auftanken zurücklegen kann ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Reichweite
+Antwort_2=0Tour
+Antwort_3=0Flugentfernung
+Antwort_4=0Route
+
+[239]
+FZ1=
+FZ2=Was versteht man in der Flugsprache unter "Reichweite" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1die Strecke, die ein Flugzeug ohne	Auftanken zurücklegen kann
+Antwort_2=0die Entfernung zwischen den beiden	Flügelenden
+Antwort_3=0die Entfernung, über die ein Flugzeug	durch Radargeräte wahrgenommen	werden kann
+Antwort_4=0die Länge der Start- und Landebahn
+
+[240]
+FZ1=
+FZ2=Wie nennt man die elektronische Steuerung von Höhen-, Seiten- und Querruder ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Fly - by - Wire
+Antwort_2=0Fly - in - Sky
+Antwort_3=0Fly away
+Antwort_4=0Fly extrem
+
+[241]
+FZ1=
+FZ2=Was bedeutet "Fly - by - Wire" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1die elektronische Steuerung von	Höhen-, Seiten- und Querruder
+Antwort_2=0das Fliegen in einem	Überschallflugzeug
+Antwort_3=0das Fliegen nach Instrumenten
+Antwort_4=0der elektronische Funksprechverkehr
+
+[242]
+FZ1=
+FZ2=Wie nennt man ein Flugzeug, das sowohl auf dem Land als auch auf dem Wasser
+FZ3=starten und landen kann ?
+Min=125000
+Max=500000
+Antwort_1=1Amphibium
+Antwort_2=0Aquarium
+Antwort_3=0Amphore
+Antwort_4=0Aquamarin
+
+[243]
+FZ1=
+FZ2=Was ist ein "Amphibium" ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ein Flugzeug, das sowohl auf dem Land	als auch auf dem Wasser starten und	landen kann
+Antwort_2=0ein Flugzeug, das zur	Brandbekämpfung eingesetzt wird
+Antwort_3=0ein Flugzeug, das bei seinen Flügen	meistens über Wasser fliegt
+Antwort_4=0ein Flugzeug, das wertvolle Reptilien	transportiert
+
+[244]
+FZ1=
+FZ2=Womit ist der Zeppelin LZ N 07 gefüllt, der 1996 der Öffentlichkeit vorgestellt wurde
+FZ3=und 12 Passagieren Platz bietet ?
+Min=4000
+Max=64000
+Antwort_1=1Helium
+Antwort_2=0Heißluft
+Antwort_3=0Wasserstoff
+Antwort_4=0Plutonium
+
+[245]
+FZ1=
+FZ2=Wie vielen Passagieren bietet der Zeppelin LZ N 07 von 1996 Platz ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=112
+Antwort_2=048
+Antwort_3=024
+Antwort_4=096
+
+[246]
+FZ1=
+FZ2=Wann stellte die Firma Zeppelin den Zeppelin NT (Neue Technologie)
+FZ3=der Öffentlichkeit vor ?
+Min=125000
+Max=500000
+Antwort_1=11996
+Antwort_2=01986
+Antwort_3=01999
+Antwort_4=01989
+
+[247]
+FZ1=
+FZ2=Wann wurde zum ersten Mal ein Schleudersitz eingesetzt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11942
+Antwort_2=01922
+Antwort_3=01932
+Antwort_4=01952
+
+[248]
+FZ1=
+FZ2=Weshalb wurden Luftstraßen eingeführt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1weil es 1922 über Nordfrankreich zum	Zusammenstoß zweier Flugzeuge kam
+Antwort_2=0weil viele Piloten zu tief flogen und so	die Tiere störten
+Antwort_3=0weil sich 1923 ein Passagierflugzeug	verflogen hatte und in der Wüste	notlanden musste
+Antwort_4=0weil man so den Flugverkehr besser	überwachen konnte
+
+[249]
+FZ1=
+FZ2=Wie hieß das erste Passagierflugzeug mit Düsenantrieb, das 1952 in Dienst gestellt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1De Havilland DH 106 Comet
+Antwort_2=0Douglas DC - 6
+Antwort_3=0Boeing 707
+Antwort_4=0Lockheed F 104
+
+[250]
+FZ1=
+FZ2=Wann wurde die De Havilland DH 106 Comet, das erste Passagierflugzeug
+FZ3=mit Düsenantrieb, in Dienst gestellt ?
+Min=125000
+Max=500000
+Antwort_1=1Mai 1952
+Antwort_2=0Juni 1956
+Antwort_3=0März 1948
+Antwort_4=0August 1960
+
+[251]
+FZ1=
+FZ2=Was versteht man unter einem "Wasserbomber" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ein Flugzeug, das zur	Brandbekämpfung eingesetzt wird
+Antwort_2=0ein Flugzeug, das auch auf dem Wasser	starten und landen kann
+Antwort_3=0ein Düsenflugzeug, das eine	Wasserstoffbombe abwerfen kann
+Antwort_4=0ein Frachtflugzeug, das Mineralwasser	transportiert
+
+[252]
+FZ1=
+FZ2=Was ist ein "Rotor" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die große Luftschraube des	Hubschraubers
+Antwort_2=0die Empfangsantenne auf dem Tower
+Antwort_3=0der Bordmechaniker eines	Düsenflugzeuges
+Antwort_4=0ein kleines Düsenflugzeug
+
+[253]
+FZ1=
+FZ2=Wie heißt die große Luftschraube des Hubschraubers ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Rotor
+Antwort_2=0Propeller
+Antwort_3=0Quirl
+Antwort_4=0Helix
+
+[254]
+FZ1=
+FZ2=Womit wurde das Fluggerät "Gossamer Albatross" angetrieben , mit dem der
+FZ3=Amerikaner Bryan Allen 1979 den Ärmelkanal überquerte ?
+Min=32000
+Max=125000
+Antwort_1=1mit Pedalen
+Antwort_2=0mit Heißluft
+Antwort_3=0mit Turbinen
+Antwort_4=0mit Rotorflügeln
+
+[255]
+FZ1=
+FZ2=Wie hieß das Fluggerät, dessen Propeller von Pedalen angetrieben wurden, und
+FZ3=mit dem der Amerikaner Bryan Allen 1979 den Ärmelkanal überquerte ?
+Min=500000
+Max=500000
+Antwort_1=1Gossamer Albatross
+Antwort_2=0Sea Hawk
+Antwort_3=0Flying Condor
+Antwort_4=0Golden Eagle
+
+[256]
+FZ1=
+FZ2=Wie hieß der Amerikaner, der mit seinem Fluggerät "Gossamer Albatross",
+FZ3=dessen Propeller von Pedalen angetrieben wurden, den Ärmelkanal überquerte ?
+Min=500000
+Max=500000
+Antwort_1=1Bryan Allen
+Antwort_2=0Bryan Adams
+Antwort_3=0Bryan Jones
+Antwort_4=0Bryan O´ Neill
+
+[257]
+FZ1=
+FZ2=Wann überquerte der Amerikaner Bryan Allen mit seinem Fluggerät "Gossamer
+FZ3=Albatross", dessen Propeller von Pedalen angetrieben wurden, den Ärmelkanal ?
+Min=250000
+Max=500000
+Antwort_1=11979
+Antwort_2=01999
+Antwort_3=01989
+Antwort_4=01969
+
+[258]
+FZ1=
+FZ2=Seit wann wurde die dreimotorige Junkers Ju 52 im Liniendienst
+FZ3=der Lufthansa eingesetzt ?
+Min=125000
+Max=500000
+Antwort_1=11932
+Antwort_2=01938
+Antwort_3=01936
+Antwort_4=01934
+
+[259]
+FZ1=
+FZ2=Welchen Spitznamen hatte die dreimotorige Junkers Ju 52 ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Tante Ju
+Antwort_2=0Mutter JU
+Antwort_3=0Onkel Ju
+Antwort_4=0Oma Ju
+
+[260]
+FZ1=
+FZ2=Welches Flugzeug hatte den Spitznamen "Tante Ju" ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1die dreimotorige Junkers Ju 52
+Antwort_2=0die einmotorige Judith Ju 17
+Antwort_3=0die zweimotorige Jupiter Ju 48
+Antwort_4=0die viermotorige Jussuff Ju 100
+
+[261]
+FZ1=
+FZ2=Wie lautet die Bezeichnung für ein Flugzeug, das nur eine kurze Rollbahn
+FZ3=für die Starts und Landungen braucht ?
+Min=250000
+Max=500000
+Antwort_1=1STOL
+Antwort_2=0SHORT
+Antwort_3=0SKOL
+Antwort_4=0SCOUT
+
+[262]
+FZ1=
+FZ2=Was verbirgt sich hinter der Abkürzung STOL ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1STOL ist eine Bezeichnung für ein	Flugzeug, das nur eine kurze Rollbahn	für die Starts und Landungen braucht.
+Antwort_2=0STOL ist eine Bezeichnung für ein	Flugzeug, das nur im Frachtverkehr	eingesetzt wird.
+Antwort_3=0STOL ist eine Bezeichnung für ein	Flugzeug, das auch nachts fliegen kann.
+Antwort_4=0STOL ist eine Bezeichnung für ein	Flugzeug, das mit Überschall -	geschwindigkeit fliegen kann
+
+[263]
+FZ1=
+FZ2=Was kann ein Hubschrauber, was ein Flugzeug nicht kann ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1rückwärts fliegen
+Antwort_2=0nachts fliegen
+Antwort_3=0durch Wolken fliegen
+Antwort_4=0über Berge fliegen
+
+[264]
+FZ1=
+FZ2=Wie nennt man die Drehbewegung eines Flugzeuges nach links oder rechts,
+FZ3=die mit dem Seitenruder gesteuert wird ?
+Min=32000
+Max=250000
+Antwort_1=1Scheren
+Antwort_2=0Löffel
+Antwort_3=0Messer
+Antwort_4=0Gabeln
+
+[265]
+FZ1=
+FZ2=Wie heißt ein Propeller mit vielen gebogenen Schaufeln, der die Sparsamkeit eines
+FZ3=Propellers mit der Geschwindigkeit einer Düse verbindet ?
+Min=32000
+Max=125000
+Antwort_1=1Propfan
+Antwort_2=0Propifon
+Antwort_3=0Propan
+Antwort_4=0Pfropfen
+
+[266]
+FZ1=
+FZ2=Wer baute 1852 das erste mit Wasserstoff gefüllte Luftschiff ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1der Franzose Henri Giffard
+Antwort_2=0der Engländer Jack Campbell
+Antwort_3=0der Amerikaner Brian Jones
+Antwort_4=0der Deutsche Graf Ferdinand Zeppelin
+
+[267]
+FZ1=
+FZ2=Wann baute der französische Ingenieur Henri Giffard das erste mit Wasserstoff
+FZ3=gefüllte Luftschiff ?
+Min=125000
+Max=500000
+Antwort_1=11852
+Antwort_2=01872
+Antwort_3=01862
+Antwort_4=01882
+
+[268]
+FZ1=
+FZ2=Wie hieß der Heißluftballon, mit dem Bertrand Piccard und Brian Jones
+FZ3=1999 die Erde umrundeten ?
+Min=125000
+Max=500000
+Antwort_1=1Breitling Orbiter
+Antwort_2=0Jetstream Star
+Antwort_3=0Silver Cloud
+Antwort_4=0Mercury III
+
+[269]
+FZ1=
+FZ2=Wann umrundeten Bertrand Piccard und Brian Jones
+FZ3=in einem Heißluftballon die Erde ?
+Min=125000
+Max=500000
+Antwort_1=11999
+Antwort_2=01979
+Antwort_3=01989
+Antwort_4=01969
+
+[270]
+FZ1=
+FZ2=Wer umrundete 1999 in 20 Tagen die Erde in einem Heißluftballon ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Bertrand Piccard und Brian Jones
+Antwort_2=0Mick Jagger und Paul Mc Cartney
+Antwort_3=0Brian Adams und Louis de Funes
+Antwort_4=0Marc Knoffler und Hugo Strasser
+
+[271]
+FZ1=
+FZ2=Wie viele Tage benötigten Bertrand Piccard und Brian Jones in ihrem Ballon,
+FZ3=um die Erde zu umrunden ?
+Min=64000
+Max=500000
+Antwort_1=120 Tage
+Antwort_2=030 Tage
+Antwort_3=010 Tage
+Antwort_4=040 Tage
+
+[272]
+FZ1=
+FZ2=Was bezeichnet das Verhältnis zwischen der Geschwindigkeit eines Körpers
+FZ3=und der Geschwindigkeit des Schalls ?
+Min=2000
+Max=32000
+Antwort_1=1die Mach - Zahl
+Antwort_2=0die Wach - Zahl
+Antwort_3=0die Bach - Zahl
+Antwort_4=0die Lach - Zahl
+
+[273]
+FZ1=
+FZ2=Was sagt die Mach - Zahl aus ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Sie bezeichnet das Verhältnis zwischen	der Geschwindigkeit eines Körpers und	der Geschwindigkeit des Schalls.
+Antwort_2=0Sie bezeichnet das Verhältnis der Starts	und Landungen und der zurückgelegten	Kilometer eines Flugzeuges.
+Antwort_3=0Sie bezeichnet das Verhältnis zwischen	den Passagieren an Bord und der	Anzahl der Besatzungsmitglieder.
+Antwort_4=0Sie bezeichnet das Verhältnis zwischen	der Treibstoffmenge und dem Gewicht	der Gesamtladung.
+
+[274]
+FZ1=
+FZ2=Wie viele Kilometer flog der deutsche Segelflieger Hans - Werner Grosse
+FZ3=im April 1972 mit seinem ASW - 12 - Segelflugzeug von Lübeck nach Biarritz ?
+Min=250000
+Max=500000
+Antwort_1=11.460,8 km
+Antwort_2=01.098,2 km
+Antwort_3=01.235,6 km
+Antwort_4=02.451,8 km
+
+[275]
+FZ1=
+FZ2=In welche Stadt flog der deutsche Segelflieger Hans - Werner Grosse von Lübeck aus
+FZ3=im April 1972 mit seinem ASW - 12 - Segelflugzeug ?
+Min=125000
+Max=500000
+Antwort_1=1bis nach Biarritz (Frankreich)
+Antwort_2=0bis nach Helsinki (Finnland)
+Antwort_3=0bis nach Wien (Österreich)
+Antwort_4=0bis nach Rom (Italien)
+
+[276]
+FZ1=
+FZ2=Was ist ein "Beluga" ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1ein Transportflugzeug
+Antwort_2=0ein Gleitflugmodell
+Antwort_3=0ein Luftschiff
+Antwort_4=0ein Wasserflugzeug
+
+[277]
+FZ1=
+FZ2=Was bedeutet "Luftfahrt - Elektronik" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Avionik
+Antwort_2=0Aluminium
+Antwort_3=0Ammoniak
+Antwort_4=0Avronium
+
+[278]
+FZ1=
+FZ2=Welche Aufgabe haben Avionik - Fachleute beim Bau eines Flugzeuges ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Sie sind für die Elektronik zuständig.
+Antwort_2=0Sie sind für die Enteisung der	Tragflächen verantwortlich.
+Antwort_3=0Sie sind für die Triebwerke zuständig.
+Antwort_4=0Sie sind für den Funksprechverkehr	zuständig.
+
+[279]
+FZ1=
+FZ2=Wie nennt man eine Lagebesprechung mit der gesamten Crew vor dem Abflug ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Briefing
+Antwort_2=0Crewing
+Antwort_3=0Talking
+Antwort_4=0Holding
+
+[280]
+FZ1=
+FZ2=Was meint man in der Flugsprache mit einem "Briefing" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1eine Lagebesprechung mit der	gesamten Crew vor dem Abflug
+Antwort_2=0das Verteilen des Essens an die	Passagiere
+Antwort_3=0den Transport von Briefen und Paketen	per Flugzeug
+Antwort_4=0das Schreiben von Postkarten aus	fernen Ländern
+
+[281]
+FZ1=
+FZ2=Wie nennt man die Vorflügel, die Jets bei Starts und Landungen ausfahren?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1slats
+Antwort_2=0flats
+Antwort_3=0brats
+Antwort_4=0glats
+
+[282]
+FZ1=
+FZ2=Was sind "slats" ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Vorflügel, die Jets bei Starts und	Landungen ausfahren
+Antwort_2=0Warteschleifen über einem überfüllten	Flughafen
+Antwort_3=0die Zwillingsräder des Bugrades
+Antwort_4=0undeutliche Funksprüche
+
+[283]
+FZ1=
+FZ2=Wann wollte der "Schneider von Ulm" mit einem Schwingenfluggerät
+FZ3=die Donau bei Ulm überqueren, fiel aber wie ein Stein ins Wasser ?
+Min=250000
+Max=500000
+Antwort_1=11811
+Antwort_2=01822
+Antwort_3=01799
+Antwort_4=01788
+
+[284]
+FZ1=
+FZ2=Weswegen ging der "Schneider von Ulm" in die Fluggeschichte ein ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1Er wollte mit einem Schwingenfluggerät	die Donau bei Ulm überqueren, fiel aber	wie ein Stein ins Wasser.
+Antwort_2=0Er erfand den Dreifach - Propeller.
+Antwort_3=0Ihm gelang es als erstem Menschen, mit	einem Motorflugzeug von Ulm nach	Nürnberg zu fliegen.
+Antwort_4=0Er schneiderte die ersten	betriebstauglichen Fallschirme aus	reiner Seide.
+
+[285]
+FZ1=
+FZ2=Wie lange dauerte der erste Nonstop - Flug von Berlin nach New York ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=124 Stunden und 56 Minuten
+Antwort_2=032 Stunden und 24 Minuten
+Antwort_3=018 Stunden und 36 Minuten
+Antwort_4=016 Stunden und 12 Minuten
+
+[286]
+FZ1=
+FZ2=Mit welchem Flugzeug gelang der erste Nonstop - Flug von Berlin nach New York ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Fw 200 Condor
+Antwort_2=0As 300 Hawk
+Antwort_3=0Ts 100 Eagle
+Antwort_4=0Gt 400 Owl
+
+[287]
+FZ1=
+FZ2=Wann gelang der erste Nonstop - Flug von Berlin nach New York ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=11938
+Antwort_2=01948
+Antwort_3=01928
+Antwort_4=01958
+
+[288]
+FZ1=
+FZ2=Wie viel Kilometer legte Elly Beinhorn zurück, als sie 1932
+FZ3=in ihrem offenen Flugzeug um die Welt flog ?
+Min=32000
+Max=250000
+Antwort_1=131.000 km
+Antwort_2=020.000 km
+Antwort_3=042.000 km
+Antwort_4=053.000 km
+
+[289]
+FZ1=
+FZ2=Wann flog Elly Beinhorn in ihrem offenen Flugzeug um die Welt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11932
+Antwort_2=01922
+Antwort_3=01912
+Antwort_4=01942
+
+[290]
+FZ1=
+FZ2=Wie hieß die Flugpionierin, die 1932 in ihrem offenen Flugzeug um die Welt flog ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Elly Beinhorn
+Antwort_2=0Ellen Church
+Antwort_3=0Berta Armhorn
+Antwort_4=0Jacqueline Cochran
+
+[291]
+FZ1=
+FZ2=Welches Lebewesen erhob sich am 19. September 1783  n i c h t  mit einem
+FZ3=Heißluftballon in die Lüfte ?
+Min=250000
+Max=500000
+Antwort_1=1Hund
+Antwort_2=0Hahn
+Antwort_3=0Schaf
+Antwort_4=0Ente
+
+[292]
+FZ1=
+FZ2=Welche Lebewesen waren die Ersten, die sich am 19. September 1783 mit einem
+FZ3=Heißluftballon in die Lüfte erheben ?
+Min=32000
+Max=250000
+Antwort_1=1ein Hahn, ein Schaf und eine Ente
+Antwort_2=0ein Meerschweinchen, ein Hase und	eine Katze
+Antwort_3=0ein Hund, ein Schwein und eine Taube
+Antwort_4=0ein Kalb, ein Fohlen und eine Ziege
+
+[293]
+FZ1=
+FZ2=Welches System warnt den Piloten, wenn sich ein anderes Flugzeug zu sehr nähert ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1TCAS (Kollisionswarnsystem)
+Antwort_2=0FFWS (Fremdflugzeugwarnsystem)
+Antwort_3=0FWS (Frühwarnsystem)
+Antwort_4=0AWS (Abstandswarnsystem)
+
+[294]
+FZ1=
+FZ2=Wie viel Tonnen Last kann die AN - 225, ein russisches Transportflugzeug befördern ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1250 Tonnen
+Antwort_2=0150 Tonnen
+Antwort_3=0200 Tonnen
+Antwort_4=0100 Tonnen
+
+[295]
+FZ1=
+FZ2=Welches ist das größte Flugzeug der Welt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1AN - 225
+Antwort_2=0Boeing 474
+Antwort_3=0Airbus 320
+Antwort_4=0Douglas DC - 8
+
+[296]
+FZ1=
+FZ2=Wie lautet ein anderes Wort für Hubschrauber ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Helikopter
+Antwort_2=0Photolirium
+Antwort_3=0Teleporter
+Antwort_4=0Quadrant
+
+[297]
+FZ1=
+FZ2=Wann entwickelte Sikorsky in den USA den ersten typischen Hubschrauber ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11939
+Antwort_2=01949
+Antwort_3=01929
+Antwort_4=01959
+
+[298]
+FZ1=
+FZ2=Wer entwickelte 1939 in den USA den ersten typischen Hubschrauber ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Sikorsky
+Antwort_2=0Strawinsky
+Antwort_3=0Kaminsky
+Antwort_4=0Tucholsky
+
+[299]
+FZ1=
+FZ2=Wer skizzierte 1475 die erste Idee eines Hubschraubers ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Leonardo da Vinci
+Antwort_2=0Albrecht Dürer
+Antwort_3=0Vincent van Gogh
+Antwort_4=0Gallileo Galilei
+
+[300]
+FZ1=
+FZ2=Wie nennt man kleinere Flugzeuge, die nur zwischen 30 und 80 Fluggäste
+FZ3=befördern können und z.B. bei Inlandsflügen eingesetzt werden ?
+Min=4000
+Max=64000
+Antwort_1=1Regionalflugzeuge
+Antwort_2=0Short - Way - Plains
+Antwort_3=0Inlandsflugzeuge
+Antwort_4=0Minis
+
+[301]
+FZ1=
+FZ2=Welches System im Flugzeug erleichtert dem Piloten bei schlechtem Wetter den
+FZ3=Anflug auf einen Flugplatz ?
+Min=2000
+Max=32000
+Antwort_1=1das Instrumenten - Landesystem
+Antwort_2=0das Magnet - Landesystem
+Antwort_3=0die starken Systemscheinwerfer
+Antwort_4=0das Rückhalte - System
+
+[302]
+FZ1=
+FZ2=Wie wird der Kapitän eines Flugzeuges auch genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Pilot
+Antwort_2=0Pirat
+Antwort_3=0Idiot
+Antwort_4=0Pylon
+
+[303]
+FZ1=
+FZ2=Wie heißt der Pilot, der neben dem verantwortlichen Kapitän im Cockpit sitzt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kopilot
+Antwort_2=0Zweitpilot
+Antwort_3=0Ersatzpilot
+Antwort_4=0Nebenpilot
+
+[304]
+FZ1=
+FZ2=Was ist eine "Flugroute" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1der festgelegte Weg, den ein Flugzeug	zurücklegt
+Antwort_2=0die Nachtbeleuchtung der Landebahn
+Antwort_3=0die Bodenmarkierung auf dem Rollfeld
+Antwort_4=0die Luftkarte für den Piloten
+
+[305]
+FZ1=
+FZ2=Wie nennt man den festgelegten Weg, den ein Flugzeug zurücklegt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Flugroute
+Antwort_2=0Flugkanal
+Antwort_3=0Flugschneise
+Antwort_4=0Flugtrasse
+
+[306]
+FZ1=
+FZ2=Wie lange dauert es, ein Passagierflugzeug nach der Landung
+FZ3=wieder startklar zu machen ?
+Min=2000
+Max=32000
+Antwort_1=1ca. 1,5 Stunden
+Antwort_2=0ca. 6 Stunden
+Antwort_3=0ca. 3 Stunden
+Antwort_4=0ca. 9 Stunden
+
+[307]
+FZ1=
+FZ2=Womit füllt sich die Notrutsche, mit der die Passagiere das Flugzeug
+FZ3=in einem Notfall verlassen können ?
+Min=300
+Max=2000
+Antwort_1=1mit Luft
+Antwort_2=0mit Watte
+Antwort_3=0mit Wasser
+Antwort_4=0mit Schaumstoff
+
+[308]
+FZ1=
+FZ2=Was gehört  n i c h t  zu den Sicherheitseinrichtungen, die für jeden Passagier
+FZ3=während eines Fluges zur Verfügung stehen müssen ?
+Min=0
+Max=1000
+Antwort_1=1Heftpflaster
+Antwort_2=0Schwimmweste
+Antwort_3=0Sauerstoffmaske
+Antwort_4=0Sicherheitsgurt
+
+[309]
+FZ1=
+FZ2=Wie nennt man die komfortablen Geschäftsflugzeuge, die mit Telefax,
+FZ3=Computer und Telefon ausgestattet sind ?
+Min=4000
+Max=64000
+Antwort_1=1Businessjets
+Antwort_2=0Super Flyer
+Antwort_3=0Luxus Liner
+Antwort_4=0Sky crown
+
+[310]
+FZ1=
+FZ2=Welche maximale Reisegeschwindigkeit kann das Überschallflugzeug
+FZ3=Concorde erreichen ?
+Min=1000
+Max=8000
+Antwort_1=1über 2.000 km/h
+Antwort_2=01.500 km/h
+Antwort_3=01.950 km/h
+Antwort_4=01.200 - 1.400 km/h
+
+[311]
+FZ1=
+FZ2=Wie viel Pfund bot die Zeitung "Daily Mail" für den ersten Nonstop - Flug
+FZ3=zwischen Neufundland und Irland ?
+Min=32000
+Max=250000
+Antwort_1=110.000 Pfund
+Antwort_2=0100.000 Pfund
+Antwort_3=01.000 Pfund
+Antwort_4=0100 Pfund
+
+[312]
+FZ1=
+FZ2=Wann baute der spanische Ingenieur Juan de la Cierva den Autogiro,
+FZ3=der dem Hubschrauber schon sehr nahe kam ?
+Min=250000
+Max=500000
+Antwort_1=11923
+Antwort_2=01903
+Antwort_3=01913
+Antwort_4=01933
+
+[313]
+FZ1=
+FZ2=Mit welchem Flugzeug begann 1958 das Zeitalter der Düsen - Verkehrsflugzeuge ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Boeing 707
+Antwort_2=0Airbus A 320
+Antwort_3=0Douglas DC - 3
+Antwort_4=0Caravelle
+
+[314]
+FZ1=
+FZ2=In welchem Jahr begann mit dem Einsatz der Boeing 707 das Zeitalter
+FZ3=der Düsen - Verkehrsflugzeuge ?
+Min=64000
+Max=500000
+Antwort_1=11958
+Antwort_2=01978
+Antwort_3=01968
+Antwort_4=01948
+
+[315]
+FZ1=
+FZ2=Wie nennt man Flugzeuge, die vom gegnerischen Radar
+FZ3=nicht wahrgenommen werden können ?
+Min=2000
+Max=32000
+Antwort_1=1Tarnkappen - Flugzeuge
+Antwort_2=0Anti - Radar - Flugzeuge
+Antwort_3=0Geister - Flugzeuge
+Antwort_4=0Nebel - Flugzeuge
+
+[316]
+FZ1=
+FZ2=Was sind "Tarnkappen - Flugzeuge" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Flugzeuge, die vom gegnerischen	Radar nicht wahrgenommen werden	können
+Antwort_2=0Flugzeuge, die nur Hüte und Mützen	transportieren
+Antwort_3=0Flugzeuge, die dunkelgrün angestrichen	sind
+Antwort_4=0Flugzeuge, die nur von Piloten mit	Kappen geflogen werden dürfen
+
+[317]
+FZ1=
+FZ2=Wofür musste man als Passagier in den dreißiger Jahren einen Zuschlag zahlen -
+FZ3=außer für zu schweres Gepäck ?
+Min=2000
+Max=32000
+Antwort_1=1für sein eigenes Gewicht, wenn man zu	schwer war
+Antwort_2=0für einen eigenen Kopfhörer, um den	Funk mitzuhören
+Antwort_3=0für eine extra Kabine
+Antwort_4=0für ein besonders weiches Sitzkissen
+
+[318]
+FZ1=
+FZ2=Wann gab es den ersten Eindecker mit vollständig geschlossener Kabine ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11912
+Antwort_2=01919
+Antwort_3=01906
+Antwort_4=01925
+
+[319]
+FZ1=
+FZ2=Wie hieß der erste Eindecker mit vollständig geschlossener Kabine ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Avro F
+Antwort_2=0Heinkel FE 12
+Antwort_3=0Fokker - Wulf
+Antwort_4=0Umbre T
+
+[320]
+FZ1=
+FZ2=Was war das Besondere an dem Eindecker Avro F von 1912 ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Es war der erste Eindecker mit	vollständig geschlossener Kabine.
+Antwort_2=0Es war der erste Eindecker, der über ein	Funkgerät verfügte.
+Antwort_3=0Es war der erste Eindecker mit zwei	Motoren.
+Antwort_4=0Es war der erste Eindecker, der Paltz für	vier Personen hatte.
+
+[321]
+FZ1=
+FZ2=Wie viel Kilogramm darf ein Ultraleichtflugzeug höchstens wiegen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1450 kg
+Antwort_2=0250 kg
+Antwort_3=0350 kg
+Antwort_4=0550 kg
+
+[322]
+FZ1=
+FZ2=Durch welche beweglichen Klappen kann das Flugzeug in Seitenneigung
+FZ3=gebracht werden ?
+Min=2000
+Max=32000
+Antwort_1=1Querruder
+Antwort_2=0Längsruder
+Antwort_3=0Höhenruder
+Antwort_4=0Seitenruder
+
+[323]
+FZ1=
+FZ2=Wie nennt man bei Heißluft- oder Gasballons den Ring
+FZ3=zwischen Korb und Ballonhülle ?
+Min=64000
+Max=500000
+Antwort_1=1Korbring
+Antwort_2=0Hüllenring
+Antwort_3=0Ballonring
+Antwort_4=0Luftring
+
+[324]
+FZ1=
+FZ2=Wann gelang der erste Flug um die Welt ohne Zwischenlandung und Auftanken ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11986
+Antwort_2=01966
+Antwort_3=01976
+Antwort_4=01996
+
+[325]
+FZ1=
+FZ2=Wem gelang 1986 der erste Flug um die Welt
+FZ3=ohne Zwischenlandung und Auftanken ?
+Min=125000
+Max=500000
+Antwort_1=1Dick Rutan und Jeana Yeager
+Antwort_2=0Carl Lewis und Bob Beaman
+Antwort_3=0Michael Douglas und Eddie Cochran
+Antwort_4=0Frank Sinatra und Udo Jürgens
+
+[326]
+FZ1=
+FZ2=Wie lange brauchten Dick Rutan und Jean Yeager im Jahre 1986 für einen Flug
+FZ3=um die Erde ohne Auftanken ?
+Min=64000
+Max=500000
+Antwort_1=19 Tage
+Antwort_2=016 Tage
+Antwort_3=012 Tage
+Antwort_4=021 Tage
+
+[327]
+FZ1=
+FZ2=In welchem Flugzeug flog 1953 Jacqueline Cochran
+FZ3=als erste Frau mit Überschallgeschwindigkeit ?
+Min=500000
+Max=500000
+Antwort_1=1F - 86
+Antwort_2=0B - 52
+Antwort_3=0F - 15
+Antwort_4=0HE 178
+
+[328]
+FZ1=
+FZ2=Wann flog die erste Frau mit Überschallgeschwindigkeit ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=11953
+Antwort_2=01954
+Antwort_3=01952
+Antwort_4=01955
+
+[329]
+FZ1=
+FZ2=Wer flog 1953 als erste Frau mit Überschallgeschwindigkeit ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Jacqueline Cochran
+Antwort_2=0Hanna Reitsch
+Antwort_3=0Elly Beinhorn
+Antwort_4=0Ellen Church
+
+[330]
+FZ1=
+FZ2=Wann absolvierte die Heinkel HE 178 - das erste Düsenflugzeug der Welt -
+FZ3=ihren Erstflug ?
+Min=64000
+Max=500000
+Antwort_1=127. 8. 1939
+Antwort_2=014. 2. 1929
+Antwort_3=03. 11. 1949
+Antwort_4=022. 3. 1959
+
+[331]
+FZ1=
+FZ2=Wann war Ellen Church die erste Stewardess in einem Verkehrsflugzeug ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11930
+Antwort_2=01940
+Antwort_3=01920
+Antwort_4=01950
+
+[332]
+FZ1=
+FZ2=Wer war Ellen Church ?
+FZ3=
+Min=64000
+Max=125000
+Antwort_1=1die erste Stewardess in einem	Verkehrsflugzeug
+Antwort_2=0die erste Frau, die die Alpen in einem	Segelflugzeug überquerte
+Antwort_3=0die erste Hubschrauberpilotin
+Antwort_4=0die erste Passagierin in einem	Verkehrsflugzeug
+
+[333]
+FZ1=
+FZ2=Wann wurde der Drachen in China erfunden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1um 400 v. Chr.
+Antwort_2=0400 n. Chr.
+Antwort_3=0um 100 v. Chr.
+Antwort_4=01234 n. Chr.
+
+[334]
+FZ1=
+FZ2=In welchem Land wurde der Drachen erfunden ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1China
+Antwort_2=0Amerika
+Antwort_3=0Japan
+Antwort_4=0Indien
+
+[335]
+FZ1=
+FZ2=Wie kann ein Drachenflieger sein Fluggerät steuern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1durch Verlagerung seines	Körpergewichtes
+Antwort_2=0mit einem Steuerknüppel
+Antwort_3=0mit einem Lenkrad
+Antwort_4=0mit Fußpedalen
+
+[336]
+FZ1=
+FZ2=Was gehörte  n i c h t  zu den drei wichtigsten Ausrüstungsgegenständen,
+FZ3=die ein britischer Pilot im Zweiten Weltkrieg mit sich führte ?
+Min=1000
+Max=8000
+Antwort_1=1Fernglas
+Antwort_2=0einen Fallschirm
+Antwort_3=0eine Sauerstoffmaske für Flüge in	großen Höhen
+Antwort_4=0eine Schwimmweste für eine	Notlandung auf See
+
+[337]
+FZ1=
+FZ2=Welchen Spitznamen hatte die Ford Trimotor, die zu den ersten reinen
+FZ3=Passagierflugzeugen gehörte ?
+Min=250000
+Max=500000
+Antwort_1=1Blechgans
+Antwort_2=0Blechente
+Antwort_3=0Blechhuhn
+Antwort_4=0Blechschwan
+
+[338]
+FZ1=
+FZ2=Wann kam es zum ersten Zusammenstoß zweier Flugzeuge ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11910
+Antwort_2=01920
+Antwort_3=01890
+Antwort_4=01900
+
+[339]
+FZ1=
+FZ2=Wo kam es im Jahre 1910 zum ersten Zusammenstoß zweier Flugzeuge ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1über Mailand
+Antwort_2=0über London
+Antwort_3=0über Berlin
+Antwort_4=0über Paris
+
+[340]
+FZ1=
+FZ2=Wann wagte der Franzose André - Jacques Garnerin
+FZ3=den ersten echten Absprung mit einem Fallschirm ?
+Min=64000
+Max=500000
+Antwort_1=11797
+Antwort_2=01919
+Antwort_3=01897
+Antwort_4=01937
+
+[341]
+FZ1=
+FZ2=Wer wagte den ersten echten Absprung mit einem Fallschirm ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1der Franzose André - Jacques Garnerin
+Antwort_2=0der Amerikaner John Wayne
+Antwort_3=0der Engländer John Whittaker
+Antwort_4=0der Deutsche Hein Blöd
+
+[342]
+FZ1=
+FZ2=Welches waren die ersten bemannten Luftfahrzeuge ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Heißluftballons
+Antwort_2=0Segelflugzeuge
+Antwort_3=0Zeppeline
+Antwort_4=0Leichtbauflugzeuge
+
+[343]
+FZ1=
+FZ2=Wie nennt man ein Flugzeug, das ohne Motor fliegt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Segelflugzeug
+Antwort_2=0Windflugzeug
+Antwort_3=0Geisterflugzeug
+Antwort_4=0Düsenflugzeug
+
+[344]
+FZ1=
+FZ2=Was ist der Anstellwinkel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1der Winkel, in dem sich das Höhenruder	befindet, wenn sich das Flugzeug	auf- oder abbewegt
+Antwort_2=0der Winkel, in dem der Pilot den	Steuerknüppel hält
+Antwort_3=0der Winkel, in dem die Gangway an das	Flugzeug gestellt wird
+Antwort_4=0der Winkel in dem das Flugzeug	in eine Kurve fliegt
+
+[345]
+FZ1=
+FZ2=Wie nennt man den Abstand zwischen den Tragflächenspitzen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Spannweite
+Antwort_2=0Spurweite
+Antwort_3=0Durchmesser
+Antwort_4=0Flügelumfang
+
+[346]
+FZ1=
+FZ2=Warum müssen sich die Tragflächen eines modernen Flugzeuges biegen können ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1um Stöße bei Landungen und	Luftturbulenzen auffangen zu können
+Antwort_2=0um sie besser von Schmutz und Eis	befreien zu können
+Antwort_3=0um dem Piloten eine bessere	Seitensicht zu gewährleisten
+Antwort_4=0um sie beim Einparken in den Hangar	nicht zu sehr zu beschädigen
+
+[347]
+FZ1=
+FZ2=Wie heißt das Triebwerk, das für die meisten Flugzeuge verwendet wird ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Fan
+Antwort_2=0Fen
+Antwort_3=0Fun
+Antwort_4=0Fön
+
+[348]
+FZ1=
+FZ2=Wo werden neue Flugmodelle getestet ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1im Windkanal
+Antwort_2=0im Windraum
+Antwort_3=0in der Windhalle
+Antwort_4=0im Windsaal
+
+[349]
+FZ1=
+FZ2=Welches Flugzeug fliegt mit Überschallgeschwindigkeit ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Concorde
+Antwort_2=0Challenger 604
+Antwort_3=0Airbus A 320
+Antwort_4=0Douglas DC - 3
+
+[350]
+FZ1=
+FZ2=Was passiert, wenn der Pilot die Rotorblätter eines Hubschraubers steiler stellt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Der Hubschrauber steigt.
+Antwort_2=0Der Hubschrauber bleibt stehen.
+Antwort_3=0Der Hubschrauber sinkt.
+Antwort_4=0Der Hubschrauber fliegt rückwärts.
+
+[351]
+FZ1=
+FZ2=Warum wird bei einem fliegenden Flugzeug das Fahrwerk eingezogen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1um den Luftwiderstand zu verringern
+Antwort_2=0um Zusammenstöße mit Vögeln zu	vermeiden
+Antwort_3=0um die Luftgeräusche zu verringern
+Antwort_4=0um die Bodensicht zu verbessern
+
+[352]
+FZ1=
+FZ2=Wie nennt man das kleine Rad, auf dem ältere und einige kleinere neuere
+FZ3=Flugzeuge zusätzlich zu den beiden vorderen Rädern stehen ?
+Min=32000
+Max=250000
+Antwort_1=1Spornrad
+Antwort_2=0Kornrad
+Antwort_3=0Dornrad
+Antwort_4=0Vornrad
+
+[353]
+FZ1=
+FZ2=Womit kann der Pilot beim Fliegen die Richtung ändern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1mit dem Seitenruder
+Antwort_2=0mit dem Kompass
+Antwort_3=0mit dem Lenkrad
+Antwort_4=0mit dem Schleudersitz
+
+[354]
+FZ1=
+FZ2=Wie nennt man ein Flugzeug mit zwei übereinander liegenden Tragflächen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Doppeldecker
+Antwort_2=0Duodecker
+Antwort_3=0Zwillingsdecker
+Antwort_4=0Doublewing
+
+[355]
+FZ1=
+FZ2=Was ist ein "Doppeldecker" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Flugzeug mit zwei übereinander	liegenden Tragflächen
+Antwort_2=0ein Flugzeug, das zweimal landen und	starten kann ohne aufzutanken
+Antwort_3=0ein Flugzeug mit zwei Propellern
+Antwort_4=0ein Flugzeug, das von zwei Piloten	geflogen wird
+
+[356]
+FZ1=
+FZ2=Wann überquerte Hanna Reitsch als erste Frau mit einem Segelflugzeug die Alpen ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=11937
+Antwort_2=01917
+Antwort_3=01927
+Antwort_4=01947
+
+[357]
+FZ1=
+FZ2=Wie hieß die erste Frau, die 1937 mit einem Segelflugzeug die Alpen überquerte ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Hanna Reitsch
+Antwort_2=0Franziska von Almsick
+Antwort_3=0Madonna
+Antwort_4=0Evita Péron
+
+[358]
+FZ1=
+FZ2=Warum setzten sich die Düsenflugzeuge gegenüber den Propellermaschinen durch ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sie konnten doppelt so schnell und	hoch fliegen und der Flug verlief	oberhalb von Wind und Wetter ruhiger.
+Antwort_2=0Düsenflugzeuge können schneller	gebaut werden.
+Antwort_3=0Sie waren viel billiger.
+Antwort_4=0Düsenflugzeuge sind leichter zu fliegen	und brauchen weniger Treibstoff.
+
+[359]
+FZ1=
+FZ2=Was treibt ein Düsenflugzeug vorwärts ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1der Rückstoß
+Antwort_2=0die Propellerkraft
+Antwort_3=0der Flugwind
+Antwort_4=0die Erdanziehung
+
+[360]
+FZ1=
+FZ2=In welchem Flugzeug flog der erste Mensch schneller als 1.000 km/h ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Messerschmitt 163 A
+Antwort_2=0Heinkel He 124
+Antwort_3=0Fokker - Wulf 88
+Antwort_4=0Thunderbird I
+
+[361]
+FZ1=
+FZ2=Wann flog der erste Mensch schneller als 1.000 km/h ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1im Oktober 1941
+Antwort_2=0im Februar 1954
+Antwort_3=0im März 1993
+Antwort_4=0im November 1956
+
+[362]
+FZ1=
+FZ2=Was gelang Heini Dittmar Besonderes ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Er war der erste Mensch,	der über 1.000 km/h flog.
+Antwort_2=0Er war der erste Mensch,	der mit einem Fallschirm absprang.
+Antwort_3=0Er war der erste Mensch,	der einen Looping flog.
+Antwort_4=0Er war der erste Mensch,	der in einem Heißluftballon die Erde	umrundete.
+
+[363]
+FZ1=
+FZ2=Wer war der erste Mensch, der schneller als 1.000 km/h flog ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1der Deutsche Heini Dittmar
+Antwort_2=0der Franzose Jaques Firon
+Antwort_3=0der Amerikaner John Denver
+Antwort_4=0der Russe Iwan Dostojewski
+
+[364]
+FZ1=
+FZ2=Wer schaffte 1926 in einem Luftschiff die erste Arktis-Überquerung ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Roald Amundsen und Umberto Nobile
+Antwort_2=0Charles Lindbergh und Charles Yeager
+Antwort_3=0Orville Wright und Paul Cornu
+Antwort_4=0Professor Berson und K. Süring
+
+[365]
+FZ1=
+FZ2=Wie hieß das Luftschiff, das 1926 die erste Arktis-Überquerung schaffte ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Norge
+Antwort_2=0Nord
+Antwort_3=0Nora
+Antwort_4=0Nobis
+
+[366]
+FZ1=
+FZ2=Weshalb wird bei der Landung der Concorde die Flugzeugnase abgesenkt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1damit der Pilot die Landebahn besser	sehen kann
+Antwort_2=0damit die Fluglotsen die Piloten besser	erkennen können
+Antwort_3=0damit der Luftwiderstand geringer wird
+Antwort_4=0damit der Treibstoffverbrauch gesenkt	wird
+
+[367]
+FZ1=
+FZ2=Welches Flugzeug kann mit der Nase "wackeln" ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Concorde
+Antwort_2=0Douglas DC - 3
+Antwort_3=0Boeing 747
+Antwort_4=0Phantom IV
+
+[368]
+FZ1=
+FZ2=Wann flog der Russe Peter Nikolajew Nesterov dem ersten Looping ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=120. 8. 1913
+Antwort_2=022. 3. 1932
+Antwort_3=014. 2. 1909
+Antwort_4=03. 11. 1924
+
+[369]
+FZ1=
+FZ2=Wer flog am 20. 8. 1913 den ersten Looping ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1der Russe Peter Nikolajew Nesterov
+Antwort_2=0der Franzose Pierre Luigi Peugéot
+Antwort_3=0der Amerikaner James Cameron
+Antwort_4=0der Italiener Franzesco Garribaldi
+
+[370]
+FZ1=
+FZ2=Wie nennt man es beim Kunstflug, wenn das Flugzeug geradeaus fliegt und sich
+FZ3=dabei einmal um die eigene Längsachse dreht ?
+Min=64000
+Max=500000
+Antwort_1=1Rolle
+Antwort_2=0Serpentine
+Antwort_3=0Looping
+Antwort_4=0Kehre
+
+[371]
+FZ1=
+FZ2=Was versteht man beim Kunstflug unter einer "Rolle" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Das Flugzeug fliegt geradeaus und	dreht sich dabei einmal um die eigene	Längsachse.
+Antwort_2=0Das Flugzeug fliegt eine schöne Kurve.
+Antwort_3=0Das Flugzeug fliegt geradeaus und	dreht sich dabei einmal um die eigene	Querachse.
+Antwort_4=0Das Flugzeug fliegt mehrere Links- und	Rechtskurven.
+
+[372]
+FZ1=
+FZ2=Zwischen welchen Ländern fand 1919 der erste Transatlantikflug statt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1von Neufundland nach Irland
+Antwort_2=0von Neufundland nach Großbritannien
+Antwort_3=0von Neufundland nach Frankreich
+Antwort_4=0von Neufundland nach Spanien
+
+[373]
+FZ1=
+FZ2=Wie hieß das Flugzeug, in dem der Amerikaner Charles Lindbergh
+FZ3=1927 den Atlantik überquerte ?
+Min=64000
+Max=500000
+Antwort_1=1Spirit of St. Louis
+Antwort_2=0Golden Wing
+Antwort_3=0Ghost of San Franzisko
+Antwort_4=0Skydiver
+
+[374]
+FZ1=
+FZ2=Was für Luftfahrzeuge konstruierte Otto Lilienthal ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Hängegleiter
+Antwort_2=0Heißluftballons
+Antwort_3=0Motorflugzeuge
+Antwort_4=0Helikopter
+
+[375]
+FZ1=
+FZ2=Um wie viele cm wird die Concorde während des Fluges  länger ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=128 cm
+Antwort_2=052 cm
+Antwort_3=04 cm
+Antwort_4=09 cm
+
+[376]
+FZ1=
+FZ2=Wieso wird die Concorde während des Fluges bis zu 28 cm länger ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1weil sie sich während des Fluges stark	erhitzt und ausdehnt
+Antwort_2=0weil die Navigationsantenne verlängert	wird
+Antwort_3=0weil zur Stabilisation Gleitträger	ausgefahren werden
+Antwort_4=0weil die Bremsfallschirme ausgeklinkt	werden
+
+[377]
+FZ1=
+FZ2=Welches Flugzeug stellte im Jahr 1976 den Geschwindigkeitsrekord
+FZ3=von 3.530 km/h auf ?
+Min=125000
+Max=500000
+Antwort_1=1S-71 Blackbird
+Antwort_2=0Thunderbolt Z-1
+Antwort_3=0F-15
+Antwort_4=0Concorde II
+
+[378]
+FZ1=
+FZ2=Welchen Geschwindigkeitsrekord stellte ein Militärflugzeug im Jahr 1976 auf ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=13.530 km/h
+Antwort_2=04.960 km/h
+Antwort_3=02.480 km/h
+Antwort_4=01.970 km/h
+
+[379]
+FZ1=
+FZ2=Was ist ein Motorsegler ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Segelflugzeug mit Hilfsmotor
+Antwort_2=0eine besonders schnelle Schwalbenart
+Antwort_3=0ein Motorflugzeug, das Segelflugzeuge	in die Höhe schleppt
+Antwort_4=0ein Rettungssystem in einem	Segelflugzeug
+
+[380]
+FZ1=
+FZ2=Wann stürzte Otto Lilienthal ab und starb einen Tag später ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=19. 8. 1896
+Antwort_2=019. 8. 1872
+Antwort_3=08. 9. 1899
+Antwort_4=018. 9. 1888
+
+[381]
+FZ1=
+FZ2=Welchem großen Flugpionier wurden seine Flugversuche zum Verhängnis ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Otto Lilienthal
+Antwort_2=0Etienne Jaques de Montgolfier
+Antwort_3=0Wilbur Wright
+Antwort_4=0Pilatre de Rozier
+
+[382]
+FZ1=
+FZ2=Wann wurde die erste Luftbrücke der Welt eingerichtet ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11870
+Antwort_2=01924
+Antwort_3=01902
+Antwort_4=01945
+
+[383]
+FZ1=
+FZ2=Wie hießen die ersten Heißluftballone ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Montgolfieren
+Antwort_2=0Gondolieren
+Antwort_3=0Zeppeline
+Antwort_4=0Skyrider
+
+[384]
+FZ1=
+FZ2=Wer flog als erster Mensch mit einem Heißluftballon ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Pilatre de Rozier
+Antwort_2=0Otto Lilienthal
+Antwort_3=0Etienne le Rosé
+Antwort_4=0Louis Blériot
+
+[385]
+FZ1=
+FZ2=Was bedeutet die Abkürzung "Radar" ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Funkermittlung und	Entfernungsmessung
+Antwort_2=0Ortsbestimmung
+Antwort_3=0Geschwindigkeitsmessung
+Antwort_4=0Höhen- und Weitenmessung
+
+[386]
+FZ1=
+FZ2=Wie vielen Passagieren bietet die Boeing 747 maximal Platz ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1550
+Antwort_2=0950
+Antwort_3=0750
+Antwort_4=0350
+
+[387]
+FZ1=
+FZ2=Wann fand die erste internationale Flugwoche statt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11909
+Antwort_2=01919
+Antwort_3=01899
+Antwort_4=01929
+
+[388]
+FZ1=
+FZ2=Wo fand 1909 die erste internationale Flugwoche statt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Reims
+Antwort_2=0Berlin
+Antwort_3=0London
+Antwort_4=0Chicago
+
+[389]
+FZ1=
+FZ2=Wann wurde das erste Düsenflugzeug der Welt gebaut ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=11939
+Antwort_2=01949
+Antwort_3=01929
+Antwort_4=01959
+
+[390]
+FZ1=
+FZ2=Wie hieß das erste Düsenflugzeug der Welt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Heinkel HE 178
+Antwort_2=0Douglas DC - 3
+Antwort_3=0Messerschmitt ME 210/410
+Antwort_4=0Starfighter
+
+[391]
+FZ1=
+FZ2=Was kann man mit dem Radar  n i c h t  messen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1den Treibstoffverbrauch
+Antwort_2=0den Ort
+Antwort_3=0die Geschwindigkeit
+Antwort_4=0die Entfernung
+
+[392]
+FZ1=
+FZ2=Wie viele Exemplare wurden von  der Douglas DC - 3 seit 1935 gebaut ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1über 10.000
+Antwort_2=06.000 - 8.000
+Antwort_3=09.500
+Antwort_4=05.387
+
+[393]
+FZ1=
+FZ2=Welches ist das am häufigsten gebaute Transportflugzeug ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1DC - 3
+Antwort_2=0C - 130
+Antwort_3=0DC - 1
+Antwort_4=0C - 17
+
+[394]
+FZ1=
+FZ2=Wer überquerte 1909 als Erster den Ärmelkanal ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Louis Blériot
+Antwort_2=0Loriot
+Antwort_3=0Louis de Funes
+Antwort_4=0Lavender
+
+[395]
+FZ1=
+FZ2=Wann überquerte Louis Blériot als Erster den Ärmelkanal ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11909
+Antwort_2=01899
+Antwort_3=01919
+Antwort_4=01929
+
+[396]
+FZ1=
+FZ2=Wie viel Sekunden benötigt das Transportflugzeug Herkules,
+FZ3=um 11.000 Liter Löschwasser abzuwerfen ?
+Min=125000
+Max=500000
+Antwort_1=15
+Antwort_2=015
+Antwort_3=010
+Antwort_4=020
+
+[397]
+FZ1=
+FZ2=Wie viel Liter Wasser kann das Transportflugzeug Herkules in 5 Sekunden
+FZ3=zur Brandlöschung abwerfen ?
+Min=4000
+Max=64000
+Antwort_1=111.000 Liter
+Antwort_2=07.000 Liter
+Antwort_3=09.000 Liter
+Antwort_4=05.000 Liter
+
+[398]
+FZ1=
+FZ2=Welches sind die beiden bekanntesten Geschäftsflugzeuge ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Learjet und Challenger
+Antwort_2=0Herkules und Transall
+Antwort_3=0Jumbo - Jet und Airbus 320
+Antwort_4=0Boeing 474 und Douglas DC - 3
+
+[399]
+FZ1=
+FZ2=Wann explodierte die "LZ 129 Hindenburg" in Lakehurst ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=11937
+Antwort_2=01927
+Antwort_3=01947
+Antwort_4=01917
+
+[400]
+FZ1=
+FZ2=Wo explodierte 1937 das Luftschiff "LZ 129 Hindenburg" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Lakehurst
+Antwort_2=0New York
+Antwort_3=0Cape Carneveral
+Antwort_4=0Berlin
+
+[401]
+FZ1=
+FZ2=Wie hieß das Luftschiff, das 1937 bei der Landung auf dem Luftschiffhafen
+FZ3=Lakehurst explodierte ?
+Min=1000
+Max=16000
+Antwort_1=1Hindenburg
+Antwort_2=0Kaiser Wilhelm
+Antwort_3=0Bismarck
+Antwort_4=0Washington
+
+[402]
+FZ1=
+FZ2=Wie gelangen Segelflugzeuge in die Luft ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1entweder über eine Motorschleppwinde	am Boden oder durch ein Motorflugzeug	mit einem Schleppseil
+Antwort_2=0Sie werden von einem Hubschrauber	abgeworfen.
+Antwort_3=0Sie werden mit einem Katapult in die	Luft geschossen.
+Antwort_4=0Sie starten von einer riesigen Rampe an	einem steilen Berg.
+
+[403]
+FZ1=
+FZ2=Aus wie viel Einzelteilen besteht eine Boeing 474 ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=14,5 Millionen
+Antwort_2=02,5 Millionen
+Antwort_3=03,5 Millionen
+Antwort_4=01,5 Millionen
+
+[404]
+FZ1=
+FZ2=Welches Passagieraufkommen weist der Frankfurter Flughafen jährlich auf ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1über 40 Millionen
+Antwort_2=0ca. 30 Millionen
+Antwort_3=035 - 38 Millionen
+Antwort_4=0zwischen 20 und 30 Millionen
+
+[405]
+FZ1=
+FZ2=Was ist ein "Prototyp" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1die erste betriebsfähige Ausfertigung	eines Flugzeuges
+Antwort_2=0die Hauptantriebsdüse eines Flugzeuges
+Antwort_3=0der erste Pilot
+Antwort_4=0ein Passagier der Ersten Klasse
+
+[406]
+FZ1=
+FZ2=Wie nennt man die erste betriebsfähige Ausfertigung eines Flugzeuges ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Prototyp
+Antwort_2=0Proviant
+Antwort_3=0Probant
+Antwort_4=0Prokurist
+
+[407]
+FZ1=
+FZ2=Welche internationale Luftverkehrsstrecke wird am häufigsten geflogen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Paris - London
+Antwort_2=0Berlin - London
+Antwort_3=0London - New York
+Antwort_4=0Moskau - Oslo
+
+[408]
+FZ1=
+FZ2=Was ist ein "Hangar" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1eine große Halle, in der Flugzeuge	geparkt und gewartet werden
+Antwort_2=0eine andere Bezeichnung für "Co-Pilot"
+Antwort_3=0ein spezielles Leichtbauflugzeug
+Antwort_4=0das besonders stabile Bugrad
+
+[409]
+FZ1=
+FZ2=Wie nennt man die große Halle, in der Flugzeuge geparkt und gewartet werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hangar
+Antwort_2=0Hausse
+Antwort_3=0Hägar
+Antwort_4=0Hamlet
+
+[410]
+FZ1=
+FZ2=Welches Tier ist das Markenzeichen der Lufthansa ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Kranich
+Antwort_2=0Falke
+Antwort_3=0Adler
+Antwort_4=0Storch
+
+[411]
+FZ1=
+FZ2=Was sind "Kondensstreifen" ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weiße Linien am Himmel, die die	Flugzeuge durch ihre Abgase	hinterlassen
+Antwort_2=0Dienstgradabzeichen auf den	Jackenärmeln der Piloten
+Antwort_3=0Markierungslinien auf der Rollbahn, an	denen sich die Piloten orientieren
+Antwort_4=0farbige Streifen am Flugzeugrumpf zum	besseren Erkennen bei Nebel
+
+[412]
+FZ1=
+FZ2=Was hinterlassen Flugzeuge durch die Abgase ihrer Triebwerke am Himmel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kondensstreifen
+Antwort_2=0Fluglinien
+Antwort_3=0Milchstraßen
+Antwort_4=0Jetstriche
+
+[413]
+FZ1=
+FZ2=Wie nannte man den erfolgreichen Jagdflieger Manfred von Richthofen,
+FZ3=der im 1. Weltkrieg zahlreiche Luftkämpfe bestritt ?
+Min=125000
+Max=500000
+Antwort_1=1Roter Baron
+Antwort_2=0Jäger der Lüfte
+Antwort_3=0Blauer Graf
+Antwort_4=0Schwarzer Bomber
+
+[414]
+FZ1=
+FZ2=Warum fliegen Heißluftballons ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weil die mit Gas oder Heißluft gefüllten	Ballons leichter sind als die sie	umgebende Luft
+Antwort_2=0weil sie vom Wind weggetrieben	werden
+Antwort_3=0weil die mit Gas oder Heißluft gefüllten	Ballons schwerer sind als die sie	umgebende Luft
+Antwort_4=0weil der Pilot sich gut auskennt
+
+[415]
+FZ1=
+FZ2=Was sind "Fluglotsen" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Experten der Flugsicherung
+Antwort_2=0das Bodenpersonal eines Flughafens
+Antwort_3=0Flugschüler
+Antwort_4=0die weißen Streifen von den	Flugzeugen am Himmel
+
+[416]
+FZ1=
+FZ2=Wie heißen die Experten der Flugsicherung ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Fluglotsen
+Antwort_2=0Piloten
+Antwort_3=0Flugzeugführer
+Antwort_4=0Stewards
+
+[417]
+FZ1=
+FZ2=Wie viel Kilometer entspricht ein Knoten ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11,852
+Antwort_2=03,765
+Antwort_3=02.905
+Antwort_4=04,268
+
+[418]
+FZ1=
+FZ2=In welcher Maßeinheit wird in der Luftfahrt die Geschwindigkeit angegeben ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Knoten
+Antwort_2=0Schlingen
+Antwort_3=0Schleifen
+Antwort_4=0Schlaufen
+
+[419]
+FZ1=
+FZ2=Wie heißen die drei Ruder, mit denen ein Flugzeug gesteuert wird ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Höhen-, Seiten- und Querruder
+Antwort_2=0Seiten-, Mittel- und Endruder
+Antwort_3=0Höhen-, Längs- und Breitenruder
+Antwort_4=0Höhen-, Tiefen- und Sinkruder
+
+[420]
+FZ1=
+FZ2=Wie heißt der Held einer griechischen Sage, der sich mit Flügeln in die Luft erhob
+FZ3=und abstürzte, weil er der Sonne zu nahe kam ?
+Min=125000
+Max=500000
+Antwort_1=1Ikarus
+Antwort_2=0Idefix
+Antwort_3=0Odysseus
+Antwort_4=0Herkules
+
+[421]
+FZ1=
+FZ2=Was ist ein "Tower" ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Kontrollturm auf einem Flughafen,	in dem die Flugsicherung	untergebracht ist
+Antwort_2=0eine überlange Start- und Landebahn
+Antwort_3=0eine große Halle für Flugzeuge
+Antwort_4=0eine Spezialdüse, die beim Steigflug	eingesetzt wird
+
+[422]
+FZ1=
+FZ2=Wie nennt man den Kontrollturm auf einem Flughafen,
+FZ3=in dem die Flugsicherung untergebracht ist ?
+Min=0
+Max=1000
+Antwort_1=1Tower
+Antwort_2=0Sicherheitsturm
+Antwort_3=0Basisstation
+Antwort_4=0Leuchtturm
+
+[423]
+FZ1=
+FZ2=Was ist ein "Autopilot" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1das Computersystem, das ein Flugzeug	automatisch auf Kurs und Höhe hält
+Antwort_2=0ein Pilot, der das Flugzeug nur auf dem	Boden bewegen darf
+Antwort_3=0der Fahrer des Autos, das das Flugzeug	auf die Startbahn zieht
+Antwort_4=0das Computersystem, das das Flugzeug	auf dem Rollfeld sicher in den Hangar	führt
+
+[424]
+FZ1=
+FZ2=Wie heißt das Computersystem, das ein Flugzeug automatisch
+FZ3=auf Kurs und Höhe hält ?
+Min=1000
+Max=16000
+Antwort_1=1Autopilot
+Antwort_2=0Automat
+Antwort_3=0Autodidakt
+Antwort_4=0Autosystem
+
+[425]
+FZ1=
+FZ2=Wie nennt man die Besatzung eines Flugzeuges ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Crew
+Antwort_2=0Mannschaft
+Antwort_3=0Team
+Antwort_4=0Group
+
+[426]
+FZ1=
+FZ2=Was ist eine Crew ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1die Besatzung eines Flugzeuges
+Antwort_2=0die Bodenmannschaft eines Flughafens
+Antwort_3=0die Lotsen im Tower
+Antwort_4=0ein weiblicher Pilot
+
+[427]
+FZ1=
+FZ2=Wie wird der Überschallknall - der entsteht, wenn ein Flugzeug die Schallmauer
+FZ3=durchbricht - auf der Erde wahrgenommen ?
+Min=64000
+Max=500000
+Antwort_1=1als Doppelknall
+Antwort_2=0als Dreifachknall
+Antwort_3=0als Einfachknall
+Antwort_4=0gar nicht
+
+[428]
+FZ1=
+FZ2=Wie nennt man das Geräusch, das man am Boden hört,
+FZ3=wenn ein Flugzeug die Schallmauer durchbricht ?
+Min=2000
+Max=32000
+Antwort_1=1Überschallknall
+Antwort_2=0Extremschallknall
+Antwort_3=0Unterschallknall
+Antwort_4=0Megaschallknall
+
+[429]
+FZ1=
+FZ2=Was ist eine Blackbox ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ein Flugschreiber,	der alle wichtigen Flugdaten	aufzeichnet
+Antwort_2=0ein Radarkasten für Nebelflüge
+Antwort_3=0ein Nachtnavigationssystem
+Antwort_4=0ein Kasten für schmutzige	Pilotenwäsche
+
+[430]
+FZ1=
+FZ2=Wie lautet die Bezeichnung für den Flugschreiber,
+FZ3=der alle wichtigen Flugdaten aufzeichnet ?
+Min=2000
+Max=32000
+Antwort_1=1Blackbox
+Antwort_2=0Whitebox
+Antwort_3=0Bluebox
+Antwort_4=0Redbox
+
+[431]
+FZ1=
+FZ2=Wann begann die Deutsche Luft-Reederei mit ihren täglichen Flügen
+FZ3=zwischen Berlin und Weimar ?
+Min=125000
+Max=500000
+Antwort_1=11919
+Antwort_2=01929
+Antwort_3=01909
+Antwort_4=01939
+
+[432]
+FZ1=
+FZ2=Welcher berühmte Maler und Naturforscher aus dem 16. Jahrhundert versuchte,
+FZ3=die Geheimnisse des Fliegens zu ergründen ?
+Min=64000
+Max=500000
+Antwort_1=1Leonardo da Vinci
+Antwort_2=0Albrecht Dürer
+Antwort_3=0Vincent van Gogh
+Antwort_4=0Michelangelo
+
+[433]
+FZ1=
+FZ2=Zwischen welchen deutschen Städten befand sich die erste regelmäßig beflogene
+FZ3=Passagier - Luftverkehrslinie ?
+Min=64000
+Max=500000
+Antwort_1=1Berlin - Weimar
+Antwort_2=0Berlin - Dresden
+Antwort_3=0Berlin - Leipzig
+Antwort_4=0Berlin - Frankfurt
+
+[434]
+FZ1=
+FZ2=Was entstand am 6. Dezember aus der Fusion der "Junkers Luftverkehrs AG"
+FZ3=und der "Deutschen Aero Lloyd AG" ?
+Min=32000
+Max=500000
+Antwort_1=1die Deutsche Luft Hansa AG
+Antwort_2=0die Deutsche Aero Gesellschaft
+Antwort_3=0die Junkers Lloyd AG
+Antwort_4=0die Deutsche Luftverkehrsgemeinschaft
+
+[435]
+FZ1=
+FZ2=Was ist eine Gangway ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1die Treppe, die vom Boden ins Innere	eines Flugzeuges führt
+Antwort_2=0die Abfertigungshalle am Flughafen
+Antwort_3=0die erste Stewardess an Bord
+Antwort_4=0die Start- und Landebahn
+
+[436]
+FZ1=
+FZ2=Wie nennt man die Treppe, die vom Boden ins Innere eines Flugzeuges führt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Gangway
+Antwort_2=0Luftbrücke
+Antwort_3=0Airsteg
+Antwort_4=0Strickleiter
+
+[437]
+FZ1=
+FZ2=Welches nicht brennbare Gas wird heute als Traggas
+FZ3=für Ballons und Luftschiffe verwendet ?
+Min=64000
+Max=250000
+Antwort_1=1Helium
+Antwort_2=0Wasserstoff
+Antwort_3=0Neon
+Antwort_4=0Argon
+
+[438]
+FZ1=
+FZ2=Was befand sich in den 16 Gaszellen des Luftschiffes "Hindenburg" ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1leicht entzündlicher Wasserstoff
+Antwort_2=0explosiver Stickstoff
+Antwort_3=0unentzündliches Helium
+Antwort_4=0reiner Sauerstoff
+
+[439]
+FZ1=
+FZ2=Wie viele Kubikmeter leicht entzündlicher Wasserstoff befanden sich
+FZ3=in den 16 Gaszellen des Luftschiffes "Hindenburg" ?
+Min=500000
+Max=500000
+Antwort_1=1200.000
+Antwort_2=0100.000
+Antwort_3=0150.000
+Antwort_4=050.000
+
+[440]
+FZ1=
+FZ2=Wie viele Gaszellen hatte das Luftschiff "Hindenburg" ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=116
+Antwort_2=020
+Antwort_3=012
+Antwort_4=024
+
+[441]
+FZ1=
+FZ2=Wie weit flog die erste Frau bei einem Alleinflug mit einem Doppeldecker ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1300 m
+Antwort_2=0900 m
+Antwort_3=0100 m
+Antwort_4=02.500 m
+
+[442]
+FZ1=
+FZ2=Wann unternahm die erste Frau einen Alleinflug mit einem Flugzeug ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=11909
+Antwort_2=01923
+Antwort_3=01901
+Antwort_4=01942
+
+[443]
+FZ1=
+FZ2=Welche Frau gilt als erste Pilotin der Welt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Elise de Laroche
+Antwort_2=0Mandy Livingston
+Antwort_3=0Madam Pompadoure
+Antwort_4=0Greta Garbor
+
+[444]
+FZ1=
+FZ2=Welcher Kraftstoff wird im Flugverkehr überwiegend verwendet ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kerosin
+Antwort_2=0Super
+Antwort_3=0Benzin
+Antwort_4=0Diesel
+
+[445]
+FZ1=
+FZ2=Wann wurde der erste regelmäßige Luftpostdienst
+FZ3=über den Atlantik eingerichtet ?
+Min=32000
+Max=250000
+Antwort_1=11936
+Antwort_2=01946
+Antwort_3=01926
+Antwort_4=01956
+
+[446]
+FZ1=
+FZ2=Welche Fluggesellschaft richtet den ersten regelmäßigen Luftpostdienst
+FZ3=über den Atlantik ein ?
+Min=125000
+Max=500000
+Antwort_1=1die Deutsche Lufthansa
+Antwort_2=0USA Air -  mail
+Antwort_3=0Swiss Air
+Antwort_4=0British Fly away
+
+[447]
+FZ1=
+FZ2=Wie lange dauerte die erste Atlantiküberquerung ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=116 Stunden
+Antwort_2=024 Stunden
+Antwort_3=020 Stunden
+Antwort_4=028 Stunden
+
+[448]
+FZ1=
+FZ2=In welchem Flugzeug gelang die erste Atlantiküberquerung ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1in einem zweimotorigen Vimy-Bomber	der Firma Vickers
+Antwort_2=0in einem Leichtbauflugzeug der Firma	Messerschmitt
+Antwort_3=0in einem einmotorigen Doppeldecker	der Firma Boing
+Antwort_4=0in einem dreimotorigen Jagdflugzeug	der Firma Douglas
+
+[449]
+FZ1=
+FZ2=Welchen beiden Piloten gelang die erste Atlantiküberquerung ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1John Alcock und Arthur Whitten Brown
+Antwort_2=0Juri Gagarin und Michael Fox
+Antwort_3=0John Glenn und Richard Burton
+Antwort_4=0John Wayne und Kirk Douglas
+
+[450]
+FZ1=
+FZ2=Wann gelang den Piloten John Alcock und Arthur Witten Brown
+FZ3=die erste Atlantiküberquerung ?
+Min=250000
+Max=500000
+Antwort_1=11919
+Antwort_2=01929
+Antwort_3=01909
+Antwort_4=01899
+
+[451]
+FZ1=
+FZ2=Welches deutsche Geschwisterpaar wurde Ende des 19. Jahrhunderts mit seinen
+FZ3=Gleiterkonsruktionen und Flugversuchen weltweit bekannt ?
+Min=1000000
+Max=0
+Antwort_1=1Otto und Gustav Lilienthal
+Antwort_2=0Franz und Herbert Tulpenhügel
+Antwort_3=0Ernst und Hugo Rosenberg
+Antwort_4=0Fritz und Erna Nelkenmulde
+
+[452]
+FZ1=
+FZ2=Weshalb musste das Luftschiff LZ 1 bei seiner ersten Fahrt
+FZ3=schon nach 18 Minuten notlanden ?
+Min=64000
+Max=500000
+Antwort_1=1Das Gewicht zur Höhensteuerung hatte	sich verklemmt.
+Antwort_2=0Der Kapitän bekam Höhenangst.
+Antwort_3=0Die Leinen am Boden konnten nicht	gelöst werden.
+Antwort_4=0Der Propeller brach ab.
+
+[453]
+FZ1=
+FZ2=Wann unternahm das von Ferdinand Graf von Zeppelin konstruierte Luftschiff LZ 1
+FZ3=seine erste Fahrt ?
+Min=4000
+Max=64000
+Antwort_1=11900
+Antwort_2=01890
+Antwort_3=01910
+Antwort_4=01880
+
+[454]
+FZ1=
+FZ2=Welche Höhe erreichten Professor Berson und sein Kollege Süring
+FZ3=am 31. Juli 1901 in einem Ballon ?
+Min=64000
+Max=500000
+Antwort_1=1über 10.000 m
+Antwort_2=0zwischen 5.000 und 6.000 m
+Antwort_3=0ca. 8.000 m
+Antwort_4=0knapp 4.000 m
+
+[455]
+FZ1=
+FZ2=Wer konstruierte den ersten Heißluftballon ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Gebrüder Montgolfier
+Antwort_2=0Gebrüder Grimm
+Antwort_3=0Brüder Wright
+Antwort_4=0Brüder Marx
+
+[456]
+FZ1=
+FZ2=Welches war das erfolgreichste Passagierluftschiff ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1LZ 127 "Graf Zeppelin"
+Antwort_2=0LZ 33 "Earl of Grey"
+Antwort_3=0LZ 1 "Baron Münchhausen"
+Antwort_4=0LZ 9 "Prinz Eisenherz"
+
+[457]
+FZ1=
+FZ2=Wie nennt man die von den Verkehrsflugzeugen benutzten Routen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Luftstraßen
+Antwort_2=0Airlines
+Antwort_3=0Luftkanäle
+Antwort_4=0Himmelsbrücken
+
+[458]
+FZ1=
+FZ2=Wann hatte die Concorde - das britisch-französische Überschallflugzeug - ihren
+FZ3=Jungfernflug ?
+Min=32000
+Max=250000
+Antwort_1=11969
+Antwort_2=01979
+Antwort_3=01959
+Antwort_4=01974
+
+[459]
+FZ1=
+FZ2=Wie heißt das britisch-französische Überschallverkehrsflugzeug ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Concorde
+Antwort_2=0Jumbo - Jet
+Antwort_3=0Phantom
+Antwort_4=0Suzuki
+
+[460]
+FZ1=
+FZ2=Was nutzen die Segelflugzeugpiloten, um in der Luft zu bleiben ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Thermik
+Antwort_2=0Symmetrik
+Antwort_3=0Theatralik
+Antwort_4=0Dynamik
+
+[461]
+FZ1=
+FZ2=Welches Fluggerät kann sich senkrecht in die Luft erheben ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hubschrauber
+Antwort_2=0Jumbo - Jet
+Antwort_3=0Segelflugzeug
+Antwort_4=0Doppeldecker
+
+[462]
+FZ1=
+FZ2=Wann gelang Charles Lindbergh sein Alleinflug über den Atlantik ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=11927
+Antwort_2=01907
+Antwort_3=01917
+Antwort_4=01947
+
+[463]
+FZ1=
+FZ2=Was gelang Charles Lindbergh ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Er überflog als Erster im Alleinflug den	Atlantik.
+Antwort_2=0Er steuerte den ersten Zeppelin.
+Antwort_3=0Er landete als erster Mensch auf dem	Mond.
+Antwort_4=0Er umrundete als erster Mensch in	einem Raumschiff die Erde.
+
+[464]
+FZ1=
+FZ2=Wie lange war Charles Lindbergh bei seinem Alleinflug
+FZ3=über den Atlantik nonstop in der Luft ?
+Min=64000
+Max=500000
+Antwort_1=1über 33 Stunden
+Antwort_2=020 - 22 Stunden
+Antwort_3=0ca. 48 Stunden
+Antwort_4=030 Stunden 30 Minuten
+
+[465]
+FZ1=
+FZ2=Wie nennt man die Fortbewegungsart von Ballons ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Fahren
+Antwort_2=0Fliegen
+Antwort_3=0Schweben
+Antwort_4=0Gleiten
+
+[466]
+FZ1=
+FZ2=Wie nennt man die Kabine vorne im Flugzeug,
+FZ3=von der aus die Piloten das Flugzeug steuern ?
+Min=0
+Max=1000
+Antwort_1=1Cockpit
+Antwort_2=0Cocktail
+Antwort_3=0Container
+Antwort_4=0Corgy
+
+[467]
+FZ1=
+FZ2=Wie hieß das Flugzeug, das 1947 erstmals die Schallgeschwindigkeit überschritt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Bell X-1
+Antwort_2=0F-15
+Antwort_3=0Phantom IV
+Antwort_4=0Messerschmitt
+
+[468]
+FZ1=
+FZ2=Wie hieß der Pilot, der 1947 erstmals die Schallgeschwindigkeit überschritt ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Charles Yeager
+Antwort_2=0Graf  Zeppelin
+Antwort_3=0Charles Lindbergh
+Antwort_4=0Manfred von Richthofen
+
+[469]
+FZ1=
+FZ2=Wann wurde die Schallgeschwindigkeit erstmals überschritten ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=11947
+Antwort_2=01967
+Antwort_3=01957
+Antwort_4=01977
+
+[470]
+FZ1=
+FZ2=Wer entwickelte den ersten Hubschrauber ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1der Franzose Paul Cornu
+Antwort_2=0der Araber Ben Wish
+Antwort_3=0der Finne Paolu Nurmi
+Antwort_4=0der Schweizer Wilhelm Tell
+
+[471]
+FZ1=
+FZ2=Wie hoch flog der erste Hubschrauber ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1etwa einen Meter
+Antwort_2=0zwischen 20 und 30 Meter
+Antwort_3=0ca. 12 Meter
+Antwort_4=0ungefähr 150 m
+
+[472]
+FZ1=
+FZ2=Wie lange dauerte der erste Flug eines Hubschraubers ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1mehrere Sekunden
+Antwort_2=0zwei Minuten
+Antwort_3=0genau eine Sekunde
+Antwort_4=0sechs Stunden
+
+[473]
+FZ1=
+FZ2=Wann fand der erste Flug eines Hubschraubers statt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11907
+Antwort_2=01797
+Antwort_3=01877
+Antwort_4=01947
+
+[474]
+FZ1=
+FZ2=Wie viel Meter messen die zurzeit längsten Flugzeuge der Welt ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=175 m
+Antwort_2=025 m
+Antwort_3=050 m
+Antwort_4=0125 m
+
+[475]
+FZ1=
+FZ2=Wie nennt man das Gerät, mit dem Piloten den Instrumentenflug üben können ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Simulator
+Antwort_2=0Katalysator
+Antwort_3=0Terminator
+Antwort_4=0Examinator
+
+[476]
+FZ1=
+FZ2=Wie viel cm entspricht ein Fuß (Maßeinheit, mit der in der Luftfahrt die Höhe
+FZ3=angegeben wird) ?
+Min=64000
+Max=500000
+Antwort_1=130,48 cm
+Antwort_2=084,03 cm
+Antwort_3=048,30 cm
+Antwort_4=012,75 cm
+
+[477]
+FZ1=
+FZ2=In welcher Maßeinheit wird in der Luftfahrt die Flughöhe angegeben ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Fuß
+Antwort_2=0Hand
+Antwort_3=0Elle
+Antwort_4=0Arm
+
+[478]
+FZ1=
+FZ2=Wie nennt man die Flugbegleiter in Passagierflugzeugen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Stewards / Stewardessen
+Antwort_2=0Ober / Oberin
+Antwort_3=0Hostess / Hostessen
+Antwort_4=0Pilot / Pilotin
+
+[479]
+FZ1=
+FZ2=Wann flog das erste echte Passagierflugzeug (Junkers F 13) ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11920
+Antwort_2=01900
+Antwort_3=01910
+Antwort_4=01930
+
+[480]
+FZ1=
+FZ2=Wie viele Passagiere fanden in dem ersten echten Passagierflugzeug
+FZ3=- der "Junkers F 13" -  Platz ?
+Min=1000
+Max=16000
+Antwort_1=14
+Antwort_2=040
+Antwort_3=014
+Antwort_4=0400
+
+[481]
+FZ1=
+FZ2=Wie hieß das erste echte Passagierflugzeug ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Junkers F 13
+Antwort_2=0Boing 474
+Antwort_3=0Starfighter
+Antwort_4=0Concorde
+
+[482]
+FZ1=
+FZ2=Was befindet sich in modernen Flugzeugen unter jedem Sitz ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1eine Schwimmweste
+Antwort_2=0ein Fallschirm
+Antwort_3=0ein Kompass
+Antwort_4=0eine Landkarte
+
+[483]
+FZ1=
+FZ2=Wer entwickelte den Doppeldecker, der 1903 den ersten - offiziell bekundeten -
+FZ3=gesteuerten Motorflug vollführte ?
+Min=2000
+Max=32000
+Antwort_1=1Brüder Wright
+Antwort_2=0Karl Benz
+Antwort_3=0Gottlieb Daimler
+Antwort_4=0Gebrüder Grimm
+
+[484]
+FZ1=
+FZ2=Wie lange dauerte der erste  - offiziell bekundete -  gesteuerte Motorflug ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1etwa 12 Sekunden
+Antwort_2=0ungefähr 2 Minuten
+Antwort_3=0ca. 30 Sekunden
+Antwort_4=0beinahe 15 Minuten
+
+[485]
+FZ1=
+FZ2=Wie hieß der Doppeldecker der Gebrüder Wright, der 1903 den ersten offiziell
+FZ3=bekundeten gesteuerten Motorflug vollbrachte ?
+Min=64000
+Max=500000
+Antwort_1=1Flyer I
+Antwort_2=0Angel Seven
+Antwort_3=0Spirit II
+Antwort_4=0Eagle One
+
+[486]
+FZ1=
+FZ2=Wann fand der erste offiziell bekundete gesteuerte Motorflug der Geschichte statt ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=11903
+Antwort_2=01916
+Antwort_3=01894
+Antwort_4=01865
+
+[487]
+FZ1=
+FZ2=Wie lange dauerte  der erste bemannte Flug mit einem Heißluftballon ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=125 Minuten
+Antwort_2=08 Minuten
+Antwort_3=015 Minuten
+Antwort_4=03 Minuten
+
+[488]
+FZ1=
+FZ2=Welches Flugzeug ist  k e i n  Passagierflugzeug ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1MiG  29	
+Antwort_2=0Tupolev Tu 204	
+Antwort_3=0Boeing 777 - 300	
+Antwort_4=0Airbus A 3 XX - 100	
+
+
+
+

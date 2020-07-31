@@ -1,0 +1,170 @@
+[Thema]
+Thema       = "Bremsen 1"
+Fragen      = 15
+Autor       = Schelling 22.05.2001
+
+[1]
+FZ1         = Wie nennt man das Nachlassen der Bremswirkung
+FZ2         = aufgrund von Wärme?
+FZ3         = 
+Min         = 0
+Max         = 0
+Antwort_1   = 1Bremsfading
+Antwort_2   = 0Bremsouting
+Antwort_3   = 0Bremswasting
+Antwort_4   = 0Bremsopening
+
+[2]
+FZ1         = 
+FZ2         = Wie heisst eine übliche Scheibenbremsenart?
+FZ3         = 
+Min         = 100
+Max         = 100
+Antwort_1   = 1Faustsattelbremse
+Antwort_2   = 0U-Bremse
+Antwort_3   = 0Maulbremse
+Antwort_4   = 0Wankbremse
+
+[3]
+FZ1         = 
+FZ2         = Wodurch entsteht das Lüftspiel?
+FZ3         = Durch ...
+Min         = 200
+Max         = 200
+Antwort_1   = 1Dichtring
+Antwort_2   = 0Blattfeder
+Antwort_3   = 0Spiralfeder
+Antwort_4   = 0Öldruck
+
+[4]
+FZ1         = Wodurch werden zwei Bremskreise mit
+FZ2         = Bremsflüssigkeit versorgt?
+FZ3         = 
+Min         = 300
+Max         = 300
+Antwort_1   = 1Tandem-Hauptzylinder
+Antwort_2   = 0Twin-Zylinder
+Antwort_3   = 0Doppel-Zylinder
+Antwort_4   = 0Hydro-Presse
+
+[5]
+FZ1         = Fahrzeuggeschwindigkeit ist größer als
+FZ2         = Radumfangsgeschwindigkeit?
+FZ3         = Das nennt man ...
+Min         = 500
+Max         = 500
+Antwort_1   = 1Bremsschlupf
+Antwort_2   = 0Antriebsschlupf
+Antwort_3   = 0Reibhaften
+Antwort_4   = 0Bremsfading
+
+[6]
+FZ1         = Der Drehzahlsensor am Rad funktioniert nach
+FZ2         = folgendem Prinzip ...
+FZ3         = 
+Min         = 1000
+Max         = 1000
+Antwort_1   = 1induktiv
+Antwort_2   = 0piezoelektrisch
+Antwort_3   = 0kapazitiv
+Antwort_4   = 0Fliehkraft
+
+[7]
+FZ1         = Ein Hydraulikventil mit 3 Anschlüssen und
+FZ2         = 2 Schaltstellungen nennt man ...
+FZ3         = 
+Min         = 2000
+Max         = 2000
+Antwort_1   = 13/2-Wegeventil
+Antwort_2   = 02/3-Wegeventil
+Antwort_3   = 03/2-Druckregelventil
+Antwort_4   = 02/3-Füllungsventil
+
+[8]
+FZ1         = Wenn das ABS die Bremswirkung an den Hinterrädern
+FZ2         = nach der kleineren Bodenhaftung bestimmt, heisst das ...
+FZ3         = 
+Min         = 4000
+Max         = 4000
+Antwort_1   = 1Select-low
+Antwort_2   = 0Select-down
+Antwort_3   = 0up-and-down
+Antwort_4   = 0take-down
+
+[9]
+FZ1         = Welche Aufgabe hat ASR NICHT?
+FZ2         = 
+FZ3         = 
+Min         = 8000
+Max         = 8000
+Antwort_1   = 1Seitenneigung verringern
+Antwort_2   = 0Anfahren bei ungleicher Bodenhaftung ermöglichen
+Antwort_3   = 0Lastwechsel bei Kurvenfahrt ermöglichen
+Antwort_4   = 0Durchdrehen der Räder verhindern
+
+[10]
+FZ1         = Welche Bewegung wird von einem Giersensor erfasst?
+FZ2         = 
+FZ3         = 
+Min         = 16000
+Max         = 16000
+Antwort_1   = 1Schleudern
+Antwort_2   = 0Nicken
+Antwort_3   = 0Wanken
+Antwort_4   = 0Blockieren der Räder
+
+[11]
+FZ1         = In welchem Schlupfbereich belibt das
+FZ2         = Fahrzeug fahrstabil?
+FZ3         = 
+Min         = 32000
+Max         = 32000
+Antwort_1   = 18 bis 35 %
+Antwort_2   = 00 bis 5 %
+Antwort_3   = 0100 %
+Antwort_4   = 050 bis 100 %
+
+[12]
+FZ1         = Ein blockiertes Rad kann keine .... mehr
+FZ2         = übertragen.
+FZ3         = 
+Min         = 64000
+Max         = 64000
+Antwort_1   = 1Seitenführungskraft
+Antwort_2   = 0Normalkraft
+Antwort_3   = 0Bremskraft
+Antwort_4   = 0Druckkraft
+
+[13]
+FZ1         = Bei einer Panikbremsung wird die Bremskraft
+FZ2         = erhöht durch ...
+FZ3         = 
+Min         = 125000
+Max         = 125000
+Antwort_1   = 1BAS
+Antwort_2   = 0ABS
+Antwort_3   = 0AMG
+Antwort_4   = 0ASR
+
+[14]
+FZ1         = Der Winkel zwischen Radmittelebene und 
+FZ2         = tatsächlicher Bewegungsrichtung des Rades
+FZ3         = heisst ...
+Min         = 250000
+Max         = 250000
+Antwort_1   = 1Schräglaufwinkel
+Antwort_2   = 0Wankwinkel
+Antwort_3   = 0Spurdifferenzwinkel
+Antwort_4   = 0Radeinschlagwinkel
+
+[15]
+FZ1         = Beim starken Bremsen aus Geradeausfahrt
+FZ2         = sinken an der Hinterachse die ...
+FZ3         = 
+Min         = 500000
+Max         = 500000
+Antwort_1   = 1Radaufstandskräfte
+Antwort_2   = 0Querkräfte
+Antwort_3   = 0Fliehkräfte
+Antwort_4   = 0Haftreibungsbeiwerte
+

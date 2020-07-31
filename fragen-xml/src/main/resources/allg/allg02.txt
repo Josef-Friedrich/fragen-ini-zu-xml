@@ -1,0 +1,5384 @@
+[Thema]
+Thema=Allgemeinwissen
+Fragen=489
+Autor=A. Bergkemper, Stand 23.3.02
+
+[1]
+FZ1=Themen: #Politik/Gesch., #Musik, #Film, #Fernsehen, #Wetter- Erdkunde, #Deutsch
+FZ2=#Zit./Spr., #Pfl., #Tiere, #Ph., #Ch., #Ma, #Allg.
+FZ3=Über [Suchen] kann z.B. '#Tiere' direkt angefahren werden.
+Min=1000000
+Max=0
+Antwort_1=1richtige Antwort
+Antwort_2=0falsche Antwort
+Antwort_3=0falsche Antwort
+Antwort_4=0falsche Antwort
+
+[2]
+FZ1=
+FZ2=#Politik-Geschichte
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+
+[3]
+FZ1=
+FZ2=Wann war der Erste Weltkrieg ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=01939 - 1945
+Antwort_2=01967 - 1971
+Antwort_3=11914 - 1918
+Antwort_4=01889 - 1895
+
+[4]
+FZ1=
+FZ2=Wann war der Zweite Weltkrieg ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=11939 - 1945
+Antwort_2=01967 - 1971
+Antwort_3=01914 - 1918
+Antwort_4=01889 - 1895
+
+[5]
+FZ1=
+FZ2=Wann war der Dreißigjährige Krieg ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=11618 - 1648
+Antwort_2=01718 - 1748
+Antwort_3=01518 - 1548
+Antwort_4=01418 - 1448
+
+[6]
+FZ1=
+FZ2=Wodurch wurde der Dreißigjährige Krieg 1648 beendet ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Westfälischer Frieden
+Antwort_2=0Bayerischer Frieden
+Antwort_3=0Hessischer Frieden
+Antwort_4=0Sächsischer Frieden
+
+[7]
+FZ1=
+FZ2=Wie heißt der Bundeskanzler Schröder mit Vornamen ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Gerhard
+Antwort_2=0Helmut
+Antwort_3=0Konrad
+Antwort_4=0Heinz
+
+[8]
+FZ1=
+FZ2=Wer war nicht deutscher Bundeskanzler?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0Helmut Kohl
+Antwort_2=1Walter Scheel
+Antwort_3=0Konrad Adenauer
+Antwort_4=0Kurt Georg Kiesinger
+
+[9]
+FZ1=
+FZ2=Wer war vor Helmut Kohl Bundeskanzler ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Helmut Schmidt
+Antwort_2=0Kurt Geor Kiesinger
+Antwort_3=0Ludwig Erhard
+Antwort_4=0Rainer Barzel
+
+[10]
+FZ1=
+FZ2=Wie hieß der letzte deutsche Kaiser ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=0Johannes XXIII
+Antwort_2=0Paul VI
+Antwort_3=0August II
+Antwort_4=1Wilhelm II
+
+[11]
+FZ1=
+FZ2=Von wann bis wann bestand die Weimarer Republik ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=11919 - 1933	
+Antwort_2=01871 - 1918	
+Antwort_3=01914 - 1918	
+Antwort_4=01933 - 1945	
+
+[12]
+FZ1=
+FZ2=Wie heißt die Vertretung der Bundesländer ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0Bundesversammlung	
+Antwort_2=0Länderrat	
+Antwort_3=0Bundestag	
+Antwort_4=1Bundesrat	
+
+[13]
+FZ1=
+FZ2=Wer wählt den Bundeskanzler ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Der Bundesrat	
+Antwort_2=1Der Bundestag	
+Antwort_3=0Die Bundesversammlung	
+Antwort_4=0Das Volk direkt	
+
+[14]
+FZ1=
+FZ2=Wann öffneten sich die Grenzen zur DDR ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=11989	
+Antwort_2=01988	
+Antwort_3=01987	
+Antwort_4=01990	
+
+[15]
+FZ1=
+FZ2=Wer war nicht deutscher Bundespräsident ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Gustav Heinemann	
+Antwort_2=0Heinrich Lübke	
+Antwort_3=0Walter Scheel	
+Antwort_4=1Ludwig Erhard	
+
+[16]
+FZ1=
+FZ2=Wer war der erste deutsche Reichskanzler ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Otto von Bismarck	
+Antwort_2=0Paul von Hindenburg	
+Antwort_3=0Adolf Hitler	
+Antwort_4=0Wilhelm II.	
+
+[17]
+FZ1=
+FZ2=Wie viele Bundesländer gibt es in Deutschland ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=116	
+Antwort_2=018	
+Antwort_3=011	
+Antwort_4=012	
+
+[18]
+FZ1=
+FZ2=Wie viele Bundesländer gab es in Deutschland vor der Wiedervereinigung ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=111	
+Antwort_2=013	
+Antwort_3=08	
+Antwort_4=014	
+
+[19]
+FZ1=
+FZ2=Kein Bundesland ist
+FZ3=
+Min=500
+Max=500
+Antwort_1=0Niedersachsen	
+Antwort_2=0Bayern	
+Antwort_3=1Mecklenburg - Anhalt	
+Antwort_4=0Hessen	
+
+[20]
+FZ1=
+FZ2=Kein Bundesland ist
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Niederbayern	
+Antwort_2=0Sachsen-Anhalt	
+Antwort_3=0Mecklenburg Vorpommern	
+Antwort_4=0Bremen	
+
+[21]
+FZ1=
+FZ2=Wer wählt den Bundespräsidenten ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Der Bundesrat	
+Antwort_2=0Der Bundestag	
+Antwort_3=1Die Bundesversammlung	
+Antwort_4=0Das Volk direkt	
+
+[22]
+FZ1=
+FZ2=Welcher Bundeskanzler musste wegen einer Spionage-Affäre zurücktreten ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Willy Brandt	
+Antwort_2=0Helmut Schmidt	
+Antwort_3=0Kurt-Georg Kiesinger	
+Antwort_4=0Rainer Barzel	
+
+[23]
+FZ1=
+FZ2=Welcher Bundeskanzler hatte die längste Amtszeit ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Helmut Kohl	
+Antwort_2=0Willi Brand	
+Antwort_3=0Helmut Schmidt	
+Antwort_4=0Konrad Adenauer	
+
+[24]
+FZ1=
+FZ2=Ein Abstimmungsverfahren im Parlament ist der
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Hammelsprung	
+Antwort_2=0Seitensprung	
+Antwort_3=0Eisprung	
+Antwort_4=0Bocksprung	
+
+[25]
+FZ1=
+FZ2=Keine Partei im deutschen Bundestag
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Zentrum	
+Antwort_2=0SPD	
+Antwort_3=0FDP	
+Antwort_4=0CDU	
+
+[26]
+FZ1=Wer hat im Verteidigungsfall die Befehls- und Kommandogewalt
+FZ2=über die deutschen Streitkräfte?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1der Bundeskanzler	
+Antwort_2=0der Verteidigungsminister	
+Antwort_3=0der Bundespräsident	
+Antwort_4=0der Generalfeldmarschall	
+
+[27]
+FZ1=
+FZ2=Wer war vor Wolfgang Clement Ministerpräsident in Nordrhein-Westfalen?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Johannes Rau	
+Antwort_2=0Erwin Teufel	
+Antwort_3=0Oskar Lafontaine	
+Antwort_4=0Gerhard Schröder	
+
+[28]
+FZ1=
+FZ2=Für welches Land kämpfte die Armada?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Spanien	
+Antwort_2=0Portugal	
+Antwort_3=0Niederlande	
+Antwort_4=0Frankreich	
+
+[29]
+FZ1=
+FZ2=Wer war der erste Kanzler der Bundesrepublik Deutschland ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Konrad Adenauer	
+Antwort_2=0Willy Brandt	
+Antwort_3=0Ludwig Erhard	
+Antwort_4=0Kurt Schuhmacher	
+
+[30]
+FZ1=
+FZ2=Wann trat  (in den alten Bundesländern)  das Grundgesetz in Kraft ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=124. 5. 1949	
+Antwort_2=01.11.1947	
+Antwort_3=08. 5. 1948	
+Antwort_4=017.6.1953	
+
+[31]
+FZ1=
+FZ2=Wie oft wird ein neuer Bundespräsident gewählt ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1alle fünf Jahre	
+Antwort_2=0alle vier Jahre	
+Antwort_3=0alle drei Jahre	
+Antwort_4=0alle sechs Jahre	
+
+[32]
+FZ1=Wie viele Wählerstimmen braucht eine Partei mindestens, um in den
+FZ2=deutschen Bundestag einzuziehen?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Fünf Prozent	
+Antwort_2=015.000	
+Antwort_3=0eine	
+Antwort_4=0Elf Prozent	
+
+[33]
+FZ1=
+FZ2=Wer schrieb ›Die Entwicklung des Kapitalismus in Rußland‹ ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Lenin	
+Antwort_2=0Stalin	
+Antwort_3=0Marx	
+Antwort_4=0Engels	
+
+[34]
+FZ1=
+FZ2=Welcher römische Feldherr eroberte ›ganz Gallien‹ ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Cäsar	
+Antwort_2=0Pluto	
+Antwort_3=0Augustus	
+Antwort_4=0Nero	
+
+[35]
+FZ1=
+FZ2=Wann war die Französische Revolution ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=11789	
+Antwort_2=01871	
+Antwort_3=01648	
+Antwort_4=01848	
+
+[36]
+FZ1=
+FZ2=Was erfand der französische Arzt Joseph Ignace Guillotin im 18. Jahrhundert ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1das Fallbeil	
+Antwort_2=0die Spritze	
+Antwort_3=0das Stethoskosp	
+Antwort_4=0das Skalpell	
+
+[37]
+FZ1=
+FZ2=Wann fand der erste bemannte Flug zum Mond statt ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=11969	
+Antwort_2=01965	
+Antwort_3=01972	
+Antwort_4=01973	
+
+[38]
+FZ1=
+FZ2=Wer erfand den Buchdruck mit beweglichen Metalllettern ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Johannes Gutenberg	
+Antwort_2=0Martin Luther	
+Antwort_3=0Nikolaus Kopernikus	
+Antwort_4=0Friedrich Schiller	
+
+[39]
+FZ1=
+FZ2=Einen Euro kann man wechseln in 100 ...
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Cent	
+Antwort_2=0Eurinchen	
+Antwort_3=0Lire	
+Antwort_4=0Pennys	
+
+[40]
+FZ1=Wie hieß der letzte Amtsvorgänger des
+FZ2=amerikanischen Präsidenten George W. Bush?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Bill Clinton	
+Antwort_2=0Albert Einstein	
+Antwort_3=0George Bush	
+Antwort_4=0Gerhard Schröder	
+
+[41]
+FZ1=
+FZ2=Kein Präsident der Vereinigten Staaten von Amerika war
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Winston Churchill	
+Antwort_2=0Jimmy Carter	
+Antwort_3=0George Washington	
+Antwort_4=0Theodore Roosevelt	
+
+[42]
+FZ1=
+FZ2=Welcher amerikanische Präsident wurde 1963 in Dallas erschossen ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0Lyndon B. Johnson	
+Antwort_2=1John F. Kennedy	
+Antwort_3=0Richard Nixon	
+Antwort_4=0Jimmy Carter	
+
+[43]
+FZ1=
+FZ2=Welcher amerikanische Präsident war in die Watergate-Affäre verwickelt?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Lyndon B. Johnson	
+Antwort_2=0John F. Kennedy	
+Antwort_3=1Richard Nixon	
+Antwort_4=0Jimmy Carter	
+
+[44]
+FZ1=
+FZ2=Nicht beteiligt am Potsdamer Abkommen war
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Charles de Gaulle	
+Antwort_2=0Harry S. Truman	
+Antwort_3=0Winston Churchill	
+Antwort_4=0Josef Stalin	
+
+[45]
+FZ1=
+FZ2=#Musik
+FZ3=
+Min=1000000
+Max=8000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[46]
+FZ1=
+FZ2=Welche Hannoveraner Rockgruppe nennt sich nach einem gefährlichen Insekt ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Scorpions	
+Antwort_2=0Libellen	
+Antwort_3=0Hornissen	
+Antwort_4=0Moskitos	
+
+[47]
+FZ1=
+FZ2=Alle meine Entchen schwimmen ... !
+FZ3=
+Min=100
+Max=100
+Antwort_1=1auf dem See	
+Antwort_2=0auf dem Meer	
+Antwort_3=0auf dem Bach	
+Antwort_4=0in der Toilette	
+
+[48]
+FZ1=
+FZ2=Wer sang, dass das Leben erst mit 66 Jahren anfängt ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Udo Jürgens	
+Antwort_2=0Roland Kaiser	
+Antwort_3=0Wolfgang Petry	
+Antwort_4=0Herr Wilmes	
+
+[49]
+FZ1=
+FZ2=Wofür stehen die Buchstaben ABBA ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Agnetha, Björn, Benny, Anni-Frid	
+Antwort_2=0Anton-Berta-Berta-Anton	
+Antwort_3=0Auch bekloppte Bauern angeln.	
+Antwort_4=0Alle bekloppte Bauern angeln.	
+
+[50]
+FZ1=
+FZ2=Welcher der Beatles wurde 1980 auf offener Straße erschossen?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1John	
+Antwort_2=0Paul	
+Antwort_3=0George	
+Antwort_4=0Ringo	
+
+[51]
+FZ1=
+FZ2=Welcher der Beatles starb 2001 an Krebs ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0John	
+Antwort_2=0Paul	
+Antwort_3=1George	
+Antwort_4=0Ringo	
+
+[52]
+FZ1=
+FZ2=Welcher war der jüngste der Beatles?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=0John	
+Antwort_2=0Paul	
+Antwort_3=1George	
+Antwort_4=0Ringo	
+
+[53]
+FZ1=
+FZ2=Welcher Name passt hier nicht ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0George	
+Antwort_2=0Paul	
+Antwort_3=0John	
+Antwort_4=1Phil	
+
+[54]
+FZ1=
+FZ2=Von wem sind die »Vier Jahreszeiten« ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Vivaldi	
+Antwort_2=0Händel	
+Antwort_3=0Mozart	
+Antwort_4=0Beethoven	
+
+[55]
+FZ1=
+FZ2=Welchen Beinamen hat Franz Schuberts  8. Sinfonie ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Jupitersinfonie	
+Antwort_2=0Mondscheinsinfonie	
+Antwort_3=1Die Unvollendete	
+Antwort_4=0Schicksalssinfonie	
+
+[56]
+FZ1=
+FZ2=Welcher Künstler verbirgt sich hinter dem Namen Gerhard Höllerich?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Roland Kaiser	
+Antwort_2=1Roy Black	
+Antwort_3=0Rex Gildo	
+Antwort_4=0Nino de Angelo	
+
+[57]
+FZ1=
+FZ2=»Barbara Ann« und »Good Vibrations« stammen von den
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Beach Boys	
+Antwort_2=0Bee Gees	
+Antwort_3=0Beatles	
+Antwort_4=0Lords	
+
+[58]
+FZ1=
+FZ2=Kein Film der Beatles war
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Sgt. Pepper	
+Antwort_2=0Magical Mystory Tour	
+Antwort_3=0Yellow Submarine	
+Antwort_4=0Help	
+
+[59]
+FZ1=
+FZ2=»Eine kleine Nachtmusik« schrieb
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Wolfgang Amadeus Mozart	
+Antwort_2=0Franz Schubert	
+Antwort_3=0Ludwig van Beethoven	
+Antwort_4=0Richard Wagner	
+
+[60]
+FZ1=
+FZ2=Die »Symphonie mit dem Paukenschlag« stammt von
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Joseph Haydn	
+Antwort_2=0Ludwig van Beethoven	
+Antwort_3=0Franz Schubert	
+Antwort_4=0Johann Sebastian Bach	
+
+[61]
+FZ1=
+FZ2=Den Walzer »An der schönen, blauen Donau« schrieb
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Johann Strauß	
+Antwort_2=0Edvard Grieg	
+Antwort_3=0Friedrich Smetana	
+Antwort_4=0Georg Friedrich Händel	
+
+[62]
+FZ1=
+FZ2=Wer war der »König des Rock'n Roll« ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Elvis Presley	
+Antwort_2=0Cat Stevens	
+Antwort_3=0Phil Collins	
+Antwort_4=0Jimmy Hendrix	
+
+[63]
+FZ1=
+FZ2=»Yellow Submarine« stammt von den
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Beatles	
+Antwort_2=0Bee Gees	
+Antwort_3=0Rolling Stones	
+Antwort_4=0Lords	
+
+[64]
+FZ1=
+FZ2=»Sah' ein Knab' ..... «
+FZ3=
+Min=200
+Max=200
+Antwort_1=1ein Röslein steh'n.	
+Antwort_2=0einen Streifenwagen.	
+Antwort_3=0ein Fräulein geh'n.	
+Antwort_4=0eine Eiche fallen.	
+
+[65]
+FZ1=
+FZ2=Ene mene miste, es rappelt in der ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Kiste.	
+Antwort_2=0Eisenbahn.	
+Antwort_3=0Piste.	
+Antwort_4=0Liste.	
+
+[66]
+FZ1=
+FZ2=Von dieser Musikgruppe gibt es mehrere CDs.
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Kelly Family	
+Antwort_2=0Telli Family	
+Antwort_3=0Sally Family	
+Antwort_4=0Pet Shop Family	
+
+[67]
+FZ1=
+FZ2=Wie beginnt die deutsche Nationalhymne ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Einigkeit und Recht und Freiheit	
+Antwort_2=0Deutschland, Deutschland über alles	
+Antwort_3=0Hol' mir mal 'ne Flasche Bier	
+Antwort_4=0In München steht ein Hofbräuhaus	
+
+[68]
+FZ1=
+FZ2=Von wem stammt der Titel »Frozen« ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Madonna	
+Antwort_2=0Brittney Spears	
+Antwort_3=0Kelly Family	
+Antwort_4=0Tic Tac Toe	
+
+[69]
+FZ1=
+FZ2=Welche Note folgt in der Tonleiter auf h ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1c	
+Antwort_2=0g	
+Antwort_3=0i	
+Antwort_4=0f	
+
+[70]
+FZ1=
+FZ2=#Film
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[71]
+FZ1=
+FZ2=Hollywood liegt in der Nähe von
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Los Angeles	
+Antwort_2=0New York	
+Antwort_3=0San Francisco	
+Antwort_4=0Boston	
+
+[72]
+FZ1=
+FZ2=Kein James Bond Film
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Agentenpoker	
+Antwort_2=0Man lebt nur zweimal	
+Antwort_3=0Octopussy	
+Antwort_4=0Goldfinger	
+
+[73]
+FZ1=
+FZ2=Kein Film von Alfred Hitchcock
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Familiengrab	
+Antwort_2=1Krieg der Welten	
+Antwort_3=0Der unsichtbare Dritte	
+Antwort_4=0Die Vögel	
+
+[74]
+FZ1=
+FZ2=Kein Film von Alfred Hitchcock
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Das Fenster zur Straße	
+Antwort_2=0Eine Dame verschwindet	
+Antwort_3=0Psycho	
+Antwort_4=0Marnie	
+
+[75]
+FZ1=
+FZ2=Kein Film von Stephen King
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Sie	
+Antwort_2=0Carie	
+Antwort_3=1Wir	
+Antwort_4=0Es	
+
+[76]
+FZ1=
+FZ2=Wie hieß der große Stummfilm-Komiker Chaplin mit Vornamen?
+FZ3=
+Min=0
+Max=0
+Antwort_1=0Jack	
+Antwort_2=1Charlie	
+Antwort_3=0Gerald	
+Antwort_4=0Joseph	
+
+[77]
+FZ1=
+FZ2=Wie hießen die Film-Komiker Dick und Doof im richtigen Leben ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0Holmes und Watson	
+Antwort_2=0Meckie und Messer	
+Antwort_3=1Laurel und Hardy	
+Antwort_4=0Pat und Patachon	
+
+[78]
+FZ1=
+FZ2=Wer spielte den trotteligen Inspektor in »Der rosarote Panter«?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0David Niven	
+Antwort_2=1Peter Sellers	
+Antwort_3=0Gary Grant	
+Antwort_4=0Jerry Lewis	
+
+[79]
+FZ1=
+FZ2=Wer spielte den James Bond in Golden Eye ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Timothy Dalton	
+Antwort_2=0Roger Moore	
+Antwort_3=0Jean Connery	
+Antwort_4=1Pierce Brosnan	
+
+[80]
+FZ1=Welcher Schauspieler war in mehreren Filmen
+FZ2=Don Camillos Gegenspieler Peppone?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Gino Cervi	
+Antwort_2=0Gary Grant	
+Antwort_3=0Marcello Mastrojani	
+Antwort_4=0Lino Ventura	
+
+[81]
+FZ1=
+FZ2=Wer spielte Mundharmonika in »Spiel mir das Lied vom Tod« ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Gary Cooper	
+Antwort_2=0Clint Eastwood	
+Antwort_3=1Charles Bronson	
+Antwort_4=0Henry Fonda	
+
+[82]
+FZ1=
+FZ2=Wie hieß der Freund von Miss Marple?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Mr. Stringer	
+Antwort_2=0Mr. Witherspoon	
+Antwort_3=0Mr. Spinalzo	
+Antwort_4=0Mr. Buchanan	
+
+[83]
+FZ1=
+FZ2=Wer spielte 1958 die Hauptrolle in »Der alte Mann und das Meer«?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=0Charlton Heston	
+Antwort_2=0Anthony Quinn	
+Antwort_3=1Spencer Tracy	
+Antwort_4=0Henry Fonda	
+
+[84]
+FZ1=
+FZ2=Wer spielte den Nero in »Quo vadis« ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Charlton Heston	
+Antwort_2=0Gerd Fröbe	
+Antwort_3=0Sean Connery	
+Antwort_4=1Peter Ustinov	
+
+[85]
+FZ1=
+FZ2=Wer spielte den dicken Bärtigen in »Vier Fäuste für ein Halleluja« ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Bud Spencer	
+Antwort_2=0Orson Welles	
+Antwort_3=0Mario Adorf	
+Antwort_4=0Bruce Willis	
+
+[86]
+FZ1=
+FZ2=Wer spielte in den 60ern in mehreren Filmen den Grafen Dracula ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Christopher Lee	
+Antwort_2=0Peter Ustinov	
+Antwort_3=0Charlton Heston	
+Antwort_4=0Henry Fonda	
+
+[87]
+FZ1=
+FZ2=In welcher Weltraum-Saga ist oft von der »Macht« die Rede?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Krieg der Sterne	
+Antwort_2=0Orion	
+Antwort_3=0Flucht vom Mars	
+Antwort_4=0Babylon V	
+
+[88]
+FZ1=
+FZ2=Welches Monster verwüstet in mehreren Filmen die Küstenstädte Japans?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Godzilla	
+Antwort_2=0Albatros	
+Antwort_3=0Mozilla	
+Antwort_4=0Pokèmon	
+
+[89]
+FZ1=
+FZ2=Wie heißt der einbeinige Kapitän, der hinter Moby Dick her ist?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Kapitän Ahab	
+Antwort_2=0Kapitän Niob	
+Antwort_3=0Kapitän Blaubär	
+Antwort_4=0Kapitän Buchanan	
+
+[90]
+FZ1=
+FZ2=In welchem Film sinkt ein Ozeanriese, nachdem er einen Eisberg gerammt hat?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Titanic	
+Antwort_2=0Untergang der Andrea Doria	
+Antwort_3=0Höllenfahrt der Poseidon	
+Antwort_4=0Tauchfahrt des Grauens	
+
+[91]
+FZ1=
+FZ2=In diesem Film musste der Hauptdarsteller sehr viel laufen.
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Forest Gump	
+Antwort_2=0Terminator	
+Antwort_3=0Rambo	
+Antwort_4=0Manta Manta	
+
+[92]
+FZ1=
+FZ2=Kein Film mit Heinz Rühmann ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Immer diese Autofahrer	
+Antwort_2=0Der Hauptmann von Köpenick	
+Antwort_3=0Keine Angst vor großen Tieren	
+Antwort_4=0Ein Mann geht durch die Wand	
+
+[93]
+FZ1=
+FZ2=Wer ging als »Schätzchen« in die deutsche Filmgeschichte ein ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Uschi Glas	
+Antwort_2=0Nena	
+Antwort_3=0Hildegard Knef	
+Antwort_4=0Romy Schneider	
+
+[94]
+FZ1=
+FZ2=Wer kämpft in Krieg der Sterne mit einem Laserschwert gegen Darth Vader ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Ben Kenobi	
+Antwort_2=0Captain Kirk	
+Antwort_3=0Mr. Spock	
+Antwort_4=0Perry Rhodan	
+
+[95]
+FZ1=
+FZ2=Wen spielt Harrison Ford in »Der Jäger des verlorenen Schatzes« ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Indiana Jones	
+Antwort_2=0James Bond	
+Antwort_3=0Crocodile Dundee	
+Antwort_4=0Peter Pan	
+
+[96]
+FZ1=
+FZ2=#Fernsehen
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[97]
+FZ1=
+FZ2=Nicht bei der Wochenshow war
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Esther Schweins	
+Antwort_2=0Anke Engelke	
+Antwort_3=0Ingolf Lück	
+Antwort_4=0Bastian Pastevka	
+
+[98]
+FZ1=
+FZ2=Wer gehörte *nicht* zur englischen Komikertruppe »Monty Python« ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Benny Hill	
+Antwort_2=0Eric Idle	
+Antwort_3=0John Cleese	
+Antwort_4=0Michael Palin	
+
+[99]
+FZ1=
+FZ2=Keine Fernsehsendung
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Dalli Dalli	
+Antwort_2=0Talk Talk Talk	
+Antwort_3=0Ruck Zuck	
+Antwort_4=1Zack Zack	
+
+[100]
+FZ1=
+FZ2=Wie heißt der berühmteste Fernsehpanther mit Vornamen
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Paulchen	
+Antwort_2=0Fritzchen	
+Antwort_3=0Karlchen	
+Antwort_4=0Hänschen	
+
+[101]
+FZ1=
+FZ2=Wie heißt der Chef von Adelheid in der gleichnamigen Krimiserie ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Strobel	
+Antwort_2=0Baumann	
+Antwort_3=0Schnabel	
+Antwort_4=0Neumann	
+
+[102]
+FZ1=
+FZ2=Diesen Fernsehsender gibt es
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Viva	
+Antwort_2=0Klasse!	
+Antwort_3=0Prima	
+Antwort_4=0'luja	
+
+[103]
+FZ1=
+FZ2=Wer spielte den »Inspektor Columbo«?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Peter Falk	
+Antwort_2=0Telly Savalas	
+Antwort_3=0Charles Bronson	
+Antwort_4=0Martin Landau	
+
+[104]
+FZ1=
+FZ2=Wer gehörte nicht zur ersten Staffel von »Raumschiff Enterprise«?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Riker	
+Antwort_2=0Kirk	
+Antwort_3=0Spock	
+Antwort_4=0Scotty	
+
+[105]
+FZ1=
+FZ2=Wie heißt der Androide in der SF-Serie »Raumschiff Enterprise« ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Data	
+Antwort_2=0Delta	
+Antwort_3=0Gamma	
+Antwort_4=0Beta	
+
+[106]
+FZ1=
+FZ2=Nicht von der Augsburger Puppenkiste ist
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Der fliegende Ferdinand	
+Antwort_2=0Urmel aus dem Eis	
+Antwort_3=0Jim Knopf und die wilde 13	
+Antwort_4=0Kleiner König Kalle Wirsch	
+
+[107]
+FZ1=
+FZ2=Berühmte Krimiserie, schon etwas älter
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Stahlnetz	
+Antwort_2=0Waffenschein	
+Antwort_3=0Panzerglas	
+Antwort_4=0Stahlbeton	
+
+[108]
+FZ1=
+FZ2=Keine Nachrichtensendung
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Tagesshow	
+Antwort_2=0Aktuelle Stunde	
+Antwort_3=0Tagesschau	
+Antwort_4=0Heute	
+
+[109]
+FZ1=
+FZ2=Wer moderierte über viele Jahre die Sendung »Einer wird gewinnen«?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Hans Joachim Kulenkampf	
+Antwort_2=0Peter Frankenfeld	
+Antwort_3=0Eduard Zimmermann	
+Antwort_4=0Hans Rosenthal	
+
+[110]
+FZ1=
+FZ2=Wer moderierte früher die Ratesendung »Was bin ich« ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Robert Lemke	
+Antwort_2=0Thomas Gottschalk	
+Antwort_3=0Heinz Mägerlein	
+Antwort_4=0Illja Richter	
+
+[111]
+FZ1=
+FZ2=#Sport
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[112]
+FZ1=
+FZ2=Wo fanden die Olympischen Sommerspiele 1972 statt ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1München	
+Antwort_2=0Tokio	
+Antwort_3=0Rom	
+Antwort_4=0Athen	
+
+[113]
+FZ1=Wie nennt man im Turnen einen
+FZ2=Handstützüberschlag rückwärts aus dem Stand heraus?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Flickflack	
+Antwort_2=0Schnickschnack	
+Antwort_3=0Klickklack	
+Antwort_4=0Rittberger	
+
+[114]
+FZ1=
+FZ2=Wie lange dauert ein normales Fußballspiel ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=190 Minuten	
+Antwort_2=0120 Minuten	
+Antwort_3=060 Minuten	
+Antwort_4=080 Minuten	
+
+[115]
+FZ1=
+FZ2=Was nennt man beim Fußball »eine Packung« ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Wenn eine Mannschaft ein Spiel	sehr hoch verloren hat.	
+Antwort_2=0Wenn der Schiedsrichter den	Linienrichtern eine Packung Pralinen	überreicht.	
+Antwort_3=0Wenn der Schiedsrichter dem Trainer	eine Packung Pralinen überreicht.	
+Antwort_4=0Wenn der Trainer mit der	Verlierermannschaft heftig schimpft.	
+
+[116]
+FZ1=
+FZ2=In welchem Jahr gewann Boris Becker zum ersten mal in Wimbledon ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=11985	
+Antwort_2=01984	
+Antwort_3=01983	
+Antwort_4=01982	
+
+[117]
+FZ1=Welcher Formel-1-Rennfahrer verbirgt seit einem schweren Unfall
+FZ2=seine Ohren meistens unter einer Kappe?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Niki Lauda	
+Antwort_2=0Emerson Fitipaldi	
+Antwort_3=0Michael Schuhmacher	
+Antwort_4=0Harald Frenzen	
+
+[118]
+FZ1=
+FZ2=#Erdkunde
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[119]
+FZ1=
+FZ2=Diese Stadt gibt es wirklich :
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Frankfurt	
+Antwort_2=0Ottobein	
+Antwort_3=0Willikopf	
+Antwort_4=0Heinzohr	
+
+[120]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Venezuela ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Caracas	
+Antwort_2=0Lima	
+Antwort_3=0Brasila	
+Antwort_4=0Monte Vidéo	
+
+[121]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Rumänien ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Bukarest	
+Antwort_2=0Sofia	
+Antwort_3=0Prag	
+Antwort_4=0Budapest	
+
+[122]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Ungarn?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Bukarest	
+Antwort_2=0Sofia	
+Antwort_3=0Prag	
+Antwort_4=1Budapest	
+
+[123]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Bulgarien?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Bukarest	
+Antwort_2=1Sofia	
+Antwort_3=0Prag	
+Antwort_4=0Budapest	
+
+[124]
+FZ1=
+FZ2=Wie heißt die Hauptstadt der Tschechischen Republik?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0Bukarest	
+Antwort_2=0Sofia	
+Antwort_3=1Prag	
+Antwort_4=0Budapest	
+
+[125]
+FZ1=
+FZ2=Wie heißt die Hauptstadt Frankreichs ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=0London	
+Antwort_2=1Paris	
+Antwort_3=0Amsterdam	
+Antwort_4=0Dublin	
+
+[126]
+FZ1=
+FZ2=Wie heißt die Hauptstadt Großbritanniens ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1London	
+Antwort_2=0Paris	
+Antwort_3=0Amsterdam	
+Antwort_4=0Dublin	
+
+[127]
+FZ1=
+FZ2=Wie heißt die Hauptstadt Belgiens ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Brüssel	
+Antwort_2=0Aachen	
+Antwort_3=0Amsterdam	
+Antwort_4=0Ostende	
+
+[128]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Hessen ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Wiesbaden	
+Antwort_2=0München	
+Antwort_3=0Frankfurt	
+Antwort_4=0Stuttgart	
+
+[129]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Sachsen ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Dresden	
+Antwort_2=0Magdeburg	
+Antwort_3=0Erfurt	
+Antwort_4=0Leipzig	
+
+[130]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Nordrhein-Westfalen ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Düsseldorf	
+Antwort_2=0Münster	
+Antwort_3=0Köln	
+Antwort_4=0Bonn	
+
+[131]
+FZ1=
+FZ2=Welche Stadt war vor Berlin die Hauptstadt Deutschlands ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Bonn	
+Antwort_2=0Düsseldorf	
+Antwort_3=0Köln	
+Antwort_4=0München	
+
+[132]
+FZ1=
+FZ2=Wie heißt die Hauptstadt der Schweiz ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Bern	
+Antwort_2=0Zürich	
+Antwort_3=0Basel	
+Antwort_4=0Zwickau	
+
+[133]
+FZ1=
+FZ2=Wie heißt die Hauptstadt der Türkei ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Ankara	
+Antwort_2=0Antalya	
+Antwort_3=0Istanbul	
+Antwort_4=0Side	
+
+[134]
+FZ1=
+FZ2=Wie heißt die Haupstadt von Polen ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Warschau	
+Antwort_2=0Paris	
+Antwort_3=0Berlin	
+Antwort_4=0Kosovo	
+
+[135]
+FZ1=
+FZ2=Wie heißt die Hymne von Polen ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Noch ist Polen nicht verloren	
+Antwort_2=0Polen hat schon oft verloren	
+Antwort_3=0Polen kann nicht verlieren	
+Antwort_4=0Wer verliert gegen Polen	
+
+[136]
+FZ1=
+FZ2=Welche Stadt liegt an der Ostsee ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Danzig	
+Antwort_2=0München	
+Antwort_3=0Düsseldorf	
+Antwort_4=0Dresden	
+
+[137]
+FZ1=
+FZ2=Wie heißt die Meerenge zwischen England und Frankreich ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Ärmelkanal	
+Antwort_2=0Panamakanal	
+Antwort_3=0Abwasserkanal	
+Antwort_4=0Nord- Ostsee-Kanal	
+
+[138]
+FZ1=
+FZ2=Welche italienische Stadt steht auf Pfählen ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Venedig	
+Antwort_2=0Rom	
+Antwort_3=0Turin	
+Antwort_4=0Mailand	
+
+[139]
+FZ1=
+FZ2=In welcher Stadt steht der von Gustave Eiffel gebaute Turm ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1In Paris	
+Antwort_2=0In Mailand	
+Antwort_3=0In Venedig	
+Antwort_4=0In Brüssel	
+
+[140]
+FZ1=
+FZ2=An welches Land gab England die Kolonie Hong Kong zurück ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1China	
+Antwort_2=0Japan	
+Antwort_3=0Asien	
+Antwort_4=0Peking	
+
+[141]
+FZ1=
+FZ2=An welchem Ozean liegt Los Angeles ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Am Pazifik	
+Antwort_2=0Am Atlantik	
+Antwort_3=0Am Indischen Ozean	
+Antwort_4=0Am Kaspischen Meer	
+
+[142]
+FZ1=
+FZ2=Auf welchem Kontinent liegt die Kalahari- Wüste ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Afrika	
+Antwort_2=0Australien	
+Antwort_3=0Asien	
+Antwort_4=0Europa	
+
+[143]
+FZ1=
+FZ2=In welchem Ozean liegen die Fidschi-Inseln ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Im Pazifik	
+Antwort_2=0Im Atlantik	
+Antwort_3=0Im Indischen Ozean	
+Antwort_4=0Im Kaspischen Meer	
+
+[144]
+FZ1=
+FZ2=Auf welchem Kontinent liegt die Sahara ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Afrika	
+Antwort_2=0Australien	
+Antwort_3=0Amerika	
+Antwort_4=0Asien	
+
+[145]
+FZ1=
+FZ2=Welcher europäische Staat reicht weit in den  Norden ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Norwegen	
+Antwort_2=0Schweden	
+Antwort_3=0Finnland	
+Antwort_4=0Dänemark	
+
+[146]
+FZ1=
+FZ2=Von wo aus berechnet man die Höhe eines Berges ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Vom Meesresspiegel	
+Antwort_2=0Der Spitze des Berges	
+Antwort_3=0Von der Mitte des Berges	
+Antwort_4=0Vom Boden des Berges	
+
+[147]
+FZ1=
+FZ2=In welchem europäischen Land kaufte man bis 2001 noch mit Lire ein ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1In Italien	
+Antwort_2=0In Österreich	
+Antwort_3=0In Spanien	
+Antwort_4=0In Frankreich	
+
+[148]
+FZ1=
+FZ2=Aus welchem Land kommt ein Käse namens Greyerzer ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Aus der Schweiz	
+Antwort_2=0Aus Holland	
+Antwort_3=0Aus Österreich	
+Antwort_4=0Aus Ungarn	
+
+[149]
+FZ1=
+FZ2=In welchem deutschen Bundesland gehört die Lodenjacke zur Tracht ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Bayern	
+Antwort_2=0Sachsen	
+Antwort_3=0Thüringen	
+Antwort_4=0Mecklenburg- Vorpommern	
+
+[150]
+FZ1=
+FZ2=Aus welchem Land kommen die Jaffa - Orangen ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Aus Israel	
+Antwort_2=0Aus der Türkei	
+Antwort_3=0Aus Mittelafrika	
+Antwort_4=0Aus Asien	
+
+[151]
+FZ1=
+FZ2=Wie heißt der höchste Berg im Sauerland ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Langenberg	
+Antwort_2=0Kahler Asten	
+Antwort_3=0Vogelsberg	
+Antwort_4=0Wasserkuppe	
+
+[152]
+FZ1=
+FZ2=Welcher Fluss entspringt in  Deutschland und mündet in Rumänien ins Meer ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Donau	
+Antwort_2=0Elbe	
+Antwort_3=0Rhein	
+Antwort_4=0Wolga	
+
+[153]
+FZ1=
+FZ2=An welchem Meer liegt Rumänien ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1am Schwarzen Meer	
+Antwort_2=0am Mittelmeer	
+Antwort_3=0am Toten Meer	
+Antwort_4=0am Kaspischen Meer	
+
+[154]
+FZ1=
+FZ2=Wie heißt der Vulkan auf Sizilien ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Ätna	
+Antwort_2=0Vesuv	
+Antwort_3=0Stromboli	
+Antwort_4=0Survio	
+
+[155]
+FZ1=
+FZ2=Der Vulkan bei Nepal heißt ...
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Vesuv	
+Antwort_2=0Survio	
+Antwort_3=0Stromboli	
+Antwort_4=0Ätna	
+
+[156]
+FZ1=
+FZ2=Welcher europäische Staat sieht aus wie ein Stiefel ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Italien	
+Antwort_2=0Polen	
+Antwort_3=0Griechenland	
+Antwort_4=0Portugal	
+
+[157]
+FZ1=
+FZ2=Diese Silbe hat etwas mit Erdkunde zu tun:
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Geo	
+Antwort_2=0Leo	
+Antwort_3=0Neo	
+Antwort_4=0Deo	
+
+[158]
+FZ1=
+FZ2=Was nimmt man zuerst wahr, Blitz oder Donner ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Blitz	
+Antwort_2=0beides gleichzeitig	
+Antwort_3=0Donner	
+Antwort_4=0hängt von der Entfernung ab	
+
+[159]
+FZ1=
+FZ2=Wer ist für das milde Klima in Europa verantwortlich ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Der Humboldstrom	
+Antwort_2=1Der Golfstrom	
+Antwort_3=0Die Alpen	
+Antwort_4=0Die Arktis	
+
+[160]
+FZ1=
+FZ2=Wie heißt in userem Sonnensystem der sonnennächste Planet ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0Mars	
+Antwort_2=1Merkur	
+Antwort_3=0Venus	
+Antwort_4=0Jupiter	
+
+[161]
+FZ1=
+FZ2=Wie nennt man einen Feuer speienden Berg ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Vulkan	
+Antwort_2=0Wutach	
+Antwort_3=0Vorlon	
+Antwort_4=0Volkan	
+
+[162]
+FZ1=
+FZ2=Hier kommen sich Afrika und Europa sehr nahe.
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Ärmelkanal	
+Antwort_2=0Dardanellen	
+Antwort_3=1Straße von Gibraltar	
+Antwort_4=0Bosporus	
+
+[163]
+FZ1=
+FZ2=Die Quellen von Euphrat und Tigris liegen
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1in der Türkei.	
+Antwort_2=0in Bulgarien.	
+Antwort_3=0in Griechenland.	
+Antwort_4=0in Jordanien.	
+
+[164]
+FZ1=
+FZ2=Kein Mond ist
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Merkur	
+Antwort_2=0Ganymed	
+Antwort_3=0Io	
+Antwort_4=0Europa	
+
+[165]
+FZ1=
+FZ2=Kein Kontinent ist
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Arabien	
+Antwort_2=0Australien	
+Antwort_3=0Asien	
+Antwort_4=0Amerika	
+
+[166]
+FZ1=
+FZ2=Diese Himmelsrichtungen liegen sich gegenüber
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Süden und Norden	
+Antwort_2=0Westen und Norden	
+Antwort_3=0Süden und Westen	
+Antwort_4=0Osten und Norden	
+
+[167]
+FZ1=
+FZ2=Hier der längste Fluss ist
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1die Wolga.	
+Antwort_2=0der Dnjepr	
+Antwort_3=0die Donau.	
+Antwort_4=0der Rhein	
+
+[168]
+FZ1=
+FZ2=Welche Aussage trifft für Längenkreise zu ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Sie sind gleich groß.	
+Antwort_2=0Sie verlaufen	von Westen nach Osten.	
+Antwort_3=0Sie sind parallel.	
+Antwort_4=0Sie verlaufen	von Osten nach Westen.	
+
+[169]
+FZ1=
+FZ2=Welche Stadt liegt am nullten Längenkreis ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1London	
+Antwort_2=0Paris	
+Antwort_3=0Rom	
+Antwort_4=0Madrid	
+
+[170]
+FZ1=
+FZ2=Welche dieser Städte liegt südlich des Äquators ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Rio de Janeiro	
+Antwort_2=0Athen	
+Antwort_3=0Moskau	
+Antwort_4=0New York	
+
+[171]
+FZ1=
+FZ2=Was entsteht, wenn es bei Sonnenschein auch noch regnet ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1ein Regenbogen	
+Antwort_2=0Schnee	
+Antwort_3=0ein Gewitter	
+Antwort_4=0Hagel	
+
+[172]
+FZ1=
+FZ2=Kein Planet ist
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0Saturn	
+Antwort_2=1Ganymed	
+Antwort_3=0Neptun	
+Antwort_4=0Merkur	
+
+[173]
+FZ1=
+FZ2=Wie lange braucht das Licht vom Mond bis zur Erde ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1ca. eine Sekunde	
+Antwort_2=0ca. eine Minute	
+Antwort_3=0ca. eine Stunde	
+Antwort_4=0ca. zehn Sekunden	
+
+[174]
+FZ1=
+FZ2=Wie lange braucht das Licht von der Sonne bis zur Erde ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1ca. acht Minuten	
+Antwort_2=0ca. acht Sekunden	
+Antwort_3=0ca. acht Stunden	
+Antwort_4=0ca. eine Sekunde	
+
+[175]
+FZ1=
+FZ2=#Zitate -#Sprüche, #Weisheiten
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[176]
+FZ1=
+FZ2=Was sich liebt, das ... ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1neckt sich.	
+Antwort_2=0legt sich.	
+Antwort_3=0schlägt sich.	
+Antwort_4=0haut sich.	
+
+[177]
+FZ1=
+FZ2=Morgenstund hat ...
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Gold im Mund.	
+Antwort_2=0Geld im Mund.	
+Antwort_3=0Schrott im Mund.	
+Antwort_4=0Rauch im Mund.	
+
+[178]
+FZ1=
+FZ2=Wer anderen eine Grube gräbt ...
+FZ3=
+Min=300
+Max=300
+Antwort_1=1fällt selbst hinein.	
+Antwort_2=0schmeißt Obst hinein.	
+Antwort_3=0stinkt wie ein Schwein.	
+Antwort_4=0dem fehlt hinterher ein Bein.	
+
+[179]
+FZ1=
+FZ2=Schuster, bleib bei deinen ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=0Stiefeln	
+Antwort_2=0Pantoffeln	
+Antwort_3=0Schuhen	
+Antwort_4=1Leisten	
+
+[180]
+FZ1=
+FZ2=Was man nicht im Kopf hat, hat man in
+FZ3=
+Min=100
+Max=100
+Antwort_1=0den Ohren	
+Antwort_2=1den Beinen	
+Antwort_3=0der Tasche	
+Antwort_4=0der Hand	
+
+[181]
+FZ1=
+FZ2=Der Apfel fällt nicht weit vom
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Stamm.	
+Antwort_2=0Tisch.	
+Antwort_3=0Pferd.	
+Antwort_4=0Berg.	
+
+[182]
+FZ1=
+FZ2=Lügen haben
+FZ3=
+Min=0
+Max=0
+Antwort_1=1kurze Beine.	
+Antwort_2=0lange Finger.	
+Antwort_3=0große Ohren.	
+Antwort_4=0spitze Nasen.	
+
+[183]
+FZ1=
+FZ2=Liebe geht durch
+FZ3=
+Min=100
+Max=100
+Antwort_1=0die Ohren.	
+Antwort_2=0die Nase.	
+Antwort_3=1den Magen.	
+Antwort_4=0dick und dünn.	
+
+[184]
+FZ1=
+FZ2=Wie man sich bettet, so
+FZ3=
+Min=100
+Max=100
+Antwort_1=1liegt man.	
+Antwort_2=0fliegt man.	
+Antwort_3=0schläft man.	
+Antwort_4=0wird man geweckt.	
+
+[185]
+FZ1=
+FZ2=Es ist noch kein ..... vom Himmel gefallen.
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Meister	
+Antwort_2=0Flugzeug	
+Antwort_3=0Vogel	
+Antwort_4=0Hammer	
+
+[186]
+FZ1=
+FZ2=Wer im ..... sitzt, soll nicht mit Steinen werfen.
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Glashaus	
+Antwort_2=0Gefängnis	
+Antwort_3=0Fernsehen	
+Antwort_4=0Schulbus	
+
+[187]
+FZ1=
+FZ2=Was Hänschen nicht lernt, lernt Hans ...
+FZ3=
+Min=100
+Max=100
+Antwort_1=1nimmermehr.	
+Antwort_2=0erst recht nicht.	
+Antwort_3=0schließlich doch noch.	
+Antwort_4=0umso besser.	
+
+[188]
+FZ1=
+FZ2=Wer einmal lügt,
+FZ3=
+Min=0
+Max=0
+Antwort_1=1dem glaubt man nicht.	
+Antwort_2=0ist auch sonst nichts wert.	
+Antwort_3=0hat sonst immer recht.	
+Antwort_4=0spricht sonst die Wahrheit.	
+
+[189]
+FZ1=
+FZ2=Aller Anfang ist
+FZ3=
+Min=0
+Max=0
+Antwort_1=1schwer.	
+Antwort_2=0leicht.	
+Antwort_3=0bescheiden.	
+Antwort_4=0teuer.	
+
+[190]
+FZ1=
+FZ2=Lehrjahre sind
+FZ3=
+Min=0
+Max=0
+Antwort_1=1keine Herrenjahre.	
+Antwort_2=0auch nicht schlecht.	
+Antwort_3=0kein Zuckerschlecken.	
+Antwort_4=0voll daneben.	
+
+[191]
+FZ1=
+FZ2=Eine Schwalbe macht noch keinen
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Sommer	
+Antwort_2=0Frühling	
+Antwort_3=0Misthaufen	
+Antwort_4=0Winter	
+
+[192]
+FZ1=
+FZ2=Ehrlich währt ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1am längsten.	
+Antwort_2=0am sichersten.	
+Antwort_3=0am kürzesten.	
+Antwort_4=0am höchsten.	
+
+[193]
+FZ1=
+FZ2=Reden ist Silber, Schweigen ist ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Gold.	
+Antwort_2=0Bronze.	
+Antwort_3=0Platin.	
+Antwort_4=0Messing.	
+
+[194]
+FZ1=
+FZ2=Was du heute kannst besorgen, ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1das verschiebe nicht auf morgen.	
+Antwort_2=0tu' am besten übermorgen.	
+Antwort_3=0wird morgen auch nicht leichter.	
+Antwort_4=0erledigt sich auch morgen.	
+
+[195]
+FZ1=
+FZ2=Hochmut kommt vor dem ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Fall.	
+Antwort_2=0Strick.	
+Antwort_3=0Übermut.	
+Antwort_4=0TÜV.	
+
+[196]
+FZ1=
+FZ2=Wer Wind sät, ...
+FZ3=
+Min=100
+Max=100
+Antwort_1=1wird Sturm ernten.	
+Antwort_2=0fliegt leicht davon.	
+Antwort_3=0muss die Läden schließen	
+Antwort_4=0muss die Segel streichen.	
+
+[197]
+FZ1=
+FZ2=Müßiggang ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1ist aller Laster Anfang.	
+Antwort_2=0ist dem Reichen vorbehalten.	
+Antwort_3=0hat noch nie geschadet.	
+Antwort_4=0bei Lautenklang.	
+
+[198]
+FZ1=
+FZ2=Mit Speck ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1fängt man Mäuse.	
+Antwort_2=0brät es sich leichter.	
+Antwort_3=0fängt man Fliegen.	
+Antwort_4=0verdirbt man den Brei.	
+
+[199]
+FZ1=
+FZ2=Die Zeit ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1heilt alle Wunden.	
+Antwort_2=0ist kostbarer als Silber.	
+Antwort_3=0ist kostbarer als Gold.	
+Antwort_4=0hat Gold im Mund.	
+
+[200]
+FZ1=
+FZ2=Die dümmsten Bauern ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1haben die dicksten Kartoffeln.	
+Antwort_2=0meiste Milch.	
+Antwort_3=0haben die fettesten Schweine.	
+Antwort_4=0haben die längste Leitung.	
+
+[201]
+FZ1=
+FZ2=Ausnahmen
+FZ3=
+Min=0
+Max=0
+Antwort_1=1bestätigen die Regel.	
+Antwort_2=0werden selten gemacht.	
+Antwort_3=0werden nicht gemacht.	
+Antwort_4=0gibt's immer.	
+
+[202]
+FZ1=
+FZ2=Was der Bauer nicht weiß ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1macht ihn nicht heiß.	
+Antwort_2=0bringt ihn in Schweiß.	
+Antwort_3=0macht ihn ganz heiß.	
+Antwort_4=0kostet viel Schweiß.	
+
+[203]
+FZ1=
+FZ2=Ein blindes Huhn ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1findet auch mal ein Korn.	
+Antwort_2=0verläuft sich im Korn.	
+Antwort_3=0trinkt auch gern einen Korn.	
+Antwort_4=0ist zum Brathuhn gebor'n.	
+
+[204]
+FZ1=
+FZ2=Nur die Besten ...
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1sterben jung.	
+Antwort_2=0kommen durch.	
+Antwort_3=0werden alt.	
+Antwort_4=0singen laut.	
+
+[205]
+FZ1=
+FZ2=Selbsterkenntnis ...
+FZ3=
+Min=100
+Max=100
+Antwort_1=1ist der erste Weg zur Besserung.	
+Antwort_2=0ist besser als gar nichts.	
+Antwort_3=0hilft auch nichts mehr.	
+Antwort_4=0hat schon vielen geholfen.	
+
+[206]
+FZ1=
+FZ2=Kleine Geschenke ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1erhalten die Freundschaft.	
+Antwort_2=0lohnen sich nicht.	
+Antwort_3=0kosten nicht viel.	
+Antwort_4=0sind eher peinlich.	
+
+[207]
+FZ1=
+FZ2=Einem geschenkten Gaul ...
+FZ3=
+Min=0
+Max=0
+Antwort_1=1schaut man nicht ins Maul.	
+Antwort_2=0krault man das Maul.	
+Antwort_3=0fasst man nicht ins Maul.	
+Antwort_4=0küsst man nicht die Hufe.	
+
+[208]
+FZ1=
+FZ2=Arbeit
+FZ3=
+Min=0
+Max=0
+Antwort_1=1adelt!	
+Antwort_2=0tadelt!	
+Antwort_3=0radelt!	
+Antwort_4=0schadet!	
+
+[209]
+FZ1=
+FZ2=Schmiede das Eisen ...
+FZ3=
+Min=100
+Max=100
+Antwort_1=1solange es heiß ist.	
+Antwort_2=0damit es weich wird.	
+Antwort_3=0bevor es kalt wird.	
+Antwort_4=0bevor es weich wird.	
+
+[210]
+FZ1=
+FZ2=Der Spatz in der Hand
+FZ3=
+Min=100
+Max=100
+Antwort_1=1ist besser als	die Taube auf dem Dach.	
+Antwort_2=0ist nicht viel wert.	
+Antwort_3=0ist leichter	als die Taube auf dem Dach.	
+Antwort_4=0hackt kein Hühnerauge aus.	
+
+[211]
+FZ1=
+FZ2=Übermut
+FZ3=
+Min=0
+Max=0
+Antwort_1=1tut selten gut.	
+Antwort_2=0sei auf der Hut!	
+Antwort_3=0kommt vor dem Fall.	
+Antwort_4=0kommt nach dem Mut.	
+
+[212]
+FZ1=
+FZ2=In der Not
+FZ3=
+Min=100
+Max=100
+Antwort_1=1frisst der Teufel Fliegen.	
+Antwort_2=0lernt man zu teilen.	
+Antwort_3=0wird man erfinderisch.	
+Antwort_4=0wird alles rot.	
+
+[213]
+FZ1=
+FZ2=Keine Kette ist stärker
+FZ3=
+Min=200
+Max=200
+Antwort_1=1als ihr schwächstes Glied.	
+Antwort_2=0als ihr erstes Glied.	
+Antwort_3=0als ein dickes Seil.	
+Antwort_4=0als ihr letztes Glied.	
+
+[214]
+FZ1=
+FZ2=In der Kürze
+FZ3=
+Min=0
+Max=0
+Antwort_1=1liegt die Würze.	
+Antwort_2=0frisst der Teufel Fliegen.	
+Antwort_3=0hängt die Schürze.	
+Antwort_4=0liegt die Tiefe.	
+
+[215]
+FZ1=
+FZ2=Wer zuletzt lacht,
+FZ3=
+Min=0
+Max=0
+Antwort_1=1lacht am besten.	
+Antwort_2=0hat den Witz nicht verstanden.	
+Antwort_3=0hat die längste Leitung	
+Antwort_4=0hat mehr davon.	
+
+[216]
+FZ1=
+FZ2=#Pflanzen
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[217]
+FZ1=
+FZ2=Eine Fleisch fressende Pflanze ist der
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Sonnentau	
+Antwort_2=0Wolkenregen	
+Antwort_3=0Mondschnee	
+Antwort_4=0Nachthagel	
+
+[218]
+FZ1=
+FZ2=Welche dieser Pilzarten fordert beinahe jedes Jahr Menschenleben?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Bovist	
+Antwort_2=0Anischampignon	
+Antwort_3=1Knollenblätterpilz	
+Antwort_4=0Fliegenpilz	
+
+[219]
+FZ1=
+FZ2=Ein guter Speisepilz ist der
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Steinpilz	
+Antwort_2=0Stahlpilz	
+Antwort_3=0Holzpilz	
+Antwort_4=0Betonpilz	
+
+[220]
+FZ1=
+FZ2=Kein Laubbaum ist die
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Lärche	
+Antwort_2=0Buche	
+Antwort_3=0Eiche	
+Antwort_4=0Linde	
+
+[221]
+FZ1=
+FZ2=Keine Getreideart ist
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0Roggen	
+Antwort_2=1Raps	
+Antwort_3=0Weizen	
+Antwort_4=0Hafer	
+
+[222]
+FZ1=
+FZ2=#Tiere
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[223]
+FZ1=
+FZ2=Was gehört nicht zu den Beutetieren des Eisbären ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Robben	
+Antwort_2=0Seelöwen	
+Antwort_3=1Pinguine	
+Antwort_4=0Fische	
+
+[224]
+FZ1=
+FZ2=Kein Säugetier ist der
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Walhai	
+Antwort_2=0Blauwal	
+Antwort_3=0Pottwal	
+Antwort_4=0Orca	
+
+[225]
+FZ1=
+FZ2=Ein Vogel passt hier nicht:
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Wanderfalke	
+Antwort_2=0Rotkehlchen	
+Antwort_3=0Blaumeise	
+Antwort_4=0Zaunkönig	
+
+[226]
+FZ1=
+FZ2=Kein Greifvogel
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Zaunkönig	
+Antwort_2=0Roter Milan	
+Antwort_3=0Bussard	
+Antwort_4=0Habicht	
+
+[227]
+FZ1=
+FZ2=Eine Pärchen passt nicht zusammen
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Fohlen - Rind	
+Antwort_2=0Frischling - Wildschwein	
+Antwort_3=0Welpe - Hund	
+Antwort_4=0Küken - Huhn	
+
+[228]
+FZ1=
+FZ2=Wie heißen die Jungen beim Hund
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Welpen	
+Antwort_2=0Küken	
+Antwort_3=0Fohlen	
+Antwort_4=0Ferkel	
+
+[229]
+FZ1=
+FZ2=Wie nennt man das weibliche Reh ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Ricke	
+Antwort_2=0Stute	
+Antwort_3=0Sau	
+Antwort_4=0Henne	
+
+[230]
+FZ1=
+FZ2=Wie nennt man das Männchen beim Hund ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Rüde	
+Antwort_2=0Hengst	
+Antwort_3=0Eber	
+Antwort_4=0Rüdiger	
+
+[231]
+FZ1=
+FZ2=Wie nennt man das männliche Pferd ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Hengst	
+Antwort_2=0Rüde	
+Antwort_3=0Bock	
+Antwort_4=0Eber	
+
+[232]
+FZ1=
+FZ2=Wie nennt man das männliche Schwein ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Eber	
+Antwort_2=0Erpel	
+Antwort_3=0Bock	
+Antwort_4=0Hengst	
+
+[233]
+FZ1=
+FZ2=Wie nennt man eine männliche Katze ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Kater	
+Antwort_2=0Erpel	
+Antwort_3=0Katzerich	
+Antwort_4=0Katzenbock	
+
+[234]
+FZ1=
+FZ2=Wie nennt man ein männliches Schaf ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Bock	
+Antwort_2=0Eber	
+Antwort_3=0Hengst	
+Antwort_4=0Rüde	
+
+[235]
+FZ1=
+FZ2=Eine dieser Zuordnungen stimmt nicht
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Kaulquappe - Forelle	
+Antwort_2=0Mensch - Schimpanse	
+Antwort_3=0Hund - Wolf	
+Antwort_4=0Katze - Löwe	
+
+[236]
+FZ1=
+FZ2=Wo liegt die ursprüngliche Heimat des Wellensittichs ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Australien	
+Antwort_2=0Indien	
+Antwort_3=0Südamerika	
+Antwort_4=0Afrika	
+
+[237]
+FZ1=
+FZ2=Wie viele Chromosomen enthält eine menschliche Samenzelle ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=123	
+Antwort_2=046	
+Antwort_3=022	
+Antwort_4=044	
+
+[238]
+FZ1=
+FZ2=#Deutsch
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[239]
+FZ1=
+FZ2=Kein Satzteil ist
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Nomen	
+Antwort_2=0Subjekt	
+Antwort_3=0Prädikat	
+Antwort_4=0Objekt	
+
+[240]
+FZ1=Bestimme den Satzteil:
+FZ2=Rotkäppchen bringt [* seiner Oma *] das Abendessen.
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Dativobjekt	
+Antwort_2=0Subjekt	
+Antwort_3=0Prädikat	
+Antwort_4=0Akkusativobjekt	
+
+[241]
+FZ1=Bestimme den Satzteil:
+FZ2=Rotkäppchen bringt seiner Oma [* das Abendessen *] .
+FZ3=
+Min=500
+Max=500
+Antwort_1=0Dativobjekt	
+Antwort_2=0Subjekt	
+Antwort_3=0Prädikat	
+Antwort_4=1Akkusativobjekt	
+
+[242]
+FZ1=Bestimme den Satzteil:
+FZ2=Rotkäppchen  [* bringt  *] seiner Oma das Abendessen.
+FZ3=
+Min=500
+Max=500
+Antwort_1=0Dativobjekt	
+Antwort_2=0Subjekt	
+Antwort_3=1Prädikat	
+Antwort_4=0Akkusativobjekt	
+
+[243]
+FZ1=Bestimme den Satzteil:
+FZ2=[* Rotkäppchen *] bringt seiner Oma das Abendessen.
+FZ3=
+Min=500
+Max=500
+Antwort_1=0Dativobjekt	
+Antwort_2=1Subjekt	
+Antwort_3=0Prädikat	
+Antwort_4=0Akkusativobjekt	
+
+[244]
+FZ1=Bestimme den Satzteil:
+FZ2= [*Hat*] Bayern München den Schalkern  die Meisterschaft
+FZ3=vor der Nase [* weggeschnappt*]?
+Min=500
+Max=500
+Antwort_1=0Dativobjekt	
+Antwort_2=0Subjekt	
+Antwort_3=1Prädikat	
+Antwort_4=0Akkusativobjekt	
+
+[245]
+FZ1=Bestimme den Satzteil:
+FZ2=Hat Bayern München [* den Schalkern *] die Meisterschaft
+FZ3=vor der Nase weggeschnappt?
+Min=500
+Max=500
+Antwort_1=1Dativobjekt	
+Antwort_2=0Subjekt	
+Antwort_3=0Prädikat	
+Antwort_4=0Akkusativobjekt	
+
+[246]
+FZ1=Bestimme den Satzteil:
+FZ2=Hat Bayern München den Schalkern [* die Meisterschaft *]
+FZ3=vor der Nase weggeschnappt?
+Min=500
+Max=500
+Antwort_1=0Dativobjekt	
+Antwort_2=0Subjekt	
+Antwort_3=0Prädikat	
+Antwort_4=1Akkusativobjekt	
+
+[247]
+FZ1=Bestimme den Satzteil:
+FZ2=Hat [* Bayern München *] den Schalkern die Meisterschaft
+FZ3=vor der Nase weggeschnappt?
+Min=500
+Max=500
+Antwort_1=0Dativobjekt	
+Antwort_2=1Subjekt	
+Antwort_3=0Prädikat	
+Antwort_4=0Akkusativobjekt	
+
+[248]
+FZ1=
+FZ2=Nicht von Shakespeare ist :
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Des Widerspenstigen Zähmung	
+Antwort_2=0Ein Sommernachtstraum	
+Antwort_3=0Romeo und Julia	
+Antwort_4=0Was ihr wollt	
+
+[249]
+FZ1=
+FZ2=Kein Verb:
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Gedanke	
+Antwort_2=0denken	
+Antwort_3=0bringen	
+Antwort_4=0gewinnen	
+
+[250]
+FZ1=
+FZ2=Kein Verb:
+FZ3=
+Min=500
+Max=500
+Antwort_1=1gewaltig	
+Antwort_2=0springen	
+Antwort_3=0genesen	
+Antwort_4=0lesen	
+
+[251]
+FZ1=Bestimme die Zeit:
+FZ2=Hans hatte vor seinem Sieg überhaupt nicht trainiert.
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Plusquamperfekt	
+Antwort_2=0Perfekt	
+Antwort_3=0Imperfekt	
+Antwort_4=0Präsens	
+
+[252]
+FZ1=Bestimme die Zeit:
+FZ2=Hans hat vor seinem Sieg überhaupt nicht trainiert.
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Perfekt	
+Antwort_2=0Imperfekt	
+Antwort_3=0Plusquamperfekt	
+Antwort_4=0Präsens	
+
+[253]
+FZ1=
+FZ2=#Mathematik
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[254]
+FZ1=Wie groß ist der kleinste Winkel
+FZ2=in einem rechtwinklig gleichschenkligen Dreieck ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=090°	
+Antwort_2=075°	
+Antwort_3=060°	
+Antwort_4=145°	
+
+[255]
+FZ1=
+FZ2=Wie groß ist der größte Wikel in einem gleichseitigen Dreieck ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=160°	
+Antwort_2=0120°	
+Antwort_3=045°	
+Antwort_4=0100°	
+
+[256]
+FZ1=
+FZ2=Welche Zahl ist gemeint, wenn ein Taschenrechner 3.45 E03 anzeigt ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0345	
+Antwort_2=03,45 Euro	
+Antwort_3=13450	
+Antwort_4=03,45	
+
+[257]
+FZ1=
+FZ2=Wie viele Ecken hat ein Trapez?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1vier	
+Antwort_2=0fünf	
+Antwort_3=0drei	
+Antwort_4=0keine	
+
+[258]
+FZ1=
+FZ2=Wie viele Ecken hat ein Parallelogramm ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1vier	
+Antwort_2=0fünf	
+Antwort_3=0drei	
+Antwort_4=0keine	
+
+[259]
+FZ1=
+FZ2=Wie viele Ecken hat ein Quader ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1acht	
+Antwort_2=0vier	
+Antwort_3=0zwölf	
+Antwort_4=0sechs	
+
+[260]
+FZ1=
+FZ2=Wie viele Ecken hat ein Würfel?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1acht	
+Antwort_2=0vier	
+Antwort_3=0zwölf	
+Antwort_4=0sechs	
+
+[261]
+FZ1=
+FZ2=Wie viele Ecken hat Viereckspyramide ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1fünf	
+Antwort_2=0vier	
+Antwort_3=0drei	
+Antwort_4=0sechs	
+
+[262]
+FZ1=
+FZ2=Wie viele Ecken hat eine Dreieckspyramide ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1vier	
+Antwort_2=0fünf	
+Antwort_3=0drei	
+Antwort_4=0sechs	
+
+[263]
+FZ1=
+FZ2=Wie viele Kanten hat ein Dreiecksprisma?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1neun	
+Antwort_2=0zwölf	
+Antwort_3=0drei	
+Antwort_4=0sechs	
+
+[264]
+FZ1=
+FZ2=Wie viele Ecken hat ein Dreiecksprisma?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0vier	
+Antwort_2=0fünf	
+Antwort_3=0drei	
+Antwort_4=1sechs	
+
+[265]
+FZ1=
+FZ2=Eine Zahl ist durch 9 teilbar, wenn
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1ihre Quersumme durch 9 teilbar ist.	
+Antwort_2=0die letzte Stelle durch 9 teilbar ist.	
+Antwort_3=0die letzten beiden Stellen	durch 9 teilbar sind.	
+Antwort_4=0Wenn die letzte Stelle eine 0 ist.	
+
+[266]
+FZ1=
+FZ2=Welche dieser Zahlen ist durch 9 ohne Rest teilbar ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=14365	
+Antwort_2=04366	
+Antwort_3=04367	
+Antwort_4=04368	
+
+[267]
+FZ1=
+FZ2=Welche dieser Zahlen ist durch 9 ohne Rest teilbar ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=0196	
+Antwort_2=0197	
+Antwort_3=1198	
+Antwort_4=0199	
+
+[268]
+FZ1=
+FZ2=Welche dieser Zahlen ist ohne Rest durch 4 teilbar
+FZ3=
+Min=500
+Max=500
+Antwort_1=1245.612	
+Antwort_2=0245.613	
+Antwort_3=0245.614	
+Antwort_4=0245.611	
+
+[269]
+FZ1=
+FZ2=Welche dieser Zahlen ist ohne Rest durch 4 teilbar
+FZ3=
+Min=500
+Max=500
+Antwort_1=117232	
+Antwort_2=017234	
+Antwort_3=017233	
+Antwort_4=017235	
+
+[270]
+FZ1=
+FZ2=Welche dieser Zahlen ist *nicht* ohne Rest durch 5 teilbar
+FZ3=
+Min=500
+Max=500
+Antwort_1=117.233	
+Antwort_2=017.230	
+Antwort_3=017.235	
+Antwort_4=017.240	
+
+[271]
+FZ1=
+FZ2=Welche dieser Zahlen ist ohne Rest durch 5 teilbar
+FZ3=
+Min=500
+Max=500
+Antwort_1=1456.720	
+Antwort_2=0456.723	
+Antwort_3=0456.722	
+Antwort_4=0456.724	
+
+[272]
+FZ1=
+FZ2=Welche dieser Zahlen ist *nicht* ohne Rest durch 5 teilbar
+FZ3=
+Min=500
+Max=500
+Antwort_1=012.456.720	
+Antwort_2=012.456.755	
+Antwort_3=012.456.700	
+Antwort_4=112.456.723	
+
+[273]
+FZ1=
+FZ2=Entsteht sicher nicht beim Durchschneiden eines Kegels mit einer Ebene
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Hexagon	
+Antwort_2=0Parabel	
+Antwort_3=0Hyperbel	
+Antwort_4=0Ellipse	
+
+[274]
+FZ1=Um welchen Dreieckstyp handelt es sich, wenn
+FZ2=Alpha = 92° und Beta = 44° ist ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0rechtwinkliges Dreieck	
+Antwort_2=1gleichschenkliges Dreieck	
+Antwort_3=0spitzwinkliges Dreieck	
+Antwort_4=0gleichseitiges Dreieck	
+
+[275]
+FZ1=Tetraeder, Oktaeder, Würfel, Dodekaeder und Ikosaeder
+FZ2=sind platonische Körper.
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1stimmt	
+Antwort_2=0stimmt für drei davon	
+Antwort_3=0stimmt für vier davon	
+Antwort_4=0stimmt für zwei davon	
+
+[276]
+FZ1=
+FZ2=Welches Pärchen passt nicht zusammen ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Produkt - Divisor	
+Antwort_2=0Differenz - Minuend	
+Antwort_3=0Summe - Summand	
+Antwort_4=0Quotient - Dividend	
+
+[277]
+FZ1=
+FZ2=30m ist genauso lang wie
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=03000mm	
+Antwort_2=03000dm	
+Antwort_3=10,030km	
+Antwort_4=0300cm	
+
+[278]
+FZ1=
+FZ2=70mm ist genauso lang wie
+FZ3=
+Min=300
+Max=300
+Antwort_1=07m	
+Antwort_2=07dm	
+Antwort_3=17cm	
+Antwort_4=07km	
+
+[279]
+FZ1=
+FZ2=5132mm sind genauso lang wie
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=05,132cm	
+Antwort_2=15,132m	
+Antwort_3=05,132dm	
+Antwort_4=05,132km	
+
+[280]
+FZ1=
+FZ2=4,6m =
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0460km	
+Antwort_2=1460cm	
+Antwort_3=0460mm	
+Antwort_4=0460dm	
+
+[281]
+FZ1=
+FZ2=24km =
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=024000cm	
+Antwort_2=024000dm	
+Antwort_3=024000mm	
+Antwort_4=124000m	
+
+[282]
+FZ1=
+FZ2=5,6dm =
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=056mm	
+Antwort_2=056m	
+Antwort_3=156cm	
+Antwort_4=00,56cm	
+
+[283]
+FZ1=
+FZ2=165cm =
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=00,165km	
+Antwort_2=016,5mm	
+Antwort_3=11,65m	
+Antwort_4=01,65dm	
+
+[284]
+FZ1=
+FZ2=5m =
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=050cm	
+Antwort_2=05000cm	
+Antwort_3=1500cm	
+Antwort_4=00,5cm	
+
+[285]
+FZ1=
+FZ2=45dm =
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=04,5cm	
+Antwort_2=14,5m	
+Antwort_3=04,5mm	
+Antwort_4=04,5km	
+
+[286]
+FZ1=
+FZ2=23mm =
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=12,3cm	
+Antwort_2=02,3dm	
+Antwort_3=02,3m	
+Antwort_4=00,023km	
+
+[287]
+FZ1=
+FZ2=1,3m =
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=013cm	
+Antwort_2=013mm	
+Antwort_3=113dm	
+Antwort_4=013km	
+
+[288]
+FZ1=
+FZ2=200 cm²  =
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=12 dm²	
+Antwort_2=020 dm²	
+Antwort_3=00,2 dm²	
+Antwort_4=00,02 dm²	
+
+[289]
+FZ1=
+FZ2=3 m²  =
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=130.000 cm²	
+Antwort_2=0300 cm²	
+Antwort_3=03.000 cm²	
+Antwort_4=0300.000 cm²	
+
+[290]
+FZ1=
+FZ2=23 cm³ =
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=10,023 dm³	
+Antwort_2=00,23 dm³	
+Antwort_3=00,0023 dm³	
+Antwort_4=02,3 dm³	
+
+[291]
+FZ1=
+FZ2=#Physik
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[292]
+FZ1=
+FZ2=Welches dieser Gase eignet sich *nicht* für den Bau eines Luftschiffs ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Kohlendioxid	
+Antwort_2=0Wasserstoff	
+Antwort_3=0Helium	
+Antwort_4=0heiße Luft	
+
+[293]
+FZ1=
+FZ2=Welchen Namen trugen zwei Sonden, die 1975 zum Mars flogen und dort landeten?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Viking	
+Antwort_2=0Orbiter	
+Antwort_3=0Columbia	
+Antwort_4=0Enterprise	
+
+[294]
+FZ1=
+FZ2=Nordpol und Südpol eines Magneten ziehen sich an.
+FZ3=
+Min=500
+Max=500
+Antwort_1=1stimmt	
+Antwort_2=0nur bei Hufeisenmagneten	
+Antwort_3=0stimmt nicht	
+Antwort_4=0nur bei Stabmagneten	
+
+[295]
+FZ1=
+FZ2=Zwei positiv geladene Teilchen stoßen sich ab.
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0stimmt nicht	
+Antwort_2=1stimmt	
+Antwort_3=0stimmt im Vakuum	
+Antwort_4=0stimmt in der Schwerelosigkeit	
+
+[296]
+FZ1=
+FZ2=Welche Spannung hat eine normale Autobatterie?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=112 V	
+Antwort_2=024 V	
+Antwort_3=06 V	
+Antwort_4=04,5 V	
+
+[297]
+FZ1=
+FZ2=Zwei negativ geladene Teilchen stoßen sich ab.
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0stimmt nicht	
+Antwort_2=1stimmt	
+Antwort_3=0stimmt im Vakuum	
+Antwort_4=0stimmt nur, wenn die Teilchen	
+
+[298]
+FZ1=
+FZ2=Wer gilt als Entdecker der Kernspaltung ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Otto Hahn	
+Antwort_2=0Robert Oppenheimer	
+Antwort_3=0Albert Einstein	
+Antwort_4=0Max Planck	
+
+[299]
+FZ1=
+FZ2=Wer erfand die Luftpumpe ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0Werner von Siemens	
+Antwort_2=0Thomas Edison	
+Antwort_3=0Antoine Lavoisier	
+Antwort_4=1Otto von Guericke	
+
+[300]
+FZ1=
+FZ2=Woher stammt der Begriff »Elektron« ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1griechisch: Bernstein	
+Antwort_2=0englisch: Elementarteilchen	
+Antwort_3=0lateinisch: Ladung	
+Antwort_4=0französisch: geladenes Teilchen	
+
+[301]
+FZ1=
+FZ2=Welche Geschwindigkeit kann ein Körper höchstens erreichen ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1300.000.000 m/s	
+Antwort_2=030.000.000 m/s	
+Antwort_3=0Schallgeschwindigkeit	
+Antwort_4=03.000.000.000 m/s	
+
+[302]
+FZ1=
+FZ2=Welches dieser Teilchen hat die größte Masse?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Neutron	
+Antwort_2=0Elektron	
+Antwort_3=0Proton	
+Antwort_4=0Positron	
+
+[303]
+FZ1=
+FZ2=Was ist schwerer: Ein Kilo Blei, ein Kilo Eisen oder ein Kilo Bettfedern ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1alles gleich schwer	
+Antwort_2=0Bettfedern	
+Antwort_3=0Blei	
+Antwort_4=0Eisen	
+
+[304]
+FZ1=
+FZ2=Welches dieser Metalle ist magnetisch ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Eisen	
+Antwort_2=0Kupfer	
+Antwort_3=0Magnesium	
+Antwort_4=0Aluminium	
+
+[305]
+FZ1=
+FZ2=Welches dieser Metalle ist magnetisch ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Platin	
+Antwort_2=0Magnesium	
+Antwort_3=0Kupfer	
+Antwort_4=1Kobalt	
+
+[306]
+FZ1=
+FZ2=Welches dieser Metalle ist nicht magnetisch ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Kupfer	
+Antwort_2=0Nickel	
+Antwort_3=0Eisen	
+Antwort_4=0Kobalt	
+
+[307]
+FZ1=
+FZ2=Nur eine Formel stimmt :
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1U = R · I	
+Antwort_2=0I = R · U	
+Antwort_3=0R = U · I	
+Antwort_4=0U = R / I	
+
+[308]
+FZ1=
+FZ2=Nur eine Formel stimmt :
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Geschwindigkeit ist Weg durch Zeit	
+Antwort_2=0Geschwindigkeit ist Weg mal Zeit	
+Antwort_3=0Geschwindigkeit ist Zeit durch Weg	
+Antwort_4=0Geschwindigkeit ist Zeit mal Weg	
+
+[309]
+FZ1=
+FZ2=Ein Begriff passt hier nicht
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0Kathode	
+Antwort_2=0Gitter	
+Antwort_3=0Anode	
+Antwort_4=1Kollektor	
+
+[310]
+FZ1=
+FZ2=Ein Begriff passt hier nicht
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Kathode	
+Antwort_2=0Emitter	
+Antwort_3=0Kollektor	
+Antwort_4=0Basis	
+
+[311]
+FZ1=
+FZ2=Welche Kraft hält die Planeten unseres Sonnensystems auf ihren Bahnen ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Gravitation	
+Antwort_2=0Magnetismus	
+Antwort_3=0Starke Wechselwirkung	
+Antwort_4=0Himmelsmechanik	
+
+[312]
+FZ1=
+FZ2=Wer hat herausgefunden, dass die Sonne im Zentrum des Sonnensystems steht?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Galilei	
+Antwort_2=1Kopernikus	
+Antwort_3=0Einstein	
+Antwort_4=0Gutenberg	
+
+[313]
+FZ1=
+FZ2=Was gehört zu einem Magneten?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Nordpol und Südpol	
+Antwort_2=0Pluspol und Minuspol	
+Antwort_3=0Ostpol und Westpol	
+Antwort_4=0Nordkap und Südkap	
+
+[314]
+FZ1=
+FZ2=Bei einem Flaschenzug mit vier Rollen beträgt die aufzuwendende Kraft
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=11/4 der Last.	
+Antwort_2=01/3 der Last.	
+Antwort_3=0die Hälfte der Last.	
+Antwort_4=01/8 der Last.	
+
+[315]
+FZ1=
+FZ2=In welcher Einheit wird der elektrische Strom gemessen?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Ampere	
+Antwort_2=0Ohm	
+Antwort_3=0Volt	
+Antwort_4=0Sekunden	
+
+[316]
+FZ1=
+FZ2=In welcher Einheit wird die elektrische Spannung gemessen?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Ampere	
+Antwort_2=0Ohm	
+Antwort_3=1Volt	
+Antwort_4=0Sekunden	
+
+[317]
+FZ1=
+FZ2=In welcher Einheit wird in der Physik die Kraft gemessen ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Newton	
+Antwort_2=0Hectopascal	
+Antwort_3=0Ampere	
+Antwort_4=0Euro	
+
+[318]
+FZ1=
+FZ2=Welcher Motor braucht keine Zündkerzen ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Dieselmotor	
+Antwort_2=0Zweitaktmotor	
+Antwort_3=0Viertaktmotor	
+Antwort_4=0Wankelmotor	
+
+[319]
+FZ1=
+FZ2=#Allgemeinwissen
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig	
+Antwort_2=0falsch	
+Antwort_3=0falsch	
+Antwort_4=0falsch	
+
+[320]
+FZ1=
+FZ2=Was wurde früher zur Beförderung eiliger Nachrichten oft eingesetzt ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Brieftauben	
+Antwort_2=0Briefschweine	
+Antwort_3=0Briefhunde	
+Antwort_4=0Briefkutschen	
+
+[321]
+FZ1=
+FZ2=Wie hieß der »Volkswagen« der DDR?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0Hydrant	
+Antwort_2=1Trabant	
+Antwort_3=0Sextant	
+Antwort_4=0Wartburg	
+
+[322]
+FZ1=
+FZ2=Aus welchem Land stammt die leckere Milchspeise Joghurt ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Türkei	
+Antwort_2=0Frankreich	
+Antwort_3=0England	
+Antwort_4=0Italien	
+
+[323]
+FZ1=
+FZ2=Wer baute in Deutschland das erste erfolgreiche lenkbare Luftschiff ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Graf Zeppelin	
+Antwort_2=0Graf Zampano	
+Antwort_3=0Graf Zipperlein	
+Antwort_4=0Fürst Pückler	
+
+[324]
+FZ1=
+FZ2=Wofür stehen die Buchstaben ADAC ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0Erster Computer	
+Antwort_2=0moderner Tanz	
+Antwort_3=1Automobilclub	
+Antwort_4=0Heavy Metal Band	
+
+[325]
+FZ1=
+FZ2=Was ist hier falsch ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=0Hammer	
+Antwort_2=0Amboss	
+Antwort_3=1Meißel	
+Antwort_4=0Steigbügel	
+
+[326]
+FZ1=
+FZ2=Ein undichtes Boot … 
+FZ3=
+Min=100
+Max=100
+Antwort_1=1… leckt.	
+Antwort_2=0… kaut.	
+Antwort_3=0… schluckt.	
+Antwort_4=0… lutscht.	
+
+[327]
+FZ1=
+FZ2=Wer passt nicht zu den anderen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=0Hermes	
+Antwort_2=0Poseidon	
+Antwort_3=1Odysseus	
+Antwort_4=0Hera	
+
+[328]
+FZ1=
+FZ2=Wer war der erste Mensch im Weltraum ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=0John Glenn	
+Antwort_2=1Juri Gagarin	
+Antwort_3=0Neil Armstrong	
+Antwort_4=0Edwin Aldrin	
+
+[329]
+FZ1=
+FZ2=Wie hieß das Schiff des Meeresforscher Jaques Cousteau?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Calypso	
+Antwort_2=0Titanic	
+Antwort_3=0Rumba	
+Antwort_4=0Jaquada	
+
+[330]
+FZ1=
+FZ2=Wie nennt man einen Heißluftballon auch ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Gondel
+Antwort_2=1Montgolfiere
+Antwort_3=0Sportballon
+Antwort_4=0Buckingham
+
+[331]
+FZ1=
+FZ2=Nicht zu den zwölf Aposteln gehörte
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=0Andreas
+Antwort_2=0Thomas
+Antwort_3=1Benedikt
+Antwort_4=0Bartholomäus
+
+[332]
+FZ1=
+FZ2=Welcher Name verbirgt sich hinter dem Pseudonym »Junker Jörg« ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=0Jörg von Berlichingen
+Antwort_2=1Martin Luther
+Antwort_3=0Jörg Pilawa
+Antwort_4=0Karl der Große
+
+[333]
+FZ1=
+FZ2=Welche »Schwarze Kunst« gibt es seit etwa 1440 ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Nachtwächter
+Antwort_2=0afrikanisches Beschneidungsritual
+Antwort_3=1Buchdruck
+Antwort_4=0Teufelsmessen
+
+[334]
+FZ1=Wie nennt man den Gewinn, den eine Aktiengesellschaft
+FZ2=periodisch an die Aktionäre ausschüttet?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Dividende
+Antwort_2=0Divisor
+Antwort_3=0Minuende
+Antwort_4=0Subtrahende
+
+[335]
+FZ1=
+FZ2=Tierkreiszeichen
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0Messer
+Antwort_2=1Waage
+Antwort_3=0Spiegel
+Antwort_4=0Bürste
+
+[336]
+FZ1=
+FZ2=Welcher Monat liegt zwischen März und April ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1keiner
+Antwort_2=0Mai
+Antwort_3=0Juni
+Antwort_4=0Februar
+
+[337]
+FZ1=
+FZ2=Welcher Monat liegt zwischen Juli und September?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1August
+Antwort_2=0Oktober
+Antwort_3=0Juni
+Antwort_4=0Januar
+
+[338]
+FZ1=
+FZ2=Welcher Monat kommt vor dem Januar ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Dezember
+Antwort_2=0Februar
+Antwort_3=0November
+Antwort_4=0März
+
+[339]
+FZ1=
+FZ2=Wie oft gibt es den 29. Februar ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0jedes Jahr
+Antwort_2=1alle vier Jahre
+Antwort_3=0alle 100 Jahre
+Antwort_4=0überhaupt nicht
+
+[340]
+FZ1=
+FZ2=Wie oft gibt es den 28. Februar ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1jedes Jahr
+Antwort_2=0alle vier Jahre
+Antwort_3=0alle 100 Jahre
+Antwort_4=0überhaupt nicht
+
+[341]
+FZ1=
+FZ2=Wie oft gibt es den 31. Februar ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=0jedes Jahr
+Antwort_2=0alle vier Jahre
+Antwort_3=0alle 100 Jahre
+Antwort_4=1überhaupt nicht
+
+[342]
+FZ1=
+FZ2=#Chemie
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+
+[343]
+FZ1=
+FZ2=Ein Kation hat
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=0mehr Elektronen als Protonen
+Antwort_2=0gleich viel Elektronen wie Protonen
+Antwort_3=1mehr Protonen als Elektronen
+Antwort_4=0keine Elektronen
+
+[344]
+FZ1=
+FZ2=Ein Anion hat
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1mehr Elektronen als Protonen
+Antwort_2=0gleich viel Elektronen wie Protonen
+Antwort_3=0mehr Protonen als Elektronen
+Antwort_4=0keine Elektronen
+
+[345]
+FZ1=
+FZ2=Ein Element passt nicht zu den anderen:
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Calcium
+Antwort_2=0Lithium
+Antwort_3=0Natrium
+Antwort_4=0Kalium
+
+[346]
+FZ1=
+FZ2=Ein Element passt nicht zu den anderen:
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Kohlenstoff
+Antwort_2=0Wasserstoff
+Antwort_3=0Sauerstoff
+Antwort_4=0Stickstoff
+
+[347]
+FZ1=
+FZ2=Ein Element passt nicht zu den anderen:
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Helium
+Antwort_2=0Fluor
+Antwort_3=0Chlor
+Antwort_4=0Brom
+
+[348]
+FZ1=
+FZ2=Was passiert, wenn man ein Gemisch aus Sauerstoff und Helium entzündet?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Es passiert nichts.
+Antwort_2=0Es brennt ganz schwach.
+Antwort_3=0Es explodiert.
+Antwort_4=0Das hängt vom Mischungsverhältnis ab.
+
+[349]
+FZ1=
+FZ2=Welcher dieser Stoffe hat das geringste spezifische Gewicht ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Wasserstoff
+Antwort_2=0Helium
+Antwort_3=0Sauerstoff
+Antwort_4=0Stickstoff
+
+[350]
+FZ1=
+FZ2=Welcher dieser vier Stoffe hat das größte spezifische Gewicht ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=0Blei
+Antwort_2=1Gold
+Antwort_3=0Eisen
+Antwort_4=0Kupfer
+
+[351]
+FZ1=
+FZ2=Welcher dieser vier Stoffe hat das größte spezifische Gewicht ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Blei
+Antwort_2=0Aluminium
+Antwort_3=0Wasser
+Antwort_4=0Luft
+
+[352]
+FZ1=
+FZ2=Kein Kohlenstoff
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Flußspat
+Antwort_2=0Grphit
+Antwort_3=0Diamant
+Antwort_4=0Ruß
+
+[353]
+FZ1=
+FZ2=Was entsteht, wenn Eisen mit Schwefel direkt reagiert ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Eisensulfid
+Antwort_2=0Eisensulfat
+Antwort_3=0Eisensulfit
+Antwort_4=0Eisenoxid
+
+[354]
+FZ1=Wie nennt der Chemiker einen Stoff, der chemische Reaktionen bewirkt und zum
+FZ2=Nachweis von Elementen oder Verbindungen dient?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Reagenz
+Antwort_2=0Inflorenz
+Antwort_3=0Influenz
+Antwort_4=0Katalysator
+
+[355]
+FZ1=
+FZ2=Wieviele Wasserstoffatome enthält ein Molekül Butan ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1zehn
+Antwort_2=0acht
+Antwort_3=0zwölf
+Antwort_4=0sechs
+
+[356]
+FZ1=
+FZ2=Kohlenwasserstoff mit drei Kohlenstoffatomen
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Propan
+Antwort_2=0Pentan
+Antwort_3=0Butan
+Antwort_4=0Ethan
+
+[357]
+FZ1=
+FZ2=#Fremdwörter
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+
+[358]
+FZ1=
+FZ2=Fachwort für Blattgrün
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Chlorophyll
+Antwort_2=0Chloroform
+Antwort_3=0Chlorodont
+Antwort_4=0Chlor No V
+
+[359]
+FZ1=
+FZ2=#Wo ist
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+
+[360]
+FZ1=
+FZ2=Der schiefe Turm von ...
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Pisa
+Antwort_2=0Neapel
+Antwort_3=0Torin
+Antwort_4=0Mailand
+
+[361]
+FZ1=
+FZ2=Wo steht die Freiheitsstatue ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1New York
+Antwort_2=0Washington
+Antwort_3=0Dallas
+Antwort_4=0Houston
+
+[362]
+FZ1=
+FZ2=Wo steht das Schokoladenmuseum ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Köln
+Antwort_2=0Düsseldorf
+Antwort_3=0Bonn
+Antwort_4=0Paderborn
+
+[363]
+FZ1=
+FZ2=Wann entdeckte Kolumbus Amerika ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=11492
+Antwort_2=01901
+Antwort_3=01399
+Antwort_4=01789
+
+[364]
+FZ1=
+FZ2=In welchem amerikanischen Bundesstaat wohnte Elvis Presley ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Tennessee
+Antwort_2=0Texas
+Antwort_3=0Hawai
+Antwort_4=0Alaska
+
+[365]
+FZ1=
+FZ2=Zu welchem Indianerstamm gehörte Winnetou ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Apachen
+Antwort_2=0Sioux
+Antwort_3=0Apalachen
+Antwort_4=0Irokesen
+
+[366]
+FZ1=
+FZ2=Wie heißen die amerikanischen Viehhirten ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Cowboys
+Antwort_2=0Ranger
+Antwort_3=0Farmer
+Antwort_4=0Maurer
+
+[367]
+FZ1=
+FZ2=Was ist keine amerikanische Automarke ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Volvo
+Antwort_2=0Ford
+Antwort_3=0Chevrolet
+Antwort_4=0Thunderbird
+
+[368]
+FZ1=
+FZ2=Spanisches Nationalgericht
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Paella
+Antwort_2=0Döner
+Antwort_3=0Pizza
+Antwort_4=0Suschi
+
+[369]
+FZ1=Welches Instrument ist sowohl in Bulgarien als auch in Rumänien als
+FZ2=Nationalinstrument bekannt ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Panflöte
+Antwort_2=0Balalaika
+Antwort_3=0Schlagzeug
+Antwort_4=0Mundorgel
+
+[370]
+FZ1=
+FZ2=Legt das größte Ei
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Strauß
+Antwort_2=0Gans
+Antwort_3=0Ente
+Antwort_4=0Fasan
+
+[371]
+FZ1=
+FZ2=Legt das kleinste Ei
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Kolibri
+Antwort_2=0Kakadu
+Antwort_3=0Wellensittich
+Antwort_4=0Bussard
+
+[372]
+FZ1=
+FZ2=Die Wortsilbe "Bio" bedeutet
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Leben
+Antwort_2=0Gesundheit
+Antwort_3=0Landwirtschaft
+Antwort_4=0giftfrei
+
+[373]
+FZ1=
+FZ2=Ausgewachsen der Schwerste
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Elefant
+Antwort_2=0Nashorn
+Antwort_3=0Nilpferd
+Antwort_4=0Giraffe
+
+[374]
+FZ1=
+FZ2=Kein Säugetier
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Wels
+Antwort_2=0Wolf
+Antwort_3=0Walroß
+Antwort_4=0Wisent
+
+[375]
+FZ1=
+FZ2=Wachsen unter der Erde
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Erdnüsse
+Antwort_2=0Haselnüsse
+Antwort_3=0Walnüsse
+Antwort_4=0Paranüsse
+
+[376]
+FZ1=
+FZ2=Giraffe, Elefant, Löwe, Feldhase haben sieben Halswirbel
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1stimmt für alle Tiere
+Antwort_2=0stimmt für drei Tiere
+Antwort_3=0stimmt für zwei Tiere
+Antwort_4=0stimmt für ein Tier
+
+[377]
+FZ1=
+FZ2=Kommt frei lebend nicht in Afrika vor
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Tiger
+Antwort_2=0Gepard
+Antwort_3=0Löwe
+Antwort_4=0Leopard
+
+[378]
+FZ1=
+FZ2=Die Pupillen der Katzenaugen stehen
+FZ3=
+Min=100
+Max=100
+Antwort_1=1senkrecht
+Antwort_2=0waagerecht
+Antwort_3=0diagonal
+Antwort_4=0Katzen haben keine Pupillen.
+
+[379]
+FZ1=
+FZ2=Ein Stichling ist
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1ein Fisch
+Antwort_2=0ein Vogel
+Antwort_3=0ein Skorpion
+Antwort_4=0eine Wespenart
+
+[380]
+FZ1=
+FZ2=Reißzähne sind besondere
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Backenzähne
+Antwort_2=0Schneidezähne
+Antwort_3=0Eckzähne
+Antwort_4=0Nagezähne
+
+[381]
+FZ1=
+FZ2=Wer gehört nicht zu den Rindermägen?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Schwammmagen
+Antwort_2=0Pansen
+Antwort_3=0Blättermagen
+Antwort_4=0Labmagen
+
+[382]
+FZ1=
+FZ2=Blütenstaub
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Pollen
+Antwort_2=0Staub auf der Blüte
+Antwort_3=0Farbstoffe der Blüte
+Antwort_4=0Blattlausbefall der Blüte
+
+[383]
+FZ1=
+FZ2=Kein Säugetier
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Pinguin
+Antwort_2=0Blauwal
+Antwort_3=0Delfin
+Antwort_4=0Fledermaus
+
+[384]
+FZ1=
+FZ2=Keine Zitrusfrucht
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Dattel
+Antwort_2=0Limone
+Antwort_3=0Orange
+Antwort_4=0Pampelmuse
+
+[385]
+FZ1=
+FZ2=Kein Schmetterling
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Totengräber
+Antwort_2=0Ritter
+Antwort_3=0Nonne
+Antwort_4=0Mönch
+
+[386]
+FZ1=
+FZ2=Zieht die Jungen nicht im Bau auf
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Hase
+Antwort_2=0Kaninchen
+Antwort_3=0Fuchs
+Antwort_4=0Dachs
+
+[387]
+FZ1=
+FZ2=Kein Reptil
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Piranha
+Antwort_2=0Krokodil
+Antwort_3=0Alligator
+Antwort_4=0Gecko
+
+[388]
+FZ1=
+FZ2=Keine Steinfrucht
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Birne
+Antwort_2=0Kirsche
+Antwort_3=0Pfirsich
+Antwort_4=0Pflaume
+
+[389]
+FZ1=
+FZ2=Hat keine Wirbelsäule
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Insekt
+Antwort_2=0Vogel
+Antwort_3=0Fisch
+Antwort_4=0Reptil
+
+[390]
+FZ1=
+FZ2=Ein Jungtier ist in der falschen Familie
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Geiß - Gössel
+Antwort_2=0Hund - Welpe
+Antwort_3=0Seehund - Heuler
+Antwort_4=0Reh - Kitz
+
+[391]
+FZ1=
+FZ2=Mauser
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Federwechsel
+Antwort_2=0Männliche Maus
+Antwort_3=0Mäusefänger
+Antwort_4=0Diebische Elster
+
+[392]
+FZ1=
+FZ2=Kein Süßwasserfisch
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Thunfisch
+Antwort_2=0Hecht
+Antwort_3=0Regenbogenforelle
+Antwort_4=0Zander
+
+[393]
+FZ1=
+FZ2=Kamel hat im Höcker
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Fett
+Antwort_2=0Wasser
+Antwort_3=0Junge
+Antwort_4=0Navigationsorgan
+
+[394]
+FZ1=
+FZ2=Kein Geweihträger
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Stier
+Antwort_2=0Elch
+Antwort_3=0Ren
+Antwort_4=0Rothirsch
+
+[395]
+FZ1=
+FZ2=Kein Federtier
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Knurrhahn
+Antwort_2=0Fasan
+Antwort_3=0Auerhahn
+Antwort_4=0Truthahn
+
+[396]
+FZ1=
+FZ2=Legt keine Eier
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Iltis
+Antwort_2=0Schnabeligel
+Antwort_3=0Sumpfschildkröte
+Antwort_4=0Kreuzotter
+
+[397]
+FZ1=
+FZ2=Gibt es nicht!
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Kappesmeise
+Antwort_2=0Haubenmeise
+Antwort_3=0Blaumeise
+Antwort_4=0Tannenmeise
+
+[398]
+FZ1=
+FZ2=Kann als einziger heimischer Vogel am Baum kopfunter laufen
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Kleiber
+Antwort_2=0Gartenbaumläufer
+Antwort_3=0Waldbaumläufer
+Antwort_4=0Mauerläufer
+
+[399]
+FZ1=
+FZ2=So heißt ein Vogel
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Regenpfeifer
+Antwort_2=0Sonnenpfeifer
+Antwort_3=0Sturmpfeifer
+Antwort_4=0Gewitterpfeifer
+
+[400]
+FZ1=
+FZ2=Eine der Pflanzen ist nicht giftig
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Kamille
+Antwort_2=0Tollkirsche
+Antwort_3=0Fingerhut
+Antwort_4=0Eisenhut
+
+[401]
+FZ1=
+FZ2=Welches ist kein Sternzeichen ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Schlange
+Antwort_2=0Steinbock
+Antwort_3=0Widder
+Antwort_4=0Skorpion
+
+[402]
+FZ1=
+FZ2=Eine Tierart gibt es in Australien.
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Kängurus
+Antwort_2=0Pinguine
+Antwort_3=0Eisbären
+Antwort_4=0Hauskatzen
+
+[403]
+FZ1=
+FZ2=Wo wurde Jesus gebohren ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Betlehem
+Antwort_2=0Kanaan
+Antwort_3=0Jerusalem
+Antwort_4=0Kairo
+
+[404]
+FZ1=
+FZ2=Was ist eine Unze ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1ein Gewicht
+Antwort_2=0ein Zeitmaß
+Antwort_3=0eine Geldeinheit
+Antwort_4=0eine Temperatur
+
+[405]
+FZ1=
+FZ2=Mit welcher Farbe zeigt Lackmuspapier Säuren an ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Mit Rot
+Antwort_2=0Mit Gelb
+Antwort_3=0Mit Grün
+Antwort_4=0Mit Orange
+
+[406]
+FZ1=
+FZ2=Was sammelt ein Numismatiker ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Münzen
+Antwort_2=0Mumien
+Antwort_3=0Briefmarken
+Antwort_4=0Schmetterlinge
+
+[407]
+FZ1=
+FZ2=In welcher Stadt starb Goethe ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1In Weimar
+Antwort_2=0In Köln
+Antwort_3=0In Düsseldorf
+Antwort_4=0In München
+
+[408]
+FZ1=
+FZ2=In welcher deutschen Stadt wird der Volkswagen gebaut ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Wolfsburg
+Antwort_2=0Audiburg
+Antwort_3=0Erfurt
+Antwort_4=0Volkswagenburg
+
+[409]
+FZ1=
+FZ2=In welchem Kontinent ist das Schnabeltier zu Hause ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1In Australien
+Antwort_2=0In Amerika
+Antwort_3=0In Afrika
+Antwort_4=0In Asien
+
+[410]
+FZ1=
+FZ2=Was ist ein Langfinger ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Ein Dieb
+Antwort_2=0Eine Art Schlüsselblume
+Antwort_3=0Eine Krankheit
+Antwort_4=0Ein Computervirus
+
+[411]
+FZ1=Was schafft ein Tennisspieler, wenn er seinen Aufschlag
+FZ2=direkt in Punkte ummünzt ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Ein As
+Antwort_2=0Ein Aus
+Antwort_3=0Ein Aas
+Antwort_4=0Ein Raus
+
+[412]
+FZ1=
+FZ2=Welche Figur in der Sesamstraße nascht gerne ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Krümmelmonster
+Antwort_2=0Samson
+Antwort_3=0Grobi
+Antwort_4=0Fienchen
+
+[413]
+FZ1=
+FZ2=Wie heißen die ZDF- Zwerge ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Mainzelmännchen
+Antwort_2=0Heinzelmännchen
+Antwort_3=0Die Sieben Zwerge
+Antwort_4=0Mondmännchen
+
+[414]
+FZ1=
+FZ2=In welchem Fernostland wurde zum erstenmal Seide gesponnen ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1In China
+Antwort_2=0In Japan
+Antwort_3=0In Kambodscha
+Antwort_4=0In Thailand
+
+[415]
+FZ1=
+FZ2=Welche Farbe hat der Schnurrbart von Obelix ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1rot
+Antwort_2=0orange
+Antwort_3=0gelb
+Antwort_4=0weiß
+
+[416]
+FZ1=
+FZ2=Wie hieß Tarzans Frau ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Jane
+Antwort_2=0Verona
+Antwort_3=0Pamela
+Antwort_4=0Eva
+
+[417]
+FZ1=
+FZ2=Wie heißt das spitze Zelt der nordamerikanischer Indianer ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Tipi
+Antwort_2=0Iglu
+Antwort_3=0Pavillon
+Antwort_4=0Indizelt
+
+[418]
+FZ1=
+FZ2=Wie nennen Indianer ihre Schuhe ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Mokassins
+Antwort_2=0Sandalen
+Antwort_3=0Pantoffeln
+Antwort_4=0Latschen
+
+[419]
+FZ1=
+FZ2=Wie nennt man die Hebewerke für Kanalschiffe auch noch ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Schleusen
+Antwort_2=0Schiffsschrauben
+Antwort_3=0Schiffheber
+Antwort_4=0Schiffsaufzug
+
+[420]
+FZ1=
+FZ2=Wie viele Felder hat ein Schachbrett ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=164
+Antwort_2=072
+Antwort_3=032
+Antwort_4=070
+
+[421]
+FZ1=
+FZ2=###################################################################
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[422]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[423]
+FZ1=
+FZ2=Was ist das Steinhuder Meer ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1See in Niedersachsen
+Antwort_2=0Teil der Nordsee
+Antwort_3=0Berg in Bayern
+Antwort_4=0Nebenmeer der Ostsee
+
+[424]
+FZ1=
+FZ2=In welchem Fluss wurde Jesus von Johannes getauft ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Jordan
+Antwort_2=0Nil
+Antwort_3=0Tiber
+Antwort_4=0Ganges
+
+[425]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Brandenburg ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=0Brandenburg
+Antwort_2=0Oranienburg
+Antwort_3=0Cottbus
+Antwort_4=1Potsdam
+
+[426]
+FZ1=
+FZ2=Wie entstand das Nördlinger Ries ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1durch einen Meteoriteneinschlag
+Antwort_2=0durch eine Sprengung
+Antwort_3=0durch ein Erdbeben
+Antwort_4=0durch den Fußtritt eines Riesen
+
+[427]
+FZ1=
+FZ2=Wie nennt man ein Bild, bei dem viele kleine
+FZ3=Papierstückchen übereinander geklebt werden ?
+Min=500
+Max=500
+Antwort_1=1Collage
+Antwort_2=0Kollege
+Antwort_3=0Korsett
+Antwort_4=0Kokosett
+
+[428]
+FZ1=
+FZ2=Welches Tier trägt sein Junges im Beutel ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Koala
+Antwort_2=0Feldmaus
+Antwort_3=0Wanderratte
+Antwort_4=0Pelikan
+
+[429]
+FZ1=
+FZ2=In welcher deutschen Stadt kann man den Tierpark Hellabrunn besuchen ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1München
+Antwort_2=0Hamburg
+Antwort_3=0Berlin
+Antwort_4=0Bochum
+
+[430]
+FZ1=
+FZ2=In welcher Stadt findet man die Straße »Unter den Linden« ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Berlin
+Antwort_2=0Bonn
+Antwort_3=0Bremen
+Antwort_4=0Bochum
+
+[431]
+FZ1=
+FZ2=In Bayreuth gibt es die Festspiele von welchem Komponisten ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Wagner
+Antwort_2=0Verdi
+Antwort_3=0Mozart
+Antwort_4=0Beethoven
+
+[432]
+FZ1=
+FZ2=Welche Militäreinheit reitet auf Pferden ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Kavallerie
+Antwort_2=0Marine
+Antwort_3=0Infanterie
+Antwort_4=0Panzergrenadiere
+
+[433]
+FZ1=
+FZ2=Was ist ein Vakuum ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1luftleerer Raum
+Antwort_2=0Metallstange
+Antwort_3=0Zahnfüllung
+Antwort_4=0Plastiktüte
+
+[434]
+FZ1=
+FZ2=Womit tötete David den Riesen Goliath ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1mit einer Steinschleuder
+Antwort_2=0mit einem Speer
+Antwort_3=0mit seinen Händen
+Antwort_4=0mit einem bösen Blick
+
+[435]
+FZ1=
+FZ2=Wie heißt der Komponist des Musicals "Cats" ?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Andrew Lloyd Webber
+Antwort_2=0Albert Lloyd Wappler
+Antwort_3=0Alex Lloyd Weberknecht
+Antwort_4=0Anthony Lloyd Flubber
+
+[436]
+FZ1=
+FZ2=Welche ist die größte Nordfriesische Insel ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Sylt
+Antwort_2=0Amrum
+Antwort_3=0Pellworm
+Antwort_4=0Föhr
+
+[437]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Mecklenburg-Vorpommern ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Schwerin
+Antwort_2=0Rostock
+Antwort_3=0Wismar
+Antwort_4=0Greifswald
+
+[438]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt von Rheinland-Pfalz ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Mainz
+Antwort_2=0Koblenz
+Antwort_3=0Saarbrücken
+Antwort_4=0Ludwigshafen
+
+[439]
+FZ1=
+FZ2=Wie heißt der oberste Herrscher in der griechischen Götterwelt ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Zeus
+Antwort_2=0Hermes
+Antwort_3=0Poseidon
+Antwort_4=0Wotan
+
+[440]
+FZ1=
+FZ2=Wofür stehen die fünf olympischen Ringe ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1für die Erdteile
+Antwort_2=0für die wichtigsten Sportarten
+Antwort_3=0für die Gipfel des Berges Olymp
+Antwort_4=0für die olympischen Götter
+
+[441]
+FZ1=
+FZ2=Wie nannte man früher einen Friseur ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Barbier
+Antwort_2=0Polier
+Antwort_3=0Kavalier
+Antwort_4=0Gallier
+
+[442]
+FZ1=
+FZ2=Wie heißt das Unentschieden beim Schachspiel ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Remis
+Antwort_2=0Türkis
+Antwort_3=0Kandis
+Antwort_4=0Kürbis
+
+[443]
+FZ1=
+FZ2=Wie heißt die berühmte Landspitze Südafrikas ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Kap der guten Hoffnung
+Antwort_2=0Spitze der freudigen Erwartung
+Antwort_3=0Küste der frohen Botschaft
+Antwort_4=0Strand der heiteren Nachricht
+
+[444]
+FZ1=
+FZ2=Welcher deutsche Fluss mündet im Schwarzen Meer ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Donau
+Antwort_2=0Elbe
+Antwort_3=0Rhein
+Antwort_4=0Oder
+
+[445]
+FZ1=
+FZ2=Welches Bundesland grenzt an die Schweiz ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Baden - Württemberg
+Antwort_2=0Thüringen
+Antwort_3=0Sachsen
+Antwort_4=0Hessen
+
+[446]
+FZ1=
+FZ2=In welcher deutschen Stadt kann man das Nymphenburger Schloss besichtigen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1München
+Antwort_2=0Münster
+Antwort_3=0Hamburg
+Antwort_4=0Stuttgart
+
+[447]
+FZ1=
+FZ2=Wie heißt der Kanal, der das Mittelmeer mit dem Roten Meer verbindet ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Suez - Kanal
+Antwort_2=0Panamakanal
+Antwort_3=0Windkanal
+Antwort_4=0Ärmelkanal
+
+[448]
+FZ1=
+FZ2=Wie nennt man die Trennwand zwischen Brust- und Bauchhöhle ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Zwerchfell
+Antwort_2=0Königsmuskel
+Antwort_3=0Prinzenrolle
+Antwort_4=0Riesenhaut
+
+[449]
+FZ1=
+FZ2=Welcher Fluss wird durch den Assuan - Staudamm gestaut ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Nil
+Antwort_2=0Po
+Antwort_3=0Rhein
+Antwort_4=0Amazonas
+
+[450]
+FZ1=
+FZ2=Wie nennt man die Dame, die unsicheren Schauspielern den Text zuflüstert ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Souffleuse
+Antwort_2=0Tippse
+Antwort_3=0Friteuse
+Antwort_4=0Kombüse
+
+[451]
+FZ1=
+FZ2=Wie heißt der dritte Buchstabe des griechischen Alphabets ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Gamma
+Antwort_2=0Alpha
+Antwort_3=0Beta
+Antwort_4=0Delta
+
+[452]
+FZ1=
+FZ2=In der Nähe welchen Berges soll die Arche Noah gelandet sein ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Ararat
+Antwort_2=0Ölberg
+Antwort_3=0Mount Everest
+Antwort_4=0Kilimandscharo
+
+[453]
+FZ1=
+FZ2=Wer trifft sich in Deutschland in der Walpurgisnacht ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Hexen
+Antwort_2=0Tote
+Antwort_3=0Vampire
+Antwort_4=0Verliebte
+
+[454]
+FZ1=
+FZ2=Wie heißt die Wissenschaft von der Vererbung ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Genetik
+Antwort_2=0Ästhetik
+Antwort_3=0Athletik
+Antwort_4=0Phonetik
+
+[455]
+FZ1=
+FZ2=Wie nennt man das Sehrohr von U - Booten ?
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Periskop
+Antwort_2=0Mikroskop
+Antwort_3=0Teleskop
+Antwort_4=0Horoskop
+
+[456]
+FZ1=
+FZ2=Was sind Rapunzeln ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Salate
+Antwort_2=0Tomaten
+Antwort_3=0Erdbeeren
+Antwort_4=0Mädchen mit langen blonden Haaren
+
+[457]
+FZ1=
+FZ2=Wofür braucht man einen Seismografen ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Messen von Erdbeben
+Antwort_2=0Erkennen einer Lüge
+Antwort_3=0Deutung von Handschrift
+Antwort_4=0Verändern der Tonhöhe
+
+[458]
+FZ1=
+FZ2=Welches Land gehört nicht zu Skandinavien ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Belgien
+Antwort_2=0Schweden
+Antwort_3=0Finnland
+Antwort_4=0Norwegen
+
+[459]
+FZ1=
+FZ2=Zu welcher Instrumentengattung gehört die Trompete ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Blechblasinstrument
+Antwort_2=0Holzblasinstrument
+Antwort_3=0Schlaginstrument
+Antwort_4=0Tasteninstrument
+
+[460]
+FZ1=
+FZ2=Wo liegt der Siedepunkt von Wasser bei normalem Luftdruck ?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1100°
+Antwort_2=0120°
+Antwort_3=090°
+Antwort_4=080°
+
+[461]
+FZ1=
+FZ2=Welche italienische Stadt hat viele Wasserstraßen ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Venedig
+Antwort_2=0Rom
+Antwort_3=0Neapel
+Antwort_4=0Turin
+
+[462]
+FZ1=
+FZ2=Wie nennt man einen Tierarzt ?
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Veterinär
+Antwort_2=0Vegetarier
+Antwort_3=0Veganer
+Antwort_4=0Vetter
+
+[463]
+FZ1=
+FZ2=Wie nennt man die asiatischen Taxis auf
+FZ3=zwei Rädern, die von Menschen gezogen werden ?
+Min=125000
+Max=125000
+Antwort_1=1Rikscha
+Antwort_2=0Pascha
+Antwort_3=0Datscha
+Antwort_4=0Maharadscha
+
+[464]
+FZ1=
+FZ2=Wie nennt man die Schönwetterphase, die im
+FZ3=September mit großer Regelmäßigkeit auftritt ?
+Min=4000
+Max=32000
+Antwort_1=1Altweibersommer
+Antwort_2=0Jungmädchenherbst
+Antwort_3=0Schönmännerseptember
+Antwort_4=0Blauejungstage
+
+[465]
+FZ1=
+FZ2=In welcher Stadt befindet sich der "Platz des himmlischen Friedens" ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Peking
+Antwort_2=0München
+Antwort_3=0Berlin
+Antwort_4=0New York
+
+[466]
+FZ1=
+FZ2=Zu welchem Land gehört Hawaii ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1USA
+Antwort_2=0Argentinien
+Antwort_3=0Philippinen
+Antwort_4=0Neuseeland
+
+[467]
+FZ1=
+FZ2=Welcher Fluss fließt durch Paris ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Seine
+Antwort_2=0Meine
+Antwort_3=0Deine
+Antwort_4=0Unsere
+
+[468]
+FZ1=
+FZ2=Zu welchen Tieren gehört der Wal ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Säugetieren
+Antwort_2=0Reptilien
+Antwort_3=0Insekten
+Antwort_4=0Fische
+
+[469]
+FZ1=
+FZ2=Was ist kein deutsches Nachrichtenmagazin ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Platin
+Antwort_2=0Focus
+Antwort_3=0Spiegel
+Antwort_4=0Stern
+
+[470]
+FZ1=
+FZ2=Aus welcher deutschen Stadt kommt die Rockgruppe BAP ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Köln
+Antwort_2=0Düsseldorf
+Antwort_3=0Dortmund
+Antwort_4=0Bochum
+
+[471]
+FZ1=
+FZ2=Welches dieser Tiere ist kein Säugetier ?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Frosch
+Antwort_2=0Maus
+Antwort_3=0Igel
+Antwort_4=0Delfin
+
+[472]
+FZ1=
+FZ2=Welches Buch ist in die meisten Sprachen übersetzt ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Bibel
+Antwort_2=0Guinness - Buch der Rekorde
+Antwort_3=0Grimms Märchen
+Antwort_4=0Harry Potter
+
+[473]
+FZ1=
+FZ2=Die Themse fließt durch ... ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1London
+Antwort_2=0Paris
+Antwort_3=0Prag
+Antwort_4=0Rom
+
+[474]
+FZ1=
+FZ2=Was gehört  _nicht_  zur Hardware eines Computers ?
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Programm
+Antwort_2=0Diskette
+Antwort_3=0Monitor
+Antwort_4=0Chip
+
+[475]
+FZ1=
+FZ2=Wie heißt die Hauptstadt von Ägypten ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Kairo
+Antwort_2=0Assuan
+Antwort_3=0Alexandria
+Antwort_4=0Giseh
+
+[476]
+FZ1=
+FZ2=Wie heißen die roten Früchte der Heckenrose ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Hagebutten
+Antwort_2=0Rosenbeeren
+Antwort_3=0Kirschen
+Antwort_4=0Heckenbeeren
+
+[477]
+FZ1=
+FZ2=Welche Haarfarbe hat ein Albino ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1weiß
+Antwort_2=0schwarz
+Antwort_3=0rot
+Antwort_4=0braun
+
+[478]
+FZ1=
+FZ2=Welcher Fluss fließt durch Budapest ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Donau
+Antwort_2=0Moldau
+Antwort_3=0Spree
+Antwort_4=0Elbe
+
+[479]
+FZ1=
+FZ2=Wie nennt man die Fangarme einer Qualle auch noch ?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Tentakel
+Antwort_2=0Tarantel
+Antwort_3=0Mirakel
+Antwort_4=0Spektakel
+
+[480]
+FZ1=
+FZ2=Was ist ein Matador ?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Stierkämpfer
+Antwort_2=0Schiedsrichter
+Antwort_3=0Gebetshaus
+Antwort_4=0Indianerstamm
+
+[481]
+FZ1=
+FZ2=Wie nennt man ein Robbenjunges ?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Heuler
+Antwort_2=0Brüller
+Antwort_3=0Jauler
+Antwort_4=0Weiner
+
+[482]
+FZ1=
+FZ2=Wer erfand den Buchdruck ?
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Johannes Gutenberg
+Antwort_2=0Henry Book
+Antwort_3=0Heinz Hugendubel
+Antwort_4=0Leonardo da Vinci
+
+[483]
+FZ1=
+FZ2=Welcher bayrischer Schriftsteller schrieb die »Lausbubengeschichten« ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Ludwig Thoma
+Antwort_2=0Ludwig Ganghofer
+Antwort_3=0Alois Harbeck
+Antwort_4=0Thomas Hüsken
+
+[484]
+FZ1=
+FZ2=Welches Tier ist auf dem Landeswappen von Niedersachsen ?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1weißes Pferd
+Antwort_2=0brauner Bär
+Antwort_3=0roter Panter
+Antwort_4=0schwarzes Pferd
+
+[485]
+FZ1=
+FZ2=Wer druckte die erste Bibel ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Johannes Gutenberg
+Antwort_2=0Moses
+Antwort_3=0Otto der Große
+Antwort_4=0Günther Frank
+
+[486]
+FZ1=
+FZ2=Eine chemische Reaktion ist eine ... ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Stoffumwandlung
+Antwort_2=0Mischung
+Antwort_3=0Formel
+Antwort_4=0Verbindung
+
+[487]
+FZ1=
+FZ2=Wer erfand die Glühbirne ?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Thomas Edison
+Antwort_2=0James Watt
+Antwort_3=0Alessandro Volta
+Antwort_4=0André Ampere
+
+[488]
+FZ1=
+FZ2=Was ist ein Ozelot ?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Raubtier
+Antwort_2=0Sportwagen
+Antwort_3=0Edelstein
+Antwort_4=0Medikament
+
+[489]
+FZ1=Welcher dieser Filme stammt nicht von Steven Spielberg ?
+FZ2=
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Die unendliche Geschichte
+Antwort_2=0E.T. - Der Außerirdische
+Antwort_3=0Jurassic Park
+Antwort_4=0Jäger des verlorenen Schatzes
+

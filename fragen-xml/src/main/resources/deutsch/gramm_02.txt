@@ -1,0 +1,316 @@
+[Thema]
+Thema=Grammatik, Stand 11.04.01
+Fragen=28
+Autor=Rolf Gräbener, 4/2001
+
+
+[1]
+FZ1=
+FZ2=Das Wort "laufen" ist ein ...
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Nomen
+Antwort_2=1Verb
+Antwort_3=0Artikel
+Antwort_4=0Adjektiv
+
+[2]
+FZ1=
+FZ2=Was ist kein Adjektiv?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0schnell
+Antwort_2=0schlecht
+Antwort_3=0schlau
+Antwort_4=1schieben
+
+[3]
+FZ1=
+FZ2=Was ist kein Satzglied?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=0Subjekt
+Antwort_2=0Prädikat
+Antwort_3=1Nomen
+Antwort_4=0Attribut
+
+[4]
+FZ1=
+FZ2=Was ist keine Wortart?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=0Artikel
+Antwort_2=0Nomen
+Antwort_3=0Verb
+Antwort_4=1Objekt
+
+[5]
+FZ1=
+FZ2=Wie heißt die höchste Steigerungsform von Adjektiven?
+FZ3=
+Min=8000
+Max=1000000
+Antwort_1=1Superlativ
+Antwort_2=0Komparativ
+Antwort_3=0Turbolativ
+Antwort_4=0Maximativ
+
+[6]
+FZ1=
+FZ2=Auf die Frage "wessen?" steht der ...
+FZ3=
+Min=100
+Max=125000
+Antwort_1=0Akkusativ
+Antwort_2=0Nominativ
+Antwort_3=0Dativ
+Antwort_4=1Genitiv
+
+[7]
+FZ1=
+FZ2=In welcher Form steht das Wort "Hund" im Dativ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0den Hund
+Antwort_2=0des Hundes
+Antwort_3=1dem Hund
+Antwort_4=0der Hund
+
+[8]
+FZ1=
+FZ2=Welche Zeitform ist "ich habe gewonnen"?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Futur
+Antwort_2=1Perfekt
+Antwort_3=0Präteritum
+Antwort_4=0Plusquamperfekt
+
+[9]
+FZ1=
+FZ2=Welche dieser Formen steht im Plusquamperfekt?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0ich werde überlegen
+Antwort_2=0ich habe überlegt
+Antwort_3=1ich hatte überlegt
+Antwort_4=0ich überlegte
+
+[10]
+FZ1=
+FZ2=Welche Form steht im Genitiv Plural?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=0des Pferdes
+Antwort_2=0den Pferden
+Antwort_3=0die Pferde
+Antwort_4=1der Pferde
+
+[11]
+FZ1=
+FZ2=Welcher Buchstabe ist ein Vokal?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0b
+Antwort_2=0ü
+Antwort_3=0r
+Antwort_4=1o
+
+[12]
+FZ1=
+FZ2=Welches Wort steht im Plural?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Tisch
+Antwort_2=1Stühle
+Antwort_3=0Tafel
+Antwort_4=0Landkarte
+
+[13]
+FZ1=
+FZ2=Auf die Frage "Wen oder was?" antwortet der ...
+FZ3=
+Min=0
+Max=40000
+Antwort_1=0Nominativ
+Antwort_2=0Genitiv
+Antwort_3=0Dativ
+Antwort_4=1Akkusativ
+
+[14]
+FZ1=
+FZ2=Das Wort "mein" ist ein ...
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=0Artikel
+Antwort_2=1Possessivpronomen
+Antwort_3=0Konsonant
+Antwort_4=0Attribut
+
+[15]
+FZ1=
+FZ2=Die Buchstaben a, e, i, o und u sind ...
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1Vokale
+Antwort_2=0Konsonanten
+Antwort_3=0Mitlaute
+Antwort_4=0Superlative
+
+[16]
+FZ1=
+FZ2="Du spieltest" steht in welcher Zeitform?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=0Futur
+Antwort_2=1Präteritum
+Antwort_3=0Präsens
+Antwort_4=0Perfekt
+
+[17]
+FZ1=Wie heißt das Subjekt in dem folgenden Satz?
+FZ2=Bei dieser Frage überlege ich nicht lange.
+FZ3=
+Min=0
+Max=16000
+Antwort_1=0lange
+Antwort_2=0Bei dieser Frage
+Antwort_3=1ich
+Antwort_4=0überlege
+
+[18]
+FZ1=Wie heißt das Prädikat in dem folgenden Satz?
+FZ2=Wir üben Grammatik am Computer.
+FZ3=
+Min=1000
+Max=640000
+Antwort_1=0Wir
+Antwort_2=1üben
+Antwort_3=0Grammatik
+Antwort_4=0am Computer
+
+[19]
+FZ1=Wie heißt das Objekt in dem folgenden Satz?
+FZ2=Oft übten wir diese Fragen im Deutschunterricht.
+FZ3=
+Min=400
+Max=16000
+Antwort_1=0Oft
+Antwort_2=0übten
+Antwort_3=1diese Fragen
+Antwort_4=0im Deutschunterricht
+
+[20]
+FZ1=
+FZ2=Wie heißt der Komparativ von "schön"?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1schöner
+Antwort_2=0am schönsten
+Antwort_3=0wunderschön
+Antwort_4=0schön
+
+[21]
+FZ1=
+FZ2=Was ist keine Wortart?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0Adjektiv
+Antwort_2=0Verb
+Antwort_3=1Attribut
+Antwort_4=0Nomen
+
+[22]
+FZ1=
+FZ2=Wie lautet die 2. Person Plural von "raten" im Plusquamperfekt?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0ihr habt geraten
+Antwort_2=0du hast geraten
+Antwort_3=1ihr hattet geraten
+Antwort_4=0du hattest geraten
+
+[23]
+FZ1=
+FZ2=Wie lautet die Vergleichsform (schneller, weiter, ...) von Adjektiven?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0Positiv
+Antwort_2=0Superlativ
+Antwort_3=0Negativ
+Antwort_4=1Komparativ
+
+[24]
+FZ1=
+FZ2=Welche Wortarten können in unterschiedlichen Zeiten stehen?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Nomen
+Antwort_2=0Adjektive
+Antwort_3=0Artikel
+Antwort_4=1Verben
+
+[25]
+FZ1=Welche Zeitform wird in dem folgenden Satz verwendet?
+FZ2=Bis jetzt wusste ich immer die richtige Antwort.
+FZ3=
+Min=8000
+Max=100000
+Antwort_1=0Präsens
+Antwort_2=1Präteritum
+Antwort_3=0Perfekt
+Antwort_4=0Plusquamperfekt
+
+[26]
+FZ1=Welches Satzglied ist das Wort "gute" ist in dem folgenden Satz?
+FZ2=Der gute Schüler weiß die richtige Antwort.
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Objekt
+Antwort_2=1Attribut
+Antwort_3=0Adverbiale Bestimmung
+Antwort_4=0Prädikat
+
+[27]
+FZ1=
+FZ2=Das Wort "laufen" ist ein?
+FZ3=
+Min=0
+Max=400
+Antwort_1=0Artikel
+Antwort_2=0Adjektiv
+Antwort_3=1Verb
+Antwort_4=0Nomen
+
+[28]
+FZ1=
+FZ2=Was ist kein Satzglied?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Attribut
+Antwort_2=1Adjektiv
+Antwort_3=0Subjekt
+Antwort_4=0Prädikat
+
+
+

@@ -1,0 +1,1523 @@
+[Thema]
+Thema=A B C
+Fragen=138
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Käfer	
+Antwort_2=0Käfig	
+Antwort_3=0Käse	
+Antwort_4=0Kajak	
+
+[2]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1März	
+Antwort_2=0Oktober	
+Antwort_3=0Mai	
+Antwort_4=0September	
+
+[3]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1April	
+Antwort_2=0September	
+Antwort_3=0August	
+Antwort_4=0Dezember	
+
+[4]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Zimt	
+Antwort_2=0Zirkus	
+Antwort_3=0Zinn	
+Antwort_4=0Zitrone	
+
+[5]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=0Kastanie	
+Antwort_2=0Kater	
+Antwort_3=0Kasten	
+Antwort_4=1Kasse	
+
+[6]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Strafe	
+Antwort_2=0Streich	
+Antwort_3=0Strich	
+Antwort_4=0Strauch	
+
+[7]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Schale	
+Antwort_2=0Schuh	
+Antwort_3=0Schrank	
+Antwort_4=0Schwein	
+
+[8]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=0Affe	
+Antwort_2=0Antilope	
+Antwort_3=1Aal	
+Antwort_4=0Ameise	
+
+[9]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1das	
+Antwort_2=0die	
+Antwort_3=0der	
+Antwort_4=0du	
+
+[10]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1was	
+Antwort_2=0wie	
+Antwort_3=0wer	
+Antwort_4=0wo	
+
+[11]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Huhn	
+Antwort_2=0Husten	
+Antwort_3=0Hut	
+Antwort_4=0Hund	
+
+[12]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Bär	
+Antwort_2=0Hund	
+Antwort_3=0Katze	
+Antwort_4=0Maus	
+
+[13]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1Anna	
+Antwort_2=0Boris	
+Antwort_3=0Karl	
+Antwort_4=0Peter	
+
+[14]
+FZ1=
+FZ2=Welches Wort steht zuerst im Wörterbuch ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1ich	
+Antwort_2=0im	
+Antwort_3=0in	
+Antwort_4=0ihr	
+
+[15]
+FZ1=
+FZ2=Wie viele Buchstaben hat das A b c  ( ohne ß, Ä, Ö, Ü ) ?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=126	
+Antwort_2=029	
+Antwort_3=023	
+Antwort_4=022	
+
+[16]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1J K L	
+Antwort_2=0L K J	
+Antwort_3=0K J L	
+Antwort_4=0J L K	
+
+[17]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1U V W	
+Antwort_2=0V W U	
+Antwort_3=0U W V	
+Antwort_4=0W U V	
+
+[18]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1B C D	
+Antwort_2=0C D B	
+Antwort_3=0B D C	
+Antwort_4=0D B C	
+
+[19]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1O P Q	
+Antwort_2=0O Q P	
+Antwort_3=0P O Q	
+Antwort_4=0Q P O	
+
+[20]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1F G H	
+Antwort_2=0G H F	
+Antwort_3=0F H G	
+Antwort_4=0U J I	
+
+[21]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1X Y Z	
+Antwort_2=0Y C Z	
+Antwort_3=0Y S Z	
+Antwort_4=0Y W Z	
+
+[22]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1H I J	
+Antwort_2=0V W E	
+Antwort_3=0G H U	
+Antwort_4=0T U H	
+
+[23]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  n i c h t  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1H J K	
+Antwort_2=0F G H	
+Antwort_3=0L M N	
+Antwort_4=0C D E	
+
+[24]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  n i c h t  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1O P R	
+Antwort_2=0I J K	
+Antwort_3=0T U V	
+Antwort_4=0P Q R	
+
+[25]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  n i c h t  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1I K L	
+Antwort_2=0U V W	
+Antwort_3=0B C D	
+Antwort_4=0S T U	
+
+[26]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  n i c h t  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1U W X	
+Antwort_2=0M N O	
+Antwort_3=0F G H	
+Antwort_4=0C D E	
+
+[27]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  n i c h t  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1J K M	
+Antwort_2=0R S T	
+Antwort_3=0G H I	
+Antwort_4=0D E F	
+
+[28]
+FZ1=
+FZ2=Welche Buchstabengruppe stimmt  n i c h t  ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1K L N	
+Antwort_2=0R S T	
+Antwort_3=0B C D	
+Antwort_4=0H I J	
+
+[29]
+FZ1=
+FZ2=Welcher Buchstabe passt  n i c h t  zu den anderen ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1K	
+Antwort_2=0Ö	
+Antwort_3=0Ä	
+Antwort_4=0Ü	
+
+[30]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  X und Z  ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Y	
+Antwort_2=0V	
+Antwort_3=0W	
+Antwort_4=0U	
+
+[31]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen W und Y   ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1X	
+Antwort_2=0S	
+Antwort_3=0Z	
+Antwort_4=0U	
+
+[32]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  V und X  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1W	
+Antwort_2=0Y	
+Antwort_3=0Z	
+Antwort_4=0U	
+
+[33]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen U und W   ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1V	
+Antwort_2=0D	
+Antwort_3=0X	
+Antwort_4=0T	
+
+[34]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen T und V  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1U	
+Antwort_2=0S	
+Antwort_3=0W	
+Antwort_4=0F	
+
+[35]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  S und U  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1T	
+Antwort_2=0D	
+Antwort_3=0V	
+Antwort_4=0W	
+
+[36]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  R und T  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1S	
+Antwort_2=0Q	
+Antwort_3=0U	
+Antwort_4=0B	
+
+[37]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  Q und S  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1R	
+Antwort_2=0O	
+Antwort_3=0T	
+Antwort_4=0P	
+
+[38]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  P und R  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Q	
+Antwort_2=0S	
+Antwort_3=0O	
+Antwort_4=0T	
+
+[39]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  O und Q  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1P	
+Antwort_2=0F	
+Antwort_3=0R	
+Antwort_4=0C	
+
+[40]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen N und P   ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1O	
+Antwort_2=0A	
+Antwort_3=0Q	
+Antwort_4=0F	
+
+[41]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen M und O   ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1N	
+Antwort_2=0P	
+Antwort_3=0H	
+Antwort_4=0E	
+
+[42]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  L und N  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1M	
+Antwort_2=0G	
+Antwort_3=0O	
+Antwort_4=0R	
+
+[43]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  K und M  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1L	
+Antwort_2=0U	
+Antwort_3=0N	
+Antwort_4=0R	
+
+[44]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen J und L   ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1K	
+Antwort_2=0N	
+Antwort_3=0M	
+Antwort_4=0Z	
+
+[45]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen I und K  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1J	
+Antwort_2=0H	
+Antwort_3=0M	
+Antwort_4=0F	
+
+[46]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  H und J  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1I	
+Antwort_2=0L	
+Antwort_3=0K	
+Antwort_4=0G	
+
+[47]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  G und I  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1H	
+Antwort_2=0K	
+Antwort_3=0J	
+Antwort_4=0F	
+
+[48]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  F und H  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1G	
+Antwort_2=0D	
+Antwort_3=0I	
+Antwort_4=0E	
+
+[49]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen E und G  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1F	
+Antwort_2=0B	
+Antwort_3=0H	
+Antwort_4=0T	
+
+[50]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  D und F  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1E	
+Antwort_2=0V	
+Antwort_3=0S	
+Antwort_4=0B	
+
+[51]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen C und E   ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1D	
+Antwort_2=0B	
+Antwort_3=0F	
+Antwort_4=0G	
+
+[52]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen  B und D  ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1C	
+Antwort_2=0F	
+Antwort_3=0A	
+Antwort_4=0T	
+
+[53]
+FZ1=
+FZ2=Welcher Buchstabe steht zwischen A und C   ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1B	
+Antwort_2=0E	
+Antwort_3=0D	
+Antwort_4=0H	
+
+[54]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem Z  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Y	
+Antwort_2=0C	
+Antwort_3=0X	
+Antwort_4=0S	
+
+[55]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem Y  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1X	
+Antwort_2=0Z	
+Antwort_3=0C	
+Antwort_4=0R	
+
+[56]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem X  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1W	
+Antwort_2=0V	
+Antwort_3=0Y	
+Antwort_4=0Z	
+
+[57]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem W  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1V	
+Antwort_2=0Y	
+Antwort_3=0X	
+Antwort_4=0U	
+
+[58]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem V  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1U	
+Antwort_2=0X	
+Antwort_3=0W	
+Antwort_4=0T	
+
+[59]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem U ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1T	
+Antwort_2=0R	
+Antwort_3=0V	
+Antwort_4=0S	
+
+[60]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem T  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1S	
+Antwort_2=0U	
+Antwort_3=0R	
+Antwort_4=0G	
+
+[61]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem S  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1R	
+Antwort_2=0T	
+Antwort_3=0Q	
+Antwort_4=0U	
+
+[62]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem R  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Q	
+Antwort_2=0T	
+Antwort_3=0S	
+Antwort_4=0U	
+
+[63]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem Q  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1P	
+Antwort_2=0S	
+Antwort_3=0R	
+Antwort_4=0O	
+
+[64]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem P  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1O	
+Antwort_2=0U	
+Antwort_3=0Q	
+Antwort_4=0E	
+
+[65]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem  O ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1N	
+Antwort_2=0Q	
+Antwort_3=0P	
+Antwort_4=0R	
+
+[66]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem  N ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1M	
+Antwort_2=0P	
+Antwort_3=0O	
+Antwort_4=0K	
+
+[67]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem M  ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1L	
+Antwort_2=0K	
+Antwort_3=0N	
+Antwort_4=0H	
+
+[68]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem L  ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1K	
+Antwort_2=0N	
+Antwort_3=0M	
+Antwort_4=0G	
+
+[69]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem K  ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1J	
+Antwort_2=0M	
+Antwort_3=0L	
+Antwort_4=0S	
+
+[70]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem J  ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1I	
+Antwort_2=0K	
+Antwort_3=0H	
+Antwort_4=0C	
+
+[71]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem I  ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1H	
+Antwort_2=0G	
+Antwort_3=0J	
+Antwort_4=0T	
+
+[72]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem H  ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1G	
+Antwort_2=0Z	
+Antwort_3=0I	
+Antwort_4=0D	
+
+[73]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem G  ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1F	
+Antwort_2=0T	
+Antwort_3=0H	
+Antwort_4=0D	
+
+[74]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem F  ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1E	
+Antwort_2=0H	
+Antwort_3=0G	
+Antwort_4=0U	
+
+[75]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem E  ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1D	
+Antwort_2=0C	
+Antwort_3=0F	
+Antwort_4=0W	
+
+[76]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem D  ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1C	
+Antwort_2=0A	
+Antwort_3=0E	
+Antwort_4=0B	
+
+[77]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem C  ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1B	
+Antwort_2=0A	
+Antwort_3=0D	
+Antwort_4=0S	
+
+[78]
+FZ1=
+FZ2=Welcher Buchstabe kommt  v o r  dem B  ?
+FZ3=
+Min=200
+Max=4000
+Antwort_1=1A	
+Antwort_2=0D	
+Antwort_3=0C	
+Antwort_4=0E	
+
+[79]
+FZ1=
+FZ2=Welcher Buchstabe kommt  nach  dem Y ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1Z	
+Antwort_2=0C	
+Antwort_3=0X	
+Antwort_4=0A	
+
+[80]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem X ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1Y	
+Antwort_2=0W	
+Antwort_3=0Z	
+Antwort_4=0V	
+
+[81]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem W ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1X	
+Antwort_2=0O	
+Antwort_3=0Y	
+Antwort_4=0
+
+[82]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem V ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1W	
+Antwort_2=0Y	
+Antwort_3=0X	
+Antwort_4=0U	
+
+[83]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem U ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1V	
+Antwort_2=0R	
+Antwort_3=0W	
+Antwort_4=0T	
+
+[84]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem T ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1U	
+Antwort_2=0R	
+Antwort_3=0V	
+Antwort_4=0S	
+
+[85]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem S ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1T	
+Antwort_2=0R	
+Antwort_3=0U	
+Antwort_4=0V	
+
+[86]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem R ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1S	
+Antwort_2=0Q	
+Antwort_3=0T	
+Antwort_4=0P	
+
+[87]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem Q ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1R	
+Antwort_2=0P	
+Antwort_3=0O	
+Antwort_4=0S	
+
+[88]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem P ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1Q	
+Antwort_2=0U	
+Antwort_3=0O	
+Antwort_4=0E	
+
+[89]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem O ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1P	
+Antwort_2=0F	
+Antwort_3=0Q	
+Antwort_4=0L	
+
+[90]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem N ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1O	
+Antwort_2=0M	
+Antwort_3=0P	
+Antwort_4=0K	
+
+[91]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem M ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1N	
+Antwort_2=0O	
+Antwort_3=0L	
+Antwort_4=0H	
+
+[92]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem L ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1M	
+Antwort_2=0K	
+Antwort_3=0N	
+Antwort_4=0F	
+
+[93]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem K ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1L	
+Antwort_2=0J	
+Antwort_3=0M	
+Antwort_4=0U	
+
+[94]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem J ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1K	
+Antwort_2=0M	
+Antwort_3=0L	
+Antwort_4=0I	
+
+[95]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem I ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1J	
+Antwort_2=0H	
+Antwort_3=0K	
+Antwort_4=0G	
+
+[96]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem H ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1I	
+Antwort_2=0G	
+Antwort_3=0J	
+Antwort_4=0Z	
+
+[97]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem G ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1H	
+Antwort_2=0F	
+Antwort_3=0I	
+Antwort_4=0R	
+
+[98]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem F ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1G	
+Antwort_2=0D	
+Antwort_3=0E	
+Antwort_4=0H	
+
+[99]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem E ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1F	
+Antwort_2=0C	
+Antwort_3=0G	
+Antwort_4=0B	
+
+[100]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem D ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1E	
+Antwort_2=0C	
+Antwort_3=0F	
+Antwort_4=0G	
+
+[101]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem C ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1D	
+Antwort_2=0B	
+Antwort_3=0E	
+Antwort_4=0A	
+
+[102]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem B ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0A	
+Antwort_2=0F	
+Antwort_3=1C	
+Antwort_4=0Z	
+
+[103]
+FZ1=
+FZ2=Welcher Buchstabe kommt nach dem A ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1B	
+Antwort_2=0D	
+Antwort_3=0C	
+Antwort_4=0T	
+
+[104]
+FZ1=
+FZ2=Welcher Buchstabe ist ein Mitlaut (Konsonant) ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1B	
+Antwort_2=0I	
+Antwort_3=0U	
+Antwort_4=0O	
+
+[105]
+FZ1=
+FZ2=Welcher Buchstabe ist ein Mitlaut (Konsonant) ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1R	
+Antwort_2=0A	
+Antwort_3=0E	
+Antwort_4=0O	
+
+[106]
+FZ1=
+FZ2=Welcher Buchstabe ist ein Selbstlaut (Vokal) ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1U	
+Antwort_2=0H	
+Antwort_3=0Q	
+Antwort_4=0J	
+
+[107]
+FZ1=
+FZ2=Welcher Buchstabe ist ein Selbstlaut (Vokal) ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1O	
+Antwort_2=0B	
+Antwort_3=0G	
+Antwort_4=0M	
+
+[108]
+FZ1=
+FZ2=Welcher Buchstabe ist ein Selbstlaut (Vokal) ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1I	
+Antwort_2=0S	
+Antwort_3=0F	
+Antwort_4=0C	
+
+[109]
+FZ1=
+FZ2=Welcher Buchstabe ist ein Selbstlaut (Vokal) ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1E	
+Antwort_2=0H	
+Antwort_3=0D	
+Antwort_4=0P	
+
+[110]
+FZ1=
+FZ2=Welcher Buchstabe ist ein Selbstlaut (Vokal) ?
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1A	
+Antwort_2=0R	
+Antwort_3=0T	
+Antwort_4=0N	
+
+[111]
+FZ1=
+FZ2=Von welchem Buchstaben gibt es  k e i n e n  großen Buchstaben ?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1ß	
+Antwort_2=0z	
+Antwort_3=0s	
+Antwort_4=0y	
+
+[112]
+FZ1=
+FZ2=Wie heißt der 26. Buchstabe des Alphabets ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Z	
+Antwort_2=0X	
+Antwort_3=0G	
+Antwort_4=0Y	
+
+[113]
+FZ1=
+FZ2=Wie heißt der 25. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Y	
+Antwort_2=0R	
+Antwort_3=0X	
+Antwort_4=0T	
+
+[114]
+FZ1=
+FZ2=Wie heißt der 24. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1X	
+Antwort_2=0Z	
+Antwort_3=0Y	
+Antwort_4=0C	
+
+[115]
+FZ1=
+FZ2=Wie heißt der 23. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1W	
+Antwort_2=0U	
+Antwort_3=0V	
+Antwort_4=0T	
+
+[116]
+FZ1=
+FZ2=Wie heißt der 22. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1V	
+Antwort_2=0X	
+Antwort_3=0W	
+Antwort_4=0Y	
+
+[117]
+FZ1=
+FZ2=Wie heißt der 21. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1U	
+Antwort_2=0W	
+Antwort_3=0V	
+Antwort_4=0T	
+
+[118]
+FZ1=
+FZ2=Wie heißt der 20. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1T	
+Antwort_2=0S	
+Antwort_3=0R	
+Antwort_4=0U	
+
+[119]
+FZ1=
+FZ2=Wie heißt der 19. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1S	
+Antwort_2=0T	
+Antwort_3=0R	
+Antwort_4=0Q	
+
+[120]
+FZ1=
+FZ2=Wie heißt der 18. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1R	
+Antwort_2=0T	
+Antwort_3=0S	
+Antwort_4=0Q	
+
+[121]
+FZ1=
+FZ2=Wie heißt der 17. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Q	
+Antwort_2=0O	
+Antwort_3=0R	
+Antwort_4=0P	
+
+[122]
+FZ1=
+FZ2=Wie heißt der 16. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1P	
+Antwort_2=0Q	
+Antwort_3=0O	
+Antwort_4=0R	
+
+[123]
+FZ1=
+FZ2=Wie heißt der 15. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1O	
+Antwort_2=0Q	
+Antwort_3=0P	
+Antwort_4=0N	
+
+[124]
+FZ1=
+FZ2=Wie heißt der 14. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1N	
+Antwort_2=0O	
+Antwort_3=0M	
+Antwort_4=0L	
+
+[125]
+FZ1=
+FZ2=Wie heißt der 13. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1M	
+Antwort_2=0O	
+Antwort_3=0N	
+Antwort_4=0L	
+
+[126]
+FZ1=
+FZ2=Wie heißt der 12. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1L	
+Antwort_2=0K	
+Antwort_3=0M	
+Antwort_4=0H	
+
+[127]
+FZ1=
+FZ2=Wie heißt der 11. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1K	
+Antwort_2=0M	
+Antwort_3=0L	
+Antwort_4=0J	
+
+[128]
+FZ1=
+FZ2=Wie heißt der 10. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1J	
+Antwort_2=0L	
+Antwort_3=0K	
+Antwort_4=0I	
+
+[129]
+FZ1=
+FZ2=Wie heißt der 9. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1I	
+Antwort_2=0L	
+Antwort_3=0J	
+Antwort_4=0H	
+
+[130]
+FZ1=
+FZ2=Wie heißt der 8. Buchstabe des Alphabets ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1H	
+Antwort_2=0G	
+Antwort_3=0I	
+Antwort_4=0F	
+
+[131]
+FZ1=
+FZ2=Wie heißt der 7. Buchstabe des Alphabets ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1G	
+Antwort_2=0I	
+Antwort_3=0H	
+Antwort_4=0F	
+
+[132]
+FZ1=
+FZ2=Wie heißt der 6. Buchstabe des Alphabets ?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1F	
+Antwort_2=0E	
+Antwort_3=0G	
+Antwort_4=0D	
+
+[133]
+FZ1=
+FZ2=Wie heißt der fünfte Buchstabe des Alphabets ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1E	
+Antwort_2=0D	
+Antwort_3=0F	
+Antwort_4=0G	
+
+[134]
+FZ1=
+FZ2=Wie heißt der vierte Buchstabe des Alphabets ?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1D	
+Antwort_2=0C	
+Antwort_3=0E	
+Antwort_4=0B	
+
+[135]
+FZ1=
+FZ2=Wie heißt der dritte Buchstabe des Alphabets ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1C	
+Antwort_2=0B	
+Antwort_3=0D	
+Antwort_4=0A	
+
+[136]
+FZ1=
+FZ2=Wie heißt der zweite Buchstabe des Alphabets ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=1B	
+Antwort_2=0D	
+Antwort_3=0C	
+Antwort_4=0E	
+
+[137]
+FZ1=
+FZ2=Wie heißt der letzte Buchstabe des Alphabets ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1Z	
+Antwort_2=0X	
+Antwort_3=0Y	
+Antwort_4=0A	
+
+[138]
+FZ1=
+FZ2=Wie heißt der erste Buchstabe des Alphabets ?
+FZ3=
+Min=0
+Max=100
+Antwort_1=1A	
+Antwort_2=0Z	
+Antwort_3=0B	
+Antwort_4=0G	
+

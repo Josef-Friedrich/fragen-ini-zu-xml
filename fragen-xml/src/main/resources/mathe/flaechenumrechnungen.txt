@@ -1,0 +1,1226 @@
+[Thema]
+Thema=Umrechnung von Fl‰chenmaﬂen
+Fragen=111
+Autor=A. Bergkemper, Stand 9.7.02
+
+[1]
+FZ1=#leicht (bis 1000 Euro)  #mittel (2000 bis 32000 Euro)
+FZ2=#schwer (64000 - 500000 Euro)
+FZ3=#umkehrung (64000-500000)
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[2]
+FZ1=
+FZ2=#leicht (bis 1000 Euro)
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[3]
+FZ1=1 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1100 mm≤
+Antwort_2=00,1 mm≤
+Antwort_3=010 mm≤
+Antwort_4=01.000 mm≤
+
+[4]
+FZ1=2 m≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1200 dm≤
+Antwort_2=00,2 dm≤
+Antwort_3=020 dm≤
+Antwort_4=02.000 dm≤
+
+[5]
+FZ1=1 m≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1100 dm≤
+Antwort_2=00,1 dm≤
+Antwort_3=010 dm≤
+Antwort_4=01.000 dm≤
+
+[6]
+FZ1=3 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,03 cm≤
+Antwort_2=0300 cm≤
+Antwort_3=00,3 cm≤
+Antwort_4=030 cm≤
+
+[7]
+FZ1=1 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,01 cm≤
+Antwort_2=0100 cm≤
+Antwort_3=00,1 cm≤
+Antwort_4=010 cm≤
+
+[8]
+FZ1=4 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,04 dm≤
+Antwort_2=00,004 dm≤
+Antwort_3=00,4 dm≤
+Antwort_4=0400 dm≤
+
+[9]
+FZ1=1 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,01 dm≤
+Antwort_2=00,001 dm≤
+Antwort_3=00,1 dm≤
+Antwort_4=0100 dm≤
+
+[10]
+FZ1=5 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,05 m≤
+Antwort_2=050 m≤
+Antwort_3=00,5 m≤
+Antwort_4=0500 m≤
+
+[11]
+FZ1=1 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,01 m≤
+Antwort_2=010 m≤
+Antwort_3=00,1 m≤
+Antwort_4=0100 m≤
+
+[12]
+FZ1=2 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1200 cm≤
+Antwort_2=00,2 cm≤
+Antwort_3=020 cm≤
+Antwort_4=00,02 cm≤
+
+[13]
+FZ1=1 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1100 cm≤
+Antwort_2=00,1 cm≤
+Antwort_3=010 cm≤
+Antwort_4=00,01 cm≤
+
+[14]
+FZ1=7 m≤
+FZ2=
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=170.000 cm≤
+Antwort_2=07.000.000 cm≤
+Antwort_3=0700.000 cm≤
+Antwort_4=07.000 cm≤
+
+[15]
+FZ1=1 m≤
+FZ2=
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=110.000 cm≤
+Antwort_2=01.000.000 cm≤
+Antwort_3=0100.000 cm≤
+Antwort_4=01.000 cm≤
+
+[16]
+FZ1=400 cm≤  =
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=14 dm≤
+Antwort_2=040 dm≤
+Antwort_3=00,4 dm≤
+Antwort_4=00,04 dm≤
+
+[17]
+FZ1=200 cm≤  =
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=12 dm≤
+Antwort_2=020 dm≤
+Antwort_3=00,2 dm≤
+Antwort_4=00,02 dm≤
+
+[18]
+FZ1=53 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=15.300 cm≤
+Antwort_2=05,3 cm≤
+Antwort_3=0530 cm≤
+Antwort_4=00,53 cm≤
+
+[19]
+FZ1=23 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=12300 cm≤
+Antwort_2=02,3 cm≤
+Antwort_3=0230 cm≤
+Antwort_4=00,23 cm≤
+
+[20]
+FZ1=846 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=18,46 dm≤	
+Antwort_2=084,6 dm≤	
+Antwort_3=08.460 dm≤	
+Antwort_4=00,846 dm≤	
+
+[21]
+FZ1=546 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=15,46 dm≤
+Antwort_2=054,6 dm≤
+Antwort_3=05.460 dm≤
+Antwort_4=00,546 dm≤
+
+[22]
+FZ1=182 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=11,82 cm≤
+Antwort_2=01.820 cm≤
+Antwort_3=018,2 cm≤
+Antwort_4=00,182 cm≤
+
+[23]
+FZ1=982 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=19,82 cm≤
+Antwort_2=09.820 cm≤
+Antwort_3=098,2 cm≤
+Antwort_4=00,982 cm≤
+
+[24]
+FZ1=0,22 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=122 cm≤
+Antwort_2=02,2 cm≤
+Antwort_3=0220 cm≤
+Antwort_4=00,022 cm≤
+
+[25]
+FZ1=0,28 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=128 cm≤
+Antwort_2=02,8 cm≤
+Antwort_3=0280 cm≤
+Antwort_4=00,028 cm≤
+
+[26]
+FZ1=2.589 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=125,89 cm≤
+Antwort_2=0258,9 cm≤
+Antwort_3=02,589 cm≤
+Antwort_4=00,2589 cm≤
+
+[27]
+FZ1=4.589 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=145,89 cm≤
+Antwort_2=0458,9 cm≤
+Antwort_3=04,589 cm≤
+Antwort_4=00,4589 cm≤
+
+[28]
+FZ1=132 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=11,32 dm≤
+Antwort_2=013,2 dm≤
+Antwort_3=00,132 dm≤
+Antwort_4=01.320 dm≤
+
+[29]
+FZ1=422 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=14,22 dm≤
+Antwort_2=042,2 dm≤
+Antwort_3=00,422 dm≤
+Antwort_4=04.220 dm≤
+
+[30]
+FZ1=8 m≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=180.000 cm≤	
+Antwort_2=0800 cm≤	
+Antwort_3=08.000 cm≤	
+Antwort_4=080 cm≤	
+
+[31]
+FZ1=2 m≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=120.000 cm≤
+Antwort_2=0200 cm≤
+Antwort_3=02.000 cm≤
+Antwort_4=020 cm≤
+
+[32]
+FZ1=5.233 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=152,33 cm≤
+Antwort_2=00,5233 cm≤
+Antwort_3=0523,3 cm≤
+Antwort_4=052.330 cm≤
+
+[33]
+FZ1=7.233 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=172,33 cm≤
+Antwort_2=00,7233 cm≤
+Antwort_3=0723,3 cm≤
+Antwort_4=072.330 cm≤
+
+[34]
+FZ1=0,0426 m≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=14,26 dm≤
+Antwort_2=00,426 dm≤
+Antwort_3=042,6 dm≤
+Antwort_4=0426 dm≤
+
+[35]
+FZ1=0,0456 m≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=14,56 dm≤
+Antwort_2=00,456 dm≤
+Antwort_3=045,6 dm≤
+Antwort_4=0456 dm≤
+
+[36]
+FZ1=4,5 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,045 m≤
+Antwort_2=00,45 m≤
+Antwort_3=00,0045 m≤
+Antwort_4=00,450 m≤
+
+[37]
+FZ1=3,5 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,035 m≤
+Antwort_2=00,35 m≤
+Antwort_3=00,0035 m≤
+Antwort_4=00,350 m≤
+
+[38]
+FZ1=579 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=157.900 mm≤
+Antwort_2=057,9 mm≤
+Antwort_3=05.790 mm≤
+Antwort_4=057,90 mm≤
+
+[39]
+FZ1=5,02 dm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1502 cm≤
+Antwort_2=00,502 cm≤
+Antwort_3=050,2 cm≤
+Antwort_4=050,20 cm≤
+
+[40]
+FZ1=728,4 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=17,284 cm≤	
+Antwort_2=072,840 cm≤	
+Antwort_3=072,84 cm≤	
+Antwort_4=07.284 cm≤	
+
+[41]
+FZ1=128,4 mm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=11,284 cm≤
+Antwort_2=012,840 cm≤
+Antwort_3=012,84 cm≤
+Antwort_4=01.284 cm≤
+
+[42]
+FZ1=0,177 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,00177 dm≤
+Antwort_2=01,77 dm≤
+Antwort_3=00,0177 dm≤
+Antwort_4=01,770 dm≤
+
+[43]
+FZ1=0,377 cm≤
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10,00377 dm≤
+Antwort_2=03,77 dm≤
+Antwort_3=00,0377 dm≤
+Antwort_4=03,770 dm≤
+
+[44]
+FZ1=
+FZ2=#mittel (2000 - 320000 Euro)
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[45]
+FZ1=0,0279 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=12,79 cm≤
+Antwort_2=027,9 cm≤
+Antwort_3=00,279 cm≤
+Antwort_4=0279 cm≤
+
+[46]
+FZ1=0,0479 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=14,79 cm≤
+Antwort_2=047,9 cm≤
+Antwort_3=00,479 cm≤
+Antwort_4=0479 cm≤
+
+[47]
+FZ1=3 m≤  =
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=130.000 cm≤
+Antwort_2=0300 cm≤
+Antwort_3=03.000 cm≤
+Antwort_4=0300.000 cm≤
+
+[48]
+FZ1=19,3 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11.930 mm≤
+Antwort_2=01,93 mm≤
+Antwort_3=019,3 mm≤
+Antwort_4=00,193 mm≤
+
+[49]
+FZ1=14,3 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11.430 mm≤
+Antwort_2=01,43 mm≤
+Antwort_3=014,3 mm≤
+Antwort_4=00,143 mm≤
+
+[50]
+FZ1=0,0725 m≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=17,25 dm≤	
+Antwort_2=00,725 dm≤	
+Antwort_3=0725 dm≤	
+Antwort_4=072,5 dm≤	
+
+[51]
+FZ1=0,0225 m≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=12,25 dm≤
+Antwort_2=00,225 dm≤
+Antwort_3=0225 dm≤
+Antwort_4=022,5 dm≤
+
+[52]
+FZ1=42 m≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1420.000 cm≤
+Antwort_2=04.200 cm≤
+Antwort_3=042.000 cm≤
+Antwort_4=00,0042 cm≤
+
+[53]
+FZ1=22 m≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1220.000 cm≤
+Antwort_2=02.200 cm≤
+Antwort_3=022.000 cm≤
+Antwort_4=00,0022 cm≤
+
+[54]
+FZ1=6,3 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=163.000 mm≤
+Antwort_2=06.300 mm≤
+Antwort_3=0630.000 mm≤
+Antwort_4=00,063 mm≤
+
+[55]
+FZ1=3,3 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=133.000 mm≤
+Antwort_2=03.300 mm≤
+Antwort_3=0330.000 mm≤
+Antwort_4=00,033 mm≤
+
+[56]
+FZ1=0,578 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,00578 m≤
+Antwort_2=057,8 m≤
+Antwort_3=00,0578 m≤
+Antwort_4=0578 m≤
+
+[57]
+FZ1=0,278 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,00278 m≤
+Antwort_2=027,8 m≤
+Antwort_3=00,0278 m≤
+Antwort_4=0278 m≤
+
+[58]
+FZ1=704 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0704 m≤
+Antwort_2=07,04 m≤
+Antwort_3=00,704 m≤
+Antwort_4=070,4 m≤
+
+[59]
+FZ1=794 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0794 m≤
+Antwort_2=07,94 m≤
+Antwort_3=00,794 m≤
+Antwort_4=079,4 m≤
+
+[60]
+FZ1=2.533 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,2533 m≤	
+Antwort_2=02,533 m≤	
+Antwort_3=00,02533 m≤	
+Antwort_4=025,33 m≤	
+
+[61]
+FZ1=9.533 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,9533 m≤
+Antwort_2=09,533 m≤
+Antwort_3=00,09533 m≤
+Antwort_4=095,33 m≤
+
+[62]
+FZ1=62.300 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=16,23 m≤
+Antwort_2=062,3 m≤
+Antwort_3=00,623 m≤
+Antwort_4=0623 m≤
+
+[63]
+FZ1=12.300 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11,23 m≤
+Antwort_2=012,3 m≤
+Antwort_3=00,123 m≤
+Antwort_4=0123 m≤
+
+[64]
+FZ1=308 mm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0308 dm≤
+Antwort_2=00,00308 dm≤
+Antwort_3=00,308 dm≤
+Antwort_4=00,003080 dm≤
+
+[65]
+FZ1=398 mm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0398 dm≤
+Antwort_2=00,00398 dm≤
+Antwort_3=00,398 dm≤
+Antwort_4=00,003980 dm≤
+
+[66]
+FZ1=2.900 mm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,29 dm≤
+Antwort_2=02,9 dm≤
+Antwort_3=00,029 dm≤
+Antwort_4=029 dm≤
+
+[67]
+FZ1=7.900 mm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,79 dm≤
+Antwort_2=07,9 dm≤
+Antwort_3=00,079 dm≤
+Antwort_4=079 dm≤
+
+[68]
+FZ1=0,16 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=11.600 mm≤
+Antwort_2=016.000 mm≤
+Antwort_3=0160 mm≤
+Antwort_4=016 mm≤
+
+[69]
+FZ1=0,56 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=15.600 mm≤
+Antwort_2=056.000 mm≤
+Antwort_3=0560 mm≤
+Antwort_4=056 mm≤
+
+[70]
+FZ1=2,1 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=121.000 mm≤	
+Antwort_2=0210.000 mm≤	
+Antwort_3=02.100 mm≤	
+Antwort_4=00,021 mm≤	
+
+[71]
+FZ1=6,1 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=161.000 mm≤
+Antwort_2=0610.000 mm≤
+Antwort_3=06.100 mm≤
+Antwort_4=00,061 mm≤
+
+[72]
+FZ1=0,07 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=17 mm≤
+Antwort_2=070 mm≤
+Antwort_3=00,007 mm≤
+Antwort_4=0700 mm≤
+
+[73]
+FZ1=0,02 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=12 mm≤
+Antwort_2=020 mm≤
+Antwort_3=00,002 mm≤
+Antwort_4=0200 mm≤
+
+[74]
+FZ1=0,094 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,00094 m≤
+Antwort_2=00,94 m≤
+Antwort_3=09,4 m≤
+Antwort_4=09,400 m≤
+
+[75]
+FZ1=0,044 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,00044 m≤
+Antwort_2=00,44 m≤
+Antwort_3=04,4 m≤
+Antwort_4=04,400 m≤
+
+[76]
+FZ1=83,04 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1830.400 mm≤
+Antwort_2=00,8304 mm≤
+Antwort_3=08.304 mm≤
+Antwort_4=00,008304 mm≤
+
+[77]
+FZ1=23,04 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1230.400 mm≤
+Antwort_2=00,2304 mm≤
+Antwort_3=02.304 mm≤
+Antwort_4=00,002304 mm≤
+
+[78]
+FZ1=0,00416 m≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=141,6 cm≤
+Antwort_2=04,16 cm≤
+Antwort_3=0416 cm≤
+Antwort_4=00,416 cm≤
+
+[79]
+FZ1=0,00456 m≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=145,6 cm≤
+Antwort_2=04,56 cm≤
+Antwort_3=0456 cm≤
+Antwort_4=00,456 cm≤
+
+[80]
+FZ1=0,00073 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=17,3 mm≤	
+Antwort_2=00,73 mm≤	
+Antwort_3=073 mm≤	
+Antwort_4=0730 mm≤	
+
+[81]
+FZ1=0,00033 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=13,3 mm≤
+Antwort_2=00,33 mm≤
+Antwort_3=033 mm≤
+Antwort_4=0330 mm≤
+
+[82]
+FZ1=929 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0929 m≤
+Antwort_2=09,29 m≤
+Antwort_3=00,929 m≤
+Antwort_4=00,00929 m≤
+
+[83]
+FZ1=429 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0429 m≤
+Antwort_2=04,29 m≤
+Antwort_3=00,429 m≤
+Antwort_4=00,00429 m≤
+
+[84]
+FZ1=0,23 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0023 m≤
+Antwort_2=02,3 m≤
+Antwort_3=00,023 m≤
+Antwort_4=023 m≤
+
+[85]
+FZ1=0,83 dm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0083 m≤
+Antwort_2=08,3 m≤
+Antwort_3=00,083 m≤
+Antwort_4=083 m≤
+
+[86]
+FZ1=4.260 mm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,426 dm≤
+Antwort_2=042,60 dm≤
+Antwort_3=04,260 dm≤
+Antwort_4=00,0426 dm≤
+
+[87]
+FZ1=4.960 mm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,496 dm≤
+Antwort_2=049,60 dm≤
+Antwort_3=04,960 dm≤
+Antwort_4=00,0496 dm≤
+
+[88]
+FZ1=0,043 m≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1430 cm≤
+Antwort_2=04,3 cm≤
+Antwort_3=043 cm≤
+Antwort_4=00,0043 cm≤
+
+[89]
+FZ1=0,053 m≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1530 cm≤
+Antwort_2=05,3 cm≤
+Antwort_3=053 cm≤
+Antwort_4=00,0053 cm≤
+
+[90]
+FZ1=902 cm≤
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=10,0902 m≤	
+Antwort_2=00,000902 m≤	
+Antwort_3=00,00902 m≤	
+Antwort_4=00,902 m≤	
+
+[91]
+FZ1=#schwer (32000-500000 Euro)
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[92]
+FZ1=588,23 cm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=15,8823 dm≤
+Antwort_2=058.823 dm≤
+Antwort_3=058,823 dm≤
+Antwort_4=05882,3 dm≤
+
+[93]
+FZ1=89.564 mm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=18,9564 dm≤
+Antwort_2=089,564 dm≤
+Antwort_3=00,89564 dm≤
+Antwort_4=0895,64 dm≤
+
+[94]
+FZ1=23,8868 m≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1238.868 cm≤
+Antwort_2=0238,868 cm≤
+Antwort_3=02,38868 cm≤
+Antwort_4=02.388,68 cm≤
+
+[95]
+FZ1=12,003 cm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=10,12003 dm≤
+Antwort_2=0120,03 dm≤
+Antwort_3=01,2003 dm≤
+Antwort_4=01.200,3 dm≤
+
+[96]
+FZ1=0,43 m≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1430.000 mm≤
+Antwort_2=04.300 mm≤
+Antwort_3=043.000 mm≤
+Antwort_4=00,000043 mm≤
+
+[97]
+FZ1=23.500 mm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=10,0235 m≤
+Antwort_2=02,35 m≤
+Antwort_3=00,235 m≤
+Antwort_4=023,5 m≤
+
+[98]
+FZ1=0,44 cm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=10,000044 m≤
+Antwort_2=044 m≤
+Antwort_3=00,00044 m≤
+Antwort_4=00,0044 m≤
+
+[99]
+FZ1=23,044 m≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=12.304,4 dm≤
+Antwort_2=0230,4 dm≤
+Antwort_3=023.044 dm≤
+Antwort_4=0230.440 dm≤
+
+[100]
+FZ1=0,00776 m≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=177,6 cm≤	
+Antwort_2=0776 cm≤	
+Antwort_3=07,76 cm≤	
+Antwort_4=00,0000776 cm≤	
+
+[101]
+FZ1=56,2 cm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=10,00562 m≤	
+Antwort_2=00,562 m≤	
+Antwort_3=00,0562 m≤	
+Antwort_4=05.620,0 m≤	
+
+[102]
+FZ1=0,029 m≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=129.000 mm≤	
+Antwort_2=0290.000 mm≤	
+Antwort_3=02.900 mm≤	
+Antwort_4=029 mm≤	
+
+[103]
+FZ1=44.322 mm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=10,044322 m≤	
+Antwort_2=00,0044322 m≤	
+Antwort_3=00,44322 m≤	
+Antwort_4=04,4322 m≤	
+
+[104]
+FZ1=234,5 cm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=10,02345 m≤	
+Antwort_2=02,345 m≤	
+Antwort_3=00,2345 m≤	
+Antwort_4=00,002345 m≤	
+
+[105]
+FZ1=412 m≤
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=14.120.000 cm≤	
+Antwort_2=041.200 cm≤	
+Antwort_3=0412.000 cm≤	
+Antwort_4=00,00412 cm≤	
+
+[106]
+FZ1=
+FZ2=#umkehrung
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[107]
+FZ1=23,42 cm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=10,2342 dm≤	
+Antwort_2=00,2342 m≤	
+Antwort_3=00,2342 cm≤	
+Antwort_4=00,2342 mm≤	
+
+[108]
+FZ1=0,000276 m≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=12,76 cm≤	
+Antwort_2=02,76 mm≤	
+Antwort_3=02,76 dm≤	
+Antwort_4=02,76 m≤	
+
+[109]
+FZ1=529 cm≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=15,29 dm≤	
+Antwort_2=05,29 m≤	
+Antwort_3=05,29 cm≤	
+Antwort_4=05,29 mm≤	
+
+[110]
+FZ1=0,00229 m≤
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=12.290 mm≤	
+Antwort_2=02.290 cm≤	
+Antwort_3=02.290 m≤	
+Antwort_4=02.290 dm≤	
+
+[111]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+

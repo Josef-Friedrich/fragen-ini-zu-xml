@@ -1,0 +1,1105 @@
+[Thema]
+Thema= Grundschule C
+Fragen=100
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Was ist der Yeti ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 legendärer Schneemensch
+Antwort_2=0	 Vulkan in Alaska
+Antwort_3=0	 Bruder von Superman
+Antwort_4=0	   Schluckauf auf Chinesisch
+
+[2]
+FZ1=
+FZ2=Wie heißt das Kinderhilfswerk der Vereinten Nationen ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 UNICEF
+Antwort_2=0	 UNILEVER
+Antwort_3=0	 UNIVERSI
+Antwort_4=0	  UNIMOG
+
+[3]
+FZ1=
+FZ2=Welches Instrument zeigt die Himmelsrichtung an ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Kompass
+Antwort_2=0	 Fernglas
+Antwort_3=0	 Mikroskop
+Antwort_4=0	  Sanduhr
+
+[4]
+FZ1=
+FZ2=Womit jagen Taucher ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Harpune
+Antwort_2=0	 Frisbee
+Antwort_3=0	 Bumerang
+Antwort_4=0	 Tomahawk
+
+[5]
+FZ1=
+FZ2=Welcher Hund wird in Deutschland
+FZ3=oft als Blindenhund eingesetzt ?
+Min=0
+Max=300
+Antwort_1=1	 Schäferhund
+Antwort_2=0	 Dackel
+Antwort_3=0	 Bernhardiner
+Antwort_4=0	  Pudel
+
+[6]
+FZ1=
+FZ2=Was bedeutet DFB ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Deutscher Fußball Bund
+Antwort_2=0	 Deutsches Fassbier
+Antwort_3=0	 Dänische Frauenbewegung
+Antwort_4=0	 Dortmunder Fliegerbehörde
+
+[7]
+FZ1=
+FZ2=Welcher Monat ist de kürzeste ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Februar
+Antwort_2=0	 Juli
+Antwort_3=0	 Mai
+Antwort_4=0	 Januar
+
+[8]
+FZ1=
+FZ2=Was benötigt man, um mit dem Computer
+FZ3=ins Internet zu kommen ?
+Min=0
+Max=300
+Antwort_1=1	 Modem
+Antwort_2=0	 Harem
+Antwort_3=0	 Moslem
+Antwort_4=0	 Tandem
+
+[9]
+FZ1=
+FZ2=Welcher Sinn ist außer dem Hörsinn
+FZ3=noch im Ohr zu finden ?
+Min=0
+Max=300
+Antwort_1=1	 Gleichgewichtssinn
+Antwort_2=0	 Spürsinn
+Antwort_3=0	 Unsinn
+Antwort_4=0	  Siebente Sinn
+
+[10]
+FZ1=
+FZ2=Wo steht der berühmte Schiefe Turm ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Pisa
+Antwort_2=0	 Passau
+Antwort_3=0	 Pula
+Antwort_4=0	 Prag
+
+[11]
+FZ1=
+FZ2=Wohin führte die weiteste Reise, die ein
+FZ3=Mensch jemals gemacht hat ?
+Min=0
+Max=300
+Antwort_1=1	 Mond
+Antwort_2=0	 Sonne
+Antwort_3=0	 Mars
+Antwort_4=0	  Venus
+
+[12]
+FZ1=
+FZ2=Wie nennt man den Beruf der Person, die
+FZ3=Computersoftware schreibt ?
+Min=0
+Max=300
+Antwort_1=0	 Installateur
+Antwort_2=1	 Programmierer
+Antwort_3=0	 Anästhesist
+Antwort_4=0	 Kopierer
+
+[13]
+FZ1=
+FZ2=Was kann man in einer Konditorei kaufen ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Kuchen
+Antwort_2=0	 Schrauben
+Antwort_3=0	 Zeitungen
+Antwort_4=0	 Möbel
+
+[14]
+FZ1=
+FZ2=Was ist eine Sultanine ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 große, kernlose Rosine
+Antwort_2=0	 Priestergewand
+Antwort_3=0	 Frau des Sultans
+Antwort_4=0	 Ponyrasse
+
+[15]
+FZ1=
+FZ2=Was klebt der Gerichtsvollzieher in Deutschland
+FZ3=umgangssprachlich auf gepfändete Sachen?
+Min=0
+Max=300
+Antwort_1=1	 Kuckuck
+Antwort_2=0	 Eule
+Antwort_3=0	 Geier
+Antwort_4=0	  Ente
+
+[16]
+FZ1=
+FZ2=Zu welchem Körperteil gehören Elle und Speiche ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Arm
+Antwort_2=0	 Bein
+Antwort_3=0	 Bauch
+Antwort_4=0	 Kopf
+
+[17]
+FZ1=
+FZ2=Welches ist kein Sternzeichen ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Schutzmann
+Antwort_2=0	 Wassermann
+Antwort_3=0	 Waage
+Antwort_4=0	  Steinbock
+
+[18]
+FZ1=
+FZ2=Mit welchen drei Buchstaben beginnen
+FZ3=die meisten Internet - Adressen ?
+Min=0
+Max=300
+Antwort_1=1	 www
+Antwort_2=0	 vvv
+Antwort_3=0	 bbb
+Antwort_4=0	 ccc
+
+[19]
+FZ1=
+FZ2=Wie nennt man die Angehörigen der
+FZ3=evangelischen Kirche auch noch ?
+Min=0
+Max=300
+Antwort_1=1	 Protestanten
+Antwort_2=0	 Ministranten
+Antwort_3=0	 Demonstranten
+Antwort_4=0	  Intriganten
+
+[20]
+FZ1=
+FZ2=Wie heißt der Autor der Fantasieerzählung
+FZ3="Die unendliche Geschichte" ?
+Min=0
+Max=300
+Antwort_1=1	 Michael Ende
+Antwort_2=0	 Moritz Schluss
+Antwort_3=0	 Manfred Anfang
+Antwort_4=0	 Benjamin Beginn
+
+[21]
+FZ1=
+FZ2=Zu welchem Bundesland gehört Bad Tölz ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Bayern
+Antwort_2=0	 Saarland
+Antwort_3=0	 Thüringen
+Antwort_4=0	 Hessen
+
+[22]
+FZ1=
+FZ2=Aus welchem Land kommt Sushi ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Japan
+Antwort_2=0	 China
+Antwort_3=0	 Indien
+Antwort_4=0	 Chile
+
+[23]
+FZ1=
+FZ2=Wie heißt der Balaton auf Deutsch ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Plattensee
+Antwort_2=0	 Gardasee
+Antwort_3=0	 Attersee
+Antwort_4=0	 Viktoriasee
+
+[24]
+FZ1=
+FZ2=Was ist kein Teil vom Gehirn ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Apfelmus
+Antwort_2=0	 Hypophyse
+Antwort_3=0	 Thalamus
+Antwort_4=0	 Hypothalamus
+
+[25]
+FZ1=
+FZ2=Wie heißt die elektronische Post,
+FZ3=die über das Internet verschickt wird ?
+Min=500
+Max=2000
+Antwort_1=1	 E - Mail
+Antwort_2=0	 E - Post
+Antwort_3=0	 E - Letter
+Antwort_4=0	 E - Cash
+
+[26]
+FZ1=
+FZ2=Was ist eine Klamm ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 tiefe, enge Felsschlucht
+Antwort_2=0	 hohe, steile Felsnadel
+Antwort_3=0	 österreichische Berghexe
+Antwort_4=0	 Hausfrau, die immer pleite ist
+
+[27]
+FZ1=
+FZ2=Was ist das Symbol der Olympischen Spiele ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 fünf Ringe
+Antwort_2=0	 Bälle
+Antwort_3=0	 Kelch
+Antwort_4=0	 Pokal
+
+[28]
+FZ1=
+FZ2=Ein Wimpel ist immer ...  ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 dreieckig
+Antwort_2=0	 achteckig
+Antwort_3=0	 viereckig
+Antwort_4=0	 rund
+
+[29]
+FZ1=
+FZ2=Wie heißt der deutsche Anglergruß ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Petri Heil
+Antwort_2=0	 Gut Fisch
+Antwort_3=0	 Zicke Zacke Zackenbarsch
+Antwort_4=0	 Angel und Rutenbruch
+
+[30]
+FZ1=
+FZ2=Welche Schachfigur kann andere überspringen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Springer
+Antwort_2=0	 Läufer
+Antwort_3=0	 Bauer
+Antwort_4=0	 Dame
+
+[31]
+FZ1=
+FZ2=Bei welcher Sportart wird gebaggert,
+FZ3=geschmettert und gestellt ?
+Min=500
+Max=2000
+Antwort_1=1	 Volleyball
+Antwort_2=0	 Wasserball
+Antwort_3=0	 Kegeln
+Antwort_4=0	 Tennis
+
+[32]
+FZ1=
+FZ2=Wie heißt ein erfolgreiches Kinderbuch von Janosch ?
+FZ3="Oh wie schön ist ... ?"
+Min=500
+Max=2000
+Antwort_1=1	 Panama
+Antwort_2=0	 Bukarest
+Antwort_3=0	 Feuerland
+Antwort_4=0	 Mexiko
+
+[33]
+FZ1=
+FZ2=Wie heißt das Motto der Pfadfinder ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Allzeit bereit
+Antwort_2=0	 Helfen macht Freude
+Antwort_3=0	 Gut Holz
+Antwort_4=0	 Eine Hand wäscht die andere
+
+[34]
+FZ1=
+FZ2=Wie nennt man die Lehre von Gott und Glauben ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Theologie
+Antwort_2=0	 Biologie
+Antwort_3=0	 Zoologie
+Antwort_4=0	 Geologie
+
+[35]
+FZ1=
+FZ2=Was ist ein Katamaran ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Wasserfahrzeug
+Antwort_2=0	 Vogel
+Antwort_3=0	 Katzenbär
+Antwort_4=0	 Tempel
+
+[36]
+FZ1=
+FZ2=Bei der Hochzeitsfeier zu Kana
+FZ3=verwandelte Jesus Wasser in ... ?
+Min=500
+Max=2000
+Antwort_1=1	 Wein
+Antwort_2=0	 Tee
+Antwort_3=0	 Bier
+Antwort_4=0	 Limonade
+
+[37]
+FZ1=
+FZ2=Wie heißen die Früchte der Eiche ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Eicheln  
+Antwort_2=0	Kastanien
+Antwort_3=0	 Bucheckern
+Antwort_4=0	 Tannenzapfen
+
+[38]
+FZ1=
+FZ2=Welche Sportart zählt nicht zur Leichtathletik ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Boxen
+Antwort_2=0	 Weitsprung
+Antwort_3=0	 100 - m - Lauf
+Antwort_4=0	 Speerwurf
+
+[39]
+FZ1=
+FZ2=Womit glättet man Werkstücke aus Holz oder Eisen
+FZ3=und befreit sie von abstehenden Spänen ?
+Min=500
+Max=2000
+Antwort_1=1	 Feile
+Antwort_2=0	 Pinsel
+Antwort_3=0	 Schraubendreher
+Antwort_4=0	 Zange
+
+[40]
+FZ1=
+FZ2=Wo schlägt man schwierige Wörter nach ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Wörterbuch
+Antwort_2=0	 Adressbuch
+Antwort_3=0	 Telefonbuch
+Antwort_4=0	 Märchenbuch
+
+[41]
+FZ1=
+FZ2=Wie heißt das männliche Hausschwein ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Eber
+Antwort_2=0	 Hengst
+Antwort_3=0	 Wildschwein
+Antwort_4=0	 Erpel
+
+[42]
+FZ1=
+FZ2=Von wem wird Tweety gejagt ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Sylvester
+Antwort_2=0	 Tom
+Antwort_3=0	 Pluto
+Antwort_4=0	Flipper
+
+[43]
+FZ1=
+FZ2=Wie lautet das letzte Wort in der Bibel ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Amen
+Antwort_2=0	 Ende
+Antwort_3=0	 Himmel
+Antwort_4=0	 Erde
+
+[44]
+FZ1=
+FZ2=Welches Metall wird zur Füllung von Thermometern verwendet ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Quecksilber
+Antwort_2=0	 Aluminium
+Antwort_3=0	 Kupfer
+Antwort_4=0	Platin
+
+[45]
+FZ1=
+FZ2=Wie viele Personen strampeln auf einem Tandem ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 2
+Antwort_2=0	 3
+Antwort_3=0	 4
+Antwort_4=0	 5
+
+[46]
+FZ1=
+FZ2=Wie nennen die Indianer ihre Hauszelte ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Wigwam
+Antwort_2=0	 Mokassin
+Antwort_3=0	 Squaw
+Antwort_4=0	Manitu
+
+[47]
+FZ1=
+FZ2=Welcher Hunderasse gehört Snoopy an ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Beagle
+Antwort_2=0	 Bullterrier
+Antwort_3=0	 Dackel
+Antwort_4=0	 Pudel
+
+[48]
+FZ1=
+FZ2=Wie heißt die Autorin von "Harry Potter" ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Joanne K. Rowling
+Antwort_2=0	 Rosamunde Pilcher
+Antwort_3=0	 Christiane Nöstlinger
+Antwort_4=0	Danielle Steel
+
+[49]
+FZ1=
+FZ2=Was ist auf einer Piratenflagge abgebildet ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Totenkopf
+Antwort_2=0	 Schatztruhe
+Antwort_3=0	 Enterhaken
+Antwort_4=0	 Kanone
+
+[50]
+FZ1=
+FZ2=Welche Frucht zählt nicht zu den Zitrusfrüchten ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Birne
+Antwort_2=0	 Orange
+Antwort_3=0	 Mandarine
+Antwort_4=0	Zitrone
+
+[51]
+FZ1=
+FZ2=Was ist Nektar ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Blütensaft
+Antwort_2=0	 Blütenstaub
+Antwort_3=0	 Blütenwein
+Antwort_4=0	 Tautropfen
+
+[52]
+FZ1=
+FZ2=Welcher deutsche Schriftsteller schrieb die
+FZ3=Abenteuer von Winnetou und Old Shatterhand ?
+Min=4000
+Max=16000
+Antwort_1=1	 Karl May
+Antwort_2=0	 Friedrich Nietzsche
+Antwort_3=0	 Joachim Ringelnatz
+Antwort_4=0	Michael Ende
+
+[53]
+FZ1=
+FZ2=Welche deutsche Stadt ist bekannt für ihr Marzipan ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Lübeck
+Antwort_2=0	 Köln
+Antwort_3=0	 Mannheim
+Antwort_4=0	 Bochum
+
+[54]
+FZ1=
+FZ2=Welche Sportart betreiben die "Kölner Haie" ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Eishockey
+Antwort_2=0	 Wasserball
+Antwort_3=0	 Turmspringen
+Antwort_4=0	Fußball
+
+[55]
+FZ1=
+FZ2=Mit welchem Wort wird in der Seemannssprache
+FZ3=ein Schiff angerufen ?
+Min=4000
+Max=16000
+Antwort_1=1	 Ahoi !
+Antwort_2=0	 Helau !
+Antwort_3=0	 Toi, toi, toi !
+Antwort_4=0	 Ho ruck !
+
+[56]
+FZ1=
+FZ2=Aus welchem Land wollte Moses sein Volk Israel
+FZ3=wegführen und dadurch von der Sklaverei befreien ?
+Min=4000
+Max=16000
+Antwort_1=1	 Ägypten
+Antwort_2=0	 China
+Antwort_3=0	 Indien
+Antwort_4=0	Nepal
+
+[57]
+FZ1=
+FZ2=Worin wurde Moses gelegt, als er
+FZ3=als Kind ins Schilf gesetzt wurde ?
+Min=4000
+Max=16000
+Antwort_1=1	 Binsenkörbchen
+Antwort_2=0	 Tonkrug
+Antwort_3=0	 Maxicosi
+Antwort_4=0	 Kinderwagen
+
+[58]
+FZ1=
+FZ2=Was macht Mona Lisa auf dem Bild
+FZ3=von Leonardo da Vinci ?
+Min=4000
+Max=16000
+Antwort_1=1	 lächeln
+Antwort_2=0	 weinen
+Antwort_3=0	 malen
+Antwort_4=0	schlafen
+
+[59]
+FZ1=
+FZ2=Was ist ein Puck ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Scheibe beim Eishockey
+Antwort_2=0	 Fallwind in der Schweiz
+Antwort_3=0	 australischer Laufvogel
+Antwort_4=0	 giftiger Pilz
+
+[60]
+FZ1=
+FZ2=Wenn etwas unzumutbar ist, dann sagt man
+FZ3=sprichwörtlich, "Das geht auf keine ..." ?
+Min=4000
+Max=16000
+Antwort_1=1	 Kuhhaut
+Antwort_2=0	 Bärentatze
+Antwort_3=0	 Ochsenbrust
+Antwort_4=0	Affenstirn
+
+[61]
+FZ1=
+FZ2=Welches Land hat die meisten Einwohner ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 China
+Antwort_2=0	 Russland
+Antwort_3=0	 Österreich
+Antwort_4=0	Deutschland
+
+[62]
+FZ1=
+FZ2=Was ist keine Gangart des Pferdes ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Spagat
+Antwort_2=0	 Galopp
+Antwort_3=0	 Schritt
+Antwort_4=0	Trab
+
+[63]
+FZ1=
+FZ2=Wie nennt man den Weihnachtsmann in Amerika ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Santa Claus
+Antwort_2=0	 Lichterkönig
+Antwort_3=0	 Air Jordan
+Antwort_4=0	Väterchen Frost
+
+[64]
+FZ1=
+FZ2=Wie nennt man Meeresbuchten in Norwegen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Fjorde
+Antwort_2=0	 Buchten
+Antwort_3=0	 Klippen
+Antwort_4=0	Lagunen
+
+[65]
+FZ1=
+FZ2=Was bestellt man in Italien, wenn man Lust auf
+FZ3=eine Gemüsesuppe hat ?
+Min=32000
+Max=125000
+Antwort_1=1	 Minestrone
+Antwort_2=0	 Galeone
+Antwort_3=0	 Schablone
+Antwort_4=0	Anemone
+
+[66]
+FZ1=
+FZ2=Was ist eine Quitte ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 gelbe Frucht
+Antwort_2=0	 kleine Quittung
+Antwort_3=0	 indisches Instrument
+Antwort_4=0	 durchsichtiges Tier
+
+[67]
+FZ1=
+FZ2=Wie heißt das Heilverfahren, bei dem Medikamente
+FZ3=in sehr starken Verdünnungen verabreicht werden ?
+Min=32000
+Max=125000
+Antwort_1=1	 Homöopathie
+Antwort_2=0	 Sympathie
+Antwort_3=0	 Telepathie
+Antwort_4=0	Allopathie
+
+[68]
+FZ1=
+FZ2=Man spricht von einer Eskimorolle, wenn ... ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 man ein Kanu im Wasser herumdreht
+Antwort_2=0	 ein Schauspieler nackt spielt
+Antwort_3=0	 man einen Salto im Schnee macht
+Antwort_4=0	man ein Stück Eistorte bestellt
+
+[69]
+FZ1=
+FZ2=Welche Farbe hat des Trikot des
+FZ3=Spitzenreiters bei der Tour de France ?
+Min=32000
+Max=125000
+Antwort_1=1	 gelb
+Antwort_2=0	 rot
+Antwort_3=0	 blau
+Antwort_4=0	grün
+
+[70]
+FZ1=
+FZ2=Was ist der Schwarzwald ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Mittelgebirge
+Antwort_2=0	 Wald
+Antwort_3=0	 Steppe
+Antwort_4=0	Wüste
+
+[71]
+FZ1=
+FZ2=Mario Basler ist ein berühmter ... ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Fußballer
+Antwort_2=0	 Politiker
+Antwort_3=0	 Clown
+Antwort_4=0	Maler
+
+[72]
+FZ1=
+FZ2=Durch welche Stadt fließt der Rhein nicht ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Berlin
+Antwort_2=0	 Bonn
+Antwort_3=0	 Köln
+Antwort_4=0	Düsseldorf
+
+[73]
+FZ1=
+FZ2=Mit wem sind Igel verwandt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Maulwürfe
+Antwort_2=0	 Schweine
+Antwort_3=0	 Echsen
+Antwort_4=0	Insekten
+
+[74]
+FZ1=
+FZ2=Wie nennt man den Vormagen bei Wiederkäuern ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Pansen
+Antwort_2=0	 Fransen
+Antwort_3=0	 Nansen
+Antwort_4=0	Hansen
+
+[75]
+FZ1=
+FZ2=Wie heißen die Zahlen, die nur durch eins
+FZ3=und sich selbst teilbar sind ?
+Min=32000
+Max=125000
+Antwort_1=1	 Primzahlen
+Antwort_2=0	 Quadratzahlen
+Antwort_3=0	 Dualzahlen
+Antwort_4=0	Imanigäre Zahlen
+
+[76]
+FZ1=
+FZ2=Wo findet man den Meniskus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 im Kniegelenk
+Antwort_2=0	 in einem Motor
+Antwort_3=0	 auf der Wiese
+Antwort_4=0	in einem Liebesfilm
+
+[77]
+FZ1=
+FZ2=Was ist der Duden ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Wörterbuch
+Antwort_2=0	 Zauberer
+Antwort_3=0	 Drache
+Antwort_4=0	germanischer Marterpfahl
+
+[78]
+FZ1=
+FZ2=Wie lange lebt eine Eintagsfliege ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 ein bis zwei Tage
+Antwort_2=0	 drei Wochen
+Antwort_3=0	 ein Jahr
+Antwort_4=0	zwei Monate
+
+[79]
+FZ1=
+FZ2=Wovon ernähren sich Termiten hauptsächlich ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Holz
+Antwort_2=0	 Ameisen
+Antwort_3=0	 Teer
+Antwort_4=0	Honig
+
+[80]
+FZ1=
+FZ2=Wie heißt ein rhythmischer Tanz aus Spanien ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Bolero
+Antwort_2=0	 Bizeps
+Antwort_3=0	 Bali
+Antwort_4=0	Balalaika
+
+[81]
+FZ1=
+FZ2=Wie nennt man eine kleine
+FZ3=französische Gastwirtschaft ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Bistro
+Antwort_2=0	 Metro
+Antwort_3=0	 Intro
+Antwort_4=0	Castro
+
+[82]
+FZ1=
+FZ2=Wie heißt der teuerste Platz im Theater ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Loge
+Antwort_2=0	 Kaiserstuhl
+Antwort_3=0	 Hochsitz
+Antwort_4=0	Schleudersitz
+
+[83]
+FZ1=
+FZ2=Wie lange braucht das Licht etwa
+FZ3=von der Erde bis zum Mond ?
+Min=250000
+Max=1000000
+Antwort_1=1	 eine Sekunde
+Antwort_2=0	 eine Minute
+Antwort_3=0	 eine Stunde
+Antwort_4=0	einen Tag
+
+[84]
+FZ1=
+FZ2=Welche beiden Farben gibt es sowohl auf der
+FZ3=Flagge Österreichs als auch der Schweiz ?
+Min=250000
+Max=1000000
+Antwort_1=1	 weiß - rot
+Antwort_2=0	 grün - lila
+Antwort_3=0	 blau - gelb
+Antwort_4=0	gelb - grau
+
+[85]
+FZ1=
+FZ2=Bei welchem Ereignis steht der Mond
+FZ3=im Schatten der Erde ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Mondfinsternis
+Antwort_2=0	 Sonnenfinsternis
+Antwort_3=0	 Neumond
+Antwort_4=0	Winteranfang
+
+[86]
+FZ1=
+FZ2=Wozu braucht das Eichhörnchen seinen Schwanz ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Steuern beim Springen
+Antwort_2=0	 Nüsseknacken
+Antwort_3=0	 Pfotenputzen
+Antwort_4=0	Nestbauen
+
+[87]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt vom
+FZ3=Bundesland Saarland ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Saarbrücken
+Antwort_2=0	 Saartäler
+Antwort_3=0	 Saarbalken
+Antwort_4=0	Saarstege
+
+[88]
+FZ1=
+FZ2=Welcher deutsche Schriftsteller schrieb
+FZ3="Hans Huckebein, der Unglücksrabe" ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Wilhelm Busch
+Antwort_2=0	 Karl Valentin
+Antwort_3=0	 Eugen Roth
+Antwort_4=0	Karl May
+
+[89]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt vom
+FZ3=Bundesland Hamburg ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Hamburg
+Antwort_2=0	 Bremen
+Antwort_3=0	 Berlin
+Antwort_4=0	Köln
+
+[90]
+FZ1=
+FZ2=Henry Maske war Weltmeister im ... ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Boxen
+Antwort_2=0	 Hochsprung
+Antwort_3=0	 Ringen
+Antwort_4=0	Fechten
+
+[91]
+FZ1=
+FZ2=Was ist eine Squaw ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Indianerfrau
+Antwort_2=0	 Salbe
+Antwort_3=0	 elektrische Zahnbürste
+Antwort_4=0	Schlittenhündin
+
+[92]
+FZ1=
+FZ2=Was ist ein Xylophon ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Musikinstrument
+Antwort_2=0	 Bügeleisen
+Antwort_3=0	 Hörgerät
+Antwort_4=0	 Füllfederhalter
+
+[93]
+FZ1=
+FZ2=Was ist ein Bison ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Tier
+Antwort_2=0	 Teppich
+Antwort_3=0	 Auto
+Antwort_4=0	Decke
+
+[94]
+FZ1=
+FZ2=Wofür steht die Abkürzung "PC" ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Personal Computer
+Antwort_2=0	 Lungenkrankheit
+Antwort_3=0	 Postcard
+Antwort_4=0	akademischer Titel
+
+[95]
+FZ1=
+FZ2=Welche Nahrungsmittel vermehrte Jesus bei
+FZ3=der Speisung von 5.000 Menschen ?
+Min=250000
+Max=1000000
+Antwort_1=1	 5 Brote und 2 Fische
+Antwort_2=0	 7 Äpfel
+Antwort_3=0	 1 Schaf und 1 Rind
+Antwort_4=0	 12 Oliven und 3 Datteln
+
+[96]
+FZ1=
+FZ2=Wie sagte man früher in Deutschland, und heute
+FZ3=noch in Österreich, zur Mohrrübe ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Karotte
+Antwort_2=0	 Erdrübe
+Antwort_3=0	 Marotte
+Antwort_4=0	Weißrübe
+
+[97]
+FZ1=
+FZ2=Was ist der Himalaya ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Gebirge
+Antwort_2=0	 Jupitermond
+Antwort_3=0	 Zeichentricktier
+Antwort_4=0	asiatisches Gericht
+
+[98]
+FZ1=
+FZ2=In welcher Staatsform findet man
+FZ3=einen amtierenden König ?
+Min=250000
+Max=500000
+Antwort_1=1	 Monarchie
+Antwort_2=0	 Kommunismus
+Antwort_3=0	 Demokratie
+Antwort_4=0	Anarchie
+
+[99]
+FZ1=
+FZ2=Was ist Asthma ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Atemwegserkrankung
+Antwort_2=0	 Sportwagen
+Antwort_3=0	 Mandelentzündung
+Antwort_4=0	Schokoriegel
+
+[100]
+FZ1=
+FZ2=Welche Frucht ist kein Steinobst ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Kiwi
+Antwort_2=0	 Marille
+Antwort_3=0	 Pflaume
+Antwort_4=0	Kirsche
+

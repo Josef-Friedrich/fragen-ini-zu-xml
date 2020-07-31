@@ -1,0 +1,1122 @@
+[Thema]
+Thema=Musikfragen von der 2a der HS Pottenbrunn
+Fragen=101
+Autor=HL Margit Kastner, 5/2001
+
+[1]
+FZ1=
+FZ2=Welchen Beinamen gab man Johann Strauß-Sohn?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Opernkaiser
+Antwort_2=1Walzerkönig
+Antwort_3=0König der Musik
+Antwort_4=0Komponiermeister
+
+[2]
+FZ1=
+FZ2=Welches Instrument wird nicht in der Volksmusik verwendet?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Harfe
+Antwort_2=0Zither
+Antwort_3=1Oboe
+Antwort_4=0Hackbrett
+
+[3]
+FZ1=
+FZ2=Welches Instrument ist kein Blasinstrument?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Trompete
+Antwort_2=0Oboe
+Antwort_3=1Cello
+Antwort_4=0Okarina
+
+[4]
+FZ1=
+FZ2=In welchem Land singt man "Dalar gibi" ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Türkei
+Antwort_2=0Österreich
+Antwort_3=0Ungarn
+Antwort_4=0Frankreich
+
+[5]
+FZ1=
+FZ2=Was heißt ORF?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Österreichisch-Rundfunk-Fernsehen
+Antwort_2=0Otto rettet Fritz
+Antwort_3=1Österreichischer Rundfunk
+Antwort_4=0Östlicher Radiosender
+
+[6]
+FZ1=
+FZ2=Das Schallloch der Geige wird als .... bezeichnet.FZ3=
+Min=0
+Max=500
+Antwort_1=1f-Loch
+Antwort_2=0m-Loch
+Antwort_3=0p-Loch
+Antwort_4=0s-Loch
+
+[7]
+FZ1=
+FZ2=Welcher Begriff gehört nicht zu Geige und Bogen?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Frosch
+Antwort_2=0Schnecke
+Antwort_3=0Wirbel
+Antwort_4=1Wurm
+
+[8]
+FZ1=
+FZ2=Was ist eine Oktav?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Abstand von 8 Tönen
+Antwort_2=0Gern gesungenes Lied
+Antwort_3=0Hohe Singstimme
+Antwort_4=0Neue Komposition
+
+[9]
+FZ1=
+FZ2=Welches Wort fehlt? "Eine kleine ... " (Mozart)
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Serenade
+Antwort_2=1Nachtmusik
+Antwort_3=0Tochter
+Antwort_4=0Unterhaltung
+
+[10]
+FZ1=
+FZ2=Wie lautet der Vorname von Mozart?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Ferdinand
+Antwort_2=0Ludwig
+Antwort_3=1Wolfgang
+Antwort_4=0Johann
+
+[11]
+FZ1=
+FZ2=Wo wurde Mozart geboren?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Wien
+Antwort_2=0München
+Antwort_3=0Paris
+Antwort_4=1Salzburg
+
+[12]
+FZ1=
+FZ2=Wie werden Volkslieder überliefert?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1mündlich
+Antwort_2=0schriftlich
+Antwort_3=0in Zeichensprache
+Antwort_4=0mit dem Computer
+
+
+[13]
+FZ1=
+FZ2=Wie wird eine kleine CD genannt?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Little Disc
+Antwort_2=0Baby Disc
+Antwort_3=1Mini Disc
+Antwort_4=0Micro Disc
+
+[14]
+FZ1=
+FZ2=Welches schwere Schicksal musste Beethoven erleiden?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0stumm
+Antwort_2=0gelähmt
+Antwort_3=1taub
+Antwort_4=0blind
+
+[15]
+FZ1=
+FZ2=Welches Instrument wird nicht gestrichen?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Gitarre
+Antwort_2=0Geige
+Antwort_3=0Viola
+Antwort_4=0Cello
+
+[16]
+FZ1=
+FZ2=Was ist eine Note?
+FZ3=
+Min=0
+Max=500
+Antwort_1=0Gleichmäßige Schläge
+Antwort_2=0Instrument
+Antwort_3=1Musikalisches Zeichen
+Antwort_4=0Liedtext
+
+[17]
+FZ1=
+FZ2=Ab welchem Ton wird der Notenhals nach unten gerichtet?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=0a
+Antwort_2=0c
+Antwort_3=1h
+Antwort_4=0d
+
+[18]
+FZ1=
+FZ2=In welcher Stadt wurde Beethoven geboren?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0Frankfurt
+Antwort_2=0Wien
+Antwort_3=1Bonn
+Antwort_4=0Salzburg
+
+[19]
+FZ1=
+FZ2=Mit welchem Lied gewann Udo Jürgens 1966 den Song-Contest?
+FZ3=
+Min=0
+Max=32000
+Antwort_1=0Aber bitte mit Sahne
+Antwort_2=0Mit 66 Jahren
+Antwort_3=0Lucky
+Antwort_4=1Merci Cherie
+
+[20]
+FZ1=
+FZ2=Wann lebte Beethoven?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=01944-1999
+Antwort_2=01800-1870
+Antwort_3=01450-1510
+Antwort_4=11770-1827
+
+[21]
+FZ1=
+FZ2=Was ist ein Synthesizer?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0Harfenart
+Antwort_2=1modernes Keyboard
+Antwort_3=0Lied in einer Oper
+Antwort_4=0große Flöte
+
+[22]
+FZ1=
+FZ2=Wer singt das Lied "Schifahr'n"?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=0Reinhard Fendrich
+Antwort_2=1Wolfgang Ambros
+Antwort_3=0Hansi Hinterseer
+Antwort_4=0Herbert Grönemayer
+
+[23]
+FZ1=
+FZ2=Wann gewann Udo Jürgens für Österreich den Song-Contest?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=01950
+Antwort_2=01960
+Antwort_3=11966
+Antwort_4=01976
+
+[24]
+FZ1=
+FZ2=Wie viele Werke komponierte Johann Strauß-Sohn?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0ca. 100
+Antwort_2=0ca. 1000
+Antwort_3=1ca. 500
+Antwort_4=0ca. 5000
+
+[25]
+FZ1=
+FZ2=In welchem Jahr feiern wir Verdi's 100. Todestag?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=02000
+Antwort_2=02010
+Antwort_3=12001
+Antwort_4=02025
+
+[26]
+FZ1=
+FZ2=Wann starb Johann Strauß-Sohn?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=01999
+Antwort_2=01450
+Antwort_3=11899
+Antwort_4=01801
+
+[27]
+FZ1=
+FZ2=Wie heißt die Schwester von Michael Jackson?
+FZ3=
+Min=500
+Max=64000
+Antwort_1=0Maria
+Antwort_2=0Britney
+Antwort_3=1Janet
+Antwort_4=0Nelly
+
+[28]
+FZ1=
+FZ2=Vor welcher Kaiserin musizierte Mozart als Kind?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1Maria Theresia
+Antwort_2=0Elisabeth
+Antwort_3=0Mutter Theresa
+Antwort_4=0Viktoria
+
+[29]
+FZ1=
+FZ2=Wie bezeichnet man die ersten Schallplatten ?
+FZ3=
+Min=500
+Max=64000
+Antwort_1=0First LPs
+Antwort_2=1Schellacks
+Antwort_3=0CD
+Antwort_4=0Erstlingsplatten
+
+[30]
+FZ1=
+FZ2=Welches Werk ist keine Operette?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Die Fledermaus
+Antwort_2=0Der Zigeunerbaron
+Antwort_3=0Land des Lächelns
+Antwort_4=1Cats
+
+[31]
+FZ1=
+FZ2=Wie hießen die Brüder von Johann Strauß-Sohn?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0Max und Moritz
+Antwort_2=0Horst und Rudolf
+Antwort_3=1Josef und Eduard
+Antwort_4=0Georg und Hans
+
+[32]
+FZ1=
+FZ2=Auf welchem Gerät werden Schellacks abgespielt?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=0Radio
+Antwort_2=1Grammophon
+Antwort_3=0CD-Player
+Antwort_4=0Tonbandgerät
+
+[33]
+FZ1=
+FZ2=Wer erfand das Grammophon ?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1Berliner
+Antwort_2=0Edison
+Antwort_3=0Morse
+Antwort_4=0Bell
+
+[34]
+FZ1=
+FZ2=Wo befinden sich die Halbtonschritte bei einer Dur-Tonleiter?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=01/2 und 3/4
+Antwort_2=13/4 und 7/8
+Antwort_3=04/5 und 5/6
+Antwort_4=02/3 und 6/7
+
+[35]
+FZ1=
+FZ2=Welche Szene vertont Smetana in der "Moldau"?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=0Geburtstagsfest
+Antwort_2=1Hochzeit
+Antwort_3=0Zirkus
+Antwort_4=0Begräbnis
+
+[36]
+FZ1=
+FZ2=Wo studierte Verdi Musik?
+FZ3=
+Min=16000
+Max=1000000
+Antwort_1=0England
+Antwort_2=0USA
+Antwort_3=1Mailand
+Antwort_4=0Ungarn
+
+[37]
+FZ1=
+FZ2=Wie viele Sinfonien schrieb Beehoven?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=04
+Antwort_2=012
+Antwort_3=19
+Antwort_4=01
+
+[38]
+FZ1=
+FZ2=Von wem ist die Oper "Die Zauberflöte"?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Beethoven
+Antwort_2=1Mozart
+Antwort_3=0Schubert
+Antwort_4=0Verdi
+
+[39]
+FZ1=
+FZ2=Wie heißt die parallele Moll-Tonleiter zu C-Dur?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0fis-Moll
+Antwort_2=0h-Moll
+Antwort_3=0d-Moll
+Antwort_4=1a-Moll
+
+[40]
+FZ1=
+FZ2=Welches Instrument spielt das Thema für "Peter" in "Peter und der Wolf"?
+FZ3=
+Min=1000
+Max=125000
+Antwort_1=0Fagott
+Antwort_2=0Querflöte
+Antwort_3=1Geige
+Antwort_4=0Horn
+
+[41]
+FZ1=
+FZ2=Wer singt das Lied "Butterfly"?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0No Angels
+Antwort_2=0Backstreet Boys
+Antwort_3=0Spice Girls
+Antwort_4=1Crazy Town
+
+[42]
+FZ1=
+FZ2=Was heißt die wörtliche Übersetzung von "Spice Girls"?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=0Weltraum-Mädchen
+Antwort_2=0Kreischbienen
+Antwort_3=1Gewürz-Mädchen
+Antwort_4=0Spinnen-Mädchen
+
+[43]
+FZ1=
+FZ2=Wie hieß Mozarts Schwester?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0Hannerl
+Antwort_2=0Mitzi
+Antwort_3=1Nannerl
+Antwort_4=0Sophie
+
+[44]
+FZ1=
+FZ2=Wer erfand den Phonograph?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Berliner
+Antwort_2=0Bell
+Antwort_3=0Morse
+Antwort_4=1Edison
+
+[45]
+FZ1=
+FZ2=Was ist eine Signation?
+FZ3=
+Min=500
+Max=64000
+Antwort_1=0Musikrichtung
+Antwort_2=0moderner Tanz
+Antwort_3=0Lied mit lustigem Text
+Antwort_4=1Kennmelodie
+
+[46]
+FZ1=
+FZ2=Wer komponierte die Oper "Nabucco"?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0Mozart
+Antwort_2=0Bach
+Antwort_3=0Haydn
+Antwort_4=1Verdi
+
+[47]
+FZ1=
+FZ2=Was ist eine Arie?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0Film mit Musik
+Antwort_2=1Lied in einer Oper
+Antwort_3=0lautes Instrument
+Antwort_4=0musikalisches Märchen
+
+[48]
+FZ1=
+FZ2=Wer schrieb "Peter und der Wolf"?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Friedrich Smetana
+Antwort_2=0Joseph Haydn
+Antwort_3=1Sergej Prokofiew
+Antwort_4=0Gebrüder Grimm
+
+[49]
+FZ1=
+FZ2=Wer komponierte die "Moldau"?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Johann Strauß
+Antwort_2=0George Bizet
+Antwort_3=1Friedrich Smetana
+Antwort_4=0L. van Beethoven
+
+[50]
+FZ1=
+FZ2=Wer komponierte "Carmina burana"?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Ch. Penderecky
+Antwort_2=1C. Orff
+Antwort_3=0M. Maier
+Antwort_4=0F. Schubert
+
+[51]
+FZ1=
+FZ2=Was versteht man unter "decrescendo"?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1leiser werden
+Antwort_2=0lauter werden
+Antwort_3=0höher werden
+Antwort_4=0tiefer werden
+
+[52]
+FZ1=
+FZ2=Wer baute das Metronom?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Hans Jürgen Metro
+Antwort_2=0Sebastian Trono
+Antwort_3=1Joh. Nepomuk Mälzel
+Antwort_4=0Michael Malz
+
+[53]
+FZ1=
+FZ2=Wer war Camille Saint-Saäns?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Tänzer
+Antwort_2=0Sänger
+Antwort_3=1Komponist
+Antwort_4=0Schauspieler
+
+[54]
+FZ1=
+FZ2=Was bedeutet CD?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0Conzert Dame
+Antwort_2=0Carpe diem
+Antwort_3=1Compact disc
+Antwort_4=0Coffein dog
+
+[55]
+FZ1=
+FZ2=Für welche Oper wurden spezielle Trompeten gebaut?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Die Fledermaus
+Antwort_2=0die Zauberflöte
+Antwort_3=0Die Trompetenparade
+Antwort_4=1Aida
+
+[56]
+FZ1=
+FZ2=Was ist ein Didgeridoo?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=0Schlaginstrument
+Antwort_2=0Saiteninstrument
+Antwort_3=1Blasinstrument
+Antwort_4=0Tasteninstrument
+
+[57]
+FZ1=
+FZ2=Wie heißt Beehovens einzige Oper?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Zauberflöte
+Antwort_2=0Die Wundermaske
+Antwort_3=1Fidelio
+Antwort_4=0Aida
+
+[58]
+FZ1=
+FZ2=Welches Instrument hat 6 Saiten?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0Geige
+Antwort_2=1Gitarre
+Antwort_3=0Harfe
+Antwort_4=0Didgeridoo
+
+[59]
+FZ1=
+FZ2=Wie viele Musiker spielen in einem Quintett?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0sieben
+Antwort_2=0vier
+Antwort_3=1fünf
+Antwort_4=0drei
+
+[60]
+FZ1=
+FZ2=Wie viele Musiker spielen in einem Quartett?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0sieben
+Antwort_2=1vier
+Antwort_3=0fünf
+Antwort_4=0drei
+
+
+[61]
+FZ1=
+FZ2=Welches ist das tiefste Instrument der Geigenfamilie?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0Cello
+Antwort_2=0Viola
+Antwort_3=1Kontrabass
+Antwort_4=0Violine
+
+[62]
+FZ1=
+FZ2=Wie nennt man den Leiter eines Orchesters?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0Komponist
+Antwort_2=0Orchesterleiter
+Antwort_3=0Konzertmeister
+Antwort_4=1Dirigent
+
+[63]
+FZ1=
+FZ2=Welcher Ton gehört nicht in die C-Dur-Tonleiter?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0a
+Antwort_2=1b
+Antwort_3=0e
+Antwort_4=0h
+
+[64]
+FZ1=
+FZ2=Berühmte Operette von Johann Strauß
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0Die Fliege
+Antwort_2=1Die Fledermaus
+Antwort_3=0Peter und der Wolf
+Antwort_4=0Der Froschkönig
+
+[65]
+FZ1=
+FZ2=Was sind Dynamische Zeichen
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1Bezeichnungen für die Lautstärke
+Antwort_2=0Bezeichnungen für die Tonhöhe
+Antwort_3=0Tempoangaben
+Antwort_4=0Dirigierformen
+
+[66]
+FZ1=
+FZ2=Wie viele Saiten hat die Gitarre?
+FZ3=
+Min=0
+Max=500
+Antwort_1=04
+Antwort_2=16
+Antwort_3=08
+Antwort_4=05
+
+[67]
+FZ1=
+FZ2=Was ist ein Xylofon?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0ein Schallverstärker
+Antwort_2=0ein Tasteninstrument
+Antwort_3=1Schlaginstrument mit Holzstäben
+Antwort_4=0Schlaginstrument mit Metallstäben
+
+[68]
+FZ1=
+FZ2=Wie lautet der bürgerliche Name von "Udo Jürgens"?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Brezina
+Antwort_2=0Schausberger
+Antwort_3=1Bockelmann
+Antwort_4=0Bürgler
+
+[69]
+FZ1=
+FZ2=Welches ist kein Blechblasinstrument?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0Trompete
+Antwort_2=1Oboe
+Antwort_3=0Flügelhorn
+Antwort_4=0Posaune
+
+[70]
+FZ1=
+FZ2=In wessen Dienst stand Joseph Haydn?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Fürst Esterwald
+Antwort_2=0Fürst Osterheid
+Antwort_3=1Fürst Esterhazy
+Antwort_4=0Fürst Eastwood
+
+[71]
+FZ1=
+FZ2=Welches Werk ist von Joseph Haydn?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Die kleine Nachtmusik
+Antwort_2=1Abschiedssinfonie
+Antwort_3=0Fidelio
+Antwort_4=0Donauwalzer
+
+[72]
+FZ1=
+FZ2=Geschnitztes Ende eines Violinhalses
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Wurm
+Antwort_2=0Wiesel
+Antwort_3=0Ende
+Antwort_4=1Schnecke
+
+[73]
+FZ1=
+FZ2=Welches Stück steht im 3/4 Takt?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0Polka
+Antwort_2=0Marsch
+Antwort_3=1Walzer
+Antwort_4=0Galopp
+
+[74]
+FZ1=
+FZ2=Was ist eine Sekund?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0eine Zeiteinheit
+Antwort_2=0ein altes Saiteninstrument
+Antwort_3=0eine hohe Frauenstimme
+Antwort_4=1ein Intervall
+
+[75]
+FZ1=
+FZ2=Welche Oper ist nicht von Guiseppe Verdi?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Nabucco
+Antwort_2=1Carmen
+Antwort_3=0Aida
+Antwort_4=0Othello
+
+[76]
+FZ1=
+FZ2=Was ist ein Konzertmeister?
+FZ3=
+Min=2000
+Max=125000
+Antwort_1=0spielt gut Konzerte
+Antwort_2=0kennt alle Konzerte
+Antwort_3=0hat die Meisterprüfung für Konzerte
+Antwort_4=11. Geiger im Orchester
+
+[77]
+FZ1=
+FZ2=Welcher Komponist gehört nicht in die Klassik?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Joseph Haydn
+Antwort_2=0W. A. Mozart
+Antwort_3=1J. S. Bach
+Antwort_4=0L. van Beethoven
+
+[78]
+FZ1=
+FZ2=Beginn der österreichischen Bundeshymne
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0O Heimat dich zu lieben
+Antwort_2=0Bist so schön mein liebes Vaterland
+Antwort_3=1Land der Berge, Land am Strome
+Antwort_4=0O du mein Österreich
+
+[79]
+FZ1=
+FZ2=Wie heißt die 2. Bezeichnung für Viola?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1Bratsche
+Antwort_2=0Violoncello
+Antwort_3=0Violino
+Antwort_4=0Briola
+
+[80]
+FZ1=
+FZ2=Wer komponierte die österr. Bundeshymne?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=1W. A. Mozart
+Antwort_2=0L. van Beethoven
+Antwort_3=0Franz Schubert
+Antwort_4=0Leonard Bernstein
+
+
+[81]
+FZ1=
+FZ2=Italienisches Zupfinstrument
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0Mandarine
+Antwort_2=1Mandoline
+Antwort_3=0Balalaika
+Antwort_4=0Maultrommel
+
+[82]
+FZ1=
+FZ2=Was heißt pp?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=0pupi
+Antwort_2=0Pause Pause
+Antwort_3=1sehr leise
+Antwort_4=0Piano-Klavier
+
+[83]
+FZ1=
+FZ2=Wie heißt der 3. Ton der G-Dur-Tonleiter?
+FZ3=
+Min=8000
+Max=1250000
+Antwort_1=0a
+Antwort_2=1h
+Antwort_3=0fis
+Antwort_4=0c
+
+[84]
+FZ1=
+FZ2=Was ist ein Flügel?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Flattern in der Singstimme
+Antwort_2=1Klavier
+Antwort_3=0Notenstrich
+Antwort_4=0moderne Komposition
+
+[85]
+FZ1=
+FZ2=Wie nennt man die mittlere Männerstimme?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0Bass
+Antwort_2=0Tenor
+Antwort_3=0Alt
+Antwort_4=1Bariton
+
+[86]
+FZ1=
+FZ2=Wie nennt man die tiefe Frauenstimme?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Alt
+Antwort_2=0Mezzosopran
+Antwort_3=0Bass
+Antwort_4=0Sopran
+
+[87]
+FZ1=
+FZ2=Wer war Herbert von Karajan?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Sänger
+Antwort_2=1Dirigent
+Antwort_3=0Tänzer
+Antwort_4=0Musiklehrer von Mozart
+
+[88]
+FZ1=
+FZ2=Was ist ein Sirtaki?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0türkische Hymne
+Antwort_2=0süßer Wein
+Antwort_3=1griechischer Volkstanz
+Antwort_4=0italienisches Liebeslied
+
+[89]
+FZ1=
+FZ2=Was ist ein Korrepetitor?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Operndirektor
+Antwort_2=1begleitet Sänger am Klavier
+Antwort_3=0Musikalischer Leiter eines Theaters
+Antwort_4=0bedient das Mischpult
+
+[90]
+FZ1=
+FZ2=In welche Oper gehört "Papageno"?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0Fidelio
+Antwort_2=0Oper vom Papagei
+Antwort_3=1Zauberflöte
+Antwort_4=0Aida
+
+[91]
+FZ1=
+FZ2=Was ist das Tongeschlecht?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Frauen- und Männerstimmen
+Antwort_2=1Dur und Moll
+Antwort_3=0Hohe und tiefe Töne
+Antwort_4=0Gute und schlechte Klänge
+
+[92]
+FZ1=
+FZ2=Wie viele Hertz (Hz) hat der Kammerton a?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0340Hz
+Antwort_2=0240Hz
+Antwort_3=01000Hz
+Antwort_4=1440Hz
+
+[93]
+FZ1=
+FZ2=Welches Instrument passt nicht dazu?
+FZ3=
+Min=1000
+Max=64000
+Antwort_1=0Pauke
+Antwort_2=0Becken
+Antwort_3=1Violine
+Antwort_4=0Triangel
+
+[94]
+FZ1=
+FZ2=Wie nennt man die fahrenden Sänger des Mittelalters?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Singleute
+Antwort_2=0Spielleute
+Antwort_3=0Fahrende Musikanten
+Antwort_4=1Minnesänger
+
+[95]
+FZ1=
+FZ2=Wer schrieb die "Feuerwerksmusik"?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0George Bizet
+Antwort_2=0Arnold Schönberg
+Antwort_3=0Ch. W. Gluck
+Antwort_4=1G. F. Händel
+
+[96]
+FZ1=
+FZ2=Welche Sinfonie ist nicht von L. van Beethoven?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Chorsinfonie
+Antwort_2=1Abschiedssinfonie
+Antwort_3=0Pastorale
+Antwort_4=0Schicksalssinfonie
+
+[97]
+FZ1=
+FZ2=Welche Oper ist nicht von Richard Wagner?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Tannhäuser
+Antwort_2=0Der fliegende Holländer
+Antwort_3=1Fidelio
+Antwort_4=0Der Ring des Nibelungen
+
+[98]
+FZ1=
+FZ2=Wer komponierte das Musical "Cats"?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Anton Webern
+Antwort_2=0L. Bernstein
+Antwort_3=0W. Bernau
+Antwort_4=1Andrew L. Webber
+
+[99]
+FZ1=
+FZ2=Aus welchem Land kommt der Casatschok?
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=0Ungarn
+Antwort_2=0Türkei
+Antwort_3=1Russland
+Antwort_4=0Brasilien
+
+[100]
+FZ1=
+FZ2=Durch welches Instrument wurde Nicolo Paganini berühmt?
+FZ3=
+Min=32000
+Max=1000000
+Antwort_1=0Klavier
+Antwort_2=0Querflöte
+Antwort_3=1Violine
+Antwort_4=0Trompete
+
+[101]
+Max=1000000
+Min=2000000
+Antwort_1=0ateifehler
+Antwort_2=0ateifehler
+Antwort_3=0ateifehler
+Antwort_4=0ateifehler
+FZ1=Dateifehler
+FZ2=Dateifehler
+FZ3=Dateifehler
+
+
+
+
+

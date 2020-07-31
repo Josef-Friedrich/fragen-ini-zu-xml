@@ -1,0 +1,379 @@
+[Thema]
+Thema=Dortmunder Stadtteile
+Fragen=34
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Höntrop	
+Antwort_2=0Westerfilde	
+Antwort_3=0Wellinghofen	
+Antwort_4=0Wichlinghofen	
+
+[2]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Laer	
+Antwort_2=0Berghofen	
+Antwort_3=0Hörde	
+Antwort_4=0Stadtkrone	
+
+[3]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Freisenbruch	
+Antwort_2=0Brücherhof	
+Antwort_3=0Hombruch	
+Antwort_4=0Somborn	
+
+[4]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Holsterhausen	
+Antwort_2=0Lanstrop	
+Antwort_3=0Sommerberg	
+Antwort_4=0Eichlinghofen	
+
+[5]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Goy	
+Antwort_2=0Groppenbruch	
+Antwort_3=0Benninghofen	
+Antwort_4=0Kurl	
+
+[6]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Ehrenfeld	
+Antwort_2=0Aplerbecker Mark	
+Antwort_3=0Lindenhorst	
+Antwort_4=0Barop	
+
+[7]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Deipenbeck	
+Antwort_2=0Sölderholz	
+Antwort_3=0Wanne	
+Antwort_4=0Scharnhorst	
+
+[8]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Brenschede	
+Antwort_2=0Berghofer Mark	
+Antwort_3=0Huckarde	
+Antwort_4=0Wambel	
+
+[9]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Bergen	
+Antwort_2=0Schüren	
+Antwort_3=0Schnee	
+Antwort_4=0Kruckel	
+
+[10]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Lohhausen	
+Antwort_2=0Benninghofen	
+Antwort_3=0Brackel	
+Antwort_4=0Schönau	
+
+[11]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Wiemelhausen	
+Antwort_2=0Schwieringhausen	
+Antwort_3=0Kolonie Westhausen	
+Antwort_4=0Bittermark	
+
+[12]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Hustadt	
+Antwort_2=0Schanze	
+Antwort_3=0Oestrich	
+Antwort_4=0Körne	
+
+[13]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Querenburg	
+Antwort_2=0Sölde	
+Antwort_3=0Syburg	
+Antwort_4=0Loh	
+
+[14]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Katernberg	
+Antwort_2=0Hostedde	
+Antwort_3=0Kleinbarop	
+Antwort_4=0Dorstfeld	
+
+[15]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Kirchharpen	
+Antwort_2=0Kirchhörde	
+Antwort_3=0Kirchlinde	
+Antwort_4=0Kirchderne	
+
+[16]
+FZ1=
+FZ2= Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Kalthehardt	
+Antwort_2=0Niedernette	
+Antwort_3=0Lücklemberg	
+Antwort_4=0Oberdorstfeld	
+
+[17]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Stahlhausen	
+Antwort_2=0Kemminghausen	
+Antwort_3=0Brüninghausen	
+Antwort_4=0Löttringhausen	
+
+[18]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Leithe	
+Antwort_2=0Deusen	
+Antwort_3=0Ellinghausen	
+Antwort_4=0Brücherhof	
+
+[19]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Stiepel	
+Antwort_2=0Grevel	
+Antwort_3=0Holte	
+Antwort_4=0Eving	
+
+[20]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Ückendorf	
+Antwort_2=0Asseln	
+Antwort_3=0Brünninghausen	
+Antwort_4=0Holthausen	
+
+[21]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Elberfeld	
+Antwort_2=0Derne	
+Antwort_3=0Großholthausen	
+Antwort_4=0Buchholz	
+
+[22]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Harpen	
+Antwort_2=0Persebeck	
+Antwort_3=0Neuasseln	
+Antwort_4=0Hacheney	
+
+[23]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Hiltrop	
+Antwort_2=0Kolonie Holstein	
+Antwort_3=0Flughafen	
+Antwort_4=0Niederhofen	
+
+[24]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Dahlhausen	
+Antwort_2=0Kirchderne	
+Antwort_3=0Lütgendortmund	
+Antwort_4=0Gartenstadt	
+
+[25]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Kray	
+Antwort_2=0Holzen	
+Antwort_3=0Bövinghausen	
+Antwort_4=0Mittelhöchsten	
+
+[26]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Barmen	
+Antwort_2=0Hafen	
+Antwort_3=0Jungferntal	
+Antwort_4=0Bodelschwingh	
+
+[27]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Kreuzberg	
+Antwort_2=0Lichtendorf	
+Antwort_3=0Westrich	
+Antwort_4=0Husen	
+
+[28]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Altona	
+Antwort_2=0Oespel	
+Antwort_3=0Mengede	
+Antwort_4=0Wischlingen	
+
+[29]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Eppendorf	
+Antwort_2=0Brechten	
+Antwort_3=0Aplerbeck	
+Antwort_4=0Marten	
+
+[30]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Linden	
+Antwort_2=0Höchsten	
+Antwort_3=0Kleinholthausen	
+Antwort_4=0Fleier	
+
+[31]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Weitmar	
+Antwort_2=0Nette	
+Antwort_3=0Renninghausen	
+Antwort_4=0Kley	
+
+[32]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Gerthe	
+Antwort_2=0Wickede	
+Antwort_3=0Rahm	
+Antwort_4=0Salingen	
+
+[33]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Langendreer	
+Antwort_2=0Reichsmark	
+Antwort_3=0Mengeder Heide	
+Antwort_4=0Obernette	
+
+[34]
+FZ1=
+FZ2=Was ist  k e i n  Stadtteil von Dortmund ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Werne	
+Antwort_2=0Großbarop	
+Antwort_3=0Bickefeld	
+Antwort_4=0Menglinghausen	
+

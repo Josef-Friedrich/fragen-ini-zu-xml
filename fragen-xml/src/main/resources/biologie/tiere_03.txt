@@ -1,0 +1,334 @@
+[Thema]
+Thema       = Tierquiz 3
+Fragen      = 30
+Autor       = Manfred Hartisch 5/2001
+
+[1]
+FZ1         = 
+FZ2         =  Wo lebt der Eisbär ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 am Nordpol
+Antwort_2   = 0 am Südpol
+Antwort_3   = 0 in Afrika
+Antwort_4   = 0  in Australien
+
+[2]
+FZ1         =  
+FZ2         =  Welche Eule jagt am Tag ?
+FZ3         =  
+Min         = 200
+Max         = 8000
+Antwort_1   = 0 Tag - Eule
+Antwort_2   = 1 Schnee -Eule
+Antwort_3   = 0 Regen - Eule
+Antwort_4   = 0 Nebel -Eule
+
+[3]
+FZ1         = 
+FZ2         = Was ist ein Mondvogel ? 
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 ein Nachtvogel
+Antwort_2   = 1 ein Schmetterling
+Antwort_3   = 0 eine kleine Eule
+Antwort_4   = 0 ein giftiges Insekt
+
+[4]
+FZ1         = 
+FZ2         =  Was nimmt der Buchfink als Grundlage für sein Nest ?
+FZ3         = 
+Min         =32000
+Max         =500000
+Antwort_1   =0 Lehm
+Antwort_2   =0 kleine Äste
+Antwort_3   =1 ein Spinnennetz
+Antwort_4   =0 Grashalme
+
+[5]
+FZ1         = 
+FZ2         =  Ist es richtig, dass Spinnen sechs bis acht Augen haben ?
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 nein
+Antwort_2   = 1 ja
+Antwort_3   = 0 nur die Männchen
+Antwort_4   = 0 nur die Weibchen
+
+[6]
+FZ1         = 
+FZ2         =  Wie schnell kann der Rennkuckuck rennen ?
+FZ3         = 
+Min         = 200
+Max         = 4000
+Antwort_1   = 0 ca. 6 km / h
+Antwort_2   = 0 ca. 12 km / h
+Antwort_3   = 0 ca. 54 km / h
+Antwort_4   = 1 ca. 24 km / h
+
+[7]
+FZ1         = 
+FZ2         =  Was frisst der Kiebitz am liebsten ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Körner
+Antwort_2   = 0 Gras
+Antwort_3   = 1 Regenwürmer
+Antwort_4   = 0 Maikäfer
+
+[8]
+FZ1         = 
+FZ2         =  Was ist ein Kiebitz ?
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 ein Schmetterling 
+Antwort_2   = 0 ein Fisch
+Antwort_3   = 1 ein Vogel
+Antwort_4   = 0 ein Pokémon
+
+[9]
+FZ1         = 
+FZ2         =  Wie wehrt sich die Erdkröte gegen ihre Feinde ?
+FZ3         = 
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 mit spitzen Stacheln
+Antwort_2   = 0 mit einem harten Horn
+Antwort_3   = 0 mit elektrischen Schlägen
+Antwort_4   = 1 mit einer ätzenden Flüssigkeit
+
+[10]
+FZ1         = 
+FZ2         =  Wie oft hämmert der Buntspecht in einer Sekunde ins Holz,
+FZ3         = um an seine Nahrung zu kommen ?
+Min         = 500
+Max         = 8000
+Antwort_1   = 0 zweimal
+Antwort_2   = 1 fünfzehnmal
+Antwort_3   = 0 viermal
+Antwort_4   = 0 hundertmal
+
+[11]
+FZ1         =  
+FZ2         =  Fressen Eichhörnchen auch Vogeleier und Nestjunge ?
+FZ3         = 
+Min         = 2000
+Max         = 160000
+Antwort_1   = 0 nein
+Antwort_2   = 0 nur die Männchen
+Antwort_3   = 0 nur die Weibchen
+Antwort_4   = 1 ja
+
+[12]
+FZ1         = 
+FZ2         =  Wie lange kann eine Zecke ohne Nahrung auskommen ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ca. 2 Tage
+Antwort_2   = 1 ca. 2 Jahre
+Antwort_3   = 0 ca. 2 Wochen
+Antwort_4   = 0 ca. 2 Monate
+
+[13]
+FZ1         = 
+FZ2         =  Der Leopard kann gut klettern. 
+FZ3         =  Welche Tiere erbeutet er besondes gerne ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Antilopen
+Antwort_2   = 0 Gazellen
+Antwort_3   = 0 Vögel
+Antwort_4   = 1 Affen
+
+[14]
+FZ1         = 
+FZ2         =  Womit klappert die Klapperschlange ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 mit Hornringen am Schwanzende
+Antwort_2   = 0 mit den Zähnen
+Antwort_3   = 0 mit den Beinen
+Antwort_4   = 0 mit dem Unterkiefer
+
+[15]
+FZ1         = 
+FZ2         =  Was ist ein Mandrill ?
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 1 ein Affe
+Antwort_2   = 0 ein Vogel
+Antwort_3   = 0 ein Reptil
+Antwort_4   = 0 ein Insekt
+
+[16]
+FZ1         =  
+FZ2         = Wie heißt der größte Vogel der Welt ? 
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 Strauß 
+Antwort_2   = 0 Marabu
+Antwort_3   = 0 Albatros
+Antwort_4   = 0 Seeadler
+
+[17]
+FZ1         = 
+FZ2         =  Wie schnell kann der Strauß laufen ?
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 15 - 20 Stundenkilometer
+Antwort_2   = 0 25 - 35 Stundenkilometer
+Antwort_3   = 1 40 - 50 Stundenkilometer
+Antwort_4   = 0 60 - 70 Stundenkilometer
+
+[18]
+FZ1         = 
+FZ2         =  Wie lange können Kamele ohne Wasser auskommen ?
+FZ3         = 
+Min         = 4000
+Max         = 16000
+Antwort_1   = 0  4 - 5 Wochen
+Antwort_2   = 0  4 - 5 Stunden
+Antwort_3   = 0  4 -5 Monate
+Antwort_4   = 1  4 -5 Tage
+                
+[19]
+FZ1         = 
+FZ2         =  Wie heißt ein junger Hund ?
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Küken
+Antwort_2   = 0 Kitz
+Antwort_3   = 0 Hündchen
+Antwort_4   = 1 Welpe
+                
+[20]
+FZ1         =  
+FZ2         =  Wie heißt ein junges Wildschwein ?
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Schweinchen
+Antwort_2   = 0 Säuchen
+Antwort_3   = 0 Ferkel
+Antwort_4   = 1 Frischling
+
+[21]
+FZ1         = 
+FZ2         =  Ameisen können das ..... ihres Gewichtes tragen.
+FZ3         = 
+Min         = 1000
+Max         = 64000
+Antwort_1   = 0 2 - fache
+Antwort_2   = 0 8 - fache
+Antwort_3   = 1 50 - fache
+Antwort_4   = 0 20 - fache
+
+[22]
+FZ1         = 
+FZ2         =  Bei welcher einzigen Katzenart kümmert sich auch der Vater
+FZ3         =  auch um die Erziehung und Versorgung der Jungen ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 bei den Tigern
+Antwort_2   = 1 bei den Löwen
+Antwort_3   = 0 bei den Perserkatzen
+Antwort_4   = 0 bei den Siamkatzen
+
+[23]
+FZ1         =  
+FZ2         =  Wie groß ist der Wanderalbatros von einer Flügelspitze bis zur anderen ?
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 1 350 cm
+Antwort_2   = 0 250cm
+Antwort_3   = 0 150 cm
+Antwort_4   = 0 900cm
+
+[24]
+FZ1         = 
+FZ2         =  Wie heißt das Beuteltier, das riesige Sprünge machen kann ?
+FZ3         = 
+Min         = 100
+Max         = 300
+Antwort_1   = 0 Springteufel
+Antwort_2   = 1 Känguru
+Antwort_3   = 0 Katamaran
+Antwort_4   = 0 Hüpffrosch
+
+[25]
+FZ1         = 
+FZ2         =  Was ist ein Quetzal ?
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 0 eine Schlange in Nordamerika
+Antwort_2   = 0 ein Schmetterling in Afrika
+Antwort_3   = 1 ein Vogel in Südamerika
+Antwort_4   = 0 ein Fisch in der Antarktis
+
+[26]
+FZ1         =  
+FZ2         =  Der längste Regenwurm lebt in Südamerika.
+FZ3         =  Wie lang kann er werden ?
+Min         = 64000
+Max         = 500000
+Antwort_1   = 1 ca. 7 Meter
+Antwort_2   = 0 ca. 2 Meter
+Antwort_3   = 0 ca. 12 Meter
+Antwort_4   = 0 ca. 5 Meter
+
+[27]
+FZ1         = 
+FZ2         =  Wovon ernähren sich Reiher ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 von Reis
+Antwort_2   = 0 von Reibekuchen
+Antwort_3   = 1 von Fisch
+Antwort_4   = 0 von Krabben
+
+[28]
+FZ1         = 
+FZ2         =  Was ist die Lieblingsspeise der Rebhühner ?
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 Weinreben
+Antwort_2   = 0 Brombeeren 
+Antwort_3   = 0 Fliegenlarven
+Antwort_4   = 1 Ameisenpuppen
+
+[29]
+FZ1         = 
+FZ2         =  Wie viele Zähne sitzen im Kiefer des Walhais ?
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 ca. 200
+Antwort_2   = 1 ca. 3000
+Antwort_3   = 0 ca. 1000
+Antwort_4   = 0 ca. 800
+
+[30]
+FZ1         = 
+FZ2         =  Wie tief kann eine Eiderente tauchen ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 ca. 1 Meter
+Antwort_2   = 0 ca. 2 Meter
+Antwort_3   = 1 ca. 10 Meter
+Antwort_4   = 0 ca. 50 Meter

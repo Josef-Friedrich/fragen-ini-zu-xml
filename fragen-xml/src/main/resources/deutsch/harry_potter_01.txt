@@ -1,0 +1,2205 @@
+[Thema]
+Thema= Harry Potter
+Fragen=200
+Autor=Manfred Hartisch  2001
+
+[1]
+FZ1=
+FZ2=Wer verteidigt Harry Potter, als er verdächtigt wird, der Erbe
+FZ3=von Slytherin zu sein ?
+Min=125000
+Max=1000000
+Antwort_1=0 Stewart Ackerly
+Antwort_2=1 Hannah Abbot
+Antwort_3=0 Ron Weasley
+Antwort_4=0 Draco Malfoy
+
+[2]
+FZ1=
+FZ2=Wie nennt man eine Hexe oder einen Zauberer, der oder die in der
+FZ3=Lage ist, sich nach Belieben in ein Tier zu verwandeln ?
+Min=125000
+Max=1000000
+Antwort_1=0 Serpensortia
+Antwort_2=0 Ghul
+Antwort_3=0 Dianthus
+Antwort_4=1 Animagus
+
+[3]
+FZ1=
+FZ2=Wie heißt Band 1 von Harry Potter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 H. P. und der Feuerkelch
+Antwort_2=1 H. P.  und der Stein der Weisen
+Antwort_3=0 H. P.  und der Gefangene von Askaban
+Antwort_4=0 H. P.  und die Kammer des Schreckens
+
+[4]
+FZ1=
+FZ2=Wie heißt Band 2 von Harry Potter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 H. P.  und der Feuerkelch
+Antwort_2=0 H. P.  und der Stein der Weisen
+Antwort_3=0 H. P.  und der Gefangene von Askaban
+Antwort_4=1 H. P.  und die Kammer des Schreckens
+
+[5]
+FZ1=
+FZ2=Wie heißt Band 3 von Harry Potter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 H. P.  und der Feuerkelch
+Antwort_2=0 H. P.  und der Stein der Weisen
+Antwort_3=1 H. P.  und der Gefangene von Askaban
+Antwort_4=0 H. P.  und die Kammer des Schreckens
+
+[6]
+FZ1=
+FZ2=Wie heißt Band 4 von Harry Potter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 H. P.  und der Feuerkelch
+Antwort_2=0 H. P.  und der Stein der Weisen
+Antwort_3=0 H. P.  und der Gefangene von Askaban
+Antwort_4=0 H. P.  und die Kammer des Schreckens
+
+[7]
+FZ1=
+FZ2=Wie heißt ein Zentaur, der im Verbotenen Wald lebt ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 Kane
+Antwort_2=0 Wane
+Antwort_3=1 Bane
+Antwort_4=0 Sane
+
+[8]
+FZ1=
+FZ2=Wie heißt das Passwort für den Eingang in den Gryffindor - Turm
+FZ3=in Harry Potters zweitem Schuljahr ?
+Min=32000
+Max=125000
+Antwort_1=0 Federfisch
+Antwort_2=0 Haarschlange
+Antwort_3=1 Bartvogel
+Antwort_4=0 Zopfmaus
+
+[9]
+FZ1=
+FZ2=Womit fliegen Hexen und Zauberer am häufigsten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Spaten
+Antwort_2=0 Schrubber
+Antwort_3=0 Harke
+Antwort_4=1 Besen
+
+[10]
+FZ1=
+FZ2=Welches Hobby hat Albus Dumbledore auch ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Bogenschießen
+Antwort_2=1 Bowling
+Antwort_3=0 Handball
+Antwort_4=0 Badminton
+
+[11]
+FZ1=
+FZ2=Wie heißt der fette Fotograf, der mit Rita Kimmkorn
+FZ3=zusammenarbeitet ?
+Min=125000
+Max=1000000
+Antwort_1=0 Hozo
+Antwort_2=0 Gozo
+Antwort_3=0 Lozo
+Antwort_4=1 Bozo
+
+[12]
+FZ1=
+FZ2=Welche Form haben die Brillengläser von
+FZ3=Professor Dumbledore ?
+Min=2000
+Max=64000
+Antwort_1=0 rund
+Antwort_2=1 halbmondförmig
+Antwort_3=0 quadratisch
+Antwort_4=0 dreieckig
+
+[13]
+FZ1=
+FZ2=Welche Form haben die Brillengläser von
+FZ3=Professor McGonagall ?
+Min=2000
+Max=64000
+Antwort_1=0 rund
+Antwort_2=0 dreieckig
+Antwort_3=0 oval
+Antwort_4=1 quadratisch
+
+[14]
+FZ1=
+FZ2=Welche Form haben die Brillengläser von
+FZ3=Harry Potter ?
+Min=0
+Max=1000
+Antwort_1=1 rund
+Antwort_2=0 dreieckig
+Antwort_3=0 quadratisch
+Antwort_4=0 sechseckig
+
+[15]
+FZ1=
+FZ2=Welche Brillengläser besitzt Sibyll Trelawney ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 verkleinernde Brillengläser
+Antwort_2=0 verdoppelnde Brillengläser
+Antwort_3=1 vergrößernde Brillengläser
+Antwort_4=0 spiegelnde Brillengläser
+
+[16]
+FZ1=
+FZ2=Wie heißt das Passwort für den Eingang in den Gryffindor - Turm
+FZ3=in Harry Potters drittem Schuljahr ?
+Min=125000
+Max=1000000
+Antwort_1=0 Quimbanda
+Antwort_2=0 Homunculus
+Antwort_3=1 Amontillado
+Antwort_4=0 Dissendium
+
+[17]
+FZ1=
+FZ2=Welche Brille besitzt die Maulende Myrte ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 eine Goldbrille
+Antwort_2=0  eine Silberbrille
+Antwort_3=1 eine Perlmuttbrille
+Antwort_4=0 eine Saphirbrille
+
+[18]
+FZ1=
+FZ2=Welche Brille besitzt die Journalistin Rita Kimmkorn ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 eine Metallbrille
+Antwort_2=0 eine federbesetzte Brille
+Antwort_3=0 eine Holzbrille
+Antwort_4=1 eine juwelenbesetzte Brille
+
+[19]
+FZ1=
+FZ2=Wie heißt der kleinste Geldwert der Zauberer ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 Cent
+Antwort_2=0 Rubel
+Antwort_3=0 Taler
+Antwort_4=1 Knut
+
+[20]
+FZ1=
+FZ2=Wie heißt die Schülerin, deren Kaninchen im
+FZ3=Oktober 1993 von einem Fuchs getötet wird ?
+Min=125000
+Max=1000000
+Antwort_1=0 Hermine Granger
+Antwort_2=1 Lavender Brown
+Antwort_3=0 Ginny Weasley
+Antwort_4=0 Tina Malfoy
+
+[21]
+FZ1=
+FZ2=Wie heißt der Gärtner der Familie von Tom Riddle, der
+FZ3=von Lord Voldemort getötet wird ?
+Min=125000
+Max=1000000
+Antwort_1=0 Gero Bisanz
+Antwort_2=0 Zero Toliman
+Antwort_3=1 Frank Bryce
+Antwort_4=0 Pete Grease
+
+[22]
+FZ1=
+FZ2=Wie lange bleiben die blauen Blasen des "Bubbles Bester
+FZ3=Blaskaugummi" im Raum ?
+Min=125000
+Max=1000000
+Antwort_1=0 ca. 10 Minuten
+Antwort_2=1 mindestens 30 Minuten
+Antwort_3=0 1 - 5 Minuten
+Antwort_4=0 etwa 20 Minuten
+
+[23]
+FZ1=
+FZ2=Wie heißt der Zauberspruch, der jedes
+FZ3=normale Schloss öffnet ?
+Min=125000
+Max=1000000
+Antwort_1=1 Alohoroma
+Antwort_2=0 Ulujabula
+Antwort_3=0 Elibemira
+Antwort_4=0 Opolutia
+
+[24]
+FZ1=Wie heißen die hässlichen Pflanzen, die aussehen wie
+FZ2=schwarze Riesenschnecken und an den Stängeln
+FZ3=große schwarze Geschwülste tragen ?
+Min=125000
+Max=1000000
+Antwort_1=0 Zuzurobler
+Antwort_2=1 Bubotubler
+Antwort_3=0 Dudifurbler
+Antwort_4=0 Sasilector
+
+[25]
+FZ1=
+FZ2=Wie heißt der Zauberspruch, der kleine Vögel
+FZ3=aus dem Zauberstab erscheinen lässt ?
+Min=125000
+Max=1000000
+Antwort_1=0 Ovis
+Antwort_2=0 Evis
+Antwort_3=1 Avis
+Antwort_4=0 Uvis
+
+[26]
+FZ1=Wie heißt die Besenmarke, die für die ganze Familie, sicher und
+FZ2=zuverlässig ist sowie einen eingebauten
+FZ3=Diebstahlsummer hat ?
+Min=125000
+Max=1000000
+Antwort_1=1 Bulle
+Antwort_2=0 Ochse
+Antwort_3=0 Stier
+Antwort_4=0 Yak
+
+[27]
+FZ1=
+FZ2=Wie nennt man den Fluch, bei dem die Beine zusammengeklemmt
+FZ3=sind, als wären sie aneinander gebunden ?
+Min=0
+Max=1000
+Antwort_1=0 Beinschere
+Antwort_2=0 Beinband
+Antwort_3=1 Beinklammer
+Antwort_4=0 Beinfessel
+
+[28]
+FZ1=
+FZ2=Wie heißt das Gefängnis für Hexen und Zauberer, das auf
+FZ3=einer Insel im Norden der Nordsee liegt ?
+Min=2000
+Max=64000
+Antwort_1=0 Gringotts
+Antwort_2=0 Spellotape
+Antwort_3=0 Kerykeion
+Antwort_4=1 Askaban
+
+[29]
+FZ1=Welches Haustier besitzt Millicent Bulstrode, von dem Hermine
+FZ2=Granger aus Versehen ein Haar für den Vielsaft - Trank erwischt
+FZ3=und sich deshalb in dieses Tier verwandelt ?
+Min=125000
+Max=1000000
+Antwort_1=0 Hund
+Antwort_2=1 Katze
+Antwort_3=0 Maus
+Antwort_4=0 Meerschweinchen
+
+[30]
+FZ1=
+FZ2=In welchem Haus ist Millicent Bulstrode Schülerin ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 Ravenclaw
+Antwort_2=0 Gryffindor
+Antwort_3=0 Hufflepuff
+Antwort_4=1 Slytherin
+
+[31]
+FZ1=
+FZ2=Wie heißt das erfrischende, sahnige, heiße Getränk,
+FZ3=das man in Hogsmeade bekommt ?
+Min=2000
+Max=64000
+Antwort_1=0 Milchtee
+Antwort_2=1 Butterbier
+Antwort_3=0 Margarinewein
+Antwort_4=0 Sahneschnaps
+
+[32]
+FZ1=Welcher kleiner, angeberische Ritter auf einem Gemälde
+FZ2=im siebten Stock löst in Harry Potters drittem Schuljahr
+FZ3=die "Fette Dame" ab ?
+Min=125000
+Max=1000000
+Antwort_1=0 Sir Lancelord
+Antwort_2=0 Sir Loch Ness
+Antwort_3=0 Sir Dungeon
+Antwort_4=1 Sir Cadogan
+
+[33]
+FZ1=
+FZ2=Wie hieß das Kaninchen von Lavender Brown,
+FZ3=das im  Oktober 1993 von einem Fuchs getötet wird ?
+Min=125000
+Max=1000000
+Antwort_1=0 Blinky
+Antwort_2=0 Stinky
+Antwort_3=1 Binky
+Antwort_4=0 Bonny
+
+[34]
+FZ1=
+FZ2=Wie heißt das Passwort für den Eingang in den Gryffindor - Turm
+FZ3=in Harry Potters erstem Schuljahr ?
+Min=125000
+Max=1000000
+Antwort_1=1 Caput Draconis
+Antwort_2=0 Hokus Pokulos
+Antwort_3=0 Simsada Labim
+Antwort_4=0 Canerva Tragos
+
+[35]
+FZ1=
+FZ2=Wie heißt die Jägerin im siegreichen Quidditch - Team 1993 / 94 ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Hermine Granger
+Antwort_2=0 Ginny Weasley
+Antwort_3=0 Perenelle Flamel
+Antwort_4=1 Katie Bell
+
+[36]
+FZ1=
+FZ2=Wie heißt der Fluch, bei dem der Betroffene nicht aufhören
+FZ3=kann, Unsinn zu reden ?
+Min=0
+Max=1000
+Antwort_1=0 Quasselfluch
+Antwort_2=0 Laberfluch
+Antwort_3=1 Babbelfluch
+Antwort_4=0 Stotterfluch
+
+[37]
+FZ1=
+FZ2=Wie heißt der Großonkel von Neville Longbottom ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 Algie
+Antwort_2=0 Albert
+Antwort_3=0 Armun
+Antwort_4=0 Atlas
+
+[38]
+FZ1=Wie heißt der sehr alte Zauberer, der auf dem Zeltplatz bei der
+FZ2=Quidditch -Weltmeisterschaft 1994 versucht, sich
+FZ3=als Muggel auszugeben ?
+Min=125000
+Max=1000000
+Antwort_1=0 Albus
+Antwort_2=0 Alban
+Antwort_3=0 Arnon
+Antwort_4=1 Archie
+
+[39]
+FZ1=
+FZ2=In welchem Haus ist Owen Caudwell Schüler ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Ravenclaw
+Antwort_2=0 Gryffindor
+Antwort_3=1 Hufflepuff
+Antwort_4=0 Slytherin
+
+[40]
+FZ1=
+FZ2=Wie heißt der Zauberer, der für den Transportschlüssel bei der
+FZ3=Quidditch - Weltmeisterschaft zuständig ist ?
+Min=125000
+Max=1000000
+Antwort_1=0 Vergil
+Antwort_2=0 Somil
+Antwort_3=0 Hugil
+Antwort_4=1 Basil
+
+[41]
+FZ1=
+FZ2=Wie heißt das Monster, das Salazar Slytherin in
+FZ3=die Kammer des Schreckens sperrte ?
+Min=125000
+Max=1000000
+Antwort_1=0 Obelisk
+Antwort_2=0 Ramilisk
+Antwort_3=0 Turmelisk
+Antwort_4=1 Basilisk
+
+[42]
+FZ1=
+FZ2=Wie heißt in der Mythologie der Muggel
+FZ3=ein dreiköpfiger Höllenhund ?
+Min=2000
+Max=64000
+Antwort_1=0 Wuffi
+Antwort_2=0 Satanus
+Antwort_3=1 Cerberus
+Antwort_4=0 Wotanius
+
+[43]
+FZ1=
+FZ2=Wie nennt man die Ghule, die sich unsichtbar machen können ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 Chamäleon - Ghule
+Antwort_2=0 Geister - Ghule
+Antwort_3=0 Gespenster - Ghule
+Antwort_4=0 Monster - Ghule
+
+[44]
+FZ1=
+FZ2=Wie heißt der Stein aus dem Magen einer Ziege,
+FZ3=der gegen die meisten Gifte hilft ?
+Min=125000
+Max=1000000
+Antwort_1=1 Bezoar
+Antwort_2=0 Gezoar
+Antwort_3=0 Mezoar
+Antwort_4=0 Rezoar
+
+[45]
+FZ1=
+FZ2=Wie heißt die hübsche Sucherin im Quidditch - Team
+FZ3=von Ravenclaw in Harry Potters drittem Schuljahr ?
+Min=125000
+Max=1000000
+Antwort_1=0 Mary Polkiss
+Antwort_2=0 Anne Morlake
+Antwort_3=1 Cho Chang
+Antwort_4=0 Kim Tiang
+
+[46]
+FZ1=
+FZ2=Wie heißt die Drachenart, die pilzförmige Feuerwolken
+FZ3=spucken kann ?
+Min=125000
+Max=1000000
+Antwort_1=0 Thailändischer Feuersturm
+Antwort_2=0 Tibetanische Feuerkugel
+Antwort_3=1 Chinesischer Feuerball
+Antwort_4=0 Japanische Feuerwalze
+
+[47]
+FZ1=
+FZ2=Wie heißt der Zauberspruch, der Verborgenes
+FZ3=sichtbar macht ?
+Min=125000
+Max=1000000
+Antwort_1=0 Simsalagrum
+Antwort_2=0 Uporatula
+Antwort_3=1 Aparecium
+Antwort_4=0 Infernola
+
+[48]
+FZ1=
+FZ2=Für welches professionelle Quidditch - Team
+FZ3=schwärmt Ron Weasley ?
+Min=125000
+Max=1000000
+Antwort_1=1Chudley Cannons
+Antwort_2=0 Donner Bullits
+Antwort_3=0 Silver Cannons
+Antwort_4=0 Greatly Bears
+
+[49]
+FZ1=Was trägt der Hauself Dobby als Hut,
+FZ2=nachdem er freigelassen wurde ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 einen Eierwärmer
+Antwort_2=1 einen Teewärmer
+Antwort_3=0 einen Kaffeewärmer
+Antwort_4=0 eine Wärmeflasche
+
+[50]
+FZ1=
+FZ2=Welcher Zauberer ärgert sich über das Einfuhrverbot
+FZ3=für Fliegende Teppiche ?
+Min=125000
+Max=1000000
+Antwort_1=1 Ali Bashir
+Antwort_2=0 Ben Brahim
+Antwort_3=0 Ugur Bali
+Antwort_4=0 Murat Taskin
+
+[51]
+FZ1=
+FZ2=Wie heißt der Treiber im irischen Team
+FZ3=bei der Quidditch - Weltmeisterschaft ?
+Min=125000
+Max=1000000
+Antwort_1=0 Cohan
+Antwort_2=1 Connolly
+Antwort_3=0 Corbes
+Antwort_4=0 McCorty
+
+[52]
+FZ1=
+FZ2=Wie heißt der Pate von Harry Potter ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Elia Higgins
+Antwort_2=1 Sirius Black
+Antwort_3=0 Marc Donoway
+Antwort_4=0 Bred Jordan
+
+[53]
+FZ1=
+FZ2=Aus welcher Grafschaft Englands kommen die Wichtel, die
+FZ3=Lockhart Gilderoy mit in den Unterricht bringt ?
+Min=125000
+Max=1000000
+Antwort_1=0 Essex
+Antwort_2=1 Cornwall
+Antwort_3=0 Sussex
+Antwort_4=0 Eton
+
+[54]
+FZ1=
+FZ2=Wie heißt einer der beiden ständigen Begleiter
+FZ3=von Draco Malfoy ?
+Min=0
+Max=1000
+Antwort_1=1 Vincent Crabbe
+Antwort_2=0 Ron Weasley
+Antwort_3=0 Neville Longbottom
+Antwort_4=0 Graham Pritchard
+
+[55]
+FZ1=
+FZ2=Wie heißt die riesige Spinne, die Harry Potter und Ron Weasley
+FZ3=im verbotenen Wald begegnen ?
+Min=125000
+Max=1000000
+Antwort_1=0 Croaker
+Antwort_2=0 Mantikor
+Antwort_3=0 Payne
+Antwort_4=1 Aragog
+
+[56]
+FZ1=Wie heißt der kleine Junge mit mausgrauen Haaren, der
+FZ2=Harry Potter in seinem zweiten Schuljahr über alles bewundert
+FZ3=und dauernd Fotos von ihm macht ?
+Min=2000
+Max=64000
+Antwort_1=0 Draco Malfoy
+Antwort_2=1 Colin Creevey
+Antwort_3=0 Gregory Goyle
+Antwort_4=0 Ron Weasley
+
+[57]
+FZ1=
+FZ2=Wie heißt das Wort für Spitzhacke in
+FZ3=der Koboldsprache ?
+Min=125000
+Max=1000000
+Antwort_1=1 Bladwack
+Antwort_2=0 Blackjack
+Antwort_3=0 Bloodrun
+Antwort_4=0 Blindbeer
+
+[58]
+FZ1=
+FZ2=In welchem Haus ist Dennis Creevey Schüler ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Ravenclaw
+Antwort_2=1 Gryffindor
+Antwort_3=0 Hufflepuff
+Antwort_4=0 Slytherin
+
+[59]
+FZ1=
+FZ2=Wie heißt die Hexe, die Harry Potter bei seinem ersten
+FZ3=Besuch im Gasthaus "Zum Tropfenden Kessel" trifft ?
+Min=125000
+Max=1000000
+Antwort_1=1 Doris Crockford
+Antwort_2=0 Mary Marple
+Antwort_3=0 Dana Whistler
+Antwort_4=0 Paula Kadabra
+
+[60]
+FZ1=
+FZ2=Seit wann stehen die bissigen Bumerangs auf der Liste der
+FZ3=verbotenen Gegenstände in Hogwarts ?
+Min=125000
+Max=1000000
+Antwort_1=1 1994
+Antwort_2=0 1993
+Antwort_3=0 1992
+Antwort_4=0 1991
+
+[61]
+FZ1=
+FZ2=Wie heißt der Fluch, der einen vor Schmerz fast
+FZ3=den Verstand verlieren lässt ?
+Min=125000
+Max=1000000
+Antwort_1=0 Hucratio - Fluch
+Antwort_2=0 Frewentus - Fluch
+Antwort_3=0 Zabuctus - Fluch
+Antwort_4=1 Crucuatus - Fluch
+
+[62]
+FZ1=
+FZ2=Wie nennt man Geräte, die Geheimnisse aufdecken oder
+FZ3=Feinde aufspüren können ?
+Min=125000
+Max=1000000
+Antwort_1=1 Antiobskuranten
+Antwort_2=0 Probiobskuranten
+Antwort_3=0 Geoloskuranten
+Antwort_4=0 Meteoskuranten
+
+[63]
+FZ1=
+FZ2=Welches ist das Wappentier von Ravenclaw ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Falke
+Antwort_2=0 Habicht
+Antwort_3=1 Adler
+Antwort_4=0 Bussard
+
+[64]
+FZ1=
+FZ2=Wie hieß der Onkel von Ron Weasley, der einen Grimm sah und
+FZ3=24 Stunden später starb ?
+Min=125000
+Max=1000000
+Antwort_1=0 Filius
+Antwort_2=0 Morgan
+Antwort_3=0 Torben
+Antwort_4=1 Bilius
+
+[65]
+FZ1=
+FZ2=Wie heißt der Zauberspruch der unverzeihlichen Flüche und
+FZ3=der der bösesten schwarzen Magie ?
+Min=125000
+Max=1000000
+Antwort_1=1 Avada Kedavra
+Antwort_2=0 Abrara Mujasra
+Antwort_3=0 Hokolo Brimboro
+Antwort_4=0 Hukumu Serama
+
+[66]
+FZ1=
+FZ2=Welches ist das Wappentier von Hufflepuff ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Fuchs
+Antwort_2=0 Biber
+Antwort_3=1 Dachs
+Antwort_4=0 Igel
+
+[67]
+FZ1=
+FZ2=Wie heißt der Kapitän des Quidditch - Teams
+FZ3=von Ravenclaw ?
+Min=125000
+Max=1000000
+Antwort_1=1 Roger Davis
+Antwort_2=0 Roger Daltrey
+Antwort_3=0 Robert Neroy
+Antwort_4=0 Ron McFergusson
+
+[68]
+FZ1=
+FZ2=Wie heißt der Geist von Gryffindor ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Sir Albert Tommingham
+Antwort_2=0 Sir Edward de Grollow
+Antwort_3=1 Sir Nicholas de Mimsy - Porpington
+Antwort_4=0 Sir Francis Cook
+
+[69]
+FZ1=
+FZ2=Wie heißt der Geist von Gryffindor auch noch ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 der beinlose Jack
+Antwort_2=1 der Fast Kopflose Nick
+Antwort_3=0 der Fast Durchsichtige Joe
+Antwort_4=0 der halslose Ken
+
+[70]
+FZ1=
+FZ2=Wie heißt die kleine, flache Schale, in die Albus Dumbledore
+FZ3=seine Gedanken ablegt, wenn sie ihm zu viel werden ?
+Min=125000
+Max=1000000
+Antwort_1=0 Denkschale
+Antwort_2=0 Denkoase
+Antwort_3=0 Denkstätte
+Antwort_4=1 Denkarium
+
+[71]
+FZ1=
+FZ2=Wie heißt der Zauberspruch, der dem Gegenüber riesige,
+FZ3=obere Schneidezähne verpasst ?
+Min=125000
+Max=1000000
+Antwort_1=1 Densaugeo
+Antwort_2=0 Dentissimo
+Antwort_3=0 Zahnobolus
+Antwort_4=0 Zahnunibi
+
+[72]
+FZ1=
+FZ2=Welcher Professor der "Geschichte der Zauberei" in Hogwarts lehrt,
+FZ3=ist der einzige Geist im Kollegium ?
+Min=125000
+Max=1000000
+Antwort_1=0 Professor Binns
+Antwort_2=0 Professor Hinns
+Antwort_3=0 Professor Kinns
+Antwort_4=1 Professor Ginns
+
+[73]
+FZ1=
+FZ2=Wie heißt der Zauberspruch, der Gegenstände auch
+FZ3=aus der Ferne zu einem fliegen lässt ?
+Min=125000
+Max=1000000
+Antwort_1=1 Accio
+Antwort_2=0 Occie
+Antwort_3=0 Uccia
+Antwort_4=0 Eccoi
+
+[74]
+FZ1=
+FZ2=Wie heißt der Treiber im Quidditch - Team von Slytherin
+FZ3=in Harry Potters drittem Schuljahr ?
+Min=125000
+Max=1000000
+Antwort_1=0 Schimansky
+Antwort_2=0 Wolff
+Antwort_3=1 Derrick
+Antwort_4=0 Ferdie
+
+[75]
+FZ1=
+FZ2=Wie heißt der Laden für Werkzeuge, Zauberutensilien
+FZ3=und Schulsachen in Hogsmeade ?
+Min=125000
+Max=1000000
+Antwort_1=0 Devil und Bones
+Antwort_2=0 Blood und Honey
+Antwort_3=0 Foggy und Mist
+Antwort_4=1 Derwisch und Banges
+
+[76]
+FZ1=Wie heißt der Leiter der Abteilung für magische Spiele
+FZ2=und Sportarten im Zaubereiministerium ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 Ludo Bagman
+Antwort_2=0 Albus Dumbledore
+Antwort_3=0 Adrian Pucey
+Antwort_4=0 Aidan Lynch
+
+[77]
+FZ1=Wie heißt das zauberkräftige Kraut, das aussieht wie schmierige,
+FZ2=grüne Rattenschwänze und einem für eine Stunde Kiemen und
+FZ3=Flossen wachsen lässt, so dass man Wasseratmer wird ?
+Min=125000
+Max=1000000
+Antwort_1=1 Dianthus
+Antwort_2=0 Gianthus
+Antwort_3=0 Bianthus
+Antwort_4=0 Mianthus
+
+[78]
+FZ1=
+FZ2=Wie heißt der Hüter im Quidditch - Team von Slytherin in
+FZ3=Harry Potters erstem Schuljahr ?
+Min=125000
+Max=1000000
+Antwort_1=0 Flechter
+Antwort_2=0 Gretchery
+Antwort_3=0 Dinchley
+Antwort_4=1 Bletchley
+
+[79]
+FZ1=
+FZ2=Wie heißt die Wächterin am Eingang zum Gemeinschaftsraum
+FZ3=im Gryffindor - Turm im siebten Stock ?
+Min=2000
+Max=64000
+Antwort_1=0 dünne Dame im grünen Schlafrock
+Antwort_2=1 fette Dame im rosa Seidenkleid
+Antwort_3=0 große Dame im gelben Regenmantel
+Antwort_4=0 kleine Dame im weißen Unhang
+
+[80]
+FZ1=
+FZ2=Wo versteckt Harry Potter seine Habseligkeiten, wenn
+FZ3=er bei den Dursleys wohnt ?
+Min=2000
+Max=64000
+Antwort_1=1 unter einem losen Dielenbrett
+Antwort_2=0 hinter dem Wandschrank
+Antwort_3=0 in einer Mauerritze
+Antwort_4=0 unter der Matratze
+
+[81]
+FZ1=
+FZ2=Wie heißt der Zauberspruch, der Dinge
+FZ3=auf -  oder zerreißen lässt ?
+Min=125000
+Max=1000000
+Antwort_1=0 Piffindo
+Antwort_2=0 Zibiffo
+Antwort_3=1 Diffindo
+Antwort_4=0 Wibillo
+
+[82]
+FZ1=Wie heißt der Zauberer, der die Niederlage von Voldemort
+FZ2=1981 so ausgelassen feierte, dass in den Nachrichten der
+FZ3=Muggel von Sternschnuppen in Kent berichtet wird ?
+Min=125000
+Max=1000000
+Antwort_1=1 Dädalus Diggel
+Antwort_2=0 Ikarus Wiggel
+Antwort_3=0 Damokles Higgel
+Antwort_4=0 Ibrahim Tanko
+
+[83]
+FZ1=
+FZ2=Wie heißt der Sucher und Kapitän des Quidditch - Teams
+FZ3=von Hufflepuff ?
+Min=125000
+Max=1000000
+Antwort_1=0 Dedric Ciggory
+Antwort_2=0 Gedric Giccory
+Antwort_3=0 Redric Riccory
+Antwort_4=1 Cedric Diggory
+
+[84]
+FZ1=
+FZ2=Wie heißt der Geheimspruch, der den Geheimgang hinter der
+FZ3=einäugigen Hexe öffnet, der nach Hogsmeade führt ?
+Min=125000
+Max=1000000
+Antwort_1=1 Dissendium
+Antwort_2=0 Dillirium
+Antwort_3=0 Ferrossamo
+Antwort_4=0 Fillipullimu
+
+[85]
+FZ1=
+FZ2=Wie heißt der Hauself aus dem Haushalt
+FZ3=von Lucius Malfoy ?
+Min=2000
+Max=64000
+Antwort_1=0 Bobby
+Antwort_2=1 Dobby
+Antwort_3=0 Robby
+Antwort_4=0 Wobby
+
+[86]
+FZ1=Von welchem Magier gibt es im 5. Stock in Hogwarts
+FZ2=eine Statue (neben ihr liegt das Badezimmer
+FZ3=der Vertrauensschüler) ?
+Min=125000
+Max=1000000
+Antwort_1=0 Iwan der Verrückte
+Antwort_2=0 Gregor der Dumme
+Antwort_3=0 Pjotr der Wahnsinnige
+Antwort_4=1 Boris der Bekloppte
+
+[87]
+FZ1=
+FZ2=Wo kann man Drachendung erhalten ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 in der Nokturngasse
+Antwort_2=0 in der Winkelgasse
+Antwort_3=0 in der Drachengasse
+Antwort_4=0 in der Geistergasse
+
+[88]
+FZ1=
+FZ2=Wie nennt man die magische Fähigkeit, ohne Zeitverlust
+FZ3=von einem zum anderen Ort zu gelangen ?
+Min=125000
+Max=1000000
+Antwort_1=0 allabieren
+Antwort_2=1 apparieren
+Antwort_3=0 annarieren
+Antwort_4=0 addarieren
+
+[89]
+FZ1=
+FZ2=Mit welcher Mischung werden junge Drachen gefüttert ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 Wein und Gänseblut
+Antwort_2=0 Bier und Mückenblut
+Antwort_3=1 Schnaps und Hühnerblut
+Antwort_4=0 Sekt und Entenblut
+
+[90]
+FZ1=
+FZ2=Wie oft müssen junge Drachen gefüttert werden ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 jede halbe Stunde
+Antwort_2=0 jede viertel Stunde
+Antwort_3=0  alle 10 Minuten
+Antwort_4=0 dreimal am Tag
+
+[91]
+FZ1=
+FZ2=Wann wurde die Drachenzucht vom Zauberkonvent verboten ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 1907
+Antwort_2=0 1790
+Antwort_3=1 1709
+Antwort_4=0 1970
+
+[92]
+FZ1=
+FZ2=Womit wärmen die Drachen ihre Eier ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 mit ihrem Feueratem
+Antwort_2=0 mit ihrem Körper
+Antwort_3=0 mit Blättern und Moos
+Antwort_4=0 mit heißem Sand
+
+[93]
+FZ1=In welchem Stockwerk liegt der Korridor in Hogwarts,
+FZ2=der in Harry Potters erstem Schuljahr nicht
+FZ3=betreten werden darf ?
+Min=125000
+Max=1000000
+Antwort_1=0 2
+Antwort_2=0 4
+Antwort_3=0 5
+Antwort_4=1 3
+
+[94]
+FZ1=Wie lange bleiben die Blasen von
+FZ2=Druhbels Bester Blaskaugummi
+FZ3=im Raum ?
+Min=125000
+Max=1000000
+Antwort_1=1 tagelang
+Antwort_2=0 zwei Stunden
+Antwort_3=0 10 Stunden
+Antwort_4=0 eine halbe Stunde
+
+[95]
+FZ1=
+FZ2=Welchen Club gründet Gilderoy Lockhart in
+FZ3=Harry Potters zweitem Schuljahr ?
+Min=2000
+Max=64000
+Antwort_1=0 einen Briefmarkentausch - Club
+Antwort_2=0 einen Zaubersprucherzähl - Club
+Antwort_3=1 einen Duellier - Club
+Antwort_4=0 einen Gespenster - Club
+
+[96]
+FZ1=
+FZ2=Wie heißt der Bruder von
+FZ3=Albus Dumbledore ?
+Min=125000
+Max=1000000
+Antwort_1=1 Aberforth
+Antwort_2=0 Aberfive
+Antwort_3=0 Alberthore
+Antwort_4=0 Alvingor
+
+[97]
+FZ1=
+FZ2=Wie heißt der Schulleiter von Hogwarts,
+FZ3=als Harry Potter dort lernt ?
+Min=0
+Max=1000
+Antwort_1=0 Gilderoy Lockhart
+Antwort_2=0 Minerva McGonagall
+Antwort_3=1 Albus Dumbledore
+Antwort_4=0 Jim McGuffin
+
+[98]
+FZ1=
+FZ2=Wie wird Lord Voldemort auch genannt ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 Dunkler Lord
+Antwort_2=0 Alter Lord
+Antwort_3=0 Weißer Lord
+Antwort_4=0 Monster Lord
+
+[99]
+FZ1=
+FZ2=Was ist das Zeichen von Lord Voldemort ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 ein Kreuz
+Antwort_2=0 ein Drache
+Antwort_3=0 ein Vampir
+Antwort_4=1 ein Totenkopf
+
+[100]
+FZ1=
+FZ2=Wie heißt der Vetter von Harry Potter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 Dudley Dursley
+Antwort_2=0 Ron Weasley
+Antwort_3=0 Pat Brid
+Antwort_4=0 Joey Jenkins
+
+[101]
+FZ1=
+FZ2=Was stellt die Firma des Onkels von
+FZ3=Harry Potter her ?
+Min=2000
+Max=64000
+Antwort_1=0 Computer
+Antwort_2=0 Küchengeräte
+Antwort_3=0 Autoreifen
+Antwort_4=1 Bohrmaschinen
+
+[102]
+FZ1=
+FZ2=An welchem Tag findet die Einführungsfeier zur
+FZ3=Eröffnung des neuen Schuljahres in Hogwarts statt ?
+Min=125000
+Max=1000000
+Antwort_1=0 1. Oktober
+Antwort_2=1 1. September
+Antwort_3=0 1. August
+Antwort_4=0 1. Juli
+
+[103]
+FZ1=
+FZ2=Wie heißt die Magische Polizeibrigade, die
+FZ3=die Elitetruppe des Zauberministeriums ist ?
+Min=2000
+Max=64000
+Antwort_1=0 Elitezauberer
+Antwort_2=1 Eingreifzauberer
+Antwort_3=0 G - 1 Zauberer
+Antwort_4=0 Superzauberer
+
+[104]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	
+Antwort_2=0	
+Antwort_3=0	
+Antwort_4=0	
+
+[105]
+FZ1=
+FZ2=Was ist ein beliebter magischer Stoff
+FZ3=als Kern für Zauberstäbe ?
+Min=0
+Max=1000
+Antwort_1=0 Löwenmähnen - Haare
+Antwort_2=1 Einhorn - Haare
+Antwort_3=0 Nashornschwanz - Haare
+Antwort_4=0 Tigerschnurrbart - Haare
+
+[106]
+FZ1=
+FZ2=Wie teuer  ist ein Stück Einhorn - Horn
+FZ3=in der Apotheke in der Winkelgasse ?
+Min=125000
+Max=1000000
+Antwort_1=0 32 Knuts
+Antwort_2=0 23 Sickel
+Antwort_3=0 12 Galleonen
+Antwort_4=1 21 Galleonen
+
+[107]
+FZ1=
+FZ2=Welches Lebensjahr müssen die Kinder vollendet
+FZ3=haben, damit sie in Hogwarts eingeschult werden können ?
+Min=2000
+Max=64000
+Antwort_1=0 das neunte Lebensjahr
+Antwort_2=0 das zehnte Lebensjahr
+Antwort_3=1 das elfte Lebensjahr
+Antwort_4=0 das zwölfte Lebensjahr
+
+[108]
+FZ1=
+FZ2=Auf wie viele Häuser werden alle frisch
+FZ3=eingeschulten Schüler in Hogwarts verteilt ?
+Min=0
+Max=1000
+Antwort_1=0 2
+Antwort_2=0 3
+Antwort_3=1 4
+Antwort_4=0 5
+
+[109]
+FZ1=
+FZ2=Wie heißt die Süßigkeit, die Zähne klappern
+FZ3=und einen quieken lässt ?
+Min=2000
+Max=64000
+Antwort_1=0 Frost - Ratten
+Antwort_2=0 Winter - Speck
+Antwort_3=0 Kälte - Schokolade
+Antwort_4=1 Eis - Mäuse
+
+[110]
+FZ1=Wie heißen die kleine Wesen, mit großen,
+FZ2=fledermausähnlichen Ohren und hervorquellenden
+FZ3=grünen oder braunen Augen ?
+Min=2000
+Max=64000
+Antwort_1=0 Kobolde
+Antwort_2=1 Elfen
+Antwort_3=0 Zwerge
+Antwort_4=0 Gnome
+
+[111]
+FZ1=
+FZ2=Wie hieß der Anführer der Goblin - Aufstände ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Irwisch der Schreckliche
+Antwort_2=0 Darakon der Wütende
+Antwort_3=0 Ultrigaria der Zornige
+Antwort_4=1 Emmerisch der Böse
+
+[112]
+FZ1=
+FZ2=Wie heißt der Gegenspruch zum Schockzauber ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Alibert
+Antwort_2=1 Enervate
+Antwort_3=0 Holigate
+Antwort_4=0 Bimiflate
+
+[113]
+FZ1=
+FZ2=Wie nennt Amos Diggory die Polizisten der Muggel ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Hornisten
+Antwort_2=0 Gardisten
+Antwort_3=0 Schnellisten
+Antwort_4=1 Blitzisten
+
+[114]
+FZ1=
+FZ2=Wie heißt der Zauberspruch, der Gegenstände
+FZ3=oder Lebewesen vergrößert ?
+Min=125000
+Max=1000000
+Antwort_1=1 Engorgio
+Antwort_2=0 Emhabilo
+Antwort_3=0 Exdrumera
+Antwort_4=0 Essentia
+
+[115]
+FZ1=
+FZ2=Wie heißt eine Großtante von
+FZ3=Neville Longbottom ?
+Min=125000
+Max=1000000
+Antwort_1=0 Rita
+Antwort_2=1 Enid
+Antwort_3=0 Onyx
+Antwort_4=0 Luzia
+
+[116]
+FZ1=
+FZ2=Wie nennt man das Vertreiben von Gnomen
+FZ3=aus dem Garten ?
+Min=2000
+Max=64000
+Antwort_1=1 entgnomen
+Antwort_2=0 vergnomen
+Antwort_3=0 weggnomen
+Antwort_4=0 begnomen
+
+[117]
+FZ1=
+FZ2=Wie heißt die Ravenclaw - Schülerin, die im Duellierclub
+FZ3=verletzt wird und blutet ?
+Min=125000
+Max=1000000
+Antwort_1=0 Terry Glad
+Antwort_2=0  Mary Blood
+Antwort_3=1 Terry Boot
+Antwort_4=0 Mary Grid
+
+[118]
+FZ1=
+FZ2=Wie sieht der Enthüller - ein magischer
+FZ3=Gegenstand - aus ?
+Min=2000
+Max=64000
+Antwort_1=0 wie eine gelbe Leimtube
+Antwort_2=0 wie ein weißer Füller
+Antwort_3=0 wie ein grünes Lineal
+Antwort_4=1 wie ein rotes Radiergummi
+
+[119]
+FZ1=
+FZ2=Welchen Namen hat die Alraune auch noch ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Erdfräulein
+Antwort_2=1 Erdmänneken
+Antwort_3=0 Erdopa
+Antwort_4=0 Erdsäugling
+
+[120]
+FZ1=Wie heißt die murmelgroße Glaskugel, die
+FZ2=Neville Longbottom von seiner Großmutter
+FZ3=geschenkt bekommen hat ?
+Min=2000
+Max=64000
+Antwort_1=0 Vergissmichnicht
+Antwort_2=0 Denkanmich
+Antwort_3=0 Verliermichnicht
+Antwort_4=1 Erinnermich
+
+[121]
+FZ1=Womit ist die murmelgroße Glaskugel, die
+FZ2=Neville Longbottom von seiner Großmutter
+FZ3=geschenkt bekommen hat, gefüllt ?
+Min=125000
+Max=1000000
+Antwort_1=0 mit schwarzem Rauch
+Antwort_2=0 mit gelbem Rauch
+Antwort_3=1 mit weißem Rauch
+Antwort_4=0 mit grünem Rauch
+
+[122]
+FZ1=In welche Farbe verwandelt sich der Rauch in
+FZ2=Nevilles Glaskugel, wenn man sie in die Hand
+FZ3=nimmt und etwas vergessen hat ?
+Min=1000
+Max=16000
+Antwort_1=0 blau
+Antwort_2=1 rot
+Antwort_3=0 gold
+Antwort_4=0 türkis
+
+[123]
+FZ1=
+FZ2=Wie heißt die große, graue Eule
+FZ3=der Familie Weasley ?
+Min=125000
+Max=1000000
+Antwort_1=1 Errol
+Antwort_2=0 Birol
+Antwort_3=0 Tahsin
+Antwort_4=0 Ugur
+
+[124]
+FZ1=
+FZ2=Wovon ist Albus Dumbledores Narbe ein
+FZ3=tadelloser Plan ?
+Min=2000
+Max=64000
+Antwort_1=0 von der Pariser Metro
+Antwort_2=1 von der Londoner U - Bahn
+Antwort_3=0 von der Moskauer U - Bahn
+Antwort_4=0 vom Londoner Flughafen
+
+[125]
+FZ1=
+FZ2=Wie heißt der Geist des Hauses Slytherin ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0 Blaue Graf
+Antwort_2=0 Rote Lord
+Antwort_3=1 Blutige Baron
+Antwort_4=0 Magische Fürst
+
+[126]
+FZ1=
+FZ2=Wo in Hogwarts befindet sich die Eulerei ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 im Westturm
+Antwort_2=0 im Ostturm
+Antwort_3=0 im Südturm
+Antwort_4=0 im Nordturm
+
+[127]
+FZ1=
+FZ2=Welche Form hat der Raum der Eulerei ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 sechseckig
+Antwort_2=0 dreieckig
+Antwort_3=1 kreisrund
+Antwort_4=0 viereckig
+
+[128]
+FZ1=
+FZ2=Wo wird der Hauself Dobby eingestellt, nachdem er durch
+FZ3=einen Trick von Harry Potter freigelassen wurde ?
+Min=125000
+Max=1000000
+Antwort_1=0 in der Garderobe
+Antwort_2=0 im Garten
+Antwort_3=0 im Schulbüro
+Antwort_4=1 in der Küche
+
+[129]
+FZ1=Womit wird einem Betroffenen etwas aus der Hand
+FZ2=gerissen, wenn man den Zauberspruch
+FZ3="Expelliarmus" nennt ?
+Min=125000
+Max=1000000
+Antwort_1=0 mit einem gelben Lichtstrahl
+Antwort_2=1 mit einem roten Lichtstrahl
+Antwort_3=0 mit einem violetten Lichtstrahl
+Antwort_4=0 mit einem silbernen Lichtstrahl
+
+[130]
+FZ1=
+FZ2=Wie sieht die Mähne der Drachenart
+FZ3="Chinesischer Feuerball" aus ?
+Min=125000
+Max=1000000
+Antwort_1=0 goldene Ringe
+Antwort_2=0 silberne Haare
+Antwort_3=1 goldene Stacheln
+Antwort_4=0 silberne Zöpfe
+
+[131]
+FZ1=
+FZ2=Wie heißt die französische Akademie für Zauberei ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Quimbanda
+Antwort_2=0 Moulin Rouge
+Antwort_3=0 Loiregeot
+Antwort_4=1 Beauxbatons
+
+[132]
+FZ1=
+FZ2=Was bewacht Fluffy ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 eine Geheimtür
+Antwort_2=1 eine Falltür
+Antwort_3=0 eine Schatzkiste
+Antwort_4=0 einen Zauberstab
+
+[133]
+FZ1=
+FZ2=Wie gelangt man in die Räume von
+FZ3=Professorin Trelawney im Nordturm ?
+Min=125000
+Max=1000000
+Antwort_1=0 durch ein Zaubertor
+Antwort_2=0 durch den magischen Vorhang
+Antwort_3=1 durch eine runde Falltür
+Antwort_4=0 durch ein verhextes Fenster
+
+[134]
+FZ1=
+FZ2=Wie heißt das Haustier von Hagrid ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 Fang
+Antwort_2=0 Schnapp
+Antwort_3=0 Fass
+Antwort_4=0 Beiß
+
+[135]
+FZ1=Wie heißt der Treiber im Quidditch - Team von Slytherin in
+FZ2=Harry Potters drittem Schuljahr ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Tole
+Antwort_2=0 Kole
+Antwort_3=0 Sole
+Antwort_4=1 Bole
+
+[136]
+FZ1=
+FZ2=Welches Haustier hat Hagrid ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 einen Wellensittich
+Antwort_2=0 ein Meerschweinchen
+Antwort_3=1 einen Saurüden
+Antwort_4=0 einen Zwergdrachen
+
+[137]
+FZ1=
+FZ2=Wohin wurde Hagrids Haustier von Norbert
+FZ3=dem Drachen gebissen ?
+Min=2000
+Max=64000
+Antwort_1=1 in den Schwanz
+Antwort_2=0 in das Ohr
+Antwort_3=0 in das Bein
+Antwort_4=0 in den Bauch
+
+[138]
+FZ1=
+FZ2=Seit wann stehen "Fangzähnige Frisbies" in Hogwarts
+FZ3=auf der verbotenen Liste ?
+Min=125000
+Max=1000000
+Antwort_1=0 seit 1991
+Antwort_2=0 seit 1992
+Antwort_3=0 seit 1993
+Antwort_4=1 seit 1994
+
+[139]
+FZ1=Die vier Häuser in Hogwarts haben verschiedene
+FZ2=Farben. Was ist die Farbe von Gryffindor ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 blau
+Antwort_2=1 rot
+Antwort_3=0 gelb
+Antwort_4=0 grün
+
+[140]
+FZ1=
+FZ2=Welche Zauberfamilie tötete Lord Voldemort kurz vor
+FZ3=seiner Niederlage 1981 ?
+Min=125000
+Max=1000000
+Antwort_1=0 Stones
+Antwort_2=0 Jones
+Antwort_3=0 Klones
+Antwort_4=1 Bones
+
+[141]
+FZ1=
+FZ2=Die vier Häuser in Hogwarts haben verschiedene
+FZ3=Farben. Was ist die Farbe von Ravenclaw ?
+Min=2000
+Max=64000
+Antwort_1=0 rot
+Antwort_2=0 gelb
+Antwort_3=0 grün
+Antwort_4=1 blau
+
+[142]
+FZ1=
+FZ2=Die vier Häuser in Hogwarts haben verschiedene
+FZ3=Farben. Was ist die Farbe von Hufflepuff ?
+Min=2000
+Max=64000
+Antwort_1=0blau	
+Antwort_2=0rot	
+Antwort_3=0grün	
+Antwort_4=1gelb	
+
+[143]
+FZ1=
+FZ2=Die vier Häuser in Hogwarts haben verschiedene
+FZ3=Farben. Was ist die Farbe von Slytherin ?
+Min=2000
+Max=64000
+Antwort_1=1 grün
+Antwort_2=0 rot
+Antwort_3=0 gelb
+Antwort_4=0 blau
+
+[144]
+FZ1=
+FZ2=Wo hat Albus Dumbledore eine Narbe ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 oberhalb des rechten Knies
+Antwort_2=1 oberhalb des linken Knies
+Antwort_3=0 unterhalb des rechten Knies
+Antwort_4=0 unterhalb des linken Knies
+
+[145]
+FZ1=
+FZ2=Mit wem unterhält sich Harry Potter bei seinem
+FZ3=ersten Zoobesuch ?
+Min=8000
+Max=125000
+Antwort_1=1 Boa constrictor
+Antwort_2=0 Fransenschildkröte
+Antwort_3=0 Brauner Waldkauz
+Antwort_4=0 Kitfuchs
+
+[146]
+FZ1=Aus welchem Haus ist Fawcett, die versucht, mit einem
+FZ2=Alterungstrank die Alterslinien auszutricksen, um an dem
+FZ3=Trimagischen Turnier teilzunehmen ?
+Min=125000
+Max=1000000
+Antwort_1=0 Slytherin
+Antwort_2=0 Hufflepuff
+Antwort_3=1 Ravenclaw
+Antwort_4=0 Gryffindor
+
+[147]
+FZ1=
+FZ2=Wie heißt der Phönix von Albus Dumbledore ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1 Fawkes
+Antwort_2=0 Hawkes
+Antwort_3=0 Sawkes
+Antwort_4=0 Tawkes
+
+[148]
+FZ1=
+FZ2=Wie nennt Ron Weasley die besonders kleine Schrift
+FZ3=von Hermine Granger ?
+Min=125000
+Max=1000000
+Antwort_1=1 Bonsai - Schrift
+Antwort_2=0 Mini - Schrift
+Antwort_3=0 Zwergen - Schrift
+Antwort_4=0 Lilliput - Schrift
+
+[149]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1	
+Antwort_2=0	
+Antwort_3=0	
+Antwort_4=0	
+
+[150]
+FZ1=
+FZ2=Was hext Hagrid Dudley Dursley an ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 einen Schweineschwanz
+Antwort_2=0 Schweineohren
+Antwort_3=0 einen Rattenschwanz
+Antwort_4=0 Entenflügel
+
+[151]
+FZ1=
+FZ2=Welche Farbe hat Albus Dumbledores Vollbart ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 gold
+Antwort_2=1 silber
+Antwort_3=0 rot
+Antwort_4=0 weiß
+
+[152]
+FZ1=
+FZ2=Welche Schule besucht Dudley Dursley ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 Smeltings
+Antwort_2=0 Eton
+Antwort_3=0 Oxford
+Antwort_4=0 Summerhill
+
+[153]
+FZ1=
+FZ2=In welchem Schuljahr muss Dudley Dursley eine Diät
+FZ3=machen, weil ihm keine Schuluniform mehr passt ?
+Min=125000
+Max=1000000
+Antwort_1=0 im zweiten Schuljahr
+Antwort_2=1 im vierten Schuljahr
+Antwort_3=0 im dritten Schuljahr
+Antwort_4=0 im fünften Schuljahr
+
+[154]
+FZ1=
+FZ2=Was quillt aus der Mundhöhle des Totenkopfzeichens
+FZ3=von Lord Voldemort ?
+Min=2000
+Max=64000
+Antwort_1=1 eine Schlange
+Antwort_2=0 ein Blutschwall
+Antwort_3=0 Drachenschleim
+Antwort_4=0 Fledermäuse
+
+[155]
+FZ1=
+FZ2=Wie heißt die Schwester von Vernon Dursley ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Kathrin
+Antwort_2=0 Anne
+Antwort_3=0 Mary
+Antwort_4=1 Magda
+
+[156]
+FZ1=
+FZ2=Wie heißt Harry Potters Tante ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1 Petunia Dursley
+Antwort_2=0 Veronika Dursley
+Antwort_3=0 Amalie Dursley
+Antwort_4=0 Rosalia Dursley
+
+[157]
+FZ1=
+FZ2=Wie hieß Harry Potters Mutter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Eve Potter
+Antwort_2=0 Lisa Potter
+Antwort_3=1 Lily Potter
+Antwort_4=0 Hanne Potter
+
+[158]
+FZ1=
+FZ2=Was hört Albus Dumbledore mit Vorliebe
+FZ3=in seiner Freizeit ?
+Min=125000
+Max=1000000
+Antwort_1=0 Rockmusik
+Antwort_2=1 Kammermusik
+Antwort_3=0 Volksmusik
+Antwort_4=0 Blasmusik
+
+[159]
+FZ1=
+FZ2=Wie alt ist mindestens der Phönix
+FZ3=von Albus Dumbledore ?
+Min=125000
+Max=1000000
+Antwort_1=1 55 Jahre
+Antwort_2=0 45 Jahre
+Antwort_3=0 35 Jahre
+Antwort_4=0 25 Jahre
+
+[160]
+FZ1=
+FZ2=Wie groß werden die Elfen mindestens ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 so groß wie Fußbälle
+Antwort_2=0 so groß wie Erbsen
+Antwort_3=1 so groß wie Tennisbälle
+Antwort_4=0 so groß wie Kürbisse
+
+[161]
+FZ1=
+FZ2=Von wem stammen die Federn in Harry Potters
+FZ3=Zauberstab ?
+Min=2000
+Max=64000
+Antwort_1=0 von einer Schnee - Eule
+Antwort_2=0 von einem Steinadler
+Antwort_3=0 von einem Einhorn
+Antwort_4=1 von Prof. Dumbledores Phönix
+
+[162]
+FZ1=
+FZ2=In wessen Zauberstab sind auch Federn des Tieres, die
+FZ3=in Harry Potters Zauberstab sind ?
+Min=125000
+Max=1000000
+Antwort_1=1 Lord Voldemort
+Antwort_2=0 Professor Snape
+Antwort_3=0 Professor McGonagall
+Antwort_4=0 Blutige Baron
+
+[163]
+FZ1=
+FZ2=Wie heißt der Onkel von Harry Potter ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Gerald Potter
+Antwort_2=1 Vernon Dursley
+Antwort_3=0 Marvin Potter
+Antwort_4=0 Calvin Dursley
+
+[164]
+FZ1=Wie nennt man das Gerät, das wie ein Spiegel aussieht
+FZ2=und seinem Besitzer die Feinde zeigt, je nachdem,
+FZ3=wie nahe sie sind ?
+Min=2000
+Max=64000
+Antwort_1=0 Feindspiegel
+Antwort_2=0 Feindlupe
+Antwort_3=0 Feindrohr
+Antwort_4=1 Feindglas
+
+[165]
+FZ1=
+FZ2=Wie nennt Harry Potter die steinharten Kekse,
+FZ3=die Hagrid backt ?
+Min=0
+Max=1000
+Antwort_1=1Felsenkekse
+Antwort_2=0 Steinkekse
+Antwort_3=0 Marmorkekse
+Antwort_4=0 Eisenkekse
+
+[166]
+FZ1=Wie heißt der Zauberspruch, der eine Schiene
+FZ2=für ein gebrochenes Glied erzeugt und dieses
+FZ3=mit einer Binde daran festmacht ?
+Min=125000
+Max=1000000
+Antwort_1=0 Tabula
+Antwort_2=0 Gerula
+Antwort_3=1 Ferula
+Antwort_4=0 Majola
+
+[167]
+FZ1=
+FZ2=Welche Farbe hat Ron Weasleys Festumhang
+FZ3=für den Weihnachtsball 1994 ?
+Min=125000
+Max=1000000
+Antwort_1=1 kastanienbraun
+Antwort_2=0 schneeweiß
+Antwort_3=0 rabenschwarz
+Antwort_4=0 blutrot
+
+[168]
+FZ1=Welche Farbe hat Harry Potters Festumhang
+FZ2=für den Weihnachtsball 1994 ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 weiß
+Antwort_2=0 schwarz
+Antwort_3=0 rot
+Antwort_4=1 grün
+
+[169]
+FZ1=
+FZ2=Wie heißt der Geist von Hufflepuff ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 dicker Priester
+Antwort_2=1 fetter Mönch
+Antwort_3=0 schwerer Bischof
+Antwort_4=0 bauchiger Kardinal
+
+[170]
+FZ1=
+FZ2=Wie heißt der Besen, den Harry Potter
+FZ3=Weihnachten 1993 geschenkt bekommt ?
+Min=2000
+Max=64000
+Antwort_1=0 Feuerstrahl
+Antwort_2=0 Feuerstuhl
+Antwort_3=0 Feuerschweif
+Antwort_4=1 Feuerblitz
+
+[171]
+FZ1=
+FZ2=Von wem bekommt Harry Potter Weihnachten 1993
+FZ3=anonym einen neuen Besen geschenkt ?
+Min=125000
+Max=1000000
+Antwort_1=1 Sirius Black
+Antwort_2=0 Albus Dumbledore
+Antwort_3=0 Hagrad
+Antwort_4=0 Hermine Granger
+
+[172]
+FZ1=
+FZ2=Welche Farbe hat das magische Feuer im Feuerkelch ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=0 gelbrot
+Antwort_2=0 blauschwarz
+Antwort_3=0 orangerot
+Antwort_4=1 blauweiß
+
+[173]
+FZ1=
+FZ2=Aus welchem Material besteht der Feuerkelch ?
+FZ3=
+Min=2000
+Max=64000
+Antwort_1=1 Holz
+Antwort_2=0 Gold
+Antwort_3=0 Eisen
+Antwort_4=0 Porzellan
+
+[174]
+FZ1=
+FZ2=Von wem wird der Feuerkelch so manipuliert,
+FZ3=dass Harry Potter als vierter Teilnehmer festgelegt wird ?
+Min=125000
+Max=1000000
+Antwort_1=0 Draco Malfoy
+Antwort_2=0 Professor Snape
+Antwort_3=1 Barty Crouch
+Antwort_4=0 Bill Weasley
+
+[175]
+FZ1=
+FZ2=Was zeigt Neville Longbottoms Glaskugel an,
+FZ3=wenn man sie in die Hand nimmt ?
+Min=2000
+Max=64000
+Antwort_1=0 ...., dass es gleich regnen wird.
+Antwort_2=0 ..., dass  eine Hexe in der Nähe ist.
+Antwort_3=0 ..., dass der Zauberspruch falsch ist.
+Antwort_4=1 ..., dass man etwas vergessen hat.
+
+[176]
+FZ1=
+FZ2=Welche Weissagungsmethoden soll Harry Potter
+FZ3=in seinem dritten Schuljahr kennen lernen ?
+Min=125000
+Max=1000000
+Antwort_1=1 Feuer - Omen
+Antwort_2=0 Wasser - Omen
+Antwort_3=0 Sturm - Omen
+Antwort_4=0 Drachen - Omen
+
+[177]
+FZ1=
+FZ2=Wie heißt das Passwort für den Eingang in den
+FZ3=Gryffindor - Turm in Harry Potters drittem Schuljahr ?
+Min=125000
+Max=1000000
+Antwort_1=0 böse Katze
+Antwort_2=0 schäbige Maus
+Antwort_3=1 fieser Hund
+Antwort_4=0 elende Ratte
+
+[178]
+FZ1=Wie heißt die verrückte alte Dame, bei der
+FZ2=Harry Potter bis zu seinem 10. Lebensjahr immer die
+FZ3=Geburtstage von Dudley Dursley verbringen muss ?
+Min=2000
+Max=1000
+Antwort_1=0 Mrs Bigg
+Antwort_2=0 Mrs Salome
+Antwort_3=0 Mrs Donovay
+Antwort_4=1 Mrs Figg
+
+[179]
+FZ1=
+FZ2=Wie heißt der Hausmeister von Hogwarts ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0 Hagrid
+Antwort_2=1 Argus Filch
+Antwort_3=0 Aidan Lynch
+Antwort_4=0 Albus Dumbledore
+
+[180]
+FZ1=
+FZ2=Wie würde der Hausmeister von Hogwarts
+FZ3=die Schüler am liebsten bestrafen ?
+Min=2000
+Max=64000
+Antwort_1=1 in Ketten von der Decke hängen lassen
+Antwort_2=0 nachts im Verbotenen Wald einsperren
+Antwort_3=0 in das Verlies von Askaban sperren
+Antwort_4=0 in Gartengnome verzaubern
+
+[181]
+FZ1=
+FZ2=Wie heißt der einzige Sucher, der Harry Potter
+FZ3=im Quidditch je schlägt ?
+Min=125000
+Max=1000000
+Antwort_1=0 Golan Convay
+Antwort_2=1 Cedric Diggory
+Antwort_3=0 Ronald Weaton
+Antwort_4=0 Keaton Buster
+
+[182]
+FZ1=Wen rettet Harry Potter vor einer Schlange und
+FZ2=wird von diesem daraufhin verdächtigt, der Erbe
+FZ3=Slytherins zu sein ?
+Min=2000
+Max=64000
+Antwort_1=1 Justin Finch - Fletchley
+Antwort_2=0 Norman Greenbaum
+Antwort_3=0 Piers Polkiss
+Antwort_4=0 Ludo Bagman
+
+[183]
+FZ1=
+FZ2=Wie heißt der absolute Gegenzauber ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=0 Finale Grande
+Antwort_2=0 Finitum Res
+Antwort_3=0 Exhuminus Tesdo
+Antwort_4=1 Finite Incantatem
+
+[184]
+FZ1=Wie heißt einer der Zentauren, die im
+FZ2=Verbotenen Wald leben und der Harry Potter
+FZ3=auf sich reiten lässt ?
+Min=125000
+Max=1000000
+Antwort_1=1 Firenze
+Antwort_2=0 Milano
+Antwort_3=0 Neapel
+Antwort_4=0 Sizilia
+
+[185]
+FZ1=
+FZ2=Wer gilt als der einzige Besitzer eines
+FZ3=Steins der Weisen ?
+Min=200
+Max=64000
+Antwort_1=0 Albus Dumbledore
+Antwort_2=0 Harry Potter
+Antwort_3=1 Nicolas Flamel
+Antwort_4=0 Professor McGonagall
+
+[186]
+FZ1=
+FZ2=Womit ist die große Halle von Hogwarts
+FZ3=an Halloween geschmückt ?
+Min=2000
+Max=64000
+Antwort_1=1 Fledermäusen
+Antwort_2=0 Kürbissen
+Antwort_3=0 Geistern
+Antwort_4=0 Lichtkobolden
+
+[187]
+FZ1=Womit brachte Hagrid Harry Potter nach dem
+FZ2=Tod seiner Eltern zur Familie Dursley ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0 fliegendes Fahrrad
+Antwort_2=0 fliegendes Auto
+Antwort_3=0 fliegender Teppich
+Antwort_4=1 fliegendes Motorrad
+
+[188]
+FZ1=
+FZ2=Womit kam Harry Potter in seinem zweiten
+FZ3=Schuljahr doch noch nach Hogwarts ?
+Min=0
+Max=2000
+Antwort_1=1  mit einem fliegenden Auto
+Antwort_2=0 mit einem fliegenden Fahrrad
+Antwort_3=0 mit einem fliegenden Motorrad
+Antwort_4=0 mit einem fliegenden Teppich
+
+[189]
+FZ1=Wer war Kapitän und Jäger des Quidditch-Teams
+FZ2=von Slytherin, als Harry Potter in Hogwarts
+FZ3=eingeschult wurde ?
+Min=2000
+Max=64000
+Antwort_1=0 Oliver Wood
+Antwort_2=1 Marcus Flint
+Antwort_3=0 Ron Weasley
+Antwort_4=0 Draco Malfoy
+
+[190]
+FZ1=Welcher Professor für Zauberkunst in Hogwarts
+FZ2=ist so klein, dass er sich auf einen Stapel Bücher
+FZ3=stellen muss, um über das Pult sehen zu können ?
+Min=125000
+Max=1000000
+Antwort_1=1 Professor Flitwick
+Antwort_2=0 Professor Dumbledore
+Antwort_3=0 Professor McGonagall
+Antwort_4=0 Professor Quirrell
+
+[191]
+FZ1=
+FZ2=Welches magische Pulver erlaubt einem
+FZ3=Reisen fast ohne Zeitverlust ?
+Min=125000
+Max=1000000
+Antwort_1=0 Ratten - Pulver
+Antwort_2=0 Schnecken - Pulver
+Antwort_3=1 Floh - Pulver
+Antwort_4=0 Fliegen - Pulver
+
+[192]
+FZ1=Welches Musikinstrument bekommt Harry Potter
+FZ2=an seinem ersten Weihnachtsfest in Hogwarts
+FZ3=geschenkt ?
+Min=2000
+Max=64000
+Antwort_1=0 eine Trompete
+Antwort_2=1 eine Flöte
+Antwort_3=0 eine Geige
+Antwort_4=0 eine Trommel
+
+[193]
+FZ1=Wer schenkt Harry Potter
+FZ2=an seinem ersten Weihnachtsfest in Hogwarts
+FZ3=ein Musikinstrument ?
+Min=0
+Max=2000
+Antwort_1=0 Ron Weasley
+Antwort_2=0 Hermine Granger
+Antwort_3=1 Hagrid
+Antwort_4=0 Professor Dumbledore
+
+[194]
+FZ1=Wozu benutzt Harry Potter das Musikinstrument,
+FZ2=das er an seinem ersten Weihnachtsfest in Hogwarts
+FZ3=geschenkt bekommen hat ?
+Min=125000
+Max=1000000
+Antwort_1=1 Er schläfert Fluffy ein.
+Antwort_2=0 Er verhext Trolle.
+Antwort_3=0 Er zaubert Kraftlieder.
+Antwort_4=0 Er weckt Geister auf.
+
+[195]
+FZ1=Wie heißt der Hund, der im ersten Schuljahr
+FZ2=von Harry Potter den Zugang zum
+FZ3=Stein der Weisen bewacht ?
+Min=0
+Max=2000
+Antwort_1=1 Fluffy
+Antwort_2=0 Goofy
+Antwort_3=0 Flecky
+Antwort_4=0 Fuchur
+
+[196]
+FZ1=
+FZ2=Aus welchem Holz ist Harry Potters Besen, den
+FZ3=er Weihnachten 1993 geschenkt bekommt ?
+Min=125000
+Max=1000000
+Antwort_1=1 Eschenholz
+Antwort_2=0 Eichenholz
+Antwort_3=0 Buchenholz
+Antwort_4=0 Birkenholz
+
+[197]
+FZ1=Wo befindet sich die runde Falltür, die zu den
+FZ2=Räumen von Professorin Trelawney im
+FZ3=Nordturm führt ?
+Min=125000
+Max=1000000
+Antwort_1=0 zwischen zwei Statuen
+Antwort_2=0 am Anfang der Wendeltreppe
+Antwort_3=0 unter dem magischen Zauberteppich
+Antwort_4=1 am Ende einer silbernen Trittleiter
+
+[198]
+FZ1=Wie viele Köpfe hat der Hund, der im ersten Schuljahr
+FZ2=von Harry Potter den Zugang zum
+FZ3=Stein der Weisen bewacht ?
+Min=2000
+Max=64000
+Antwort_1=0 2
+Antwort_2=1 3
+Antwort_3=0 4
+Antwort_4=0 5
+
+[199]
+FZ1=
+FZ2=Wie heißt das Passwort für den Eingang in den
+FZ3=Gryffindor - Turm in Harry Potters 3. Schuljahr ?
+Min=125000
+Max=1000000
+Antwort_1=0 Fortuna General
+Antwort_2=0 Fortuna Maximus
+Antwort_3=0 Fortuna Magica
+Antwort_4=1 Fortuna Major
+
+[200]
+FZ1=Worüber ist Mrs Figg gestolpert und hat sich das
+FZ2=Bein gebrochen, so dass Harry Potter an Dudleys
+FZ3=Geburtstag sie nicht besuchen musste ?
+Min=2000
+Max=64000
+Antwort_1=0 über einen ihrer Hunde
+Antwort_2=1 über eine ihrer Katzen
+Antwort_3=0 über einen Besen
+Antwort_4=0 über einen Teppich
+

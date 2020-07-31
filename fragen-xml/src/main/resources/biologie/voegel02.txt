@@ -1,0 +1,3504 @@
+[Thema]
+Thema=Rund um die Vögel
+Fragen=318
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Die Sturmmöwe ist die kleinere Verwandte der Silbermöwe. Sie brütet in großen 
+FZ3=Kolonien. Wie viele Brutpaare umfasst eine Kolonie ?
+Min=8000
+Max=125000
+Antwort_1=1über 1.000	
+Antwort_2=0300 - 500	
+Antwort_3=0500 - 800	
+Antwort_4=050 - 300	
+
+[2]
+FZ1=
+FZ2=Wozu tragen die Altvögel der Silbermöwen einen roten Fleck am Unterschnabel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1als Hinweis auf die Futterquelle	für die Jungen	
+Antwort_2=0als Abschreckung für Feinde	
+Antwort_3=0als Artkennzeichen gegenüber anderen	Möwen	
+Antwort_4=0als Anlockungszeichen für die Balz	
+
+[3]
+FZ1=
+FZ2=Wo haben die Brandenten ihre Nester ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1in Höhlen von Wildkaninchen und	Füchsen	
+Antwort_2=0in einer Sandmulde	
+Antwort_3=0offen zwischen den Dünengräsern	
+Antwort_4=0im Strandhafer	
+
+[4]
+FZ1=
+FZ2=Was ist die wichtigste Nahrung des Austernfischers ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Herzmuscheln	
+Antwort_2=0Miesmuscheln	
+Antwort_3=0Austern	
+Antwort_4=0Krebse	
+
+[5]
+FZ1=
+FZ2=Wie oft kann der Auerhahn seine Melodie wiederholen,
+FZ3= wenn er ein Weibchen beeindrucken möchte ?
+Min=64000
+Max=500000
+Antwort_1=1ca. 500 - mal	
+Antwort_2=0ca. 50 - mal	
+Antwort_3=0ca. 100 - mal	
+Antwort_4=0ca. 5 - mal	
+
+[6]
+FZ1=
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[7]
+FZ1=
+FZ2=Welcher Vogel singt am längsten, wenn er sein Weibchen beeindrucken möchte ?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Auerhahn	
+Antwort_2=0Feldlerche	
+Antwort_3=0Nachtigall	
+Antwort_4=0Rotkehlchen	
+
+[8]
+FZ1=
+FZ2=Wie alt können Pelikane werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 60 Jahre	
+Antwort_2=0ca. 20 Jahre	
+Antwort_3=0ca. 40 Jahre	
+Antwort_4=0ca. 80 Jahre	
+
+[9]
+FZ1=
+FZ2=Welche Vögel bekommen im Winter ein weißes Gefieder ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Schneehühner	
+Antwort_2=0Schneefasane	
+Antwort_3=0Schnee - Eulen	
+Antwort_4=0Schneeadler	
+
+[10]
+FZ1=
+FZ2=Wo kommen die Paradiesvögel hauptsächlich vor ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Neuguinea	
+Antwort_2=0Neufundland	
+Antwort_3=0Neuseeland	
+Antwort_4=0Australien	
+
+[11]
+FZ1=
+FZ2=Wie schwer ist der kleinste Vogel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=11 - 2 Gramm	
+Antwort_2=05 - 7 Gram	
+Antwort_3=03 - 4 Gramm	
+Antwort_4=08 - 12 Gramm	
+
+[12]
+FZ1=
+FZ2=Wie nennt man ein weibliches Haushuhn ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1Henne	
+Antwort_2=0Erpel	
+Antwort_3=0Hahn	
+Antwort_4=0Küken	
+
+[13]
+FZ1=
+FZ2=Welcher Vogel ist auf deutschen Euromünzen abgebildet ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Adler	
+Antwort_2=0Habicht	
+Antwort_3=0Falke	
+Antwort_4=0Geier	
+
+[14]
+FZ1=
+FZ2=Welche Spannweite erreicht der Höckerschwan ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis zu 3 m	
+Antwort_2=0bis zu 4 m	
+Antwort_3=0bis zu 2 m	
+Antwort_4=0bis zu 1 m	
+
+[15]
+FZ1=
+FZ2=Woraus besteht der Schnabel der Vögel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1aus Horn	
+Antwort_2=0aus Knochenplatten	
+Antwort_3=0aus verdickten Federn	
+Antwort_4=0das weiß man noch nicht	
+
+[16]
+FZ1=
+FZ2=Wo überwintern die meisten unserer Zugvögel ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1in Afrika	
+Antwort_2=0in Italien	
+Antwort_3=0in Südamerika	
+Antwort_4=0in Spanien	
+
+[17]
+FZ1=
+FZ2=Wie alt können Kanarienvögel werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 20 Jahre	
+Antwort_2=0ca. 30 Jahre	
+Antwort_3=0ca. 10 Jahre	
+Antwort_4=0ca. 40 Jahre	
+
+[18]
+FZ1=
+FZ2=Welcher Vogel verbirgt sich hinter dem Fabelnamen Adebar ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Weißstorch	
+Antwort_2=0Adler	
+Antwort_3=0Albatros	
+Antwort_4=0Amsel	
+
+[19]
+FZ1=
+FZ2=Wie tief können Kaiserpinguine tauchen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 500 Meter	
+Antwort_2=0ca. 75 Meter	
+Antwort_3=0ca. 200 Meter	
+Antwort_4=0ca. 28 Meter	
+
+[20]
+FZ1=
+FZ2=Woraus besteht die Schale von Vögeleiern ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1aus Kalk	
+Antwort_2=0aus Marmor	
+Antwort_3=0aus Gips	
+Antwort_4=0aus Schiefer	
+
+[21]
+FZ1=
+FZ2=Wo leben Kiwis ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Neuseeland	
+Antwort_2=0Indien	
+Antwort_3=0Chile	
+Antwort_4=0Usbekistan	
+
+[22]
+FZ1=
+FZ2=Wie alt können Enten werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=125 Jahre	
+Antwort_2=05 Jahre	
+Antwort_3=015 Jahre	
+Antwort_4=035 Jahre	
+
+[23]
+FZ1=
+FZ2=Wie tarnen sich manche Vögel im Winter, bzw. in Schneeregionen ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Sie färben sich weiß.	
+Antwort_2=0Sie verstecken sich hinter Eisbären.	
+Antwort_3=0Sie graben sich ein.	
+Antwort_4=0Sie werfen mit Schnee.	
+
+[24]
+FZ1=
+FZ2=Wie heiß die größte Waldhuhnart Europas ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Auerhuhn	
+Antwort_2=0Waldhuhn	
+Antwort_3=0Legehuhn	
+Antwort_4=0Rebhuhn	
+
+[25]
+FZ1=
+FZ2=Welche Wildtaube gilt als Stammform der Haustaube ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Felsentaube	
+Antwort_2=0Sandtaube	
+Antwort_3=0Steintaube	
+Antwort_4=0Mauertaube	
+
+[26]
+FZ1=
+FZ2=Welcher Vogel wird  n i c h t  als Stubenvogel gehalten ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Albatros	
+Antwort_2=0Fink	
+Antwort_3=0Zeisig	
+Antwort_4=0Wellensittich	
+
+[27]
+FZ1=
+FZ2=Welcher Raubvogel wird seit Jahrhunderten bis heute zur Jagd abgerichtet ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1vor allem der Falke	
+Antwort_2=0vor allem der Geier	
+Antwort_3=0vor allem der Adler	
+Antwort_4=0vor allem der Bussard	
+
+[28]
+FZ1=
+FZ2=Woher hat der Kanarienvogel seinen Namen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1von der Heimat seiner Stammeltern,	den Kanarischen Inseln	
+Antwort_2=0von seinem Gesang: Ka - nar, ka - nar	
+Antwort_3=0von seinem Entdecker, Dr. Kanar	
+Antwort_4=0von seinem Überwinterungsort, den	Kanarischen Inseln	
+
+[29]
+FZ1=
+FZ2=Wie lernen die jungen Vögel das Fliegen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Das Fliegen ist angeboren.	
+Antwort_2=0durch die älteren Geschwister	
+Antwort_3=0durch die Eltern	
+Antwort_4=0durch eigene Übungen	
+
+[30]
+FZ1=
+FZ2=Was ist ein Merlin ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1ein amselgroßer Falke
+Antwort_2=0ein indischer Hühnervogel
+Antwort_3=0eine männliche Meise
+Antwort_4=0eine junge Möwe
+
+[31]
+FZ1=
+FZ2=Welchen volkstümlichen Namen hat der Mäusebussard ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Katzenadler
+Antwort_2=0Pferdefalke
+Antwort_3=0Hundehabicht
+Antwort_4=0Schweinerabe
+
+[32]
+FZ1=
+FZ2=Wie heißt der häufigste einheimische Greifvogel ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Mäusebussard
+Antwort_2=0Steinadler
+Antwort_3=0Habicht
+Antwort_4=0Sperber
+
+[33]
+FZ1=
+FZ2=Wie groß wird der Steinadler ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis zu 90 cm
+Antwort_2=0bis zu 180 cm
+Antwort_3=0bis zu 120 cm
+Antwort_4=0bis zu 70 cm
+
+[34]
+FZ1=
+FZ2=Wie groß wird der Steinkauz ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 22 cm
+Antwort_2=0ca. 33 cm
+Antwort_3=0ca. 11 cm
+Antwort_4=0ca. 44 cm
+
+[35]
+FZ1=
+FZ2=Wie heißt die kleinste einheimische Eule ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Steinkauz
+Antwort_2=0Schleiereule
+Antwort_3=0Waldkauz
+Antwort_4=0Sumpfohreule
+
+[36]
+FZ1=
+FZ2=Wie viele Trottellummenpaare brüten auf Helgoland ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1ca. 1.000
+Antwort_2=0ca. 10.000
+Antwort_3=0ca. 100
+Antwort_4=0ca. 5.000
+
+[37]
+FZ1=
+FZ2=Welche Möwe brütet nur auf Helgoland ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Dreizehenmöwe
+Antwort_2=0Silbermöwe
+Antwort_3=0Sturmmöwe
+Antwort_4=0Mantelmöwe
+
+[38]
+FZ1=
+FZ2=Wie heißt die größte einheimische Gans ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Kanandagans
+Antwort_2=0Nonnengans
+Antwort_3=0Graugans
+Antwort_4=0Ringelgans
+
+[39]
+FZ1=
+FZ2=Wie heißt die kleinste einheimische Gans ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ringelgans
+Antwort_2=0Nonnengans
+Antwort_3=0Graugans
+Antwort_4=0Kurzschnabelgans
+
+[40]
+FZ1=
+FZ2=Wie wird die Bekassine auch genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Himmelsziege
+Antwort_2=0Erdkuh
+Antwort_3=0Höllenschaf
+Antwort_4=0Wasserhuhn
+
+[41]
+FZ1=
+FZ2=Welcher Rabenvogel hat einen roten Schnabel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Alpenkrähe
+Antwort_2=0Nebelkrähe
+Antwort_3=0Dohle
+Antwort_4=0Kolkrabe
+
+[42]
+FZ1=
+FZ2=Wie nennt man den käsigen Brei, mit dem die Tauben ihre Jungen füttern ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Kropfmilch
+Antwort_2=0Kropfbrei
+Antwort_3=0Kropfmus
+Antwort_4=0Kropfgelee
+
+[43]
+FZ1=
+FZ2=Weshalb gelten die Tauben aller Wahrscheinlichkeit nach  als Symbol des Friedens ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1weil sie keine Galle besitzen
+Antwort_2=0weil sie Briefe befördern können
+Antwort_3=0weil sie so schön gurren
+Antwort_4=0weil sie so anmutig fliegen
+
+[44]
+FZ1=
+FZ2=Wie hoch steigen die Lerchen singend in den Himmel ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis 80 m
+Antwort_2=0bis 40 m
+Antwort_3=0bis 60 m
+Antwort_4=0bis 20 m
+
+[45]
+FZ1=
+FZ2=Welchen Vogel gibt es  n i c h t  ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Weißkehlchen
+Antwort_2=0Schwarzkehlchen
+Antwort_3=0Rotkehlchen
+Antwort_4=0Braunkehlchen
+
+[46]
+FZ1=
+FZ2=Wie heißt die häufigste Drosselart ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Amsel
+Antwort_2=0Singdrossel
+Antwort_3=0Wacholderdrossel
+Antwort_4=0Misteldrossel
+
+[47]
+FZ1=
+FZ2=Wie wird die Amsel auch genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schwarzdrossel
+Antwort_2=0Singdrossel
+Antwort_3=0Star
+Antwort_4=0Rotdrossel
+
+[48]
+FZ1=
+FZ2=Wie groß wird der Kernbeißer ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=117 cm
+Antwort_2=09 cm
+Antwort_3=012 cm
+Antwort_4=022 cm
+
+[49]
+FZ1=
+FZ2=Welcher Vogel kann mit seinem kräftigen Schnabel sogar Kirschkerne aufbeißen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kernbeißer
+Antwort_2=0Blaumeise
+Antwort_3=0Amsel
+Antwort_4=0Rotkehlchen
+
+[50]
+FZ1=
+FZ2=Welches Wiewort ist typisch für den Spatz ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1frech
+Antwort_2=0schlau
+Antwort_3=0lieb
+Antwort_4=0mutig
+
+[51]
+FZ1=
+FZ2=Was ist die Hauptnahrung des Teichrohrsängers ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Mücken
+Antwort_2=0Bienen
+Antwort_3=0Fliegen
+Antwort_4=0Hummeln
+
+[52]
+FZ1=
+FZ2=Welcher Vogel ist ein bekannter Wirt für den Kuckuck ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Teichrohrsänger
+Antwort_2=0Heckenbraunelle
+Antwort_3=0Dorngrasmücke
+Antwort_4=0Kernbeißer
+
+[53]
+FZ1=
+FZ2=Welchen Vogel gibt es ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Zilpzalp
+Antwort_2=0Hilphalp
+Antwort_3=0Gilpgalp
+Antwort_4=0Tilptalp
+
+[54]
+FZ1=
+FZ2=Wie heißt die größte und häufigste einheimische Meise ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kohlmeise
+Antwort_2=0Haubenmeise
+Antwort_3=0Blaumeise
+Antwort_4=0Bartmeise
+
+[55]
+FZ1=
+FZ2=Wie heißt der kleinste Vogel Mitteleuropas ?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1Wintergoldhähnchen
+Antwort_2=0Dorngrasmücke
+Antwort_3=0Blaumeise
+Antwort_4=0Goldammer
+
+[56]
+FZ1=
+FZ2=Wie viel Fläche Lebensraum beansprucht ein Steinadlerpaar ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1mindestens 15 Quadratkilometer
+Antwort_2=07 Quadratkilometer
+Antwort_3=010 - 13 Quadratkilometer
+Antwort_4=02 - 6 Quadratkilometer
+
+[57]
+FZ1=
+FZ2=Wie oft schlägt das Herz eines Haussperlings in der Minute ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1bis zu 800 - mal
+Antwort_2=040 bis 60 - mal
+Antwort_3=0100 bis 200 - mal
+Antwort_4=0ca. 85 - mal
+
+[58]
+FZ1=
+FZ2=Wie hoch ist die Körpertemperatur eines Vogels ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=140 - 43 ° C
+Antwort_2=050 - 55 ° C
+Antwort_3=020 - 25 ° C
+Antwort_4=030 - 33 ° C
+
+[59]
+FZ1=
+FZ2=Zu welcher Vogelart gehört die Wachtel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hühnervögeln
+Antwort_2=0Taubenvögeln
+Antwort_3=0Sperlingsvögeln
+Antwort_4=0Stelzvögeln
+
+[60]
+FZ1=
+FZ2=Was trägt der Hahn auf dem Kopf ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kamm
+Antwort_2=0Fön
+Antwort_3=0Bürste
+Antwort_4=0Messer
+
+[61]
+FZ1=
+FZ2=Welchen Vogel kann man daran erkennen, dass er mit dem Schwanz wippt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Bachstelze
+Antwort_2=0Zaunkönig
+Antwort_3=0Star
+Antwort_4=0Buchfink
+
+[62]
+FZ1=
+FZ2=Welche Farbe hat die Amsel ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1schwarz
+Antwort_2=0grün
+Antwort_3=0weiß
+Antwort_4=0blau
+
+[63]
+FZ1=
+FZ2=Welche Farbe hat die Elster ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1schwarz - weiß
+Antwort_2=0grün - rot
+Antwort_3=0gelb - blau
+Antwort_4=0braun - grau
+
+[64]
+FZ1=
+FZ2=Wo baut die Rauchschwalbe ihr Nest ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1innen unter das Dach von Ställen und	Scheunen
+Antwort_2=0in hohlen Baumstämmen
+Antwort_3=0in Bäumen
+Antwort_4=0in kleinen Erdmulden
+
+[65]
+FZ1=
+FZ2=Wo baut die Mehlschwalbe ihr Nest ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1außen unter das Dach von Häusern
+Antwort_2=0in einer Erdmulde
+Antwort_3=0in Bäumen
+Antwort_4=0in Höhlen
+
+[66]
+FZ1=
+FZ2=Wie nennt man die Nester der Schwalben ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Mörtelnester
+Antwort_2=0Federnester
+Antwort_3=0Strohnester
+Antwort_4=0Höhlennester
+
+[67]
+FZ1=
+FZ2=Wo fängt die Schwalbe ihr Futter ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1in der Luft
+Antwort_2=0in Mauerritzen
+Antwort_3=0in Bäumen
+Antwort_4=0auf der Erde
+
+[68]
+FZ1=
+FZ2=Wie oft füttern die Meiseneltern ihre Jungen gegen Ende der Fütterungszeit ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis zu 500 - mal am Tag
+Antwort_2=0200 - mal am Tag
+Antwort_3=0100 - mal am Tag
+Antwort_4=0350 - mal am Tag
+
+[69]
+FZ1=
+FZ2=Welcher Vogel gehört  n i c h t  zu den Greifvögeln ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mehlschwalbe
+Antwort_2=0Falke
+Antwort_3=0Adler
+Antwort_4=0Habicht
+
+[70]
+FZ1=
+FZ2=Welcher Vogel gehört  n i c h t  zu den Sperlingsvögeln ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Kolibri
+Antwort_2=0Nachtigall
+Antwort_3=0Drossel
+Antwort_4=0Star
+
+[71]
+FZ1=
+FZ2=Welcher Vogel gehört  n i c h t  zu den Sperlingsvögeln ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Wellensittich
+Antwort_2=0Rotkehlchen
+Antwort_3=0Amsel
+Antwort_4=0Goldhähnchen
+
+[72]
+FZ1=
+FZ2=Welcher Vogel gehört  n i c h t  zu den Sperlingsvögeln ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Falke
+Antwort_2=0Fink
+Antwort_3=0Lerche
+Antwort_4=0Meise
+
+[73]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Albatros ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Röhrennasen
+Antwort_2=0Laufvögeln
+Antwort_3=0Sumpfvögeln
+Antwort_4=0Greifvögeln
+
+[74]
+FZ1=
+FZ2=Wie nennt man die Vogelart, deren Hakenschnäbel
+FZ3=mit verlängerten Nasenlöchern ausgestattet sind ?
+Min=250000
+Max=500000
+Antwort_1=1Röhrennasen
+Antwort_2=0Langnasen
+Antwort_3=0Hakennasen
+Antwort_4=0Nasenvögel
+
+[75]
+FZ1=
+FZ2=Wohin legen die kleineren Pinguinarten ihre Eier ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1in flache Erdmulden
+Antwort_2=0in Felsspalten
+Antwort_3=0unter die Flügel
+Antwort_4=0zwischen Füße und Bauchfalte
+
+[76]
+FZ1=
+FZ2=Wohin legen die größeren Pinguinarten ihr Ei ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1zwischen Füße und Bauchfalte
+Antwort_2=0in flache Erdmulden
+Antwort_3=0unter den rechten Flügel
+Antwort_4=0in Felsritze
+
+[77]
+FZ1=
+FZ2=Wie viele Eier legen die großen Pinguinarten ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1immer nur eins
+Antwort_2=0immer genau 5
+Antwort_3=03 - 4
+Antwort_4=06 - 8
+
+[78]
+FZ1=
+FZ2=Wo leben die Pinguine ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1auf der südlichen Erdhalbkugel
+Antwort_2=0in der Nähe des Äquators
+Antwort_3=0am Nordpol
+Antwort_4=0im Bodensee
+
+[79]
+FZ1=
+FZ2=Wie groß werden die größten Kuckucke ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1bis zu 70 cm
+Antwort_2=0bis zu 30 cm
+Antwort_3=0bis zu 50 cm
+Antwort_4=0bis zu 10 cm
+
+[80]
+FZ1=
+FZ2=Wie viele Eier legt das Kuckucksweibchen in verschiedene Nester ab ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=18 - 12
+Antwort_2=04 - 10
+Antwort_3=02 - 6
+Antwort_4=014 - 20
+
+[81]
+FZ1=
+FZ2=Wie schnell kann der Emu laufen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis zu 50 km / h
+Antwort_2=0bis zu 70 km / h
+Antwort_3=0bis zu 30 km / h
+Antwort_4=0bis zu 90 km / h
+
+[82]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Emu ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Laufvögeln
+Antwort_2=0Greifvögeln
+Antwort_3=0Stelzvögeln
+Antwort_4=0Singvögeln
+
+[83]
+FZ1=
+FZ2=Wie viele Eier legen die Straußweibchen zusammen in eine flache Sandmulde ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 30
+Antwort_2=0ca. 10
+Antwort_3=0ca. 20
+Antwort_4=0ca. 60
+
+[84]
+FZ1=
+FZ2=Wie schwer kann ein Strauß werden ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 150 kg
+Antwort_2=0ca. 50 kg
+Antwort_3=0ca. 100 kg
+Antwort_4=0ca. 200 kg
+
+[85]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Strauß ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Laufvögeln
+Antwort_2=0Sumpfvögeln
+Antwort_3=0Stelzvögeln
+Antwort_4=0Greifvögeln
+
+[86]
+FZ1=
+FZ2=Wie groß ist der Austernfischer ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 45 cm
+Antwort_2=0ca. 85 cm
+Antwort_3=0ca. 25 cm
+Antwort_4=0ca. 125 cm
+
+[87]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Austernfischer ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sumpfvögeln
+Antwort_2=0Sperlingsvögeln
+Antwort_3=0Stelzvögeln
+Antwort_4=0Laufvögeln
+
+[88]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Kiebitz ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sumpfvögeln
+Antwort_2=0Taubenvögeln
+Antwort_3=0Sperlingsvögeln
+Antwort_4=0Stelzvögeln
+
+[89]
+FZ1=
+FZ2=Wie groß sind die Eier des Kranichs ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 10 cm
+Antwort_2=0ca. 15 cm
+Antwort_3=0ca. 2 cm
+Antwort_4=0ca. 20 cm
+
+[90]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Kranich ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sumpfvögeln
+Antwort_2=0Ruderfüßern
+Antwort_3=0Stelzvögeln
+Antwort_4=0Röhrennasen
+
+[91]
+FZ1=
+FZ2=Welche Farbe hat das Gefieder der Flamingos ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1weißrosa bis rosarot
+Antwort_2=0türkisblau bis ultraviolett
+Antwort_3=0blassgelb bis hellgrau
+Antwort_4=0hellgrün bis grasgrün
+
+[92]
+FZ1=
+FZ2=Wie viele Eier legt das Flamingoweibchen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1meist nur eins
+Antwort_2=0vier bis sechs
+Antwort_3=0immer drei
+Antwort_4=0ca. zehn
+
+[93]
+FZ1=
+FZ2=Wo überwintern die europäischen Störche ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Afrika
+Antwort_2=0China
+Antwort_3=0Norwegen
+Antwort_4=0Südamerika
+
+[94]
+FZ1=
+FZ2=Wie wird der Weißstorch auch genannt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Klapperstorch
+Antwort_2=0Knatterstorch
+Antwort_3=0Schnatterstorch
+Antwort_4=0Flatterstorch
+
+[95]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Weißstorch ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Stelzvögeln
+Antwort_2=0Taubenvögeln
+Antwort_3=0Sumpfvögeln
+Antwort_4=0Laufvögel
+
+[96]
+FZ1=
+FZ2=Wie groß wird der Fischreiher ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 90 cm
+Antwort_2=0ca. 150 cm
+Antwort_3=0ca. 50 cm
+Antwort_4=0ca. 210 cm
+
+[97]
+FZ1=
+FZ2=Wie wird der Fischreiher auch genannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Graureiher
+Antwort_2=0Weißreiher
+Antwort_3=0Schwarzreiher
+Antwort_4=0Braunreiher
+
+[98]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Reiher ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Stelzvögeln
+Antwort_2=0Greifvögeln
+Antwort_3=0Sperlingsvögeln
+Antwort_4=0Sumpfvögeln
+
+[99]
+FZ1=
+FZ2=Wie nennt man die Vögel mit langen Beinen und einem langen Schnabel ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Stelzvögel
+Antwort_2=0Hochvögel
+Antwort_3=0Stielvögel
+Antwort_4=0Rennvögel
+
+[100]
+FZ1=
+FZ2=Wie werden die Stelzvögel auch genannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Schreitvögel
+Antwort_2=0Langvögel
+Antwort_3=0Stockvögel
+Antwort_4=0Beinvögel
+
+[101]
+FZ1=
+FZ2=Welche Flügelspannweite kann der Kormoran erreichen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 1,50 m
+Antwort_2=0ca. 3,50 m
+Antwort_3=0ca. 2,50 m
+Antwort_4=0ca. 4,50 m
+
+[102]
+FZ1=
+FZ2=Wie groß wird der Kormoran ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1ca. 1 m
+Antwort_2=0ca. 3 m
+Antwort_3=0ca. 2 m
+Antwort_4=0ca. 4 m
+
+[103]
+FZ1=
+FZ2=Wie lange kann der Kormoran tauchen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1bis zu 30 Sekunden
+Antwort_2=0ca. 1 Minute
+Antwort_3=0bis zu 10 Sekunden
+Antwort_4=0ungefähr eine halbe Stunde
+
+[104]
+FZ1=
+FZ2=Wie groß wird der Rosapelikan ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 150 cm
+Antwort_2=0ca. 50 cm
+Antwort_3=0ca. 100 cm
+Antwort_4=0ca. 200 cm
+
+[105]
+FZ1=
+FZ2=Woraus besteht der Unterschnabel eines Pelikans ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1aus einem riesigen Kehlsack
+Antwort_2=0aus einem harten Knochen
+Antwort_3=0aus vielen kleinen Zähnen
+Antwort_4=0aus drei weichen Luftkammern
+
+[106]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Pelikan ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Ruderfüßern
+Antwort_2=0Schwimmfüßern
+Antwort_3=0Tauchfüßern
+Antwort_4=0Paddelfüßern
+
+[107]
+FZ1=
+FZ2=Wie heißen die am häufig vertretendsten Möwen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Silbermöwen
+Antwort_2=0Heringsmöwen
+Antwort_3=0Mantelmöwen
+Antwort_4=0Lachmöwen
+
+[108]
+FZ1=
+FZ2=Welche Möwe gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Silbermöwe
+Antwort_2=0Platinmöwe
+Antwort_3=0Goldmöwe
+Antwort_4=0Bronzemöwe
+
+[109]
+FZ1=
+FZ2=Wie viele Eier legt das Möwenweibchen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=12 - 4
+Antwort_2=06 - 8
+Antwort_3=0immer nur 1
+Antwort_4=0mehr als 10
+
+[110]
+FZ1=
+FZ2=Was fressen Möwen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Möwen sind Allesfresser.
+Antwort_2=0Fisch und Insekten
+Antwort_3=0nur Fisch
+Antwort_4=0Muscheln und Fische
+
+[111]
+FZ1=
+FZ2=Weshalb können Möwen nicht tauchen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1wegen ihres leichten Gefieders
+Antwort_2=0Möwen können sogar sehr gut tauchen.
+Antwort_3=0Möwen sind wasserscheu.
+Antwort_4=0Möwen können unter Wasser nicht	sehen.
+
+[112]
+FZ1=
+FZ2=Zu welcher Vogelart gehört die Seeschwalbe ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Möwenvögeln
+Antwort_2=0Greifvögeln
+Antwort_3=0Singvögeln
+Antwort_4=0Eulen
+
+[113]
+FZ1=
+FZ2=Wie groß wird der Uhu ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1ca. 65 cm
+Antwort_2=0ca. 95 cm
+Antwort_3=0ca. 35 cm
+Antwort_4=0ca. 125 cm
+
+[114]
+FZ1=
+FZ2=Wie heißt die größte europäische Eule ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Uhu
+Antwort_2=0Ibis
+Antwort_3=0Ara
+Antwort_4=0Emu
+
+[115]
+FZ1=
+FZ2=Wie viele Eier legt das Steinkauzweibchen ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=13 - 5
+Antwort_2=05 - 7
+Antwort_3=01 - 3
+Antwort_4=07- 9
+
+[116]
+FZ1=
+FZ2=Wie groß wird der Waldkauz ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 40 cm
+Antwort_2=0ca. 60 cm
+Antwort_3=0ca. 20 cm
+Antwort_4=0ca. 80 cm
+
+[117]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Steinkauz ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Eulen
+Antwort_2=0Greifvögeln
+Antwort_3=0Papageien
+Antwort_4=0Sperlingsvögeln
+
+[118]
+FZ1=
+FZ2=Wann jagen die Schleiereulen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nur nachts
+Antwort_2=0nur tagsüber
+Antwort_3=0nur nachmittags
+Antwort_4=0nur vormittags
+
+[119]
+FZ1=
+FZ2=Wie heißen die Eulen, bei denen die sonst üblichen Federohren
+FZ3=nicht zu sehen sind ?
+Min=1000
+Max=16000
+Antwort_1=1Schleiereulen
+Antwort_2=0Reihereulen
+Antwort_3=0Geiereulen
+Antwort_4=0Meiereulen
+
+[120]
+FZ1=
+FZ2=Wie viele Eulenarten sind bekannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1134
+Antwort_2=0101
+Antwort_3=0238
+Antwort_4=086
+
+[121]
+FZ1=
+FZ2=Welche Vögel sind die Greifvögel der Nacht ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Eulen
+Antwort_2=0Sperber
+Antwort_3=0Nachtigallen
+Antwort_4=0Falken
+
+[122]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Wellensittich ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Papageien
+Antwort_2=0Taubenvögeln
+Antwort_3=0Sumpfvögeln
+Antwort_4=0Singvögeln
+
+[123]
+FZ1=
+FZ2=Wie nennt man die Vögel, die im Winter ihre nordische Heimat verlassen
+FZ3=und bei uns überwintern ?
+Min=8000
+Max=125000
+Antwort_1=1Teilzieher
+Antwort_2=0Winterzieher
+Antwort_3=0Ganzzieher
+Antwort_4=0Nordzieher
+
+[124]
+FZ1=
+FZ2=Tölpel brüten immer in Kolonien zusammen.
+FZ3=Aus wie vielen Nestern kann eine solche Kolonie bestehen ?
+Min=125000
+Max=500000
+Antwort_1=150.000
+Antwort_2=010.000
+Antwort_3=030.000
+Antwort_4=02.500
+
+[125]
+FZ1=
+FZ2=Wie viele Eier legt das Steinadlerweibchen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1immer genau 2
+Antwort_2=0immer nur 1
+Antwort_3=03 - 4
+Antwort_4=05 - 8
+
+[126]
+FZ1=
+FZ2=Welche Flügelspannweite erreicht der Steinadler ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 2 m
+Antwort_2=0ca. 2,60 m
+Antwort_3=01,40 - 1,80 m
+Antwort_4=01 - 1,40 m
+
+[127]
+FZ1=
+FZ2=Wie nennt man die Feder, die verhindert, dass der Vogel beim Fliegen absackt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Alulafeder
+Antwort_2=0Ulalefeder
+Antwort_3=0Olelifeder
+Antwort_4=0Elilafedre
+
+[128]
+FZ1=
+FZ2=Wie nennt man die äußeren Federn an den Vogelflügeln ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Handschwingen
+Antwort_2=0Armschwingen
+Antwort_3=0Fingerschwingen
+Antwort_4=0Fußschwingen
+
+[129]
+FZ1=
+FZ2=Wie viel Liter Wasser passen in den Kehlsack eines Pelikans ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 10 l
+Antwort_2=0ca. 30 l
+Antwort_3=0ca. 20 l
+Antwort_4=0ca. 40 l
+
+[130]
+FZ1=
+FZ2=Was ist ein typischer Meeresvogel ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Möwe
+Antwort_2=0Strauß
+Antwort_3=0Adler
+Antwort_4=0Kranich
+
+[131]
+FZ1=
+FZ2=Welcher Vogel singt so: Zizidä, zizidä ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kohlmeise
+Antwort_2=0Nachtigall
+Antwort_3=0Elster
+Antwort_4=0Zaunkönig
+
+[132]
+FZ1=
+FZ2=Welcher Vogel kann mit dem Kopf nach unten an Bäumen herunter laufen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kleiber
+Antwort_2=0Kuckuck
+Antwort_3=0Kiebitz
+Antwort_4=0Kakadu
+
+[133]
+FZ1=
+FZ2=Welcher Vogel steigt beim Singen in große Höhen auf ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Lerche
+Antwort_2=0Distelfink
+Antwort_3=0Amsel
+Antwort_4=0Rotkehlchen
+
+[134]
+FZ1=
+FZ2=Welche Vögel hacken Bruthöhlen in Bäume ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Spechte
+Antwort_2=0Finken
+Antwort_3=0Raben
+Antwort_4=0Lerchen
+
+[135]
+FZ1=
+FZ2=Welche Vögel bauen ihre Nester gern in Gebäuden und Scheunen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schwalben
+Antwort_2=0Schnepfen
+Antwort_3=0Schwäne
+Antwort_4=0Wachteln
+
+[136]
+FZ1=
+FZ2=Welcher Vogel baut sein Nest gern in alten Schornsteinen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Dohle
+Antwort_2=0Drossel
+Antwort_3=0Zeisig
+Antwort_4=0Specht
+
+[137]
+FZ1=
+FZ2=Welcher Vogel wurde nach der Frucht eines Baumes benannt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Eichelhäher
+Antwort_2=0Kirschfink
+Antwort_3=0Apfeleule
+Antwort_4=0Bucheckerrabe
+
+[138]
+FZ1=
+FZ2=Welcher Vogel baut sein Nest gern unter Dachpfannen oder in Häuserritzen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Haussperling
+Antwort_2=0Rotkehlchen
+Antwort_3=0Blaumeise
+Antwort_4=0Zaunkönig
+
+[139]
+FZ1=
+FZ2=Mit welchem Vogel wird der Star oft verwechselt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Amsel
+Antwort_2=0Fink
+Antwort_3=0Meise
+Antwort_4=0Dompfaff
+
+[140]
+FZ1=
+FZ2=Welche Farbe hat die Unterseite des Buchfinks ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1weinrot
+Antwort_2=0hellgelb
+Antwort_3=0blaugrün
+Antwort_4=0schwarzbraun
+
+[141]
+FZ1=
+FZ2=Welche Farbe hat die Oberseite des Kopfes der Kohlmeise ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1schwarz
+Antwort_2=0rot
+Antwort_3=0blau
+Antwort_4=0grün
+
+[142]
+FZ1=
+FZ2=Wie nennt man das Aufschlagen von Schneckengehäusen
+FZ3=durch Amseln und Drosseln ?
+Min=125000
+Max=500000
+Antwort_1=1Drosselschmiede
+Antwort_2=0Finkenschlag
+Antwort_3=0Amselamboss
+Antwort_4=0Drosselhammer
+
+[143]
+FZ1=
+FZ2=Welche Farbe hat der Schnabel der männlichen Amsel ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1gelb
+Antwort_2=0rot
+Antwort_3=0schwarz
+Antwort_4=0grün
+
+[144]
+FZ1=
+FZ2=Welcher Vogel kann am höchsten fliegen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kondor
+Antwort_2=0Bussard
+Antwort_3=0Sperber
+Antwort_4=0Gerfalke
+
+[145]
+FZ1=
+FZ2=Der Kondor kann höher als jeder andere Vogel fliegen.
+FZ3=In welchen Höhen hat man ihn schon gesehen ?
+Min=125000
+Max=500000
+Antwort_1=1in 6.000 m Höhe
+Antwort_2=0in 2.000 m Höhe
+Antwort_3=0in 4.000 m Höhe
+Antwort_4=0in 1.000 m Höhe
+
+[146]
+FZ1=
+FZ2=Wie viele Luftsäcke befinden sich im Körperinneren eines Vogels, die bewirken,
+FZ3=dass der Vogel leichter wird ?
+Min=250000
+Max=500000
+Antwort_1=15
+Antwort_2=03
+Antwort_3=04
+Antwort_4=02
+
+[147]
+FZ1=
+FZ2=Was befindet sich im Körperinneren eines Vogels, das bewirkt,
+FZ3=das der Vogel leichter wird ?
+Min=32000
+Max=125000
+Antwort_1=1Luftsäcke
+Antwort_2=0Luftventile
+Antwort_3=0Gasblasen
+Antwort_4=0Federpolster
+
+[148]
+FZ1=
+FZ2=Welcher Vogel jagt in der Nacht ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Eule
+Antwort_2=0Pirol
+Antwort_3=0Nachtigall
+Antwort_4=0Amsel
+
+[149]
+FZ1=
+FZ2=Wie nennt man die Bewegungsabläufe, die das Ziel haben,
+FZ3=einen Partner anzulocken ?
+Min=2000
+Max=32000
+Antwort_1=1Balzzeremonie
+Antwort_2=0Tanzzeremonie
+Antwort_3=0Walzzeremonie
+Antwort_4=0Turtelzeremonie
+
+[150]
+FZ1=
+FZ2=Wie nennt man die weichen Federn, die unter dem Hauptgefieder liegen und die
+FZ3=dem Vogel helfen sich warm zu halten ?
+Min=1000
+Max=16000
+Antwort_1=1Daunen
+Antwort_2=0Faunen
+Antwort_3=0Raunen
+Antwort_4=0Gaunen
+
+[151]
+FZ1=
+FZ2=Wie groß wird die Nachtigall ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 15 cm
+Antwort_2=0ca. 20 cm
+Antwort_3=0ca. 10 cm
+Antwort_4=0ca. 25 cm
+
+[152]
+FZ1=
+FZ2=Welcher Vogel raubt andere Nester aus und stiehlt auch glänzende Sachen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Elster
+Antwort_2=0Saatkrähe
+Antwort_3=0Amsel
+Antwort_4=0Kondor
+
+[153]
+FZ1=
+FZ2=Was ist das Besondere an der Spottdrossel ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Sie ahmt oft andere Vögel und	Geräusche nach.
+Antwort_2=0Sie fliegt an jedem Tag nur einmal.
+Antwort_3=0Sie wird oft von den anderen Vögeln	ausgelacht (ausgepfiffen).
+Antwort_4=0Sie füttert gerne andere Jungvögel.
+
+[154]
+FZ1=
+FZ2=Welchen Vogel gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Zaunkönig
+Antwort_2=0Mauerkönig
+Antwort_3=0Zaunkaiser
+Antwort_4=0Mauerkaiser
+
+[155]
+FZ1=
+FZ2=Wie groß wird der Star ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=120 cm
+Antwort_2=025 cm
+Antwort_3=015 cm
+Antwort_4=030 cm
+
+[156]
+FZ1=
+FZ2=Wie groß wird ein Rotkehlchen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 14 cm
+Antwort_2=0ca. 10 cm
+Antwort_3=0ca. 30 cm
+Antwort_4=0ca. 8 cm
+
+[157]
+FZ1=
+FZ2=Wie groß wird der Zaunkönig ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=18 - 10 cm
+Antwort_2=08 - 10 km
+Antwort_3=030 - 40 cm
+Antwort_4=010 - 12 mm
+
+[158]
+FZ1=
+FZ2=Wie groß kann ein Wanderalbatros werden ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=11 - 1,4 m
+Antwort_2=040 - 50 cm
+Antwort_3=03 - 3,5 m
+Antwort_4=02,2 - 2,8 m
+
+[159]
+FZ1=
+FZ2=Wie groß wird die Bienenelfe, der kleinste Vogel der Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1etwa 5 cm
+Antwort_2=0etwa 4 cm
+Antwort_3=0etwa 6 cm
+Antwort_4=0etwa 3 cm
+
+[160]
+FZ1=
+FZ2=Wie heißt der kleinste Vogel der Welt ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Bienenelfe
+Antwort_2=0Wespengnom
+Antwort_3=0Mückenkobold
+Antwort_4=0Hummelzwerg
+
+[161]
+FZ1=
+FZ2=Welchen Vogel gibt es ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Bienenfresser
+Antwort_2=0Hornissenfresser
+Antwort_3=0Hummelfresser
+Antwort_4=0Mückenfresser
+
+[162]
+FZ1=
+FZ2=Wie groß kann der bunte Schnabel des Riesentukans werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1bis zu 18 cm
+Antwort_2=012 - 16 cm
+Antwort_3=0ca. 28 cm
+Antwort_4=0etwa 10 cm
+
+[163]
+FZ1=
+FZ2=Welcher Vogel war bei den Mayas und den Azteken heilig ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Quetzal
+Antwort_2=0Harpyie
+Antwort_3=0Hoatzin
+Antwort_4=0Skua
+
+[164]
+FZ1=
+FZ2=Wie groß kann der Kuckuck werden ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1ca. 33 cm
+Antwort_2=0ca. 22 cm
+Antwort_3=0ca. 44 cm
+Antwort_4=0ca. 11 cm
+
+[165]
+FZ1=
+FZ2=Wie heißt der schwerste Papagei ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Eulenpapagei
+Antwort_2=0Amselpapagei
+Antwort_3=0Habichtpapagei
+Antwort_4=0Adlerpapagei
+
+[166]
+FZ1=
+FZ2=Was ist die Hauptnahrung der Papageien ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Früchte und Nüsse
+Antwort_2=0Fische und Würmer
+Antwort_3=0Aas
+Antwort_4=0Insekten
+
+[167]
+FZ1=
+FZ2=Wie viele verschiedene Papageienarten gibt es auf der Welt ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1mehr als 300
+Antwort_2=0220 - 270
+Antwort_3=0ca. 280
+Antwort_4=0ca. 190
+
+[168]
+FZ1=
+FZ2=Wie alt kann ein Wanderalbatros werden ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1über 70 Jahre
+Antwort_2=0ca. 45 Jahre
+Antwort_3=050 - 65 Jahre
+Antwort_4=025 - 40 Jahre
+
+[169]
+FZ1=
+FZ2=Der Wanderfalke stürzt sich aus der Luft auf seine Beute.
+FZ3=Welche Geschwindigkeit kann er dabei erreichen ?
+Min=8000
+Max=125000
+Antwort_1=1ca. 350 km / h
+Antwort_2=0ca, 220 km / h
+Antwort_3=0270 - 300 km /h
+Antwort_4=0160 - 200 km / h
+
+[170]
+FZ1=
+FZ2=Wie groß wird der Hummelkolibri ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=154 mm
+Antwort_2=078 mm
+Antwort_3=032 mm
+Antwort_4=092 mm
+
+[171]
+FZ1=
+FZ2=Welchen Vogel gibt es ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hummelkolibri
+Antwort_2=0Bienenamsel
+Antwort_3=0Fliegenlerche
+Antwort_4=0Mückenfink
+
+[172]
+FZ1=
+FZ2=Wer ist die Vorfahrin aller Straßen- und Haustauben ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Felsentaube
+Antwort_2=0Strandtaube
+Antwort_3=0Mauertaube
+Antwort_4=0Lehmtaube
+
+[173]
+FZ1=
+FZ2=Wie groß kann die Fächertaube, die größte Taube der Welt, werden ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1ca. 75 cm
+Antwort_2=0ca. 50 cm
+Antwort_3=0ca. 1 m
+Antwort_4=0ca. 25 cm
+
+[174]
+FZ1=
+FZ2=Wie heißt die größte Taube der Erde ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Fächertaube
+Antwort_2=0Felsentaube
+Antwort_3=0Regaltaube
+Antwort_4=0Königstaube
+
+[175]
+FZ1=
+FZ2=Wie heißt der Vogel, der seine Eier in fremde Nester legt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Kuckuck
+Antwort_2=0Amsel
+Antwort_3=0Tukan
+Antwort_4=0Kiebitz
+
+[176]
+FZ1=
+FZ2=Was kann der Kolibri ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Er kann rückwärts fliegen.
+Antwort_2=0Er kann bis zu 60 m tief tauchen.
+Antwort_3=0Er kann sich bis zur dreifachen	Körpergröße aufplustern.
+Antwort_4=0Er kann andere Vogelstimmen	nachmachen.
+
+[177]
+FZ1=
+FZ2=Wie viele verschiedene Spechtarten gibt es auf der Welt ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 200
+Antwort_2=0ca. 100
+Antwort_3=0ca. 300
+Antwort_4=0ca. 400
+
+[178]
+FZ1=
+FZ2=Wie viele verschiedene Taubenarten gibt es auf der Welt ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 300
+Antwort_2=0ca. 100
+Antwort_3=0ca. 200
+Antwort_4=0ca. 400
+
+[179]
+FZ1=Einige Wissenschaftler nehmen an, dass ein junger Segler nach dem Verlassen des
+FZ2=Nestes erst wieder im Alter von zwei Jahren zum Brüten am Boden landet.
+FZ3=Wie viele Kilometer hat er dann wohl zurückgelegt ?
+Min=64000
+Max=500000
+Antwort_1=1ca. 500.000 km
+Antwort_2=0ca. 125.000 km
+Antwort_3=0ca. 250.000 km
+Antwort_4=0ca. 70.000 km
+
+[180]
+FZ1=
+FZ2=Wie oft schlagen die Flügel eines Kolibris ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1mehr als 50 - mal in der Sekunde
+Antwort_2=01.000 - mal in der Sekunde
+Antwort_3=020 bis 30 - mal in der Sekunde
+Antwort_4=0ca. 18 - mal in der Sekunde
+
+[181]
+FZ1=
+FZ2=Wo lebt die Harpyie ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1im südamerikanischen Regenwald
+Antwort_2=0im Süden der Mongolei
+Antwort_3=0in Nordwestchina
+Antwort_4=0in Zentralafrika
+
+[182]
+FZ1=
+FZ2=Wie groß kann der Steinadler werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 1m
+Antwort_2=080 cm
+Antwort_3=01,30 - 1,60 m
+Antwort_4=0ca. 0,75 m
+
+[183]
+FZ1=
+FZ2=Wie heißt der größte und stärkste Adler der Erde ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Harpyie
+Antwort_2=0Koyote
+Antwort_3=0Skua
+Antwort_4=0Tinamus
+
+[184]
+FZ1=Adlerhorste können sehr groß werden,
+FZ2=da bei jeder Benutzung neue Zweige hinzukommen.
+FZ3=Wie hoch war das größte gesichtete Nest eines Weißkopf - Seeadlers ?
+Min=4000
+Max=64000
+Antwort_1=1mehr als 6 m
+Antwort_2=02,80 m
+Antwort_3=03 - 5 m
+Antwort_4=0195 cm
+
+[185]
+FZ1=
+FZ2=Wie nennt man das Nest eines Adlers ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Horst
+Antwort_2=0Ernst
+Antwort_3=0Paul
+Antwort_4=0Gustav
+
+[186]
+FZ1=
+FZ2=Welcher Vogel ist das Wappentier der USA ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Weißkopf - Seeadler
+Antwort_2=0Rotmilan
+Antwort_3=0Harpyie
+Antwort_4=0Hoatzin
+
+[187]
+FZ1=
+FZ2=Welchen Vogel nennt man auch "König der Lüfte" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Adler
+Antwort_2=0Schwalbe
+Antwort_3=0Albatros
+Antwort_4=0Geier
+
+[188]
+FZ1=
+FZ2=Was ist das Besondere des Königsgeiers ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Er ist einer der wenigen Vögel, der zur	Futtersuche seinen Geruchssinn	einsetzt.
+Antwort_2=0Er ist einer der wenigen Vögel, der	auch im Flug schlafen kann.
+Antwort_3=0Er ist einer der wenigen Vögel, der	seine Nahrung ausschließlich im Flug zu	sich nimmt.
+Antwort_4=0Er ist einer der wenigen Vögel, der	Königspinguine jagt.
+
+[189]
+FZ1=
+FZ2=Wovon ernähren sich die Geier hauptsächlich ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1von Aas
+Antwort_2=0von Insekten
+Antwort_3=0von Fisch
+Antwort_4=0von Getreide
+
+[190]
+FZ1=
+FZ2=Welche Eule geht auch am Tag auf die Jagd ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schnee - Eule
+Antwort_2=0Kanincheneule
+Antwort_3=0Waldohreule
+Antwort_4=0Schleiereule
+
+[191]
+FZ1=
+FZ2=Wie nennt man es, wenn z.B. Falken in der Luft "stehen" ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1rütteln
+Antwort_2=0warten
+Antwort_3=0schütteln
+Antwort_4=0lauern
+
+[192]
+FZ1=
+FZ2=Weshalb können Eulen fast lautlos fliegen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ihre Federränder sind weich und	bauschig.
+Antwort_2=0Sie können mit ihren Flügeln ganz	langsam schlagen.
+Antwort_3=0Sie atmen beim Fliegen nicht aus.
+Antwort_4=0Sie halten beim Fliegen die Luft an.
+
+[193]
+FZ1=
+FZ2=Wie viele verschiedene Eulenarten gibt es ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ca. 130
+Antwort_2=0ca. 70
+Antwort_3=0ca. 100
+Antwort_4=0ca. 40
+
+[194]
+FZ1=
+FZ2=Wie viele Kilometer legt der amerikanische Gold - Regenpfeifer zurück und hält
+FZ3=damit den Langstreckenweltrekord ?
+Min=500000
+Max=500000
+Antwort_1=1ca. 13.000 km
+Antwort_2=0ca. 7.500 km
+Antwort_3=0ca. 10.000 km
+Antwort_4=0ca. 5.000 km
+
+[195]
+FZ1=
+FZ2=Welcher Vogel hält den Langstreckenweltrekord ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1der amerikanische Gold - Regenpfeifer
+Antwort_2=0der Senegalkiebitz
+Antwort_3=0der Wanderalbatros
+Antwort_4=0die Winternachtsschwalbe
+
+[196]
+FZ1=
+FZ2=Welchen Vogel gibt es ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Rotschenkel
+Antwort_2=0Blauschenkel
+Antwort_3=0Grünschenkel
+Antwort_4=0Schwarzschenkel
+
+[197]
+FZ1=
+FZ2=Welchen Vogel gibt es ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Regenpfeifer
+Antwort_2=0Nebelpfeifer
+Antwort_3=0Schneepfeifer
+Antwort_4=0Hagelpfeifer
+
+[198]
+FZ1=
+FZ2=Wie werden die Strandvögel auch genannt ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Watvögel
+Antwort_2=0Muschelvögel
+Antwort_3=0Meeresvögel
+Antwort_4=0Sandvögel
+
+[199]
+FZ1=
+FZ2=Wie groß kann ein Kranich werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1110 - 120 cm
+Antwort_2=0140 - 160 cm
+Antwort_3=090 - 100 cm
+Antwort_4=0180 - 200 cm
+
+[200]
+FZ1=
+FZ2=Woher stammt die Mandarinente ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Asien
+Antwort_2=0Südamerika
+Antwort_3=0Australien
+Antwort_4=0Nordamerika
+
+[201]
+FZ1=
+FZ2=Welche Ente gibt es ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Tafelente
+Antwort_2=0Tischente
+Antwort_3=0Stuhlente
+Antwort_4=0Pultente
+
+[202]
+FZ1=
+FZ2=Welche Ente gibt es ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Löffelente
+Antwort_2=0Messerente
+Antwort_3=0Gabelente
+Antwort_4=0Quirlente
+
+[203]
+FZ1=
+FZ2=Wie viele verschiedene Entenarten gibt es weltweit ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1mehr als 120
+Antwort_2=070 - 90
+Antwort_3=0ca. 100
+Antwort_4=068
+
+[204]
+FZ1=
+FZ2=Wie nennt man es, wenn Enten auf oder knapp unterhalb der Wasseroberfläche
+FZ3=Nahrung aufnehmen ?
+Min=1000
+Max=16000
+Antwort_1=1gründeln
+Antwort_2=0fischen
+Antwort_3=0wässern
+Antwort_4=0sabbern
+
+[205]
+FZ1=
+FZ2=Wie groß kann der Flamingo werden ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 145 cm
+Antwort_2=0ca. 105 cm
+Antwort_3=0ca. 185 cm
+Antwort_4=0ca. 65 cm
+
+[206]
+FZ1=
+FZ2=Welchen Vogel gibt es ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Skua
+Antwort_2=0Tapir
+Antwort_3=0Tuareg
+Antwort_4=0Skunk
+
+[207]
+FZ1=
+FZ2=Wie heißt die Vorfahrin der meisten Hausenten ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Stockente
+Antwort_2=0Steckenente
+Antwort_3=0Stabente
+Antwort_4=0Zweigente
+
+[208]
+FZ1=
+FZ2=Wie groß wird der Weißstorch ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 115 cm
+Antwort_2=0ca. 150 cm
+Antwort_3=0ca. 1 m
+Antwort_4=070 - 95 cm
+
+[209]
+FZ1=
+FZ2=Wie heißt der rosa Vogel, der oft auf einem Bein steht ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Flamingo
+Antwort_2=0Kranich
+Antwort_3=0Pelikan
+Antwort_4=0Reiher
+
+[210]
+FZ1=
+FZ2=Welche Geschwindigkeit können Pinguine im Wasser erreichen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 10 km / h
+Antwort_2=0ca. 20 km / h
+Antwort_3=06 - 9 km / h
+Antwort_4=03 - 6 km / h
+
+[211]
+FZ1=
+FZ2=Wie tief war der tiefste Tauchgang eines Königpinguins,
+FZ3=der auch dokumentiert wurde ?
+Min=8000
+Max=125000
+Antwort_1=1250 m
+Antwort_2=0150m
+Antwort_3=0200 m
+Antwort_4=0100 m
+
+[212]
+FZ1=
+FZ2=Wie groß wird der Kaiserpinguin ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 115 cm
+Antwort_2=0ca. 70 cm
+Antwort_3=0ca. 90 cm
+Antwort_4=0ca. 200 cm
+
+[213]
+FZ1=
+FZ2=Wie heißt der größte Pinguin ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kaiserpinguin
+Antwort_2=0Riesenpinguin
+Antwort_3=0Königspinguin
+Antwort_4=0Maxipinguin
+
+[214]
+FZ1=
+FZ2=Wie groß wird der Zwergpinguin ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 40 cm
+Antwort_2=0ca. 80 cm
+Antwort_3=0ca. 60 cm
+Antwort_4=0ca. 20 cm
+
+[215]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Wiedehopf ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Rackenvögel
+Antwort_2=0Stelzvögel
+Antwort_3=0Ruderfüßer
+Antwort_4=0Röhrennasen
+
+[216]
+FZ1=
+FZ2=Aus wie vielen Eiern besteht das Gelege des Eisvogels ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=14 - 8
+Antwort_2=0immer genau 3
+Antwort_3=01 - 2
+Antwort_4=010 - 14
+
+[217]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Eisvogel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Rackenvögel
+Antwort_2=0Möwenvögel
+Antwort_3=0Hühnervögel
+Antwort_4=0Stelzvögel
+
+[218]
+FZ1=
+FZ2=Wie lang können die gemusterten Schwanzfedern des Goldfasans werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis zu 60 cm
+Antwort_2=0bis zu 40 cm
+Antwort_3=070 - 90 cm
+Antwort_4=030 - 50 cm
+
+[219]
+FZ1=
+FZ2=Wie viele Eier legt das Fasanenweibchen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis zu 15
+Antwort_2=0bis zu 9
+Antwort_3=010 - 12
+Antwort_4=04 - 8
+
+[220]
+FZ1=
+FZ2=Von welchem Erdteil stammt der Fasan ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Asien
+Antwort_2=0Afrika
+Antwort_3=0Australien
+Antwort_4=0Amerika
+
+[221]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Fasan ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hühnervögel
+Antwort_2=0Greifvögel
+Antwort_3=0Entenvögel
+Antwort_4=0Spechtvögel
+
+[222]
+FZ1=
+FZ2=Wie viele Eier legen die Pfauhennen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis zu 10
+Antwort_2=0immer genau 7
+Antwort_3=06 - 9
+Antwort_4=03 - 5
+
+[223]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Pfau ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hühnervögel
+Antwort_2=0Greifvögel
+Antwort_3=0Entenvögel
+Antwort_4=0Sperlingsvögel
+
+[224]
+FZ1=
+FZ2=Wie nennt man ein Vogeljunges, das gleich nach dem Schlüpfen laufen,
+FZ3=sehen und picken kann ?
+Min=1000
+Max=16000
+Antwort_1=1Nestflüchter
+Antwort_2=0Nesthocker
+Antwort_3=0Nestrenner
+Antwort_4=0Nestfeind
+
+[225]
+FZ1=
+FZ2=Wie groß wird der Buntspecht ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis zu 23 cm
+Antwort_2=0bis zu 18 cm
+Antwort_3=016 - 20 cm
+Antwort_4=025 - 30 cm
+
+[226]
+FZ1=
+FZ2=Wovon ernähren sich die Grünspechte hauptsächlich ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Ameisen
+Antwort_2=0Mücken
+Antwort_3=0Fliegen
+Antwort_4=0Bienen
+
+[227]
+FZ1=
+FZ2=Wie viele Zehen sind bei einem Specht nach hinten gerichtet ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=12
+Antwort_2=01
+Antwort_3=0alle
+Antwort_4=03
+
+[228]
+FZ1=
+FZ2=Welcher Vogel kann einen Brief befördern ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Taube
+Antwort_2=0Amsel
+Antwort_3=0Kolibri
+Antwort_4=0Eichelhäher
+
+[229]
+FZ1=
+FZ2=Auf welchem Kontinent gibt es  k e i n e  Spechte ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Australien
+Antwort_2=0Europa
+Antwort_3=0Afrika
+Antwort_4=0Asien
+
+[230]
+FZ1=
+FZ2=Wie heißt die wilde Stammform der Hausgans ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Graugans
+Antwort_2=0Braungans
+Antwort_3=0Schwarzgans
+Antwort_4=0Weißgans
+
+[231]
+FZ1=
+FZ2=Wann können die Jungen der Graugans schwimmen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1sofort nach dem Schlüpfen
+Antwort_2=0nach 1 Woche
+Antwort_3=0nach 1 - 2 Tagen
+Antwort_4=0nach 14 Tagen
+
+[232]
+FZ1=
+FZ2=Welchen Schwan gibt es  n i c h t  ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Riesenschwan
+Antwort_2=0Höckerschwan
+Antwort_3=0Zwergschwan
+Antwort_4=0Singschwan
+
+[233]
+FZ1=
+FZ2=Wie nennt man die Hühner- , Enten - und Gänsejungen ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Küken
+Antwort_2=0Fohlen
+Antwort_3=0Welpen
+Antwort_4=0Frischlinge
+
+[234]
+FZ1=
+FZ2=Was befindet sich vorne am Entenschnabel ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1eine harte, hornige Schuppe
+Antwort_2=0eine Drüse zum Einfetten der Federn
+Antwort_3=0die Nase
+Antwort_4=0drei scharfe Zähne
+
+[235]
+FZ1=
+FZ2=Wie heißt der Entenmann ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Erpel
+Antwort_2=0Emil
+Antwort_3=0Eber
+Antwort_4=0Enton
+
+[236]
+FZ1=
+FZ2=Wie viele Eier legt der Mauersegler ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=12 - 3
+Antwort_2=03 - 4
+Antwort_3=01 - 2
+Antwort_4=04 - 5
+
+[237]
+FZ1=
+FZ2=Wie hoch kann der Mauersegler steigen ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1bis zu 2.000 m
+Antwort_2=01 km
+Antwort_3=01.400 - 1.800 m
+Antwort_4=0600 - 900 m
+
+[238]
+FZ1=
+FZ2=Welchen Segler gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mauersegler
+Antwort_2=0Sandsegler
+Antwort_3=0Sonnensegler
+Antwort_4=0Lehmsegler
+
+[239]
+FZ1=Seglervögel verbringen den ganzen Tag im Flug und nehmen auch ihre Nahrung im
+FZ2=Flug auf. Wie weit können die Seglervögel am Tag fliegen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1mehrere hundert Kilometer
+Antwort_2=040 - 80 km
+Antwort_3=080 - 100 km
+Antwort_4=010 - 40 km
+
+[240]
+FZ1=
+FZ2=Welchen Sperling gibt es  n i c h t  ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mondsperling
+Antwort_2=0Weidensperling
+Antwort_3=0Haussperling
+Antwort_4=0Feldsperling
+
+[241]
+FZ1=
+FZ2=Wie oft brüten die Sperlinge ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis zu viermal im Jahr
+Antwort_2=0zwei - bis dreimal im Jahr
+Antwort_3=0nur einmal im Jahr
+Antwort_4=0sechsmal im Jahr
+
+[242]
+FZ1=
+FZ2=Zu welcher Familie gehört der Sperling ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Familie der Webervögel
+Antwort_2=0Familie der Pirole
+Antwort_3=0Familie der Laubenvögel
+Antwort_4=0Familie der Stare
+
+[243]
+FZ1=
+FZ2=Welche Flügelspannweite hat der Wanderalbatros ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1bis zu 3,40 m
+Antwort_2=0250 - 280 cm
+Antwort_3=0bis zu 2,90 m
+Antwort_4=0190 - 240 cm
+
+[244]
+FZ1=
+FZ2=Welcher Vogel hat die größte Flügelspannweite ?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1Wanderalbatros
+Antwort_2=0Strauß
+Antwort_3=0Weißkopfadler
+Antwort_4=0Turmfalke
+
+[245]
+FZ1=
+FZ2=Wie groß wird die Silbermöwe ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=153 - 65 cm
+Antwort_2=042 - 51 cm
+Antwort_3=068 - 81 cm
+Antwort_4=033 - 41 cm
+
+[246]
+FZ1=
+FZ2=Was ist ein Vogel ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Kormoran
+Antwort_2=0Muräne
+Antwort_3=0Korsika
+Antwort_4=0Kantate
+
+[247]
+FZ1=
+FZ2=Die Großtrappe ist einer der schwersten flugfähigen Vögel überhaupt.
+FZ3=Wie schwer ist das Männchen ?
+Min=16000
+Max=250000
+Antwort_1=1bis zu 18 kg
+Antwort_2=0bis zu 10 kg
+Antwort_3=0ca. 15 kg
+Antwort_4=0ca. 7 kg
+
+[248]
+FZ1=
+FZ2=Aus welchem Land kommt der Vorfahre des Haushuhns ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Indien
+Antwort_2=0Chile
+Antwort_3=0China
+Antwort_4=0Kamerun
+
+[249]
+FZ1=
+FZ2=Wer ist der Vorfahre des Haushuhns ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Bankivahuhn
+Antwort_2=0Huminahuhn
+Antwort_3=0Mongulahuhn
+Antwort_4=0Zeberushuhn
+
+[250]
+FZ1=
+FZ2=Woher stammt der Fasan ?
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Asien
+Antwort_2=0Australien
+Antwort_3=0Afrika
+Antwort_4=0Amerika
+
+[251]
+FZ1=
+FZ2=Wie groß wird der Nandu ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1ca. 1,40 m
+Antwort_2=0ca. 2 m
+Antwort_3=0ca. 1,80 m
+Antwort_4=0ca 1,10 m
+
+[252]
+FZ1=
+FZ2=Wie heißt der größte Vogel Südamerikas ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Nandu
+Antwort_2=0Kasuar
+Antwort_3=0Emu
+Antwort_4=0Strauß
+
+[253]
+FZ1=
+FZ2=Wie heißt der zweitgrößte Vogel der Erde ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Emu
+Antwort_2=0Nandu
+Antwort_3=0Strauß
+Antwort_4=0Kasuar
+
+[254]
+FZ1=
+FZ2=Wo lebt der Emu ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Australien
+Antwort_2=0Afrika
+Antwort_3=0Südamerika
+Antwort_4=0Asien
+
+[255]
+FZ1=
+FZ2=Wie groß kann der Emu werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 2 m
+Antwort_2=0ca, 1,70 m
+Antwort_3=0ca. 3 m
+Antwort_4=0ca. 1,20 m
+
+[256]
+FZ1=
+FZ2=Wie schwer kann ein Straußenei werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 1,5 kg
+Antwort_2=01.000 - 1.200 g
+Antwort_3=0ca. 2 kg
+Antwort_4=00,6 - 1,0 kg
+
+[257]
+FZ1=
+FZ2=Wie groß kann der Strauß werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis zu 2,70 m
+Antwort_2=0200 cm
+Antwort_3=01,80 - 2,30 m
+Antwort_4=01,20 - 1,90 m
+
+[258]
+FZ1=
+FZ2=Wie viele Zehen hat der Strauß ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=13
+Antwort_2=04
+Antwort_3=02
+Antwort_4=05
+
+[259]
+FZ1=
+FZ2=Wie lange kümmern sich die Emus um die Jungvögel ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1bis zu 18 Monaten
+Antwort_2=0zwischen 7 und 10 Monate
+Antwort_3=0ca. 1 Jahr
+Antwort_4=012 Wochen
+
+[260]
+FZ1=
+FZ2=Wie schnell kann ein Strauß laufen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 70 km / h
+Antwort_2=0ca. 55 km / h
+Antwort_3=040 - 60 km / h
+Antwort_4=030 - 45 km / h
+
+[261]
+FZ1=
+FZ2=Welcher Vogel kann am schnellsten laufen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Strauß
+Antwort_2=0Kiwi
+Antwort_3=0Rennkuckuck
+Antwort_4=0Star
+
+[262]
+FZ1=
+FZ2=Wie werden die Laufvögel auch genannt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Ratitenvögel
+Antwort_2=0Zamimenvögel
+Antwort_3=0Bapipenvögel
+Antwort_4=0Kalilenvögel
+
+[263]
+FZ1=
+FZ2=Wie lange brütet der Albatros ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1bis zu 84 Tage
+Antwort_2=05 Wochen
+Antwort_3=050 - 60 Tage
+Antwort_4=01 Monat
+
+[264]
+FZ1=
+FZ2=Wie dick kann die Schale eines Straußeneies werden ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1über 2 cm
+Antwort_2=012 mm
+Antwort_3=01 - 1,5 cm
+Antwort_4=07 - 10 mm
+
+[265]
+FZ1=
+FZ2=Woraus bestehen die Vogelfedern ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Keratin
+Antwort_2=0Buretin
+Antwort_3=0Sulfamin
+Antwort_4=0Fedratin
+
+[266]
+FZ1=
+FZ2=Nach wie vielen Tagen schlüpfen die Jungvögel des Kolkraben ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=118
+Antwort_2=028
+Antwort_3=08
+Antwort_4=080
+
+[267]
+FZ1=
+FZ2=Welche Flügelspannweite kann der Kolkrabe erreichen ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1bis 1,40 m
+Antwort_2=070 - 90 cm
+Antwort_3=0ca. 1 m
+Antwort_4=0115 cm
+
+[268]
+FZ1=
+FZ2=Wie lang kann der Kolkrabe werden ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 65 cm
+Antwort_2=0ca. 85 cm
+Antwort_3=0ca. 40 cm
+Antwort_4=0ca. 1,20 m
+
+[269]
+FZ1=
+FZ2=Welche Krähe gibt es ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Nebelkrähe
+Antwort_2=0Sonnenkrähe
+Antwort_3=0Regenkrähe
+Antwort_4=0Schneekrähe
+
+[270]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Rabe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sperlingsvögel
+Antwort_2=0Entenvögel
+Antwort_3=0Spechtvögel
+Antwort_4=0Greifvögel
+
+[271]
+FZ1=
+FZ2=Welche Schwalbe gibt es ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mehlschwalbe
+Antwort_2=0Zimtschwalbe
+Antwort_3=0Zuckerschwalbe
+Antwort_4=0Salzschwalbe
+
+[272]
+FZ1=
+FZ2=Aus welchem Material baut die Rauchschwalbe ihr Nest ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Speichel und Lehmklumpen
+Antwort_2=0Tautropfen und Kies
+Antwort_3=0Kot und Sand
+Antwort_4=0Speichel und Moos
+
+[273]
+FZ1=
+FZ2=Wie viele Eier bebrütet die Schwalbe pro Gelege ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=14 - 6
+Antwort_2=08 - 10
+Antwort_3=01 - 2
+Antwort_4=0immer genau 3
+
+[274]
+FZ1=
+FZ2=Wie oft brüten die Schwalben im Jahr ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=12 - mal
+Antwort_2=03 - mal
+Antwort_3=01 - mal
+Antwort_4=04 - mal
+
+[275]
+FZ1=
+FZ2=Wohin ziehen unsere Schwalben im Herbst ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nach Afrika
+Antwort_2=0nach Asien
+Antwort_3=0nach Amerika
+Antwort_4=0nach Australien
+
+[276]
+FZ1=
+FZ2=Zu welcher Vogelart gehört die Schwalbe ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sperlingsvögel
+Antwort_2=0Greifvögel
+Antwort_3=0Segelartige
+Antwort_4=0Spechtvögel
+
+[277]
+FZ1=
+FZ2=Zu welcher Vogelart gehört die Drossel ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sperlingsvögel
+Antwort_2=0Greifvögel
+Antwort_3=0Hühnervögel
+Antwort_4=0Spechtvögel
+
+[278]
+FZ1=
+FZ2=Wie wird der Dompfaff auch genannt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Gimpel
+Antwort_2=0Kiebitz
+Antwort_3=0Stieglitz
+Antwort_4=0Sperling
+
+[279]
+FZ1=
+FZ2=Wie oft brüten einige Finkenarten in guten Sommern ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=13 - mal
+Antwort_2=0immer nur einmal
+Antwort_3=02 - mal
+Antwort_4=04 - 5 mal
+
+[280]
+FZ1=
+FZ2=Wie wird der Distelfink auch genannt ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Stieglitz
+Antwort_2=0Sperling
+Antwort_3=0Gimpel
+Antwort_4=0Tölpel
+
+[281]
+FZ1=
+FZ2=Auf welchem Kontinent gibt es  k e i n e  Finken ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Australien
+Antwort_2=0Afrika
+Antwort_3=0Europa
+Antwort_4=0Amerika
+
+[282]
+FZ1=
+FZ2=Wie viele Eier legt die Lerche ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 5
+Antwort_2=02 - 3
+Antwort_3=0immer genau 4
+Antwort_4=0mehr als 7
+
+[283]
+FZ1=
+FZ2=Wie oft im Jahr baut die Lerche ein Nest ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=12 - mal
+Antwort_2=03 - mal
+Antwort_3=01 - mal
+Antwort_4=04 - mal
+
+[284]
+FZ1=
+FZ2=Zu welcher Vogelart gehört die Lerche ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Sperlingsvögel
+Antwort_2=0Greifvögel
+Antwort_3=0Hühnervögel
+Antwort_4=0Entenvögel
+
+[285]
+FZ1=
+FZ2=Wie oft brüten die Meisen im Jahr ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=12 - mal
+Antwort_2=03 - mal
+Antwort_3=01 - mal
+Antwort_4=04 - mal
+
+[286]
+FZ1=
+FZ2=Wie groß werden die Meisen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=111 - 14 cm
+Antwort_2=07 - 10 cm
+Antwort_3=03 - 6 cm
+Antwort_4=015 - 22 cm
+
+[287]
+FZ1=
+FZ2=Welche Meise gibt es  n i c h t  ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Schalmeise
+Antwort_2=0Blaumeise
+Antwort_3=0Haubenmeise
+Antwort_4=0Kohlmeise
+
+[288]
+FZ1=
+FZ2=Zu welcher Vogelart gehört die Meise ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Singvögeln
+Antwort_2=0Spechtvögeln
+Antwort_3=0Greifvögeln
+Antwort_4=0Rackenvögeln
+
+[289]
+FZ1=
+FZ2=Wo sind die Sperlingsvögel verbreitet ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1auf der ganzen Welt
+Antwort_2=0in den Polargebieten
+Antwort_3=0im Regenwald
+Antwort_4=0in der Savanne
+
+[290]
+FZ1=
+FZ2=Zu welcher Ordnung gehören die meisten Vögel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sperlingsvögel
+Antwort_2=0Hühnervögel
+Antwort_3=0Entenvögel
+Antwort_4=0Greifvögel
+
+[291]
+FZ1=
+FZ2=Wie nennt man die Vögel, die auch im Winter bei uns bleiben ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Standvögel
+Antwort_2=0Zugvögel
+Antwort_3=0Wintervögel
+Antwort_4=0Kältevögel
+
+[292]
+FZ1=
+FZ2=Wie nennt man die Vögel, die den Winter im Süden verbringen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Zugvögel
+Antwort_2=0Reisevögel
+Antwort_3=0Autovögel
+Antwort_4=0Eisenbahnvögel
+
+[293]
+FZ1=
+FZ2=Wie nennt man die regelmäßige Erneuerung der Federn ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Mauser
+Antwort_2=0Fauser
+Antwort_3=0Lauser
+Antwort_4=0Tauser
+
+[294]
+FZ1=
+FZ2=Wie heißt der älteste bekannte Vogel ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Archaeopteryx
+Antwort_2=0Eolyceratops
+Antwort_3=0Anatasaurus
+Antwort_4=0Memmichityx
+
+[295]
+FZ1=
+FZ2=Wie viele Gliedmaßen haben die Vögel ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=14
+Antwort_2=06
+Antwort_3=02
+Antwort_4=08
+
+[296]
+FZ1=
+FZ2=Wie viele verschiedene Vogelarten gibt es ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1ca. 10.000
+Antwort_2=0ca. 100.000
+Antwort_3=0ca. 1.000
+Antwort_4=0ca. 1.000.000
+
+[297]
+FZ1=
+FZ2=Wie wird der Spatz auch genannt ?
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Sperling
+Antwort_2=0Drossel
+Antwort_3=0Gimpel
+Antwort_4=0Sperber
+
+[298]
+FZ1=
+FZ2=Wie oft im Jahr baut die Lerche ein Nest ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=12 - mal
+Antwort_2=03 - mal
+Antwort_3=01 - mal
+Antwort_4=04 - mal
+
+[299]
+FZ1=
+FZ2=Wie nennt man den Platz, wo der Vogel seine Eier legt ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Nest
+Antwort_2=0Wohnung
+Antwort_3=0Bau
+Antwort_4=0Asyl
+
+[300]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Falke ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Greifvögeln
+Antwort_2=0Stelzvögeln
+Antwort_3=0Spechtvögeln
+Antwort_4=0Sperlingsvögeln
+
+[301]
+FZ1=
+FZ2=Zu welcher Vogelart gehört der Habicht ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Greifvögeln
+Antwort_2=0Rackenvögeln
+Antwort_3=0Spechtvögeln
+Antwort_4=0Stelzvögeln
+
+[302]
+FZ1=
+FZ2=Was ist das Besondere beim Habicht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Im Gegensatz zu den meisten anderen	Greifvögeln jagt er auch in der	Mittagszeit.
+Antwort_2=0Im Gegensatz zu den meisten anderen	Greifvögeln jagt der Habicht nur auf	dem Boden.
+Antwort_3=0Der Habicht schleppt seine Beute zu	einem Gewässer, wo er sie ertränkt.
+Antwort_4=0Der Habicht frisst nur Körner und	Insekten.
+
+[303]
+FZ1=
+FZ2=Wo lebt der Kondor ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Südamerika
+Antwort_2=0Australien
+Antwort_3=0Asien
+Antwort_4=0Südafrika
+
+[304]
+FZ1=
+FZ2=Der Kondor verwendet besonders viel Zeit für die Aufzucht der Jungen.
+FZ3=Wie oft legt das Kondorweibchen Eier ?
+Min=16000
+Max=250000
+Antwort_1=1alle zwei Jahre immer nur ein Ei
+Antwort_2=0jedes Jahr zwei Eier
+Antwort_3=0alle fünf Jahre 2 - 3 Eier
+Antwort_4=0einmal in zehn Jahren 1 - 2 Eier
+
+[305]
+FZ1=
+FZ2=Wie groß wird der Mäusebussard ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 60 cm
+Antwort_2=0ca. 100 cm
+Antwort_3=0ca. 80 cm
+Antwort_4=0ca. 40 cm
+
+[306]
+FZ1=
+FZ2=Wie nennt man das Unverdauliche wie z.B. Federn oder Haare,
+FZ3=das von den  Greifvögel wieder ausgewürgt wird ?
+Min=4000
+Max=64000
+Antwort_1=1Gewölle
+Antwort_2=0Gewürge
+Antwort_3=0Gefieder
+Antwort_4=0Gelage
+
+[307]
+FZ1=
+FZ2=Wie groß wird er Spechtpapagei, der kleinste Papagei der Welt ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=110 cm
+Antwort_2=020 cm
+Antwort_3=015 cm
+Antwort_4=05 cm
+
+[308]
+FZ1=
+FZ2=Wie heißt der kleinste Papagei ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Spechtpapagei
+Antwort_2=0Meisenpapagei
+Antwort_3=0Amselpapagei
+Antwort_4=0Kolibripapagei
+
+[309]
+FZ1=
+FZ2=Wie heißt der größte Ara ?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Hyazinthara
+Antwort_2=0Kaktusara
+Antwort_3=0Bromelienara
+Antwort_4=0Veilchenara
+
+[310]
+FZ1=
+FZ2=Wie groß wird der größte Ara ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ca. 1 m
+Antwort_2=050 - 70 cm
+Antwort_3=070 - 90 cm
+Antwort_4=0ca. 1,50 m
+
+[311]
+FZ1=
+FZ2=Wie nennt man die größten Papageien ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Aras
+Antwort_2=0Eres
+Antwort_3=0Oros
+Antwort_4=0Iris
+
+[312]
+FZ1=
+FZ2=Auf welchem Kontinent gibt es  k e i n e  Geier ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Australien
+Antwort_2=0Afrika
+Antwort_3=0Asien
+Antwort_4=0Amerika
+
+[313]
+FZ1=
+FZ2=Zu welcher Art gehören die Geier ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Greifvögeln
+Antwort_2=0Spechtvögeln
+Antwort_3=0Sperlingsvögeln
+Antwort_4=0Rackenvögeln
+
+[314]
+FZ1=
+FZ2=Wie heißen die größten Greifvögel ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Geier
+Antwort_2=0Habicht
+Antwort_3=0Bussard
+Antwort_4=0Falken
+
+[315]
+FZ1=
+FZ2=Was ist das Besondere bei den Geierfalken ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Im Gegensatz zu den anderen Falken	bauen sie ein Nest.
+Antwort_2=0Im Gegensatz zu den anderen Falken	fressen sie nur Insekten und Getreide.
+Antwort_3=0Im Gegensatz zu den anderen Falken	jagen sie nur nachts.
+Antwort_4=0Im Gegensatz zu den anderen Falken	jagen sie nur in großen Schwärmen.
+
+[316]
+FZ1=
+FZ2=Wie groß wird der Indische Zwergfalke, der kleinste Falke der Welt ?
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1ca. 19 cm
+Antwort_2=0ca. 11 cm
+Antwort_3=0ca. 15 cm
+Antwort_4=0ca. 25 cm
+
+[317]
+FZ1=
+FZ2=Wie heißt der kleinste Falke ?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Indische Zwergfalke
+Antwort_2=0Australischer Zwergfalke
+Antwort_3=0Amerikanische Minifalke
+Antwort_4=0Japanisches Fälkchen
+
+[318]
+FZ1=
+FZ2=Wie groß wird der Mäusebussard ?
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1ca. 60 cm
+Antwort_2=0ca. 100 cm
+Antwort_3=0ca. 80 cm
+Antwort_4=0ca. 40 cm
+
+

@@ -1,0 +1,1105 @@
+[Thema]
+Thema=Radfahrausbildung
+Fragen=100
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Welche Farbe hat das Verkehrszeichen "Vorfahrtstraße" außen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1weiß	
+Antwort_2=0gelb	
+Antwort_3=0rot	
+Antwort_4=0blau	
+
+[2]
+FZ1=
+FZ2=Welche Farbe hat das Verkehrszeichen "Vorfahrtstraße" innen ?
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1gelb	
+Antwort_2=0weiß	
+Antwort_3=0rot	
+Antwort_4=0grün	
+
+[3]
+FZ1=
+FZ2=Welche Form hat das Verkehrszeichen "Vorfahrtstraße" ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1quadratisch	
+Antwort_2=0achteckig	
+Antwort_3=0dreieckig	
+Antwort_4=0rund	
+
+[4]
+FZ1=
+FZ2=Darfst du zu dritt nebeneinander fahren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nein	
+Antwort_2=0nur auf einer breiten Straße	
+Antwort_3=0ja	
+Antwort_4=0nur, wenn kein Gegenverkehr kommt	
+
+[5]
+FZ1=
+FZ2=Wie viele Räder hat ein Fahrrad ?
+FZ3=
+Min=0
+Max=200
+Antwort_1=12	
+Antwort_2=04	
+Antwort_3=03	
+Antwort_4=05	
+
+[6]
+FZ1=Du fährst mit deinem Fahrrad auf einer Straße, die zwei Fahrspuren in deiner
+FZ2=Richtung hat. Wo fährst du mit deinem Fahrrad ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1ganz rechts außen	
+Antwort_2=0auf der linken Spur rechts	
+Antwort_3=0nahe am Mittelstreifen	
+Antwort_4=0auf der rechten Spur links	
+
+[7]
+FZ1=Du möchtest nach links abbiegen und wartest den Gegenverkehr ab.
+FZ2=Wo stehst du mit deinem Fahrrad ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1rechts vom Mittelstreifen	
+Antwort_2=0quer zur Fahrbahn	
+Antwort_3=0links vom Mittelstreifen	
+Antwort_4=0am linken Bordstein	
+
+[8]
+FZ1=Du kommst an eine Straße mit einem blauen Schild und einem weißen Auto darauf.
+FZ2=Darfst du als Radfahrer die Straße benutzen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1nein, nie	
+Antwort_2=0nur, wenn ein weißes Auto kommt	
+Antwort_3=0ja, natürlich	
+Antwort_4=0nur bei Sonnenschein	
+
+[9]
+FZ1=Wie solltest du als Fahrradfahrer immer fahren ?
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1vorausschauend	
+Antwort_2=0freihändig	
+Antwort_3=0schnell	
+Antwort_4=0fröhlich	
+
+[10]
+FZ1=Musst du auf dem Radweg bei Dunkelheit und Nebel dein Licht einschalten ?
+FZ2=
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1ja	
+Antwort_2=0nur bei Gegenverkehr	
+Antwort_3=0nein	
+Antwort_4=0nur beim Überholen	
+
+[11]
+FZ1=Was schützt dich als Radfahrer in der Dunkelheit ?
+FZ2=
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1helle Kleidung	
+Antwort_2=0dicke Stiefel	
+Antwort_3=0ein dunkler Helm	
+Antwort_4=0eine Taschenlampe	
+
+[12]
+FZ1=Welches Fahrzeug darfst du mit deinem Fahrrad überholen ?
+FZ2=
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Ein Fahrzeug, das sehr langsam fährt.	
+Antwort_2=0Ein Fahrzeug, das nur 1 m breit ist.	
+Antwort_3=0Ein Fahrzeug, das rot ist.	
+Antwort_4=0das Müllauto	
+
+[13]
+FZ1=Dürfen Kinder unter 10 Jahren auf dem Gehweg mit dem Fahrrad fahren ?
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1ja	
+Antwort_2=0nur in Begleitung eines Erwachsenen	
+Antwort_3=0nein	
+Antwort_4=0nur zu zweit	
+
+[14]
+FZ1=Was bedeuten dreieckige Verkehrszeichen mit einem roten Rand
+FZ2=und der Spitze nach oben ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Gefahr	
+Antwort_2=0Vorfahrt achten	
+Antwort_3=0Verbot der Durchfahrt	
+Antwort_4=0Einbahnstraße	
+
+[15]
+FZ1=
+FZ2=Was musst du beim Überholen als   z w e i t e s   machen ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Handzeichen nach links geben	
+Antwort_2=0umsehen	
+Antwort_3=0Handzeichen nach rechts geben	
+Antwort_4=0klingeln	
+
+[16]
+FZ1=
+FZ2=Du möchtest nach links abbiegen. Was musst du zuerst machen ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1nach links hinten umsehen	
+Antwort_2=0Handzeichen nach links geben	
+Antwort_3=0nach rechts hinten umsehen	
+Antwort_4=0absteigen und schieben	
+
+[17]
+FZ1=Du kommst als Radfahrer an ein weißes rundes Verkehrszeichen, in das ein
+FZ2=schwarzes Auto gezeichnet ist. Darfst du weiterfahren ?
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1ja	
+Antwort_2=0nur, wenn ein schwarzes Auto kommt	
+Antwort_3=0nein	
+Antwort_4=0nur am Montag	
+
+[18]
+FZ1=Was bedeutet das weiße runde Zeichen mit einem roten Rand und
+FZ2=einem aufgezeichneten schwarzen Fahrrad ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1für Radfahrer verboten	
+Antwort_2=0nur für schwarze Fahrräder	
+Antwort_3=0Radfahrweg	
+Antwort_4=0Fahrradwerkstatt	
+
+[19]
+FZ1=?
+FZ2=Was bedeutet das blaue runde Zeichen mit einem weißen aufgezeichneten Fahrrad 
+FZ3=?
+Min=0
+Max=1000
+Antwort_1=1Radfahrweg	
+Antwort_2=0nur für weiße Fahrräder	
+Antwort_3=0für Radfahrer verboten	
+Antwort_4=0Parkplatz für Fahrräder	
+
+[20]
+FZ1=An einem Bahnübergang blinkt ein rotes Licht, der Zug ist aber noch nicht
+FZ2=zu sehen. Was musst du machen ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1anhalten	
+Antwort_2=0vorsichtig weiterfahren	
+Antwort_3=0schnell durchfahren	
+Antwort_4=0umkehren	
+
+[21]
+FZ1=Darfst du an Fußgängerüberwegen dein Fahrrad schieben ?
+FZ2=
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ja	
+Antwort_2=0nur, wenn es beladen ist	
+Antwort_3=0nein	
+Antwort_4=0nur, wenn es regnet	
+
+[22]
+FZ1=Darfst du an Autos, die vor einer roten Ampel halten, rechts vorbeifahren,
+FZ2=wenn noch genügend Platz ist ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ja	
+Antwort_2=0nur an PKW´ s	
+Antwort_3=0nein	
+Antwort_4=0nur an LKW´s	
+
+[23]
+FZ1=Was solltest du vor dem Anfahren immer zuerst machen ?
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1umsehen	
+Antwort_2=0klingeln	
+Antwort_3=0Handzeichen geben	
+Antwort_4=0Reifendruck prüfen	
+
+[24]
+FZ1=Wo darfst du auf dem Radweg einen anderen Radfahrer überholen ?
+FZ2=
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1immer nur links	
+Antwort_2=0links oder rechts	
+Antwort_3=0immer nur rechts	
+Antwort_4=0auf einem Radweg darf man nicht	überholen	
+
+[25]
+FZ1=In welcher Richtung fahren die Fahrzeuge in einem Kreisverkehr ?
+FZ2=
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1gegen den Uhrzeigersinn	
+Antwort_2=0in beide Richtungen	
+Antwort_3=0im Uhrzeigersinn	
+Antwort_4=0das wechselt jeden Monat	
+
+[26]
+FZ1=Wann kannst du dir recht sicher sein, dass dich ein anderer Verkehrsteilnehmer
+FZ2=nicht übersieht ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1wenn er dich ansieht	
+Antwort_2=0wenn du deutliche Handzeichen gibst	
+Antwort_3=0wenn du laut klingelst	
+Antwort_4=0wenn du laut rufst	
+
+[27]
+FZ1=Welches Schild brauchst du als Radfahrer nicht zu beachten ?
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Reklameschild	
+Antwort_2=0Gebotsschild	
+Antwort_3=0Verbotsschild	
+Antwort_4=0Autobahnschild	
+
+[28]
+FZ1=Welche Bedeutung hat ein rundes rotes Schild mit einem weißen Querbalken ?
+FZ2=
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Verbot der Durchfahrt	
+Antwort_2=0Achtung, Baustellenausfahrt !	
+Antwort_3=0Vorsicht, Schranke !	
+Antwort_4=0Halteverbot nur für rot - weiße Autos	
+
+[29]
+FZ1=Welche Form hat das Verkehrszeichen "Durchfahrt verboten" ?
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1rund	
+Antwort_2=0viereckig	
+Antwort_3=0dreieckig	
+Antwort_4=0achteckig	
+
+[30]
+FZ1=Wie viele Ecken hat ein Verkehrszeichen, das auf eine Gefahr hinweist ?
+FZ2=
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=13	
+Antwort_2=06	
+Antwort_3=04	
+Antwort_4=08	
+
+[31]
+FZ1=
+FZ2=Wer hat an Fußgängerüberwegen den Vorrang ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1der Fußgänger	
+Antwort_2=0der Radfahrer	
+Antwort_3=0der Autofahrer	
+Antwort_4=0der Motorrollerfahrer	
+
+[32]
+FZ1=Wie groß muss der Abstand zum Vordermann sein, wenn du mit deinem Freund
+FZ2=hintereinander Fahrrad fährst ?
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1so groß, dass ich gefahrlos anhalten	kannst	
+Antwort_2=0100 m	
+Antwort_3=02 m - 3 m	
+Antwort_4=0genau dreimal so groß, wie lang mein	Fahrrad ist	
+
+[33]
+FZ1=Womit musst du rechnen, wenn du als Radfahrer
+FZ2=an einem parkenden Auto vorbeifährst ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Der Fahrer öffnet plötzlich die Tür.	
+Antwort_2=0Das Auto fährt rückwärts los.	
+Antwort_3=0Der Fahrer hupt laut.	
+Antwort_4=0Der Fahrer schaltet die	Warnblinkanlage ein.	
+
+[34]
+FZ1=Was musst du beachten, wenn du als Radfahrer an einer Ampel
+FZ2=hinter einem Lastwagen stehst ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Der Fahrer sieht mich nicht.	
+Antwort_2=0Der Lastwagen fährt zuerst ein Stück	zurück.	
+Antwort_3=0Der Lastwagen saust schnell los.	
+Antwort_4=0Der Auspuff lässt eine große	Rauchwolke los.	
+
+[35]
+FZ1=Wie verhältst du dich als Radfahrer in einer Fußgängerzone,
+FZ2=in der das Radfahren erlaubt ist ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ich fahre langsam und passe auf.	
+Antwort_2=0Ich fahre schnell Slalom.	
+Antwort_3=0Ich klingele die ganze Zeit.	
+Antwort_4=0Ich steige ab und schiebe mein Fahrrad.	
+
+[36]
+FZ1=Womit musst du als Radfahrer rechnen, wenn alte Leute über die Straße gehen ?
+FZ2=
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sie passen nicht immer auf.	
+Antwort_2=0Sie schimpfen dich aus.	
+Antwort_3=0Sie fangen an zu rennen.	
+Antwort_4=0Sie möchten mitfahren.	
+
+[37]
+FZ1=Welches Zeichen musst du als Radfahrer geben, wenn du abbiegen möchtest ?
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Handzeichen	
+Antwort_2=0Morsezeichen	
+Antwort_3=0Klingelzeichen	
+Antwort_4=0Rauchzeichen	
+
+[38]
+FZ1=Vor dir blinkt ein Bus und möchte von einer Haltestelle losfahren.
+FZ2=Was machst du ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1hinter dem Bus bleiben	
+Antwort_2=0laut klingeln und überholen	
+Antwort_3=0schnell vorbeifahren	
+Antwort_4=0Handzeichen geben und vorbeifahren	
+
+[39]
+FZ1=Womit musst du rechnen, wenn du mit deinem Fahrrad an
+FZ2=einem Kindergarten vorbeifährst ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Kinder rennen auf die Straße.	
+Antwort_2=0Kinder warten an der Bordsteinkante.	
+Antwort_3=0Kinder winken dir zu.	
+Antwort_4=0Kinder singen laute Lieder.	
+
+[40]
+FZ1=Auf welche Fußgänger muss ein Radfahrer besonders achten ?
+FZ2=
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1auf alte Leute und Kinder	
+Antwort_2=0auf Jogger	
+Antwort_3=0auf Polizisten	
+Antwort_4=0auf junge Leute und Männer mit Hut	
+
+[41]
+FZ1=Wie verhältst du dich als Linksabbieger bei Gegenverkehr ?
+FZ2=
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1erst den Gegenverkehr vorbeilassen	
+Antwort_2=0laut klingeln und zügig weiterfahren	
+Antwort_3=0schnell vorher abbiegen	
+Antwort_4=0absteigen und das Fahrrad über die	Fahrbahn schieben	
+
+[42]
+FZ1=Was bedeutet ein Dreieck mit rotem Rand und weißer Innenfläche, dessen Spitze
+FZ2=nach oben zeigt und in das ein schwarzes Kreuz gemalt ist ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1gefährliche Kreuzung	
+Antwort_2=0An dieser Kreuzung hast du Vorfahrt.	
+Antwort_3=0Kreuzung gesperrt	
+Antwort_4=0Abbiegen verboten !	
+
+[43]
+FZ1=Was musst du tun, wenn du an eine Ampelkreuzung kommst, an der die Ampeln
+FZ2=ausgefallen sind oder blinken ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1die Vorfahrtsregeln beachten	
+Antwort_2=0sofort umkehren	
+Antwort_3=0stehenbleiben und alle vorlassen	
+Antwort_4=0laut klingeln und zügig weiterfahren	
+
+[44]
+FZ1=An einer Kreuzung mit einer Ampel befinden sich immer auch zusätzlich
+FZ2=Verkehrsschilder. Wann gelten diese Schilder ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1wenn die Ampel ausgefallen ist
+Antwort_2=0wenn die Ampel rot zeigt
+Antwort_3=0wenn die Ampel grün zeigt
+Antwort_4=0wenn die Ampel gelb zeigt
+
+[45]
+FZ1=Du möchtest nach links abbiegen. Hast du Vorrang vor dem Gegenverkehr ?
+FZ2=
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1nein
+Antwort_2=0nur, wenn du Handzeichen gibst
+Antwort_3=0ja
+Antwort_4=0nur an Feiertagen
+
+[46]
+FZ1=Was bedeutet "Vorfahrt gewähren" ?
+FZ2=
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Der andere hat Vorfahrt.
+Antwort_2=0Man muss ein Stückchen vorfahren.
+Antwort_3=0Ich habe Vorfahrt.
+Antwort_4=0Man darf nicht überholen.
+
+[47]
+FZ1=Wer darf an einer Kreuzung   o h n e   Vorfahrtzeichen
+FZ2=und   o h n e   Ampel zuerst fahren ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1wer niemanden von rechts hat
+Antwort_2=0wer am schnellsten starten kann
+Antwort_3=0wer niemanden von links hat
+Antwort_4=0wer das größere Auto hat
+
+[48]
+FZ1=Du kommst an eine Kreuzung mit einem STOP - Schild.
+FZ2=Was musst du jetzt machen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1auf jeden Fall anhalten
+Antwort_2=0langsam weiterfahren
+Antwort_3=0nur bei Gegenverkehr anhalten
+Antwort_4=0sofort umkehren
+
+[49]
+FZ1=Auf einer Kreuzung regelt ein Polizist den Verkehr.
+FZ2=Du siehst ihn von der Seite. Was musst du dann tun ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1weiterfahren
+Antwort_2=0umkehren
+Antwort_3=0anhalten
+Antwort_4=0abbiegen
+
+[50]
+FZ1=Auf einer Kreuzung regelt ein Polizist den Verkehr.
+FZ2=Du siehst von hinten seinen Rücken. Was musst du dann tun ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1anhalten
+Antwort_2=0abbiegen
+Antwort_3=0weiterfahren
+Antwort_4=0umkehren
+
+[51]
+FZ1=Was bedeutet das dreieckige Zeichen mit einem roten Rand, einer weißen
+FZ2=Innenfläche und  mit der Spitze nach unten ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Vorfahrt achten
+Antwort_2=0Achtung, Gefahr !
+Antwort_3=0Du hast Vorfahrt.
+Antwort_4=0Durchfahrt verboten !
+
+[52]
+FZ1=Wie viele Ecken hat ein "STOP - Schild" ?
+FZ2=
+FZ3=
+Min=300
+Max=2000
+Antwort_1=18
+Antwort_2=04
+Antwort_3=06
+Antwort_4=03
+
+[53]
+FZ1=Darfst du mit deinem Fahrrad auf der Autobahn fahren ?
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nein
+Antwort_2=0nur am Sonntag
+Antwort_3=0ja
+Antwort_4=0nur auf dem Randstreifen
+
+[54]
+FZ1=Welche Bedeutung hat die untere Ampelfarbe ?
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1fahren
+Antwort_2=0Kreuzung freimachen
+Antwort_3=0anhalten
+Antwort_4=0umkehren
+
+[55]
+FZ1=Welche Bedeutung hat die obere Ampelfarbe ?
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1anhalten
+Antwort_2=0Kreuzung freimachen
+Antwort_3=0weiterfahren
+Antwort_4=0abbiegen
+
+[56]
+FZ1=Wann musst du bei einer Ampel anhalten ?
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1bei rot
+Antwort_2=0bei gelb
+Antwort_3=0bei grün
+Antwort_4=0wenn die Ampel blinkt
+
+[57]
+FZ1=
+FZ2=Welche Vorfahrtregelung gilt an einer Kreuzung ohne Verkehrszeichen?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1rechts vor links
+Antwort_2=0Autos vor Radfahrer
+Antwort_3=0Es gibt keine Regelung.
+Antwort_4=0Wer zuerst kommt, darf auch zuerst	fahren.
+
+[58]
+FZ1=
+FZ2=An welchen Stellen ist das Überholen besonders gefährlich ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1vor Kurven
+Antwort_2=0auf einer Landstraße
+Antwort_3=0auf dem Radweg
+Antwort_4=0auf einem Feldweg
+
+[59]
+FZ1=
+FZ2=Wie muss dein Abstand zum Vordermann sein, wenn du schneller fährst ?
+FZ3=
+Min=300
+Max=4000
+Antwort_1=1größer
+Antwort_2=0gleich
+Antwort_3=0kleiner
+Antwort_4=0genau 16 Meter
+
+[60]
+FZ1=
+FZ2=Was gilt für den Radweg ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Dort gelten die Verkehrsregeln.
+Antwort_2=0Dort kann jeder fahren, wie er will.
+Antwort_3=0Dort gibt es keine Verkehrsregeln.
+Antwort_4=0Dort dürfen nur Kinder fahren.
+
+[61]
+FZ1=
+FZ2=Was musst du machen, wenn es in der Richtung, in der du unterwegs bist,
+FZ3=einen Radweg gibt ?
+Min=500
+Max=4000
+Antwort_1=1Du musst ihn auch benutzen.
+Antwort_2=0Du darfst ihn nur benutzen, wenn du	langsam fährst.
+Antwort_3=0Du kannst ihn benutzen.
+Antwort_4=0Du darfst nicht weiterfahren.
+
+[62]
+FZ1=
+FZ2=Womit muss man beim Radfahren immer rechnen, wenn man in einer Gruppe fährt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1..., dass andere Fehler machen
+Antwort_2=0..., dass man immer überholt wird
+Antwort_3=0..., dass Rückenwind kommt
+Antwort_4=0..., dass man Letzter wird
+
+[63]
+FZ1=
+FZ2=Welches Verkehrsmittel ist am umweltfreundlichsten ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1Fahrrad
+Antwort_2=0LKW
+Antwort_3=0PKW
+Antwort_4=0Motorrad
+
+[64]
+FZ1=
+FZ2=Was muss ein Radfahrer machen, der auf einem gemeinsamen Weg für Radfahrer
+FZ3=und Fußgänger fährt ?
+Min=500
+Max=8000
+Antwort_1=1Er muss auf Fußgänger achten.
+Antwort_2=0Er muss zügig fahren.
+Antwort_3=0Er muss ständig klingeln.
+Antwort_4=0Er hat immer Vorfahrt.
+
+[65]
+FZ1=
+FZ2=Wo muss ein Radfahrer fahren, der älter als 10 Jahre ist ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1auf dem Radweg
+Antwort_2=0auf dem Bürgersteig
+Antwort_3=0mitten auf der Straße
+Antwort_4=0auf der linken Straßenseite
+
+[66]
+FZ1=
+FZ2=Wann verliert man leicht die Gewalt über das Fahrrad ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1wenn man freihändig fährt
+Antwort_2=0wenn man bremst
+Antwort_3=0wenn man einhändig fährt
+Antwort_4=0wenn der Gepäckträger beladen ist
+
+[67]
+FZ1=
+FZ2=Wohin gehören beim Fahren die Hände ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1an den Lenker
+Antwort_2=0auf die Pedalen
+Antwort_3=0an die Speichen
+Antwort_4=0auf den Gepäckträger
+
+[68]
+FZ1=
+FZ2=Wohin gehören beim Fahren die Füße ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1auf die Pedalen
+Antwort_2=0auf den Gepäckträger
+Antwort_3=0an den Lenker
+Antwort_4=0an die Klingel
+
+[69]
+FZ1=
+FZ2=Wann darfst du eine Tasche an den Lenker hängen ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1wenn sie dich nicht behindert
+Antwort_2=0wenn die Strecke nicht so viele Kurven	hat
+Antwort_3=0wenn du freihändig fahren kannst
+Antwort_4=0wenn die Tasche nicht zu schwer ist
+
+[70]
+FZ1=
+FZ2=Wann bringst du dich in Gefahr ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1wenn du beim Fahren die Füße von den	Pedalen nimmst
+Antwort_2=0wenn du beim Fahren einen Helm	aufhast
+Antwort_3=0wenn du beim Fahren beide Hände am	Lenker hast
+Antwort_4=0wenn du beim Fahren die Füße bewegst
+
+[71]
+FZ1=
+FZ2=Warum ist das Anhängen an Fahrzeuge verboten ?
+FZ3=
+Min=300
+Max=16000
+Antwort_1=1weil es lebensgefährlich ist
+Antwort_2=0weil man dadurch zu schnell wird
+Antwort_3=0weil es nur für Erwachsene erlaubt ist
+Antwort_4=0weil der Vordermann behindert wird
+
+[72]
+FZ1=
+FZ2=Wann ist es erlaubt, freihändig zu fahren ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1überhaupt nicht
+Antwort_2=0zwischen 18 und 20 Uhr
+Antwort_3=0nur auf dem Radweg
+Antwort_4=0nur in einer Einbahnstraße
+
+[73]
+FZ1=
+FZ2=Wann musst du das Licht am Fahrrad einschalten ?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=1bei Nebel oder Dunkelheit
+Antwort_2=0auf einer Landstraße
+Antwort_3=0abends ab 21.30 Uhr
+Antwort_4=0wenn du schneller fahren möchtest
+
+[74]
+FZ1=
+FZ2=Ist es erlaubt, beim Radfahren mit einem Walkman Musik zu hören ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1nein
+Antwort_2=0nur, wenn die Musik leise ist
+Antwort_3=0ja
+Antwort_4=0ja, aber nur klassische Musik
+
+[75]
+FZ1=
+FZ2=Darfst du deinen Freund  auf dem Fahrrad mitnehmen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1nein
+Antwort_2=0nur, wenn er kleiner ist
+Antwort_3=0ja
+Antwort_4=0nur, wenn er jünger ist
+
+[76]
+FZ1=
+FZ2=Wann darfst du mit deinem Fahrrad nur am Straßenverkehr teilnehmen ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1wenn es verkehrssicher ist
+Antwort_2=0wenn es neu ist
+Antwort_3=0wenn es betriebssicher ist
+Antwort_4=0wenn es eingefahren ist
+
+[77]
+FZ1=
+FZ2=Wo muss der großflächige Rückstrahler angebracht sein ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1hinten
+Antwort_2=0an den Pedalen
+Antwort_3=0vorne
+Antwort_4=0neben der Klingel
+
+[78]
+FZ1=
+FZ2=Wo muss der weiße Frontstrahler angebracht sein ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1vorne
+Antwort_2=0am Gepäckträger
+Antwort_3=0hinten
+Antwort_4=0an den Pedalen
+
+[79]
+FZ1=
+FZ2=Ab wie vielen Jahren müssen auch Kinder auf der Straße fahren ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=110
+Antwort_2=08
+Antwort_3=09
+Antwort_4=011
+
+[80]
+FZ1=
+FZ2=Wann darfst du mit einem BMX - Rad auf der Straße fahren ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1wenn es verkehrssicher ist
+Antwort_2=0wenn es eingefahren ist
+Antwort_3=0wenn es neu ist
+Antwort_4=0wenn es Schutzbleche hat
+
+[81]
+FZ1=
+FZ2=Wie heißt das Teil am Fahrrad, das den Strom für die Beleuchtung erzeugt ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Dynamo
+Antwort_2=0Turbine
+Antwort_3=0Dynamit
+Antwort_4=0Batterie
+
+[82]
+FZ1=
+FZ2=Wie viele Leuchten (Lampen) gehören zu einem verkehrssicheren Fahrrad ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=12
+Antwort_2=03
+Antwort_3=01
+Antwort_4=04
+
+[83]
+FZ1=
+FZ2=Welche Farbe hat der Rückstrahler ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1rot
+Antwort_2=0gelb
+Antwort_3=0weiß
+Antwort_4=0grün
+
+[84]
+FZ1=
+FZ2=Wie viele Speichenstrahler sind am Fahrrad ?
+FZ3=
+Min=200
+Max=2000
+Antwort_1=14
+Antwort_2=02
+Antwort_3=03
+Antwort_4=01
+
+[85]
+FZ1=
+FZ2=Wie viele Speichenstrahler sind am Hinterrad ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=12
+Antwort_2=00
+Antwort_3=01
+Antwort_4=04
+
+[86]
+FZ1=
+FZ2=Wie viele Speichenstrahler sind am Vorderrad ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=12
+Antwort_2=00
+Antwort_3=01
+Antwort_4=03
+
+[87]
+FZ1=
+FZ2=Welche Farbe haben die Speichenstrahler ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1gelb
+Antwort_2=0weß
+Antwort_3=0rot
+Antwort_4=0blau
+
+[88]
+FZ1=
+FZ2=Welche Farbe haben die Rückstrahler an den Pedalen ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1gelb
+Antwort_2=0weiß
+Antwort_3=0rot
+Antwort_4=0grün
+
+[89]
+FZ1=
+FZ2=Gehört ein Rückspiegel unbedingt zu einem verkehrssicheren Fahrrad ?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1nein
+Antwort_2=0nur beim Mountain - Bike
+Antwort_3=0ja
+Antwort_4=0nur bei einem Rennrad
+
+[90]
+FZ1=
+FZ2=Welches Teil gehört zu einem verkehrssicheren Fahrrad ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Hinterradbremse
+Antwort_2=0Sturzhelm
+Antwort_3=0Flickzeug
+Antwort_4=0Gangschaltung
+
+[91]
+FZ1=
+FZ2=Welches Teil gehört zu einem verkehrssicheren Fahrrad ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Vorderradbremse
+Antwort_2=0Uhr
+Antwort_3=0Tachometer
+Antwort_4=0Schraubenzieher
+
+[92]
+FZ1=
+FZ2=Welches Teil gehört zu einem verkehrssicheren Fahrrad ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Frontstrahler
+Antwort_2=0Fahne
+Antwort_3=0Rennlenker
+Antwort_4=0Rückspiegel
+
+[93]
+FZ1=
+FZ2=Welches Teil gehört zu einem verkehrssicheren Fahrrad ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Klingel
+Antwort_2=0Gepäckträger
+Antwort_3=0Luftpumpe
+Antwort_4=0Schutzblech
+
+[94]
+FZ1=
+FZ2=Ist ein Fahrrad auch ohne Beleuchtungsanlage sicher ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1nein
+Antwort_2=0nur am Tag
+Antwort_3=0ja
+Antwort_4=0nur bei Sonnenschein
+
+[95]
+FZ1=
+FZ2=Wie viele Bremsen müssen an einem verkehrssicheren Fahrrad sein ?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=12
+Antwort_2=03
+Antwort_3=01
+Antwort_4=04
+
+[96]
+FZ1=
+FZ2=Welches Teil am Fahrrad ist nützlich, aber nicht unbedingt notwendig ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Gepäckträger
+Antwort_2=0Vorderradbremse
+Antwort_3=0Rückstrahler
+Antwort_4=0Speichenreflektor
+
+[97]
+FZ1=
+FZ2=Welches Teil am Fahrrad ist nützlich, aber nicht unbedingt notwendig ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Schutzblech
+Antwort_2=0Hinterradbremse
+Antwort_3=0Frontstrahler
+Antwort_4=0KLingel
+
+[98]
+FZ1=
+FZ2=Darf sich dein Freund, der Inliner fährt, von dir mit dem Fahrrad auf der Straße
+FZ3=ziehen lassen ?
+Min=0
+Max=1000
+Antwort_1=1nein
+Antwort_2=0nur, wenn er einen Helm aufhat
+Antwort_3=0ja
+Antwort_4=0nur, wenn er Schutzkleidung trägt
+
+[99]
+FZ1=
+FZ2=Wie werden die Reflektoren an den Pedalen auch genannt ?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Katzenaugen
+Antwort_2=0Hasenaugen
+Antwort_3=0Hundeaugen
+Antwort_4=0Pferdeaugen
+
+[100]
+FZ1=
+FZ2=Was muss ein Radfahrer machen, der auf einem gemeinsamen Weg für Radfahrer
+FZ3=und Fußgänger fährt ?
+Min=500
+Max=8000
+Antwort_1=1Er muss auf Fußgänger achten.
+Antwort_2=0Er muss zügig fahren.
+Antwort_3=0Er muss ständig klingeln.
+Antwort_4=0Er hat immer Vorfahrt.
+

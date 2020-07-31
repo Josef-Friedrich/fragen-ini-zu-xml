@@ -1,0 +1,622 @@
+[Thema]
+Thema=Metall
+Fragen=56
+Autor=Andreas Karl / Joachim Siebler 7/2002
+
+[1]
+FZ1=
+FZ2=Wie hoch ist die Temperatur beim Weichlöten?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0egal!	
+Antwort_2=0bis 600°C	
+Antwort_3=1unter 450°C	
+Antwort_4=0über 900°C	
+
+[2]
+FZ1=Das Flussmittel beim Löten ...
+FZ2=
+FZ3=
+Min=0
+Max=500
+Antwort_1=0macht die Löteflächen glatt.	
+Antwort_2=0beseitigt grobe Verschmutzungen.	
+Antwort_3=0macht die Beachtung der Lötspaltgröße	überflüssig.	
+Antwort_4=1beseitigt und verhindert eine	Metalloxydschicht.	
+
+[3]
+FZ1=
+FZ2=Der Lötspalt beim Löten soll sein:
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0unter 0,05 mm	
+Antwort_2=00,3 - 0,6	
+Antwort_3=10,05 - 0,25	
+Antwort_4=0ist ohne Bedeutung	
+
+[4]
+FZ1=
+FZ2=In welcher Antwort wurde sowohl der Formelbuchstabe als auch die Maßeneinheit
+FZ3=richtig zugeordnet?
+Min=0
+Max=500
+Antwort_1=0Leistung P in kWh	
+Antwort_2=0Elektr. Arbeit in kW	
+Antwort_3=0Elektr. Spannung U in A	
+Antwort_4=1Drehmoment M in Nm	
+
+[5]
+FZ1=
+FZ2=Welche Behauptung über den Keilwinkel eines Meißels ist richtig?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Je härter der Werkstoff, um so größer	muss der Keilwinkel sein.	
+Antwort_2=0Der Keilwinkel ist abhängig von der	Neigung des Meißels zum Werkstück.	
+Antwort_3=0Der Keilwinkel kann bei allen	Werkstoffen gleich groß sein.	
+Antwort_4=0Der Keilwinkel ist für die Spanbildung	verantwortlich.	
+
+[6]
+FZ1=
+FZ2=Warum werden Sägeblätter gewellt bzw. geschränkt?
+FZ3=
+Min=500
+Max=8000
+Antwort_1=0Damit der Sägeschnitt nicht breiter als	das Sägeblatt wird.	
+Antwort_2=1Damit sich das Sägeblatt freischneidet	und nicht klemmt.	
+Antwort_3=0Damit möglichst lange Fließspäne	entstehen.	
+Antwort_4=0Um auch dünne Bleche hochkannt	durchsägen zu können.	
+
+[7]
+FZ1=Reibahlen verwendet man zum...
+FZ2=
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0Entrgraten.	
+Antwort_2=0Zentrieren einer Bohrung.	
+Antwort_3=0Senken.	
+Antwort_4=1Glätten einer Bohrung.	
+
+[8]
+FZ1=
+FZ2=Welchen Senker gibt es?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Senkprüfer	
+Antwort_2=0Senkanreißer	
+Antwort_3=1Senkmesser	
+Antwort_4=0Senkbohrer	
+
+[9]
+FZ1=
+FZ2=Was ist eine Korrosionsschicht?
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Blauschimmel	
+Antwort_2=1Grünspan	
+Antwort_3=0Laubrost	
+Antwort_4=0Braunfäule	
+
+[10]
+FZ1=
+FZ2=Auf einem Bohrer steht die Bezeichnung HSS. Was bedeuten diese drei Buchstaben?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=0Hinterschliffene Schneiden	
+Antwort_2=0Hartmetallschruppschneiden	
+Antwort_3=1Hochleistungschnellarbeitsstahl	
+Antwort_4=0Hohe-Schneid-Sicherheit	
+
+[11]
+FZ1=
+FZ2=Bei welcher Werkstoffpaarung korrodiert das Eisen?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1Eisen - Gold
+Antwort_2=0Eisen - Chrom
+Antwort_3=0Eisen - Zink
+Antwort_4=0Eisen - Aluminium
+
+[12]
+FZ1=
+FZ2=Welche Behauptung über gefräste Feilen ist richtig?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0Der Spanwinkel der Feilenzähne ist	immer negativ.
+Antwort_2=0Mit gefrästen Feilen können nur	Leichtmetalle bearbeitet werden.
+Antwort_3=0Der Spanwinkel der Feilenzähne ist	immer Null Grad.
+Antwort_4=1Gefräste Schneiden wirken schneidend.
+
+[13]
+FZ1=
+FZ2=Ein Werkstück soll mit der Feile geschlichtet werden. Wie lassen sich Riefen in
+FZ3=Werkstückoberfläche vermeiden?
+Min=8000
+Max=32000
+Antwort_1=0In dem man die Feile mit Öl einsteicht.
+Antwort_2=0In dem man die Feile nach etwa 20	Feilstrichen mit Petroleum auswäscht.
+Antwort_3=1In dem man die Feile mit Kreide	einstreicht.
+Antwort_4=0In dem man die Feile mit Graghit	einstreicht.
+
+[14]
+FZ1=
+FZ2=Welche Behauptung über das Kleben ist richtig?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=0Das Kleben ist besonders für kleine	Flächen geeignet.
+Antwort_2=0Klebeverbindungen sind besonders auf	Zugbeanspruchung günstig.
+Antwort_3=0Klebeverbindungen rechnet man zu den	lösbaren Verbindungen.
+Antwort_4=1Klebeverbindungen sind	geräuschdämpfend
+
+[15]
+FZ1=
+FZ2=Was ist ein Edelstahl?
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=0C60
+Antwort_2=0X 5CrNi 18-10
+Antwort_3=1C60E
+Antwort_4=0Gold
+
+[16]
+FZ1=
+FZ2=Welches Element hat bei der Stahlnormung den Multiplikationsfaktor "4"?
+FZ3=
+Min=125000
+Max=250000
+Antwort_1=1Cr
+Antwort_2=0Cu
+Antwort_3=0C
+Antwort_4=0Cl
+
+[17]
+FZ1=
+FZ2=Was ist eine Verliersicherung bei einer Schraubenverbindung?
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=0Zahnscheibe
+Antwort_2=0Sperzahnschraube
+Antwort_3=1Sicherungsblech
+Antwort_4=0Federring
+
+[18]
+FZ1=
+FZ2=Welche Stahlsorten können im Lichtbogenofen hergestellt werden?
+FZ3=
+Min=500000
+Max=64000
+Antwort_1=1Edelstähle
+Antwort_2=0Gußeisen
+Antwort_3=0Weißes Roheisen
+Antwort_4=0Graphit
+
+[19]
+FZ1=Welches Element hat bei der Stahlnormung den Multiplikationsfaktor "10"?
+FZ2=
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Cu
+Antwort_2=0Ni
+Antwort_3=0Mn
+Antwort_4=0N
+
+[20]
+FZ1=Bei welcher Temperatur liegt angenähert der absolute Nullpunkt?
+FZ2=Bei...
+FZ3=
+Min=0
+Max=1000
+Antwort_1=10 K	
+Antwort_2=0273 K	
+Antwort_3=0273 °C	
+Antwort_4=00 °C	
+
+[21]
+FZ1=Was versteht man unter Prüfen?
+FZ2=Unter Prüfen versteht man ...
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1das Messen und Lehren
+Antwort_2=0das Feingohren und Feindrehen
+Antwort_3=0das Honen und Läppen
+Antwort_4=0das Polieren
+
+[22]
+FZ1=Welcher der Stähle ist ein unlegierter Baustahl?
+FZ2=
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1S235JR
+Antwort_2=017 Cr 3
+Antwort_3=0GTW-35-04
+Antwort_4=0X 5CrNi 18-10
+
+[23]
+FZ1=
+FZ2=Wie groß ist die genormte Bezugstemperatur in der Messtechnik?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=120°C
+Antwort_2=010°C
+Antwort_3=00°C
+Antwort_4=015°C
+
+[24]
+FZ1=
+FZ2=Welche Fläche findet man nicht an einem Drehmeißel?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Hauptfreifläche
+Antwort_2=1Hauptschneidenfläche
+Antwort_3=0Nebenfreifläche
+Antwort_4=0Spanfläche
+
+[25]
+FZ1=
+FZ2=Welche der genannten Spanformen sind eher ungünstig?
+FZ3=
+Min=0
+Max=1000
+Antwort_1=0Bröckelspäne
+Antwort_2=0Spiralspäne
+Antwort_3=0Spiralwendelspäne
+Antwort_4=1Bandpäne
+
+[26]
+FZ1=
+FZ2=Wie sind die Zähne eines Sägeblattes angeordnet, damit ein Freischneiden möglich
+FZ3=ist?
+Min=1000
+Max=125000
+Antwort_1=0beschränkt
+Antwort_2=0verschränkt
+Antwort_3=1geschränkt
+Antwort_4=0unverschränkt
+
+[27]
+FZ1=
+FZ2=
+FZ3=Wofür eignen sich Grenzrachenlehrer?
+Min=8000
+Max=16000
+Antwort_1=1Prüfen von Wellen
+Antwort_2=0Prüfen von Bohrungen
+Antwort_3=0Messen von Wellen
+Antwort_4=0Feststellen der Wellentoleranz
+
+[28]
+FZ1=Wozu dient die Kupplung an der Messschraube?
+FZ2=Sie dient zum ...
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Begrenzen der Messkraft
+Antwort_2=0Ausrichten der Messschraube
+Antwort_3=0Einstellen auf einen bestimmten Wert
+Antwort_4=0Ausgleich der Wärmeausdehnung
+
+[29]
+FZ1=
+FZ2=Welches Prüfmittel eignet sich nicht zum Messen?
+FZ3=
+Min=32000
+Max=1000
+Antwort_1=1Grenzrachenlehre
+Antwort_2=0Feinzeiger
+Antwort_3=0Messuhr
+Antwort_4=0Maßstab
+
+[30]
+FZ1=Welcher Faktor hat bei spanender Fertigung keinen Einfluss auf die
+FZ2=Oberflächenrauheit?
+FZ3=
+Min=16000
+Max=32000
+Antwort_1=1Die Toleranz	
+Antwort_2=0Der Schneidstoff	
+Antwort_3=0Der Spanwinkel	
+Antwort_4=0Der Schneidenradius	
+
+[31]
+FZ1=Auf einer zeichnung ist das Maß 70 eingetragen. Wie wird dieses Maß bezeichnet?
+FZ2=
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Nennmaß
+Antwort_2=0Istmaß
+Antwort_3=0Höchstmaß
+Antwort_4=0Übermaß
+
+[32]
+FZ1=
+FZ2=Welche Passungsart ergibt die Angabe 40H7/f7?
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1Spielpassung
+Antwort_2=0Übermaßpassung
+Antwort_3=0Übergangspassung
+Antwort_4=0Feinpassung
+
+[33]
+FZ1=
+FZ2=Welche Buchstaben kennzeichnen beim ISO-Passungssystem Einheitswelle die
+FZ3=Bohrungen für das Spiel?
+Min=1000
+Max=16000
+Antwort_1=1A bis H
+Antwort_2=0M bis N
+Antwort_3=0J bis K
+Antwort_4=0P bis R
+
+[34]
+FZ1=
+FZ2=Wozu benötigt man einen Kegellehrdorn?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Prüfen von Innenkegeln
+Antwort_2=0Prüfen von Außenkegeln
+Antwort_3=0Messen von Innenkegeln
+Antwort_4=0Messen von Außenkegeln
+
+[35]
+FZ1=
+FZ2=Zu welcher Hauptgruppe der Fertigungsverfahren gehört das Drehen?
+FZ3=Zur Hauptgruppe ...
+Min=1000
+Max=32000
+Antwort_1=0Urformen
+Antwort_2=0Fügen
+Antwort_3=1Trennen
+Antwort_4=0Umformen
+
+[36]
+FZ1=Welches Fertigungsverfahren gehört nicht zur hauptgruppe Fügen?
+FZ2=
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Auftragsschweißen
+Antwort_2=0Löten
+Antwort_3=0Schmelzschweißen
+Antwort_4=0Schrauben
+
+[37]
+FZ1=Welcher der angegebenen Werkstoffe ist nicht schmiedbar?
+FZ2=
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1GG-25
+Antwort_2=0S235JR
+Antwort_3=0CuZn37
+Antwort_4=0AL99,9
+
+[38]
+FZ1=Welcher Winkel an der Werkzeugschneide wird mit BETA bezeichnet?
+FZ2=
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Keilwinkel
+Antwort_2=0Spanwinkel
+Antwort_3=0Freiwinkel
+Antwort_4=0Neigungswinkel
+
+[39]
+FZ1=
+FZ2=Welcher der genannten Eigenschaften ist bei Schneidstoffen unerwünscht
+FZ3=
+Min=500000
+Max=32000
+Antwort_1=1Große Sprödigkeit
+Antwort_2=0Große Verschleißfestigkeit
+Antwort_3=0Große Warmhärte
+Antwort_4=0Temperaturwechselbeständigkeit
+
+[40]
+FZ1=
+FZ2=Welches sind die Zerspanungshauptgruppen der Hartmetalle?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1P, M, K	
+Antwort_2=0H, K, S	
+Antwort_3=0H, S, T	
+Antwort_4=0A, L, S	
+
+[41]
+FZ1=Welche der genannten Eigenschaft spielt bei der Auswahl der Schneidstoffe keine
+FZ2=Rolle?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Zugfestigkeit
+Antwort_2=0Anlassbeständigkeit
+Antwort_3=0Temperaturwechselbeständigkeit
+Antwort_4=0Warmhärte
+
+[42]
+FZ1=Woraus bestehen Hartmetalle?
+FZ2=
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Metallcarbide und Cobalt
+Antwort_2=0Bornitrid und Aluminiumoxid
+Antwort_3=0Aluminiumoxid und Metallcarbide
+Antwort_4=0Metalloxide und Cobalt
+
+[43]
+FZ1=Wie hoch ist der Kohlenstoffgehalt von Gusseisen mit Lamellengraphit?
+FZ2=
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=00,1% - 0,8%
+Antwort_2=00,5% - 1,5%
+Antwort_3=12,6% - 3,6%
+Antwort_4=00,7% - 2,0%
+
+[44]
+FZ1=Wie Groß ist die Dichte von Aluminium?
+FZ2=
+FZ3=kg/dm^3
+Min=500
+Max=1000
+Antwort_1=12,7
+Antwort_2=07,85
+Antwort_3=04,5
+Antwort_4=011,9
+
+[45]
+FZ1=Wie Groß ist die Dichte von Eisen?
+FZ2=
+FZ3=kg/dm^3
+Min=500
+Max=1000
+Antwort_1=17,85
+Antwort_2=03,5
+Antwort_3=08,9
+Antwort_4=06,5
+
+[46]
+FZ1=Wie Groß ist die Dichte von Kupfer?
+FZ2=
+FZ3=kg/dm^3
+Min=500
+Max=1000
+Antwort_1=18,9
+Antwort_2=02,7
+Antwort_3=07,85
+Antwort_4=04,5
+
+[47]
+FZ1=Aus welchem Rohstoff wird Aluminium gewonnen?
+FZ2=
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Bauxit
+Antwort_2=0Dolomit
+Antwort_3=0Martensit
+Antwort_4=0Perlit
+
+[48]
+FZ1=Welche Eigenschaften haben Kupferhaltige AL-Legierungen?
+FZ2=Si sind ...
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1aushärtbar und hochfest
+Antwort_2=0besonders gut dehnbar
+Antwort_3=0sehr weich und korrosionsbeständig
+Antwort_4=0gut anodisch oxidierbar
+
+[49]
+FZ1=Welche Aussage trifft auf Titan zu?
+FZ2=
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1Es besitzt hohe Festigkeit und ist zäh
+Antwort_2=0Seine Festigkeit ist gering
+Antwort_3=0Es ist leicht umformbar
+Antwort_4=0Es ist wenig korrosionsbeständig
+
+[50]
+FZ1=Bei welchem Kohlenstoffgehalt liegt im Stahl reines Perlitgefüge vor?
+FZ2=
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=02,06%	
+Antwort_2=10,8%	
+Antwort_3=02,86%	
+Antwort_4=04,3%	
+
+[51]
+FZ1=Bei welchem Kohlenstoffgehalt liegt die Grenze zwischen Gusseisen und Stählen?
+FZ2=
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=12,06%
+Antwort_2=00,8%
+Antwort_3=02,86%
+Antwort_4=04,3%
+
+[52]
+FZ1=Welches Gefüge entsteht beimErhitzen von Stahl mit 0,8% Kohlenstoff über eine
+FZ2=Temperatur von 723°C
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Austenit
+Antwort_2=0Martensit
+Antwort_3=0Perlit
+Antwort_4=0Ferrit
+
+[53]
+FZ1=
+FZ2=Wer rastet der ....
+FZ3=
+Min=0
+Max=200
+Antwort_1=1rostet
+Antwort_2=0kostet
+Antwort_3=0korrodiert
+Antwort_4=0ist müde
+
+[54]
+FZ1=
+FZ2=Wer gut schmiert der gut ...
+FZ3=
+Min=0
+Max=200
+Antwort_1=1fährt
+Antwort_2=0fliegt
+Antwort_3=0steht
+Antwort_4=0geht
+
+[55]
+FZ1=
+FZ2=Am Schall erkennt man
+FZ3=
+Min=0
+Max=200
+Antwort_1=1das Metall	
+Antwort_2=0das Auto	
+Antwort_3=0den Kunsstoff	
+Antwort_4=0das Tier	
+
+[56]
+FZ1=Jeder ist seines Glückes ....
+FZ2=
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schmied	
+Antwort_2=0Geselle	
+Antwort_3=0Meister	
+Antwort_4=0Gießer	
+
+

@@ -1,0 +1,1104 @@
+[Thema]
+Thema       = W O R T A R T E N
+Fragen      = 100
+Autor       = Manfred Hartisch  
+
+[1]
+FZ1         = 
+FZ2         =  Finde das Namenwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 Tisch
+Antwort_2   = 0 gelb
+Antwort_3   = 0 holen
+Antwort_4   = 0 und
+
+[2]
+FZ1         =  
+FZ2         = Finde das Tuwort ! 
+FZ3         =  
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Bett
+Antwort_2   = 1 betteln
+Antwort_3   = 0 breit
+Antwort_4   = 0 Biene
+
+[3]
+FZ1         = 
+FZ2         = Finde das Namenwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 klingen
+Antwort_2   = 1 Glocke
+Antwort_3   = 0 grün
+Antwort_4   = 0 oder
+
+[4]
+FZ1         = 
+FZ2         =  Finde das Wiewort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 sehen
+Antwort_2   = 0 wenn
+Antwort_3   = 1 sauer
+Antwort_4   = 0 Stein
+
+[5]
+FZ1         = 
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 schwarz
+Antwort_2   = 1 schwimmen
+Antwort_3   = 0 sehr
+Antwort_4   = 0 Schal
+
+[6]
+FZ1         = 
+FZ2         =  Finde das Fürwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 und
+Antwort_2   = 0 so
+Antwort_3   = 0 eng
+Antwort_4   = 1 er
+
+[7]
+FZ1         = 
+FZ2         = Finde das Namenwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 basteln 
+Antwort_2   = 0 stark
+Antwort_3   = 1 Stern
+Antwort_4   = 0 stehen
+
+[8]
+FZ1         = 
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 braun
+Antwort_2   = 0 bis
+Antwort_3   = 1 brennen
+Antwort_4   = 0 Brücke
+
+[9]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Salz
+Antwort_2   = 0 sechs
+Antwort_3   = 0 sind
+Antwort_4   = 1 scharf
+
+[10]
+FZ1         = 
+FZ2         = Finde das Namenwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 teuer
+Antwort_2   = 1 Turm
+Antwort_3   = 0 traurig
+Antwort_4   = 0 robust
+
+[11]
+FZ1         =  
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 bald
+Antwort_2   = 0 Schirm
+Antwort_3   = 0 stumpf
+Antwort_4   = 1 angeln
+
+[12]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Bett
+Antwort_2   = 1 nett
+Antwort_3   = 0 wetten
+Antwort_4   = 0 retten
+
+[13]
+FZ1         = 
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Schal
+Antwort_2   = 0 schief
+Antwort_3   = 0 schon
+Antwort_4   = 1 schlafen 
+
+[14]
+FZ1         = 
+FZ2         =  Finde das Namenwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 Mund
+Antwort_2   = 0 und
+Antwort_3   = 0 rund
+Antwort_4   = 0 gesund
+
+[15]
+FZ1         = 
+FZ2         = Finde das Tuwort !  
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 malen
+Antwort_2   = 0 Maler
+Antwort_3   = 0 mal
+Antwort_4   = 0 einmal
+
+[16]
+FZ1         =  
+FZ2         = Finde das Namenwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 Tasse
+Antwort_2   = 0 testen
+Antwort_3   = 0 nass
+Antwort_4   = 0 plötzlich
+
+[17]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Brötchen
+Antwort_2   = 0 mögen
+Antwort_3   = 1 böse
+Antwort_4   = 0 Kröte
+
+[18]
+FZ1         = 
+FZ2         =  Finde das Fürwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 so
+Antwort_2   = 0 eng
+Antwort_3   = 0 sei
+Antwort_4   = 1 sie
+                
+[19]
+FZ1         = 
+FZ2         =  Finde das Namenwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 breit 
+Antwort_2   = 0 bald
+Antwort_3   = 0 blinken
+Antwort_4   = 1 Blatt
+                
+[20]
+FZ1         =  
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 leise
+Antwort_2   = 0 langsam
+Antwort_3   = 0 los
+Antwort_4   = 1 lesen
+
+[21]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 danken
+Antwort_2   = 0 denken
+Antwort_3   = 1 dunkel
+Antwort_4   = 0 dichten
+
+[22]
+FZ1         = 
+FZ2         =  Finde das Fürwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 ist
+Antwort_2   = 1 es
+Antwort_3   = 0 da
+Antwort_4   = 0 am
+
+[23]
+FZ1         =  
+FZ2         = Finde das Namenwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 Sonne
+Antwort_2   = 0 sonnig
+Antwort_3   = 0 sonnen
+Antwort_4   = 0 schon
+
+[24]
+FZ1         = 
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 schön
+Antwort_2   = 1 hören
+Antwort_3   = 0 deutlich
+Antwort_4   = 0 Fön
+
+[25]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 kennen
+Antwort_2   = 0 drücken
+Antwort_3   = 1 stark
+Antwort_4   = 0 denn
+
+[26]
+FZ1         =  
+FZ2         = Finde das Namenwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 Katze
+Antwort_2   = 0 kratzen
+Antwort_3   = 0 klein
+Antwort_4   = 0 kalt
+
+[27]
+FZ1         = 
+FZ2         =  Finde das Fürwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 im
+Antwort_2   = 0 rot
+Antwort_3   = 1 ich
+Antwort_4   = 0 und
+
+[28]
+FZ1         = 
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 hohl
+Antwort_2   = 0 Knochen
+Antwort_3   = 0 Loch
+Antwort_4   = 1 kochen
+
+[29]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Wald
+Antwort_2   = 1 alt
+Antwort_3   = 0 bald
+Antwort_4   = 0 knallt
+
+[30]
+FZ1         = 
+FZ2         =  Finde das Namenwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 aus
+Antwort_2   = 0 sausen
+Antwort_3   = 1 Haus
+Antwort_4   = 0 brausen
+
+[31]
+FZ1         = 
+FZ2         =  Finde das Fürwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 in
+Antwort_2   = 0 ob
+Antwort_3   = 0 als
+Antwort_4   = 1 er
+
+[32]
+FZ1         = 
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 lecker
+Antwort_2   = 0 leicht
+Antwort_3   = 0 Lärm
+Antwort_4   = 1 lernen
+
+[33]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Schwung
+Antwort_2   = 0 Junge
+Antwort_3   = 1 jung
+Antwort_4   = 0 gesungen
+
+[34]
+FZ1         = 
+FZ2         =  Finde das Namenwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 Klammer
+Antwort_2   = 0 keiner
+Antwort_3   = 0 kümmern
+Antwort_4   = 0 kaputt
+
+[35]
+FZ1         =
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Gast
+Antwort_2   = 0 geizig
+Antwort_3   = 0 Gang
+Antwort_4   = 1 gehen
+
+[36]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 liefern
+Antwort_2   = 0 leisten
+Antwort_3   = 1 langsam
+Antwort_4   = 0 leuchten
+
+[37]
+FZ1         =
+FZ2         =  Finde das Fürwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 sie
+Antwort_2   = 0 so
+Antwort_3   = 0 sehr
+Antwort_4   = 0 sah
+
+[38]
+FZ1         =
+FZ2         =  Finde das Namenwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 niedlich
+Antwort_2   = 0 gießen
+Antwort_3   = 0 riesig
+Antwort_4   = 1 Wiese
+
+[39]
+FZ1         =
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 zornig
+Antwort_2   = 1 zerren
+Antwort_3   = 0 zahm
+Antwort_4   = 0 zurück
+
+[40]
+FZ1         = 
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 bis
+Antwort_2   = 0 biegen
+Antwort_3   = 0 bringen
+Antwort_4   = 1 billig
+
+[41]
+FZ1         =
+FZ2         = Finde das Fürwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 Ei
+Antwort_2   = 0 eng
+Antwort_3   = 0 elf
+Antwort_4   = 1 er
+
+[42]
+FZ1         =
+FZ2         = Finde das Namenwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 rosten
+Antwort_2   = 0 loben
+Antwort_3   = 1 Boden
+Antwort_4   = 0 oben
+
+[43]
+FZ1         =
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 spielen
+Antwort_2   = 0 Spiel
+Antwort_3   = 0 viel
+Antwort_4   = 0 spät
+
+[44]
+FZ1         =
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 hell
+Antwort_2   = 0 helfen
+Antwort_3   = 0 Hilfe
+Antwort_4   = 0 haben
+
+[45]
+FZ1         =
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 trinken
+Antwort_2   = 0 Getränk
+Antwort_3   = 0 durstig
+Antwort_4   = 0 traurig
+
+[46]
+FZ1         =
+FZ2         =  Finde das Namenwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 mich
+Antwort_2   = 0 schnell
+Antwort_3   = 1 Lied
+Antwort_4   = 0 flüstern
+
+[47]
+FZ1         =
+FZ2         =  Finde das Tuwort ! 
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 tanzen
+Antwort_2   = 0 Finger
+Antwort_3   = 0 müde
+Antwort_4   = 0 vielleicht
+
+[48]
+FZ1         =
+FZ2         =  Finde das Wiewort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 1 glatt
+Antwort_2   = 0 Blatt
+Antwort_3   = 0 hatte
+Antwort_4   = 0 Schatten
+
+[49]
+FZ1         =
+FZ2         =  Finde das Namenwort !
+FZ3         = 
+Min         = 0
+Max         = 16000
+Antwort_1   = 0 tief
+Antwort_2   = 1 Tomate
+Antwort_3   = 0 toben
+Antwort_4   = 0 tausend
+
+[50]
+FZ1         = 
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 RUFEN
+Antwort_2   = 0 HASEN
+Antwort_3   = 0 SPATEN
+Antwort_4   = 0 MATTEN
+
+[51]
+FZ1         = 
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 SCHIFF
+Antwort_2   = 1 SCHIEF
+Antwort_3   = 0 SCHLIEF
+Antwort_4   = 0 SCHILF
+
+[52]
+FZ1         = 
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 EUER
+Antwort_2   = 0 EUTER
+Antwort_3   = 0 EULE
+Antwort_4   = 0 EUMEL
+
+[53]
+FZ1         =
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 BESORGEN
+Antwort_2   = 1 COMPUTER 
+Antwort_3   = 0 PLÖTZLICH
+Antwort_4   = 0 VERLOREN
+
+[54]
+FZ1         = 
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 FLÜSTERN
+Antwort_2   = 0 BRÜSTUNG
+Antwort_3   = 0 LÜMMEL
+Antwort_4   = 0 FÜLLUNG
+
+[55]
+FZ1         =
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 BRAUT
+Antwort_2   = 0 KAUM
+Antwort_3   = 0 HAUT
+Antwort_4   = 1 LAUT
+
+[56]
+FZ1         =
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 LEHRER 
+Antwort_2   = 0 LEBENDIG
+Antwort_3   = 0 LANGSAM
+Antwort_4   = 0 LIEBLICH
+
+[57]
+FZ1         =
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 SALZIG
+Antwort_2   = 0 SALAT
+Antwort_3   = 0 STADT
+Antwort_4   = 0 STADION
+
+[58]
+FZ1         =
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 KRÜMEL 
+Antwort_2   = 1 KÜMMERN
+Antwort_3   = 0 KÜRBIS
+Antwort_4   = 0 KÜCHE
+
+[59]
+FZ1         =
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 DOSE
+Antwort_2   = 0 OBEN
+Antwort_3   = 0 DOOF
+Antwort_4   = 0 ORDNEN
+
+[60]
+FZ1         =
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 MEIN
+Antwort_2   = 0 WEIN
+Antwort_3   = 0 BEIN
+Antwort_4   = 0 KEIN
+
+[61]
+FZ1         =
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 SACHEN
+Antwort_2   = 0 VASEN
+Antwort_3   = 0 AACHEN 
+Antwort_4   = 1 LACHEN
+
+[62]
+FZ1         =
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 HERBST
+Antwort_2   = 0 STRENG
+Antwort_3   = 0 GLATT
+Antwort_4   = 0 ECKIG
+
+[63]
+FZ1         =
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 ERNST
+Antwort_2   = 0 EGON
+Antwort_3   = 0 EMIL
+Antwort_4   = 0 ERWIN
+
+[64]
+FZ1         =
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 HÖLLE
+Antwort_2   = 0 SOHLE
+Antwort_3   = 0 HÖHLE
+Antwort_4   = 1 HOLEN
+
+[65]
+FZ1         =
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 IHR
+Antwort_2   = 0 IM
+Antwort_3   = 0 IN 
+Antwort_4   = 0 IMMER
+
+[66]
+FZ1         =
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 320000
+Max         = 1000000
+Antwort_1   = 1 ZAHL
+Antwort_2   = 0 LAHM
+Antwort_3   = 0 MATT
+Antwort_4   = 0 ZAHM
+
+[67]
+FZ1         =
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 BRAUN
+Antwort_2   = 0 BAUM
+Antwort_3   = 0 BRAUSEN
+Antwort_4   = 0 BRUDER
+
+[68]
+FZ1         =
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 FÜHLEN
+Antwort_2   = 0 FÜHLER
+Antwort_3   = 0 FÜLLER
+Antwort_4   = 0 FRÜHER
+
+[69]
+FZ1         =
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 KUH
+Antwort_2   = 1 DU
+Antwort_3   = 0 WO
+Antwort_4   = 0 ALS
+
+[70]
+FZ1         =
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 ALLEIN
+Antwort_2   = 0 OFT
+Antwort_3   = 0 WENIG
+Antwort_4   = 1 OASE
+
+[71]
+FZ1         = 
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 GUT
+Antwort_2   = 0 HUT
+Antwort_3   = 0 MUT
+Antwort_4   = 0 WUT
+
+[72]
+FZ1         = 
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 KÄSE
+Antwort_2   = 0 KRÄFTIG
+Antwort_3   = 0 KÄFIG
+Antwort_4   = 1 KLÄFFEN
+
+[73]
+FZ1         = 
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 DEIN 
+Antwort_2   = 0 DENN
+Antwort_3   = 0 DEN
+Antwort_4   = 0 DORT
+
+[74]
+FZ1         = 
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 ARTIG
+Antwort_2   = 0 MILD
+Antwort_3   = 1 RADIO
+Antwort_4   = 0 EUCH
+
+[75]
+FZ1         = 
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 FRIEREN
+Antwort_2   = 0 FREUND
+Antwort_3   = 0 FRIEDEN
+Antwort_4   = 1 FRIEDLICH
+
+[76]
+FZ1         = 
+FZ2         = Finde das Verb ! 
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 FUNKELN
+Antwort_2   = 0 KNOCHEN
+Antwort_3   = 0 SCHLITTEN
+Antwort_4   = 0 MOTTEN
+
+[77]
+FZ1         = 
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 WIR
+Antwort_2   = 0 HIER
+Antwort_3   = 0 VIER
+Antwort_4   = 0 WER
+
+[78]
+FZ1         =
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 GERN
+Antwort_2   = 0 ECHT
+Antwort_3   = 0 HEFTEN
+Antwort_4   = 1 HEFT
+
+[79]
+FZ1         =
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 SPATZ
+Antwort_2   = 1 SPITZ
+Antwort_3   = 0 SCHATZ
+Antwort_4   = 0 SPECHT
+
+[80]
+FZ1         =
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 ZEIGEN
+Antwort_2   = 0 AUGEN
+Antwort_3   = 0 WITTEN
+Antwort_4   = 0 SUSEN
+
+[81]
+FZ1         = 
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 ICH
+Antwort_2   = 0 ECHT
+Antwort_3   = 0 CHEF
+Antwort_4   = 0 IGEL
+
+[82]
+FZ1         = 
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 STRICH
+Antwort_2   = 0 STRENG
+Antwort_3   = 0 STILL
+Antwort_4   = 0 STEHEN
+
+[83]
+FZ1         = 
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 KALT
+Antwort_2   = 0 KEHLE
+Antwort_3   = 0 KRAN
+Antwort_4   = 0 KRAFT
+
+[84]
+FZ1         = 
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 ROLLEN
+Antwort_2   = 0 MÜNCHEN
+Antwort_3   = 0 ROCHEN
+Antwort_4   = 0 SCHWEDEN
+
+[85]
+FZ1         = 
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 SIE
+Antwort_2   = 0 EIS
+Antwort_3   = 0 SOS
+Antwort_4   = 0 DIN
+
+[86]
+FZ1         = 
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 BIRNE
+Antwort_2   = 0 BRINGEN
+Antwort_3   = 0 BLIND
+Antwort_4   = 0 BRAV
+
+[87]
+FZ1         = 
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 HART
+Antwort_2   = 0 HOLZ
+Antwort_3   = 0 HOHN
+Antwort_4   = 0 HAUS
+
+[88]
+FZ1         = 
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 LEUCHTEN
+Antwort_2   = 0 LEUCHTER
+Antwort_3   = 0 LEUTE
+Antwort_4   = 0 SCHEUNE
+
+[89]
+FZ1         = 
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 DU
+Antwort_2   = 0 UND
+Antwort_3   = 0 AUF
+Antwort_4   = 0 ZU
+
+[90]
+FZ1         = 
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 UHR
+Antwort_2   = 0 UM
+Antwort_3   = 0 UND
+Antwort_4   = 0 UNS
+
+[91]
+FZ1         = 
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 SAUER
+Antwort_2   = 0 SCHAUER
+Antwort_3   = 0 LAUER
+Antwort_4   = 0 MAUER
+
+[92]
+FZ1         = 
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 ESSEN
+Antwort_2   = 0 WITTEN
+Antwort_3   = 0 MÜNCHEN
+Antwort_4   = 0 DRESDEN
+
+[93]
+FZ1         = 
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 ER
+Antwort_2   = 0 REH
+Antwort_3   = 0 ELF
+Antwort_4   = 0 EI
+
+[94]
+FZ1         = 
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 GLATZE
+Antwort_2   = 0 GLÄNZEN
+Antwort_3   = 0 GREIFEN
+Antwort_4   = 0 GERNE
+
+[95]
+FZ1         =  
+FZ2         =  Finde das Adjektiv !
+FZ3         =  
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 KLUG
+Antwort_2   = 0 KRUG
+Antwort_3   = 0 ARZT
+Antwort_4   = 0 ZAHL
+
+[96]
+FZ1         = 
+FZ2         =  Finde das Verb !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 FLÖTEN
+Antwort_2   = 0 PFOTEN
+Antwort_3   = 0 PFLAUMEN
+Antwort_4   = 0 KUCHEN
+
+[97]
+FZ1         = 
+FZ2         =  Finde das Pronomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 WIR
+Antwort_2   = 0 WER
+Antwort_3   = 0 WIE
+Antwort_4   = 0 WAS
+
+[98]
+FZ1         = 
+FZ2         =  Finde das Nomen !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 TEPPICH
+Antwort_2   = 0 ENDLICH
+Antwort_3   = 0 NIEDLICH
+Antwort_4   = 0 FRÖHLICH
+
+[99]
+FZ1         = 
+FZ2         =  Finde das Adjektiv !
+FZ3         = 
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 BLOND
+Antwort_2   = 0 BAND
+Antwort_3   = 0 BRIEF
+Antwort_4   = 0 BUS
+
+[100]
+FZ1         =  
+FZ2         =  Finde das Verb ! 
+FZ3         =  
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 1 SONNEN
+Antwort_2   = 0 SOCKEN
+Antwort_3   = 0 BRUNNEN
+Antwort_4   = 0 DEGEN

@@ -1,0 +1,1116 @@
+[Thema]
+Thema= Grundschule B
+Fragen=101
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=Wo wachsen Perlen ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 in Muscheln
+Antwort_2=0	 auf Bäumen
+Antwort_3=0	 an Sträuchern
+Antwort_4=0	  in Tropfsteinhöhlen
+
+[2]
+FZ1=
+FZ2=Was sind Zebras ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 wilde Pferde
+Antwort_2=0	 gestreifte Ponys
+Antwort_3=0	 kleine Giraffen
+Antwort_4=0	 Urahnen der Nilpferde
+
+[3]
+FZ1=
+FZ2=Wie nennt man das künstliche Sonnenbad, in
+FZ3=dem man seine Haut bräunen lässt ?
+Min=0
+Max=300
+Antwort_1=1	 Solarium
+Antwort_2=0	 Museum
+Antwort_3=0	 Aquarium
+Antwort_4=0	  Stadion
+
+[4]
+FZ1=
+FZ2=Wie heißt das Dorf, in dem Wickie lebt ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Flake
+Antwort_2=0	 Faxe
+Antwort_3=0	 Falco
+Antwort_4=0	 Corn Flakes
+
+[5]
+FZ1=
+FZ2=Welches Himmelsspektakel kann man sehen, wenn
+FZ3=während eines Regenschauers die Sonne scheint ?
+Min=0
+Max=300
+Antwort_1=1	 Regenbogen
+Antwort_2=0	 Komet
+Antwort_3=0	 Abendglühen
+Antwort_4=0	  Nordlicht
+
+[6]
+FZ1=
+FZ2=Wie nennt man die verkleinerte Darstellung der Erde ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Globus
+Antwort_2=0	 Rhombus
+Antwort_3=0	 Kubus
+Antwort_4=0	 Apfelmus
+
+[7]
+FZ1=
+FZ2=Welches Spielzeug holte der Froschkönig
+FZ3=der Prinzessin aus dem Brunnen ?
+Min=0
+Max=300
+Antwort_1=1	 goldene Kugel
+Antwort_2=0	 weiße Feder
+Antwort_3=0	 diamantene Haarspange
+Antwort_4=0	  silberner Ball
+
+[8]
+FZ1=
+FZ2=Wie heißt der Todfeind von Peter Pan ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Captain Hook
+Antwort_2=0	 Captain Kirk
+Antwort_3=0	 Captain Chaos
+Antwort_4=0	  Captain Iglo
+
+[9]
+FZ1=
+FZ2=Wer ist für das legendäre Freudengeheul
+FZ3="Yabba Dabba Doo" bekannt ?
+Min=0
+Max=300
+Antwort_1=1	 Fred Feuerstein
+Antwort_2=0	 der rosarote Panther
+Antwort_3=0	 Grisu
+Antwort_4=0	  Bart Simpson
+
+[10]
+FZ1=
+FZ2=Welcher Apostel verriet Jesus ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Judas
+Antwort_2=0	 Johannes
+Antwort_3=0	 Matthäus
+Antwort_4=0	 Thomas
+
+[11]
+FZ1=
+FZ2=Wie heißt die Hauptstadt Deutschlands ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Berlin
+Antwort_2=0	 Bochum
+Antwort_3=0	 München
+Antwort_4=0	  Frankfurt
+
+[12]
+FZ1=
+FZ2=Was ist in München die Wies´n ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Oktoberfest
+Antwort_2=0	 Septemberfest
+Antwort_3=0	 Augustfest
+Antwort_4=0	 Maifest
+
+[13]
+FZ1=
+FZ2=Was ist eine Frikadelle ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Hackfleischklößchen
+Antwort_2=0	 Süßwasserfisch
+Antwort_3=0	 Singvogelart
+Antwort_4=0	  junges Mädchen aus Friesland
+
+[14]
+FZ1=
+FZ2=Was bedeutet die Abkürzung BRD ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Bundesrepublik Deutschland
+Antwort_2=0	 Bayrischer Rundfunk Digital
+Antwort_3=0	 Bremer Radio Dienst
+Antwort_4=0	 Berliner Reiter Dachverband
+
+[15]
+FZ1=
+FZ2=Gibt es auf der Erde mehr Wasser oder Land ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 mehr Wasser
+Antwort_2=0	 mehr Land
+Antwort_3=0	 Es ist gleich verteilt.
+Antwort_4=0 Es kommt darauf an, wie viel es regnet.
+
+[16]
+FZ1=
+FZ2=Wie nennt man eine kleine, fellbespannte und mit
+FZ3=Schellen ausgestattete Handtrommel ?
+Min=0
+Max=300
+Antwort_1=1	 Tamburin
+Antwort_2=0	 Rosmarin
+Antwort_3=0	 Gagarin
+Antwort_4=0	 Aspirin
+
+[17]
+FZ1=
+FZ2=Bei wem oder was erkennt man das Alter
+FZ3=anhand von Jahresringen ?
+Min=0
+Max=300
+Antwort_1=1	 Bäume
+Antwort_2=0	 Filmstars
+Antwort_3=0	 Esel
+Antwort_4=0	  Computer
+
+[18]
+FZ1=
+FZ2=Wer gehört nicht zu den Heiligen Drei Königen ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Josef
+Antwort_2=0	 Kaspar
+Antwort_3=0	 Balthasar
+Antwort_4=0	 Melchior
+
+[19]
+FZ1=
+FZ2=Wie nennt man die Erstürmung eines feindlichen Schiffes ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1	 Entern
+Antwort_2=0	 Gansern
+Antwort_3=0	 Möwern
+Antwort_4=0	  Schwanern
+
+[20]
+FZ1=
+FZ2=Wie heißen die Eier des Störs,
+FZ3=die als Delikatesse gelten ?
+Min=0
+Max=300
+Antwort_1=1	 Kaviar
+Antwort_2=0	 Neckar
+Antwort_3=0	 Radar
+Antwort_4=0	 Oscar
+
+[21]
+FZ1=
+FZ2=Aus welcher Entfernung wird beim Fußball
+FZ3=der Strafstoß ausgeführt ?
+Min=500
+Max=2000
+Antwort_1=1	 11 Meter
+Antwort_2=0	 7 Meter
+Antwort_3=0	 9 Meter
+Antwort_4=0	 16 Meter
+
+[22]
+FZ1=
+FZ2=Was ist das Gegenteil von Dur ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Moll
+Antwort_2=0	 Doll
+Antwort_3=0	 Dürr
+Antwort_4=0	 Soll
+
+[23]
+FZ1=
+FZ2=Wie nennt man die Trennungslinie zwischen Himmel und Erde ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Horizont
+Antwort_2=0	 Fata Morgana
+Antwort_3=0	 Mittelstreifen
+Antwort_4=0	 Wasserwaage
+
+[24]
+FZ1=
+FZ2=Was ist ein Zitronenfalter ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Schmetterling
+Antwort_2=0	 Beruf
+Antwort_3=0	 Küchengerät
+Antwort_4=0	 Musikinstrument
+
+[25]
+FZ1=
+FZ2=Wo werden Wertpapiere gehandelt ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Börse
+Antwort_2=0	 Bibliothek
+Antwort_3=0	 Discothek
+Antwort_4=0	 Dormitorium
+
+[26]
+FZ1=
+FZ2=Was ist die höchste Geschwindigkeit ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Lichtgeschwindigkeit
+Antwort_2=0	 Affenzahn
+Antwort_3=0	 Schallgeschwindigkeit
+Antwort_4=0	 Sternengeschwindigkeit
+
+[27]
+FZ1=
+FZ2=Welches Gerät dient zur Festlegung
+FZ3=der absoluten Tonhöhe ?
+Min=500
+Max=2000
+Antwort_1=1	 Stimmgabel
+Antwort_2=0	 Hörlöffel
+Antwort_3=0	 Notenbesteck
+Antwort_4=0	 Tonmesser
+
+[28]
+FZ1=
+FZ2=Wie heißt das optische Gerät, das winzige
+FZ3=Gegenstände vergrößert zeigt ?
+Min=500
+Max=2000
+Antwort_1=1	 Mikroskop
+Antwort_2=0	 Mikrochip
+Antwort_3=0	 Mikrofaser
+Antwort_4=0	 Mikrofon
+
+[29]
+FZ1=
+FZ2=Wie heißt das Wahrzeichen von Köln ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Kölner Dom
+Antwort_2=0	 Kölner Burg
+Antwort_3=0	 Kölner Schloss
+Antwort_4=0	 Kölner Kirche
+
+[30]
+FZ1=
+FZ2=Wie hieß das ehemalige Ostdeutschland ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 D D R
+Antwort_2=0	 U d S S R
+Antwort_3=0	 W D R
+Antwort_4=0	 M D R
+
+[31]
+FZ1=
+FZ2=Wie heißt der Tiger, der Mogli im
+FZ3=Dschungelbuch verfolgt ?
+Min=500
+Max=2000
+Antwort_1=1	 Schir Khan
+Antwort_2=0	 Chaka Khan
+Antwort_3=0	 Aga Khan
+Antwort_4=0	 Werkannder Khan
+
+[32]
+FZ1=
+FZ2=Worauf legt sich ein Fakir, um seinen
+FZ3=Körper gegen Schmerzen abzuhärten ?
+Min=500
+Max=2000
+Antwort_1=1	 Nagelbett
+Antwort_2=0	 Flussbett
+Antwort_3=0	 Wasserbett
+Antwort_4=0	 Federbett
+
+[33]
+FZ1=
+FZ2=Wie hieß die bemannte russische Raumstation,
+FZ3=die 15 Jahre lang die Erde umkreiste ?
+Min=500
+Max=2000
+Antwort_1=1	 Mir
+Antwort_2=0	 Dir
+Antwort_3=0	 Euch
+Antwort_4=0	 Ihr
+
+[34]
+FZ1=
+FZ2=Wie viele Augen hat ein Würfel ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 21
+Antwort_2=0	 12
+Antwort_3=0	 18
+Antwort_4=0	 25
+
+[35]
+FZ1=
+FZ2=Wo wird jährlich der Filmpreis "Oscar" verliehen ?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1	 Hollywood
+Antwort_2=0	 Paris
+Antwort_3=0	 Berlin
+Antwort_4=0	 Venedig
+
+[36]
+FZ1=
+FZ2=Wie heißt der Modetanz der achtziger Jahre, der
+FZ3=aus roboterartigen Bewegungen besteht ?
+Min=500
+Max=2000
+Antwort_1=1	 Braekdance
+Antwort_2=0	 Eiertanz
+Antwort_3=0	 Samba
+Antwort_4=0	 Rumba
+
+[37]
+FZ1=
+FZ2=Wie heißt die klebrige Masse, die bei einer
+FZ3=Verletzung eines Baumes an die Oberfläche kommt ?
+Min=500
+Max=2000
+Antwort_1=1	 Harz
+Antwort_2=0	 Met
+Antwort_3=0	 Lava
+Antwort_4=0	 Uhu
+
+[38]
+FZ1=
+FZ2=Wie heißt das fünfte Gebot ?
+FZ3="Du sollst ... "
+Min=500
+Max=2000
+Antwort_1=1	 nicht töten
+Antwort_2=0	 nicht stehlen
+Antwort_3=0	 Vater und Mutter ehren
+Antwort_4=0	 nicht falsch Zeugnis ablegen
+
+[39]
+FZ1=
+FZ2=Wie nennt man ein gern gespieltes älteres Musikstück
+FZ3=der Unterhaltungs- und Rockmusik ?
+Min=500
+Max=2000
+Antwort_1=1	 Oldie
+Antwort_2=0	 Stonie
+Antwort_3=0	 Schnarchi
+Antwort_4=0	 Gruftie
+
+[40]
+FZ1=
+FZ2=Wenn man sehr glücklich ist, befindet man
+FZ3=sich sprichwörtlich ... ?
+Min=500
+Max=2000
+Antwort_1=1	 im siebten Himmel
+Antwort_2=0	 im sechsten Paradies
+Antwort_3=0	 auf Wolke acht
+Antwort_4=0	 im fünften Schlaraffenland
+
+[41]
+FZ1=
+FZ2=Eine Gegend, in der bereits viele Schiffe und
+FZ3=Flugzeuge spurlos verschwunden sind, ist das ... ?
+Min=4000
+Max=16000
+Antwort_1=1	 Bermuda - Dreieck
+Antwort_2=0	 Bahama - Viereck
+Antwort_3=0	 Karibische Pentagon
+Antwort_4=0	 Sylter Sechseck
+
+[42]
+FZ1=
+FZ2=Wie heißt der Jagdhund im Märchen
+FZ3="Die Bremer Stadtmusikanten" ?
+Min=4000
+Max=16000
+Antwort_1=1	 Packan
+Antwort_2=0	 Beißihn
+Antwort_3=0	 Knurrfest
+Antwort_4=0	Bellschön
+
+[43]
+FZ1=
+FZ2=Welches Tier gilt als besonders schlau ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Fuchs
+Antwort_2=0	 Hase
+Antwort_3=0	 Schwein
+Antwort_4=0	 Esel
+
+[44]
+FZ1=
+FZ2=Wie heißt das Küken aus Palermo ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Calimero
+Antwort_2=0	 Nils
+Antwort_3=0	 Tao Tao
+Antwort_4=0	  Pinocchio
+
+[45]
+FZ1=
+FZ2=Was isst man von der Kartoffelstaude ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 die Knolle
+Antwort_2=0	 die Frucht
+Antwort_3=0	 den Stängel
+Antwort_4=0	 die Wurzel
+
+[46]
+FZ1=
+FZ2=Wie heißt das Betriebssystem für
+FZ3=Computer von Microsoft ?
+Min=4000
+Max=16000
+Antwort_1=1	 Windows
+Antwort_2=0	 Willow
+Antwort_3=0	 Wallpaper
+Antwort_4=0	 Wanderer
+
+[47]
+FZ1=
+FZ2=Wie heißen russische Raumfahrer ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Kosmonauten
+Antwort_2=0	 Bojaren
+Antwort_3=0	 Samoware
+Antwort_4=0	 Kosaken
+
+[48]
+FZ1=Wie heißt der durch Medikamente herbeigeführte
+FZ2=Zustand während einer Operation,
+FZ3=in dem man keine Schmerzen verspürt ?
+Min=4000
+Max=16000
+Antwort_1=1	 Narkose
+Antwort_2=0	 Koma
+Antwort_3=0	 Ohnmacht
+Antwort_4=0	Delirium
+
+[49]
+FZ1=
+FZ2=Was ist die Mauser ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Federwechsel
+Antwort_2=0	 Mäuseplage
+Antwort_3=0	 Bergkette
+Antwort_4=0	 Krankheit
+
+[50]
+FZ1=
+FZ2=Wer wohnt im Vatikan ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Papst
+Antwort_2=0	 amerikanische Präsident
+Antwort_3=0	 Eros Ramazzotti
+Antwort_4=0	 Rumpelstilzchen
+
+[51]
+FZ1=
+FZ2=Wie nennt man männliche Bienen ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Drohnen
+Antwort_2=0	 Bienenmann
+Antwort_3=0	 Dohlen
+Antwort_4=0	 Bieneriche
+
+[52]
+FZ1=
+FZ2=Von welchem Tier stammt der Hund ab ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Wolf
+Antwort_2=0	 Löwe
+Antwort_3=0	 Dinosaurier
+Antwort_4=0	 Fuchs
+
+[53]
+FZ1=
+FZ2=Wie heißt der männliche Hund ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Rüde
+Antwort_2=0	 Rute
+Antwort_3=0	 Rüpel
+Antwort_4=0	 Rammler
+
+[54]
+FZ1=
+FZ2=Wie heißen Schweinebabys mit richtigem Namen ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Ferkel
+Antwort_2=0	 Butzis
+Antwort_3=0	 Grunzis
+Antwort_4=0	 Babes
+
+[55]
+FZ1=
+FZ2=Welchen "Teil" eines berühmten deutschen
+FZ3=Dichters kann man im Fischladen kaufen ?
+Min=4000
+Max=16000
+Antwort_1=1	 Schillerlocken
+Antwort_2=0	 Goethefilet
+Antwort_3=0	 Lessingsuppe
+Antwort_4=0	 Thomakrebse
+
+[56]
+FZ1=
+FZ2=Was ist Buxtehude ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Stadt in Niedersachsen
+Antwort_2=0	 asiatische Hunderasse
+Antwort_3=0	 italienischer Nudeleintopf
+Antwort_4=0	 Fluss in Südamerika
+
+[57]
+FZ1=
+FZ2=Wer schrieb den Roman "Momo" ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Michael Ende
+Antwort_2=0	 Ellis Kaut
+Antwort_3=0	 Astrid Lindgren
+Antwort_4=0	 Karl May
+
+[58]
+FZ1=
+FZ2=In Deutschland bekommt man 100 Gramm,
+FZ3=in Österreich dafür  ... ?
+Min=4000
+Max=16000
+Antwort_1=1	 10 Deka
+Antwort_2=0	 1 Kilo
+Antwort_3=0	 1 Pfund
+Antwort_4=0	 1Tonne
+
+[59]
+FZ1=
+FZ2=Wie nennt man das männliche Kaninchen ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Rammler
+Antwort_2=0	 Langohr
+Antwort_3=0	 Hasenmann
+Antwort_4=0	 Haserich
+
+[60]
+FZ1=
+FZ2=In was werden Schmetterlinge eingeteilt ?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1	 Tag- und Nachtfalter
+Antwort_2=0	 Mond- und Sonnenfalter
+Antwort_3=0	 Bruder- und Schwesterfalter
+Antwort_4=0	 Erd- und Luftfalter
+
+[61]
+FZ1=
+FZ2=Wie nennt man die geknickte Ecke
+FZ3=einer Buch- oder Heftseite ?
+Min=32000
+Max=125000
+Antwort_1=1	 Eselsohr
+Antwort_2=0	 Pfauenauge
+Antwort_3=0	 Löwenzahn
+Antwort_4=0	Hahnenfuß
+
+[62]
+FZ1=
+FZ2=Womit riecht ein Elefant ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Rüssel
+Antwort_2=0	 Ohren
+Antwort_3=0	 Zehenspitze
+Antwort_4=0	 Zunge
+
+[63]
+FZ1=
+FZ2=Welche Form haben die Bienenwaben ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 sechseckig
+Antwort_2=0	 rund
+Antwort_3=0	 zopfförmig
+Antwort_4=0	 spiralig
+
+[64]
+FZ1=
+FZ2=Was sieht man auf den Schwanzfedern des Pfaus ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Augen
+Antwort_2=0	 Ohren
+Antwort_3=0	 Finger
+Antwort_4=0	Nasen
+
+[65]
+FZ1=
+FZ2=Was befindet sich meistens bei einem
+FZ3=Geländewagen hinter auf der Heckklappe ?
+Min=32000
+Max=125000
+Antwort_1=1	 Ersatzreifen
+Antwort_2=0	 Kühlbox
+Antwort_3=0	 Jagdhorn
+Antwort_4=0	 Abschlepphaken
+
+[66]
+FZ1=
+FZ2=Wie heißt das Ballspiel mit jeweils sechs Spielern,
+FZ3=die den Ball über ein Netz schlagen müssen ?
+Min=32000
+Max=125000
+Antwort_1=1	 Volleyball
+Antwort_2=0	 Handball
+Antwort_3=0	 Faustball
+Antwort_4=0	 Basketball
+
+[67]
+FZ1=
+FZ2=Welches Gerät verwendet man nicht
+FZ3=bei der rhythmischen Sportgymnastik ?
+Min=32000
+Max=125000
+Antwort_1=1	 Schwert
+Antwort_2=0	 Reifen
+Antwort_3=0	 Ball
+Antwort_4=0	 Sprungseil
+
+[68]
+FZ1=
+FZ2=Wodurch erzeugt man bei der Harfe Töne ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 zupfen
+Antwort_2=0	 hauchen
+Antwort_3=0	 treten
+Antwort_4=0	 schlagen
+
+[69]
+FZ1=
+FZ2=Wie nennt man eine Vereinigung von Sängern,
+FZ3=die ein Gesangsstück gemeinsam vortragen ?
+Min=32000
+Max=125000
+Antwort_1=1	 Chor
+Antwort_2=0	 Chaos
+Antwort_3=0	 Team
+Antwort_4=0	 Rudel
+
+[70]
+FZ1=
+FZ2=Nach dem Knappendienst wurden
+FZ3=Knaben zum Ritter ... ?
+Min=32000
+Max=125000
+Antwort_1=1	 geschlagen
+Antwort_2=0	 gestoßen
+Antwort_3=0	 geohrfeigt
+Antwort_4=0	 getreten
+
+[71]
+FZ1=
+FZ2=Wie nannte man ein Reiterkampfspiel im Mittelalter
+FZ3=mit streng festgesetzten Regeln ?
+Min=32000
+Max=125000
+Antwort_1=1	 Turnier
+Antwort_2=0	 Papier
+Antwort_3=0	 Visier
+Antwort_4=0	 Pionier
+
+[72]
+FZ1=
+FZ2=Als was sehen wir kleine Teilchen aus dem Weltraum,
+FZ3=die durch die Erdatmosphäre schießen und verglühen ?
+Min=32000
+Max=125000
+Antwort_1=1	 Sternschnuppen
+Antwort_2=0	 Spritzkerzen
+Antwort_3=0	 Planeten
+Antwort_4=0	 Kometen
+
+[73]
+FZ1=
+FZ2=Welche Form hat die Erde ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Kugel
+Antwort_2=0	 Scheibe
+Antwort_3=0	 Spirale
+Antwort_4=0	 Trompete
+
+[74]
+FZ1=Wie bezeichnet man die Übergangszeit
+FZ2=zwischen völliger Dunkelheit der Nacht und dem
+FZ3=hellen Tageslicht ?
+Min=32000
+Max=125000
+Antwort_1=1	 Dämmerung
+Antwort_2=0	 Abdämmung
+Antwort_3=0	 Aufdämmung
+Antwort_4=0	 Verdammung
+
+[75]
+FZ1=
+FZ2=Was haben wir bei uns, wenn der Mond
+FZ3=völlig von der Sonne beleuchtet wird ?
+Min=32000
+Max=125000
+Antwort_1=1	 Vollmond
+Antwort_2=0	 Halbmond
+Antwort_3=0	 Neumond
+Antwort_4=0	 Ganzmond
+
+[76]
+FZ1=
+FZ2=In welcher Farbe erscheint die Erde vom Mond aus gesehen ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 blau
+Antwort_2=0	 grün
+Antwort_3=0	 rot
+Antwort_4=0	 gelb
+
+[77]
+FZ1=
+FZ2=Europa, Amerika, und Australien sind ... ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Kontinente
+Antwort_2=0	 Berge
+Antwort_3=0	 Länder
+Antwort_4=0	 Höhlen
+
+[78]
+FZ1=
+FZ2=Wie nennt man das Zersprengen von Felsen
+FZ3=durch den Wechsel von Erwärmung und Abkühlung ?
+Min=32000
+Max=125000
+Antwort_1=1	 Verwitterung
+Antwort_2=0	 Verwundung
+Antwort_3=0	 Verwandte
+Antwort_4=0	 Witwe
+
+[79]
+FZ1=
+FZ2=Was ist ein Seitpferd ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Turngerät
+Antwort_2=0	 Pferderasse
+Antwort_3=0	 Transportmittel
+Antwort_4=0	 Hobby
+
+[80]
+FZ1=
+FZ2=Was findet man am Nordpol nicht ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Pinguine
+Antwort_2=0	 Eisbären
+Antwort_3=0	 Schnee
+Antwort_4=0	 Eis
+
+[81]
+FZ1=
+FZ2=Womit riechen Ameisen ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Fühler am Kopf
+Antwort_2=0	 Vorderbeine
+Antwort_3=0	 Nase
+Antwort_4=0	 Flügel
+
+[82]
+FZ1=
+FZ2=Wie nennt man das Verfahren, bei dem vor dem Einfärben
+FZ3=heißes Wachs auf einen Stoff gegossen wird ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Batik
+Antwort_2=0	 Statik
+Antwort_3=0	 Kosmetik
+Antwort_4=0	Kritik
+
+[83]
+FZ1=
+FZ2=Wenn man von Reichtum und Luxus umgeben ist,
+FZ3=dann lebt man sprichwörtlich wie im ... ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Schlaraffenland
+Antwort_2=0	 Niemandland
+Antwort_3=0	 Mailand
+Antwort_4=0	 Abendland
+
+[84]
+FZ1=
+FZ2=Wie wird der Pferdeschwanz noch genannt ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Schweif
+Antwort_2=0	 Rute
+Antwort_3=0	 Lunte
+Antwort_4=0	 Bürzel
+
+[85]
+FZ1=
+FZ2=Wer hat die Abenteuerbücher von den
+FZ3="Fünf Freunden" geschrieben ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Enid Blyton
+Antwort_2=0	 Michael Ende
+Antwort_3=0	 Astrid Lindgren
+Antwort_4=0	 Otfried Preußler
+
+[86]
+FZ1=
+FZ2=Welchen Tag gibt es in einem Schaltjahr zusätzlich ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 29. Februar
+Antwort_2=0	 31. November
+Antwort_3=0	 31. Juni
+Antwort_4=0	 1. April
+
+[87]
+FZ1=
+FZ2=Wie heißt der römische Statthalter der Provinz
+FZ3=Judäa, als Jesus Christus gekreuzigt wurde ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Pontius Pilatus
+Antwort_2=0	 Nero
+Antwort_3=0	 Augustinus
+Antwort_4=0	 Judas
+
+[88]
+FZ1=
+FZ2=Welche Krankheit kann durch einen Zeckenbiss
+FZ3=übertragen werden ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Gehirnhautentzündung
+Antwort_2=0	 Mumps
+Antwort_3=0	 Scharlach
+Antwort_4=0	 Grippe
+
+[89]
+FZ1=
+FZ2=Wie heißt ein Instrument, mit dem
+FZ3=man Strahlung messen kann ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Geigerzähler
+Antwort_2=0	 Trompetenecho
+Antwort_3=0	 Pianistenbox
+Antwort_4=0	 Trommlerkasten
+
+[90]
+FZ1=
+FZ2=Wie viele cm sind 0,75 m ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 75 cm
+Antwort_2=0	 0,075 cm
+Antwort_3=0	 7,5 cm
+Antwort_4=0	 750 cm
+
+[91]
+FZ1=
+FZ2=Wo steht das Kolosseum ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Rom
+Antwort_2=0	  Paris
+Antwort_3=0	 Moskau
+Antwort_4=0	 Wien
+
+[92]
+FZ1=
+FZ2=Wie nennt man das optische Gerät, mit
+FZ3=dem man Sterne beobachten kann ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Teleskop
+Antwort_2=0	 Horoskop
+Antwort_3=0	 Kaleidoskop
+Antwort_4=0	 Mikroskop
+
+[93]
+FZ1=
+FZ2=Was kann man mit einem Pokémon Snap machen ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Pokémon fotografieren
+Antwort_2=0	 Pokémon entwickeln
+Antwort_3=0	 Pokémon abschießen
+Antwort_4=0	 Pokémon tauschen
+
+[94]
+FZ1=
+FZ2=Was bedeutet Power ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Kraft oder Stärke
+Antwort_2=0	 explosives Gemisch
+Antwort_3=0	 Turm
+Antwort_4=0	 Bauer
+
+[95]
+FZ1=
+FZ2=Wie nennt man ein Bild, das aus vielen kleinen
+FZ3=Teilchen zusammengefügt wird ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Mosaik
+Antwort_2=0	 Ikone
+Antwort_3=0	 Leipziger Allerlei
+Antwort_4=0	 Abakus
+
+[96]
+FZ1=
+FZ2=Was versteht man unter einem "UFO" ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 unbekanntes Flugobjekt
+Antwort_2=0	 UNO - Organisation
+Antwort_3=0	 Universitätsinstitut
+Antwort_4=0	 Hunderasse
+
+[97]
+FZ1=
+FZ2=Wie heißt das etwa 200 Gramm schwere Organ
+FZ3=im linken oberen Teil der Bauchhöhle ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Milz
+Antwort_2=0	 Lunge
+Antwort_3=0	 Blinddarm
+Antwort_4=0	 Blase
+
+[98]
+FZ1=
+FZ2=Wie heißt der streitlustige
+FZ3=Fischhändler bei "Asterix" ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Verleihnix
+Antwort_2=0	 Streitnix
+Antwort_3=0	 Miraculix
+Antwort_4=0	 Troubadix
+
+[99]
+FZ1=
+FZ2=Wie nennt man in der Jägersprache den Schwanz des Hasen ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Blume
+Antwort_2=0	 Tulpe
+Antwort_3=0	 Rose
+Antwort_4=0	 Veilchen
+
+[100]
+FZ1=
+FZ2=Wie nennt man die Erklärung
+FZ3=der Zeichen auf Landkarten ?
+Min=250000
+Max=500000
+Antwort_1=1	 Legende
+Antwort_2=0	 Geschichte
+Antwort_3=0	  Märchen
+Antwort_4=0	 Fabel
+
+[101]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+

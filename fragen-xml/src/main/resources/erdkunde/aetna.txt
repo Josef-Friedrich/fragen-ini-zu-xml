@@ -1,0 +1,334 @@
+[Thema]
+Thema=Der Ätna
+Fragen=30
+Autor=Herr Irsch
+
+[1]
+FZ1=
+FZ2=Wie heissen zwei Vulkane in Italien ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Ätna/Vesuv	
+Antwort_2=0Ätna/Himalaya	
+Antwort_3=0Vesuv/Ätania
+Antwort_4=0Vesuv/Himalaya	
+
+[2]
+FZ1=
+FZ2=Auf welcher Insel liegt der Ätna ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Sizilien 	
+Antwort_2=0Mallorca	
+Antwort_3=0Korsika	
+Antwort_4=0Australien
+
+[3]
+FZ1=
+FZ2=Welche Stadt liegt in der Nähe des Ätna ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Catania	
+Antwort_2=0Callamares	
+Antwort_3=0Casa Blanca	
+Antwort_4=0Condor	
+
+[4]
+FZ1=
+FZ2=Wie heisst ein lockeres Vulkangestein ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Bimsstein	
+Antwort_2=0Bamsstein
+Antwort_3=0Glamstein
+Antwort_4=0Framstein
+
+[5]
+FZ1=
+FZ2=Wie nennt man die flüssige Lava vor dem Ausbruch?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Magma	
+Antwort_2=0Maoam	
+Antwort_3=0Teer
+Antwort_4=0Magnus	
+
+[6]
+FZ1=
+FZ2=Wie heisst der Vulkan auf Sizilien ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Ätna	
+Antwort_2=0Ällia
+Antwort_3=0Ätriva	
+Antwort_4=0Ätanus
+
+[7]
+FZ1=
+FZ2=Wie nennt man den Ausstoß eines Vulkans ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Aschewolke	
+Antwort_2=0Filterpapier	
+Antwort_3=0Rußpartikel	
+Antwort_4=0Wolkenstaub	
+
+[8]
+FZ1=
+FZ2=Wie hoch ist die Temperatur der Magma ungefähr ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=11200 Grad Celsius	
+Antwort_2=050 Grad Celsius	
+Antwort_3=0minus 3 Grad	
+Antwort_4=00 Grad	
+
+[9]
+FZ1=
+FZ2=Wie hoch ist der Mt. Ätna ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=13323 Meter	
+Antwort_2=0500 Meter	
+Antwort_3=030 Meter	
+Antwort_4=09000 Meter	
+
+[10]
+FZ1=
+FZ2=Wie oft bricht der Ätna ca. in 100 Jahren aus ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=115 mal	
+Antwort_2=02 mal
+Antwort_3=030 mal	
+Antwort_4=050 mal	
+
+[11]
+FZ1=
+FZ2=Wie breit ist der Hauptkrater des Ätna ? 
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1ca. 600 Meter	
+Antwort_2=0ca. 100 Meter	
+Antwort_3=0ca. 1 Kilometer
+Antwort_4=0ca. 10 Meter	
+
+[12]
+FZ1=
+FZ2=Wodurch ist Sizilien noch bekannt ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Mafia	
+Antwort_2=0Saunaclub	
+Antwort_3=0Kirchenchor	
+Antwort_4=0Zoo	
+
+[13]
+FZ1=
+FZ2=Wofür sind die vulkanischen Böden bekannt?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1gute Nährstoffe	
+Antwort_2=0schöner Rasen	
+Antwort_3=0bunte Gärten	
+Antwort_4=0kräftige Bäume 
+
+[14]
+FZ1=
+FZ2=Wann ist der Ätna zuletzt ausgebrochen (nicht 2002) ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Juli 2001	
+Antwort_2=0August 1996	
+Antwort_3=0Dezember 1899
+Antwort_4=0März 1968
+
+[15]
+FZ1=
+FZ2=Welche Art Vulkan ist der Ätna ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Schichtvulkan	
+Antwort_2=0Schachtvulkan	
+Antwort_3=0Flözvulkan	
+Antwort_4=0Dachvulkan	
+
+[16]
+FZ1=
+FZ2=Welche Art des Anbaus wird am Fuße des Ätna praktiziert ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Obstkulturen	
+Antwort_2=0Pappelplantagen
+Antwort_3=0Baumwollfelder
+Antwort_4=0Weizenfelder
+
+[17]
+FZ1=
+FZ2=Welches Gerät misst Erdplattenbewegungen ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Seismograph	
+Antwort_2=0Graf Dracula	
+Antwort_3=0Seifiograph	
+Antwort_4=0Geograph	
+
+[18]
+FZ1=
+FZ2=Welche Höhe erreichen die Staubwolken des Vulkans?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1ca. 10 km	
+Antwort_2=0ca. 10 m 	
+Antwort_3=0ca. 50 km	
+Antwort_4=0ca. 1000 km	
+
+[19]
+FZ1=
+FZ2=Zu welchem Kontinent gehört Sizilien ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Europa	
+Antwort_2=0Italien	
+Antwort_3=0Südamerika	
+Antwort_4=0Afrika	
+
+[20]
+FZ1=
+FZ2=Wo entstehen hauptsächlich Vulkane ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1An Erdplattenrändern	
+Antwort_2=0An Kontinentenrändern
+Antwort_3=0An Berghängen	
+Antwort_4=0An Seeufern
+
+[21]
+FZ1=
+FZ2=Eine Art Kanal, in dem das Magma im Vulkan aufsteigt!
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Schlot	
+Antwort_2=0Schacht
+Antwort_3=0Schornstein	
+Antwort_4=0Flöz
+
+[22]
+FZ1=
+FZ2=Wie heisst das Magma an der Erdoberfläche ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Lava
+Antwort_2=0Flamat
+Antwort_3=0Magma	
+Antwort_4=0Lavendel
+
+[23]
+FZ1=
+FZ2=Wie heisst die oberste Erdschicht?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Erdkruste
+Antwort_2=0Erdmantel	
+Antwort_3=0Hautkruste	
+Antwort_4=0Erdplatte
+
+[24]
+FZ1=
+FZ2=Wie heissen erloschene Vulkane auch ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Maare	
+Antwort_2=0Moore	
+Antwort_3=0Nore	
+Antwort_4=0Moose	
+
+[25]
+FZ1=
+FZ2=Der Ätna ist der größte Vulkan..
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Europas	
+Antwort_2=0der Erde
+Antwort_3=0Afrikas	
+Antwort_4=0Grönlands	
+
+[26]
+FZ1=
+FZ2=Wie viele aktive Vulkane gibt es in Deutschland ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1keinen	
+Antwort_2=0einen
+Antwort_3=0zwei
+Antwort_4=0drei	
+
+[27]
+FZ1=
+FZ2=In welchem Teil Siziliens liegt der Ätna ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Osten	
+Antwort_2=0Westen	
+Antwort_3=0Norden	
+Antwort_4=0Süden
+
+[28]
+FZ1=
+FZ2=Wieviele Hauptkrater besitzt der Ätna ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1vier
+Antwort_2=0sieben	
+Antwort_3=0zehn	
+Antwort_4=0zwölf
+
+[29]
+FZ1=
+FZ2=Wodurch kommt es zum explosionsartigen Ausbruch des Vulkans ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1hoher Gasdruck	
+Antwort_2=0hohe Gasrechnung
+Antwort_3=0Knopfdruck
+Antwort_4=0Drucksache
+
+[30]
+FZ1=
+FZ2=Wie alt ist der Ätna ungefähr ?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1ca. 500000 Jahre	
+Antwort_2=0ca. 1 Mio. Jahre	
+Antwort_3=0ca. 5 Mio. Jahre
+Antwort_4=0ca. 100 Jahre

@@ -1,0 +1,1139 @@
+[Thema]
+Thema=Max von der Grün: Vorstadtkrokodile
+Fragen=103
+Autor=Andrea Hegemann
+
+[1]
+FZ1=
+FZ2=Warum ist Kurt querschnittsgelähmt?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Er ist eine Treppe hinuntergefallen.	
+Antwort_2=0Er hat einen Geburtsfehler.	
+Antwort_3=0Er hatte einen Autounfall.	
+Antwort_4=0Er hat sich im Sportunterricht verletzt.	
+
+[2]
+FZ1=
+FZ2=Wer gehört nicht zu den Krokodilern?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Michael	
+Antwort_2=0Peter	
+Antwort_3=0Olaf	
+Antwort_4=0Frank	
+
+[3]
+FZ1=
+FZ2=Was schreit Hannes auf dem Dach der Ziegelei?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=0Ich bin jetzt Mitglied!	
+Antwort_2=1Krokodil! Kokodil! Ich hab es geschafft!	
+Antwort_3=0Juhu! Ich bin jetzt ein Vorstadtkrokodil!	
+Antwort_4=0Ich bin der König der Welt!	
+
+[4]
+FZ1=Wer ist Kurt?
+FZ2=
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Ein Rollstuhlfahrer	
+Antwort_2=0Ein Rennfahrer	
+Antwort_3=0Ein Einbrecher	
+Antwort_4=0Ein Invalide	
+
+[5]
+FZ1=
+FZ2=Welche Rolle, die im Videofilm vorkommt, gibt es im Buch nicht?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Erich	
+Antwort_2=0Frank	
+Antwort_3=0Maria	
+Antwort_4=0Hannes	
+
+[6]
+FZ1=
+FZ2=Wer sind die Einbrecher?
+FZ3=
+Min=100
+Max=300
+Antwort_1=1Egon und seine Freunde	
+Antwort_2=0Der Förster	
+Antwort_3=0Frank und Rudolf	
+Antwort_4=0Die italienischen Kinder	
+
+[7]
+FZ1=
+FZ2=Wessen Spitzname ist Milchstraße?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Hannes	
+Antwort_2=0Maria	
+Antwort_3=0Olaf	
+Antwort_4=0Frank	
+
+[8]
+FZ1=
+FZ2=Warum ist Hannes Spitzname Milchstraße?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Weil er viele Sommersprossen hat	
+Antwort_2=0Weil er gerne Milch trinkt	
+Antwort_3=0Weil er sich für Sterne interessiert	
+Antwort_4=0Weil er so blass ist	
+
+[9]
+FZ1=
+FZ2=Wo traf Kurt Egon mit dem Pfeil?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Im Oberschenkel	
+Antwort_2=0Im Bauch	
+Antwort_3=0Am Arm	
+Antwort_4=0In den Fuß	
+
+[10]
+FZ1=
+FZ2=Welche Haarfarbe hat die Schwester von Theo im Videofilm?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1rot	
+Antwort_2=0blond	
+Antwort_3=0sie hat noch keine Haare	
+Antwort_4=0braun	
+
+[11]
+FZ1=
+FZ2=Wie heißt Franks Bruder?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Egon	
+Antwort_2=0Erich	
+Antwort_3=0Ernst	
+Antwort_4=0Engelbert	
+
+[12]
+FZ1=
+FZ2=
+FZ3=Was soll Hannes für seine Mutter im COOP einkaufen?
+Min=32000
+Max=250000
+Antwort_1=1Margarine und Obst	
+Antwort_2=0Butter und Marmelade	
+Antwort_3=0Wurst und Gemüse	
+Antwort_4=0Spagetti und Brot	
+
+[13]
+FZ1=
+FZ2=Was malte Kurt bei Hannes erstem Besuch?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1eine Landschaft	
+Antwort_2=0ein Kaninchen	
+Antwort_3=0ein Auto	
+Antwort_4=0das gewünschte Spezialfahrrad	
+
+[14]
+FZ1=
+FZ2=Wo hatten die Krokodiler ihre erste Hütte?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1in der kleinen Schweiz	
+Antwort_2=0auf dem Schulhof	
+Antwort_3=0bei Mc Donalds	
+Antwort_4=0in der alten Ziegelei	
+
+[15]
+FZ1=
+FZ2=Wie heißt der Autor des Buches?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Max von der Grün	
+Antwort_2=0Max von Grün	
+Antwort_3=0Max Grün	
+Antwort_4=0Grüner Max	
+
+[16]
+FZ1=
+FZ2=Wer beobachtet die Einbrecher als erster?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Kurt	
+Antwort_2=0Olaf	
+Antwort_3=0Hannes	
+Antwort_4=0Frank	
+
+[17]
+FZ1=
+FZ2=Wem widmete Max von der Grün sein Buch?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1seinem Sohn	
+Antwort_2=0seiner Mutter	
+Antwort_3=0seiner Frau	
+Antwort_4=0seiner Tochter	
+
+[18]
+FZ1=
+FZ2=Was ist der Sohn von Max von der Grün?
+FZ3=
+Min=100
+Max=2000
+Antwort_1=1gehbehindert	
+Antwort_2=0übergewichtig	
+Antwort_3=0blind	
+Antwort_4=0er hat keine Behinderung	
+
+[19]
+FZ1=
+FZ2=Wie heißt der Sohn von Max von der Grün?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Frank	
+Antwort_2=0Kurt	
+Antwort_3=0Olaf	
+Antwort_4=0Peter	
+
+[20]
+FZ1=
+FZ2=Olafs Schwester heißt ... ?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Maria	
+Antwort_2=0Marita	
+Antwort_3=0Marie	
+Antwort_4=0Marina	
+
+[21]
+FZ1=
+FZ2=In welcher Stadt leben die Krokodiler?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Dortmund	
+Antwort_2=0Essen	
+Antwort_3=0Bochum	
+Antwort_4=0Duisburg	
+
+[22]
+FZ1=
+FZ2=Wer schlug die Hütte auf der Ziegelei im Videofilm kaputt?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Frank	
+Antwort_2=0Hannes	
+Antwort_3=0Olaf	
+Antwort_4=0Maria	
+
+[23]
+FZ1=
+FZ2=Wie heißt einer der Einbrecher?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Karli	
+Antwort_2=0Karlo	
+Antwort_3=0Kalle	
+Antwort_4=0Carsten	
+
+[24]
+FZ1=
+FZ2=Mit welchem Fahrzeug transportierten die Einbrecher das Diebesgut?
+FZ3=
+Min=4000
+Max=8000
+Antwort_1=1VW-Kastenwagen	
+Antwort_2=0Ford Transit	
+Antwort_3=0VW-Transporter	
+Antwort_4=0VW-Käfer	
+
+[25]
+FZ1=Wie heißt das jüngste Mitglied der Krokodiler?
+FZ2=
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Hannes	
+Antwort_2=0Maria	
+Antwort_3=0Olaf	
+Antwort_4=0Theo	
+
+[26]
+FZ1=
+FZ2=Welches Kennzeichen trägt Egons Moped? (S. 86)
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1110 GBB	
+Antwort_2=0450 EGO	
+Antwort_3=0300 CDG	
+Antwort_4=0100 NKI	
+
+[27]
+FZ1=
+FZ2=Wie heißt das Kaninchen von Hannes?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Hannibal	
+Antwort_2=0Möhre	
+Antwort_3=0Chili	
+Antwort_4=0Mausi	
+
+[28]
+FZ1=
+FZ2=Wer rief im Videofilm die Feuerwehr an?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1Kurt	
+Antwort_2=0Olaf	
+Antwort_3=0Maria	
+Antwort_4=0Frank	
+
+[29]
+FZ1=
+FZ2=Mit welchem Auto wird Kurt morgens immer abgeholt?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1mit einem weiß-blauen Ford Transit	
+Antwort_2=0mit einem grün-weißen Mercedes	
+Antwort_3=0mit einem roten VW-Bus	
+Antwort_4=0mit einer Schubkarre	
+
+[30]
+FZ1=
+FZ2=Wer hat das Reh im Wald gefunden?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1die Krokodiler	
+Antwort_2=0die Eltern von Kurt	
+Antwort_3=0der Förster	
+Antwort_4=0die Invaliden	
+
+[31]
+FZ1=
+FZ2=Wo arbeitet Kurts Vater?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1bei der Müllabfuhr	
+Antwort_2=0bei Aldi an der Kasse	
+Antwort_3=0bei der Polizei	
+Antwort_4=0im Krankenhaus	
+
+[32]
+FZ1=
+FZ2=Wieviele Mädchen gehören zu den Vorstadtkrokodilen?
+FZ3=
+Min=0
+Max=300
+Antwort_1=1eins	
+Antwort_2=0drei	
+Antwort_3=0zwei	
+Antwort_4=0keins	
+
+[33]
+FZ1=
+FZ2=Was ist das Besondere an Kurt im Film?
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1Kurts Rolle wurde von einem Mädchen	gespielt.	
+Antwort_2=0Kurts Eltern lebten nicht mehr.	
+Antwort_3=0Kurt war blind, nicht gelähmt.	
+Antwort_4=0Kurt war 2 Jahre älter als im Buch.	
+
+[34]
+FZ1=
+FZ2=Wessen Spitzname ist Affe?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Frank	
+Antwort_2=0Rudolf	
+Antwort_3=0Peter	
+Antwort_4=0Theo	
+
+[35]
+FZ1=
+FZ2=Wer rief im Buch die Feuerwehr, als Hannes am Dach hing?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Maria	
+Antwort_2=0Hannes Mutter	
+Antwort_3=0Olaf	
+Antwort_4=0Kurt	
+
+[36]
+FZ1=
+FZ2=Was für Fahrzeuge fuhren die Einbrecher?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1Mopeds	
+Antwort_2=0Fahrräder	
+Antwort_3=0Autos	
+Antwort_4=0LKWs	
+
+[37]
+FZ1=
+FZ2=Wer hat immer ein Taschenmesser an der Hose hängen? (S. 94)
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Rudolf	
+Antwort_2=0Peter	
+Antwort_3=0Olaf	
+Antwort_4=0Otto	
+
+[38]
+FZ1=
+FZ2=Welche Fellfarbe hat Hannes Kaninchen?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1silbergrau	
+Antwort_2=0schwarz	
+Antwort_3=0weiß	
+Antwort_4=0lila pink getupft	
+
+[39]
+FZ1=
+FZ2=Wie hoch ist die Belohnung für Hinweise auf die Einbrecher?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=11500 DM	
+Antwort_2=03000 DM	
+Antwort_3=01000 DM	
+Antwort_4=0500 DM	
+
+[40]
+FZ1=
+FZ2=Was haben die Krokodiler für die Ferienzeit bekommen?
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1mehr Taschengeld	
+Antwort_2=0einen eigenen Swimming-Pool	
+Antwort_3=0ein Fahrrad für Kurt	
+Antwort_4=0eine neue Hütte im Wald	
+
+[41]
+FZ1=
+FZ2=Welche Farbe hat Egons Moped?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1rot	
+Antwort_2=0gelb	
+Antwort_3=0grün	
+Antwort_4=0blau	
+
+[42]
+FZ1=
+FZ2=Wo wurden Kurts Bilder ausgestellt?
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=1in der Schule	
+Antwort_2=0im Museum	
+Antwort_3=0in seinem Zimmer	
+Antwort_4=0im Kindergarten	
+
+[43]
+FZ1=
+FZ2=Was fährt Karlis Vater, der Autobahnpolizist, für ein Auto? (S. 120)
+FZ3=
+Min=16000
+Max=64000
+Antwort_1=1einen Porsche	
+Antwort_2=0einen Mercedes Benz	
+Antwort_3=0einen BMW	
+Antwort_4=0einen Ferrari	
+
+[44]
+FZ1=
+FZ2=Wie viele Tage vor Kurts Gespräch mit Hannes hat er die Einbrecher beobachtet?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1vor vierzehn Tagen	
+Antwort_2=0vor zehn Tagen	
+Antwort_3=0vor zwei Tagen	
+Antwort_4=0vor 5 Tagen	
+
+[45]
+FZ1=
+FZ2=Wer macht den Vorschlag, die neue Hütte auf dem Ziegeleigelände zu bauen?
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Peter	
+Antwort_2=0Kurt	
+Antwort_3=0Hannes	
+Antwort_4=0Maria	
+
+[46]
+FZ1=
+FZ2=Wie viele Mitglieder hat die Krokodilerbande am Anfang des Buches?
+FZ3=
+Min=0
+Max=500
+Antwort_1=19	
+Antwort_2=010	
+Antwort_3=08	
+Antwort_4=011	
+
+[47]
+FZ1=
+FZ2=Welche Haarfarbe hat Peter?
+FZ3=
+Min=200
+Max=200
+Antwort_1=1schwarz	
+Antwort_2=0grau	
+Antwort_3=0blond	
+Antwort_4=0braun	
+
+[48]
+FZ1=
+FZ2=Wo schreit Hannes "Krokodil!"?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1auf dem First des Ziegeleidaches	
+Antwort_2=0am Badeteich	
+Antwort_3=0auf dem Klo	
+Antwort_4=0in der kleinen Schweiz	
+
+[49]
+FZ1=
+FZ2=Warum mochte Kurt Egon?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1Egon reparierte Kurts Rollstuhl.	
+Antwort_2=0Egon ist Kurts Bruder.	
+Antwort_3=0Egon ist der coolste Junge der Stadt.	
+Antwort_4=0Egon verschenkt jeden Tag	Süßigkeiten.	
+
+[50]
+FZ1=
+FZ2=Welchen Spitznamen gibt es in der Krokodilbande nicht?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1Schlange	
+Antwort_2=0Kaninchen	
+Antwort_3=0Affe	
+Antwort_4=0Milchstraße	
+
+[51]
+FZ1=
+FZ2=Wer bohrt immer in der Nase?
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Peter	
+Antwort_2=0Maria	
+Antwort_3=0Theo	
+Antwort_4=0Olaf	
+
+[52]
+FZ1=
+FZ2=Was wird auf dem Gelände der Ziegelei neu gebaut?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1einen Großmarkt	
+Antwort_2=0eine Mülldeponie	
+Antwort_3=0eine Schule	
+Antwort_4=0ein Krankenhaus	
+
+[53]
+FZ1=
+FZ2=Was steht auf dem Schild, das die Krokodiler am Minigolfplatz aufhängen?
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Betreten des Minigolfplatzes ist nur	geistig und körperlich normalen	Menschen erlaubt.	
+Antwort_2=0Privateigentum! Betreten verboten.	
+Antwort_3=0Geschlossen wegen Krankheit!	
+Antwort_4=0Dampft ab!	
+
+[54]
+FZ1=
+FZ2=Wie viele Räder hat das Spezialfahrrad für Kurt?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1drei	
+Antwort_2=0vier	
+Antwort_3=0zwei	
+Antwort_4=0eins	
+
+[55]
+FZ1=
+FZ2=Was verliert der kleine Italienerjunge, als er vor Frank wegläuft?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1seine Schuhe	
+Antwort_2=0eine Kette	
+Antwort_3=0seine Socken	
+Antwort_4=0seine Hose	
+
+[56]
+FZ1=
+FZ2=Welcher Verein ist auf dem Waldfest nicht dabei?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1Fußballverein	
+Antwort_2=0Schützenverein	
+Antwort_3=0Kegelverein	
+Antwort_4=0Turnverein	
+
+[57]
+FZ1=
+FZ2=Wer hilft den Krokodilern beim Bau der neuen Hütte im Wald?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1die Invaliden	
+Antwort_2=0Egon und seine Freunde	
+Antwort_3=0Förster	
+Antwort_4=0alle Eltern	
+
+[58]
+FZ1=
+FZ2=Was verkauft Egons Vater, um die Gerichtsverhandlung bezahlen zu können?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Egons Moped	
+Antwort_2=0das Haus	
+Antwort_3=0Egons Stereoanlage	
+Antwort_4=0nichts	
+
+[59]
+FZ1=
+FZ2=Wer kann von allen Krokodilern am besten mit Kurts Rollstuhl umgehen? (S.153)
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Frank	
+Antwort_2=0Maria	
+Antwort_3=0Hannes	
+Antwort_4=0Olaf	
+
+[60]
+FZ1=
+FZ2=Weswegen berufen die Krokodiler am Ende des Buches eine Versammlung ein?
+FZ3=(S. 153)
+Min=500
+Max=2000
+Antwort_1=1wegen der Belohnung	
+Antwort_2=0wegen einer Racheaktion an Egon	
+Antwort_3=0wegen der neuen Hütte	
+Antwort_4=0wegen der Aufnahme von Invaliden in	die Bande	
+
+[61]
+FZ1=
+FZ2=Wann wird die Ziegelei abgerissen? (S. 150)
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1am vorletzten Ferientag	
+Antwort_2=0in der ersten Ferienwoche	
+Antwort_3=0am dritten Ferientag	
+Antwort_4=0in der ersten Woche nach den Ferien	
+
+[62]
+FZ1=
+FZ2=Weswegen hätte die Polizei auch ohne die Aussage der Krokodiler Egon und seine
+FZ3=Bande verhaften können? (S. 150)
+Min=2000
+Max=8000
+Antwort_1=1weil sie Fingerabdrücke hinterlassen	haben	
+Antwort_2=0weil sie freiwillig ein Geständnis	abgelegt haben	
+Antwort_3=0weil sie mit einer Videokamera gefilmt	wurden	
+Antwort_4=0weil sie von der Polizei auf frischer Tat	erwischt wurden	
+
+[63]
+FZ1=
+FZ2=Weswegen nannten die Krokodiler nicht die Namen der Einbrecher? (S. 150)
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1weil Frank ihr Freund ist	
+Antwort_2=0weil sie von Egon bedroht wurden	
+Antwort_3=0weil sie sie nicht wussten	
+Antwort_4=0weil sie sie vergessen hatten	
+
+[64]
+FZ1=
+FZ2=In welcher Straße liegt die Polizeiwache? (S. 142)
+FZ3=
+Min=64000
+Max=250000
+Antwort_1=1in der Wilhelmstraße	
+Antwort_2=0in der Hofmannsegge	
+Antwort_3=0in der Silberstraße	
+Antwort_4=0in der Ruthstraße	
+
+[65]
+FZ1=
+FZ2=Welchen Spitznamen gibt Kurt
+FZ3=Egon bei ihrem Zusammentreffen vor dem Minigolfplatz? (S.147)
+Min=1000
+Max=4000
+Antwort_1=1Vorstadtdieb	
+Antwort_2=0Spatzenhirn	
+Antwort_3=0Diebeskönig	
+Antwort_4=0King of Einbrecher	
+
+[66]
+FZ1=
+FZ2=
+FZ3=Wie lautet eine ältere Bezeichnung für Streifenwagen, die im Buch vorkommt?
+Min=8000
+Max=32000
+Antwort_1=1Peterwagen	
+Antwort_2=0Frankwagen	
+Antwort_3=0Olafwagen	
+Antwort_4=0Kurtwagen	
+
+[67]
+FZ1=
+FZ2=Was fehlt an der Polizeistation?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1eine Auffahrrampe	
+Antwort_2=0eine Schreibmaschine	
+Antwort_3=0ein Schild	
+Antwort_4=0eine Telefonanlage	
+
+[68]
+FZ1=
+FZ2=In welcher Siedlung wohnen die Krokodiler?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1in der Papageiensiedlung	
+Antwort_2=0in der Amselsiedlung	
+Antwort_3=0in der Kanariensiedlung	
+Antwort_4=0in der Schwanensiedlung	
+
+[69]
+FZ1=
+FZ2=Wie viele italienische Kinder wurden mit dem Diebesgut von Egons Bande erwischt?
+FZ3=(S. 134)
+Min=1000
+Max=4000
+Antwort_1=16	
+Antwort_2=02	
+Antwort_3=05	
+Antwort_4=012	
+
+[70]
+FZ1=
+FZ2=Wo in der Ziegelei bauen die Krokodiler ihre Hütte?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1in der Trockenhalle	
+Antwort_2=0in der Buchhaltung	
+Antwort_3=0auf dem Parkplatz	
+Antwort_4=0in der Brennhalle	
+
+[71]
+FZ1=
+FZ2=Wo wohnt Kurt?
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1in der Silberstraße	
+Antwort_2=0in der Hauptstraße	
+Antwort_3=0in der Gudrunstraße	
+Antwort_4=0im Waldweg	
+
+[72]
+FZ1=
+FZ2=Worus sind die Spitzen an Kurts Pfeilen? (S. 127)
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1aus Eisen	
+Antwort_2=0aus Plastik	
+Antwort_3=0aus Holz	
+Antwort_4=0aus Schaumgummi	
+
+[73]
+FZ1=
+FZ2=Was macht Willi, wenn er nervös ist?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Er kaut an den Fingernägeln.	
+Antwort_2=0Er zwirbelt seine Haare.	
+Antwort_3=0Er bohrt in der Nase.	
+Antwort_4=0Er lutscht am Daumen.	
+
+[74]
+FZ1=
+FZ2=Welches andere Wort für Fernglas wird im Buch verwendet?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1Feldstecher	
+Antwort_2=0Felddolcher	
+Antwort_3=0Feldpiekser	
+Antwort_4=0Feldspießer	
+
+[75]
+FZ1=
+FZ2=Welches Schimpfwort wird im Buch für "Italiener" benutzt?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Makkaronifresser	
+Antwort_2=0Gelatomampfer	
+Antwort_3=0Tiramisulutscher	
+Antwort_4=0Spagettischlürfer	
+
+[76]
+FZ1=
+FZ2=Wie viele Treffer erzielt Maria beim Bogenschießen? (S. 119)
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1keinen	
+Antwort_2=0drei	
+Antwort_3=0einen	
+Antwort_4=0fünf	
+
+[77]
+FZ1=Was hat Kurt in einer Seitentasche an seinem Rollstuhl? (S. 116)
+FZ2=
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1eine Werkzeugtasche	
+Antwort_2=0Süßigkeiten	
+Antwort_3=0Taschentücher	
+Antwort_4=0ein Handy	
+
+[78]
+FZ1=Was für ein Fahrrad fährt Otto? (S. 110)
+FZ2=
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1ein französisches Zehngangfahrrad	
+Antwort_2=0ein holländisches Dreigangfahrrad	
+Antwort_3=0ein deutsches 21-Gang Fahrrad	
+Antwort_4=0ein Fahrrad mit Hilfsmotor	
+
+[79]
+FZ1=
+FZ2=Welches Gebäude wird zuerst auf der Ziegelei gesprengt?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1der Kamin	
+Antwort_2=0das Verwaltungsgebäude	
+Antwort_3=0die Trockenhalle	
+Antwort_4=0das Toilettenhäuschen	
+
+[80]
+FZ1=Wo arbeitet Karlis Vater? (S. 106)
+FZ2=
+FZ3=
+Min=4000
+Max=16000
+Antwort_1=1bei der Autobahnpolizei	
+Antwort_2=0bei der Kriminalpolizei	
+Antwort_3=0beim Sittendezernat	
+Antwort_4=0bei der Hundestaffel der Polizei	
+
+[81]
+FZ1=Warum bekommt Kurt von seinen Eltern Pfeil und Bogen geschenkt?
+FZ2=
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1zur Stärkung der Muskeln	
+Antwort_2=0als Schauspieler in einem Indianerfilm	
+Antwort_3=0zur Selbstverteidigung	
+Antwort_4=0als Ersatz für seine kaputte Armbrust	
+
+[82]
+FZ1=
+FZ2=Was zerstört Kurt angeblich auf dem Minigolfpaltz mit seinem Rollstuhl?
+FZ3=
+Min=100
+Max=500
+Antwort_1=1den Rasen	
+Antwort_2=0die Golfbahnen	
+Antwort_3=0die Blumenbeete	
+Antwort_4=0die Gehwege	
+
+[83]
+FZ1=
+FZ2=Wessen Väter sind arbeitslos?
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Theos und Willis	
+Antwort_2=0Hannes und Kurts	
+Antwort_3=0Marias und Franks	
+Antwort_4=0Peters und Ottos	
+
+[84]
+FZ1=
+FZ2=Welchen Trick machen die Krokodiler nicht mit ihren Fahrrädern? (S. 89)
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1auf einem Rad fahren	
+Antwort_2=0Kopfstand auf dem Sattel	
+Antwort_3=0verkehrt herum fahren mit Spiegel	
+Antwort_4=0freihändig fahren	
+
+[85]
+FZ1=
+FZ2=Wie viele grüne Mopeds gibt es in der Papgeiensiedlung? (S. 86)
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1dreizehn	
+Antwort_2=0fünfzehn	
+Antwort_3=0acht	
+Antwort_4=0zehn	
+
+[86]
+FZ1=
+FZ2=Warum trägt Kurt immer eine Decke über den Beinen?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1wegen der schlechten Blutzirkulation in	seinen Beinen	
+Antwort_2=0weil er Decken schick findet	
+Antwort_3=0weil die Geschichte im Winter spielt	
+Antwort_4=0weil alle Behinderten immer frieren	
+
+[87]
+FZ1=
+FZ2=Welchen Beruf erlernt Egon? (S. 82)
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Mechaniker	
+Antwort_2=0Schlosser	
+Antwort_3=0Schreiner	
+Antwort_4=0Zahnarzt	
+
+[88]
+FZ1=
+FZ2=Wann beginnen die Ferien im Buch? (S. 77)
+FZ3=
+Min=16000
+Max=500000
+Antwort_1=1am 18. Juli	
+Antwort_2=0am 1. Juli	
+Antwort_3=0am 23. Juni	
+Antwort_4=0am 30. Juni	
+
+[89]
+FZ1=
+FZ2=Was haben die Einbrecher nicht gestohlen?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Autos	
+Antwort_2=0Schnaps	
+Antwort_3=0Fernseher	
+Antwort_4=0Fahrräder	
+
+[90]
+FZ1=
+FZ2=Wo befindet sich das Warenlager der Einbrecher?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1im alten Bürogebäude der Ziegelei	
+Antwort_2=0im Kamin der Ziegelei	
+Antwort_3=0in der Trockenhalle der Ziegelei	
+Antwort_4=0im Keller des COOP	
+
+[91]
+FZ1=
+FZ2=Wer bemerkte zuerst Kurts Verschwinden in der alten Ziegelei?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Maria	
+Antwort_2=0Olaf	
+Antwort_3=0Hannes	
+Antwort_4=0Theos Schwester	
+
+[92]
+FZ1=
+FZ2=Wer wurde der Diebstähle zuerst verdächtigt?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1die Türken und Italiener	
+Antwort_2=0die Briten und die Amerikaner	
+Antwort_3=0die Spanier und die Portugiesen	
+Antwort_4=0die Griechen und die Inder	
+
+[93]
+FZ1=
+FZ2=Was ist das Besondere an Kurts Tankstelle für Spielzeugautos?
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Es ist richtiges Wasser in der	Waschanlage.	
+Antwort_2=0Aus dem Kassenhäuschen kommt ein	Tankwart.	
+Antwort_3=0Es gibt richtiges Benzin an den	Zapfsäulen.	
+Antwort_4=0Sie ist ungefähr 2 m groß.	
+
+[94]
+FZ1=
+FZ2=Welchen Beruf übt Hannes Vater aus?
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Schleifer	
+Antwort_2=0Postbote	
+Antwort_3=0Tischler	
+Antwort_4=0Automechaniker	
+
+[95]
+FZ1=
+FZ2=Woran ist Hannes Mutter operiert worden?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1an den Krampfadern	
+Antwort_2=0am Auge	
+Antwort_3=0an einem Armbruch	
+Antwort_4=0an der Niere	
+
+[96]
+FZ1=
+FZ2=Was ist Franks Vater von Beruf?
+FZ3=
+Min=2000
+Max=8000
+Antwort_1=1Vorarbeiter in der Fabrik	
+Antwort_2=0Bürgermeister	
+Antwort_3=0Arzt	
+Antwort_4=0Bankangestellter	
+
+[97]
+FZ1=
+FZ2=Wieviele Preise hat Willi schon bei den Stadtmeisterschaften im Schwimmen
+FZ3=gewonnen?
+Min=200
+Max=500
+Antwort_1=1drei	
+Antwort_2=0einen	
+Antwort_3=0zwei	
+Antwort_4=0vier	
+
+[98]
+FZ1=
+FZ2=Wer fährt immer seine Schwester spazieren?
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Theo	
+Antwort_2=0Peter	
+Antwort_3=0Hannes	
+Antwort_4=0Otto	
+
+[99]
+FZ1=
+FZ2=Welche Haare hat Willi?
+FZ3=
+Min=300
+Max=1000
+Antwort_1=1lange blonde	
+Antwort_2=0lange braune	
+Antwort_3=0kurze blonde	
+Antwort_4=0kurze rote	
+
+[100]
+FZ1=Wo dürfen die Krokodiler spielen?
+FZ2=
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1im Wald	
+Antwort_2=0in den Vor- und Hintergärten	
+Antwort_3=0auf der Straße	
+Antwort_4=0im Einkaufszentrum	
+
+[101]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[102]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+[103]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1
+Antwort_2=0
+Antwort_3=0
+Antwort_4=0
+
+

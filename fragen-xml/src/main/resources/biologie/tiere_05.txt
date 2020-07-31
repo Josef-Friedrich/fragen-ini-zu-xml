@@ -1,0 +1,444 @@
+[Thema]
+Thema       = Tierquiz 5
+Fragen      = 40
+Autor       = Manfred Hartisch  5/2001
+
+[1]
+FZ1         = 
+FZ2         =  Der Tiger hat ...
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 1 Streifen
+Antwort_2   = 0 Punkte 
+Antwort_3   = 0 Flecke
+Antwort_4   = 0 Dreiecke 
+
+[2]
+FZ1         =  
+FZ2         =  Der Pinguin ist ein ...
+FZ3         =  
+Min         = 0
+Max         = 500
+Antwort_1   = 0 Fisch
+Antwort_2   = 1 Vogel
+Antwort_3   = 0 Reptil
+Antwort_4   = 0 Säugetier
+
+[3]
+FZ1         = 
+FZ2         =  Wie lange dauert es, bis sich der Maikäfer
+FZ3         =  vom Ei zum fertigen Käfer entwickelt hat ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 4 Monate
+Antwort_2   = 1 4 Jahre
+Antwort_3   = 0 4 Wochen
+Antwort_4   = 0 4 Tage
+
+[4]
+FZ1         = 
+FZ2         =  Ein Blauwal wiegt ungefähr so viel wie ...
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 150 Menschen
+Antwort_2   = 0 15 Menschen
+Antwort_3   = 1 1500 Menschen
+Antwort_4   = 0 6700 Menschen
+
+[5]
+FZ1         = 
+FZ2         =  Die Zunge des Blauwals wiegt ...
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 1 Tonne
+Antwort_2   = 1 3 Tonnen
+Antwort_3   = 0 2 Tonnen
+Antwort_4   = 0 5 Tonnen
+
+[6]
+FZ1         = 
+FZ2         =  Wie heißt der größte Menschenaffe ?
+FZ3         = 
+Min         = 200
+Max         = 4000
+Antwort_1   = 0 Schimpanse
+Antwort_2   = 0 Pavian
+Antwort_3   = 0 King - Kong
+Antwort_4   = 1 Gorilla
+
+[7]
+FZ1         = 
+FZ2         =  Wie viele Raupen frisst eine junge Kohlmeise 
+FZ3         =  an einem Tag ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 ca. 10
+Antwort_2   = 0 ca. 50
+Antwort_3   = 1 ca. 130
+Antwort_4   = 0 ca. 1000 
+
+[8]
+FZ1         = 
+FZ2         =  Wer wird auch "Zimmermannn des Waldes" genannt ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 die Ameise
+Antwort_2   = 0 der Waldkauz
+Antwort_3   = 1 der Specht
+Antwort_4   = 0 das Wildschwein
+
+[9]
+FZ1         = 
+FZ2         =  Wie tötet der Zitteraal seine Beute ? 
+FZ3         =  
+Min         = 32000
+Max         = 125000
+Antwort_1   = 0 mit Gift
+Antwort_2   = 0 Er erwürgt sie.
+Antwort_3   = 0 mit Tinte
+Antwort_4   = 1 mit Stromschlägen
+
+[10]
+FZ1         = 
+FZ2         =  Wie heißen die Männchen und die Weibchen
+FZ3         =  bei den Murmeltieren ?
+Min         = 200
+Max         = 32000
+Antwort_1   = 0 Wolf und Fuchs
+Antwort_2   = 1 Bär und Katze
+Antwort_3   = 0 Hamster und Wiesel
+Antwort_4   = 0 Marder und Dachs
+
+[11]
+FZ1         =  
+FZ2         = Wie heißt die größte heimische Wespenart ? 
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 Hummel
+Antwort_2   = 0 Brummel
+Antwort_3   = 0 Biene
+Antwort_4   = 1 Hornisse
+
+[12]
+FZ1         = 
+FZ2         =  Wie alt können Reiher werden ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ca. 4 Jahre
+Antwort_2   = 1 ca. 25 Jahre
+Antwort_3   = 0 ca. 10 Jahre
+Antwort_4   = 0 ca. 50 Jahre
+
+[13]
+FZ1         = 
+FZ2         = Was ist ein "Granatauge" ? 
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 ein Schmetterling
+Antwort_2   = 0 ein Fisch
+Antwort_3   = 0 eine Schwalbe
+Antwort_4   = 1 eine Libelle
+
+[14]
+FZ1         = 
+FZ2         = Was ist eine "Feuerjungfer" ?
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 eine Libelle
+Antwort_2   = 0 eine junge Giftschlange
+Antwort_3   = 0 ein weiblicher Feuersalamander
+Antwort_4   = 0 eine rote Tiefseequalle
+
+[15]
+FZ1         = 
+FZ2         = Was ist ein "Blaupfeil" ? 
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 eine Libelle
+Antwort_2   = 0 ein blauer Vogel
+Antwort_3   = 0 ein blauer Fisch
+Antwort_4   = 0 ein Käfer
+
+[16]
+FZ1         =  
+FZ2         =  Wie alt kann eine Riesenschildkröte werden ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 ca. 200 Jahre
+Antwort_2   = 0 ca. 100 Jahre
+Antwort_3   = 0 ca. 50 Jahre
+Antwort_4   = 0 ca. 25 Jahre
+
+[17]
+FZ1         = 
+FZ2         = Wie tötet der Falke seine Beute ? 
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 mit seinen scharfen Krallen
+Antwort_2   = 0 mit Giftstacheln
+Antwort_3   = 1 mit seinem scharfen Schnabel
+Antwort_4   = 0 Er erwürgt seine Beute.
+
+[18]
+FZ1         = 
+FZ2         =  Welches Tier schreit "I - a" ?
+FZ3         = 
+Min         = 0
+Max         = 500
+Antwort_1   = 0 der Brüllaffe
+Antwort_2   = 0 das Kamel
+Antwort_3   = 0 die Ziege
+Antwort_4   = 1 der Esel
+                
+[19]
+FZ1         = 
+FZ2         = Wie viele Rinderrassen gibt es auf der Welt ? 
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 ca. 50
+Antwort_2   = 0 ca. 3000
+Antwort_3   = 0 ca. 150
+Antwort_4   = 1 ca. 300
+                
+[20]
+FZ1         =  
+FZ2         = Seit wann sind die Rinder Haustiere ? 
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 seit 1000 Jahren
+Antwort_2   = 0 seit 2000 Jahren
+Antwort_3   = 0 seit 4000 Jahren
+Antwort_4   = 1 seit 8000 Jahren
+
+[21]
+FZ1         = 
+FZ2         = Wie viel Weidegras fressen ausgewachsene 
+FZ3         = Bullen an einem Tag ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 ca. 8 kg
+Antwort_2   = 0 ca. 40 kg
+Antwort_3   = 1 ca. 80 kg
+Antwort_4   = 0 ca. 800 kg
+
+[22]
+FZ1         = 
+FZ2         =  Wie viele Schneidezähne haben
+FZ3         =  die Rinder in ihrem Oberkiefer ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 6
+Antwort_2   = 1 gar keine
+Antwort_3   = 0 12
+Antwort_4   = 0 14
+
+[23]
+FZ1         =  
+FZ2         = Womit rupfen die Rinder die Grasbüschel ab ? 
+FZ3         = 
+Min         = 2000
+Max         = 125000
+Antwort_1   = 1 mit ihrer langen Zunge
+Antwort_2   = 0 mit der weichen Oberlippe
+Antwort_3   = 0 mit den scharfen Schneidezähnen
+Antwort_4   = 0 mit den stumpfen Mahlzähnen
+
+[24]
+FZ1         = 
+FZ2         = Was fressen die Nashörner am liebsten ? 
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 kleine Käfer
+Antwort_2   = 1 Laub und Gras
+Antwort_3   = 0 Erdhörnchen
+Antwort_4   = 0 Rinde und Blätter
+
+[25]
+FZ1         = 
+FZ2         = Greifen Nashörner Menschen an ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 niemals
+Antwort_2   = 0 nur im Winter
+Antwort_3   = 1 nur, wenn sie sich bedroht fühlen
+Antwort_4   = 0 nur die Nashornweibchen greifen an
+
+[26]
+FZ1         =  
+FZ2         =  Wie viele Löwen leben in einem Rudel ?
+FZ3         = 
+Min         = 8000
+Max         = 500000
+Antwort_1   = 1 ca. 30
+Antwort_2   = 0 ca. 13
+Antwort_3   = 0 ca. 300
+Antwort_4   = 0 ca. 130
+
+[27]
+FZ1         = 
+FZ2         = Wer führt das Löwenrudel an ? 
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 das Weibchen mit den meisten Jungen
+Antwort_2   = 0 das älteste Männchen
+Antwort_3   = 1 der stärkste Löwe
+Antwort_4   = 0 der Löwe mit der längsten Mähne
+
+[28]
+FZ1         = 
+FZ2         = Wen nennt man auch den "König der Tiere" ? 
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 den Elefanten
+Antwort_2   = 0 den Adler
+Antwort_3   = 0 den Delfin
+Antwort_4   = 1 den Löwen
+
+[29]
+FZ1         = 
+FZ2         = Wo lebt der Jaguar ? 
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 in Afrika 
+Antwort_2   = 1 in Nord- und Südamerika
+Antwort_3   = 0 in Australien
+Antwort_4   = 0 in China
+
+[30]
+FZ1         = 
+FZ2         =  Kann ein Jaguar gut schwimmen ?
+FZ3         = 
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 nur die Weibchen
+Antwort_2   = 0 nur die Männchen
+Antwort_3   = 1 ja
+Antwort_4   = 0 nein
+
+[31]
+FZ1         = 
+FZ2         = Was ist die Hauptnahrung der Jaguare ? 
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Fische, Schweine und Kängurus
+Antwort_2   = 0 Schweine, Fische und Pinguine
+Antwort_3   = 0 Mungos, Schweine und Fische
+Antwort_4   = 1 Fische, Schweine und Tapire
+
+[32]
+FZ1         = 
+FZ2         = Warum hat das Tigerfell Streifen ? 
+FZ3         = 
+Min         = 32000
+Max         = 250000
+Antwort_1   = 0 um die Feinde zu verwirren
+Antwort_2   = 0 um besser gesehen zu werden
+Antwort_3   = 0 damit die Tiger sich erkennen
+Antwort_4   = 1 um sich zu tarnen
+
+[33]
+FZ1         = 
+FZ2         = Können Tiger bei Dunkelheit besser sehen als die Menschen ? 
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 nein
+Antwort_2   = 0 zweimal besser 
+Antwort_3   = 1 fünfmal besser
+Antwort_4   = 0 dreimal besser
+
+[34]
+FZ1         = 
+FZ2         = Wie heißt das größte lebende Landraubtier ? 
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 Kodiakbär
+Antwort_2   = 0 Waschbär
+Antwort_3   = 0 Kragenbär
+Antwort_4   = 0 Goliathbär
+
+[35]
+FZ1         =
+FZ2         = Was fressen Bären ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Sie fressen nur Fische.
+Antwort_2   = 0 Sie fressen nur Pflanzen.
+Antwort_3   = 0 Sie fressen nur Fleisch.
+Antwort_4   = 1 Sie fressen alles.
+
+[36]
+FZ1         = 
+FZ2         = Was fressen Bären besonders gerne ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Brombeeren
+Antwort_2   = 0 Himbeeren
+Antwort_3   = 1 Honig
+Antwort_4   = 0 Stachelbeeren
+
+[37]
+FZ1         =
+FZ2         =  Wie schnell können Bären für kurze Zeit laufen ?
+FZ3         = 
+Min         = 1000
+Max         = 125000
+Antwort_1   = 1 wie ein galoppierendes Pferd
+Antwort_2   = 0 wie ein rennender Hund
+Antwort_3   = 0 wie eine flitzende Maus
+Antwort_4   = 0 wie ein springender Frosch
+
+[38]
+FZ1         =
+FZ2         = Wo lebt der Eisbär ? 
+FZ3         = 
+Min         = 2000
+Max         = 125000
+Antwort_1   = 0 am Südpol
+Antwort_2   = 0 in Norwegen
+Antwort_3   = 0 in Russland
+Antwort_4   = 1 am Nordpol
+
+[39]
+FZ1         =
+FZ2         = Zu welcher Familie gehört das Stachelschwein ? 
+FZ3         = 
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 0 zu den Hausschweinen
+Antwort_2   = 1 zu den Nagetieren
+Antwort_3   = 0 zu den Wildschweinen
+Antwort_4   = 0 zu den Beuteltieren
+
+[40]
+FZ1         = 
+FZ2         = Wie heißt der kleine Verwandte des Stachelschweines ? 
+FZ3         = 
+Min         = 2000
+Max         = 125000
+Antwort_1   = 0 Ferkel
+Antwort_2   = 0 Frischling
+Antwort_3   = 0 Stinktier
+Antwort_4   = 1 Igel

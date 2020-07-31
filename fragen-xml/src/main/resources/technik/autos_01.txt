@@ -1,0 +1,1228 @@
+[Thema]
+Thema       = Rund um das Auto
+Fragen      = 111
+Autor       = Manfred Hartisch 6/2001
+
+[1]
+FZ1         = 
+FZ2         =  Was bedeutet die Abkürzung "PKW" ?
+FZ3         = 
+Min         =  0
+Max         = 1000
+Antwort_1   = 1 Personenkraftwagen
+Antwort_2   = 0 Postkutschenwerk
+Antwort_3   = 0 Polizeikraftwagen
+Antwort_4   = 0 Personenkunstwagen 
+
+[2]
+FZ1         =  
+FZ2         =  Was bedeutet die Abkürzung "LKW" ?
+FZ3         =  
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Langer Kranwagen
+Antwort_2   = 1 Lastkraftwagen
+Antwort_3   = 0 Lauter Kraftwagen
+Antwort_4   = 0 Leiser Kraftwagen
+
+[3]
+FZ1         = 
+FZ2         =  Was bedeutet die Abkürzung "VW" ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Verkehrswagen
+Antwort_2   = 1 Volkswagen
+Antwort_3   = 0 Violetter Wagen
+Antwort_4   = 0 Volkswippe
+
+[4]
+FZ1         = 
+FZ2         =  Was bedeutet die Abkürzung "BMW" ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Badische Motorenwerke
+Antwort_2   = 0 Berliner Motorenwerke
+Antwort_3   = 1 Bayrische Motorenwerke
+Antwort_4   = 0 Bonner Motorenwerke
+
+[5]
+FZ1         = 
+FZ2         =  Was bedeutet die Abkürzung "AU" ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Auto - Untersuchung
+Antwort_2   = 1 Abgas - Untersuchung
+Antwort_3   = 0 Allgemeine Untersuchung
+Antwort_4   = 0 Achte Untersuchung
+
+[6]
+FZ1         = 
+FZ2         =  Was bedeutet die Abkürzung "ABS" ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Altes - Brems - System
+Antwort_2   = 0 Auto - Brems - System
+Antwort_3   = 0 Anti - Bus - System
+Antwort_4   = 1 Anti - Blockier - System
+
+[7]
+FZ1         = 
+FZ2         =  Was bedeutet die Abkürzung "TÜV" ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 Täglicher - Übungs - Verkehr
+Antwort_2   = 0 Technischer - Überhol - Verein
+Antwort_3   = 1 Technischer - Überwachungs - Verein
+Antwort_4   = 0 Totales - Überhol - Verbot
+
+[8]
+FZ1         = 
+FZ2         =  Was bedeutet die Abkürzung "PS" ?
+FZ3         = 
+Min         = 0
+Max         = 400
+Antwort_1   = 0 Prima - Stark
+Antwort_2   = 0 Polizei - Sender
+Antwort_3   = 1 Pferde - Stärke
+Antwort_4   = 0 Pinscher - Stärke
+
+[9]
+FZ1         = 
+FZ2         =  Nach welchem Familienmitglied nannte
+FZ3         =  Karl Benz seine Autos ?
+Min         =  125000
+Max         = 1000000
+Antwort_1   = 0 Frau 
+Antwort_2   = 0 Tante
+Antwort_3   = 0 Mutter
+Antwort_4   = 1 Tochter 
+
+[10]
+FZ1         = 
+FZ2         =  Was sind die Firmenfarben von "BMW" ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 grün und rot
+Antwort_2   = 1 blau und weiß
+Antwort_3   = 0 weiß und schwarz
+Antwort_4   = 0 gelb und blau
+
+[11]
+FZ1         =  
+FZ2         =  Die Firmenfarbe von Ferrari ist ...
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 0 grün
+Antwort_2   = 0 silber
+Antwort_3   = 0 blau
+Antwort_4   = 1 rot
+
+[12]
+FZ1         = 
+FZ2         =  In welcher Stadt werden "VW´s" gebaut ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Essen
+Antwort_2   = 1 Wolfsburg
+Antwort_3   = 0 Frankfurt
+Antwort_4   = 0 Mannheim
+
+[13]
+FZ1         = 
+FZ2         =   In welcher Stadt werden "Opel" gebaut ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Hamburg
+Antwort_2   = 0 Berlin
+Antwort_3   = 0 Karlsruhe
+Antwort_4   = 1 Rüsselsheim
+
+[14]
+FZ1         = 
+FZ2         =   In welcher Stadt werden "Opel" gebaut ?
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 1 Bochum
+Antwort_2   = 0 Dortmund
+Antwort_3   = 0 Hannover
+Antwort_4   = 0 Erfurt
+
+[15]
+FZ1         = 
+FZ2         =  Wo werden "Porsche" gebaut ?
+FZ3         = 
+Min          = 4000
+Max         = 32000
+Antwort_1   = 1 Stuttgart - Zuffenhausen
+Antwort_2   = 0 Hamburg - Altona
+Antwort_3   = 0 Duisburg - Wedau
+Antwort_4   = 0 Berlin - Zoo
+
+[16]
+FZ1         =  
+FZ2         =  Wo werden "Mercedes" - Autos gebaut ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Stuttgart
+Antwort_2   = 0 Kiel
+Antwort_3   = 0 Rostock
+Antwort_4   = 0 Saarbrücken
+
+[17]
+FZ1         = 
+FZ2         =  Was ist das Markenzeichen von "Mercedes" ?
+FZ3         = 
+Min         =  0
+Max         = 1000
+Antwort_1   = 0 ein Blitz
+Antwort_2   = 0  ein Kreuz
+Antwort_3   = 1 ein Stern
+Antwort_4   = 0 eine Sonne
+
+[18]
+FZ1         = 
+FZ2         =   Was ist das Markenzeichen von "Audi" ?
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 0 3 Kreise
+Antwort_2   = 0 2 Kreise
+Antwort_3   = 0 1 Kreis
+Antwort_4   = 1 4 Kreise
+                
+[19]
+FZ1         = 
+FZ2         =   Was ist das Markenzeichen von "Ferrari" ?
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 0 ein springender Hirsch
+Antwort_2   = 0 ein rennender Löwe
+Antwort_3   = 0 ein rasender Gepard
+Antwort_4   = 1 ein springendes Pferd
+                
+[20]
+FZ1         =  
+FZ2         =  Was bedeutet das "D" bei manchen Autos ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Dienstfahrzeug
+Antwort_2   = 0 nur für Damen
+Antwort_3   = 0 dunkles Auto
+Antwort_4   = 1 Diesel
+
+[21]
+FZ1         = 
+FZ2         =  Welcher Modelltyp ist kein "VW" ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 Lupo
+Antwort_2   = 0 Polo
+Antwort_3   = 1 Tipo
+Antwort_4   = 0 Bora
+
+[22]
+FZ1         = 
+FZ2         =  Welcher Modelltyp ist kein "VW" ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 Sharan
+Antwort_2   = 1 Prelude
+Antwort_3   = 0 Multivan
+Antwort_4   = 0 Passat
+
+[23]
+FZ1         =  
+FZ2         =  Welcher Modelltyp ist kein "Ford" ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 1 Logo
+Antwort_2   = 0 Ka
+Antwort_3   = 0 Focus
+Antwort_4   = 0 Mondeo
+
+[24]
+FZ1         = 
+FZ2         =  Welcher Modelltyp ist kein "Opel" ?
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Sintra
+Antwort_2   = 1 Brava
+Antwort_3   = 0 Vectra
+Antwort_4   = 0 Corsa
+
+[25]
+FZ1         = 
+FZ2         =  Welcher Modelltyp ist kein "Opel" ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Astra
+Antwort_2   = 0 Corsa
+Antwort_3   = 1 Golf
+Antwort_4   = 0 Omega
+
+[26]
+FZ1         =  
+FZ2         =  Welche Klasse ist kein "Mercedes" ?
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 1 F - Klasse
+Antwort_2   = 0 A - Klasse
+Antwort_3   = 0 E - Klasse
+Antwort_4   = 0 C - Klasse
+
+[27]
+FZ1         = 
+FZ2         =  Welche Reihe ist kein "BMW" ?
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 3 -er
+Antwort_2   = 0 5 - er
+Antwort_3   = 1 9 -er
+Antwort_4   = 0 7- er
+
+[28]
+FZ1         = 
+FZ2         =  Welche A - Nummer ist kein Audi ?
+FZ3         = 
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 A 8
+Antwort_2   = 0 A 6
+Antwort_3   = 0 A 4
+Antwort_4   = 1 A 10
+
+[29]
+FZ1         = 
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Fiesta" ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 VW
+Antwort_2   = 1 Ford
+Antwort_3   = 0 Opel
+Antwort_4   = 0 Porsche
+
+[30]
+FZ1         = 
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Lupo" ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Mazda
+Antwort_2   = 0 Mercedes
+Antwort_3   = 1 VW
+Antwort_4   = 0 Ford
+
+[31]
+FZ1         = 
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Corsa" ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 BMW
+Antwort_2   = 0 Rover
+Antwort_3   = 0 Honda
+Antwort_4   = 1 Opel
+
+[32]
+FZ1         = 
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Passat" ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 Ford
+Antwort_2   = 0 Opel
+Antwort_3   = 0 BMW
+Antwort_4   = 1 VW
+
+[33]
+FZ1         = 
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Focus" ?
+Min         = 32000
+Max         = 1000000
+Antwort_1   = 0 Opel
+Antwort_2   = 0 VW
+Antwort_3   = 1 Ford
+Antwort_4   = 0 BMW
+
+[34]
+FZ1         = 
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         = "Golf" ?
+Min         = 200
+Max         = 2000
+Antwort_1   = 1 VW  
+Antwort_2   = 0 Opel
+Antwort_3   = 0 Ford
+Antwort_4   = 0 Peugeot
+
+[35]
+FZ1         =
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Cicvic" ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 Mitsubishi
+Antwort_2   = 0 Suzuki
+Antwort_3   = 0 Citroen
+Antwort_4   = 1 Honda
+
+[36]
+FZ1         = 
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Avensis" ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Honda
+Antwort_2   = 0 Kia
+Antwort_3   = 1 Toyota
+Antwort_4   = 0 Mazda
+
+[37]
+FZ1         =
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Oktavia" ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 Skoda
+Antwort_2   = 0 Lancia
+Antwort_3   = 0 Seat
+Antwort_4   = 0 Fiat
+
+[38]
+FZ1         =
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Marea" ?
+Min         = 250000
+Max         = 100000
+Antwort_1   = 0 Alfa Romeo
+Antwort_2   = 0 BMW
+Antwort_3   = 0 Renault
+Antwort_4   = 1 Fiat
+
+[39]
+FZ1         =
+FZ2         =  Zu welcher Automarke gehört das Modell
+FZ3         =  "Megane" ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Citroen
+Antwort_2   = 1 Renault
+Antwort_3   = 0 Peugeot
+Antwort_4   = 0 Nissan
+
+[40]
+FZ1         = 
+FZ2         = Zu welcher Automarke gehört das Modell 
+FZ3         = "Saxo" ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 0 Renault
+Antwort_2   = 0 Toyota
+Antwort_3   = 0 Mazda
+Antwort_4   = 1 Citroen
+
+[41]
+FZ1         =
+FZ2         =  Aus welchem Land kommt der
+FZ3         =  "Peugeot" ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 0 Italien
+Antwort_2   = 0 Schweden
+Antwort_3   = 0 Deutschland
+Antwort_4   = 1 Frankreich
+
+[42]
+FZ1         =
+FZ2         =  Aus welchem Land kommt der 
+FZ3         = "Mercedes" ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Frankreich
+Antwort_2   = 0 Belgien
+Antwort_3   = 1 Deutschland
+Antwort_4   = 0 Italien
+
+[43]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Audi" ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Deutschland
+Antwort_2   = 0 Schweden
+Antwort_3   = 0 Japan
+Antwort_4   = 0 Schweiz
+
+[44]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Alfa Romeo" ?
+Min         =  4000
+Max         = 32000
+Antwort_1   = 1 Italien
+Antwort_2   = 0 Rumänien
+Antwort_3   = 0 Spanien
+Antwort_4   = 0 Deutschland
+
+[45]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Nissan" ?
+Min         =  4000
+Max         = 32000
+Antwort_1   = 1Japan 
+Antwort_2   = 0 Korea
+Antwort_3   = 0 Frankreich
+Antwort_4   = 0 Norwegen
+
+[46]
+FZ1         =
+FZ2         =  Aus welchem Land kommt der 
+FZ3         =  "Opel" ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Italien
+Antwort_2   = 0 Holland
+Antwort_3   = 1 Deutschland
+Antwort_4   = 0 Portugal
+
+[47]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Citroen" ?
+Min         =  8000
+Max         = 32000
+Antwort_1   = 1 Frankreich
+Antwort_2   = 0 Deutschland
+Antwort_3   = 0 Österreich
+Antwort_4   = 0 Polen
+
+[48]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "BMW" ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Deutschland
+Antwort_2   = 0 Frankreich
+Antwort_3   = 0 Belgien
+Antwort_4   = 0 Italien
+
+[49]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "VW" ?
+Min         =  200
+Max         = 1000
+Antwort_1   = 0 Japan
+Antwort_2   = 1 Deutschland
+Antwort_3   = 0 USA
+Antwort_4   = 0 Frankreich
+
+[50]
+FZ1         = 
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Volvo" ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Schweden 
+Antwort_2   = 0 Norwegen
+Antwort_3   = 0 Finnland
+Antwort_4   = 0 Dänemark
+
+[51]
+FZ1         = 
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Mitsubishi" ?
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 Korea
+Antwort_2   = 1 Japan
+Antwort_3   = 0 China
+Antwort_4   = 0 Nepal
+
+[52]
+FZ1         = 
+FZ2         =   Aus welchem Land kommt der 
+FZ3         =  "Renault" ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 1 Frankreich
+Antwort_2   = 0 Italien
+Antwort_3   = 0 Schweden
+Antwort_4   = 0 Spanien
+
+[53]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Fiat" ?
+Min         = 2000
+Max         = 32000
+Antwort_1   = 0 Frankreich
+Antwort_2   = 1  Italien
+Antwort_3   = 0 Polen
+Antwort_4   = 0 Finnland
+
+[54]
+FZ1         = 
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Honda" ?
+Min         =  4000
+Max         = 64000
+Antwort_1   = 1 Japan 
+Antwort_2   = 0 Honduras
+Antwort_3   = 0 Holland
+Antwort_4   = 0 China
+
+[55]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Mazda" ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 0 Marokko
+Antwort_2   = 0 Kanada
+Antwort_3   = 0 Frankreich
+Antwort_4   = 1 Japan
+
+[56]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Porsche" ?
+Min         =  500
+Max         = 2000
+Antwort_1   = 1 Deutschland
+Antwort_2   = 0 Italien
+Antwort_3   = 0 Polen
+Antwort_4   = 0 Portugal
+
+[57]
+FZ1         =
+FZ2         =  Aus welchem Land kommt der 
+FZ3         =  "Ferrari" ?
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 Italien
+Antwort_2   = 0 Finnland
+Antwort_3   = 0 Schweiz
+Antwort_4   = 0 Deutschland
+
+[58]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Saab" ?
+Min         = 32000
+Max         = 25000
+Antwort_1   = 0 Finnland
+Antwort_2   = 1 Schweden
+Antwort_3   = 0 Norwegen
+Antwort_4   = 0 Frankreich
+
+[59]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Seat" ?
+Min         = 4000
+Max         = 64000
+Antwort_1   = 1 Spanien
+Antwort_2   = 0 Portugal
+Antwort_3   = 0 Frankreich
+Antwort_4   = 0 Italien
+
+[60]
+FZ1         =
+FZ2         =   Aus welchem Land kommt der
+FZ3         =  "Toyota" ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Japan
+Antwort_2   = 0 Togo
+Antwort_3   = 0 Vietnam
+Antwort_4   = 0 Portugal
+
+[61]
+FZ1         =
+FZ2         =  Welche Nummer hat der berühmteste Porsche ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 811
+Antwort_2   = 0 611
+Antwort_3   = 0 955
+Antwort_4   = 1 911
+
+[62]
+FZ1         =
+FZ2         = Was fehlt bei einem Auto mit 
+FZ3         =  Automatikgetriebe ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 das Kupplungspedal
+Antwort_2   = 0 der Rückwärtsgang
+Antwort_3   = 0 die Pleuelstange
+Antwort_4   = 0 die Lichtmaschine
+
+[63]
+FZ1         =
+FZ2         =  Welche Farbe hat der "Rückfahrscheinwerfer" ?
+FZ3         = 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 weiß
+Antwort_2   = 0 rot
+Antwort_3   = 0 gelb
+Antwort_4   = 0 blau
+
+[64]
+FZ1         =
+FZ2         =  Nach welchem Erfinder ist der Benzinmotor
+FZ3         =  benannt ?
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Egon
+Antwort_2   = 0 August
+Antwort_3   = 0 Karl
+Antwort_4   = 1 Otto
+
+[65]
+FZ1         =
+FZ2         =  Wie nennt man alte Autos ?
+FZ3         = 
+Min         = 200
+Max         = 2000
+Antwort_1   = 1 Oldtimer
+Antwort_2   = 0 Greisis
+Antwort_3   = 0 Yesterday
+Antwort_4   = 0 Kutschen
+
+[66]
+FZ1         =
+FZ2         =  Welche Automarke trägt den 
+FZ3         =  Namen einer Raubkatze ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Jaguar
+Antwort_2   = 0 Löwe
+Antwort_3   = 0 Tiger
+Antwort_4   = 0 Puma
+
+[67]
+FZ1         =
+FZ2         =  Wie wurde der Volkswagen genannt ?
+FZ3         = 
+Min         = 200
+Max         = 4000
+Antwort_1   = 1 Käfer
+Antwort_2   = 0 Maus
+Antwort_3   = 0 Katze
+Antwort_4   = 0 Hund
+
+[68]
+FZ1         =
+FZ2         =  Wie wurde der Citroen 2 CV genannt ?
+FZ3         = 
+Min         = 200
+Max         = 4000
+Antwort_1   = 1 Ente
+Antwort_2   = 0 Käfer
+Antwort_3   = 0 Wurm
+Antwort_4   = 0 Vogel
+
+[69]
+FZ1         =
+FZ2         =  Die meisten LKW´s haben einen ...
+FZ3         = 
+Min         = 16000
+Max         = 64000
+Antwort_1   = 0 Benzinmotor
+Antwort_2   = 1 Dieselmotor
+Antwort_3   = 0 Wankelmotor
+Antwort_4   = 0 Elektromotor
+
+[70]
+FZ1         =
+FZ2         =  Welche Firma baut nur Motorräder
+FZ3         =  und keine Autos ?
+Min         = 16000
+Max         = 250000
+Antwort_1   = 0 BMW
+Antwort_2   = 0 Honda
+Antwort_3   = 0 Suzuki
+Antwort_4   = 1 Kawasaki
+
+[71]
+FZ1         = 
+FZ2         =  Mit welchem Kraftstoff kann ein Auto
+FZ3         =  n i c h t   fahren ?
+Min         = 500
+Max         = 8000
+Antwort_1   = 1 Prima
+Antwort_2   = 0 Super
+Antwort_3   = 0 Benzin
+Antwort_4   = 0 Diesel
+
+[72]
+FZ1         = 
+FZ2         =  Mit welchem Kraftstoff kann ein 
+FZ3         =  Auto fahren ?
+Min         = 1000
+Max         = 16000
+Antwort_1   = 0 Prima
+Antwort_2   = 0 Toll
+Antwort_3   = 0 Klasse
+Antwort_4   = 1 Super
+
+[73]
+FZ1         = 
+FZ2         =  Welches Auto kostet über 
+FZ3         =  eine Millionen Mark ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Rolls-Royce Phantom VI
+Antwort_2   = 0 Golbat Ghost IV
+Antwort_3   = 0 Mercedes SKL Roadster
+Antwort_4   = 0 Porsche Carrera 4
+
+[74]
+FZ1         = 
+FZ2         =  Ein Auto hat normalerweise
+FZ3         =   ..... Stoßdämpfer.
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 1
+Antwort_2   = 0 2
+Antwort_3   = 1 4
+Antwort_4   = 0 3
+
+[75]
+FZ1         = 
+FZ2         = Wie heißt der Geschwindigkeitsmesser 
+FZ3         =  beim Auto ?
+Min         = 8000
+Max         = 64000
+Antwort_1   = 0 Thermometer
+Antwort_2   = 0 Barometer
+Antwort_3   = 0 Hygrometer
+Antwort_4   = 1 Tachometer
+
+[76]
+FZ1         = 
+FZ2         =  Wie nennt man Auto mit zurück-
+FZ3         =  klappbarem Dach ?
+Min         = 8000
+Max         = 32000
+Antwort_1   = 1 Cabriolet
+Antwort_2   = 0 Coupè
+Antwort_3   = 0 Van
+Antwort_4   = 0 Minivan
+
+[77]
+FZ1         = 
+FZ2         =  Von welchem Auto wurden auf der Welt 
+FZ3         =  über 20 Millionen Stück verkauft ?
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 VW - Käfer
+Antwort_2   = 0 Ford Fiesta
+Antwort_3   = 0 Citroen Xantia
+Antwort_4   = 0 Opel Kapitän
+
+[78]
+FZ1         =
+FZ2         =  Ein Vierzylinder - Dieselmotor hat
+FZ3         =  ... Zündkerzen.
+Min         =   64000
+Max         = 1000000
+Antwort_1   = 0 4
+Antwort_2   = 0 8
+Antwort_3   = 0 2
+Antwort_4   = 1 0
+
+[79]
+FZ1         =
+FZ2         =  In einem normalen Auto sind
+FZ3         =  ca.  ... Meter elektrische Kabel.
+Min         = 64000
+Max         = 250000
+Antwort_1   = 0 100
+Antwort_2   = 1 500
+Antwort_3   = 0 50
+Antwort_4   = 0 220
+
+[80]
+FZ1         =
+FZ2         =  Wie wird die Motorleistung (außer in PS)
+FZ3         =  noch angegeben ?
+Min         = 125000
+Max         = 1000000
+Antwort_1   = 1 Kilowatt
+Antwort_2   = 0 Kilokalorien
+Antwort_3   = 0 Kilogramm
+Antwort_4   = 0 Kilometer
+
+[81]
+FZ1         = 
+FZ2         =  Warum haben Rennautos so
+FZ3         =  breite Reifen ?
+Min         = 300
+Max         = 1000
+Antwort_1   = 1 bessere Bodenhaftung
+Antwort_2   = 0 sieht schöner aus
+Antwort_3   = 0 bessere Übersicht
+Antwort_4   = 0 genaueres Lenken
+
+[82]
+FZ1         = 
+FZ2         =  Was verbessert ein "Heckspoiler" ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 die Bodenhaftung
+Antwort_2   = 0 den Kofferrauminhalt
+Antwort_3   = 0 das Einparken
+Antwort_4   = 0 die Kopffreiheit
+
+[83]
+FZ1         = 
+FZ2         =  Wie nennt man das im Lenkrad eingebaute
+FZ3         =  Sicherheitssystem ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Airbag
+Antwort_2   = 0 Airbrush
+Antwort_3   = 0 Lenkradschoner
+Antwort_4   = 0 Lenkradsperre
+
+[84]
+FZ1         = 
+FZ2         =  Wie nennt man einen Autofahrer, der auf der  
+FZ3         =  falschen Autobahnseite fährt ? 
+Min         = 1000
+Max         = 4000
+Antwort_1   = 1 Geisterfahrer
+Antwort_2   = 0 Monsterfahrer
+Antwort_3   = 0 Linksfahrer
+Antwort_4   = 0 Horrorfahrer
+
+[85]
+FZ1         = 
+FZ2         =  In welcher Straße darf 
+FZ3         =  nicht gewendet werden ?
+Min         = 100
+Max         = 2000
+Antwort_1   = 1 Einbahnstraße
+Antwort_2   = 0 Hauptstraße
+Antwort_3   = 0 Vorfahrtsstraße
+Antwort_4   = 0 Sackgasse
+
+[86]
+FZ1         = 
+FZ2         =  Mit welchem Gerät misst die 
+FZ3         =  Polizei die Geschwindigkeit ?
+Min         = 100
+Max         = 1000
+Antwort_1   = 1 Radargerät
+Antwort_2   = 0 Rasergerät
+Antwort_3   = 0 Schnellgerät
+Antwort_4   = 0 PS - Gerät
+
+[87]
+FZ1         = 
+FZ2         =  Wie nennt man die
+FZ3         =  Polizeisirene ?
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Martinshorn
+Antwort_2   = 0 Elisabethhorn
+Antwort_3   = 0 Gustavhorn
+Antwort_4   = 0 Manfredhorn
+
+[88]
+FZ1         = 
+FZ2         =  Welche Vorfahrtsregel gilt
+FZ3         =  in Deutschland ?
+Min         = 2000
+Max         = 125000
+Antwort_1   = 1 rechts vor links
+Antwort_2   = 0 links vor rechts
+Antwort_3   = 0 rechts vor hinten
+Antwort_4   = 0 links vor vorne
+
+[89]
+FZ1         = 
+FZ2         =  Wie schnell muss man mindestens
+FZ3         =  auf der Autobahn fahren ?
+Min         = 4000
+Max         = 125000
+Antwort_1   = 1 60 km / h
+Antwort_2   = 0 40 km / h
+Antwort_3   = 0 100 km / h
+Antwort_4   = 0  120 km / h 
+
+[90]
+FZ1         = 
+FZ2         =  Wie schnell darf man 
+FZ3         =  höchstens in der Stadt fahren ?
+Min         = 1000
+Max         = 32000
+Antwort_1   = 1 50 km / h
+Antwort_2   = 0 60 km / h
+Antwort_3   = 0  70 km / h
+Antwort_4   = 0 30 km / h
+
+[91]
+FZ1         = 
+FZ2         =  Wie heißt der Radteil, auf dem
+FZ3         =  der Reifen aufliegt ?
+Min         =  1000
+Max         =  8000
+Antwort_1   = 1 Felge
+Antwort_2   = 0 Gummi
+Antwort_3   = 0 Ventil
+Antwort_4   = 0 Radkappe
+
+[92]
+FZ1         = 
+FZ2         =  Das Benzin befindet sich im ...
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 1 Tank
+Antwort_2   = 0 Kofferraum
+Antwort_3   = 0 Motorraum
+Antwort_4   = 0 Vergaser
+
+[93]
+FZ1         = 
+FZ2         =  Wie nennt man die Größe 
+FZ3         =  des Motors ?
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Hubraum
+Antwort_2   = 0 Schiebraum
+Antwort_3   = 0 Ziehraum
+Antwort_4   = 0 Drückraum
+
+[94]
+FZ1         = 
+FZ2         =  Wie viele Gänge hat ein Auto
+FZ3         =  mit Vierganggetriebe ?
+Min         = 2000
+Max        = 16000
+Antwort_1   = 1 5
+Antwort_2   = 0 4
+Antwort_3   = 0 3
+Antwort_4   = 0 6
+
+[95]
+FZ1         =  
+FZ2         =  Wie heißt die Vorrichtung, die das Blockieren 
+FZ3         =  der Räder beim Bremsen verhindern soll ?
+Min         = 32000
+Max         = 500000
+Antwort_1   = 1 ABS
+Antwort_2   = 0 ABC
+Antwort_3   = 0 BBS
+Antwort_4   = 0 VBS
+
+[96]
+FZ1         = 
+FZ2         =  Wie viele Türen hat ein Coupé ?
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 2
+Antwort_2   = 0 3
+Antwort_3   = 0 4
+Antwort_4   = 0 1
+
+[97]
+FZ1         = 
+FZ2         =  Wann fuhren die ersten betriebsfähigen 
+FZ3         =  Autos auf der Straße ?
+Min         =  250000
+Max         = 100000
+Antwort_1   = 1 1885
+Antwort_2   = 0 1799
+Antwort_3   = 0 1898
+Antwort_4   = 0 1911
+
+[98]
+FZ1         = 
+FZ2         =  Wie nennt man die Vorrichtung, die
+FZ3         =  die Abgase reinigt ?
+Min          = 4000
+Max         = 16000
+Antwort_1   = 1 Katalysator
+Antwort_2   = 0 Katamaran
+Antwort_3   = 0 Generator
+Antwort_4   = 0 Mediator
+
+[99]
+FZ1         = 
+FZ2         =  Ab wie vielen Jahren dürfen Kinder
+FZ3         = im Auto vorne sitzen ?
+Min         = 200
+Max         = 1000
+Antwort_1   = 1 12 
+Antwort_2   = 0 10
+Antwort_3   = 0 14
+Antwort_4   = 0  8
+
+[100]
+FZ1         =  
+FZ2         =   Was fehlt bei einem Formel 1
+FZ3         =   Rennwagen ?
+Min         =   4000
+Max        = 32000
+Antwort_1   = 1 Scheibenwischer
+Antwort_2   = 0 Rückspiegel
+Antwort_3   = 0 Getriebe
+Antwort_4   = 0 Sicherheitsgurt
+
+
+[101]
+FZ1         = 
+FZ2         =  Was ist auch ein LKW ?
+FZ3         =   
+Min         = 1000
+Max         = 32000
+Antwort_1   = 1 Sattelschlepper
+Antwort_2   = 0 Sattelträger
+Antwort_3   = 0 Sattelschoner
+Antwort_4   = 0 Sattelzieher
+
+[102]
+FZ1         = 
+FZ2         =  Welches Opel - Modell wurde
+FZ3         =  in Bochum gebaut ?
+Min         =  125000
+Max         =  500000
+Antwort_1   = 1 Kadett
+Antwort_2   = 0 Admiral
+Antwort_3   = 0 Kapitän
+Antwort_4   = 0 Laubfrosch
+
+[103]
+FZ1         = 
+FZ2         =  Welche Bremse gibt es beim Auto ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 1 Scheibenbremse
+Antwort_2   = 0 Tellerbremse
+Antwort_3   = 0 Kugelbremse
+Antwort_4   = 0 Tassenbremse
+
+[104]
+FZ1         = 
+FZ2         =  Welche Bremse gibt es beim Auto ?
+FZ3         =   
+Min         = 4000
+Max         = 32000
+Antwort_1   = 1 Trommelbremse
+Antwort_2   = 0 Geigenbremse
+Antwort_3   = 0 Trompetenbremse
+Antwort_4   = 0 Flötenbremse
+
+[105]
+FZ1         = 
+FZ2         =  Wie nennt man einen Geländewagen ?
+FZ3         =   
+Min         = 2000
+Max         = 16000
+Antwort_1   = 1 Jeep
+Antwort_2   = 0 Joop
+Antwort_3   = 0 Jaap
+Antwort_4   = 0 Juup
+
+[106]
+FZ1         =  
+FZ2         =  Was ist das Besondere an  
+FZ3         =  einem Kombi ?
+Min         = 2000
+Max         = 16000
+Antwort_1   = 1 die große Heckklappe
+Antwort_2   = 0 die breiten Türen
+Antwort_3   = 0 die schmalen Fenster
+Antwort_4   = 0 die lange Motorhaube
+
+[107]
+FZ1         = Wie heißen die beiden deutschen
+FZ2         = Brüder, die zum ersten Mal in der Formel 1 
+FZ3         = einen Doppelsieg errangen ?
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Michael und Ralf
+Antwort_2   = 0 Michael und Rolf
+Antwort_3   = 0 Ralf und Martin
+Antwort_4   = 0 Ralf und Marvin
+
+[108]
+FZ1         = Wann erreichten zwei deutsche Brüder
+FZ2         = zum ersten Mal einen Doppelsieg  
+FZ3         = in der Formel 1 ? 
+Min         =  500000
+Max         =  1000000
+Antwort_1   = 1 10. Juni 2001
+Antwort_2   = 0 12. Juni 2001
+Antwort_3   = 0 10. Mai 2001
+Antwort_4   = 0 22. März 2001
+
+[109]
+FZ1         = Wo erreichten zwei deutsche Brüder
+FZ2         = zum ersten Mal einen Doppelsieg
+FZ3         = in der Formel 1 ?
+Min          = 250000
+Max         = 1000000
+Antwort_1   = 1 Montreal
+Antwort_2   = 0 Malaysia
+Antwort_3   = 0 Monte Carlo
+Antwort_4   = 0 Monza
+
+[110]
+FZ1         = Wie nennt man den Fahrtrichtungs-
+FZ2         = anzeiger beim Auto ?  
+FZ3         =  
+Min         =  200
+Max         =  1000
+Antwort_1   = 1 Blinker
+Antwort_2   = 0 Stinker
+Antwort_3   = 0 Winker
+Antwort_4   = 0 Zeiger
+
+[111]
+FZ1         =  
+FZ2         =  Wie nennt man das Abgasrohr
+FZ3         =  beim Auto ?
+Min         = 2000
+Max         = 12000
+Antwort_1   = 1 Auspuff
+Antwort_2   = 0 Ausguck
+Antwort_3   = 0 Ausblick
+Antwort_4   = 0 Auslassventil
+
+

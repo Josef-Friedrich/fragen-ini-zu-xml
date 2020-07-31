@@ -1,0 +1,1105 @@
+[Thema]
+Thema= Grundschule D
+Fragen=100
+Autor=Manfred Hartisch  
+
+[1]
+FZ1=
+FZ2=Welche Stadt hat ein "A" auf dem Kennzeichen der Kraftfahrzeuge ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1	 Augsburg
+Antwort_2=0	 Aurich
+Antwort_3=0	 Altenberg
+Antwort_4=0	  Aschaffenburg
+
+[2]
+FZ1=
+FZ2=Die Tochter vom Bruder deines Vaters
+FZ3=ist deine ... ?
+Min=0
+Max=8000
+Antwort_1=1	 Cousine
+Antwort_2=0	 Tante
+Antwort_3=0	 Schwester
+Antwort_4=0	  Mutter
+
+[3]
+FZ1=
+FZ2=Wie nennt man eine Gruppe Wildschweine ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Rotte
+Antwort_2=0	 Runde
+Antwort_3=0	 Masse
+Antwort_4=0	  Flotte
+
+[4]
+FZ1=
+FZ2=Welche Stadt hat Romulus der
+FZ3=Sage nach gegründet ?
+Min=0
+Max=32000
+Antwort_1=1	 Rom
+Antwort_2=0	 Neapel
+Antwort_3=0	 Pisa
+Antwort_4=0	 Rimini
+
+[5]
+FZ1=
+FZ2=Was ist eine "Schwarze Witwe" ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	 Spinne
+Antwort_2=0	 Vogel
+Antwort_3=0	 Libelle
+Antwort_4=0	  alte Frau
+
+[6]
+FZ1=
+FZ2=Was ist "Harley Davidson" ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Motorradmarke
+Antwort_2=0	 Segelschiff
+Antwort_3=0	 Nähmaschine
+Antwort_4=0	 Popgruppe
+
+[7]
+FZ1=
+FZ2=Welche Figur gibt es nicht beim Schach ?
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1	Bäcker
+Antwort_2=0	 Bauer
+Antwort_3=0	 Turm
+Antwort_4=0	  Pferd
+
+[8]
+FZ1=
+FZ2=Was steht auf den Kennzeichen von
+FZ3=Kraftfahrzeugen der Stadt Frankfurt am Main ?
+Min=0
+Max=300
+Antwort_1=1	 F
+Antwort_2=0	 FFM
+Antwort_3=0	 FM
+Antwort_4=0	 FAM
+
+[9]
+FZ1=
+FZ2=Wie heißt der Star aus der
+FZ3=ZDF - Kultserie "Löwenzahn" ?
+Min=0
+Max=8000
+Antwort_1=1	 Peter Lustig
+Antwort_2=0	 Hans Spaßig
+Antwort_3=0	 Kerl Freudig
+Antwort_4=0	  Otto Ernst
+
+[10]
+FZ1=
+FZ2=An welchem Tag wird jedes Jahr die
+FZ3=deutsche Einheit gefeiert ?
+Min=500
+Max=16000
+Antwort_1=1	 3. Oktober
+Antwort_2=0	 3. November
+Antwort_3=0	 22. März
+Antwort_4=0	 14. Februar
+
+[11]
+FZ1=
+FZ2=Was bedeutet "merci" ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1	 danke
+Antwort_2=0	 schade
+Antwort_3=0	 Guten Tag
+Antwort_4=0	  bitte
+
+[12]
+FZ1=
+FZ2=Was ist ein Kolibri ?
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1	 Vogel
+Antwort_2=0	 Wörterbuch
+Antwort_3=0	 Schmetterling
+Antwort_4=0	 Gemüse
+
+[13]
+FZ1=
+FZ2=Für welche Leckerei ist die Stadt Nürnberg berühmt ?
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1	 Lebkuchen
+Antwort_2=0	 Sprotten
+Antwort_3=0	 Marzipan
+Antwort_4=0	  Käse
+
+[14]
+FZ1=
+FZ2=Wer war J. F. Kennedy ?
+FZ3=
+Min=500
+Max=16000
+Antwort_1=1	 amerikanischer Präsident
+Antwort_2=0	 englischer Popstar
+Antwort_3=0	 schweizer Erfinder
+Antwort_4=0	 deutscher Schauspieler
+
+[15]
+FZ1=
+FZ2=Mit welcher Waage kann man kein Gewicht feststellen ?
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1	 Wasserwaage
+Antwort_2=0	 Küchenwaage
+Antwort_3=0	 Brückenwaage
+Antwort_4=0	  Personenwaage
+
+[16]
+FZ1=
+FZ2=Welches Fabeltier nennt man Isegrimm ?
+FZ3=
+Min=300
+Max=16000
+Antwort_1=1	 Wolf
+Antwort_2=0	 Bär
+Antwort_3=0	 Hase
+Antwort_4=0	 Fuchs
+
+[17]
+FZ1=
+FZ2=Was ist ein Grammophon ?
+FZ3=
+Min=300
+Max=8000
+Antwort_1=1	 Plattenspieler
+Antwort_2=0	 Dinosaurier
+Antwort_3=0	 Fernrohr
+Antwort_4=0	  Küchenwaage
+
+[18]
+FZ1=
+FZ2=Zu wem gehört das Pokémon Mauzi ?
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1	 Team Rocket
+Antwort_2=0	 Rocko
+Antwort_3=0	 Misty
+Antwort_4=0	 Ash
+
+[19]
+FZ1=
+FZ2=Wie nennt man die Fußballer vom 1. FC Kaiserslautern ?
+FZ3=
+Min=500
+Max=32000
+Antwort_1=1	 Rote Teufel
+Antwort_2=0	 Schwarze Henker
+Antwort_3=0	 Grüne Hüpfer
+Antwort_4=0	  Braune Wiesel
+
+[20]
+FZ1=
+FZ2=Wie heißen Tomaten in Österreich ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1	 Paradeiser
+Antwort_2=0	 Erdäpfel
+Antwort_3=0	 Paradiesapfel
+Antwort_4=0	 Grundbirn
+
+[21]
+FZ1=
+FZ2=Wie wird die Ostsee noch genannt ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1	 Baltisches Meer
+Antwort_2=0	 Skandinavisches Meer
+Antwort_3=0	 Ostfriesenmeer
+Antwort_4=0	 Schwarzes Meer
+
+[22]
+FZ1=
+FZ2=Auf welchem Belag wird in Wimbledon
+FZ3=Tennis gespielt ?
+Min=0
+Max=8000
+Antwort_1=1	 Rasen
+Antwort_2=0	 Sand
+Antwort_3=0	 Kunststoff
+Antwort_4=0	 Beton
+
+[23]
+FZ1=
+FZ2=Wie heißen die Nachbarn von Fred Feuerstein ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1	 Geröllheimer
+Antwort_2=0	 Heimmüller
+Antwort_3=0	 Gröllmeier
+Antwort_4=0	 Mülleimer
+
+[24]
+FZ1=
+FZ2=Was ist Risipisi ?
+FZ3=
+Min=1000
+Max=32000
+Antwort_1=1	 Reisgericht
+Antwort_2=0	 Automarke
+Antwort_3=0	 Hunderasse
+Antwort_4=0	 Zitronenlimonade
+
+[25]
+FZ1=
+FZ2=Welcher dieser Buchstaben ist ein Vokal ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1	 A
+Antwort_2=0	 B
+Antwort_3=0	 C
+Antwort_4=0	 D
+
+[26]
+FZ1=
+FZ2=Welches Tier ist ein Afghane ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1	 Hund
+Antwort_2=0	 Pferd
+Antwort_3=0	 Affe
+Antwort_4=0	 Vogel
+
+[27]
+FZ1=
+FZ2=Zu welchem Land gehört Sibirien ?
+FZ3=
+Min=500
+Max=16000
+Antwort_1=1	 Russland
+Antwort_2=0	 Italien
+Antwort_3=0	 Rumänien
+Antwort_4=0	 Polen
+
+[28]
+FZ1=
+FZ2=Wie heißt die größte deutsche
+FZ3=Autofahrerorganisation ?
+Min=0
+Max=16000
+Antwort_1=1	 ADAC
+Antwort_2=0	 DLRG
+Antwort_3=0	 BMVW
+Antwort_4=0	 AUDI
+
+[29]
+FZ1=
+FZ2=Wann beginnt in Deutschland offiziell
+FZ3=die Karnevalssaison ?
+Min=0
+Max=32000
+Antwort_1=1	 11. November
+Antwort_2=0	 3. November
+Antwort_3=0	 22. März
+Antwort_4=0	 14. Februar
+
+[30]
+FZ1=
+FZ2=Wie viele Meter hat ein Kilometer ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1	 1000
+Antwort_2=0	 10.000
+Antwort_3=0	 100
+Antwort_4=0	 10
+
+[31]
+FZ1=
+FZ2=Was ist ein Steckbrief ?
+FZ3=
+Min=0
+Max=8000
+Antwort_1=1	 Personenbeschreibung 
+Antwort_2=0	 Lochkarte
+Antwort_3=0	 Notizzettel
+Antwort_4=0	 geheime Mitteilung
+
+[32]
+FZ1=
+FZ2=An welchem Tag erscheint immer
+FZ3=die neue Micky Maus ?
+Min=0
+Max=8000
+Antwort_1=1	 Donnerstag
+Antwort_2=0	 Montag
+Antwort_3=0	 Mittwoch
+Antwort_4=0	 Freitag
+
+[33]
+FZ1=
+FZ2=An welchem Tag beginnt in der deutschen
+FZ3=katholischen Kirche die Fastenzeit ?
+Min=0
+Max=8000
+Antwort_1=1	 Aschermittwoch
+Antwort_2=0	 Karfreitag
+Antwort_3=0	 Gründonnerstag
+Antwort_4=0	 Pfingstmontag
+
+[34]
+FZ1=
+FZ2=Aus wie vielen ineinander verschlungenen Ringen besteht
+FZ3=das Markenzeichen der deutschen Automarke AUDI ?
+Min=200
+Max=16000
+Antwort_1=1	 4
+Antwort_2=0	 5
+Antwort_3=0	 6
+Antwort_4=0	 2
+
+[35]
+FZ1=
+FZ2=Wie heißt die komplette Bezeichnung für das Bundesland Bremen ?
+FZ3=
+Min=300
+Max=16000
+Antwort_1=1	 Freie Hansestadt Bremen
+Antwort_2=0	 Alte Hansestadt Bremen
+Antwort_3=0	 Geschlossene Hansestadt Bremen
+Antwort_4=0	 Befreite Hansestadt Bremen
+
+[36]
+FZ1=
+FZ2=In welchem Intervall finden
+FZ3=Olympische Spiele statt ?
+Min=0
+Max=16000
+Antwort_1=1	 4 Jahre
+Antwort_2=0	 2 Jahre
+Antwort_3=0	 6 Jahre
+Antwort_4=0	 8 Jahre
+
+[37]
+FZ1=
+FZ2=Wie heißt die Hauptstadt der USA ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Washington
+Antwort_2=0	 New York
+Antwort_3=0	 Miami
+Antwort_4=0	 San Franzisko
+
+[38]
+FZ1=
+FZ2=Womit wurde Michael Jordan bekannt ?
+FZ3=
+Min=500
+Max=32000
+Antwort_1=1	 Basketball
+Antwort_2=0	 Football
+Antwort_3=0	 Streetball
+Antwort_4=0	 Baseball
+
+[39]
+FZ1=
+FZ2=Was ist ein Foul ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1	 unfairer Spielzug beim Sport
+Antwort_2=0	 übelriechender Fisch
+Antwort_3=0	 arbeitsunwilliger Mensch
+Antwort_4=0	 fauler Schüler
+
+[40]
+FZ1=
+FZ2=Was ist ein Bike ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1	 Fahrrad oder Motorrad
+Antwort_2=0	 Speichereinheit für Computer
+Antwort_3=0	 Hundebiss
+Antwort_4=0	 Geldbeutel für Münzen
+
+[41]
+FZ1=
+FZ2=Wann lebten die Ritter ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1	 Mittelalter
+Antwort_2=0	 Barock
+Antwort_3=0	 Steinzeit
+Antwort_4=0	 Renaissance
+
+[42]
+FZ1=
+FZ2=Wo wird Schmutzwasser gereinigt ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1	 Kläranlage
+Antwort_2=0	 Kloanlage
+Antwort_3=0	 Waschsalon
+Antwort_4=0	Putzerei
+
+[43]
+FZ1=
+FZ2=Wie nennt man die Wiederverwertung von Müll ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Recycling
+Antwort_2=0	 Bycycling
+Antwort_3=0	 Cycling
+Antwort_4=0	 Drekking
+
+[44]
+FZ1=
+FZ2=Was bedeutet das "C" bei einer Temperaturangabe ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1	 Celsius
+Antwort_2=0	 Cäsar
+Antwort_3=0	 Cardio
+Antwort_4=0	Cicero
+
+[45]
+FZ1=
+FZ2=Was ist der Nürburgring ?
+FZ3=
+Min=0
+Max=16000
+Antwort_1=1	 Rennstrecke
+Antwort_2=0	 Schmuckstück
+Antwort_3=0	 Teil des Auges
+Antwort_4=0	 Verbrechervereinigung
+
+[46]
+FZ1=
+FZ2=Wie sagen die Bayern und Österreicher zu Quark ?
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1	 Topfen
+Antwort_2=0	 Käse
+Antwort_3=0	 Jogurt
+Antwort_4=0	Soja
+
+[47]
+FZ1=
+FZ2=Welches Tor hat Oliver Bierhoff
+FZ3=erstmals in der Fußballgeschichte geschossen ?
+Min=500
+Max=16000
+Antwort_1=1	 Golden Goal
+Antwort_2=0	 Silver Goal
+Antwort_3=0	 Green Goal
+Antwort_4=0	 Red Goal
+
+[48]
+FZ1=
+FZ2=Wer oder was sind die Walküren ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 germanische Kriegerinnen
+Antwort_2=0	 tanzende Walmütter
+Antwort_3=0	 wasserlösliche Vitamine
+Antwort_4=0	Wahlhelferinnen
+
+[49]
+FZ1=
+FZ2=Wie heißt ein Auto, bei dem man das
+FZ3=Verdeck zurückklappen kann ?
+Min=1000
+Max=16000
+Antwort_1=1	 Cabriolet
+Antwort_2=0	 Coupé
+Antwort_3=0	 Mini - Van
+Antwort_4=0	 Limousine
+
+[50]
+FZ1=
+FZ2=Wie heißt die kreisförmige Vorführfläche
+FZ3=in einem Zirkus ?
+Min=2000
+Max=32000
+Antwort_1=1	 Manege
+Antwort_2=0	 Arena
+Antwort_3=0	 Bühne
+Antwort_4=0	Auditorium
+
+[51]
+FZ1=
+FZ2=Welche dieser Mineralien ist das härteste ?
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1	 Diamant
+Antwort_2=0	 Bergkristall
+Antwort_3=0	 Rubin
+Antwort_4=0	 Achat
+
+[52]
+FZ1=
+FZ2=Der Begriff "Strauß" kann vieles sein - außer ... ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1	 Essbesteck
+Antwort_2=0	 Blumenbündel
+Antwort_3=0	 Laufvogel
+Antwort_4=0	Komponist
+
+[53]
+FZ1=
+FZ2=Warum kommen die Regenwürmer bei Regen aus der Erde ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1	 Angst vorm Ertrinken
+Antwort_2=0	 Partnersuche
+Antwort_3=0	 Waschsucht
+Antwort_4=0	 zum Vergnügen
+
+[54]
+FZ1=
+FZ2=Durch welches Meer ging Moses mit
+FZ3=dem Volk Israel, das sich durch Gottes Hilfe teilte ?
+Min=64000
+Max=1000000
+Antwort_1=1	 Rotes Meer
+Antwort_2=0	 Atlantik
+Antwort_3=0	 Nordsee
+Antwort_4=0	Adria
+
+[55]
+FZ1=
+FZ2=Welche deutsche Stadt hat ein "S" auf dem
+FZ3=Kennzeichen der Kraftfahrzeuge ?
+Min=64000
+Max=250000
+Antwort_1=1	 Stuttgart
+Antwort_2=0	 Schwerin
+Antwort_3=0	 Saarbrücken
+Antwort_4=0	 Solingen
+
+[56]
+FZ1=
+FZ2=In welchem Bundesland liegt Aachen ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1	Nordrhein - Westfalen
+Antwort_2=0	 Hessen
+Antwort_3=0	 Saarland
+Antwort_4=0	Niedersachsen
+
+[57]
+FZ1=
+FZ2=Wie sagt man in Österreich zu Pfannekuchen ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1	 Palatschinken
+Antwort_2=0	 Keks
+Antwort_3=0	 Roulade
+Antwort_4=0	 Gugelhupf
+
+[58]
+FZ1=
+FZ2=Wer oder was ist ein Gugelhupf ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1	 Kuchen
+Antwort_2=0	 Laubfroschart
+Antwort_3=0	 Meteoritenkrater
+Antwort_4=0	bayrische Sportart
+
+[59]
+FZ1=
+FZ2=Auf welchem Tier ritt Jesus, als er am
+FZ3=Palmsonntag in Jerusalem einzog ?
+Min=8000
+Max=64000
+Antwort_1=1	 Esel
+Antwort_2=0	 Pferd
+Antwort_3=0	 Kamel
+Antwort_4=0	 Ochse
+
+[60]
+FZ1=
+FZ2=Welcher ist kein Evangelist ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Rudolf
+Antwort_2=0	 Markus
+Antwort_3=0	 Johannes
+Antwort_4=0	Lukas
+
+[61]
+FZ1=
+FZ2=Welches Gewürz macht den Kuchen gelb ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 Safran
+Antwort_2=0	 Majoran
+Antwort_3=0	 Zimt
+Antwort_4=0	Pfeffer
+
+[62]
+FZ1=
+FZ2=Was ist eine Galeere ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 mittelalterliches Kriegsschiff
+Antwort_2=0	 römische Bodenvase
+Antwort_3=0	 private Ausstellungsräume
+Antwort_4=0	 chinesische Gardine
+
+[63]
+FZ1=
+FZ2=Welches Motiv wiederholt sich 50 Mal
+FZ3=auf der Flagge der USA ?
+Min=32000
+Max=125000
+Antwort_1=1	 Sterne
+Antwort_2=0	 Punkte
+Antwort_3=0	 Adler
+Antwort_4=0	Streifen
+
+[64]
+FZ1=
+FZ2=Mit dem Pelz welchen Tieres waren früher
+FZ3=Kronen und Kaisermäntel verziert ?
+Min=125000
+Max=1000000
+Antwort_1=1	 Hermelin
+Antwort_2=0	 Schneehase
+Antwort_3=0	 Katze
+Antwort_4=0	 Biber
+
+[65]
+FZ1=
+FZ2=Wie heißt die schnellste Gangart des Pferdes ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Galopp
+Antwort_2=0	 Schritt
+Antwort_3=0	 Trab
+Antwort_4=0	Stand
+
+[66]
+FZ1=
+FZ2=Welchen Namen trägt der Hippogreif von Hagrid
+FZ3=aus dem dritten Harry - Potter - Band ?
+Min=125000
+Max=500000
+Antwort_1=1	 Seidenschnabel
+Antwort_2=0	 Wollmäulchen
+Antwort_3=0	 Lederschnauze
+Antwort_4=0	 Samtmündchen
+
+[67]
+FZ1=
+FZ2=Welcher deutsche Komponist schrieb die schönsten
+FZ3=Musikstücke, obwohl er viele Jahre taub war ?
+Min=125000
+Max=1000000
+Antwort_1=1	 Ludwig van Beethoven
+Antwort_2=0	 Richard Wagner
+Antwort_3=0	 Johann Sebastian Bach
+Antwort_4=0	 Dieter Bohlen
+
+[68]
+FZ1=
+FZ2=Was steht auf Kraftfahrzeugkennzeichen der Stadt Aachen ?
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1	 AA
+Antwort_2=0	 A
+Antwort_3=0	 AC
+Antwort_4=0	AN
+
+[69]
+FZ1=
+FZ2=Wie sagt man in Bayern und Österreich zu Bonbon ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Zuckerl
+Antwort_2=0	 Zackerl
+Antwort_3=0	 Zickerl
+Antwort_4=0	Zeckerl
+
+[70]
+FZ1=
+FZ2=Welches Tier ziert das Emblem des 1. FC Köln ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Geißbock
+Antwort_2=0	 Tiger
+Antwort_3=0	 Schlange
+Antwort_4=0	Löwe
+
+[71]
+FZ1=
+FZ2=Wie heißt das Wahrzeichen der brasilianischen
+FZ3=Hauptstadt Rio de Janeiro ?
+Min=32000
+Max=125000
+Antwort_1=1	 Zuckerhut
+Antwort_2=0	 Salzspitze
+Antwort_3=0	 Pfeffermütze
+Antwort_4=0	 Ölberg
+
+[72]
+FZ1=
+FZ2=Wie nennt man das Flugzeug Boeing 747 noch ?
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1	 Jumbo
+Antwort_2=0	 Adler
+Antwort_3=0	 Kranich
+Antwort_4=0	Kondor
+
+[73]
+FZ1=
+FZ2=Wie viele Saiten hat eine Geige ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 vier
+Antwort_2=0	 drei
+Antwort_3=0	 fünf
+Antwort_4=0	 sechs
+
+[74]
+FZ1=
+FZ2=Aus wie vielen Zähnen besteht das vollständige
+FZ3=menschliche Milchgebiss ?
+Min=32000
+Max=125000
+Antwort_1=1	 20
+Antwort_2=0	 32
+Antwort_3=0	 28
+Antwort_4=0	36
+
+[75]
+FZ1=
+FZ2=Wie nennt man den Leiter eines Theaters ?
+FZ3=
+Min=125000
+Max=1000000
+Antwort_1=1	 Intendant
+Antwort_2=0	 Komödiant
+Antwort_3=0	 Mandant
+Antwort_4=0	Diamant
+
+[76]
+FZ1=
+FZ2=Was sind Hammer, Amboss und Steigbügel ?
+FZ3=
+Min=32000
+Max=125000
+Antwort_1=1	 Knöchelchen im Mittelohr
+Antwort_2=0	 Werkzeuge
+Antwort_3=0	 Modegetränke
+Antwort_4=0	gute Freunde
+
+[77]
+FZ1=
+FZ2=Welche Sportart gehört nicht zu einem Triathlon ?
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1	 Rudern
+Antwort_2=0	 Radfahren
+Antwort_3=0	 Laufen
+Antwort_4=0	Schwimmen
+
+[78]
+FZ1=
+FZ2=Wer oder was ist Staupe ?
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1	 Krankheit bei Tieren
+Antwort_2=0	 norddeutsche Küstenstadt
+Antwort_3=0	 deutscher Ministerpräsident
+Antwort_4=0	asiatischer Wirbelsturm
+
+[79]
+FZ1=
+FZ2=Welches ist das nördlichste Bundesland ?
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1	 Schleswig - Holstein
+Antwort_2=0	 Sachsen - Anhalt
+Antwort_3=0	 Brandenburg
+Antwort_4=0	Mecklenburg - Vorpommern
+
+[80]
+FZ1=
+FZ2=Welches Instrument nennt man in Norddeutschland
+FZ3="Schifferklavier" und in Bayern "Quetsche" ?
+Min=16000
+Max=16000
+Antwort_1=1	 Akkordeon
+Antwort_2=0	 Flügel
+Antwort_3=0	 Harfe
+Antwort_4=0	Mundharmonika
+
+[81]
+FZ1=
+FZ2=Wie heißt die Verbindung zwischen
+FZ3=Sylt und dem Festland ?
+Min=250000
+Max=500000
+Antwort_1=1	 Hindenburgdamm
+Antwort_2=0	 Apolloallee
+Antwort_3=0	 Zeppelinstraße
+Antwort_4=0	Titanicweg
+
+[82]
+FZ1=
+FZ2=Wie nennt man in Deutschland
+FZ3=den Feiertag am 1. Mai ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Tag der Arbeit
+Antwort_2=0	 Tag des Frühlings
+Antwort_3=0	 Tag der Mutter
+Antwort_4=0	Tag der Ruhe
+
+[83]
+FZ1=
+FZ2=Wo leben die Eskimos ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 in der Arktis
+Antwort_2=0	 in der Antarktis
+Antwort_3=0	 am Südpol
+Antwort_4=0	am Äquator
+
+[84]
+FZ1=
+FZ2=Unter welchem Namen ist die
+FZ3=Kehrwiederkeule besser bekannt ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Bumerang
+Antwort_2=0	 Echolot
+Antwort_3=0	 Frisbee
+Antwort_4=0	Diskus
+
+[85]
+FZ1=
+FZ2=Das Schwarze Meer liegt zwischen ...?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Europa und Asien
+Antwort_2=0	 Europa und Afrika
+Antwort_3=0	 Australien und Asien
+Antwort_4=0	 Nord- und Südamerika
+
+[86]
+FZ1=
+FZ2=Wie heißt die heilige Schrift der Muslime ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Koran
+Antwort_2=0	 Membran
+Antwort_3=0	 Meran
+Antwort_4=0	Iran
+
+[87]
+FZ1=
+FZ2=Welches Bundesland grenzt an Österreich ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Bayern
+Antwort_2=0	 Nordrhein - Westfalen
+Antwort_3=0	 Hessen
+Antwort_4=0	Thüringen
+
+[88]
+FZ1=
+FZ2=Welches Volk wusste schon im 7. Jahrhundert,
+FZ3=wie man Porzellan herstellt ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Chinesen
+Antwort_2=0	 Inder
+Antwort_3=0	 Portugiesen
+Antwort_4=0	Japaner
+
+[89]
+FZ1=
+FZ2=Von welchem Organ geht das Seitenstechen aus ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Milz
+Antwort_2=0	 Leber
+Antwort_3=0	 Lunge
+Antwort_4=0	Galle
+
+[90]
+FZ1=
+FZ2=Wie nennt man Soldaten, die für die
+FZ3=Vereinten Nationen tätig sind ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Blauhelme
+Antwort_2=0	 Schwarzhelme
+Antwort_3=0	 Grünhelme
+Antwort_4=0	Rothelme
+
+[91]
+FZ1=
+FZ2=Welches dieser Länder grenzt nicht an ein Meer ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Schweiz
+Antwort_2=0	 Deutschland
+Antwort_3=0	 Griechenland
+Antwort_4=0	Italien
+
+[92]
+FZ1=
+FZ2=Wie heißt die Landeshauptstadt
+FZ3=von Nordrhein - Westfalen ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Düsseldorf
+Antwort_2=0	 Dortmund
+Antwort_3=0	 Bochum
+Antwort_4=0	Essen
+
+[93]
+FZ1=
+FZ2=Was ist Florida ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 amerikanische Halbinsel
+Antwort_2=0	 britische Insel
+Antwort_3=0	 Stadt in China
+Antwort_4=0	Kölner Bezirk
+
+[94]
+FZ1=
+FZ2=Welches dieser Länder liegt am Meer ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Italien
+Antwort_2=0	 Österreich
+Antwort_3=0	 Ungarn
+Antwort_4=0	Schweiz
+
+[95]
+FZ1=
+FZ2=Welcher Fluss mündet bei Passau in die Donau ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Inn
+Antwort_2=0	 Isar
+Antwort_3=0	 Lech
+Antwort_4=0	Iller
+
+[96]
+FZ1=
+FZ2=Was überquert man, wenn man mit dem Schiff
+FZ3=von Europa nach Amerika fährt ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Atlantik
+Antwort_2=0	 Indischen Ozean
+Antwort_3=0	 Mittelmeer
+Antwort_4=0	Rote Meer
+
+[97]
+FZ1=
+FZ2=An welchem dieser Flüsse liegt Berlin ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Spree
+Antwort_2=0	 Oder
+Antwort_3=0	 Weser
+Antwort_4=0	Elbe
+
+[98]
+FZ1=
+FZ2=In welcher Stadt befindet sich das Stollwerck - Schokoladenmuseum ?
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1	 Köln
+Antwort_2=0	 Leipzig
+Antwort_3=0	 Ingolstadt
+Antwort_4=0	Stuttgart
+
+[99]
+FZ1=
+FZ2=Was versteht man in
+FZ3=Deutschland unter einer Babyzelle ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Batterie
+Antwort_2=0	 Kindergefängnis
+Antwort_3=0	 Mercedes A - Klasse
+Antwort_4=0	kleines Telefonhäuschen
+
+[100]
+FZ1=
+FZ2=Wie nennt man Männer, die unter Tage
+FZ3=im Bergbau arbeiten ?
+Min=250000
+Max=1000000
+Antwort_1=1	 Kumpel
+Antwort_2=0	 Untermänner
+Antwort_3=0	 Nachtlöhner
+Antwort_4=0	Bergbauern
+

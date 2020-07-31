@@ -1,0 +1,709 @@
+[Thema]
+Thema       = Getreide
+Fragen      = 64
+Autor       = Anke Brauer  11/2002
+
+[1]
+FZ1         = 
+FZ2         = Welche Getreideart hat keine Ähren? 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1Hafer
+Antwort_2   = 0Roggen
+Antwort_3   = 0Gerste
+Antwort_4   = 0Weizen
+
+[2]
+FZ1         =  
+FZ2         = Woraus wird Bier hergestellt ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0aus Weizen
+Antwort_2   = 1aus Gerste
+Antwort_3   = 0aus Roggen
+Antwort_4   = 0aus Hafer
+
+[3]
+FZ1         = 
+FZ2         = Woraus wird Popcorn hergestellt ? 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0aus Gerste
+Antwort_2   = 1aus Mais
+Antwort_3   = 0aus Reis
+Antwort_4   = 0aus Weizen
+
+[4]
+FZ1         = 
+FZ2         =  Welche Getreideart hat die längsten Grannen ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Roggen
+Antwort_2   = 0Hafer
+Antwort_3   = 1Gerste
+Antwort_4   = 0Weizen
+
+[5]
+FZ1         = 
+FZ2         = Welche Zutat ist beim Brötchen nicht so wichtig ? 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Hefe
+Antwort_2   = 1 Eier
+Antwort_3   = 0 Mehl
+Antwort_4   = 0 Salz
+
+[6]
+FZ1         = 
+FZ2         =  Welche Zutat braucht Brotteig zum Aufgehen ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Wasser
+Antwort_2   = 0Mehl
+Antwort_3   = 0Salz
+Antwort_4   = 1Hefe
+
+[7]
+FZ1         = 
+FZ2         =  Was macht der Müller mit dem Getreide ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0verkaufen
+Antwort_2   = 0backen
+Antwort_3   = 1mahlen
+Antwort_4   = 0anbauen
+
+[8]
+FZ1         = 
+FZ2         =  Wo arbeitet der Müller ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Supermarkt
+Antwort_2   = 0Bäckerei
+Antwort_3   = 1Mühle
+Antwort_4   = 0Bauernhof
+
+[9]
+FZ1         = 
+FZ2         =  Welches Getreidekorn ist am dunkelsten ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Gerste
+Antwort_2   = 0Hafer
+Antwort_3   = 0Weizen
+Antwort_4   = 1Roggen
+
+[10]
+FZ1         = 
+FZ2         =  Wie entstehen Getreideflocken ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 zermahlen von Gereide
+Antwort_2   = 1 zerdrücken von Getreide
+Antwort_3   = 0 backen von Getreide
+Antwort_4   = 0 kochen von Getreide
+
+[11]
+FZ1         =  
+FZ2         =  Aus welchem Getreide werden Nudeln hergestellt ? 
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Mais
+Antwort_2   = 0 Roggen
+Antwort_3   = 0 Gerste
+Antwort_4   = 1 Weizen
+
+[12]
+FZ1         = 
+FZ2         =  Was ist keine Getreideart ?
+FZ3         =  
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 0 Mais
+Antwort_2   = 1 Erbsen
+Antwort_3   = 0 Reis
+Antwort_4   = 0 Hirse
+
+[13]
+FZ1         = 
+FZ2         =  Aus welchem Mehl werden normale Brötchen hergestellt ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Maismehl
+Antwort_2   = 0 Kartoffelmehl
+Antwort_3   = 0 Roggenmehl
+Antwort_4   = 1 Weizenmehl
+
+[14]
+FZ1         = 
+FZ2         =  Welche Zutat ist wichtig für den Geschmack der Brötchen ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1 Salz
+Antwort_2   = 0 Hefe
+Antwort_3   = 0 Wasser
+Antwort_4   = 0 Mehl
+
+[15]
+FZ1         = 
+FZ2         =  Bei wieviel Grad backen Brötchen ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1 250 Grad
+Antwort_2   = 0 300 Grad
+Antwort_3   = 0 150 Grad
+Antwort_4   = 0 100 Grad
+
+[16]
+FZ1         =  
+FZ2         =  Welches Getreide wird in China am meisten gegessen? 
+FZ3         =  
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 1 Reis
+Antwort_2   = 0 Mais
+Antwort_3   = 0 Gerste
+Antwort_4   = 0 Roggen
+
+[17]
+FZ1         = 
+FZ2         =  Welches Getreide wird in Afrika am meisten gegessen ?
+FZ3         =  
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 0 Weizen
+Antwort_2   = 0 Reis
+Antwort_3   = 1 Hirse
+Antwort_4   = 0 Gerste
+
+[18]
+FZ1         = 
+FZ2         =  Welches Getreide wird in Europa meistens angebaut ?
+FZ3         =  
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 0 Roggen
+Antwort_2   = 0 Hirse
+Antwort_3   = 0 Reis
+Antwort_4   = 1 Weizen
+                
+[19]
+FZ1         = 
+FZ2         =  Welches Getreide verwendet man für Cornflakes ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Reis
+Antwort_2   = 0 Roggen
+Antwort_3   = 0 Weizen
+Antwort_4   = 1 Mais
+                
+[20]
+FZ1         =  Welche Maschine wird zur 
+FZ2         =  Getreideernte eingesetzt ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Egge
+Antwort_2   = 0 Pflug
+Antwort_3   = 0 Traktor
+Antwort_4   = 1 Mähdrescher
+
+[21]
+FZ1         = Welche Maschine zerkleinert die Erdklumpen ?
+FZ2         = 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Traktor 
+Antwort_2   = 0 Mähdrescher
+Antwort_3   = 1 Egge
+Antwort_4   = 0 Mühle
+
+[22]
+FZ1         = 
+FZ2         =  Wie hoch können Maispflanzen werden ?
+FZ3         = 
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 0 bis 1,50m
+Antwort_2   = 1 bis 2,50m
+Antwort_3   = 0 bis 1m
+Antwort_4   = 0 bis 4m
+
+[23]
+FZ1         =  
+FZ2         =  In welchem Land wurde das erste Brot gebacken ?
+FZ3         =  
+Min         = 8000
+Max         = 1000000
+Antwort_1   = 1 in Ägypten
+Antwort_2   = 0 in Deutschland
+Antwort_3   = 0 in England
+Antwort_4   = 0 in China
+
+[24]
+FZ1         = 
+FZ2         =  Wieviel Mehl brauchst du für eine Scheibe Brot ?
+FZ3         =  (1000 Gramm sind 1 Kilogramm)
+Min         = 8000
+Max         = 1000000
+Antwort_1   = 0 500 Gramm
+Antwort_2   = 1 30 Gramm
+Antwort_3   = 0 1000 Gramm
+Antwort_4   = 0 200 Gramm
+
+[25]
+FZ1         = 
+FZ2         =  Wie nannt man die dünnen Haare an den Ähren ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Schwänze
+Antwort_2   = 0 Fell
+Antwort_3   = 1 Grannen
+Antwort_4   = 0 Borsten
+
+[26]
+FZ1         =  
+FZ2         =  Was ist eine Getreideart ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1 Reis
+Antwort_2   = 0 Erbsen
+Antwort_3   = 0 Bohnen
+Antwort_4   = 0 Kartoffeln
+
+[27]
+FZ1         = 
+FZ2         =  Was tut der Bäcker nicht ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 verkaufen
+Antwort_2   = 0 backen
+Antwort_3   = 1 mahlen
+Antwort_4   = 0 kneten
+
+[28]
+FZ1         = 
+FZ2         =  Wie heißt gemahlenes Getreide ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Puder
+Antwort_2   = 0 Flocken
+Antwort_3   = 0 Brot
+Antwort_4   = 1 Mehl
+
+[29]
+FZ1         = 
+FZ2         = In Kuchenteig kommt oft keine Hefe.  
+FZ3         = Was sorgt hier dafür, dass der Teig aufgeht ? 
+Min         = 8000
+Max         = 1000000
+Antwort_1   = 0 Zucker
+Antwort_2   = 1 Backpulver
+Antwort_3   = 0 Eier
+Antwort_4   = 0 Butter
+
+[30]
+FZ1         = 
+FZ2         =  Wie viel wiegt das Mehl aus 1 Kilogramm Getreide?
+FZ3         =  (1000 Gramm sind 1 Kilogramm) 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 500 Gramm
+Antwort_2   = 0 2 Kilogramm
+Antwort_3   = 1 1 Kilogramm
+Antwort_4   = 0 750 Gramm
+
+[31]
+FZ1         = 
+FZ2         =  Getreide dreschen bedeutet....
+FZ3         =  
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 0 Getreide mähen
+Antwort_2   = 0 Getreide säen
+Antwort_3   = 0 Körner zu Mehl mahlen
+Antwort_4   = 1 Körner aus den Ähren holen
+
+[32]
+FZ1         = Welche Farbe haben reife Getreidepflanzen ?
+FZ2         = 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 braun
+Antwort_2   = 0 weiß
+Antwort_3   = 0 grün
+Antwort_4   = 1 gelb
+
+[33]
+FZ1         = 
+FZ2         =  Welches Tier hat früher beim Getreideanbau geholfen? 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Schwein
+Antwort_2   = 0 Huhn
+Antwort_3   = 1 Pferd
+Antwort_4   = 0 Milchkuh
+
+[34]
+FZ1         = 
+FZ2         =  Was braucht Getreide nicht zum Wachsen ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1 Hagel
+Antwort_2   = 0 Sonne
+Antwort_3   = 0 Regen
+Antwort_4   = 0 Erde
+
+[35]
+FZ1         = 
+FZ2         = Seit wann backen die Menschen bei uns Brot ?
+FZ3         = 
+Min         = 8000
+Max         = 1000000
+Antwort_1   = 0 seit 200 Jahren
+Antwort_2   = 0 seit 50 Jahren
+Antwort_3   = 0 seit 2000 Jahren
+Antwort_4   = 1 seit 3000 Jahren
+
+[36]
+FZ1         = 
+FZ2         =  Was gehört nicht zur Getreidepflanze ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Halm
+Antwort_2   = 0 Granne
+Antwort_3   = 1 Stamm
+Antwort_4   = 0 Blatt
+
+[37]
+FZ1         = 
+FZ2         = Welche Getreideart hat die längsten Ähren? 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1Gerste
+Antwort_2   = 0Roggen
+Antwort_3   = 0Hafer
+Antwort_4   = 0Weizen
+
+[38]
+FZ1         =  
+FZ2         = Woraus werden Cornflakes hergestellt ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0aus Weizen
+Antwort_2   = 1aus Mais
+Antwort_3   = 0aus Roggen
+Antwort_4   = 0aus Hafer
+
+[39]
+FZ1         = 
+FZ2         = Wormit wird Popcorn nicht hergestellt ? 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0mit Mais
+Antwort_2   = 1mit Hafer
+Antwort_3   = 0mit Öl
+Antwort_4   = 0mit Salz
+
+[40]
+FZ1         = 
+FZ2         =  Welche Getreideart hat ganz kurze Grannen ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Roggen
+Antwort_2   = 0Gerste
+Antwort_3   = 1Weizen
+Antwort_4   = 0Hafer
+
+[41]
+FZ1         = 
+FZ2         = Welches ist die hauptsächliche Zutat 
+FZ3         = beim Brötchenteig? 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Hefe
+Antwort_2   = 1 Eier
+Antwort_3   = 0 Mehl
+Antwort_4   = 0 Salz
+
+[42]
+FZ1         = 
+FZ2         =  Womit kann Brot außer Hefe noch aufgehen ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Wasser
+Antwort_2   = 0Mehl
+Antwort_3   = 0Salz
+Antwort_4   = 1Sauerteig
+
+[43]
+FZ1         = 
+FZ2         =  Was sit keine Getreideart ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Hirse
+Antwort_2   = 0Weizen
+Antwort_3   = 1Nüsse
+Antwort_4   = 0Reis
+
+[44]
+FZ1         = 
+FZ2         =  Wo arbeitet der Bäcker ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Supermarkt
+Antwort_2   = 0Bäckerei
+Antwort_3   = 1Backstube
+Antwort_4   = 0Bauernhof
+
+[45]
+FZ1         = 
+FZ2         =  Welches Getreidekorn ist am größten ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0Gerste
+Antwort_2   = 0Hirse
+Antwort_3   = 0Weizen
+Antwort_4   = 1Mais
+
+[46]
+FZ1         = 
+FZ2         =  Welches Getreideerzeugnis im Müsli ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Mehl
+Antwort_2   = 1 Flocken
+Antwort_3   = 0 Schrot
+Antwort_4   = 0 Nüsse
+
+[47]
+FZ1         =  
+FZ2         =  Aus welchem Getreide wird Pizza hergestellt ? 
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Mais
+Antwort_2   = 0 Roggen
+Antwort_3   = 0 Gerste
+Antwort_4   = 1 Weizen
+
+[48]
+FZ1         = 
+FZ2         =  Was ist keine Getreideart ?
+FZ3         =  
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 0 Mais
+Antwort_2   = 1 Bohnen
+Antwort_3   = 0 Reis
+Antwort_4   = 0 Hirse
+
+[49]
+FZ1         = 
+FZ2         =  Aus welchem Mehl wird Sauerteigbrot hergestellt ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Maismehl
+Antwort_2   = 0 Kartoffelmehl
+Antwort_3   = 0 Gerstenmehl
+Antwort_4   = 1 Roggenmehl
+
+[50]
+FZ1         = 
+FZ2         =  Welche Zutat gehört nicht in normale Brötchen ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1 Zucker
+Antwort_2   = 0 Hefe
+Antwort_3   = 0 Salz
+Antwort_4   = 0 Mehl
+
+[51]
+FZ1         = 
+FZ2         =  Bei welcher Temperatur geht Hefeteig auf ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1 bei Zimmertemperatur
+Antwort_2   = 0 bei Frost
+Antwort_3   = 0 bei 250 Grad
+Antwort_4   = 0 100 Grad
+
+[52]
+FZ1         = 
+FZ2         =  Welches Hetreide wird in Nordamerika meistens angebaut ?
+FZ3         =  
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 0 Roggen
+Antwort_2   = 0 Hirse
+Antwort_3   = 0 Reis
+Antwort_4   = 1 Weizen
+                
+[53]
+FZ1         = 
+FZ2         =  Welches Getreide verwendet meistens für Müsliflocken ?
+FZ3         = 
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Reis
+Antwort_2   = 0 Roggen
+Antwort_3   = 0 Weizen
+Antwort_4   = 1 Hafer
+                
+[54]
+FZ1         =  Welche Maschine trennt das Korn 
+FZ2         =  von der Getreidepflanze ?
+FZ3         =  
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Egge
+Antwort_2   = 0 Pflug
+Antwort_3   = 0 Traktor
+Antwort_4   = 1 Mähdrescher
+
+[55]
+FZ1         = Welche Maschine bearbeitet die Erde ?
+FZ2         = 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Traktor 
+Antwort_2   = 0 Mähdrescher
+Antwort_3   = 1 Pflug
+Antwort_4   = 0 Mühle
+
+[56]
+FZ1         =  
+FZ2         =  Aus welchem Land kommt das Popcorn ?
+FZ3         =  
+Min         = 8000
+Max         = 1000000
+Antwort_1   = 1 aus Amerika
+Antwort_2   = 0 aus Deutschland
+Antwort_3   = 0 aus England
+Antwort_4   = 0 aus China
+
+[57]
+FZ1         = 
+FZ2         =  Wieviel Getreidekörner brauchst du für 100 Gramm Mehl ?
+FZ3         =  (1000 Gramm sind 1 Kilogramm)
+Min         = 8000
+Max         = 1000000
+Antwort_1   = 0 500 Gramm
+Antwort_2   = 1 100 Gramm
+Antwort_3   = 0 1 Kilogramm
+Antwort_4   = 0 200 Gramm
+
+[58]
+FZ1         =  
+FZ2         =  Was ist eine Getreideart ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1 Hirse
+Antwort_2   = 0 Erbsen
+Antwort_3   = 0 Bohnen
+Antwort_4   = 0 Kartoffeln
+
+[59]
+FZ1         = 
+FZ2         =  Was tut der Bauer nicht ?
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 0 pflügen
+Antwort_2   = 0 mähen
+Antwort_3   = 1 mahlen
+Antwort_4   = 0 dreschen
+
+[60]
+
+FZ1         = 
+FZ2         =  Wie viel wiegt das Mehl aus 1 Kilogramm Getreide?
+FZ3         =  (1000 Gramm sind 1 Kilogramm) 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 500 Gramm
+Antwort_2   = 0 2 Kilogramm
+Antwort_3   = 1 1 Kilogramm
+Antwort_4   = 0 750 Gramm
+
+[61]
+FZ1         = 
+FZ2         =  Eggen bedeutet....
+FZ3         =  
+Min         = 4000
+Max         = 1000000
+Antwort_1   = 0 Getreide mähen
+Antwort_2   = 0 Getreide säen
+Antwort_3   = 0 Körner aus der Pflanze lösen
+Antwort_4   = 1 Erdklumpen zerkleinern
+
+[62]
+FZ1         = Welche Farbe haben unreife Getreidepflanzen ?
+FZ2         = 
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 braun
+Antwort_2   = 0 weiß
+Antwort_3   = 0 gelb
+Antwort_4   = 1 grün
+
+[63]
+FZ1         = 
+FZ2         =  Was gehört nicht zur Getreidepflanze ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 0 Halm
+Antwort_2   = 0 Granne
+Antwort_3   = 1 Nadel
+Antwort_4   = 0 Blatt
+
+[64]
+FZ1         =  
+FZ2         =  Was ist eine Getreideart ?
+FZ3         = 
+Min         = 0
+Max         = 1000000
+Antwort_1   = 1 Dinkel
+Antwort_2   = 0 Erbsen
+Antwort_3   = 0 Bohnen
+Antwort_4   = 0 Kartoffeln

@@ -1,0 +1,1107 @@
+[Thema]
+Thema       = RUND UM DAS JAHR
+Fragen      = 100
+Autor       = Manfred Hartisch 11/05/2001
+
+[1]
+FZ1         = 
+FZ2         =  Welcher Monat kommt nach dem Dezember ?
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 1 Januar 
+Antwort_2   = 0 Februar
+Antwort_3   = 0 März
+Antwort_4   = 0 April 
+
+[2]
+FZ1         =  
+FZ2         = Welcher Monat kommt nach dem Januar ? 
+FZ3         =  
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Dezember
+Antwort_2   = 1 Februar
+Antwort_3   = 0 März
+Antwort_4   = 0 April
+
+[3]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem Februar ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Januar
+Antwort_2   = 1 März
+Antwort_3   = 0 April
+Antwort_4   = 0 Dezember
+
+[4]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem März ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Mai
+Antwort_2   = 0 Juni
+Antwort_3   = 1 April
+Antwort_4   = 0 Februar
+
+[5]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem April ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 März 
+Antwort_2   = 1 Mai
+Antwort_3   = 0 Juni
+Antwort_4   = 0 August
+
+[6]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem Mai ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 April 
+Antwort_2   = 0 Juli
+Antwort_3   = 0 September
+Antwort_4   = 1 Juni
+
+[7]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem Juni ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Mai 
+Antwort_2   = 0 August
+Antwort_3   = 1 Juli
+Antwort_4   = 0 Oktober
+
+[8]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem Juli ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 September 
+Antwort_2   = 0 Juni
+Antwort_3   = 1 August
+Antwort_4   = 0 Oktober
+
+[9]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem August ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Juli 
+Antwort_2   = 0 Oktober
+Antwort_3   = 0 November
+Antwort_4   = 1 September
+
+[10]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem September ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 November 
+Antwort_2   = 1 Oktober
+Antwort_3   = 0 August
+Antwort_4   = 0 Dezember
+
+[11]
+FZ1         =  
+FZ2         = Welcher Monat kommt nach dem Oktober ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Dezember 
+Antwort_2   = 0 September
+Antwort_3   = 0 Januar
+Antwort_4   = 1 November
+
+[12]
+FZ1         = 
+FZ2         = Welcher Monat kommt nach dem November ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Januar
+Antwort_2   = 1 Dezember
+Antwort_3   = 0 Februar
+Antwort_4   = 0 Oktober
+
+[13]
+FZ1         = 
+FZ2         =  Welcher Monat kommt vor dem Dezember ?
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 1 November
+Antwort_2   = 0 Februar
+Antwort_3   = 0 März
+Antwort_4   = 0 April 
+
+[14]
+FZ1         =  
+FZ2         = Welcher Monat kommt vor dem Januar ? 
+FZ3         =  
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Februar
+Antwort_2   = 1 Dezember
+Antwort_3   = 0 März
+Antwort_4   = 0 April
+
+[15]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem Februar ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 März
+Antwort_2   = 1 Januar
+Antwort_3   = 0 April
+Antwort_4   = 0 Dezember
+
+[16]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem März ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Mai
+Antwort_2   = 0 Juni
+Antwort_3   = 1 Februar
+Antwort_4   = 0 April
+
+[17]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem April ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Mai
+Antwort_2   = 1 März
+Antwort_3   = 0 Juni
+Antwort_4   = 0 August
+
+[18]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem Mai ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Juni
+Antwort_2   = 0 Juli
+Antwort_3   = 0 September
+Antwort_4   = 1 April
+
+[19]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem Juni ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Juli
+Antwort_2   = 0 August
+Antwort_3   = 1 Mai
+Antwort_4   = 0 Oktober
+
+[20]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem Juli ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 September 
+Antwort_2   = 0 August
+Antwort_3   = 1 Juni
+Antwort_4   = 0 Oktober
+
+[21]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem August ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 September
+Antwort_2   = 0 Oktober
+Antwort_3   = 0 November
+Antwort_4   = 1 Juli
+
+[22]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem September ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 November 
+Antwort_2   = 1 August
+Antwort_3   = 0 Oktober
+Antwort_4   = 0 Dezember
+
+[23]
+FZ1         =  
+FZ2         = Welcher Monat kommt vor dem Oktober ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Dezember 
+Antwort_2   = 0 November
+Antwort_3   = 0 Januar
+Antwort_4   = 1 September
+
+[24]
+FZ1         = 
+FZ2         = Welcher Monat kommt vor dem November ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 Dezember
+Antwort_2   = 1 Oktober
+Antwort_3   = 0 Februar
+Antwort_4   = 0 Januar
+
+[25]
+FZ1         = 
+FZ2         =  Wie heißt der 1. Monat ?
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 1 Januar 
+Antwort_2   = 0 Februar
+Antwort_3   = 0 März
+Antwort_4   = 0 April 
+
+[26]
+FZ1         =  
+FZ2         = Wie heißt der 2. Monat ? 
+FZ3         =  
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Dezember
+Antwort_2   = 1 Februar
+Antwort_3   = 0 März
+Antwort_4   = 0 April
+
+[27]
+FZ1         = 
+FZ2         = Wie heißt der 3. Monat ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Januar
+Antwort_2   = 1 März
+Antwort_3   = 0 April
+Antwort_4   = 0 Dezember
+
+[28]
+FZ1         = 
+FZ2         = Wie heißt der 4. Monat ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Mai
+Antwort_2   = 0 Juni
+Antwort_3   = 1 April
+Antwort_4   = 0 Februar
+
+[29]
+FZ1         = 
+FZ2         = Wie heißt der 5. Monat ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 März 
+Antwort_2   = 1 Mai
+Antwort_3   = 0 Juni
+Antwort_4   = 0 August
+
+[30]
+FZ1         = 
+FZ2         = Wie heißt der 6. Monat ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 April 
+Antwort_2   = 0 Juli
+Antwort_3   = 0 September
+Antwort_4   = 1 Juni
+
+[31]
+FZ1         = 
+FZ2         = Wie heißt der 7. Monat ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Mai 
+Antwort_2   = 0 August
+Antwort_3   = 1 Juli
+Antwort_4   = 0 Oktober
+
+[32]
+FZ1         = 
+FZ2         = Wie heißt der 8. Monat ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 September 
+Antwort_2   = 0 Juni
+Antwort_3   = 1 August
+Antwort_4   = 0 Oktober
+
+[33]
+FZ1         = 
+FZ2         = Wie heißt der 9. Monat ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Juli 
+Antwort_2   = 0 Oktober
+Antwort_3   = 0 November
+Antwort_4   = 1 September
+
+[34]
+FZ1         = 
+FZ2         = Wie heißt der 10. Monat ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 November 
+Antwort_2   = 1 Oktober
+Antwort_3   = 0 August
+Antwort_4   = 0 Dezember
+
+[35]
+FZ1         =  
+FZ2         = Wie heißt der 11. Monat ? 
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Dezember 
+Antwort_2   = 0 September
+Antwort_3   = 0 Januar
+Antwort_4   = 1 November
+
+[36]
+FZ1         = 
+FZ2         = Wie heißt der 12. Monat ?
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Januar
+Antwort_2   = 1 Dezember
+Antwort_3   = 0 Februar
+Antwort_4   = 0 Oktober
+
+
+[37]
+FZ1         =  
+FZ2         = Welchen Monat gibt es nicht ? 
+FZ3         =  
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Dezember
+Antwort_2   = 1 Februber
+Antwort_3   = 0 März
+Antwort_4   = 0 April
+
+[38]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Januar
+Antwort_2   = 1 Oktomer
+Antwort_3   = 0 April
+Antwort_4   = 0 Dezember
+
+[39]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Mai
+Antwort_2   = 0 Juni
+Antwort_3   = 1 Jubi
+Antwort_4   = 0 Juli
+
+[40]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 September
+Antwort_2   = 1 Dektober
+Antwort_3   = 0 Oktober
+Antwort_4   = 0 August
+
+[41]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Dezember
+Antwort_2   = 0 Oktober
+Antwort_3   = 0 September
+Antwort_4   = 1 Noktember
+
+[42]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 November
+Antwort_2   = 0 Dezember
+Antwort_3   = 1 Januber
+Antwort_4   = 0 Oktober
+
+[43]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 September 
+Antwort_2   = 0 Juni
+Antwort_3   = 1 Bruni
+Antwort_4   = 0 Oktober
+
+[44]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 Dezember
+Antwort_2   = 0 Oktober
+Antwort_3   = 0 November
+Antwort_4   = 1 Deptember
+
+[45]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 November 
+Antwort_2   = 1 Oktember
+Antwort_3   = 0 September
+Antwort_4   = 0 Dezember
+
+[46]
+FZ1         =  
+FZ2         = Welchen Monat gibt es nicht ? 
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Dezember 
+Antwort_2   = 0 Februar
+Antwort_3   = 0 Januar
+Antwort_4   = 1 Nobruar
+
+[47]
+FZ1         = 
+FZ2         = Welchen Monat gibt es nicht ?
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 August
+Antwort_2   = 1 Anton
+Antwort_3   = 0 Februar
+Antwort_4   = 0 Oktober
+
+[48]
+FZ1         = 
+FZ2         = Welcher Monat wird auch Wonnemonat genannt ? 
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 0 April
+Antwort_2   = 0 Juni
+Antwort_3   = 0 Juli
+Antwort_4   = 1 Mai
+
+[49]
+FZ1         = 
+FZ2         = Welche Reihenfolge stimmt nicht ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Februar Dezember März
+Antwort_2   = 0 April Mai Juni
+Antwort_3   = 0 Juni Juli August
+Antwort_4   = 0 Mai Juni Juli
+
+[50]
+FZ1         = 
+FZ2         = Welche Reihenfolge stimmt nicht ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 März April Juni
+Antwort_2   = 0 April Mai Juni
+Antwort_3   = 0 Juli August September
+Antwort_4   = 0 Mai Juni Juli
+
+[51]
+FZ1         = 
+FZ2         = Welche Reihenfolge stimmt nicht ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Juni Juli Mai
+Antwort_2   = 0 April Mai Juni
+Antwort_3   = 0 März April Mai
+Antwort_4   = 0 Mai Juni Juli
+
+
+[52]
+FZ1         = 
+FZ2         = Welche Reihenfolge stimmt nicht ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Frühling Herbst Sommer
+Antwort_2   = 0 Winter Frühling Sommer
+Antwort_3   = 0 Herbst Winter Frühling
+Antwort_4   = 0 Sommer Herbst Winter
+
+[53]
+FZ1         = 
+FZ2         = Welche Reihenfolge stimmt nicht ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Frühling Sommer Winter
+Antwort_2   = 0 Winter Frühling Sommer
+Antwort_3   = 0 Herbst Winter Frühling
+Antwort_4   = 0 Sommer Herbst Winter
+
+[54]
+FZ1         = 
+FZ2         = Welche Reihenfolge stimmt nicht ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Herbst Winter Sommer
+Antwort_2   = 0 Winter Frühling Sommer
+Antwort_3   = 0 Herbst Winter Frühling
+Antwort_4   = 0 Sommer Herbst Winter
+
+[55]
+FZ1         =  
+FZ2         = Wie heißt der Donnerstag vor Ostern ? 
+FZ3         = 
+Min         = 8000
+Max         = 125000
+Antwort_1   = 1 Gründonnerstag
+Antwort_2   = 0 Gelbdonnerstag
+Antwort_3   = 0 Blaudonnerstag
+Antwort_4   = 0 Rotdonnerstag
+
+[56]
+FZ1         = 
+FZ2         = Wie heißt der Freitag vor Ostern ?  
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Karlfreitag
+Antwort_2   = 0 Warfreitag 
+Antwort_3   = 1 Karfreitag
+Antwort_4   = 0 Sarfreitag
+
+[57]
+FZ1         = 
+FZ2         = Wie viele Tage hat ein Schaltjahr ?
+FZ3         = 
+Min         = 1000000
+Max         = 1000000
+Antwort_1   = 0 365
+Antwort_2   = 0 364
+Antwort_3   = 0 367
+Antwort_4   = 1 366
+                
+[58]
+FZ1         = 
+FZ2         = Wie viele Tage hat ein Jahr ? 
+FZ3         = 
+Min         = 250000
+Max         = 500000
+Antwort_1   = 0 366
+Antwort_2   = 0 367
+Antwort_3   = 0 250
+Antwort_4   = 1 365
+                
+[59]
+FZ1         =  
+FZ2         = Wie viele Tage hat eine Woche ? 
+FZ3         = 
+Min         = 0
+Max         = 300
+Antwort_1   = 0 5
+Antwort_2   = 0 6
+Antwort_3   = 0 8
+Antwort_4   = 1 7
+
+[60]
+FZ1         = 
+FZ2         = Wie viele Monate hat ein Jahr ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 10
+Antwort_2   = 0 11
+Antwort_3   = 1 12
+Antwort_4   = 0 13
+
+[61]
+FZ1         = 
+FZ2         = Wie viele Monate hat ein halbes Jahr ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 5
+Antwort_2   = 1 6
+Antwort_3   = 0 7
+Antwort_4   = 0 8
+
+[62]
+FZ1         =  
+FZ2         = Wie viele Monate hat ein Vierteljahr ? 
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 1 3
+Antwort_2   = 0 4
+Antwort_3   = 0 2
+Antwort_4   = 0 5
+
+[63]
+FZ1         = 
+FZ2         = In welchem Monat ist Frühlingsanfang ? 
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Februar
+Antwort_2   = 1 März
+Antwort_3   = 0 April
+Antwort_4   = 0 Mai
+
+[64]
+FZ1         = 
+FZ2         = In welchem Monat ist Sommeranfang ? 
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Juli
+Antwort_2   = 1 Juni
+Antwort_3   = 0 April
+Antwort_4   = 0 Mai
+
+[65]
+FZ1         = 
+FZ2         = In welchem Monat ist Herbstanfang ? 
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 Oktober
+Antwort_2   = 1 September
+Antwort_3   = 0 November
+Antwort_4   = 0 Dezember
+
+[66]
+FZ1         = 
+FZ2         = In welchem Monat ist Winteranfang ? 
+FZ3         = 
+Min         = 4000
+Max         = 32000
+Antwort_1   = 0 November
+Antwort_2   = 1 Dezember
+Antwort_3   = 0 Januar
+Antwort_4   = 0 Mai
+
+[67]
+FZ1         = 
+FZ2         = Was ist  k e i n e  Jahreszeit ?   
+FZ3         = 
+Min         = 16000
+Max         = 125000
+Antwort_1   = 0 Herbst
+Antwort_2   = 0 Winter
+Antwort_3   = 1 Karneval
+Antwort_4   = 0 Sommer
+
+[68]
+FZ1         =  
+FZ2         = In welchem Monat kommt der Nikolaus ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 1 Dezember 
+Antwort_2   = 0 November
+Antwort_3   = 0 August
+Antwort_4   = 0 Oktober
+
+[69]
+FZ1         = 
+FZ2         = An welchem Tag kommt der Nikolaus ? 
+FZ3         = 
+Min         = 2000
+Max         = 64000
+Antwort_1   = 0 5. Dezember
+Antwort_2   = 0 7. Dezember
+Antwort_3   = 1 6. Dezember
+Antwort_4   = 0 6. November
+
+[70]
+FZ1         = 
+FZ2         = Wer kommt am 6. Dezember ? 
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Osterhase
+Antwort_2   = 0 Christkind
+Antwort_3   = 0 Kasper
+Antwort_4   = 1 Nikolaus
+
+[71]
+FZ1         = 
+FZ2         = Wie nennt man den letzten Tag im Jahr auch noch ? 
+FZ3         = 
+Min         = 300
+Max         = 1000
+Antwort_1   = 0 Tweety
+Antwort_2   = 1 Silvester
+Antwort_3   = 0 Abschlusstag
+Antwort_4   = 0 Semester
+
+[72]
+FZ1         = 
+FZ2         = Wie nennt man den ersten Tag im Jahr auch noch ? 
+FZ3         = 
+Min         = 300
+Max         = 2000
+Antwort_1   = 0 Anfangstag
+Antwort_2   = 0 Starttag
+Antwort_3   = 1 Neujahrstag
+Antwort_4   = 0 Beginntag
+
+[73]
+FZ1         = 
+FZ2         = Was ist auch ein Monatsname ? 
+FZ3         = 
+Min         = 2000
+Max         = 16000
+Antwort_1   = 0 Fridolin
+Antwort_2   = 0 Melchior
+Antwort_3   = 0 Kasper
+Antwort_4   = 1 August
+
+[74]
+FZ1         = 
+FZ2         = Wer gab dem Monat August seinen Namen ? 
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ein griechischer Kaiser
+Antwort_2   = 0 ein ägyptischer König
+Antwort_3   = 0 ein berühmter Zirkusclown
+Antwort_4   = 1 ein römischer Kaiser
+
+[75]
+FZ1         = 
+FZ2         = Wer gab dem Monat Juli seinen Namen ? 
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 ein griechischer Gott
+Antwort_2   = 0 ein englischer König
+Antwort_3   = 0 eine berühmte Schauspielerin
+Antwort_4   = 1 ein römischer Kaiser
+
+[76]
+FZ1         = 
+FZ2         =  Welcher Monat hat die wenigsten Tage ?
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 Mai
+Antwort_2   = 0 Juni
+Antwort_3   = 1 Februar
+Antwort_4   = 0 März
+
+[77]
+FZ1         = 
+FZ2         = Wie viele Tage hat ein normaler Februar ?
+FZ3         =      (also nicht im Schaltjahr !)
+Min         = 16000
+Max         = 125000
+Antwort_1   = 1 28
+Antwort_2   = 0 27
+Antwort_3   = 0 29
+Antwort_4   = 0 30
+
+[78]
+FZ1         =
+FZ2         = Wie viele Tage hat ein Februar in einem Schaltjahr ? 
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 0 28
+Antwort_2   = 0 30
+Antwort_3   = 0 27
+Antwort_4   = 1 29
+
+[79]
+FZ1         = 
+FZ2         =  An welchem Tag ist Muttertag ?
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 am ersten Sonntag im Mai
+Antwort_2   = 0 am letzten Sonntag im Mai
+Antwort_3   = 1 am zweiten Sonntag im Mai
+Antwort_4   = 0 am letzten Sonntag im April
+
+[80]
+FZ1         =
+FZ2         = In welchem Monat ist Muttertag ?
+FZ3         = 
+Min         = 1000
+Max         = 16000
+Antwort_1   = 1 Mai
+Antwort_2   = 0 Juni
+Antwort_3   = 0 Juli
+Antwort_4   = 0 April
+
+[81]
+FZ1         =
+FZ2         = In welchem Monat ist Erntedankfest ? 
+FZ3         = 
+Min         = 1000
+Max         = 8000
+Antwort_1   = 0 November
+Antwort_2   = 0 September
+Antwort_3   = 0 August
+Antwort_4   = 1 Oktober
+
+[82]
+FZ1         =
+FZ2         = Wer ist für die Jahreszeiten verantwortlich ? 
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 Mond
+Antwort_2   = 1 Sonne
+Antwort_3   = 0 Sterne
+Antwort_4   = 0 Kalender
+
+[83]
+FZ1         = 
+FZ2         = Welcher Monat gibt einer Glockenblume seinen Namen ? 
+FZ3         = 
+Min         = 8000
+Max         = 640000
+Antwort_1   = 0 Juni
+Antwort_2   = 0 Juli
+Antwort_3   = 0 März
+Antwort_4   = 1 Mai
+
+[84]
+FZ1         =
+FZ2         = In welchem Monat kommen die drei Eisheiligen ? 
+FZ3         = 
+Min         = 64000
+Max         = 500000
+Antwort_1   = 0 November
+Antwort_2   = 0 Dezember
+Antwort_3   = 0 Januar
+Antwort_4   = 1 Mai
+
+[85]
+FZ1         =
+FZ2         =  In welchem Monat ist der Heilige Abend ?
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 März
+Antwort_2   = 0 November
+Antwort_3   = 1 Dezember
+Antwort_4   = 0 Januar
+
+[86]
+FZ1         =
+FZ2         =  An welchem Tag ist der Heilige Abend ?
+FZ3         = 
+Min         = 500
+Max         = 4000
+Antwort_1   = 1 24. Dezember
+Antwort_2   = 0 25. Dezember
+Antwort_3   = 0 23. Dezember
+Antwort_4   = 0 26. Dezember
+
+[87]
+FZ1         =
+FZ2         = In welchem Monat ist der Valentinstag ? 
+FZ3         = 
+Min         = 2000
+Max         = 64000
+Antwort_1   = 1 Februar
+Antwort_2   = 0 März
+Antwort_3   = 0 April
+Antwort_4   = 0 Mai
+
+[88]
+FZ1         =
+FZ2         = An welchem Tag ist der Valentinstag ? 
+FZ3         = 
+Min         = 8000
+Max         = 500000
+Antwort_1   = 1 14. Februar
+Antwort_2   = 0 14. März
+Antwort_3   = 0 24. Februar
+Antwort_4   = 0 4. April
+
+[89]
+FZ1         =
+FZ2         = Welchen Tag gibt es nicht ?
+FZ3         = 
+Min         = 1000
+Max         = 32000
+Antwort_1   = 0 30. März
+Antwort_2   = 0 30. Januar
+Antwort_3   = 1 30. Februar
+Antwort_4   = 0 31. Dezember
+
+[90]
+FZ1         =
+FZ2         = Wie viele Monate hat ein Jahr in  E n g l a n d ? 
+FZ3         = 
+Min         = 0
+Max         = 1000
+Antwort_1   = 1 12
+Antwort_2   = 0 10
+Antwort_3   = 0 11
+Antwort_4   = 0 6
+
+[91]
+FZ1         =
+FZ2         = Wie viele Totensonntage gibt es in einem Jahr ? 
+FZ3         = 
+Min         = 32000
+Max         = 500000
+Antwort_1   = 1 1
+Antwort_2   = 0 2
+Antwort_3   = 0 3
+Antwort_4   = 0 4
+
+[92]
+FZ1         =
+FZ2         = In welchem Monat ist der Totensonntag ? 
+FZ3         = 
+Min         = 2000
+Max         = 250000
+Antwort_1   = 0 Dezember
+Antwort_2   = 1 November
+Antwort_3   = 0 Oktober
+Antwort_4   = 0 Mai
+
+[93]
+FZ1         = 
+FZ2         = Welche 2 aufeinander folgende Monate haben 31 Tage ? 
+FZ3         = 
+Min         = 250000
+Max         = 1000000
+Antwort_1   = 1 Juli August
+Antwort_2   = 0 Juni Juli
+Antwort_3   = 0 August September
+Antwort_4   = 0 Oktober November
+
+[94]
+FZ1         = 
+FZ2         = Welcher Tag wird von manchen Menschen als 
+FZ3         = Unglückstag angesehen ?
+Min         = 0
+Max         = 2000
+Antwort_1   = 0 Freitag, der 12.
+Antwort_2   = 1 Freitag, der 13.
+Antwort_3   = 0 Montag, der 13.
+Antwort_4   = 0 Montag, der 1.
+
+[95]
+FZ1         = 
+FZ2         = Wie heißt der Mittwoch nach Karneval ? 
+FZ3         = 
+Min         = 1000
+Max         = 125000
+Antwort_1   = 1 Aschermittwoch
+Antwort_2   = 0 Feuermittwoch
+Antwort_3   = 0 Rauchmittwoch
+Antwort_4   = 0 falscher Mittwoch
+
+[96]
+FZ1         =
+FZ2         = In welchem Monat ist St. Martin ? 
+FZ3         = 
+Min         = 500
+Max         = 2000
+Antwort_1   = 0 August
+Antwort_2   = 1 November
+Antwort_3   = 0 September
+Antwort_4   = 0 Mai
+
+[97]
+FZ1         = 
+FZ2         = An welchem Tag ist St. Martin ? 
+FZ3         = 
+Min         = 1000
+Max         = 125000
+Antwort_1   = 1 11. November
+Antwort_2   = 0 10. November
+Antwort_3   = 0 11. Dezember
+Antwort_4   = 0 10. September
+
+[98]
+FZ1         =
+FZ2         = Ein Schaltjahr kommt alle ... Jahre. 
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 0 2
+Antwort_2   = 0 3
+Antwort_3   = 0 10
+Antwort_4   = 1 4
+
+[99]
+FZ1         =
+FZ2         = Was passiert im Schaltjahr ?
+FZ3         = 
+Min         = 125000
+Max         = 500000
+Antwort_1   = 1 Es kommt 1 Tag dazu.
+Antwort_2   = 0 Das Jahr ist 1 Tag kürzer.
+Antwort_3   = 0 Es kommen 2 Tage dazu.
+Antwort_4   = 0 Das Jahr ist 1 Woche kürzer.
+
+[100]
+FZ1         =
+FZ2         = In einem Jahr wandert die Erde einmal ... 
+FZ3         = 
+Min         = 8000
+Max         = 500000
+Antwort_1   = 1 um die Sonne
+Antwort_2   = 0 um den Mond
+Antwort_3   = 0 um die Milchstraße
+Antwort_4   = 0 um den Mars
+

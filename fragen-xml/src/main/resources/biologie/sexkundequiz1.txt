@@ -1,0 +1,171 @@
+[Thema]
+Thema     = Gut zu wissen I 
+Fragen    = 15
+Autor     = Alfons Deters, 3/2002
+
+
+[1]
+FZ1       =
+FZ2       =  Wie heißt ein schlauchartiges weibliches  
+FZ3       =           Sexualorgan?
+Min       = 0
+Max       = 100
+Antwort_1 = 1Scheide
+Antwort_2 = 0Eierstock 
+Antwort_3 = 0Gebärmutter
+Antwort_4 = 0Eileiter
+
+[2]
+FZ1       = 
+FZ2       = Wie nennt man den äußeren Schutz der Scheide?
+FZ3       = 
+Min       = 100
+Max       = 200
+Antwort_1 = 0Schamhaare
+Antwort_2 = 1Schamlippen
+Antwort_3 = 0Kitzler
+Antwort_4 = 0Slip
+
+[3]
+FZ1       = 
+FZ2       =Wie nennt man das weibliche Sexualorgan,
+FZ3       = das sehr gefühlsempfindlich ist?
+Min       = 200
+Max       = 300
+Antwort_1 = 0Gebärmutter
+Antwort_2 = 1Kitzler
+Antwort_3 = 0Gebärmuttermund
+Antwort_4 = 0Jungfernhäutchen
+[4]
+FZ1       = 
+FZ2       =Wie bezeichnet man die Vorsteherdrüse des Mannes?
+FZ3       = 
+Min       = 300
+Max       = 500
+Antwort_1 = 0Eichel
+Antwort_2 = 1Prostata
+Antwort_3 = 0Vorhaut
+Antwort_4 = 0Hoden
+
+
+[5]
+FZ1       =
+FZ2       = Wie nennt man die Verschmelzung von Samenzelle und Eizelle?
+FZ3       = 
+Min       = 500
+Max       = 1000
+Antwort_1 = 0Einnistung
+Antwort_2 = 1Befruchtung
+Antwort_3 = 0Zellteilung
+Antwort_4 = 0Koitus
+
+[6]
+FZ1       = 
+FZ2       =Was ist ein Zeichen der Geschlechtsreife beim Mädchen?
+FZ3       = 
+Min       = 1000
+Max       = 2000
+Antwort_1 = 0Wachstum der Brust
+Antwort_2 = 1Die erste Regelblutung
+Antwort_3 = 0Wachsen der Schambehaarung
+Antwort_4 = 0Verbreiterung des Beckens
+
+[7]
+FZ1       =
+FZ2       =Wovor schützt das Kondom?
+FZ3       = 
+Min       = 2000
+Max       = 4000
+Antwort_1 = 1Vor Aids bzw Geschlechtskrankheiten
+Antwort_2 = 0Vor Grippe
+Antwort_3 = 0Vor Bauchschmerzen
+Antwort_4 = 0Vor Blutvergiftung
+
+[8]
+FZ1       = 
+FZ2       =Wie nennt man das Ausstoßen von Samenzellen? 
+FZ3       = 
+Min       = 4000
+Max       = 8000
+Antwort_1 = 1Samenerguss
+Antwort_2 = 0Erektion
+Antwort_3 = 0Menarche
+Antwort_4 = 0Flüssigkeitsverlust
+
+[9]
+FZ1       =
+FZ2       =Wohin gelangt die Eizelle direkt nach dem Eisprung?
+FZ3       =
+Min       = 8000
+Max       = 16000
+Antwort_1 = 0Schamlippen
+Antwort_2 = 0Eileiter
+Antwort_3 = 1Eileitertrichter
+Antwort_4 = 0Gebärmutterhals
+
+[10]
+FZ1       =
+FZ2       =Wie bezeichnet man das Aufrichten des Gliedes?
+FZ3       =  
+Min       = 16000
+Max       = 32000
+Antwort_1 = 0Aufstehen
+Antwort_2 = 1Erektion
+Antwort_3 = 0Eindringen
+Antwort_4 = 0Orgasmus
+
+[11]
+FZ1       =Wie bezeichnet man die Verbindung des Kindes 
+FZ2       =     zum Mutterkuchen?
+FZ3       = 
+Min       = 32000
+Max       = 64000
+Antwort_1 = 0Plazenta
+Antwort_2 = 1Nabelschnur
+Antwort_3 = 0Leitbündel
+Antwort_4 = 0Fruchtblase
+
+[12]
+FZ1       = 
+FZ2       =Was kann schädlich sein für die Entwicklung?
+FZ3       =             des Ungeborenen?
+Min       = 64000
+Max       = 125000
+Antwort_1 = 0Vorsorgeuntersuchung
+Antwort_2 = 0Schwangerschaftsgymnastik
+Antwort_3 = 0Vitamintabletten
+Antwort_4 = 1Genuss von Nikotin
+
+[13]
+FZ1       =
+FZ2       =Wie lautet der medizinische Name für Frauenarzt?
+FZ3       =
+Min       = 125000
+Max       = 2500000
+Antwort_1 = 0Chirurg
+Antwort_2 = 1Gynäkologe
+Antwort_3 = 0Hebamme
+Antwort_4 = 0Pubertätsberater
+
+[14]
+FZ1       =
+FZ2       =Was ist kein Merkmal einer Schwangerschaft?
+FZ3       = 
+Min       = 250000
+Max       = 500000
+Antwort_1 = 0Ausbleiben der Regelblutung
+Antwort_2 = 1Gewichtsverlust
+Antwort_3 = 0gelegentliche Übelkeit
+Antwort_4 = 0Wehen und Vorwehen
+
+
+[15]
+FZ1       =Wie nennt man die Wirkstoffe des Körpers,
+FZ2       =     welche die Pubertät einleiten?  
+FZ3       = 
+Min       = 500000
+Max       = 1000000
+Antwort_1 = 0Mineralien
+Antwort_2 = 1Hormone
+Antwort_3 = 0Bakterien
+Antwort_4 = 0Kohlendioxid

@@ -1,0 +1,2668 @@
+[Thema]
+Thema= Sprichwörter und Redensarten
+Fragen=242
+Autor=Manfred Hartisch
+
+[1]
+FZ1=
+FZ2=... gesellt sich gern.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Gleich und gleich
+Antwort_2=0Groß und klein
+Antwort_3=0Dick und dünn
+Antwort_4=0Schlau und doof
+
+[2]
+FZ1=
+FZ2=Ein gutes Gewissen ist ein sanftes ... .
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Ruhekissen
+Antwort_2=0Betttuch
+Antwort_3=0Gefühl
+Antwort_4=0Staunen
+
+[3]
+FZ1=
+FZ2=Über Geschmack lässt sich nicht ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1streiten
+Antwort_2=0singen
+Antwort_3=0reden
+Antwort_4=0stöhnen
+
+[4]
+FZ1=
+FZ2=... genäht hält besser.
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1doppelt
+Antwort_2=0mehrfach
+Antwort_3=0dreifach
+Antwort_4=0vierfach
+
+[5]
+FZ1=
+FZ2=Ein Haar in der ... finden.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Suppe
+Antwort_2=0Schüssel
+Antwort_3=0Tasse
+Antwort_4=0Küche
+
+[6]
+FZ1=
+FZ2=Man muss den ... enger schnallen.
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Gürtel
+Antwort_2=0Schnürsenkel
+Antwort_3=0Mantel
+Antwort_4=0Schal
+
+[7]
+FZ1=
+FZ2=Nachts sind alle Katzen ... .
+FZ3=
+Min=0
+Max=500
+Antwort_1=1grau
+Antwort_2=0müde
+Antwort_3=0weiß
+Antwort_4=0allein
+
+[8]
+FZ1=
+FZ2=... schützt vor Torheit nicht.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Alter
+Antwort_2=0Macht
+Antwort_3=0Wissen
+Antwort_4=0Können
+
+[9]
+FZ1=
+FZ2=Geborgen wie in Abrahams ...
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Schoß
+Antwort_2=0Höhle
+Antwort_3=0Haus
+Antwort_4=0Schloss
+
+[10]
+FZ1=
+FZ2=Mit List und Tücke fängt man eine ... .
+FZ3=
+Min=0
+Max=300
+Antwort_1=1Mücke
+Antwort_2=0Hummel
+Antwort_3=0Fliege
+Antwort_4=0Brücke
+
+[11]
+FZ1=
+FZ2=Die Flinte ins ... werfen.
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1Korn
+Antwort_2=0Haus
+Antwort_3=0Feuer
+Antwort_4=0All
+
+[12]
+FZ1=
+FZ2=Die ... ins Korn werfen.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Flinte
+Antwort_2=0Mütze
+Antwort_3=0Frau
+Antwort_4=0Pfeife
+
+[13]
+FZ1=
+FZ2=Der Geist ist willig, aber das Fleisch ist ... .
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1schwach
+Antwort_2=0faul
+Antwort_3=0müde
+Antwort_4=0bockig
+
+[14]
+FZ1=
+FZ2=Sein Herz auf dem rechten ... haben.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Fleck
+Antwort_2=0Ort
+Antwort_3=0Platz
+Antwort_4=0Sitz
+
+[15]
+FZ1=
+FZ2=Feste muss man feiern, wie sie ... .
+FZ3=
+Min=0
+Max=500
+Antwort_1=1fallen
+Antwort_2=0straucheln
+Antwort_3=0stürzen
+Antwort_4=0stolpern
+
+[16]
+FZ1=
+FZ2=Durch Schaden wird man ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1klug
+Antwort_2=0hübsch
+Antwort_3=0arm
+Antwort_4=0sauber
+
+[17]
+FZ1=
+FZ2=Abends werden die ... fleißig.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Faulen
+Antwort_2=0Bauern
+Antwort_3=0Müden
+Antwort_4=0Schwachen
+
+[18]
+FZ1=
+FZ2=Nach dem Essen soll man ruhn, oder ... tun.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1tausend Schritte
+Antwort_2=0etwas Schönes
+Antwort_3=0schlimme Dinge
+Antwort_4=0gar nichts
+
+[19]
+FZ1=
+FZ2=Gut essen und trinken hält ... zusammen.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Leib und Seele
+Antwort_2=0Kopf und Bauch
+Antwort_3=0Magen und Darm
+Antwort_4=0Freunde
+
+[20]
+FZ1=
+FZ2=Alles hat ein Ende, nur die ... hat zwei.
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Wurst
+Antwort_2=0Welt
+Antwort_3=0Banane
+Antwort_4=0Musik
+
+[21]
+FZ1=
+FZ2=Lieber ein Ende mit ..., als ein Schrecken ohne Ende.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schrecken
+Antwort_2=0Stecken
+Antwort_3=0Schnecken
+Antwort_4=0Flecken
+
+[22]
+FZ1=
+FZ2=Man muss das Eisen schmieden, solange es noch ... ist.
+FZ3=
+Min=1000
+Max=4000
+Antwort_1=1heiß
+Antwort_2=0rot
+Antwort_3=0neu
+Antwort_4=0kalt
+
+[23]
+FZ1=
+FZ2=Wenn dem Esel zu wohl ist, geht er aufs ... .
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Eis
+Antwort_2=0Fahrrad
+Antwort_3=0Klo
+Antwort_4=0Dach
+
+[24]
+FZ1=
+FZ2=... ist der erste Schritt zur Besserung.
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Einsicht
+Antwort_2=0Anstand
+Antwort_3=0Vernunft
+Antwort_4=0Fleiß
+
+[25]
+FZ1=
+FZ2=Einsicht ist der erste Schritt zur ... .
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Besserung
+Antwort_2=0Glückseligkeit
+Antwort_3=0Vernunft
+Antwort_4=0Hoffnung
+
+[26]
+FZ1=
+FZ2=... wurde auch nicht an einem Tag erbaut.
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Rom
+Antwort_2=0Paris
+Antwort_3=0Berlin
+Antwort_4=0London
+
+[27]
+FZ1=
+FZ2=Hilfreich sei der Mensch, ... und gut.
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=1edel
+Antwort_2=0anständig
+Antwort_3=0geizig
+Antwort_4=0friedlich
+
+[28]
+FZ1=
+FZ2=... regiert die Welt.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Geld
+Antwort_2=0Gold
+Antwort_3=0Macht
+Antwort_4=0Fleiß
+
+[29]
+FZ1=
+FZ2=Vor Neid ... werden.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1blass
+Antwort_2=0groß
+Antwort_3=0grün
+Antwort_4=0klein
+
+[30]
+FZ1=
+FZ2=Der Himmel hängt voller ... .
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Geigen
+Antwort_2=0Gitarren
+Antwort_3=0Trompeten
+Antwort_4=0Flöten
+
+[31]
+FZ1=
+FZ2=Den ... nicht voll genug kriegen.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Hals
+Antwort_2=0Beutel
+Antwort_3=0Kopf
+Antwort_4=0Schuh
+
+[32]
+FZ1=
+FZ2=... auf den Zähnen haben.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Haare
+Antwort_2=0Tätowierungen
+Antwort_3=0Flecken
+Antwort_4=0Streifen
+
+[33]
+FZ1=
+FZ2=Jemandem die ... drücken.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Daumen
+Antwort_2=0Ohren
+Antwort_3=0Zehen
+Antwort_4=0Haare
+
+[34]
+FZ1=
+FZ2=Sich wie ein ... freuen.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Schneekönig
+Antwort_2=0Regenkaiser
+Antwort_3=0Sonnengott
+Antwort_4=0Nebelgraf
+
+[35]
+FZ1=
+FZ2=Ein ... vor dem Kopf haben.
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1Brett
+Antwort_2=0Hut
+Antwort_3=0Schal
+Antwort_4=0Tisch
+
+[36]
+FZ1=
+FZ2=Neue ... kehren gut.
+FZ3=
+Min=0
+Max=200
+Antwort_1=1Besen
+Antwort_2=0Diener
+Antwort_3=0Hausfrauen
+Antwort_4=0Pinsel
+
+[37]
+FZ1=
+FZ2=Die ... im Hause erspart den Zimmermann.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Axt
+Antwort_2=0Säge
+Antwort_3=0Feile
+Antwort_4=0Zange
+
+[38]
+FZ1=
+FZ2=Es wird nichts so ... gegessen, wie es gekocht wird.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1heiß
+Antwort_2=0warm
+Antwort_3=0kalt
+Antwort_4=0schnell
+
+[39]
+FZ1=
+FZ2=Frisch gewagt ist ... gewonnen .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1halb
+Antwort_2=0ganz
+Antwort_3=0fast
+Antwort_4=0nicht
+
+[40]
+FZ1=
+FZ2=Frisch gewagt ist halb ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1gewonnen
+Antwort_2=0verrückt
+Antwort_3=0verloren
+Antwort_4=0geschafft
+
+[41]
+FZ1=
+FZ2=Liebe geht durch den ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Magen	
+Antwort_2=0Hals	
+Antwort_3=0Bauch	
+Antwort_4=0Kopf	
+
+[42]
+FZ1=
+FZ2=Jemandem etwas in die Schuhe ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1schieben
+Antwort_2=0malen
+Antwort_3=0legen
+Antwort_4=0stecken
+
+[43]
+FZ1=
+FZ2=Jemandem etwas in die ... schieben.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Schuhe
+Antwort_2=0Jacke
+Antwort_3=0Hose
+Antwort_4=0Strümpfe
+
+[44]
+FZ1=
+FZ2=Die ... pfeifen es von den Dächern.
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Spatzen
+Antwort_2=0Meisen
+Antwort_3=0Tauben
+Antwort_4=0Amseln
+
+[45]
+FZ1=
+FZ2=Er schimpft wie ein ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Rohrspatz
+Antwort_2=0Steinadler
+Antwort_3=0Rotkehlchen
+Antwort_4=0Turmfalke
+
+[46]
+FZ1=
+FZ2=Es ist eh gehupft wie ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1gesprungen
+Antwort_2=0gefallen
+Antwort_3=0gelaufen
+Antwort_4=0gerannt
+
+[47]
+FZ1=
+FZ2=Das Angenehme mit dem ... verbinden.
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Nützlichen
+Antwort_2=0Unangenehmen
+Antwort_3=0Sinnvollen
+Antwort_4=0Nötigen
+
+[48]
+FZ1=
+FZ2=Vor Neid ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1platzen
+Antwort_2=0explodieren
+Antwort_3=0knallen
+Antwort_4=0klingeln
+
+[49]
+FZ1=
+FZ2=Aus einer ... einen Elefanten machen.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Mücke
+Antwort_2=0Hummel
+Antwort_3=0Biene
+Antwort_4=0Fliege
+
+[50]
+FZ1=
+FZ2=Aus einer Mücke einen ... machen.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Elefanten
+Antwort_2=0Schmetterling
+Antwort_3=0Büffel
+Antwort_4=0Hengst
+
+[51]
+FZ1=
+FZ2=Komm ich heut´ nicht, komm ich ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1morgen
+Antwort_2=0spät
+Antwort_3=0gar nicht
+Antwort_4=0pünktlich
+
+[52]
+FZ1=
+FZ2=Was man nicht im Kopf hat, muss man in den ... haben.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Beinen
+Antwort_2=0Armen
+Antwort_3=0Händen
+Antwort_4=0Fingern
+
+[53]
+FZ1=
+FZ2=Kleider machen ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Leute
+Antwort_2=0Menschen
+Antwort_3=0schick
+Antwort_4=0Völker
+
+[54]
+FZ1=
+FZ2=Man soll die Kirche im ... lassen.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Dorf
+Antwort_2=0Fluss
+Antwort_3=0Land
+Antwort_4=0Meer
+
+[55]
+FZ1=
+FZ2=Er wagt sich in die Höhle des ... .
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Löwen
+Antwort_2=0Dachses
+Antwort_3=0Bären
+Antwort_4=0Fuchses
+
+[56]
+FZ1=
+FZ2=Jemandem das Handwerk ... .
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1legen
+Antwort_2=0stehlen
+Antwort_3=0reichen
+Antwort_4=0verbieten
+
+[57]
+FZ1=
+FZ2=Er ist mit allen ... gewaschen.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Wassern
+Antwort_2=0Shampoos
+Antwort_3=0Seifen
+Antwort_4=0Tricks
+
+[58]
+FZ1=
+FZ2=Er schwört ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Stein und Bein
+Antwort_2=0Kopf und Kragen
+Antwort_3=0Fels und Hand
+Antwort_4=0Hals und Bein
+
+[59]
+FZ1=
+FZ2=Jemandem einen Floh ins ... setzen.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Ohr
+Antwort_2=0Nest
+Antwort_3=0Hemd
+Antwort_4=0Haus
+
+[60]
+FZ1=
+FZ2=Jemandem einen ... ins Ohr setzen.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Floh
+Antwort_2=0Spatz
+Antwort_3=0Käfer
+Antwort_4=0Adler
+
+[61]
+FZ1=
+FZ2=Er ist wieder ins ... getreten.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Fettnäpfchen
+Antwort_2=0Butterfässchen
+Antwort_3=0Ölwännchen
+Antwort_4=0Margarinetöpfchen
+
+[62]
+FZ1=
+FZ2=Eulen nach ... tragen.
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Athen
+Antwort_2=0London
+Antwort_3=0Paris
+Antwort_4=0Rom
+
+[63]
+FZ1=
+FZ2=... nach Athen tragen.
+FZ3=
+Min=250000
+Max=500000
+Antwort_1=1Eulen
+Antwort_2=0Geier
+Antwort_3=0Adler
+Antwort_4=0Meisen
+
+[64]
+FZ1=
+FZ2=Er möchte immer die ... Geige spielen.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1erste
+Antwort_2=0dritte
+Antwort_3=0zweite
+Antwort_4=0vierte
+
+[65]
+FZ1=
+FZ2=Er möchte immer die erste ... spielen.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Geige
+Antwort_2=0Flöte
+Antwort_3=0Gitarre
+Antwort_4=0Trommel
+
+[66]
+FZ1=
+FZ2=Er hat sich die Nacht um die ... geschlagen.
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Ohren
+Antwort_2=0Beine
+Antwort_3=0Nase
+Antwort_4=0Arme
+
+[67]
+FZ1=
+FZ2=Die Stecknadel im ... suchen.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Heuhaufen
+Antwort_2=0Haushalt
+Antwort_3=0Nähkästchen
+Antwort_4=0Schrank
+
+[68]
+FZ1=
+FZ2=Die ... im Heuhaufen suchen.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Stecknadel
+Antwort_2=0Stricknadel
+Antwort_3=0Häkelnadel
+Antwort_4=0Stopfnadel
+
+[69]
+FZ1=
+FZ2=Zuckerbrot und ...
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Peitsche
+Antwort_2=0Zügel
+Antwort_3=0Sattel
+Antwort_4=0Sporen
+
+[70]
+FZ1=
+FZ2=Auf die ... hauen.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Pauke
+Antwort_2=0Glocke
+Antwort_3=0Trommel
+Antwort_4=0Gitarre
+
+[71]
+FZ1=
+FZ2=Man sollte seine Zunge im ... halten.
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Zaum
+Antwort_2=0Rachen
+Antwort_3=0Mund
+Antwort_4=0Gefühl
+
+[72]
+FZ1=
+FZ2=Wer langsam geht, kommt auch zum ... .
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Ziel
+Antwort_2=0Haus
+Antwort_3=0Anfang
+Antwort_4=0Park
+
+[73]
+FZ1=
+FZ2=Zeit heilt alle ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Wunden
+Antwort_2=0Schmerzen
+Antwort_3=0Krankheiten
+Antwort_4=0Brüche
+
+[74]
+FZ1=
+FZ2=Da ist der ... Vater des Gedanken.
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Wunsch
+Antwort_2=0Tipp
+Antwort_3=0Befehl
+Antwort_4=0Verstand
+
+[75]
+FZ1=
+FZ2=Dein Wunsch ist mir ... .
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Befehl
+Antwort_2=0egal
+Antwort_3=0heilig
+Antwort_4=0Gesetz
+
+[76]
+FZ1=
+FZ2=Jemandem die Würmer aus der ... ziehen.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Nase
+Antwort_2=0Tüte
+Antwort_3=0Tasche
+Antwort_4=0Kehle
+
+[77]
+FZ1=
+FZ2=Jemandem die ... aus der Nase ziehen.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Würmer
+Antwort_2=0Spinnen
+Antwort_3=0Käfer
+Antwort_4=0Fliegen
+
+[78]
+FZ1=
+FZ2=Mit den Wölfen ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1heulen
+Antwort_2=0fressen
+Antwort_3=0jagen
+Antwort_4=0kämpfen
+
+[79]
+FZ1=
+FZ2=Mit den ... heulen.
+FZ3=
+Min=8000
+Max=250000
+Antwort_1=1Wölfen
+Antwort_2=0Freunden
+Antwort_3=0Hunden
+Antwort_4=0Feinden
+
+[80]
+FZ1=
+FZ2=Des Menschen Wille ist sein ... .
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Himmelreich
+Antwort_2=0Glück
+Antwort_3=0Höllengrund
+Antwort_4=0Wunschtraum
+
+[81]
+FZ1=
+FZ2=Wo ein ... ist, ist auch ein Weg.
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Wille
+Antwort_2=0Dorf
+Antwort_3=0Plan
+Antwort_4=0Auto
+
+[82]
+FZ1=
+FZ2=Wo ein Wille ist, ist auch ein ... .
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Weg
+Antwort_2=0Gedanke
+Antwort_3=0Haus
+Antwort_4=0Plan
+
+[83]
+FZ1=
+FZ2=Dem ... gehört die Welt.
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Mutigen
+Antwort_2=0Reichen
+Antwort_3=0Feigen
+Antwort_4=0Klugen
+
+[84]
+FZ1=
+FZ2=Ihm steht das Wasser bis zum ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Hals
+Antwort_2=0Knie
+Antwort_3=0Kragen
+Antwort_4=0Mund
+
+[85]
+FZ1=
+FZ2=Stille Wasser sind ... .
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1tief
+Antwort_2=0flach
+Antwort_3=0kalt
+Antwort_4=0leise
+
+[86]
+FZ1=
+FZ2=... ist besser als Nachsicht.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Vorsicht
+Antwort_2=0Fernsicht
+Antwort_3=0Rücksicht
+Antwort_4=0Aussicht
+
+[87]
+FZ1=
+FZ2=Vorbeugen ist besser als ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1heilen
+Antwort_2=0leiden
+Antwort_3=0bezahlen
+Antwort_4=0nachsitzen
+
+[88]
+FZ1=
+FZ2=Wer sich auf andere verlässt, ist ... .
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1verlassen
+Antwort_2=0gesichert
+Antwort_3=0glücklich
+Antwort_4=0vergnügt
+
+[89]
+FZ1=
+FZ2=Träume sind ...
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Schäume
+Antwort_2=0schrecklich
+Antwort_3=0Bäume
+Antwort_4=0wirklich
+
+[90]
+FZ1=
+FZ2=Man soll den Tag nicht vor dem Abend ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1loben
+Antwort_2=0beenden
+Antwort_3=0strafen
+Antwort_4=0anfangen
+
+[91]
+FZ1=
+FZ2=Da trennt sich die Spreu vom ... .
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Weizen
+Antwort_2=0Mais
+Antwort_3=0Hafer
+Antwort_4=0Roggen
+
+[92]
+FZ1=
+FZ2=Da trennt sich die ... vom Weizen.
+FZ3=
+Min=125000
+Max=500000
+Antwort_1=1Spreu
+Antwort_2=0Mühle
+Antwort_3=0Ernte
+Antwort_4=0Gerste
+
+[93]
+FZ1=
+FZ2=Die ... zählt die heiteren Stunden nur.
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Sonnenuhr
+Antwort_2=0Digitaluhr
+Antwort_3=0Taschenuhr
+Antwort_4=0Stoppuhr
+
+[94]
+FZ1=
+FZ2=Über jemanden den ... brechen.
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Stab
+Antwort_2=0Zweig
+Antwort_3=0Ast
+Antwort_4=0Stamm
+
+[95]
+FZ1=
+FZ2=Die Sonne bringt es an den ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Tag
+Antwort_2=0Schatten
+Antwort_3=0Mann
+Antwort_4=0Zaun
+
+[96]
+FZ1=
+FZ2=Man sieht das ... am Ende des Tunnels.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Licht
+Antwort_2=0Glück
+Antwort_3=0Elend
+Antwort_4=0Tor
+
+[97]
+FZ1=
+FZ2=Man sieht am Horizont den ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Silberstreifen
+Antwort_2=0Bronzebalken
+Antwort_3=0Goldstrich
+Antwort_4=0Kupferpunkt
+
+[98]
+FZ1=
+FZ2=Aus den Augen, aus dem ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Sinn
+Antwort_2=0Haus
+Antwort_3=0Blick
+Antwort_4=0Weg
+
+[99]
+FZ1=
+FZ2=Sie schwebt im ... Himmel.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1siebten
+Antwort_2=0zehnten
+Antwort_3=0dritten
+Antwort_4=0ersten
+
+[100]
+FZ1=
+FZ2=Er hat ein Gedächtnis wie ein ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Sieb
+Antwort_2=0Becher
+Antwort_3=0Topf
+Antwort_4=0Glas
+
+[101]
+FZ1=
+FZ2=Sich regen bringt ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Segen
+Antwort_2=0Glück
+Antwort_3=0Kummer
+Antwort_4=0Unglück
+
+[102]
+FZ1=
+FZ2=Mit fremden ... schmücken.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Federn
+Antwort_2=0Perlen
+Antwort_3=0Tüchern
+Antwort_4=0Ketten
+
+[103]
+FZ1=
+FZ2=Den Seinen gibt´s der Herr im ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schlaf
+Antwort_2=0Haus
+Antwort_3=0Traum
+Antwort_4=0Himmel
+
+[104]
+FZ1=
+FZ2=Dem Glücklichen schlägt keine ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Stunde
+Antwort_2=0Sekunde
+Antwort_3=0Minute
+Antwort_4=0Woche
+
+[105]
+FZ1=
+FZ2=Jemanden auf die ... nehmen.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schippe
+Antwort_2=0Hände
+Antwort_3=0Schulter
+Antwort_4=0Nase
+
+[106]
+FZ1=
+FZ2=Über seinen eigenen ... springen.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Schatten
+Antwort_2=0Reichtum
+Antwort_3=0Bruder
+Antwort_4=0Ärger
+
+[107]
+FZ1=
+FZ2=... bringen Glück.
+FZ3=
+Min=200
+Max=1000
+Antwort_1=1Scherben
+Antwort_2=0Schalen
+Antwort_3=0Schnipsel
+Antwort_4=0Scheiben
+
+[108]
+FZ1=
+FZ2=Scherben bringen ... .
+FZ3=
+Min=100
+Max=1000
+Antwort_1=1Glück
+Antwort_2=0Reichtum
+Antwort_3=0Pech
+Antwort_4=0Sorgen
+
+[109]
+FZ1=
+FZ2=Ihm sitzt der Schalk im ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Nacken
+Antwort_2=0Haar
+Antwort_3=0Ohr
+Antwort_4=0Bauch
+
+[110]
+FZ1=
+FZ2=Ihm sitzt der ... im Nacken.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Schalk
+Antwort_2=0Spaß
+Antwort_3=0Witz
+Antwort_4=0Krach
+
+[111]
+FZ1=
+FZ2=Seine ... ins Trockene bringen.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Schäfchen
+Antwort_2=0Kühlein
+Antwort_3=0Hühnchen
+Antwort_4=0Kätzchen
+
+[112]
+FZ1=
+FZ2=Sauer macht ... .
+FZ3=
+Min=0
+Max=500
+Antwort_1=1lustig
+Antwort_2=0müde
+Antwort_3=0traurig
+Antwort_4=0munter
+
+[113]
+FZ1=
+FZ2=... macht lustig.
+FZ3=
+Min=0
+Max=500
+Antwort_1=1sauer
+Antwort_2=0bitter
+Antwort_3=0süß
+Antwort_4=0salzig
+
+[114]
+FZ1=
+FZ2=Jemandem ... in die Augen streuen.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Sand
+Antwort_2=0Pfeffer
+Antwort_3=0Salz
+Antwort_4=0Kiesel
+
+[115]
+FZ1=
+FZ2=Die ... verlassen das sinkende Schiff.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Ratten
+Antwort_2=0Mäuse
+Antwort_3=0Matrosen
+Antwort_4=0Offiziere
+
+[116]
+FZ1=
+FZ2=Da ist guter Rat ... .
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1teuer
+Antwort_2=0gefragt
+Antwort_3=0billig
+Antwort_4=0preiswert
+
+[117]
+FZ1=
+FZ2=Probieren geht über ... .
+FZ3=
+Min=500
+Max=2000
+Antwort_1=1studieren
+Antwort_2=0telefonieren
+Antwort_3=0radieren
+Antwort_4=0verlieren
+
+[118]
+FZ1=
+FZ2=Vorsicht ist die Mutter der ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Porzellankiste
+Antwort_2=0Keramikvase
+Antwort_3=0Glasflasche
+Antwort_4=0Spiegelschachtel
+
+[119]
+FZ1=
+FZ2=Vorsicht ist die ... der Porzellankiste.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Mutter
+Antwort_2=0Oma
+Antwort_3=0Schwester
+Antwort_4=0Tante
+
+[120]
+FZ1=
+FZ2=... macht erfinderisch.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Not
+Antwort_2=0Reichtum
+Antwort_3=0Armut
+Antwort_4=0Geld
+
+[121]
+FZ1=
+FZ2=Sich etwas hinter die Ohren ... .
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1schreiben
+Antwort_2=0zeichnen
+Antwort_3=0malen
+Antwort_4=0kritzeln
+
+[122]
+FZ1=
+FZ2=Sich etwas hinter die ... schreiben.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Ohren
+Antwort_2=0Backe
+Antwort_3=0Nase
+Antwort_4=0Hand
+
+[123]
+FZ1=
+FZ2=In der Not schmeckt jedes ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Brot
+Antwort_2=0Würstchen
+Antwort_3=0Plätzchen
+Antwort_4=0Krümelchen
+
+[124]
+FZ1=
+FZ2=Er hat den Nagel auf den ... getroffen.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Kopf
+Antwort_2=0Punkt
+Antwort_3=0Hut
+Antwort_4=0Hammer
+
+[125]
+FZ1=
+FZ2=Er hat den ... auf den Kopf getroffen.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Nagel
+Antwort_2=0Rat
+Antwort_3=0Freund
+Antwort_4=0Hinweis
+
+[126]
+FZ1=
+FZ2=Müßigkeit ist aller Laster ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Anfang
+Antwort_2=0Schluss
+Antwort_3=0Ende
+Antwort_4=0Beginn
+
+[127]
+FZ1=
+FZ2=Aus seinem Herzen keine ... machen.
+FZ3=
+Min=16000
+Max=125000
+Antwort_1=1Mördergrube
+Antwort_2=0Räuberhöhle
+Antwort_3=0Gangsterfalle
+Antwort_4=0Schurkenstätte
+
+[128]
+FZ1=
+FZ2=Er macht gute Miene zum bösen ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Spiel
+Antwort_2=0Schluss
+Antwort_3=0Weib
+Antwort_4=0Freund
+
+[129]
+FZ1=
+FZ2=Mit ... fängt man Mäuse.
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Speck
+Antwort_2=0Katzen
+Antwort_3=0Fallen
+Antwort_4=0List
+
+[130]
+FZ1=
+FZ2=Mit Speck fängt man ... .
+FZ3=
+Min=0
+Max=500
+Antwort_1=1Mäuse
+Antwort_2=0Ratten
+Antwort_3=0Hühner
+Antwort_4=0Katzen
+
+[131]
+FZ1=
+FZ2=Glück im Spiel, Pech in der ...
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Liebe
+Antwort_2=0Ehe
+Antwort_3=0Schule
+Antwort_4=0Freundschaft
+
+[132]
+FZ1=
+FZ2=Sein Licht nicht unter den ... stellen
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Scheffel
+Antwort_2=0Schoffel
+Antwort_3=0Reffel
+Antwort_4=0Deffel
+
+[133]
+FZ1=
+FZ2=Sein ... nicht unter den Scheffel stellen
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Licht
+Antwort_2=0Geld
+Antwort_3=0Tuch
+Antwort_4=0Haus
+
+[134]
+FZ1=
+FZ2=Was Hänschen nicht lernt, lernt ... nimmermehr.
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1Hans
+Antwort_2=0Fritzchen
+Antwort_3=0keiner
+Antwort_4=0Paulchen
+
+[135]
+FZ1=
+FZ2=... bleib bei deinen Leisten.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Schuster
+Antwort_2=0Bäcker
+Antwort_3=0Zimmermann
+Antwort_4=0Metzger
+
+[136]
+FZ1=
+FZ2=Schuster bleib bei deinen ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Leisten
+Antwort_2=0Freunden
+Antwort_3=0Schuhen
+Antwort_4=0Künsten
+
+[137]
+FZ1=
+FZ2=Jemandem ist eine Laus über die ... gelaufen.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Leber
+Antwort_2=0Bauchspeicheldrüse
+Antwort_3=0Milz
+Antwort_4=0Niere
+
+[138]
+FZ1=
+FZ2=Jemandem ist eine ... über die Leber gelaufen.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Laus
+Antwort_2=0Spinne
+Antwort_3=0Maus
+Antwort_4=0Hummel
+
+[139]
+FZ1=
+FZ2=Was lange währt, wird endlich ... .
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1gut
+Antwort_2=0schön
+Antwort_3=0fertig
+Antwort_4=0alt
+
+[140]
+FZ1=
+FZ2=In der Kürze liegt die ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Würze
+Antwort_2=0Wahrheit
+Antwort_3=0Schürze
+Antwort_4=0Kraft
+
+[141]
+FZ1=
+FZ2=In ... Küche kommen
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Teufels
+Antwort_2=0Petrus
+Antwort_3=0Engels
+Antwort_4=0Adams
+
+[142]
+FZ1=
+FZ2=Kopf und ... riskieren
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Kragen
+Antwort_2=0Haare
+Antwort_3=0Hals
+Antwort_4=0Bauch
+
+[143]
+FZ1=
+FZ2=Klar wie ...
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Kloßbrühe
+Antwort_2=0Wasser
+Antwort_3=0Nebel
+Antwort_4=0Hühnersuppe
+
+[144]
+FZ1=
+FZ2=... wie Kloßbrühe
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1klar
+Antwort_2=0schmackhaft
+Antwort_3=0heiß
+Antwort_4=0kräftig
+
+[145]
+FZ1=
+FZ2=Kleinvieh macht auch ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Mist
+Antwort_2=0Freude
+Antwort_3=0Mühe
+Antwort_4=0Arbeit
+
+[146]
+FZ1=
+FZ2=Klappern gehört zum ...
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Handwerk
+Antwort_2=0Feierabend
+Antwort_3=0Fachmann
+Antwort_4=0Karneval
+
+[147]
+FZ1=
+FZ2=... gehört zum Handwerk
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Klappern
+Antwort_2=0Rasseln
+Antwort_3=0Schnattern
+Antwort_4=0Klimpern
+
+[148]
+FZ1=
+FZ2=Hinter einer rauen Schale steckt ein weicher ... .
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Kern
+Antwort_2=0Ast
+Antwort_3=0Wurm
+Antwort_4=0Wunsch
+
+[149]
+FZ1=
+FZ2=Vom Regen in die ... kommen.
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Traufe
+Antwort_2=0Tropfen
+Antwort_3=0Stube
+Antwort_4=0Sonne
+
+[150]
+FZ1=
+FZ2=Um den ... herumreden.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1heißen Brei
+Antwort_2=0warmen Eintopf
+Antwort_3=0kalten Kaffee
+Antwort_4=0lauen Kakao
+
+[151]
+FZ1=
+FZ2=Die Katze lässt das ... nicht.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Mausen
+Antwort_2=0Kratzen
+Antwort_3=0Schnurren
+Antwort_4=0Miauen
+
+[152]
+FZ1=
+FZ2=Jeder kehre vor seiner eigenen ... .
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=1Tür
+Antwort_2=0Garage
+Antwort_3=0Stube
+Antwort_4=0Höhle
+
+[153]
+FZ1=
+FZ2=Den Karren aus dem ... ziehen.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Dreck
+Antwort_2=0Stall
+Antwort_3=0Wald
+Antwort_4=0Ärmel
+
+[154]
+FZ1=
+FZ2=Den ... aus dem Dreck ziehen.
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Karren
+Antwort_2=0Stiefel
+Antwort_3=0Freund
+Antwort_4=0Stock
+
+[155]
+FZ1=
+FZ2=Hunger ist der beste ... .
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Koch
+Antwort_2=0Freund
+Antwort_3=0Trost
+Antwort_4=0Feind
+
+[156]
+FZ1=
+FZ2=Mit jemandem ein Hühnchen ... .
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1rupfen
+Antwort_2=0fangen
+Antwort_3=0essen
+Antwort_4=0schlachten
+
+[157]
+FZ1=
+FZ2=Mit jemandem ein ... rupfen.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Hühnchen
+Antwort_2=0Küken
+Antwort_3=0Entchen
+Antwort_4=0Blümchen
+
+[158]
+FZ1=
+FZ2=Der Lauscher an der Wand, hört seine eigne ... .
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Schand
+Antwort_2=0Frau
+Antwort_3=0Stimme
+Antwort_4=0Zukunft
+
+[159]
+FZ1=
+FZ2=... ums Maul schmieren.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Honig
+Antwort_2=0Sirup
+Antwort_3=0Leim
+Antwort_4=0Marmelade
+
+[160]
+FZ1=
+FZ2=Der Hecht im ...
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Karpfenteich
+Antwort_2=0Forellenteich
+Antwort_3=0Ententeich
+Antwort_4=0Gartenteich
+
+[161]
+FZ1=
+FZ2=Der ... im Karpfenteich
+FZ3=
+Min=2000
+Max=16000
+Antwort_1=1Hecht
+Antwort_2=0Wal
+Antwort_3=0Hai
+Antwort_4=0Bückling
+
+[162]
+FZ1=
+FZ2=Lehrjahre sind keine ... .
+FZ3=
+Min=32000
+Max=250000
+Antwort_1=1Herrenjahre
+Antwort_2=0fröhlichen Jahre
+Antwort_3=0Freude
+Antwort_4=0reichen Jahre
+
+[163]
+FZ1=
+FZ2=... sind keine Herrenjahre.
+FZ3=
+Min=64000
+Max=500000
+Antwort_1=1Lehrjahre
+Antwort_2=0Studienjahre
+Antwort_3=0Schuljahre
+Antwort_4=0Kinderjahre
+
+[164]
+FZ1=
+FZ2=Da liegt der ... im Pfeffer.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1Hase
+Antwort_2=0Maulwurf
+Antwort_3=0Hund
+Antwort_4=0Tiger
+
+[165]
+FZ1=
+FZ2=Da liegt der Hase im ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Pfeffer
+Antwort_2=0Muskat
+Antwort_3=0Salz
+Antwort_4=0Zimt
+
+[166]
+FZ1=
+FZ2=Handwerk hat goldenen ... .
+FZ3=
+Min=32000
+Max=500000
+Antwort_1=1Boden
+Antwort_2=0Wert
+Antwort_3=0Glanz
+Antwort_4=0Himmel
+
+[167]
+FZ1=
+FZ2=... hat goldenen Boden.
+FZ3=
+Min=16000
+Max=250000
+Antwort_1=1Handwerk
+Antwort_2=0Arbeit
+Antwort_3=0Reichtum
+Antwort_4=0Faulheit
+
+[168]
+FZ1=
+FZ2=Jemandem die ... drücken.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1Daumen
+Antwort_2=0Ohren
+Antwort_3=0Zehen
+Antwort_4=0Haare
+
+[169]
+FZ1=
+FZ2=Aller ... ist schwer.
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1Anfang
+Antwort_2=0Abend
+Antwort_3=0Morgen
+Antwort_4=0Hand
+
+[170]
+FZ1=
+FZ2=Gelegenheit macht ... .
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=0Liebe
+Antwort_2=1Diebe
+Antwort_3=0Hiebe
+Antwort_4=0Siebe
+
+[171]
+FZ1=
+FZ2=Der ... fällt nicht weit vom Stamm.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Paprika
+Antwort_2=1Apfel
+Antwort_3=0Zweig
+Antwort_4=0Mann
+
+[172]
+FZ1=
+FZ2=Eine ... macht noch keinen Sommer.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Möwe
+Antwort_2=0Mücke
+Antwort_3=1Schwalbe
+Antwort_4=0Schlange
+
+[173]
+FZ1=
+FZ2=... haben kurze Beine.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Kinder
+Antwort_2=1Lügen
+Antwort_3=0Bücher
+Antwort_4=0Reden
+
+[174]
+FZ1=
+FZ2=Gebrannte Kinder scheuen das ... .
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Gewitter
+Antwort_2=0Streichholz
+Antwort_3=0Fernsehen
+Antwort_4=1Feuer
+
+[175]
+FZ1=
+FZ2=Der ... gibt nach.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Ältere
+Antwort_2=0Schönere
+Antwort_3=1Klügere
+Antwort_4=0Jüngere
+
+[176]
+FZ1=
+FZ2=... macht den Meister.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Arbeit
+Antwort_2=0Schule
+Antwort_3=1Übung
+Antwort_4=0Faulheit
+
+[177]
+FZ1=
+FZ2=Eigener Herd ist ... wert.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0sehr viel
+Antwort_2=0gar nichts
+Antwort_3=0alles
+Antwort_4=1Goldes
+
+[178]
+FZ1=
+FZ2=... währt am längsten.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Dummheit
+Antwort_2=1Ehrlich
+Antwort_3=0Feigheit
+Antwort_4=0Schummeln
+
+[179]
+FZ1=
+FZ2=Gut ... will Weile haben.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Holz
+Antwort_2=0Stein
+Antwort_3=0Wasser
+Antwort_4=1Ding
+
+[180]
+FZ1=
+FZ2=Hochmut kommt vor dem ... .
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Abend
+Antwort_2=1Fall
+Antwort_3=0Erfolg
+Antwort_4=0Rückzug
+
+[181]
+FZ1=
+FZ2=Der Zweck heiligt die ... .
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=0Ritter
+Antwort_2=0Absicht
+Antwort_3=0Kittel
+Antwort_4=1Mittel
+
+[182]
+FZ1=
+FZ2=... ist der beste Koch.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Hunger
+Antwort_2=0Durst
+Antwort_3=0Armut
+Antwort_4=0Reichtum
+
+[183]
+FZ1=
+FZ2=Aufgeschoben ist nicht ... .
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1aufgehoben
+Antwort_2=0abgeschlossen
+Antwort_3=0aufgeladen
+Antwort_4=0aufgegeben
+
+[184]
+FZ1=
+FZ2=Der Krug geht so lange zum ... bis er bricht.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Brunnen
+Antwort_2=0Fluss
+Antwort_3=0Bach
+Antwort_4=0See
+
+[185]
+FZ1=
+FZ2=Wer zuerst kommt, ... zuerst.
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0lacht
+Antwort_2=0tanzt
+Antwort_3=1mahlt
+Antwort_4=0schreibt
+
+[186]
+FZ1=
+FZ2=Salz und Brot macht ... rot.
+FZ3=
+Min=8000
+Max=32000
+Antwort_1=0Augen
+Antwort_2=0Haare
+Antwort_3=0Hände
+Antwort_4=1Wangen
+
+[187]
+FZ1=
+FZ2=Eine ... wäscht die andere.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Frau
+Antwort_2=0Seife
+Antwort_3=0Wand
+Antwort_4=1Hand
+
+[188]
+FZ1=
+FZ2=... ist der Welten Lohn.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Dank
+Antwort_2=0Hoffnung
+Antwort_3=0Glaube
+Antwort_4=1Undank
+
+[189]
+FZ1=
+FZ2=Ein gutes Gewissen ist ein sanftes ... .
+FZ3=
+Min=8000
+Max=64000
+Antwort_1=0Polster
+Antwort_2=0Bett
+Antwort_3=1Ruhekissen
+Antwort_4=0Nachtlager
+
+[190]
+FZ1=
+FZ2=In der Not frisst der Teufel ... .
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0Wurst
+Antwort_2=1Fliegen
+Antwort_3=0Käse
+Antwort_4=0Käfer
+
+[191]
+FZ1=
+FZ2=Viele ... verderben den Brei.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Köche
+Antwort_2=0Lehrer
+Antwort_3=0Ober
+Antwort_4=0Kellner
+
+[192]
+FZ1=
+FZ2=Der dümmste Bauer hat die dicksten ... .
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Tomaten
+Antwort_2=1Kartoffeln
+Antwort_3=0Schweine
+Antwort_4=0Bohnen
+
+[193]
+FZ1=
+FZ2=Jeder ist seines ... Schmied.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Unglücks
+Antwort_2=0Peches
+Antwort_3=1Glückes
+Antwort_4=0Nachbarn
+
+[194]
+FZ1=
+FZ2=Einem geschenkten Gaul, schaut man nicht ins ... .
+FZ3=
+Min=0
+Max=4000
+Antwort_1=1Maul
+Antwort_2=0Fell
+Antwort_3=0Ohr
+Antwort_4=0Auge
+
+[195]
+FZ1=
+FZ2=... vergeht nicht.
+FZ3=
+Min=8000
+Max=125000
+Antwort_1=0Hoffnung
+Antwort_2=0Bosheit
+Antwort_3=1Unkraut
+Antwort_4=0Unheil
+
+[196]
+FZ1=
+FZ2=Morgenstund´ hat ... im Mund.
+FZ3=
+Min=0
+Max=4000
+Antwort_1=0nichts
+Antwort_2=0Lärm
+Antwort_3=0Pech
+Antwort_4=1Gold
+
+[197]
+FZ1=
+FZ2=Was ich nicht weiß, macht mich nicht ... .
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0satt
+Antwort_2=1heiß
+Antwort_3=0kalt
+Antwort_4=0schlau
+
+[198]
+FZ1=
+FZ2=Wer nicht ... will, muss fühlen.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0sehen
+Antwort_2=0riechen
+Antwort_3=1hören
+Antwort_4=0schmecken
+
+[199]
+FZ1=
+FZ2=Wenn zwei sich ... , freut sich der dritte.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0ärgern
+Antwort_2=0schlagen
+Antwort_3=0hauen
+Antwort_4=1streiten
+
+[200]
+FZ1=
+FZ2=Keine Regel ohne ...
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Lehrer
+Antwort_2=0Schiedsrichter
+Antwort_3=0Sieger
+Antwort_4=1Ausnahme
+
+[201]
+FZ1=
+FZ2=Wer den Ärger hat, braucht für den .... nicht zu sorgen.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Lohn
+Antwort_2=0Kummer
+Antwort_3=1Spott
+Antwort_4=0Beifall
+
+[202]
+FZ1=
+FZ2=Das Ei will oft klüger sein als die ... .
+FZ3=
+Min=4000
+Max=125000
+Antwort_1=1Henne
+Antwort_2=0Schale
+Antwort_3=0Kuh
+Antwort_4=0Banane
+
+[203]
+FZ1=
+FZ2=Steter ... höhlt den Stein.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Wind
+Antwort_2=0Sturm
+Antwort_3=0Schlag
+Antwort_4=1Tropfen
+
+[204]
+FZ1=
+FZ2=Wer andern eine ... gräbt, fällt selbst hinein.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Falle
+Antwort_2=0Mulde
+Antwort_3=1Grube
+Antwort_4=0Höhle
+
+[205]
+FZ1=
+FZ2=Wie man sich ..., so liegt man.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1bettet
+Antwort_2=0hinlegt
+Antwort_3=0anstellt
+Antwort_4=0auszieht
+
+[206]
+FZ1=
+FZ2=Keine ... ohne Dornen.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Kakteen
+Antwort_2=0Zäune
+Antwort_3=0Tulpen
+Antwort_4=1Rosen
+
+[207]
+FZ1=
+FZ2=Ein Spatz in der Hand ist besser als eine ... auf dem Dach.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Möwe
+Antwort_2=1Taube
+Antwort_3=0Schwalbe
+Antwort_4=0Eule
+
+[208]
+FZ1=
+FZ2=Hunde die ..., die beißen nicht.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0knurren
+Antwort_2=0rennen
+Antwort_3=0heulen
+Antwort_4=1bellen
+
+[209]
+FZ1=
+FZ2=Aller guten Dinge sind ... .
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0zwei
+Antwort_2=0vier
+Antwort_3=0fünf
+Antwort_4=1drei
+
+[210]
+FZ1=
+FZ2=Wer im Glashaus sitzt, sollte nicht mit ... werfen.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Blumen
+Antwort_2=0Erde
+Antwort_3=1Steinen
+Antwort_4=0Fenstern
+
+[211]
+FZ1=
+FZ2=Wer den Pfennig nicht ehrt, ist des ... nicht wert.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Talers
+Antwort_2=0Goldes
+Antwort_3=0Schatzes
+Antwort_4=0Lohnes
+
+[212]
+FZ1=
+FZ2=Was Hänschen nicht ..., lernt Hans nimmermehr.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1lernt
+Antwort_2=0kann
+Antwort_3=0will
+Antwort_4=0macht
+
+[213]
+FZ1=
+FZ2=Wer nicht kommt zur rechten ..., der muss nehmen was übrig bleibt.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Zeit
+Antwort_2=0Stelle
+Antwort_3=0Stunde
+Antwort_4=0Abzweigung
+
+[214]
+FZ1=
+FZ2=Viele Hunde sind des ... Tod.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Füchse
+Antwort_2=0Wölfe
+Antwort_3=1Hasen
+Antwort_4=0Tiger
+
+[215]
+FZ1=
+FZ2=Den letzten beißen die ... .
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=1Hunde
+Antwort_2=0Katzen
+Antwort_3=0Mäuse
+Antwort_4=0Esel
+
+[216]
+FZ1=
+FZ2=Müßiggang ist aller ... Anfang.
+FZ3=
+Min=64000
+Max=0
+Antwort_1=1Laster
+Antwort_2=0Unglück
+Antwort_3=0Fahrrad
+Antwort_4=0erster
+
+[217]
+FZ1=
+FZ2=Alte Liebe ... nicht.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0endet
+Antwort_2=1rostet
+Antwort_3=0hält
+Antwort_4=0bleibt
+
+[218]
+FZ1=
+FZ2=Wie man in den ... ruft, so schallt es heraus.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Wald
+Antwort_2=0Schacht
+Antwort_3=0Ort
+Antwort_4=0Baum
+
+[219]
+FZ1=
+FZ2=Wer ... lacht, lacht am besten.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0zuerst
+Antwort_2=1zuletzt
+Antwort_3=0laut
+Antwort_4=0leise
+
+[220]
+FZ1=
+FZ2=Ein ... kommt selten allein.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Unglück
+Antwort_2=0Glück
+Antwort_3=0Zwilling
+Antwort_4=0Bauer
+
+[221]
+FZ1=
+FZ2=Die ... im Hause erspart den Zimmermann.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Frau
+Antwort_2=1Axt
+Antwort_3=0Feile
+Antwort_4=0Bürste
+
+[222]
+FZ1=
+FZ2=Das ist also des Pudels ... .
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Kern
+Antwort_2=0Schwanz
+Antwort_3=0Ohr
+Antwort_4=0Bein
+
+[223]
+FZ1=
+FZ2=Er benimmt sich wie der ... im Porzellanladen.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Gorilla
+Antwort_2=0Hamster
+Antwort_3=0Stier
+Antwort_4=1Elefant
+
+[224]
+FZ1=
+FZ2=Da hat man den Bock zum ... gemacht.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Gärtner
+Antwort_2=0Bäcker
+Antwort_3=0Metzger
+Antwort_4=0Bauern
+
+[225]
+FZ1=
+FZ2=Wenn es dem Esel zu wohl wird, geht er auf´s ... .
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Fest
+Antwort_2=1Eis
+Antwort_3=0Heu
+Antwort_4=0Land
+
+[226]
+FZ1=
+FZ2=Aus einer Mücke einen ... machen.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Affen
+Antwort_2=1Elefanten
+Antwort_3=0Bären
+Antwort_4=0Fisch
+
+[227]
+FZ1=
+FZ2=Wo gehobelt wird, fallen ... .
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Späne
+Antwort_2=0Zähne
+Antwort_3=0Bäume
+Antwort_4=0Bretter
+
+[228]
+FZ1=
+FZ2=Wer "A" sagt, muss auch ... .
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1"B" sagen
+Antwort_2=0anfangen
+Antwort_3=0aufhören
+Antwort_4=0"Z" sagen
+
+[229]
+FZ1=
+FZ2=Jetzt wird es aber ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0längste Straßenbahn
+Antwort_2=0tiefste Zahnradbahn
+Antwort_3=0schnellste U - Bahn
+Antwort_4=1höchste Eisenbahn
+
+[230]
+FZ1=
+FZ2=Das bekommt man schon für ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1einen Apfel und ein Ei
+Antwort_2=0einen Apfel und eine Birne
+Antwort_3=0zwei Bananen
+Antwort_4=0drei Pflaumen
+
+[231]
+FZ1=
+FZ2=Ein blindes Huhn findet auch mal ... .
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1ein Korn
+Antwort_2=0einen Hahn
+Antwort_3=0einen Halm
+Antwort_4=0ein Ei
+
+[232]
+FZ1=
+FZ2=Er soll bleiben, wo der ... wächst.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=0Kümmel
+Antwort_2=0Salat
+Antwort_3=0Kürbis
+Antwort_4=1Pfeffer
+
+[233]
+FZ1=
+FZ2=Er sah den Wald vor lauter ... nicht.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=1Bäumen
+Antwort_2=0Zweigen
+Antwort_3=0Sträuchern
+Antwort_4=0Büschen
+
+[234]
+FZ1=
+FZ2=Geben ist seliger denn ... .
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1nehmen
+Antwort_2=0kaufen
+Antwort_3=0stehlen
+Antwort_4=0schenken
+
+[235]
+FZ1=
+FZ2=Da wird der Hund in der ... verrückt.
+FZ3=
+Min=4000
+Max=64000
+Antwort_1=1Pfanne
+Antwort_2=0Hütte
+Antwort_3=0Wohnung
+Antwort_4=0Tasse
+
+[236]
+FZ1=
+FZ2=Rom wurde auch nicht an einem ... erbaut.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Tag
+Antwort_2=0Berg
+Antwort_3=0Ort
+Antwort_4=0Fluss
+
+[237]
+FZ1=
+FZ2=Viele Wege führen nach ... .
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=0Berlin
+Antwort_2=1Rom
+Antwort_3=0Paris
+Antwort_4=0Madrid
+
+[238]
+FZ1=
+FZ2=Bei Nacht sind alle ... grau.
+FZ3=
+Min=0
+Max=2000
+Antwort_1=0Mäuse
+Antwort_2=0Esel
+Antwort_3=1Katzen
+Antwort_4=0Hunde
+
+[239]
+FZ1=
+FZ2=Perlen vor die ... werfen.
+FZ3=
+Min=64000
+Max=1000000
+Antwort_1=1Säue
+Antwort_2=0Pferde
+Antwort_3=0Kühe
+Antwort_4=0Schafe
+
+[240]
+FZ1=
+FZ2=Er hat es faustdick hinter den ... .
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Armen
+Antwort_2=0Schultern
+Antwort_3=0Haaren
+Antwort_4=1Ohren
+
+[241]
+FZ1=
+FZ2=Jemandem einen ... aufbinden.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=1Bären
+Antwort_2=0Esel
+Antwort_3=0Ochsen
+Antwort_4=0Affen
+
+[242]
+FZ1=
+FZ2=Er lügt, dass sich die ... biegen.
+FZ3=
+Min=4000
+Max=32000
+Antwort_1=0Bretter
+Antwort_2=0Zeitungen
+Antwort_3=1Balken
+Antwort_4=0Leute
+
+

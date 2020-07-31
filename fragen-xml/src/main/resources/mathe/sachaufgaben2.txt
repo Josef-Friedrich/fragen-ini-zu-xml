@@ -1,0 +1,1193 @@
+[Thema]
+Thema=Sachaufgaben Rechnung
+Fragen=108
+Autor=Manfred Hartisch
+
+[1]
+FZ1=Dagmar möchte Erdbeermarmelade machen. Sie kauft für 18 Euro Erdbeeren und
+FZ2=für 6 Euro Zucker. Sie erhält genau 8 Gläser. 1 leeres Glas kostet 4 Euro.
+FZ3=Von ihrer Oma bekommt sie 6 Gläser geschenkt.
+Min=125000
+Max=500000
+Antwort_1=118 € + 6 € = 24 €           2 x 4 € = 8 €	24 € + 8 € = 32 €	32 € : 8 = 4 €	
+Antwort_2=018 € + 6 € = 24 €	24 € + 4 € = 28 €	28 € : 8 = 3,50 €	
+Antwort_3=018 € + 6 € = 24 €	8 x 4 € = 32 €	32 € : 8 = 4 €	
+Antwort_4=018 € + 6 € + 4 € = 28 €	28 € : 6 = 4,66 €	
+
+[2]
+FZ1=
+FZ2=Gabriele möchte Erdbeermarmelade machen. Sie kauft für 17,60 Euro Erdbeeren und
+FZ3=für 8 Euro Zucker. Sie erhält genau 8 Gläser.
+Min=125000
+Max=500000
+Antwort_1=117,60 € + 8 € = 25,60 €	25,60 € : 8 = 3,20 €	
+Antwort_2=017,60 € + 8 € = 25,60 €	25,60 € x 8 = 204,80 €	
+Antwort_3=017,60 € - 8 € = 9,60 €	9,60 € : 8 = 1,20 €	
+Antwort_4=017,60 € x 8 = 140,80 €	140,80 € - 8 = 132,80 €	
+
+[3]
+FZ1=
+FZ2=Volker muss während einer Grippe täglich zweimal 18 Tropfen von der einen und
+FZ3=täglich dreimal 14 Tropfen von der anderen Medizin nehmen.
+Min=125000
+Max=500000
+Antwort_1=12 x 18 = 36	3 x 14 = 42	36 + 42 = 78	
+Antwort_2=018 + 14 = 32	
+Antwort_3=02 x 18 = 36	2 x 18 = 36	2 x 14 = 28	
+Antwort_4=02 + 18 + 3 + 14 = 37	
+
+[4]
+FZ1=Herr Auto fährt von Bochum nach Bielefeld. Das sind 175 km. Nach 32 km macht er
+FZ2=eine Pause. Er fährt weiter und merkt nach 13 km, dass er seinen Führerschein
+FZ3=vergessen hat. Also dreht er um und holt ihn.
+Min=125000
+Max=500000
+Antwort_1=132 km + 13 km = 45 km	2 x 45 km = 90 km	175 km + 90 km =  265 km	
+Antwort_2=013 km + 13 km = 26km	175 km + 26 km = 301 km	
+Antwort_3=032 km + 32 km = 64 km	175 km + 175 km = 350 km	350 km + 64 km = 414 km	
+Antwort_4=0175 km + 175 km = 350 km	32 km + 13 km = 45 km	350 km + 45 km = 395 km	
+
+[5]
+FZ1=
+FZ2=Felicitas kauft für ihren Hasen Hoppel Möhren. Hoppel frisst jeden Tag 2 Möhren.
+FZ3=Felicitas kauft Möhren für zwei Wochen. Dafür muss sie 7 Euro bezahlen.
+Min=64000
+Max=250000
+Antwort_1=114 x 2 = 28	7 € : 28 = 0,25 €	
+Antwort_2=014 : 2 = 7	7 € : 7 = 1	
+Antwort_3=014 x 2 = 28	28 : 7 = 4 €	
+Antwort_4=014 + 2 = 16	16 + 7 = 23	
+
+[6]
+FZ1=
+FZ2=Felicitas kauft für ihren Hasen Hoppel Möhren. Hoppel frisst jeden Tag 2 Möhren.
+FZ3=Felicitas kauft Möhren für zwei Wochen.
+Min=2000
+Max=32000
+Antwort_1=114 x 2 = 28	
+Antwort_2=014 + 2 = 16	
+Antwort_3=014 : 2 = 7	
+Antwort_4=014 - 2 = 12	
+
+[7]
+FZ1=
+FZ2=Ute zählt ihr Taschengeld. Sie hat einen 10 - Euro Schein, sieben 2 - Euro Münze
+FZ3=neun 1 - Euro Münzen und achtzehn 50 Cent Münzen.
+Min=4000
+Max=64000
+Antwort_1=17 x 2 € = 14 €   9 x 1 € = 9 €	18 x 0,50 € = 9 €	10 € + 14 € + 9 € + 9 € = 42 €	
+Antwort_2=010 € + 7 € + 9 € + 18 € = 44 €	
+Antwort_3=07 x 2 € = 16 €   9 x 1 € = 9 €	18 x 0,50 € = 8 €	10 € + 16 € + 9 € + 8 € = 43 €	
+Antwort_4=010 + 7 + 2 + 9 +1 + 18 + 0,50 = 47,50 €	
+
+[8]
+FZ1=
+FZ2=Der Briefträger muss 6 Briefe zur Bömmerstraße 23 bringen.
+FZ3=
+Min=1000
+Max=16000
+Antwort_1=1Mit diesen Zahlen ist keine sinnvolle	Rechnung möglich.	
+Antwort_2=023 - 6 = 17	
+Antwort_3=06 + 23 = 29	
+Antwort_4=023 x 6 =138	
+
+[9]
+FZ1=
+FZ2=In einer Tüte sind 64 Bonbons. Kirsten nimmt die Hälfte heraus.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=164 : 2 = 32	
+Antwort_2=064 + 64 = 128	
+Antwort_3=064 - 2 = 62	
+Antwort_4=064 + 2 = 66	
+
+[10]
+FZ1=
+FZ2=Ein Jahr hat 52 Wochen.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=152 x 7 = 364	
+Antwort_2=052 - 7 = 45	
+Antwort_3=052 + 7 = 59	
+Antwort_4=052 : 7 = 7 + 3 : 7	
+
+[11]
+FZ1=
+FZ2=Am Kastanienbaum hängen 86 Kastanien. Der Wind reißt 32 Kastanien ab.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=186 - 32 = 54	
+Antwort_2=086 + 32 = 118	
+Antwort_3=086 - 23 = 63	
+Antwort_4=086 + 32 = 108	
+
+[12]
+FZ1=
+FZ2=Ines neue Buch hat 96 Seiten. Sie hat schon 62 Seiten gelesen.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=196 - 62 = 34	
+Antwort_2=096 + 62 = 158	
+Antwort_3=096 - 26 = 70	
+Antwort_4=096 + 96 = 192	
+
+[13]
+FZ1=
+FZ2=Herr Piepmatz züchtet 48 Wellensittiche. In diesem Jahr schlüpfen 14 Junge.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=148 + 14 = 62	
+Antwort_2=048 + 41 = 89	
+Antwort_3=048 - 14 = 34	
+Antwort_4=048 + 14 = 52	
+
+[14]
+FZ1=
+FZ2=Im Stadtpark stehen 35 Buchen und 26 Eichen. 
+FZ3=Leider müssen 6 Buchen und 4 Eichen gefällt werden.
+Min=4000
+Max=64000
+Antwort_1=135 + 26 = 61	6 + 4 = 10	61 - 10 = 51	
+Antwort_2=035 - 26 = 9	6 + 4 = 10	10 + 9 = 19	
+Antwort_3=035 + 26 = 61	6 + 4 = 10	61 + 10 = 71	
+Antwort_4=035 + 26 = 61	35 + 26 = 61	35 + 26 = 61	
+
+[15]
+FZ1=
+FZ2=Im Stadtpark stehen 35 Buchen und 26 Eichen. Der Förster pflanzt noch 12 Birken.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=135 + 26 = 61	61 + 12 = 73	
+Antwort_2=035 - 26 = 9	9 + 12 = 21	
+Antwort_3=035 + 26 = 61	61 - 12 = 49	
+Antwort_4=035 + 26 = 51	51 + 12 = 63	
+
+[16]
+FZ1=
+FZ2=Im Stadtpark stehen 35 Buchen und 26 Eichen.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=135 + 26 = 61	
+Antwort_2=035 + 26 = 51	
+Antwort_3=035 - 26 = 9	
+Antwort_4=035 + 62 = 97	
+
+[17]
+FZ1=Ralf hat 20 Sammelbilder, Kurt hat 30 Sammelbilder. Beide Jungen tauschen ein
+FZ2=paar Bilder. Kurt schenkt Ralf so viele Bilder, dass die beiden Jungen
+FZ3=nun gleich viele Bilder haben.
+Min=2000
+Max=32000
+Antwort_1=120 + 30 = 50	50 : 2 = 25	30 - 5 = 25	
+Antwort_2=020 + 30 = 50	
+Antwort_3=020 + 30 = 50	50 : 2 = 25	
+Antwort_4=020 + 30 + 5 = 55	
+
+[18]
+FZ1=
+FZ2=Ralf hat 20 Sammelbilder, Kurt hat 30 Sammelbilder.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=120 + 30 = 50	
+Antwort_2=020 + 30 = 40	
+Antwort_3=030 - 20 = 10	
+Antwort_4=020 + 30 = 60	
+
+[19]
+FZ1=Sara fährt mit ihrem Vater zum Freizeitpark. Vor der Fahrt zeigt ihr Tachometer
+FZ2=350 km. Der Hin- und Rückweg ist gleich lang. Am Abend zeigt der
+FZ3=Tachometer 410 km.
+Min=4000
+Max=64000
+Antwort_1=1410 km - 350 km = 60 km	60 km : 2 = 30 km	
+Antwort_2=0350 km : 2 = 175 km	410 km : 2 = 205 km	
+Antwort_3=0350 km + 410 km = 760 km	760 km : 2 = 380 km	
+Antwort_4=0410 km - 350 km = 60 km	
+
+[20]
+FZ1=Mery sagt: "Auf meinem Tachometer sind schon 245 km. Heute fahre ich zu meiner
+FZ2=Oma. Der Hinweg ist 18 km lang. Auf dem Rückweg nehme ich eine Abkürzung,
+FZ3=deshalb ist dieser Weg 4 km kürzer."
+Min=16000
+Max=125000
+Antwort_1=118 km - 4 km = 14 km	18 km + 14 km = 32 km	245 km + 32 km = 277 km	
+Antwort_2=018 km + 4 km = 22 km	245 km + 22 km = 267 km	
+Antwort_3=0245 km + 18 km = 263 km	263 km - 4 km = 259 km	
+Antwort_4=018 km - 4 km = 14 km	18 km + 4 km = 22 km	18 km + 22 km = 40 km	
+
+[21]
+FZ1=
+FZ2=Gärtner Dünger verkauft Geranien. Er hat 120 Geranien zum Markt gebracht und
+FZ3=bekommt für jede Geranie 2 Euro. Am Abend hat er 180 Euro eingenommen.
+Min=4000
+Max=64000
+Antwort_1=1180 : 2 € = 90	120 - 90 = 30	
+Antwort_2=0180 x 2 € = 360	360 + 120 = 480	
+Antwort_3=0180 x 2 € = 360	360 - 120 = 240	
+Antwort_4=0180 : 2 € = 90	120 + 90 = 210	
+
+[22]
+FZ1=
+FZ2=Frau Tippi arbeitet in einem Büro. Sie tippt einen Brief mit 6 Seiten in
+FZ3=drei Minuten und macht anschließend 5 Kopien.
+Min=8000
+Max=125000
+Antwort_1=16 x 5 = 30	
+Antwort_2=06 + 3 = 9	9 x 5 = 45	
+Antwort_3=06 + 3 + 5 = 14	
+Antwort_4=06 x 3 = 18	18 x 5 = 90	
+
+[23]
+FZ1=
+FZ2=Herr Brummbrumm fährt jeden Tag 8 km zur Arbeit. Für 1 km braucht er fünf
+FZ3=Minuten. In dieser Woche hat Herr Brummbrumm nur an vier Tagen gearbeitet.
+Min=4000
+Max=64000
+Antwort_1=18 x 5 min = 40 min	4 x 40 min = 160 min	160 min = 2 Stunden und 40 Minuten	
+Antwort_2=08 km x 4 = 32 km	
+Antwort_3=08 + 5 min = 13 min	4 x 13 min = 52 min	
+Antwort_4=04 + 5 = 9	9 x 8 km = 72 km	
+
+[24]
+FZ1=
+FZ2=Herr Brummbrumm fährt jeden Tag 8 km zur Arbeit.
+FZ3=Für 1 km braucht er fünf Minuten.
+Min=500
+Max=4000
+Antwort_1=18 x 5 min = 40 min	
+Antwort_2=08 - 5 min = 3 min	
+Antwort_3=08 + 5 min = 13 min	
+Antwort_4=08 x 5 min = 58 min	
+
+[25]
+FZ1=Berner Sennenhunde werden seit 1904 in der Schweiz gezüchtet. Eine
+FZ2=ausgewachsene Hündin wiegt 85 kg. Eine Hündin bekommt sechsmal in ihrem Leben
+FZ3=Welpen. Jedes Mal sind es  6 - 10 Welpen.
+Min=8000
+Max=125000
+Antwort_1=16 x 10 = 60	
+Antwort_2=01904 + 85 = 1989	
+Antwort_3=085 + 6 = 91	
+Antwort_4=01904 + 6 + 6 - 10 = 1906	
+
+[26]
+FZ1=
+FZ2=Auf dem Bauernhof gibt es 25 Kühe und 18 Schweine.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=125 + 18 = 43	
+Antwort_2=025 + 81 = 106	
+Antwort_3=025 - 18 = 7	
+Antwort_4=025 + 18 = 33	
+
+[27]
+FZ1=
+FZ2=Die 30 Kinder der Klasse 4 b sitzen an Sechser - Gruppentischen.
+FZ3=
+Min=200
+Max=2000
+Antwort_1=130 : 6 = 5	
+Antwort_2=030 + 4 = 34	
+Antwort_3=030 x 6 = 180	
+Antwort_4=04 x 6 = 24	
+
+[28]
+FZ1=
+FZ2=Die 28 Kinder der Klasse 4 a sitzen an Vierer - Gruppentischen.
+FZ3=
+Min=200
+Max=2000
+Antwort_1=128 : 4 = 7	
+Antwort_2=028 + 4 + 4 = 36	
+Antwort_3=028 + 4 = 32	
+Antwort_4=04 x 4 = 16	
+
+[29]
+FZ1=Frau Blümchen bindet 240 Tulpen zu Sträußen. Es wurden 40 Sträuße bestellt, die
+FZ2=alle gleich groß sein sollten. Nach 20 Minuten hat Frau Blümchen schon
+FZ3=120 Tulpen zu Sträußen gebunden. Sie arbeitet gleichmäßig weiter.
+Min=16000
+Max=125000
+Antwort_1=1240 : 120 = 2	2 x 20 min = 40 min	
+Antwort_2=0240 : 20 = 12	
+Antwort_3=0240 : 40 = 6	
+Antwort_4=0120 + 40 = 160	
+
+[30]
+FZ1=
+FZ2=Frau Blümchen bindet 140 Nelken zu Sträußen. Es wurden 20 Sträuße bestellt, die
+FZ3=alle gleich groß sein sollten.
+Min=500
+Max=8000
+Antwort_1=1140 : 20 = 7	
+Antwort_2=0140 - 20 = 120	
+Antwort_3=0140 + 20 = 160	
+Antwort_4=0140 x 20 = 2800	
+
+[31]
+FZ1=
+FZ2=Frau Blümchen bindet 120 Rosen zu Sträußen. 
+FZ3=In jeden Strauß kommen sechs Rosen.
+Min=1000
+Max=8000
+Antwort_1=1120 : 6 = 20	
+Antwort_2=0120 - 6 = 114	
+Antwort_3=0120 + 6 = 126	
+Antwort_4=0120 x 6 = 720	
+
+[32]
+FZ1=
+FZ2=Sandra ist 9 Jahre alt. Dominic wiegt 34 kg. Laura ist 135 cm groß.
+FZ3=Rebecca kann 2,85 m weit springen.
+Min=2000
+Max=32000
+Antwort_1=1Mit diesen Angaben ist keine sinnvolle	Rechnung möglich.	
+Antwort_2=0135 + 34 = 169	
+Antwort_3=034 + 9 = 43	
+Antwort_4=02,85 + 1,35 = 4,20	
+
+[33]
+FZ1=Der McLaren Mercedes von Raikkonen ist 321 km/h schnell. Der Williams-BMW von
+FZ2=Ralf Schumacher hat 845 PS. Der Ferrari von Barrichello wiegt 785 kg. Michael
+FZ3=Schumachers Ferrari ist rot.
+Min=2000
+Max=32000
+Antwort_1=1Mit diesen Angaben ist keine sinnvolle	Rechnung möglich.	
+Antwort_2=0845 - 785 = 60	
+Antwort_3=0845 - 321 = 525	
+Antwort_4=0785 + 321 = 1206	
+
+[34]
+FZ1=
+FZ2=Bauer Birne verpackt 180 Äpfel in Netze. In jedes Netz kommen 6 Äpfel.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=1180 : 6 = 30	
+Antwort_2=0180 - 6 = 174	
+Antwort_3=0180 + 6 = 186	
+Antwort_4=0180 x 6 = 1080	
+
+[35]
+FZ1=
+FZ2=Stefan hat im Urlaub drei Filme verknipst. Auf jedem Film waren 24 Fotos. Er hat
+FZ3=noch 250 Fotoecken und möchte jedes Foto mit vier Fotoecken einkleben.
+Min=32000
+Max=250000
+Antwort_1=13 x 24 = 72	72 x 4 = 288	288 - 250 = 38	
+Antwort_2=03 x 24 = 72	250 + 72 = 322	
+Antwort_3=03 x 24 = 72	250 - 72 = 168	
+Antwort_4=03 x 24 = 72	72 + 4 = 76	250 + 76 = 326	
+
+[36]
+FZ1=Claudia hat 60 Urlaubsfotos gemacht, die sie in ihr Fotoalbum kleben möchte.
+FZ2=Für jedes Foto braucht sie 4 Fotoecken. Sie hat noch zwei Packungen mit Fotoecke
+FZ3=In jeder Packung sind genau 130 Fotoecken.
+Min=16000
+Max=125000
+Antwort_1=160 x 4 = 240	2 x 130 = 260	260 - 240 = 20	
+Antwort_2=060 x 4 = 240	240 - 130 = 110	
+Antwort_3=060 x 4 = 240	2 x 130 = 260	260 + 240 = 500	
+Antwort_4=060 : 4 = 15	2 x 130 = 260	260 - 15 = 245	
+
+[37]
+FZ1=
+FZ2=Fatma hat im Urlaub 32 Fotos gemacht. Sie möchte die Fotos in ihr Fotoalbum
+FZ3=kleben. Für jedes Foto benötigt sie 4 Fotoecken. Ihr Fotoalbum hat 38 Seiten.
+Min=4000
+Max=64000
+Antwort_1=132 x 4 = 128	
+Antwort_2=032 + 38 = 70	
+Antwort_3=032 : 4 = 8	38 + 8 = 46	
+Antwort_4=038 + 4 = 42	
+
+[38]
+FZ1=
+FZ2=Mustafa hat ein Fotoalbum mit 24 Seiten. Auf jede Seite passen 4 Bilder.
+FZ3=Er kann noch 12 Bilder einkleben.
+Min=8000
+Max=125000
+Antwort_1=112 : 4 = 3	24 - 3 = 21	
+Antwort_2=024 + 12 = 36	
+Antwort_3=024 + 4 = 28	
+Antwort_4=024 + 4 + 12 = 40	
+
+[39]
+FZ1=
+FZ2=Armin hat ein Fotoalbum mit 24 Seiten. Auf jede Seite passen 4 Bilder.
+FZ3=Er hat schon 80 Bilder eingeklebt.
+Min=8000
+Max=125000
+Antwort_1=180 : 4 = 20	24 - 20 = 4	
+Antwort_2=04 x 80 = 320	
+Antwort_3=024 : 4 = 6	
+Antwort_4=080 + 24 + 4 = 108	
+
+[40]
+FZ1=
+FZ2=Gökhan hat ein Fotoalbum mit 48 Seiten. Auf jede Seite passen 6 Bilder.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=148 x 6 = 288	
+Antwort_2=048 + 6 = 54	
+Antwort_3=048 : 6 = 8	
+Antwort_4=048 - 6 = 42	
+
+[41]
+FZ1=
+FZ2=Armin hat ein Fotoalbum mit 24 Seiten. Auf jede Seite passen 4 Bilder.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=124 x 4 = 96	
+Antwort_2=024 + 4 = 28	
+Antwort_3=024 : 4 = 6	
+Antwort_4=024 - 4 = 20	
+
+[42]
+FZ1=Shawn wiegt 29 kg, Robin wiegt 31 kg. Josefin wiegt halb so viel wie Shawn und
+FZ2=Robin zusammen. Bela wiegt 3 kg mehr als Josefin. Meriam wiegt 4 kg
+FZ3=weniger als Bela.
+Min=125000
+Max=500000
+Antwort_1=129 kg + 31 kg = 60 kg	60 kg : 2 = 30 kg    30 kg + 3 kg = 33 kg	33 kg - 4 kg = 29 kg	
+Antwort_2=029 kg + 31 kg = 60 kg	60 kg : 2 = 30 kg    30 kg + 3 kg = 33 kg	33 kg + 4 kg = 37 kg	
+Antwort_3=029 kg + 31 kg = 60 kg	60 kg : 2 = 30 kg	30 kg - 4 kg = 26 kg	
+Antwort_4=029 kg + 31 kg = 60 kg	60kg x 2 = 120kg    120kg + 3kg = 123kg	123 kg - 4 kg = 119 kg	
+
+[43]
+FZ1=
+FZ2=Kevin wiegt 28 kg, Janine wiegt 32 kg. Jessica wiegt halb so viel wie Kevin und
+FZ3=Janine zusammen. Dimitra wiegt 3 kg mehr als Jessica.
+Min=125000
+Max=500000
+Antwort_1=128 kg + 32 kg = 60 kg	60 kg : 2 = 30 kg	30 kg + 3 kg = 33 kg	
+Antwort_2=028 kg + 32 kg = 60 kg	60 kg x 2 = 120 kg	120 kg + 3 kg = 123 kg	
+Antwort_3=028 kg + 32 kg = 60 kg	60 kg : 2 = 30 kg	30 kg - 3 kg = 27 kg	
+Antwort_4=028 kg + 32 kg = 60 kg	60 kg x 2 = 120 kg	120 kg - 3 kg = 117 kg	
+
+[44]
+FZ1=
+FZ2=Matthias wiegt 26 kg, Anita wiegt 34 kg. Jens wiegt halb so viel wie
+FZ3=Matthias und Anita zusammen.
+Min=8000
+Max=125000
+Antwort_1=126 kg + 34 kg = 60 kg	60 kg : 2 = 30 kg	
+Antwort_2=026 kg + 34 kg = 50 kg	50 kg : 2 = 50 kg	
+Antwort_3=026 kg + 34 kg = 60 kg	60 kg x 2 = 120 kg	
+Antwort_4=034 kg - 26 kg = 8 kg	8 kg : 2 = 4 kg	
+
+[45]
+FZ1=
+FZ2=Rita wiegt 33 kg und 800 g. Moni wiegt 4 kg weniger.
+FZ3=
+Min=200
+Max=2000
+Antwort_1=133,8 kg - 4 kg = 29,8 kg	
+Antwort_2=033,8 kg - 0,4 kg = 33,4 kg	
+Antwort_3=033,8 kg + 4 kg = 37,8 kg	
+Antwort_4=033,8 kg + 0,4 kg = 34,2 kg	
+
+[46]
+FZ1=
+FZ2=Özlem hat Reste von Holzleisten gesammelt. Sie sind 32 cm, 24 cm und 18 cm lang.
+FZ3=
+Min=300
+Max=4000
+Antwort_1=132 cm + 24 cm + 18 cm = 74 cm	
+Antwort_2=032 cm - 24 cm = 8 cm	18 cm + 8 cm = 26 cm	
+Antwort_3=032 cm - 24 cm = 8 cm	18 cm - 8 cm = 10 cm	
+Antwort_4=024 cm - 18 cm = 6 cm	32 cm - 6 cm = 26 cm	
+
+[47]
+FZ1=Fahrradhändler Pedalo hat heute drei Fahrräder für insgesamt 1000 Euro verkauft.
+FZ2=Ein Mountain - Bike für 310 Euro, ein Kinderfahrrad und ein Touringrad. Das
+FZ3=Touringrad war 50 Euro teurer als das Mountain - Bike.
+Min=64000
+Max=250000
+Antwort_1=1310 € + 50 € = 360 €	310 € + 360 € = 670 €	1000 € - 670 € = 330 €	
+Antwort_2=0310 € - 50 € = 260 €	310 € + 260 € = 570 €	1000 € - 570 € = 430 €	
+Antwort_3=01000 € - 310 € - 50 € = 640 €	
+Antwort_4=01000 € - 310 € + 50 € = 740 €	
+
+[48]
+FZ1=
+FZ2=Ein großer Apfelbaum trägt ungefähr 250 kg Äpfel. 5 Äpfel wiegen
+FZ3=ca. ein Kilogramm. Aus der Hälfte macht der Obstbauer Apfelsaft.
+Min=8000
+Max=125000
+Antwort_1=1250 x 5 = 1250	1250 : 2 = 625	
+Antwort_2=0250 - 5 = 245	245 x 2 = 490	
+Antwort_3=0250 + 5 = 255	
+Antwort_4=0250 : 2 = 125	125 + 5 = 130	
+
+[49]
+FZ1=
+FZ2=Ein großer Apfelbaum trägt ungefähr 250 kg Äpfel.
+FZ3=5 Äpfel wiegen ca. ein Kilogramm.
+Min=2000
+Max=32000
+Antwort_1=1250 x 5 = 1250	
+Antwort_2=0250 + 5 = 255	
+Antwort_3=0250 : 5 = 50	
+Antwort_4=0250 - 5 = 245	
+
+[50]
+FZ1=
+FZ2=Von 100 kg Äpfeln erhält man ungefähr 70 l Apfelsaft. Familie Obstsaft möchte in
+FZ3=diesem Jahr an 350 Tagen immer einen Liter Apfelsaft trinken.
+Min=125000
+Max=500000
+Antwort_1=1350 : 70 = 5	5 x 100 kg = 500 kg	
+Antwort_2=0350 - 70 = 280	280 x 100 = 28000	
+Antwort_3=0100 + 70 = 170	350 + 170 = 520	
+Antwort_4=0100 x 70 = 7000	7000 : 350 = 2	
+
+[51]
+FZ1=
+FZ2=Das Leichtathletikstadion wurde 1975 gebaut. Die Laufbahn im Stadion ist 400 m
+FZ3=lang. Torsten ist neun Jahre und läuft heute 3 Runden in 12 Minuten.
+Min=1000
+Max=16000
+Antwort_1=13 x 400 m = 1200 m	
+Antwort_2=09 + 3 + 12 = 24	
+Antwort_3=03 x 12 = 36	
+Antwort_4=01975 + 400 = 2375	
+
+[52]
+FZ1=
+FZ2=Das Leichtathletikstadion wurde 1960 gebaut. Die Laufbahn im Stadion ist 400 m
+FZ3=lang. Die 22 Kinder der Klasse 3 c laufen heute 3 Runden.
+Min=1000
+Max=32000
+Antwort_1=13 x 400 m = 1200 m	
+Antwort_2=0400 + 22 = 422	
+Antwort_3=022 x 3 = 66	
+Antwort_4=01960 + 400 = 2360	
+
+[53]
+FZ1=
+FZ2=Am Samstag war das Zirkuszelt bis auf den letzten Platz besetzt. 232 Kinder und
+FZ3=108 Erwachsene waren von der Vorstellung um 15 Uhr begeistert.
+Min=2000
+Max=16000
+Antwort_1=1232 + 108 = 340	
+Antwort_2=0232 + 108 + 15 = 355	
+Antwort_3=0232 - 108 = 124	
+Antwort_4=0232 -108 - 15 = 109	
+
+[54]
+FZ1=
+FZ2=In der Osterfeld - Grundschule gibt es heute 560 Füße. Davon gehören 32 Füße den
+FZ3=Lehrern oder Lehrerinnen.
+Min=16000
+Max=125000
+Antwort_1=1560 - 32 = 528	528 : 264	
+Antwort_2=0560 : 4 = 140	
+Antwort_3=0560 + 32 = 592	
+Antwort_4=0560 : 2 = 280	280 + 32 = 312	
+
+[55]
+FZ1=
+FZ2=In der Klasse 1a sind 24 Kinder. In der Klasse 1 b sind es 4 Kinder mehr.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=124 + 4 = 28	
+Antwort_2=024 : 4 = 6	
+Antwort_3=024 - 4 = 20	
+Antwort_4=024 x 4 = 96	
+
+[56]
+FZ1=
+FZ2=Lisa hat 342 Euro gespart. Ihre Freundin Pia ist zwei Jahre älter 
+FZ3=und hat 421 Euro gespart.
+Min=300
+Max=4000
+Antwort_1=1421 € - 342 € = 79 €	
+Antwort_2=0421 € - 2 = 319 €	
+Antwort_3=0342 € + 2 = 344 €	
+Antwort_4=0421 € - 342 € = 179 €	
+
+[57]
+FZ1=Marvin hat auf seinem Sparbuch 425 Euro. Zu seinem Geburtstag bekommt er von
+FZ2=seinem Opa 50 Euro und von seiner Tante 25 Euro. Später kauft er sich einen 
+FZ3=Fußball für 23 Euro und eine CD - ROM für 29 Euro.
+Min=2000
+Max=32000
+Antwort_1=1425 € + 50 € + 25 € = 500 €	500 € - 23 € - 29 € = 448 €	
+Antwort_2=0425 € - 50 € - 25 € = 350 €	350 € - 23 € - 29 € = 298 €	
+Antwort_3=0425 € - 23 € - 29 € = 373 €	
+Antwort_4=0425 € + 23 € + 29 € = 477 €	
+
+[58]
+FZ1=In der Aula findet ein Konzert statt. Der Hausmeister stellt 12 Stuhlreihen auf.
+FZ2=In jeder Reihe stehen 9 Stühle. Der Hausmeister muss die Stühle aus dem Keller
+FZ3=holen und kann jedes Mal 4 Stühle tragen.
+Min=8000
+Max=125000
+Antwort_1=112 x 9 = 108	108 : 4 = 27	
+Antwort_2=012 x 9 = 108	108 x 4 = 432	
+Antwort_3=012 + 9 = 21	21 x 4 = 84	
+Antwort_4=012 - 9 = 3	3 x 4 = 12	
+
+[59]
+FZ1=
+FZ2=In der Aula findet ein Konzert statt. Der Hausmeister stellt 12 Stuhlreihen auf.
+FZ3=In jeder Reihe stehen 9 Stühle.
+Min=500
+Max=8000
+Antwort_1=112 x 9 = 108	
+Antwort_2=012 x 9 = 98	
+Antwort_3=012 + 9 = 21	
+Antwort_4=012 - 9 = 3	
+
+[60]
+FZ1=Für das Schulchorkonzert werden 30 Eintrittskarten zu 5 Euro 
+FZ2=und 40 Eintrittskarten zu 4 Euro verkauft . 
+FZ3=In der Aula stehen 110 Stühle.
+Min=2000
+Max=32000
+Antwort_1=130 x 5 € = 150 €	40 x 4 € = 160 €	150 € + 160 € = 310 €	
+Antwort_2=030 x 5 € = 150 €	40 x 4 € = 160 €	150 + 160 + 110 = 420	
+Antwort_3=030 x 5 € = 150 €	40 x 4 € = 160 €	310 - 110 = 200	
+Antwort_4=030 + 5 = 35	40 + 4 = 44	44 +35 = 79	
+
+[61]
+FZ1=
+FZ2=Für das Schulchorkonzert werden 30 Eintrittskarten zu 5 Euro 
+FZ3=und 40 Eintrittskarten zu 4 Euro verkauft .
+Min=2000
+Max=32000
+Antwort_1=130 x 5 € = 150 €	40 x 4 € = 160 €	150 € + 160 € = 310 €	
+Antwort_2=030 : 5 € = 6	40 : 4 € = 10	
+Antwort_3=030 x 5 € = 150 €	40 x 4 € = 160 €	
+Antwort_4=030 + 5 = 35	40 + 4 = 44	44 +35 = 79	
+
+[62]
+FZ1=
+FZ2=Im Schulchor singen 30 Kinder. Frau Musik kopiert für jedes Kind 6 Liedblätter.
+FZ3=Schluss zeigte das Zählwerk am Kopierer 880.
+Min=4000
+Max=64000
+Antwort_1=130 x 6 = 180	880 - 180 = 700	
+Antwort_2=030 : 6 = 5	880 + 5 = 885	
+Antwort_3=030 x 6 = 180	880 + 180 = 1060	
+Antwort_4=030 + 6 = 36	880 + 36 = 916	
+
+[63]
+FZ1=
+FZ2=Im Schulchor singen 30 Kinder. Frau Musik kopiert für jedes Kind 6 Liedblätter.
+FZ3=Anfang zeigte das Zählwerk am Kopierer 140.
+Min=2000
+Max=32000
+Antwort_1=130 x 6 = 180	140 + 180 = 320	
+Antwort_2=030 : 6 = 5	140 + 5 = 145	
+Antwort_3=030 x 6 = 180	180 - 140 = 40	
+Antwort_4=030 : 6 = 5	140 - 5 = 135	
+
+[64]
+FZ1=
+FZ2=Im Schulchor singen 30 Kinder. Frau Musik kopiert für jedes Kind 6 Liedblätter.
+FZ3=Eine Kopie kostet 3 Cent.
+Min=2000
+Max=32000
+Antwort_1=130 x 6 = 180	180 x 3 Cent = 540 Cent	540 Cent = 5,40 Euro	
+Antwort_2=030 x 6 = 180	180 : 3 Cent = 60	
+Antwort_3=030 : 6 = 5	5 x 3 Cent = 15 Cent	15 Cent = 0,15 Euro	
+Antwort_4=030 + 6 = 36	36 x 3 Cent = 108 Cent	108 Cent = 1,08 Euro	
+
+[65]
+FZ1=
+FZ2=Im Schulchor singen 30 Kinder. Frau Musik kopiert für jedes Kind 6 Liedblätter.
+FZ3=
+Min=300
+Max=4000
+Antwort_1=130 x 6 = 180	
+Antwort_2=030 - 6 = 24	
+Antwort_3=030 : 6 = 5	
+Antwort_4=030 + 6 = 36	
+
+[66]
+FZ1=
+FZ2=Das neue Heft der Schülerzeitung hat 8 Seiten. 140 Schüler kaufen sich
+FZ3= jeweils ein Heft. Ein Heft kostet 0,50 Euro.
+Min=16000
+Max=250000
+Antwort_1=1140 x 0,50 € = 70 €	
+Antwort_2=0140 + 0,50 € + 8 = 148,50	
+Antwort_3=0140 x 0,50 € = 7 €	
+Antwort_4=0140 + 0,50 = 140,50	
+
+[67]
+FZ1=
+FZ2=4 Mädchen und 4 Jungen fahren zusammen nach Hamburg.
+FZ3=Die Gruppenfahrkarte kostet 654 Euro.
+Min=32000
+Max=250000
+Antwort_1=1654 € : 8 = 81,75 €	
+Antwort_2=0654 € - 8 = 646 €	
+Antwort_3=0654 € x 8 = 5232 €	
+Antwort_4=0654 € + 8 € = 662 €	
+
+[68]
+FZ1=
+FZ2=Michael Schumacher braucht beim Training immer nach 20 Runden einen neuen
+FZ3=Satz Reifen. Beim letzten Training hat er 100 Runden geschafft.
+Min=1000
+Max=16000
+Antwort_1=1100 : 20 = 5	
+Antwort_2=0100 + 20 = 120	
+Antwort_3=0100 x 20 = 2000	
+Antwort_4=0100 - 20 = 80	
+
+[69]
+FZ1=
+FZ2=In einem Parkhaus parken am 16. März auf sieben Etagen 427 Autos.
+FZ3=
+Min=300
+Max=2000
+Antwort_1=1427 : 7 = 61	
+Antwort_2=0427 - 7 = 420	
+Antwort_3=0427 + 7 = 434	
+Antwort_4=0427 x 7 = 2989	
+
+[70]
+FZ1=Anna ist 8 Jahre alt, Alina und Felicitas sind schon 9 Jahre alt. Alle drei
+FZ2=Mädchen sammeln Pokémon - Karten. Sie haben zusammen schon 420 Stück und
+FZ3=jedes Mädchen hat gleich viele Karten.
+Min=0
+Max=1000
+Antwort_1=1420 : 3 = 140	
+Antwort_2=0420 - 3 = 417	
+Antwort_3=0420 x 3 = 1260	
+Antwort_4=0420 + 3 = 423	
+
+[71]
+FZ1=
+FZ2=Die Tierpflegerin hat 160 Fische gerecht verteilt.
+FZ3=Davon wurden 40 Seelöwen satt.
+Min=200
+Max=2000
+Antwort_1=1160 : 40 = 4	
+Antwort_2=0160 + 40 = 200	
+Antwort_3=0160 x 40 = 6400	
+Antwort_4=0160 - 40 = 120	
+
+[72]
+FZ1=
+FZ2=Für die 11 Klassen der Osterfeld-Grundschule wurden in der letzten Woche 550
+FZ3=Fotokopien gemacht. In der Schule gibt es noch 2200 Blatt Kopierpapier.
+Min=500
+Max=8000
+Antwort_1=12200 : 550 = 4	
+Antwort_2=02200 - 550 = 1650	
+Antwort_3=02200 + 550 = 2770	
+Antwort_4=011 x 550 = 6050	
+
+[73]
+FZ1=
+FZ2=Für die 11 Klassen der Osterfeld-Grundschule wurden in der letzten Woche 550
+FZ3=Fotokopien gemacht.
+Min=1000
+Max=16000
+Antwort_1=1550 : 11 = 50	
+Antwort_2=0550 - 11 = 539	
+Antwort_3=0550 + 11 = 561	
+Antwort_4=011 x 550 = 6050	
+
+[74]
+FZ1=Im Schwimmbad ist eine Bahn 50 m lang. Felicitas ist schon 450 m geschwommen.
+FZ2=Sie soll 500 m schwimmen. Sie schwimmt gleichmäßig und benötigt für eine Bahn
+FZ3=genau 2 Minuten.
+Min=1000
+Max=16000
+Antwort_1=1500 m : 50 m = 10	10 x 2 min = 20 min	
+Antwort_2=0500 m + 2 = 502 m	
+Antwort_3=0450 m + 50 m = 500 m	
+Antwort_4=050 m + 450 m + 500 m = 1000 m	
+
+[75]
+FZ1=
+FZ2=Im Schwimmbad ist eine Bahn 50 m lang. Felicitas ist schon 450 m geschwommen.
+FZ3=Sie soll 500 m schwimmen.
+Min=200
+Max=2000
+Antwort_1=1500 m - 450 m = 50 m	
+Antwort_2=0500 m + 50 m = 550 m	
+Antwort_3=0500 m + 450 m = 950 m	
+Antwort_4=050 m + 50 m = 100 m	
+
+[76]
+FZ1=
+FZ2=Im Schwimmbad ist eine Bahn 50 m lang. Felicitas ist schon 450 m geschwommen.
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1450 m : 50 m = 9	
+Antwort_2=0450 m - 50 m = 400 m	
+Antwort_3=0450 m + 50 m = 500 m	
+Antwort_4=0450 m x 50 m = 22.500 m²	
+
+[77]
+FZ1=
+FZ2=Für einen Theaterbesuch hat der Lehrer von 30 Kindern 150 Euro eingesammelt.
+FZ3=
+Min=500
+Max=4000
+Antwort_1=1150 € : 30 = 5 €	
+Antwort_2=0150 € - 30 = 120 €	
+Antwort_3=0150 € x 30 = 4.500 €	
+Antwort_4=0150 € + 30 = 180 €	
+
+[78]
+FZ1=Bei einem Schulausflug sind 20 Kinder auf einen Turm gestiegen. Bis oben sind es
+FZ2=genau 180 Stufen. Die Kinder haben schon ein Drittel der Stufen geschafft und
+FZ3=brauchten dafür 10 Minuten. Sie gehen gleichmäßig weiter.
+Min=2000
+Max=32000
+Antwort_1=13 x 10 min = 30 min	
+Antwort_2=0180 + 10 = 190	
+Antwort_3=0180 + 20 = 200	
+Antwort_4=0180 : 3 = 60	60 + 20 = 80	
+
+[79]
+FZ1=
+FZ2=Bei einem Schulausflug sind 20 Kinder auf einen Turm gestiegen. Bis oben sind es
+FZ3=genau 180 Stufen. Die Kinder haben schon die Hälfte der Stufen geschafft.
+Min=1000
+Max=16000
+Antwort_1=1180 : 2 = 90	
+Antwort_2=0180 + 20 = 200	
+Antwort_3=0180 x 2 = 360	
+Antwort_4=0180 - 20 = 160	
+
+[80]
+FZ1=
+FZ2=Gero verschickt Geburtstagseinladungen. Eine Einladungskarte kostet 60 Cent. Für
+FZ3=alle Einladungskarten hat er 4 Euro und 80 Cent ausgegeben.
+Min=1000
+Max=16000
+Antwort_1=14,80 € : 0,60 € = 8	
+Antwort_2=04,80 € - 0,60 € = 4,20 €	
+Antwort_3=04,80 € + 0,60 € = 5,40 €	
+Antwort_4=04,80 € : 0,60 € = 6	
+
+[81]
+FZ1=Mutter gibt Jessica zwei 10 - Euro Scheine.
+FZ2=Jessica kauft sich eine CD-ROM für 14 Euro und eine Tafel Schokolade für 2 Euro.
+FZ3=Jessica schenkt ihrer Schwester von dem Rest die Hälfte.
+Min=4000
+Max=64000
+Antwort_1=120 € - 14 € - 2 € = 4 €	4 € : 2 = 2 €	
+Antwort_2=020 € - 14 €  = 6 €	6 € : 2 = 3 €	
+Antwort_3=010 € - 14 € - 2 € = 4 €	4 € : 2 = 2 €	
+Antwort_4=020 € - 2 € = 18 €	18 € : 2 = 9 €	
+
+[82]
+FZ1=Vater gibt Mario zwei 10 - Euro Scheine.
+FZ2=Mario kauft sich eine CD für 7 Euro und eine bunte Tüte für 2 Euro.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=110 € + 10 € = 20 €	20 € - 7 € - 2 € = 11 €	
+Antwort_2=010 € + 10 € = 20 €	20 € - 7 € = 13 €	
+Antwort_3=010 € - 7 € - 2 € = 1 €	
+Antwort_4=010 € + 10 € = 20 €	20 € -  2 € = 18 €	
+
+[83]
+FZ1=Inga kauft sich 6 Lutscher. Ein Lutscher kostet 35 Cent. Ihr Bruder kauft sich
+FZ2=ein Eis für 80 Cent. Vater hat den Kindern 2 Euro mitgegeben, von Opa haben sie
+FZ3=auch 2 Euro bekommen.
+Min=4000
+Max=64000
+Antwort_1=16 x 0,35 € = 2,10 €	2,10 € + 0,80 € = 2,90 €	4 € - 2,90 € = 1,10 €	
+Antwort_2=06 x 0,35 € = 2,10 €	2,10 € + 80 € = 82,10 €	82,10 € + 4 € = 86,10 €	
+Antwort_3=06 x 0,35 € = 2,10 €	2,10 € + 0,80 € = 2,90 €	2 € + 2,90 € = 4,90 €	
+Antwort_4=080 + 35 = 115	6 + 2 + 2 = 10	115 + 10 = 125	
+
+[84]
+FZ1=
+FZ2=Karin kauft sich 4 Lutscher. Ein Lutscher kostet 45 Cent. Ihr Bruder kauft sich
+FZ3=für 90 Cent ein Eis. Mutter hat den Kindern 3 Euro mitgegeben.
+Min=16000
+Max=125000
+Antwort_1=14 x 0,45 € = 1,80 €	1,80 € + 0,90 € = 2,70 €	3 € - 2,70 € = 0,30 €	
+Antwort_2=04 x 0,45 € = 1,80 €	4 x 0,90 € = 3,60 €	3 € + 5,40 € = 8,40 €	
+Antwort_3=04 x 0,45 € = 1,80 €	1,80 € - 0,90 € = 0,90 €	3 € - 0,90 € = 2,10 €	
+Antwort_4=00,45 € + 0,90 € = 1,35 €	3 € - 1,35 € = 1,65 €	
+
+[85]
+FZ1=Lisa macht in Frankreich Urlaub. Sie schickt ihren 4 Freundinnen je eine
+FZ2=Ansichtskarte. Eine Ansichtskarte kostet 40 Cent. Eine Briefmarke kostet 30 Cent
+FZ3=In ihrem Geldbeutel hat Lisa 3 Euro.
+Min=32000
+Max=250000
+Antwort_1=14 x 0,40 € = 1,60 €    4 x 0,30 € = 1,20 €	1,60 € + 1,20 € = 2,80 €	3 € - 2,80 € = 0,20 €	
+Antwort_2=04 x 0,40 € = 1,60 €    4 x 0,30 € = 1,20 €	1,60 € - 1,20 € = 0,40 €	3 € - 0,40 € = 2,60 €	
+Antwort_3=04 x 0,40 € = 1,60 €	3 € - 1,60 € = 1,40 €	
+Antwort_4=04 x 0,40 € = 1,60 €    4 x 0,30 € = 1,20 €	1,60 € + 1,20 € = 2,80 €	3 € - 2,80 € = 1,20 €	
+
+[86]
+FZ1=Lisa macht in Frankreich Urlaub.
+FZ2=Sie schickt ihren 4 Freundinnen je eine Ansichtskarte.
+FZ3=Eine Ansichtskarte kostet 40 Cent. Eine Briefmarke kostet 30 Cent.
+Min=2000
+Max=32000
+Antwort_1=10,40 € + 0,30 € = 0,70 €	4 x 0,70 € = 2,80 €	
+Antwort_2=00,40 € - 0,30 € = 0,10 €	4 x 0,10 € = 0,40 €	
+Antwort_3=00,40 € + 0,30 € = 0,80 €	4 x 0,80 € = 3,20 €	
+Antwort_4=04 + 40 + 30 = 74	
+
+[87]
+FZ1=
+FZ2=Pia macht in Italien Urlaub. Sie schickt ihren 5 Freundinnen je eine
+FZ3=Ansichtskarte. Eine Ansichtskarte kostet 50 Cent.
+Min=500
+Max=8000
+Antwort_1=15 x 0,50 € = 2,50 €	
+Antwort_2=05 + 50 = 55	
+Antwort_3=00,50 € : 5 = 0,10 €	
+Antwort_4=050 - 5 =45	
+
+[88]
+FZ1=
+FZ2=Tina ist 3 Wochen und 4 Tage bei ihrer Oma gewesen.
+FZ3=
+Min=2000
+Max=32000
+Antwort_1=13 x 7 = 21	21 + 4 = 25	
+Antwort_2=04 - 3 = 1	
+Antwort_3=03 + 4 = 7	
+Antwort_4=03 x 4 = 12	
+
+[89]
+FZ1=
+FZ2=Nanny hat  268 Briefmarken. Nach dem Treffen mit ihrer Freundin sind es 12 mehr.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1268 + 12 = 280	
+Antwort_2=0268 x 12 = 3216	
+Antwort_3=0268 - 12 = 256	
+Antwort_4=0268 + 12 = 270	
+
+[90]
+FZ1=
+FZ2=Carolin hat schon 693 Briefmarken. Sie schenkt ihrer Schwester 33 Briefmarken.
+FZ3=
+Min=200
+Max=2000
+Antwort_1=1693 - 33 = 660	
+Antwort_2=0693 : 33 = 21	
+Antwort_3=0693 + 33 = 726	
+Antwort_4=0693 x 33 = 22.869	
+
+[91]
+FZ1=
+FZ2=Timo hat schon 568 Briefmarken. Sein Opa schenkt ihm noch 70 Briefmarken.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=1568 + 70 = 638	
+Antwort_2=0598 + 70 = 628	
+Antwort_3=0568 - 70 = 498	
+Antwort_4=0568 - 70 = 488	
+
+[92]
+FZ1=Herr Brüllgut fährt von Hamburg über Bremen nach Dortmund. Von Hamburg nach
+FZ2=Bremen sind es 90 km. Von Bremen nach Dortmund sind es 235 km. Bei einer Pause
+FZ3=sieht er auf dem Kilometerzähler, dass er schon 268 km gefahren ist.
+Min=2000
+Max=32000
+Antwort_1=1235 km + 90 km = 325 km	325 km - 268 km = 57 km	
+Antwort_2=0268 km - 235 km = 33 km	
+Antwort_3=0235 km + 90 km = 325 km	325 km + 268 km = 593 km	
+Antwort_4=0235 km - 90 km = 145 km	
+
+[93]
+FZ1=Frau Knüppelkuh macht einen Ausflug. Zuerst fährt sie von Köln nach
+FZ2=Wiesbaden (180 km). Danach fährt sie nach Bochum (230 km). Von dort fährt sie
+FZ3=wieder nach Hause, das sind noch 60 km.
+Min=1000
+Max=16000
+Antwort_1=1180 km + 230 km + 60 km = 470 km	
+Antwort_2=0180 km + 230 km = 410 km	410 km - 60 km = 350 km	
+Antwort_3=0230 km - 180 km = 50 km	50 km + 60 km = 110 km	
+Antwort_4=0230 km + 50 km = 280 km	280 km - 180 km = 100 km	
+
+[94]
+FZ1=
+FZ2=Frau Sauerbier fährt von Dortmund nach nach Stuttgart. Nach 250 km macht sie 
+FZ3=eine Pause. Danach muss sie noch 170 km fahren.
+Min=0
+Max=1000
+Antwort_1=1250 km + 170 km = 420 km	
+Antwort_2=0250 km + 170 km = 320 km	
+Antwort_3=0250 km - 170 km = 80 km	
+Antwort_4=0250 km - 170 km = 180 km	
+
+[95]
+FZ1=
+FZ2=Herr Kümmelbein fährt am Morgen von Hannover nach Düsseldorf. Das sind 280 km.
+FZ3=Am Nachmittag fährt er weiter nach Mannheim. Das sind noch einmal 290 km.
+Min=0
+Max=1000
+Antwort_1=1280 km + 290 km = 570 km	
+Antwort_2=0280 km + 290 km = 470 km	
+Antwort_3=0290 km - 280 km = 10 km	
+Antwort_4=0290 km - 280 km = 110 km	
+
+[96]
+FZ1=
+FZ2=Anna bekommt neue Schuhe. Die Schuhe kosten 42 Euro.
+FZ3=Im Schlussverkauf sind die Schuhe 14 Euro billiger.
+Min=200
+Max=2000
+Antwort_1=142 € - 14 € = 28 €	
+Antwort_2=042 € : 14 € = 3	
+Antwort_3=042 € + 14 € = 56 €	
+Antwort_4=042 € - 14 € = 38 €	
+
+[97]
+FZ1=
+FZ2=Alina wünscht sich ein Fahrrad. Es kostet 318 Euro. Für das Fahrrad wünscht
+FZ3=sie sich auch noch Gepäcktaschen. Die Gepäcktaschen kosten 28 Euro.
+Min=0
+Max=1000
+Antwort_1=1318 € + 28 € = 346 €	
+Antwort_2=0318 € + 28 € = 336 €	
+Antwort_3=0318 € - 28 € = 290 €	
+Antwort_4=0318 € - 28 € = 280 €	
+
+[98]
+FZ1=
+FZ2=Jochen kauft sich ein Fahrrad für 245 Euro.
+FZ3=Das Zubehör kostet zusätzlich 35 Euro.
+Min=0
+Max=1000
+Antwort_1=1245 € + 35 € = 280 €	
+Antwort_2=0245 € + 35 € = 290 €	
+Antwort_3=0245 € - 35 € = 210 €	
+Antwort_4=0245 € - 35 € = 220 €	
+
+[99]
+FZ1=In ein Verkehrsflugzeug passen 270 Leute. 215 Passagiere sind schon an Bord. Das
+FZ2=Flugzeug ist ausgebucht. Als alle Passagiere an Bord sind, fliegt es los. Bei
+FZ3=der Zwischenlandung steigen 30 Passagiere aus und 15 Passagiere ein.
+Min=2000
+Max=32000
+Antwort_1=1270 - 30 + 15 = 255	
+Antwort_2=0215 - 30 + 15 = 200	
+Antwort_3=0270 - 215 = 55	
+Antwort_4=030 - 15 = 15	
+
+[100]
+FZ1=
+FZ2=In ein Verkehrsflugzeug passen 270 Leute. 215 Passagiere sind schon an Bord.
+FZ3=Das Flugzeug ist ausgebucht.
+Min=300
+Max=4000
+Antwort_1=1270 - 215 = 55	
+Antwort_2=0270 - 215 = 155	
+Antwort_3=0270 + 215 = 485	
+Antwort_4=0270 + 215 = 385	
+
+[101]
+FZ1=
+FZ2=In der Musikschule sind 35 Jungen und 28 Mädchen angemeldet.
+FZ3=15 Kinder spielen Blockflöte.
+Min=500
+Max=4000
+Antwort_1=135 + 28 = 63	63 - 15 = 48	
+Antwort_2=035 - 28 + 15 = 22	
+Antwort_3=035 + 28 + 15 = 78	
+Antwort_4=028 + 15 = 43	43 - 35 = 8	
+
+[102]
+FZ1=
+FZ2=In der Musikschule sind 35 Jungen und 28 Mädchen angemeldet.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=135 + 28 = 63	
+Antwort_2=035 + 28 = 53	
+Antwort_3=035 - 28 = 7	
+Antwort_4=035 - 28 = 17	
+
+[103]
+FZ1=
+FZ2=Die Sommerferien haben genau 6 Wochen und vier Tage gedauert.
+FZ3=Die Hälfte der Zeit war Fiona bei ihrer Tante.
+Min=1000
+Max=16000
+Antwort_1=16 x 7 = 42	42 + 4 = 46	46 : 2 = 23	
+Antwort_2=06 x 4 = 24	24 : 2 = 12	
+Antwort_3=06 + 4 = 10	10 : 2 = 5	
+Antwort_4=06 x 7 = 42	42 x 4 = 168	168 : 2 = 84	
+
+[104]
+FZ1=
+FZ2=Die Sommerferien haben genau 6 Wochen und drei Tage gedauert.
+FZ3=
+Min=1000
+Max=8000
+Antwort_1=16 x 7 = 42	42 + 3 = 45	
+Antwort_2=06 x 3 = 18	
+Antwort_3=06 + 3 = 9	
+Antwort_4=06 - 3 = 3	
+
+[105]
+FZ1=Sven hat Geld gespart, weil er sich ein Buch kaufen möchte. Er bekommt von
+FZ2=seinem Vater 6 Euro. Nun kann er sich endlich das Buch kaufen. 
+FZ3=Es kostet 18 Euro. Sven hat sogar noch 3 Euro übrig.
+Min=2000
+Max=32000
+Antwort_1=118 € - 6 € - 3 € = 9 €	
+Antwort_2=018 € - 6 € + 3 € = 15 €	
+Antwort_3=018 € + 6 € + 3 € = 27 €	
+Antwort_4=018 € + 6 € - 3 € = 21 E	
+
+[106]
+FZ1=Sven hat Geld gespart, weil er sich ein Buch kaufen möchte.
+FZ2=Er bekommt von seinem Vater 6 Euro. Nun kann er sich endlich das Buch kaufen.
+FZ3=Es kostet 18 Euro.
+Min=0
+Max=1000
+Antwort_1=118 € - 6 € = 12 €	
+Antwort_2=018 € - 6 € = 14 €	
+Antwort_3=018 € + 6 € = 24 €	
+Antwort_4=018 € + 6 € = 22 €	
+
+[107]
+FZ1=
+FZ2=Peter bekommt von seinem Opa 20 Euro. Nun hat er 35 Euro.
+FZ3=
+Min=200
+Max=2000
+Antwort_1=135 € - 20 € = 15 €	
+Antwort_2=035 € - 20 € = 25 €	
+Antwort_3=035 € + 20 € = 55 €	
+Antwort_4=035 € + 20 € = 65 €	
+
+[108]
+FZ1=
+FZ2=Sebastian kauft einen Ball für 12 Euro. Nun hat er noch 38 Euro.
+FZ3=
+Min=0
+Max=1000
+Antwort_1=138 € - 12 € = 26 €	
+Antwort_2=038 € - 12 € = 16 €	
+Antwort_3=038 € + 12 € = 50 €	
+Antwort_4=038 € + 12 € = 60 €	
+

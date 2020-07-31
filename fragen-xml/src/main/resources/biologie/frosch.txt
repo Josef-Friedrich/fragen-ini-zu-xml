@@ -1,0 +1,336 @@
+[Thema]
+Thema=Amphibien
+Fragen=30
+Autor=Karl-Heinz Riedel
+
+[1]
+FZ1=
+FZ2=Grasfrösche streben im Frühjahr zu einem Gewässer ......
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1um sich fortzupflanzen	
+Antwort_2=0um zu fressen	
+Antwort_3=0um zu schwimmen	
+Antwort_4=0um zu quaken	
+
+[2]
+FZ1=
+FZ2=Grasfrösche legen ihre Eier .....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0als Laichschnüre	
+Antwort_2=0einzeln	
+Antwort_3=1als Laichballen	
+Antwort_4=0in ein Nest	
+
+[3]
+FZ1=
+FZ2=Wie bewegen sich Froschmännchen und Froschweibchen
+FZ3=zum Ablaichen in ein Gewässer?
+Min=0
+Max=500000
+Antwort_1=0in großen Sprüngen	
+Antwort_2=1huckepack	
+Antwort_3=0hintereinander	
+Antwort_4=0nebeneinander	
+
+[4]
+FZ1=
+FZ2=Wie nennt man die schwarzen Froscheier?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Leich	
+Antwort_2=0Leib	
+Antwort_3=0Lauch	
+Antwort_4=1Laich	
+
+[5]
+FZ1=
+FZ2=Die Jungtiere eines Frosches heißen .....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Kaulquappen	
+Antwort_2=0Jungfrosch	
+Antwort_3=0Frischlinge	
+Antwort_4=0Fröschli	
+
+[6]
+FZ1=
+FZ2=Kaulquappen atmen zuerst  ....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0mit Lungen	
+Antwort_2=0mit Sauerstoffflossen	
+Antwort_3=0mit Luftröhrchen	
+Antwort_4=1mit Kiemen	
+
+[7]
+FZ1=
+FZ2=Um sich von Wasserpflanzen zu ernähren besitzen Kaulquappen ....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Raspelzungen	
+Antwort_2=1Hornzähnchen	
+Antwort_3=0Quetschlippen	
+Antwort_4=0Pflanzengebiss	
+
+[8]
+FZ1=
+FZ2=Bei der Weiterentwicklung der Kaulquappe zum Frosch
+FZ3=bilden sich erst ....
+Min=0
+Max=500000
+Antwort_1=0Vorderbeine	
+Antwort_2=0Ruderschwanz	
+Antwort_3=1Hinterbeine	
+Antwort_4=0Kiemen	
+
+[9]
+FZ1=
+FZ2=Zu welchem Gewässer kehren Frösche zur Fortpflanzung zurück?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1In dem sie	als Kaulquappen lebten	
+Antwort_2=0In dem sie	ein großes Nahrungsangebot hatten	
+Antwort_3=0In dem sie	den Partner kennen lernten	
+Antwort_4=0In dem sie	ideale Lebensbedingungen hatten	
+
+[10]
+FZ1=
+FZ2=Welche Körperteile sind beim Jungfrosch zurückgebildet?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Vorderbeine	
+Antwort_2=0Augen	
+Antwort_3=0Lungen	
+Antwort_4=1Ruderschwanz	
+
+[11]
+FZ1=
+FZ2=Grasfrösche ernähren sich von ......
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Insekten	
+Antwort_2=0Gras	
+Antwort_3=0Wasserpflanzen	
+Antwort_4=0Aas	
+
+[12]
+FZ1=
+FZ2=Die vorstehenden Augen des Frosches ermöglichen .......
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0einen abschreckenden Warnblick	
+Antwort_2=0einen scharfen Weitblick	
+Antwort_3=1einen weiten Rundumblick	
+Antwort_4=0einen tarnenden Scheinblick	
+
+[13]
+FZ1=
+FZ2=Um besser schwimmen zu können besitzen Frösche ....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Ruderschwänze	
+Antwort_2=0Schwimmblasen	
+Antwort_3=0Flossen	
+Antwort_4=1Schwimmhäute	
+
+[14]
+FZ1=
+FZ2=Um weit springen zu können hat der Frosch .....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0lange Vorderbeine	
+Antwort_2=1lange Hinterbeine	
+Antwort_3=0breite Haftzehen	
+Antwort_4=0eine lange Zunge	
+
+[15]
+FZ1=
+FZ2=Um Insekten zu fangen besitzt er ....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0ein breites Maul	
+Antwort_2=0eine klebrige Haut	
+Antwort_3=1eine Klappzunge	
+Antwort_4=0Fanghäute	
+
+[16]
+FZ1=
+FZ2=Im Winterversteck atmet der Frosch .....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0über Luftröhren	
+Antwort_2=0über Ventilklappen	
+Antwort_3=0über die Lunge	
+Antwort_4=1über die Haut	
+
+[17]
+FZ1=
+FZ2=Der Frosch ist ein ................ Tier.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1wechselwarmes	
+Antwort_2=0wechselstarres	
+Antwort_3=0wechselheißes	
+Antwort_4=0wechselkaltes	
+
+[18]
+FZ1=
+FZ2=Die Körpertemperatur des Frosches richtet sich nach ....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0seiner Gesundheit	
+Antwort_2=0der Bewegung	
+Antwort_3=0der Tageszeit	
+Antwort_4=1der Umgebung	
+
+[19]
+FZ1=
+FZ2=Wie fühlt sich die Haut eines Grasfrosches an?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0warzig	
+Antwort_2=0trocken	
+Antwort_3=1schleimig	
+Antwort_4=0faltig	
+
+[20]
+FZ1=
+FZ2=Der Frosch ......... seine Beute.
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0zerkaut	
+Antwort_2=1verschlingt	
+Antwort_3=0vergräbt	
+Antwort_4=0ertränkt	
+
+[21]
+FZ1=
+FZ2=Was bedeutet das Wort Amphibien?
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=0ernährt sich von Pflanzen oder Tieren	
+Antwort_2=0atmet über Haut oder Lunge	
+Antwort_3=1lebt auf dem Land und im Wasser	
+Antwort_4=0verwandelt sich vom Kiemen-	zum Lungenatmer	
+
+[22]
+FZ1=
+FZ2=Während der Überwinterung .....
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1nehmen sie keine Nahrung zu sich	
+Antwort_2=0wechselt ständig	ihre Körpertemperatur	
+Antwort_3=0atmen sie nicht	
+Antwort_4=0leben sie in Gruppen	
+
+[23]
+FZ1=
+FZ2=Welche Tiergruppe zählt nicht zu den Amphibien?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Eidechsen	
+Antwort_2=0Molche	
+Antwort_3=0Salamander	
+Antwort_4=0Frösche	
+
+[24]
+FZ1=
+FZ2=Um zu ihren Laichplätzen zu gelangen, müssen Kröten ......
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Laichtunnel graben	
+Antwort_2=0gut getarnt sein	
+Antwort_3=1Straßen überqueren	
+Antwort_4=0Lichtblitze aussenden	
+
+[25]
+FZ1=
+FZ2=Die meisten einheimischen Lurche stehen,
+FZ3=weil sie gefährdet sind .....
+Min=0
+Max=500000
+Antwort_1=0auf einer grünen Liste	
+Antwort_2=1auf einer Roten Liste	
+Antwort_3=0auf einer schwarzen Liste	
+Antwort_4=0auf einer Streichliste	
+
+[26]
+FZ1=
+FZ2=Wir kennen viele Krötenarten. Welche gehört nicht dazu?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0Knoblauchkröte	
+Antwort_2=0Kreuzkröte	
+Antwort_3=0Geburtshelferkröte	
+Antwort_4=1Laubkröte	
+
+[27]
+FZ1=
+FZ2=Welcher Frosch ist unbekannt?
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1Wechselfrosch	
+Antwort_2=0Teichfrosch	
+Antwort_3=0Moorfrosch	
+Antwort_4=0Laubfrosch	
+
+[28]
+FZ1=
+FZ2=Auch Salamander sind bei uns heimische Amphibien.
+FZ3=Welcher ist durch seine schwarz-gelbe Färbung bekannt?
+Min=0
+Max=500000
+Antwort_1=0Alpensalamander	
+Antwort_2=0Rhönsalamander	
+Antwort_3=1Feuersalamander	
+Antwort_4=0Tigersalamander	
+
+[29]
+FZ1=
+FZ2=Auf ihrer Laichwanderung sterben viele Kröten, .......
+FZ3=
+Min=0
+Max=500000
+Antwort_1=1weil sie überfahren werden	
+Antwort_2=0weil sie vom Männchen	erdrückt werden	
+Antwort_3=0weil sie verhungern	
+Antwort_4=0weil sie einen Laichschock bekommen	
+
+[30]
+FZ1=Womit werden Autofahrer vor Krötenwanderungen gewarnt?
+FZ2=
+FZ3=
+Min=0
+Max=500000
+Antwort_1=0mit einem Warndreieck, auf dem	ein Gewässer abgebildet ist	
+Antwort_2=0mit quakenden Sirenen	
+Antwort_3=1mit einem Warndreieck, auf dem	ein Frosch abgebildet ist	
+Antwort_4=0mit einem Banner über die Straße	
+
+

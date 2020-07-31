@@ -1,0 +1,316 @@
+[Thema]
+Thema     = Umwandlung von L‰ngenmaﬂen, Stand 02.05.01
+Fragen    = 28
+Autor     = Rolf Gr‰bener, 5/2001
+
+
+[1]
+FZ1       = 
+FZ2       = 3cm =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 00,3mm
+Antwort_2 = 130mm
+Antwort_3 = 0300mm
+Antwort_4 = 00,03mm
+
+[2]
+FZ1       = 
+FZ2       = 28dm =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 028m
+Antwort_2 = 00,28m
+Antwort_3 = 00,028m
+Antwort_4 = 12,8m
+
+[3]
+FZ1       = 
+FZ2       = 43500m =
+FZ3       = 
+Min       = 1000
+Max       = 125000
+Antwort_1 = 0435km
+Antwort_2 = 04,35km
+Antwort_3 = 143,5km
+Antwort_4 = 00,435km
+
+[4]
+FZ1       = 
+FZ2       = 30km =
+FZ3       = 
+Min       = 1000
+Max       = 32000
+Antwort_1 = 0300m
+Antwort_2 = 03000m
+Antwort_3 = 0300000m
+Antwort_4 = 130000m
+
+[5]
+FZ1       = 
+FZ2       = 7cm =
+FZ3       = 
+Min       = 8000
+Max       = 1000000
+Antwort_1 = 10,07m
+Antwort_2 = 00,0007m
+Antwort_3 = 00,7m
+Antwort_4 = 070m
+
+[6]
+FZ1       = 
+FZ2       = 60000mm =
+FZ3       = 
+Min       = 100
+Max       = 125000
+Antwort_1 = 06m
+Antwort_2 = 160m
+Antwort_3 = 0600m
+Antwort_4 = 00,6m
+
+[7]
+FZ1       = 
+FZ2       = 2,4dm =
+FZ3       = 
+Min       = 6400
+Max       = 1000000
+Antwort_1 = 024mm
+Antwort_2 = 024m
+Antwort_3 = 124cm
+Antwort_4 = 024km
+
+[8]
+FZ1       = 
+FZ2       = 56,2cm =
+FZ3       = 
+Min       = 64000
+Max       = 1000000
+Antwort_1 = 00,562km
+Antwort_2 = 10,562m
+Antwort_3 = 00,562mm
+Antwort_4 = 00,562dm
+
+[9]
+FZ1       = 
+FZ2       = 3500000mm =
+FZ3       = 
+Min       = 32000
+Max       = 1000000
+Antwort_1 = 035m
+Antwort_2 = 03,5m
+Antwort_3 = 1350m
+Antwort_4 = 03500m
+
+[10]
+FZ1       = 
+FZ2       = 654cm =
+FZ3       = 
+Min       = 250000
+Max       = 1000000
+Antwort_1 = 06,45dm
+Antwort_2 = 065,4m
+Antwort_3 = 065,4mm
+Antwort_4 = 10,00654km
+
+[11]
+FZ1       = 
+FZ2       = 7,52dm =
+FZ3       = 
+Min       = 64000
+Max       = 1000000
+Antwort_1 = 00,752cm
+Antwort_2 = 10,752m
+Antwort_3 = 0752cm
+Antwort_4 = 075,2m
+
+[12]
+FZ1       = 
+FZ2       = 63m =
+FZ3       = 
+Min       = 125000
+Max       = 1000000
+Antwort_1 = 06300mm
+Antwort_2 = 063000cm
+Antwort_3 = 1630dm
+Antwort_4 = 00,63km
+
+[13]
+FZ1       = 
+FZ2       = 85cm =
+FZ3       = 
+Min       = 0
+Max       = 40000
+Antwort_1 = 0850m
+Antwort_2 = 00,85dm
+Antwort_3 = 1850mm
+Antwort_4 = 0850dm
+
+[14]
+FZ1       = 
+FZ2       = 1,3m =
+FZ3       = 
+Min       = 100
+Max       = 16000
+Antwort_1 = 013cm
+Antwort_2 = 013mm
+Antwort_3 = 113dm
+Antwort_4 = 013km
+
+[15]
+FZ1       = 
+FZ2       = 23mm =
+FZ3       = 
+Min       = 0
+Max       = 4000
+Antwort_1 = 12,3cm
+Antwort_2 = 02,3dm
+Antwort_3 = 02,3m
+Antwort_4 = 00,0023km
+
+[16]
+FZ1       = 
+FZ2       = 45dm =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 04,5cm
+Antwort_2 = 14,5m
+Antwort_3 = 0450mm
+Antwort_4 = 0450m
+
+[17]
+FZ1       = 
+FZ2       = 5m =
+FZ3       = 
+Min       = 0
+Max       = 1000
+Antwort_1 = 050cm
+Antwort_2 = 05000cm
+Antwort_3 = 1500cm
+Antwort_4 = 00,5cm
+
+[18]
+FZ1       = 
+FZ2       = 40000mm =
+FZ3       = 
+Min       = 1000
+Max       = 160000
+Antwort_1 = 04m
+Antwort_2 = 140m
+Antwort_3 = 00,4km
+Antwort_4 = 040dm
+
+[19]
+FZ1       = 
+FZ2       = 165cm =
+FZ3       = 
+Min       = 400
+Max       = 16000
+Antwort_1 = 00,0165km
+Antwort_2 = 016,5mm
+Antwort_3 = 11,65m
+Antwort_4 = 01,65dm
+
+[20]
+FZ1       = 
+FZ2       = 47cm =
+FZ3       = 
+Min       = 1000
+Max       = 125000
+Antwort_1 = 10,00047km
+Antwort_2 = 00,047m
+Antwort_3 = 04700mm
+Antwort_4 = 00,47dm
+
+[21]
+FZ1       = 
+FZ2       = 5,6dm =
+FZ3       = 
+Min       = 500
+Max       = 32000
+Antwort_1 = 056mm
+Antwort_2 = 056m
+Antwort_3 = 156cm
+Antwort_4 = 00,56cm
+
+[22]
+FZ1       = 
+FZ2       = 890000cm =
+FZ3       = 
+Min       = 16000
+Max       = 1000000
+Antwort_1 = 089m
+Antwort_2 = 0890m
+Antwort_3 = 18,9km
+Antwort_4 = 00,89km
+
+[23]
+FZ1       = 
+FZ2       = 63mm =
+FZ3       = 
+Min       = 1000
+Max       = 64000
+Antwort_1 = 0630cm
+Antwort_2 = 10,63dm
+Antwort_3 = 06,3dm
+Antwort_4 = 00,63cm
+
+[24]
+FZ1       =  
+FZ2       = 24km =
+FZ3       = 
+Min       = 2000
+Max       = 64000
+Antwort_1 = 024000cm
+Antwort_2 = 024000dm
+Antwort_3 = 024000mm
+Antwort_4 = 124000m
+
+[25]
+FZ1       = 
+FZ2       = 4,6m =
+FZ3       = 
+Min       = 8000
+Max       = 100000
+Antwort_1 = 0460km
+Antwort_2 = 1460cm
+Antwort_3 = 0460mm
+Antwort_4 = 0460dm
+
+[26]
+FZ1       = 
+FZ2       = 5132mm =
+FZ3       = 
+Min       = 32000
+Max       = 1000000
+Antwort_1 = 05,132cm
+Antwort_2 = 15,132m
+Antwort_3 = 05,132dm
+Antwort_4 = 05,132km
+
+[27]
+FZ1       = 
+FZ2       = 70mm =
+FZ3       = 
+Min       = 0
+Max       = 400
+Antwort_1 = 07m
+Antwort_2 = 07dm
+Antwort_3 = 17cm
+Antwort_4 = 07km
+
+[28]
+FZ1       = 
+FZ2       = 30m =
+FZ3       = 
+Min       = 2000
+Max       = 1000000
+Antwort_1 = 03000mm
+Antwort_2 = 03000dm
+Antwort_3 = 10,030km
+Antwort_4 = 0300cm
+
+
+

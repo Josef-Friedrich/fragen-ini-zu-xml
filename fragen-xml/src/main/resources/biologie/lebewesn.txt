@@ -1,0 +1,1160 @@
+[Thema]
+Thema=Lebewesen
+Fragen=105
+Autor=Werner Biermann, 5/2001
+
+[1]
+FZ1=
+FZ2=Begriffe aus der Botanik?    
+FZ3=Griffel, Stempel, Achse, Knoten
+Min=500
+Max=500
+Antwort_1=1stimmt für alle
+Antwort_2=0stimmt für zwei
+Antwort_3=0stimmt für drei
+Antwort_4=0stimmt für einen
+
+[2]
+FZ1=
+FZ2=Wie heißt die krokusähnliche Blume?
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Herbstzeitlose
+Antwort_2=0Sommerzeitlose
+Antwort_3=0Winterzeitlose
+Antwort_4=0Frühlingszeitlose
+
+[3]
+FZ1=
+FZ2=Auch noch Tier
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Kiwi
+Antwort_2=0Mango
+Antwort_3=0Ananas
+Antwort_4=0Papaya
+
+[4]
+FZ1=
+FZ2=Legt das größte Ei
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Strauß
+Antwort_2=0Gans
+Antwort_3=0Ente
+Antwort_4=0Fasan
+
+[5]
+FZ1=
+FZ2=Legt das kleinste Ei
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Kolibri
+Antwort_2=0Kakadu
+Antwort_3=0Wellensittich
+Antwort_4=0Bussard
+
+[6]
+FZ1=
+FZ2=Die Wortsilbe "Bio" bedeutet
+FZ3=
+Min=200
+Max=200
+Antwort_1=1 Leben
+Antwort_2=0 Gesundheit
+Antwort_3=0 Landwirtschaft
+Antwort_4=0 giftfrei
+
+[7]
+FZ1=
+FZ2=Kein Fisch
+FZ3=
+Min=200
+Max=500
+Antwort_1=1Blauwal
+Antwort_2=0Hai
+Antwort_3=0Rochen
+Antwort_4=0Hering
+
+[8]
+FZ1=
+FZ2=Ausgewachsen der Schwerste
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Elefant
+Antwort_2=0Nashorn
+Antwort_3=0Nilpferd
+Antwort_4=0Giraffe
+
+[9]
+FZ1=
+FZ2=Kein Säugetier
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Wels
+Antwort_2=0Wolf
+Antwort_3=0Walroß
+Antwort_4=0Wisent
+
+[10]
+FZ1=
+FZ2=Passt nicht in die Reihe
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Buche
+Antwort_2=0Lärche
+Antwort_3=0Kiefer
+Antwort_4=0Fichte
+
+[11]
+FZ1=
+FZ2=Wirft die Nadeln ab
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Lärche
+Antwort_2=0Tanne
+Antwort_3=0Fichte
+Antwort_4=0Kiefer
+
+[12]
+FZ1=
+FZ2=Hat die meisten Tierarten
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Insekten
+Antwort_2=0Säuger
+Antwort_3=0Vögel
+Antwort_4=0Reptilien
+
+[13]
+FZ1=
+FZ2=Zählt nicht zum Getreide
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Bohnen
+Antwort_2=0Weizen
+Antwort_3=0Reis
+Antwort_4=0Roggen
+
+[14]
+FZ1=
+FZ2=Wachsen unter der Erde
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Erdnüsse
+Antwort_2=0Haselnüsse
+Antwort_3=0Walnüsse
+Antwort_4=0Paranüsse
+
+[15]
+FZ1=
+FZ2=Giraffe, Elefant, Löwe, Feldhase haben sieben Halswirbel
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1stimmt für alle Tiere
+Antwort_2=0stimmt für drei Tiere
+Antwort_3=0stimmt für zwei Tiere
+Antwort_4=0stimmt für ein Tier
+
+[16]
+FZ1=
+FZ2=Kommt frei lebend nicht in Afrika vor
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Tiger
+Antwort_2=0Gepard
+Antwort_3=0Löwe
+Antwort_4=0Leopard
+
+[17]
+FZ1=
+FZ2=Passt flugtechnisch nicht dazu
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Pinguin
+Antwort_2=0Seeadler
+Antwort_3=0Albatros
+Antwort_4=0Sturmmöwe
+
+[18]
+FZ1=
+FZ2=Ist kein Insekt
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Milbe
+Antwort_2=0Ameise
+Antwort_3=0Ohrwurm
+Antwort_4=0Marienkäfer
+
+[19]
+FZ1=
+FZ2=Ist ein Schmetterlingsname
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Kleiner Fuchs
+Antwort_2=0Kleiner Wolf
+Antwort_3=0Kleiner Wiesel
+Antwort_4=0Kleiner Biber
+
+[20]
+FZ1=Diese Blütenformen gibt es:
+FZ2=Kreuzblüte, Lippenblüte, Korbblüte, Schmetterlingsblüte
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1stimmt
+Antwort_2=0stimmt für drei
+Antwort_3=0stimmt für zwei
+Antwort_4=0stimmt für eine
+
+[21]
+FZ1=
+FZ2=Die Pupillen der Katzenaugen stehen
+FZ3=
+Min=100
+Max=100
+Antwort_1=1senkrecht
+Antwort_2=0waagerecht
+Antwort_3=0diagonal
+Antwort_4=0sie sind rund
+
+[22]
+FZ1=
+FZ2=Welche Teile der Kirschblüte stehen außen?
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Kelchblätter
+Antwort_2=0Kronblätter
+Antwort_3=0Staubblätter
+Antwort_4=0Stempel
+
+[23]
+FZ1=
+FZ2=Der Tulpenblüte fehlt
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Kelchblatt
+Antwort_2=0Kronblatt
+Antwort_3=0Staubblatt
+Antwort_4=0Stempel
+
+[24]
+FZ1=
+FZ2=Ein Stichling ist
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Fisch
+Antwort_2=0Vogel
+Antwort_3=0Skorpion
+Antwort_4=0Wespenart
+
+[25]
+FZ1=Diese Tiere gibt es:
+FZ2=Wechselkröte, Knoblauchkröte, Gebutshelferkröte, Kreuzkröte
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1stimmt
+Antwort_2=0stimmt für drei
+Antwort_3=0stimmt für zwei
+Antwort_4=0stimmt für eins
+
+[26]
+FZ1=
+FZ2=Reißzähne sind besondere
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Backenzähne
+Antwort_2=0Schneidezähne
+Antwort_3=0Eckzähne
+Antwort_4=0Nagezähne
+
+[27]
+FZ1=
+FZ2=Wer gehört nicht zu den Rindermägen?
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Schwammmagen
+Antwort_2=0Pansen
+Antwort_3=0Blättermagen
+Antwort_4=0Labmagen
+
+[28]
+FZ1=
+FZ2=Blütenstaub
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Pollen
+Antwort_2=0Staub auf der Blüte
+Antwort_3=0Farbstoffe der Blüte
+Antwort_4=0Blattlausbefall der Blüte
+
+[29]
+FZ1=
+FZ2=Kein Fisch
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Tintenfisch
+Antwort_2=0Seepferdchen
+Antwort_3=0Schwertträger
+Antwort_4=0Guppy
+
+[30]
+FZ1=
+FZ2=Sichelbein
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Zusatzknochen an Maulwurfshand
+Antwort_2=0Erntehelfer des Hamsters
+Antwort_3=0Verstrebung der Fledermausflughaut
+Antwort_4=0Gibt es nicht
+
+[31]
+FZ1=
+FZ2=Kein Nadelbaum
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Ulme
+Antwort_2=0Douglasie
+Antwort_3=0Lärche
+Antwort_4=0Kiefer
+
+[32]
+FZ1=
+FZ2=Zahl der in Deutschland lebenden Vogelarten
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1zwischen  200 u.  300
+Antwort_2=0zwischen   50 u.  200
+Antwort_3=0zwischen  800 u. 1000
+Antwort_4=0zwischen 2000 u. 3000
+
+[33]
+FZ1=
+FZ2=Sie gehören nicht zum Spross einer Pflanze
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Wurzeln
+Antwort_2=0Blüten
+Antwort_3=0Laubblätter
+Antwort_4=0Früchte
+
+[34]
+FZ1=
+FZ2=Fachwort für Blattgrün
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Chlorophyll
+Antwort_2=0Chloroform
+Antwort_3=0Chlorodont
+Antwort_4=0Chlor No V
+
+[35]
+FZ1=
+FZ2=Kein Säugetier
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Pinguin
+Antwort_2=0Blauwal
+Antwort_3=0Delfin
+Antwort_4=0Fledermaus
+
+[36]
+FZ1=
+FZ2=Von dieser Baumart gibt es männliche u. weibliche Exemplare
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Salweide
+Antwort_2=0Buche
+Antwort_3=0Eiche
+Antwort_4=0Kiefer
+
+[37]
+FZ1=
+FZ2=Passt nicht zum Pferd
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Wiederkäuer
+Antwort_2=0Pflanzenfresser
+Antwort_3=0Zehenspitzengänger
+Antwort_4=0Unpaarhufer
+
+[38]
+FZ1=Gehören zu den Gräsern
+FZ2=Weizen, Roggen
+FZ3=Gerste, Reis
+Min=8000
+Max=8000
+Antwort_1=1Stimmt für alle
+Antwort_2=0Stimmt für drei
+Antwort_3=0Stimmt für zwei
+Antwort_4=0Stimmt für eins
+
+[39]
+FZ1=
+FZ2=ungiftig
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Boa
+Antwort_2=0Kobra
+Antwort_3=0Kreuzotter
+Antwort_4=0Mamba
+
+[40]
+FZ1=
+FZ2=Keine Zitrusfrucht
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Dattel
+Antwort_2=0Limone
+Antwort_3=0Orange
+Antwort_4=0Pampelmuse
+
+[41]
+FZ1=Zählen zu den Menschenaffen:
+FZ2=Gorilla, Kapuzineraffe
+FZ3=Orang-Utan, Schimpanse
+Min=4000
+Max=4000
+Antwort_1=1Stimmt für drei
+Antwort_2=0Stimmt für alle
+Antwort_3=0Stimmt für einen
+Antwort_4=0Stimmt für zwei
+
+[42]
+FZ1=Zählen zu den Krebstieren
+FZ2=Assel, Hummer, Krabbe, Seepocke
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Stimmt für alle
+Antwort_2=0Stimmt für drei
+Antwort_3=0Stimmt für zwei
+Antwort_4=0Stimmt für einen
+
+[43]
+FZ1=
+FZ2=Keine Pflanze
+FZ3=
+Min=250000
+Max=1000000
+Antwort_1=1Seeanemone
+Antwort_2=0Seerose
+Antwort_3=0Teichrose
+Antwort_4=0Wasserpest
+
+[44]
+FZ1=
+FZ2=Kein Schmetterling
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Totengräber
+Antwort_2=0Ritter
+Antwort_3=0Nonne
+Antwort_4=0Mönch
+
+[45]
+FZ1=
+FZ2=Insekten nehmen Sauerstoff auf über
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Tracheen
+Antwort_2=0Lungen
+Antwort_3=0Kiemen
+Antwort_4=0Haut
+
+[46]
+FZ1=
+FZ2=Ein "Sammelbein" hat
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Biene
+Antwort_2=0Hamster
+Antwort_3=0Elster
+Antwort_4=0Gottesanbeterin
+
+[47]
+FZ1=
+FZ2=Sporen dienen nicht der Verbreitung von
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Gräsern
+Antwort_2=0Moosen
+Antwort_3=0Farnen
+Antwort_4=0Pilzen
+
+[48]
+FZ1=
+FZ2=Queller ist:
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Eine Salz liebende Pflanze
+Antwort_2=0Ein Gras im Quellwasser
+Antwort_3=0Eine vorherrschende Pflanze
+Antwort_4=0Im Wasser auflebende Pflanze
+
+[49]
+FZ1=
+FZ2=Richtige Reihenfolge bei Insektenentwicklung
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Ei, Larve, Puppe, Imago
+Antwort_2=0Ei, Imago, Puppe, Larve
+Antwort_3=0Ei, Puppe, Larve, Imago
+Antwort_4=0Ei, Larve, Imago, Puppe
+
+[50]
+FZ1=
+FZ2=Ist - zusammengeschrieben - ein Baum
+FZ3=
+Min=0
+Max=0
+Antwort_1=1A-horn
+Antwort_2=0C-horn
+Antwort_3=0D-horn
+Antwort_4=0B-horn
+
+[51]
+FZ1=
+FZ2=Insekten haben
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1drei Beinpaare
+Antwort_2=0zwei Beinpaare
+Antwort_3=0ein Beinpaar
+Antwort_4=0vier Beinpaare
+
+[52]
+FZ1=
+FZ2=Keine tierfangende Pflanze
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Fingerkraut
+Antwort_2=0Wasserschlauch
+Antwort_3=0Sonnentau
+Antwort_4=0Kannenpflanze
+
+[53]
+FZ1=
+FZ2=Hier passt Fabelname nicht
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Dachs - Isegrim
+Antwort_2=0Löwe - Leo
+Antwort_3=0Hase - Lampe
+Antwort_4=0Fuchs - Reinecke
+
+[54]
+FZ1=
+FZ2=Kein Schmetterling
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Frauenmantel
+Antwort_2=0Kaisermantel
+Antwort_3=0Trauermantel
+Antwort_4=0Goldeule
+
+[55]
+FZ1=
+FZ2=Zieht die Jungen nicht im Bau auf
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Hase
+Antwort_2=0Kaninchen
+Antwort_3=0Fuchs
+Antwort_4=0Dachs
+
+[56]
+FZ1=
+FZ2=Kein Reptil
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Piranha
+Antwort_2=0Krokodil
+Antwort_3=0Alligator
+Antwort_4=0Gecko
+
+[57]
+FZ1=
+FZ2=Keine Steinfrucht
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Birne
+Antwort_2=0Kirsche
+Antwort_3=0Pfirsich
+Antwort_4=0Pflaume
+
+[58]
+FZ1=
+FZ2=Hat keine Wirbelsäule
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Insekt
+Antwort_2=0Vogel
+Antwort_3=0Fisch
+Antwort_4=0Reptil
+
+[59]
+FZ1=
+FZ2=Eine Pflanze steht nicht unter Naturschutz
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Wiesenschaumkraut
+Antwort_2=0Edelweiß
+Antwort_3=0Enzian
+Antwort_4=0Sonnentau
+
+[60]
+FZ1=
+FZ2=Nicht ausgestorben
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Nautilus
+Antwort_2=0Mammut
+Antwort_3=0Moa
+Antwort_4=0Prschewalskipferd
+
+[61]
+FZ1=
+FZ2=Ähre, Traube, Dolde, Rispe sind Fruchtstände
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Stimmt für alle
+Antwort_2=0Stimmt für drei
+Antwort_3=0Stimmt für zwei
+Antwort_4=0Stimmt für eine
+
+[62]
+FZ1=
+FZ2=Die ca. 4000 Federn einer Haustaube wiegen etwa
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=115 Gramm
+Antwort_2=030 Gramm
+Antwort_3=060 Gramm
+Antwort_4=0120 Gramm
+
+[63]
+FZ1=
+FZ2=Der Mittelpunkt des Maulwurfbaues
+FZ3=
+Min=300
+Max=300
+Antwort_1=1Kessel
+Antwort_2=0Topf
+Antwort_3=0Pfanne
+Antwort_4=0Krug
+
+[64]
+FZ1=
+FZ2=Kein Frühblüher
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Margerite
+Antwort_2=0Schneeglöckchen
+Antwort_3=0Krokus
+Antwort_4=0Primel
+
+[65]
+FZ1=
+FZ2=Diesem Fisch wäre es bei den anderen zu salzig
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Regenbogenforelle
+Antwort_2=0Hering
+Antwort_3=0Dorsch
+Antwort_4=0Flunder
+
+[66]
+FZ1=
+FZ2=Ein Jungtier ist in der falschen Familie
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Geiß - Gössel
+Antwort_2=0Hund - Welpe
+Antwort_3=0Seehund - Heuler
+Antwort_4=0Reh - Kitz
+
+[67]
+FZ1=
+FZ2=Mauser
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Federwechsel
+Antwort_2=0Männliche Maus
+Antwort_3=0Mäusefänger
+Antwort_4=0Diebische Elster
+
+[68]
+FZ1=
+FZ2=Engerling
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Käferlarve
+Antwort_2=0Schmetterlingslarve
+Antwort_3=0Fliegenlarve
+Antwort_4=0Ameisenlarve
+
+[69]
+FZ1=
+FZ2=Trotz Name - ein Käfer
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Glühwurm
+Antwort_2=0Regenwurm
+Antwort_3=0Bandwurm
+Antwort_4=0Plattwurm
+
+[70]
+FZ1=Zählen zu den Nagetieren
+FZ2=Biber, Eichhörnchen, Hamster, Kaninchen
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Stimmt für alle
+Antwort_2=0Stimmt für drei
+Antwort_3=0Stimmt für zwei
+Antwort_4=0Stimmt für eins
+
+[71]
+FZ1=
+FZ2=Kein Paarhufer
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Pferd
+Antwort_2=0Rind
+Antwort_3=0Ziege
+Antwort_4=0Schaf
+
+[72]
+FZ1=
+FZ2=Kein Unpaarhufer
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Nilpferd
+Antwort_2=0Esel
+Antwort_3=0Pferd
+Antwort_4=0Zebra
+
+[73]
+FZ1=Auch noch Pflanzenname
+FZ2=Löwenzahn, Eisenhut, Fingerhut, Ochsenzunge
+FZ3=
+Min=8000
+Max=8000
+Antwort_1=1Stimmt für alle
+Antwort_2=0Stimmt für drei
+Antwort_3=0Stimmt für zwei
+Antwort_4=0Stimmt für eine
+
+[74]
+FZ1=
+FZ2=Giftpilz
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Knollenblätterpilz
+Antwort_2=0Champignon
+Antwort_3=0Pfifferling
+Antwort_4=0Steinpilz
+
+[75]
+FZ1=
+FZ2=Wieviel Beinpaare hat eine Spinne?
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=0ein
+Antwort_2=0zwei
+Antwort_3=0drei
+Antwort_4=1vier
+
+[76]
+FZ1=
+FZ2=Kein Süßwasserfisch
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Thunfisch
+Antwort_2=0Hecht
+Antwort_3=0Regenbogenforelle
+Antwort_4=0Zander
+
+[77]
+FZ1=
+FZ2=Kein Beuteltier
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Tapir
+Antwort_2=0Koala
+Antwort_3=0Känguruh
+Antwort_4=0Wombat
+
+[78]
+FZ1=
+FZ2=Welche Pflanze hat nicht die passende Frucht?
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Soja - Erbse
+Antwort_2=0Buche - Ecker
+Antwort_3=0Esskastanie - Marone
+Antwort_4=0Eiche - Eichel
+
+[79]
+FZ1=
+FZ2=Kamel hat im Höcker
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Fett
+Antwort_2=0Wasser
+Antwort_3=0Junge
+Antwort_4=0Navigationsorgan
+
+[80]
+FZ1=Die Begriffe: Auge, Achse, Knoten, Nadel
+FZ2=findet man auch in der Pflanzenwelt wieder
+FZ3=
+Min=64000
+Max=64000
+Antwort_1=1Stimmt
+Antwort_2=0Stimmt für drei
+Antwort_3=0Stimmt für zwei
+Antwort_4=0Stimmt für einen
+
+[81]
+FZ1=
+FZ2=Am Ende des Pflanzengriffels steht
+FZ3=
+Min=2000
+Max=2000
+Antwort_1=1Narbe
+Antwort_2=0Staubbeutel
+Antwort_3=0Staubfaden
+Antwort_4=0Fruchtknoten
+
+[82]
+FZ1=
+FZ2=Der in der Haut steckende Teil einer Vogelfeder
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Spule
+Antwort_2=0Schaft
+Antwort_3=0Ast
+Antwort_4=0Fahne
+
+[83]
+FZ1=
+FZ2=Dieser Blütenstand kommt beim Löwenzahn vor
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Körbchen
+Antwort_2=0Dolde
+Antwort_3=0Traube
+Antwort_4=0Ähre
+
+[84]
+FZ1=
+FZ2=Kein Geweihträger
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Stier
+Antwort_2=0Elch
+Antwort_3=0Ren
+Antwort_4=0Rothirsch
+
+[85]
+FZ1=
+FZ2=Hat kein Insektenfressergebiss
+FZ3=
+Min=16000
+Max=16000
+Antwort_1=1Rötelmaus
+Antwort_2=0Spitzmaus
+Antwort_3=0Igel
+Antwort_4=0Maulwurf
+
+[86]
+FZ1=
+FZ2=Gleichzeitiges Vorsetzen der Beine auf einer Seite
+FZ3=dann ebenso auf der anderen Seite
+Min=8000
+Max=8000
+Antwort_1=1Paßgang
+Antwort_2=0Galopp
+Antwort_3=0Trab
+Antwort_4=0Schritt
+
+[87]
+FZ1=
+FZ2=Ursprungsheimat der Wellensittiche
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Australien
+Antwort_2=0Südamerika
+Antwort_3=0Asien
+Antwort_4=0Europa
+
+[88]
+FZ1=
+FZ2=Die Darmlänge eines Rindes
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1zwischen 50 u. 60 Meter
+Antwort_2=0zwischen 40 u. 50 Meter
+Antwort_3=0zwischen 30 u. 40 Meter
+Antwort_4=0zwischen 20 u. 30 Meter
+
+[89]
+FZ1=
+FZ2=Kein Federtier
+FZ3=
+Min=4000
+Max=4000
+Antwort_1=1Knurrhahn
+Antwort_2=0Fasan
+Antwort_3=0Auerhahn
+Antwort_4=0Truthahn
+
+[90]
+FZ1=
+FZ2=Trampeltier
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Kamel mit zwei Höckern
+Antwort_2=0Kamel mit einem Höcker
+Antwort_3=0Kamel ohne Höcker
+Antwort_4=0Kamel mit drei Höckern
+
+[91]
+FZ1=
+FZ2=Legt keine Eier
+FZ3=
+Min=1000
+Max=1000
+Antwort_1=1Iltis
+Antwort_2=0Schnabeligel
+Antwort_3=0Sumpfschildkröte
+Antwort_4=0Kreuzotter
+
+[92]
+FZ1=
+FZ2=Nestbau von Schwalbenarten, welche Zuordnung stimmt?
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Uferschwalbe - Neströhre im Flussufer
+Antwort_2=0Mehlschalbe - Nest aus Mehl
+Antwort_3=0Rauchschwalbe - Nest im Schornstein
+Antwort_4=0Rötelschwalbe - Nest in Rotbuchen
+
+[93]
+FZ1=
+FZ2=Gibt es nicht!
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Kappesmeise
+Antwort_2=0Haubenmeise
+Antwort_3=0Blaumeise
+Antwort_4=0Tannenmeise
+
+[94]
+FZ1=
+FZ2=Ist der größte Papagei
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Hyazinthara
+Antwort_2=0Gelbmantellori
+Antwort_3=0Molukkenkakadu
+Antwort_4=0Blaustirnamazone
+
+[95]
+FZ1=
+FZ2=Wer gehört nicht zu den Lurchen?
+FZ3=
+Min=100
+Max=100
+Antwort_1=1Echsen
+Antwort_2=0Kröten
+Antwort_3=0Molche
+Antwort_4=0Frösche
+
+[96]
+FZ1=
+FZ2=Kann als einziger heimischer Vogel den Baum kopfunter laufen
+FZ3=
+Min=250000
+Max=250000
+Antwort_1=1Kleiber
+Antwort_2=0Gartenbaumläufer
+Antwort_3=0Waldbaumläufer
+Antwort_4=0Mauerläufer
+
+[97]
+FZ1=
+FZ2=So heißt ein Vogel
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Regenpfeifer
+Antwort_2=0Sonnenpfeifer
+Antwort_3=0Sturmpfeifer
+Antwort_4=0Gewitterpfeifer
+
+[98]
+FZ1=
+FZ2=Hermelin, Wiesel, Iltis, Dachs zählt man zu den Mardern
+FZ3=
+Min=500000
+Max=500000
+Antwort_1=1Stimmt für alle
+Antwort_2=0Stimmt für drei
+Antwort_3=0Stimmt für zwei
+Antwort_4=0Stimmt für einen
+
+[99]
+FZ1=
+FZ2=Schmerzlicher Stich zum Saugen bei
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Mücke
+Antwort_2=0Biene
+Antwort_3=0Wespe
+Antwort_4=0Hornisse
+
+[100]
+FZ1=
+FZ2=Geschützte Hochgebirgsblume
+FZ3=
+Min=0
+Max=0
+Antwort_1=1Edelweiß
+Antwort_2=0Edelgelb
+Antwort_3=0Edelblau
+Antwort_4=0Edelgrün
+
+[101]
+FZ1=
+FZ2=Heidekrautpflanze
+FZ3=
+Min=200
+Max=200
+Antwort_1=1Erica
+Antwort_2=0Irene
+Antwort_3=0Helga
+Antwort_4=0Heidi
+
+[102]
+FZ1=
+FZ2=Ein Alpenbock gehört zu den
+FZ3=
+Min=125000
+Max=125000
+Antwort_1=1Käfern
+Antwort_2=0Ziegen
+Antwort_3=0Schafen
+Antwort_4=0Rindern
+
+[103]
+FZ1=
+FZ2=Knabenkraut ist
+FZ3=
+Min=32000
+Max=32000
+Antwort_1=1Orchidee
+Antwort_2=0junge Pflanze
+Antwort_3=0männliche Pflanze
+Antwort_4=0gibt es nicht
+
+[104]
+FZ1=
+FZ2=Eine der Pflanzen ist nicht giftig
+FZ3=
+Min=500
+Max=500
+Antwort_1=1Kamille
+Antwort_2=0Tollkirsche
+Antwort_3=0Fingerhut
+Antwort_4=0Eisenhut
+
+[105]
+FZ1=
+FZ2=
+FZ3=
+Min=1000000
+Max=0
+Antwort_1=1richtig
+Antwort_2=0falsch
+Antwort_3=0falsch
+Antwort_4=0falsch
+
