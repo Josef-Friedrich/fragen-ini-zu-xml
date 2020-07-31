@@ -20,6 +20,7 @@ public class XMLKonvertierer {
 
   Element wurzel;
   Document dokument;
+  Element fragen;
 
   public XMLKonvertierer() throws ParserConfigurationException {
     DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
@@ -27,6 +28,7 @@ public class XMLKonvertierer {
     dokument = documentBuilder.newDocument();
     wurzel = dokument.createElement("fragenKatalog");
     dokument.appendChild(wurzel);
+    fragen = dokument.createElement("Fragen");
   }
 
   private void setzeWurzelTextElement(String elementName, String text) {
@@ -41,6 +43,13 @@ public class XMLKonvertierer {
 
   public void setzteThema(String thema) {
     setzeWurzelTextElement("thema", thema);
+  }
+
+  public void setzteFrage(String fragenText) {
+    Element elFrage = dokument.createElement("Frage");
+    Element elFragenText = dokument.createElement("fragenText");
+    elFragenText.appendChild(dokument.createTextNode(text));
+    wurzel.appendChild(element);
   }
 
   public void schreibeInDatei(String dateiName) throws TransformerConfigurationException, TransformerException {
