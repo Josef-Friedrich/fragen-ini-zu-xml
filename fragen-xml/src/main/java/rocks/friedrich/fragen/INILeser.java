@@ -22,7 +22,13 @@ public class INILeser {
     Ini.Section thema = ini.get("Thema");
     anzahlFragen = Integer.parseInt(thema.get("Fragen"));
     for (int i = 1; i <= anzahlFragen; i++) {
-      System.out.println(leseFragenText(gibFrage(i)));
+      Ini.Section frage = gibFrage(i);
+      System.out.println(leseFragenText(frage));
+      String[] antworten = leseAntworten(frage);
+      System.out.println(antworten[0]);
+      System.out.println(antworten[1]);
+      System.out.println(antworten[2]);
+      System.out.println(antworten[3]);
     }
   }
 
@@ -41,6 +47,24 @@ public class INILeser {
     String fragenText = formatiereText(
       sec.get("FZ1") + " " + sec.get("FZ2") + " " + sec.get("FZ3"));
     return fragenText;
+  }
+
+  public String[] leseAntworten(Ini.Section sec) {
+    int falscheIndex = 1;
+    String[] antworten = new String[4];
+    for (int i = 1; i <= 4; i++) {
+      String antwort = sec.get("Antwort_" + i);
+      int istRichtig = Integer.parseInt(antwort.substring(0, 1));
+      antwort = formatiereText(antwort.substring(1));
+      if (istRichtig == 1) {
+
+        antworten[0] = antwort;
+      } else {
+        antworten[falscheIndex] = antwort;
+        falscheIndex++;
+      }
+    }
+    return antworten;
   }
 
 }

@@ -27,6 +27,8 @@ public class XMLKonvertierer {
     Scanner scan = new Scanner(file, "ISO-8859-1");
 
     INILeser iniLeser = new INILeser("eisenbahn.txt");
+    INILeser euro = new INILeser("wirtschf/euro.txt");
+    INILeser internet = new INILeser("itg/internet.txt");
 
     DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
     DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
