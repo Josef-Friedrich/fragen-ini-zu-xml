@@ -7,10 +7,12 @@ import java.io.UnsupportedEncodingException;
 import javax.xml.parsers.ParserConfigurationException;
 
 import javax.xml.transform.TransformerException;
+import org.ini4j.Ini;
 
 public class Haupt {
 
-  public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, ParserConfigurationException, TransformerException, IOException {
+  public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException,
+      ParserConfigurationException, TransformerException, IOException {
     INILeser iniLeser = new INILeser("eisenbahn.txt");
     INILeser euro = new INILeser("wirtschf/euro.txt");
     INILeser internet = new INILeser("itg/internet.txt");
@@ -18,6 +20,15 @@ public class Haupt {
     XMLKonvertierer xml = new XMLKonvertierer();
     xml.setzteAutor(internet.gibAutor());
     xml.setzteThema(internet.gibThema());
+
+    for (int i = 1; i <= internet.anzahlFragen; i++) {
+      Ini.Section frage = internet.gibFrage(i);
+      String[] antworten = internet.leseAntworten(frage);
+      int[] schwierigkeit = internet.leseSchwierigkeit(frage);
+      xml.setzteFrage(internet.leseFragenText(frage), antworten[0], antworten[1], antworten[2], antworten[3],
+          schwierigkeit[0], schwierigkeit[1], schwierigkeit[2]);
+    }
+
     xml.schreibeInDatei("tmp.xml");
   }
 }

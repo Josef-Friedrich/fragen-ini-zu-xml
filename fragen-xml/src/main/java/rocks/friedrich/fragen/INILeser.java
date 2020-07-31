@@ -22,15 +22,6 @@ public class INILeser {
     ini = new Ini(new FileReader(file, Charset.forName("ISO-8859-1")));
     thema = ini.get("Thema");
     anzahlFragen = Integer.parseInt(thema.get("Fragen"));
-    for (int i = 1; i <= anzahlFragen; i++) {
-      Ini.Section frage = gibFrage(i);
-      System.out.println(leseFragenText(frage));
-      String[] antworten = leseAntworten(frage);
-      System.out.println(antworten[0]);
-      System.out.println(antworten[1]);
-      System.out.println(antworten[2]);
-      System.out.println(antworten[3]);
-    }
   }
 
   private String formatiereText(String text) {
@@ -38,6 +29,10 @@ public class INILeser {
     text = text.replaceAll("[ \t]+", " ");
     text = text.replaceAll(" \\?", "?");
     return text.trim();
+  }
+
+  public int gibAnzahlFragen() {
+    return anzahlFragen;
   }
 
   public String gibThema() {
@@ -48,13 +43,55 @@ public class INILeser {
     return formatiereText(thema.get("Autor"));
   }
 
-  public Ini.Section gibFrage (int fragenNummer) {
+  public Ini.Section gibFrage(int fragenNummer) {
     return ini.get(Integer.toString(fragenNummer));
   }
 
+  private int konvertiereGewinnsumme(String gewinnSumme) {
+    switch (Integer.parseInt(gewinnSumme)) {
+      case 50:
+        return 1;
+      case 100:
+        return 2;
+      case 200:
+        return 3;
+      case 300:
+        return 4;
+      case 500:
+        return 5;
+      case 1000:
+        return 6;
+      case 2000:
+        return 7;
+      case 4000:
+        return 8;
+      case 8000:
+        return 9;
+      case 16000:
+        return 10;
+      case 32000:
+        return 11;
+      case 64000:
+        return 12;
+      case 125000:
+        return 13;
+      case 50000:
+        return 14;
+      case 1000000:
+        return 15;
+    }
+    return 1;
+  }
+
+  public int[] leseSchwierigkeit(Ini.Section sec) {
+    int min = konvertiereGewinnsumme(sec.get("Min"));
+    int max = konvertiereGewinnsumme(sec.get("Max"));
+    int mitte = Math.round((min + max) / 2);
+    return new int[] { mitte, min, max };
+  }
+
   public String leseFragenText(Ini.Section sec) {
-    String fragenText = formatiereText(
-      sec.get("FZ1") + " " + sec.get("FZ2") + " " + sec.get("FZ3"));
+    String fragenText = formatiereText(sec.get("FZ1") + " " + sec.get("FZ2") + " " + sec.get("FZ3"));
     return fragenText;
   }
 
