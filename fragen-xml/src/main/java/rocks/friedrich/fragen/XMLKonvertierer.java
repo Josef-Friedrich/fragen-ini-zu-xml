@@ -2,6 +2,7 @@ package rocks.friedrich.fragen;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.io.InputStream;
 import java.util.Scanner;
@@ -20,10 +21,12 @@ import org.w3c.dom.Element;
 
 public class XMLKonvertierer {
 
-  public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, ParserConfigurationException, TransformerException {
+  public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, ParserConfigurationException, TransformerException, IOException {
     ClassLoader classloader = Thread.currentThread().getContextClassLoader();
     File file = new File(classloader.getResource("eisenbahn.txt").getFile());
     Scanner scan = new Scanner(file, "ISO-8859-1");
+
+    INILeser iniLeser = new INILeser("eisenbahn.txt");
 
     DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
     DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
@@ -47,7 +50,7 @@ public class XMLKonvertierer {
     while (scan.hasNext()) {
       String zeile = new String(scan.nextLine().getBytes(), "UTF-8");
       if (zeile.matches("^\\[\\d+\\]")) {
-        System.out.println(zeile);
+        //System.out.println(zeile);
         for (int i = 1; i <= 9; i++) {
           scan.nextLine();
         }
@@ -55,10 +58,10 @@ public class XMLKonvertierer {
     }
     scan.close();
 
-    TransformerFactory transformerFactory = TransformerFactory.newInstance();
-    Transformer transformer = transformerFactory.newTransformer();
-    DOMSource domSource = new DOMSource(document);
-    StreamResult streamResult = new StreamResult(new File("eisenbahn.xml"));
-    transformer.transform(domSource, streamResult);
+    // TransformerFactory transformerFactory = TransformerFactory.newInstance();
+    // Transformer transformer = transformerFactory.newTransformer();
+    // DOMSource domSource = new DOMSource(document);
+    // StreamResult streamResult = new StreamResult(new File("eisenbahn.xml"));
+    // transformer.transform(domSource, streamResult);
   }
 }
