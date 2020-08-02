@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <Thema>Internetwissen</Thema>
+    <Autor>Elmar F. Werker, V1.0 5/2001</Autor>
+    <Fragen>
+        <Frage>
+            <fragenText>Was benötigt man zur Darstellung von Internetseiten wie z.B. www.rtl.de</fragenText>
+            <richtigeAntwort>Browser</richtigeAntwort>
+            <falscheAntwort1>AOL</falscheAntwort1>
+            <falscheAntwort2>T-Online</falscheAntwort2>
+            <falscheAntwort3>Drucker</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welches ist der wichtigste Internetdienst geworden?</fragenText>
+            <richtigeAntwort>WWW</richtigeAntwort>
+            <falscheAntwort1>e-Mail</falscheAntwort1>
+            <falscheAntwort2>News</falscheAntwort2>
+            <falscheAntwort3>FTP</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welches ist der Internetdienst für elektronische Post?</fragenText>
+            <richtigeAntwort>e-Mail</richtigeAntwort>
+            <falscheAntwort1>News</falscheAntwort1>
+            <falscheAntwort2>Chat</falscheAntwort2>
+            <falscheAntwort3>WWW</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Mit welchem Netzwerkprotokoll funktioniert das World Wide Web www?</fragenText>
+            <richtigeAntwort>TCP/IP</richtigeAntwort>
+            <falscheAntwort1>NETBEUI</falscheAntwort1>
+            <falscheAntwort2>IPX</falscheAntwort2>
+            <falscheAntwort3>FTP</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Mit welcher Netzwerktopologie funktionieren heute ausfallsichere Computernetzwerke?</fragenText>
+            <richtigeAntwort>Stern</richtigeAntwort>
+            <falscheAntwort1>vollständiger Baum</falscheAntwort1>
+            <falscheAntwort2>Ring</falscheAntwort2>
+            <falscheAntwort3>Bus</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Unter welcher Internetadresse kann man im Internet einkaufen, feilschen und Preise vergleichen?</fragenText>
+            <richtigeAntwort>www.ebay.de</richtigeAntwort>
+            <falscheAntwort1>www.allesklar.de</falscheAntwort1>
+            <falscheAntwort2>www.fireball.de</falscheAntwort2>
+            <falscheAntwort3>www.ford.de</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welche Internetadresse beschreibt keine Suchmaschine?</fragenText>
+            <richtigeAntwort>www.quelle.de</richtigeAntwort>
+            <falscheAntwort1>www.metager.de</falscheAntwort1>
+            <falscheAntwort2>www.fireball.de</falscheAntwort2>
+            <falscheAntwort3>www.web.de</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Wie führen Sie eine zielgerichtete und schnelle Informationsbeschaffung mit dem Internet durch?</fragenText>
+            <richtigeAntwort>Suchmaschine und Suchfunktion</richtigeAntwort>
+            <falscheAntwort1>Eingabe www.t-online.de</falscheAntwort1>
+            <falscheAntwort2>Webkataloge und Themensuche</falscheAntwort2>
+            <falscheAntwort3>Meta-Suchmaschine</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Zu welcher Netzklasse gehört das Internet?</fragenText>
+            <richtigeAntwort>WAN</richtigeAntwort>
+            <falscheAntwort1>Peer-to-Peer</falscheAntwort1>
+            <falscheAntwort2>LAN</falscheAntwort2>
+            <falscheAntwort3>GAN</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Womit ist man im Internet identifizierbar, während man online ist?</fragenText>
+            <richtigeAntwort>IP-Adresse</richtigeAntwort>
+            <falscheAntwort1>Name+Vorname</falscheAntwort1>
+            <falscheAntwort2>Telefonnummer</falscheAntwort2>
+            <falscheAntwort3>Beruf</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Ein Kollege schreibt ihnen Internetadressen auf. Er weiß über das Internet nur wenig. Welche www-Adresse ist richtig?</fragenText>
+            <richtigeAntwort>www.westfaelische-rundschau.de</richtigeAntwort>
+            <falscheAntwort1>Irene.Müller@gmx.de</falscheAntwort1>
+            <falscheAntwort2>www westfälische rundschau.de</falscheAntwort2>
+            <falscheAntwort3>www.westfälische-rundschau.de</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welches Protokoll wird beim e-Mail Versand verwendet?</fragenText>
+            <richtigeAntwort>SMTP</richtigeAntwort>
+            <falscheAntwort1>WWW</falscheAntwort1>
+            <falscheAntwort2>NNTP</falscheAntwort2>
+            <falscheAntwort3>POP</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welches Protokoll wird beim e-Mail Abruf verwendet?</fragenText>
+            <richtigeAntwort>POP</richtigeAntwort>
+            <falscheAntwort1>WWW</falscheAntwort1>
+            <falscheAntwort2>NNTP</falscheAntwort2>
+            <falscheAntwort3>SMTP</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welche der nachfolgenden e-Mailadressen ist offensichtlich falsch?</fragenText>
+            <richtigeAntwort>Klaus.Ölschläger.de</richtigeAntwort>
+            <falscheAntwort1>bktgs@t-online.de</falscheAntwort1>
+            <falscheAntwort2>kanzler@bund.de</falscheAntwort2>
+            <falscheAntwort3>kerstin.mueller@gmx.de</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welche der nachfolgenden IP-Adressen ist eine gültige Computeradresse für das TCP/IP-Protokoll?</fragenText>
+            <richtigeAntwort>192.168.203.10</richtigeAntwort>
+            <falscheAntwort1>0190-555555</falscheAntwort1>
+            <falscheAntwort2>300.300.300.300</falscheAntwort2>
+            <falscheAntwort3>192.168.203.0</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welches ist der Internetdienst für Neuigkeiten, Nutzergruppen und Fachforen?</fragenText>
+            <richtigeAntwort>News</richtigeAntwort>
+            <falscheAntwort1>e-mail</falscheAntwort1>
+            <falscheAntwort2>Chat</falscheAntwort2>
+            <falscheAntwort3>WWW</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Was verbirgt sich hinter dem Begriff Cookie?</fragenText>
+            <richtigeAntwort>lokale Daten</richtigeAntwort>
+            <falscheAntwort1>e-Mailanhang</falscheAntwort1>
+            <falscheAntwort2>Virusprogramm</falscheAntwort2>
+            <falscheAntwort3>Plugin</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </Frage>
+        <Frage>
+            <fragenText>Welche Hardware hilft nicht beim Internetanschluss?</fragenText>
+            <richtigeAntwort>Diskette</richtigeAntwort>
+            <falscheAntwort1>ISDN-NTBA</falscheAntwort1>
+            <falscheAntwort2>DSL-Splitter</falscheAntwort2>
+            <falscheAntwort3>Modem</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </Frage>
+    </Fragen>
+</fragenKatalog>
