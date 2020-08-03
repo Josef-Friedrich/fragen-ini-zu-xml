@@ -32,7 +32,5 @@ public class Haupt {
     }
 
     xml.schreibeInDatei("tmp.xml");
-
-    new Stapel();
   }
 }
