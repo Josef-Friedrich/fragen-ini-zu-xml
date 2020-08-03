@@ -15,11 +15,8 @@ public class INILeser {
   int anzahlFragen;
   Ini.Section thema;
 
-  public INILeser(String dateiName) throws FileNotFoundException, IOException {
-    ClassLoader classloader = Thread.currentThread().getContextClassLoader();
-    File file = new File(classloader.getResource(dateiName).getFile());
-
-    ini = new Ini(new FileReader(file, Charset.forName("ISO-8859-1")));
+  public INILeser(File quelle) throws FileNotFoundException, IOException {
+    ini = new Ini(new FileReader(quelle, Charset.forName("ISO-8859-1")));
     thema = ini.get("Thema");
     anzahlFragen = Integer.parseInt(thema.get("Fragen"));
   }
