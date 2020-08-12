@@ -20,7 +20,6 @@ public class StapelKonvertierer {
         try {
           konvertiereEineDatei(quelle, ziel);
         } catch (Exception e) {
-          System.out.println(e);
           e.printStackTrace();
         }
 
@@ -32,21 +31,21 @@ public class StapelKonvertierer {
   private void konvertiereEineDatei(Path quelle, Path ziel) throws IOException {
     if (gibDateiErweiterung(quelle.toFile()).equals("txt")) {
       System.out.println(quelle);
-      System.out.println(ziel);
       Files.createDirectories(ziel.getParent());
 
       try {
         INILeser ini = new INILeser(quelle.toFile());
 
         XMLKonvertierer xml = new XMLKonvertierer();
-        System.out.println(ini.gibAutor());
+        // System.out.println(ini.gibAutor());
 
         xml.setzteAutor(ini.gibAutor());
         xml.setzteThema(ini.gibThema());
+        xml.setzteAnzahFragen(String.valueOf(ini.anzahlFragen));
 
         for (int i = 1; i <= ini.anzahlFragen; i++) {
           Ini.Section frage = ini.gibFrage(i);
-          System.out.println(ini.leseFragenText(frage));
+          // System.out.println(ini.leseFragenText(frage));
           String[] antworten = ini.leseAntworten(frage);
           int[] schwierigkeit = ini.leseSchwierigkeit(frage);
           xml.setzteFrage(ini.leseFragenText(frage), antworten[0], antworten[1], antworten[2], antworten[3],
@@ -55,7 +54,6 @@ public class StapelKonvertierer {
 
         xml.schreibeInDatei(ziel.toString());
       } catch (Exception e) {
-        System.out.println(e);
         e.printStackTrace();
       }
     }

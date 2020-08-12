@@ -22,6 +22,7 @@ public class INILeser {
   }
 
   private String formatiereText(String text) {
+    if (text == null) return "";
     text = text.replaceAll("\"([^\"]*)\"", "„$1“");
     text = text.replaceAll("[ \t]+", " ");
     text = text.replaceAll(" \\?", "?");
@@ -100,7 +101,6 @@ public class INILeser {
       int istRichtig = Integer.parseInt(antwort.substring(0, 1));
       antwort = formatiereText(antwort.substring(1));
       if (istRichtig == 1) {
-
         antworten[0] = antwort;
       } else {
         antworten[falscheIndex] = antwort;
