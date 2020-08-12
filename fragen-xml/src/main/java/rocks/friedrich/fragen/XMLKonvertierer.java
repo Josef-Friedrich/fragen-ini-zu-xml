@@ -29,11 +29,11 @@ public class XMLKonvertierer {
     dokument = documentBuilder.newDocument();
     wurzel = dokument.createElement("fragenKatalog");
     dokument.appendChild(wurzel);
-    thema = dokument.createElement("Thema");
+    thema = dokument.createElement("thema");
     wurzel.appendChild(thema);
-    autor = dokument.createElement("Autor");
+    autor = dokument.createElement("autor");
     wurzel.appendChild(autor);
-    fragen = dokument.createElement("Fragen");
+    fragen = dokument.createElement("fragen");
     wurzel.appendChild(fragen);
   }
 
@@ -61,7 +61,7 @@ public class XMLKonvertierer {
 
   public void setzteFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
       String falscheAntwort3, int schwierikeit, int schwierigkeitMin, int schwierigkeitMax) {
-    Element frage = dokument.createElement("Frage");
+    Element frage = dokument.createElement("frage");
     fragen.appendChild(frage);
     hängeTextElementAn(frage, "fragenText", fragenText);
     hängeTextElementAn(frage, "richtigeAntwort", richtigeAntwort);
