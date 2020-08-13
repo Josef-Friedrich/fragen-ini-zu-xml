@@ -28,19 +28,40 @@ public class StapelKonvertierer {
     });
   }
 
-  private void konvertiereEineDatei(Path quelle, Path ziel) throws IOException {
-    if (gibDateiErweiterung(quelle.toFile()).equals("txt")) {
-      System.out.println(quelle);
-      Files.createDirectories(ziel.getParent());
+  // https://stackoverflow.com/a/1086134/10193818
+  private String toTitleCase(String input) {
+    StringBuilder titleCase = new StringBuilder(input.length());
+    boolean nextTitleCase = true;
+    for (char c : input.toCharArray()) {
+      if (Character.isSpaceChar(c)) {
+        nextTitleCase = true;
+      } else if (nextTitleCase) {
+        c = Character.toTitleCase(c);
+        nextTitleCase = false;
+      }
+      titleCase.append(c);
+    }
+    return titleCase.toString();
+  }
 
+  private void konvertiereEineDatei(Path quelle, Path ziel) throws IOException {
+    File quelleDatei = quelle.toFile();
+    if (gibDateiErweiterung(quelleDatei).equals("txt")) {
       try {
-        INILeser ini = new INILeser(quelle.toFile());
+        System.out.println(quelle);
+
+
+        Files.createDirectories(ziel.getParent());
+
+        INILeser ini = new INILeser(quelleDatei);
 
         int anzahlFragen = ini.anzahlFragen;
 
         XMLKonvertierer xml = new XMLKonvertierer();
         // System.out.println(ini.gibAutor());
 
+        File übergeordneterOrdner = quelleDatei.getParentFile();
+        xml.setzteFach(toTitleCase(übergeordneterOrdner.getName()));
         xml.setzteAutor(ini.gibAutor());
         xml.setzteThema(ini.gibThema());
 

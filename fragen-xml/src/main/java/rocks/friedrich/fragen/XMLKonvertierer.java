@@ -23,6 +23,7 @@ public class XMLKonvertierer {
   Element thema;
   Element autor;
   Element anzahlFragen;
+  Element fach;
 
   public XMLKonvertierer() throws ParserConfigurationException {
     DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
@@ -30,12 +31,19 @@ public class XMLKonvertierer {
     dokument = documentBuilder.newDocument();
     wurzel = dokument.createElement("fragenKatalog");
     dokument.appendChild(wurzel);
+
+    fach = dokument.createElement("fach");
+    wurzel.appendChild(fach);
+
     thema = dokument.createElement("thema");
     wurzel.appendChild(thema);
+
     autor = dokument.createElement("autor");
     wurzel.appendChild(autor);
+
     anzahlFragen = dokument.createElement("anzahlFragen");
     wurzel.appendChild(anzahlFragen);
+
     fragen = dokument.createElement("fragen");
     wurzel.appendChild(fragen);
   }
@@ -64,6 +72,10 @@ public class XMLKonvertierer {
 
   public void setzteAnzahFragen(String anzahlFragen) {
     erzeugeText(this.anzahlFragen, anzahlFragen);
+  }
+
+  public void setzteFach(String fach) {
+    erzeugeText(this.fach, fach);
   }
 
   public void setzteFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
