@@ -9,10 +9,10 @@ FZ2=In welcher Phase der Meiose kommt es zur Tetradenbildung?
 FZ3=
 Min=2000
 Max=125000
-Antwort_1=1Prophase1	
-Antwort_2=0Anaphase1	
-Antwort_3=0Interphase	
-Antwort_4=0Prophase2	
+Antwort_1=1Prophase1
+Antwort_2=0Anaphase1
+Antwort_3=0Interphase
+Antwort_4=0Prophase2
 
 [2]
 FZ1=
@@ -20,9 +20,9 @@ FZ2=Was war Gregor Mendel von Beruf?
 FZ3=
 Min=0
 Max=1000
-Antwort_1=0Aushilfskellner	
-Antwort_2=0Biologe	
-Antwort_3=1Mönch	
+Antwort_1=0Aushilfskellner
+Antwort_2=0Biologe
+Antwort_3=1Mönch
 Antwort_4=0Gärtner
 
 [3]
@@ -31,9 +31,9 @@ FZ2=Was bedeutet der Begriff "Chromosom" wörtlich?
 FZ3=
 Min=1000
 Max=32000
-Antwort_1=0Erbmolekül	
-Antwort_2=0Körperzelle	
-Antwort_3=1Farbkörperchen	
+Antwort_1=0Erbmolekül
+Antwort_2=0Körperzelle
+Antwort_3=1Farbkörperchen
 Antwort_4=0Kernteilchen
 
 [4]
@@ -42,9 +42,9 @@ FZ2=Wie lautet der normale Karyotyp eines Mannes?
 FZ3=
 Min=500
 Max=4000
-Antwort_1=046,xx	
-Antwort_2=146,xy	
-Antwort_3=044,xx	
+Antwort_1=046,xx
+Antwort_2=146,xy
+Antwort_3=044,xx
 Antwort_4=044,xy
 
 [5]
@@ -53,9 +53,9 @@ FZ2=Wie nennt man die sortierte Darstellung der Chromosomen
 FZ3=eines Lebewesens?
 Min=1000
 Max=32000
-Antwort_1=0Karyotyp	
-Antwort_2=1Karyogramm	
-Antwort_3=0Genotyp	
+Antwort_1=0Karyotyp
+Antwort_2=1Karyogramm
+Antwort_3=0Genotyp
 Antwort_4=0Nukleolus
 
 [6]
@@ -64,9 +64,9 @@ FZ2=Wie nennt man die Ausprägungsform eines Gens?
 FZ3=
 Min=1000
 Max=125000
-Antwort_1=1Allel	
-Antwort_2=0Genotyp	
-Antwort_3=0Chromosom	
+Antwort_1=1Allel
+Antwort_2=0Genotyp
+Antwort_3=0Chromosom
 Antwort_4=0Karyogramm
 
 [7]
@@ -75,9 +75,9 @@ FZ2=Wie lautet die Bezeichnung der 1. Mendelschen Regel?
 FZ3=
 Min=200
 Max=1000
-Antwort_1=0Spielregel	
-Antwort_2=0Erbsenregel	
-Antwort_3=0Spaltungsregel	
+Antwort_1=0Spielregel
+Antwort_2=0Erbsenregel
+Antwort_3=0Spaltungsregel
 Antwort_4=1Uniformitätsregel
 
 [8]
@@ -86,9 +86,9 @@ FZ2=Mit welcher Pflanzenart erforschte Gregor Mendel
 FZ3=die nach ihm benannten Vererbungsregeln?
 Min=100
 Max=1000
-Antwort_1=0Roggen	
-Antwort_2=0Wunderblume	
-Antwort_3=0Mais	
+Antwort_1=0Roggen
+Antwort_2=0Wunderblume
+Antwort_3=0Mais
 Antwort_4=1Erbsen
 
 [9]
@@ -97,9 +97,9 @@ FZ2=Mit welcher Tierart wurden wichtige Erkenntnisse
 FZ3=über die Vererbung gewonnen?
 Min=1000
 Max=64000
-Antwort_1=1Drosophila melanogaster	
-Antwort_2=0Pan troglodytes	
-Antwort_3=0Anas platyrhynchos	
+Antwort_1=1Drosophila melanogaster
+Antwort_2=0Pan troglodytes
+Antwort_3=0Anas platyrhynchos
 Antwort_4=0Bubo bubo
 
 [10]
@@ -108,9 +108,9 @@ FZ2=Wie lautet der lateinische Name der Fruchtfliege?
 FZ3=
 Min=500
 Max=32000
-Antwort_1=1Drosophila melanogaster	
-Antwort_2=0Pan troglodytes	
-Antwort_3=0Anas platyrhynchos	
+Antwort_1=1Drosophila melanogaster
+Antwort_2=0Pan troglodytes
+Antwort_3=0Anas platyrhynchos
 Antwort_4=0Bubo bubo
 
 [11]
@@ -119,9 +119,9 @@ FZ2=Wie lautet die im englischen Sprachraum übliche
 FZ3=Abkürzung für Desoxyribonucleinsäure?
 Min=300
 Max=2000
-Antwort_1=1DNA	
-Antwort_2=0RNA	
-Antwort_3=0DNS	
+Antwort_1=1DNA
+Antwort_2=0RNA
+Antwort_3=0DNS
 Antwort_4=0C&A
 
 [12]
@@ -130,9 +130,9 @@ FZ2=Welcher Begriff kennzeichnet die Verbindungsstelle
 FZ3=zweier Chromatiden eines Metaphasechromosoms?
 Min=1000
 Max=64000
-Antwort_1=0Chiasma	
-Antwort_2=1Zentromer	
-Antwort_3=0crossing-over	
+Antwort_1=0Chiasma
+Antwort_2=1Zentromer
+Antwort_3=0crossing-over
 Antwort_4=0Zentriol
 
 [13]
@@ -141,9 +141,9 @@ FZ2=Wie lautet die Bezeichnung der Färbetechnik, mit deren Hilfe das
 FZ3=charakteristische Bändermuster eines Chromosoms sichtbar wird?
 Min=64000
 Max=1000000
-Antwort_1=0Karyopainting	
-Antwort_2=0Karyotyping	
-Antwort_3=1Giemsa-Färbung	
+Antwort_1=0Karyopainting
+Antwort_2=0Karyotyping
+Antwort_3=1Giemsa-Färbung
 Antwort_4=0Granulozyten
 
 [14]
@@ -152,20 +152,20 @@ FZ2=Welcher Zelltyp wird üblichrweise für die Erstellung
 FZ3=eines Karyogramms benutzt?
 Min=4000
 Max=250000
-Antwort_1=0Blastozyten	
-Antwort_2=0Neuronen	
-Antwort_3=0Erythrozyten	
+Antwort_1=0Blastozyten
+Antwort_2=0Neuronen
+Antwort_3=0Erythrozyten
 Antwort_4=1Lymphozyten
 
 [15]
 FZ1=
-FZ2=Wie werden die Chromosomenpaare bezeichnet, die bei Mann 
+FZ2=Wie werden die Chromosomenpaare bezeichnet, die bei Mann
 FZ3=und Frau in gleicher Zusammensetzung vorhanden sind?
 Min=1000
 Max=32000
-Antwort_1=1Autosomen	
-Antwort_2=0Radoosomen	
-Antwort_3=0Busosomen	
+Antwort_1=1Autosomen
+Antwort_2=0Radoosomen
+Antwort_3=0Busosomen
 Antwort_4=0Tramosomen
 
 [16]
@@ -174,9 +174,9 @@ FZ2=Welcher Begriff bedeutet übersetzt "Geschlechtschromosom"?
 FZ3=
 Min=500
 Max=8000
-Antwort_1=0Karyosom	
-Antwort_2=1Gonosom	
-Antwort_3=0Autosom	
+Antwort_1=0Karyosom
+Antwort_2=1Gonosom
+Antwort_3=0Autosom
 Antwort_4=0Spermosom
 
 [17]
@@ -185,9 +185,9 @@ FZ2=Der Chromosomensatz einer Körperzelle ist ...
 FZ3=
 Min=300
 Max=2000
-Antwort_1=0schizoid	
-Antwort_2=0haploid	
-Antwort_3=1diploid	
+Antwort_1=0schizoid
+Antwort_2=0haploid
+Antwort_3=1diploid
 Antwort_4=0paranoid
 
 [18]
@@ -196,9 +196,9 @@ FZ2=Der Chromosomensatz einer Keimzelle ist ...
 FZ3=
 Min=300
 Max=2000
-Antwort_1=0unvollständig	
-Antwort_2=0vervierfacht	
-Antwort_3=0doppelt	
+Antwort_1=0unvollständig
+Antwort_2=0vervierfacht
+Antwort_3=0doppelt
 Antwort_4=1haploid
 
 [19]
@@ -207,20 +207,20 @@ FZ2=Über das Geschlecht eines Menschen bestimmen die ...
 FZ3=
 Min=500
 Max=4000
-Antwort_1=1Gonosomen	
-Antwort_2=0Eltern	
-Antwort_3=0Hormone	
+Antwort_1=1Gonosomen
+Antwort_2=0Eltern
+Antwort_3=0Hormone
 Antwort_4=0Ribosomen
 
 [20]
 FZ1=
 FZ2=Eine Hälfte eines Metaphasechromosoms nennt man ...
 FZ3=
-Min1000
+Min=1000
 Max=32000
-Antwort_1=0Metasom	
-Antwort_2=1Chromatid	
-Antwort_3=0Haplosom	
+Antwort_1=0Metasom
+Antwort_2=1Chromatid
+Antwort_3=0Haplosom
 Antwort_4=0Diplosom
 
 [21]
@@ -229,9 +229,9 @@ FZ2=Ein Mensch mit dem Karyotyp 46,xx ...
 FZ3=
 Min=1000
 Max=16000
-Antwort_1=0leidet an Albinismus	
-Antwort_2=0hat das Down-Syndrom	
-Antwort_3=1ist eine Frau	
+Antwort_1=0leidet an Albinismus
+Antwort_2=0hat das Down-Syndrom
+Antwort_3=1ist eine Frau
 Antwort_4=0ist ein Mann
 
 [22]
@@ -240,9 +240,9 @@ FZ2=Der komplette diploide Chromosomensatz eines Menschen
 FZ3=kommt in folgendem Zelltyp vor:
 Min=300
 Max=8000
-Antwort_1=0nur in der befruchteten Eizelle	
-Antwort_2=0nur in Spermien	
-Antwort_3=0nur in den Gameten	
+Antwort_1=0nur in der befruchteten Eizelle
+Antwort_2=0nur in Spermien
+Antwort_3=0nur in den Gameten
 Antwort_4=1in fast jeder Körperzelle
 
 [23]
@@ -251,9 +251,9 @@ FZ2=Die Mitose ist ein Teilvorgang ...
 FZ3=
 Min=1000
 Max=32000
-Antwort_1=1des Zellzyklus	
-Antwort_2=0der Befruchtung	
-Antwort_3=0der Keimzellenbildung	
+Antwort_1=1des Zellzyklus
+Antwort_2=0der Befruchtung
+Antwort_3=0der Keimzellenbildung
 Antwort_4=0der Synthesephase
 
 [24]
@@ -262,9 +262,9 @@ FZ2=Der Begriff G1-Phase leitet sich ab von ...
 FZ3=
 Min=4000
 Max=64000
-Antwort_1=0"Genetik"	
-Antwort_2=1"gap"	
-Antwort_3=0"Geschlechtschromosom"	
+Antwort_1=0"Genetik"
+Antwort_2=1"gap"
+Antwort_3=0"Geschlechtschromosom"
 Antwort_4=0"gametic unit"
 
 [25]
@@ -273,9 +273,9 @@ FZ2=Die Verdoppelung des genetischen Materials
 FZ3=geschieht in der ...
 Min=4000
 Max=125000
-Antwort_1=0Anaphase	
-Antwort_2=0Mitose	
-Antwort_3=1Interphase	
+Antwort_1=0Anaphase
+Antwort_2=0Mitose
+Antwort_3=1Interphase
 Antwort_4=0Meiose
 
 [26]
@@ -284,9 +284,9 @@ FZ2=Die Teilung in zwei Zellen nennt man ...
 FZ3=
 Min=4000
 Max=125000
-Antwort_1=0Mitose	
-Antwort_2=0Anaphase	
-Antwort_3=0Cellulose	
+Antwort_1=0Mitose
+Antwort_2=0Anaphase
+Antwort_3=0Cellulose
 Antwort_4=1Cytokinese
 
 [27]
@@ -295,9 +295,9 @@ FZ2=Welchen biologischen Zweck erfüllt die Mitose?
 FZ3=
 Min=200
 Max=2000
-Antwort_1=1Bildung erbgleicher Tochterzellen	
-Antwort_2=0Befruchtung	
-Antwort_3=0Bildung von Eizellen und Spermien	
+Antwort_1=1Bildung erbgleicher Tochterzellen
+Antwort_2=0Befruchtung
+Antwort_3=0Bildung von Eizellen und Spermien
 Antwort_4=0Genetische Vielfalt
 
 [28]
@@ -306,9 +306,9 @@ FZ2=In welcher Phase ist der Nukleolus sichtbar?
 FZ3=
 Min=1000
 Max=64000
-Antwort_1=0Anaphase	
-Antwort_2=1Interphase	
-Antwort_3=0Metaphase	
+Antwort_1=0Anaphase
+Antwort_2=1Interphase
+Antwort_3=0Metaphase
 Antwort_4=0Telophase
 
 [29]
@@ -317,9 +317,9 @@ FZ2=Welche Reihenfolge stimmt?
 FZ3=
 Min=200
 Max=4000
-Antwort_1=0Telophase, Anaphase	
-Antwort_2=0Metaphase, Prophase	
-Antwort_3=1Interphase, Prophase	
+Antwort_1=0Telophase, Anaphase
+Antwort_2=0Metaphase, Prophase
+Antwort_3=1Interphase, Prophase
 Antwort_4=0Anaphase, Interphase
 
 [30]
@@ -328,9 +328,9 @@ FZ2=In welcher dieser Phasen sind die Chromosomen
 FZ3=nicht sichtbar?
 Min=0
 Max=0
-Antwort_1=0Metaphase	
-Antwort_2=0Telophase	
-Antwort_3=0Anaphase	
+Antwort_1=0Metaphase
+Antwort_2=0Telophase
+Antwort_3=0Anaphase
 Antwort_4=1Interphase
 
 [31]
@@ -339,9 +339,9 @@ FZ2=Was geschieht in der Interphase?
 FZ3=
 Min=1000
 Max=16000
-Antwort_1=1Verdoppelung der DNS	
-Antwort_2=0Trennung der Chromatiden	
-Antwort_3=0nichts	
+Antwort_1=1Verdoppelung der DNS
+Antwort_2=0Trennung der Chromatiden
+Antwort_3=0nichts
 Antwort_4=0Auflösung der Kernmembran
 
 [32]
@@ -350,9 +350,9 @@ FZ2=In welcher Phase löst sich die Kernmembran auf?
 FZ3=
 Min=1000
 Max=32000
-Antwort_1=0Interphase	
-Antwort_2=1Prophase	
-Antwort_3=0Anaphase	
+Antwort_1=0Interphase
+Antwort_2=1Prophase
+Antwort_3=0Anaphase
 Antwort_4=0Telophase
 
 [33]
@@ -361,9 +361,9 @@ FZ2=Wo ordnen sich die Metaphasechromosomen an?
 FZ3=
 Min=1000
 Max=16000
-Antwort_1=1in der Äquatorialebene	
-Antwort_2=0an den Zellpolen	
-Antwort_3=0am Kinetochor	
+Antwort_1=1in der Äquatorialebene
+Antwort_2=0an den Zellpolen
+Antwort_3=0am Kinetochor
 Antwort_4=0am Zentriol
 
 [34]
@@ -372,9 +372,9 @@ FZ2=Das Gift, das zur Fixierung der Metaphasechromosomen
 FZ3=verwendet wird, stammt aus ...
 Min=2000
 Max=32000
-Antwort_1=0Eiben	
-Antwort_2=0Kegelschnecken	
-Antwort_3=0Vogelbeeren	
+Antwort_1=0Eiben
+Antwort_2=0Kegelschnecken
+Antwort_3=0Vogelbeeren
 Antwort_4=1Herbstzeitlosen
 
 [35]
@@ -383,9 +383,9 @@ FZ2=Das Zellgift der Herbstzeitlose heißt ...
 FZ3=
 Min=4000
 Max=64000
-Antwort_1=1Colchicin	
-Antwort_2=0Strychnin	
-Antwort_3=0Dioxin	
+Antwort_1=1Colchicin
+Antwort_2=0Strychnin
+Antwort_3=0Dioxin
 Antwort_4=0Digitoxin
 
 [36]
@@ -394,9 +394,9 @@ FZ2=Die Bildung erbgleicher Tochterzellen
 FZ3=erfolgt durch den Vorgang der
 Min=0
 Max=500
-Antwort_1=0Mimose	
-Antwort_2=1Mitose	
-Antwort_3=0Mittellose	
+Antwort_1=0Mimose
+Antwort_2=1Mitose
+Antwort_3=0Mittellose
 Antwort_4=0Mikrose
 
 [37]
@@ -405,9 +405,9 @@ FZ2=Die kleinste biologische Einheit eines Lebewesens
 FZ3=ist ...
 Min=0
 Max=200
-Antwort_1=0die Stube	
-Antwort_2=0die Kammer	
-Antwort_3=1die Zelle	
+Antwort_1=0die Stube
+Antwort_2=0die Kammer
+Antwort_3=1die Zelle
 Antwort_4=0das Verlies
 
 [38]
@@ -416,9 +416,9 @@ FZ2=Die Genetik beschäftigt sich vor allem mit ...
 FZ3=
 Min=0
 Max=1000
-Antwort_1=0dem Nervensystem	
-Antwort_2=0den inneren Organen	
-Antwort_3=0Erbsen	
+Antwort_1=0dem Nervensystem
+Antwort_2=0den inneren Organen
+Antwort_3=0Erbsen
 Antwort_4=1der Vererbung
 
 [39]
@@ -427,9 +427,9 @@ FZ2=Die Geschlechtszellen bilden sich durch ...
 FZ3=
 Min=500
 Max=4000
-Antwort_1=1Meiose	
-Antwort_2=0Mitose	
-Antwort_3=0Genese	
+Antwort_1=1Meiose
+Antwort_2=0Mitose
+Antwort_3=0Genese
 Antwort_4=0Karyogenese
 
 [40]
@@ -438,9 +438,9 @@ FZ2=Sexuelle Fortpflanzung setzt voraus, dass sich
 FZ3=bestimmte Zellen ...
 Min=1000
 Max=32000
-Antwort_1=0mitotisch teilen	
-Antwort_2=1meiotisch teilen	
-Antwort_3=0identisch verdoppeln	
+Antwort_1=0mitotisch teilen
+Antwort_2=1meiotisch teilen
+Antwort_3=0identisch verdoppeln
 Antwort_4=0genetisch verändern
 
 [41]
@@ -449,9 +449,9 @@ FZ2=Bei der Meiose entstehen ...
 FZ3=
 Min=500
 Max=8000
-Antwort_1=0Chromosomen	
-Antwort_2=0Körperzellen	
-Antwort_3=1Geschlechtszellen	
+Antwort_1=0Chromosomen
+Antwort_2=0Körperzellen
+Antwort_3=1Geschlechtszellen
 Antwort_4=0Zygoten
 
 [42]
@@ -460,9 +460,9 @@ FZ2=Die erste Teilung der Meiose ist die ...
 FZ3=
 Min=1000
 Max=8000
-Antwort_1=0Anaphase1	
-Antwort_2=0Äquationsteilung	
-Antwort_3=0Reifeteilung	
+Antwort_1=0Anaphase1
+Antwort_2=0Äquationsteilung
+Antwort_3=0Reifeteilung
 Antwort_4=1Reduktionsteilung
 
 [43]
@@ -471,9 +471,9 @@ FZ2=In der Äquationsteilung trennen sich die ...
 FZ3=
 Min=2000
 Max=32000
-Antwort_1=1Chromatiden	
-Antwort_2=0homologen Paare	
-Antwort_3=0Spermienzellen	
+Antwort_1=1Chromatiden
+Antwort_2=0homologen Paare
+Antwort_3=0Spermienzellen
 Antwort_4=0Autosomen
 
 [44]
@@ -482,9 +482,9 @@ FZ2=Vor der Meiose erfolgt eine normale ...
 FZ3=
 Min=32000
 Max=250000
-Antwort_1=0Anaphase	
-Antwort_2=1identische Replikation	
-Antwort_3=0Mitose	
+Antwort_1=0Anaphase
+Antwort_2=1identische Replikation
+Antwort_3=0Mitose
 Antwort_4=0Zellteilung
 
 [45]
@@ -493,9 +493,9 @@ FZ2=Die Reduktionsteilung wird folgendermaßen abgekürzt:
 FZ3=
 Min=2000
 Max=32000
-Antwort_1=01.RT!	
-Antwort_2=0RNA!	
-Antwort_3=1R!	
+Antwort_1=01.RT!
+Antwort_2=0RNA!
+Antwort_3=1R!
 Antwort_4=0Ä!
 
 [46]
@@ -504,9 +504,9 @@ FZ2=Welcher Begriff kennzeichnet keinen Vorgang der Reduktionsteilung?
 FZ3=
 Min=125000
 Max=1000000
-Antwort_1=0Chiasmata	
-Antwort_2=0crossing-over	
-Antwort_3=0Tetrade	
+Antwort_1=0Chiasmata
+Antwort_2=0crossing-over
+Antwort_3=0Tetrade
 Antwort_4=1Gametangiogamie
 
 [47]
@@ -515,9 +515,9 @@ FZ2=Wieviele Chromosomen besitzt eine menschliche Zelle
 FZ3=nach der Meiose?
 Min=1000
 Max=8000
-Antwort_1=123	
-Antwort_2=046	
-Antwort_3=092	
+Antwort_1=123
+Antwort_2=046
+Antwort_3=092
 Antwort_4=044
 
 [48]
@@ -526,9 +526,9 @@ FZ2=Wieviele Gonosomen besitzt eine Keimzelle?
 FZ3=
 Min=1000
 Max=16000
-Antwort_1=02	
-Antwort_2=11	
-Antwort_3=023	
+Antwort_1=02
+Antwort_2=11
+Antwort_3=023
 Antwort_4=046
 
 [49]
@@ -537,9 +537,9 @@ FZ2=Wieviele Autosomenpaare findet man in einer
 FZ3=normalen Körperzelle?
 Min=2000
 Max=64000
-Antwort_1=01	
-Antwort_2=122	
-Antwort_3=023	
+Antwort_1=01
+Antwort_2=122
+Antwort_3=023
 Antwort_4=046
 
 [50]
@@ -548,9 +548,9 @@ FZ2=allein durch interchromosomale Rekombination entstehen?
 FZ3=
 Min=500000
 Max=1000000
-Antwort_1=08	
-Antwort_2=032	
-Antwort_3=064	
+Antwort_1=08
+Antwort_2=032
+Antwort_3=064
 Antwort_4=116
 
 [51]
@@ -559,8 +559,8 @@ FZ2=Welcher Vorgang führt zu einer schier unübersehbaren
 FZ3=Vielzahl von Keimzellen?
 Min=500
 Max=8000
-Antwort_1=1intrachromosomale Rekombination	
-Antwort_2=0die Befruchtung	
+Antwort_1=1intrachromosomale Rekombination
+Antwort_2=0die Befruchtung
 Antwort_3=0die Mitose
 Antwort_4=0vegetative Vermehrung
 
@@ -570,9 +570,9 @@ FZ2=Wieviele genetisch unterschiedlich Nachkommen kann
 FZ3=ein Paar bekommen, wenn man crossing-over ausschließt?
 Min=32000
 Max=250000
-Antwort_1=08.388.608 (2 hoch 23)	
-Antwort_2=17 mal 10 hoch 13	
-Antwort_3=0alle Nachkommen wären gleich	
+Antwort_1=08.388.608 (2 hoch 23)
+Antwort_2=17 mal 10 hoch 13
+Antwort_3=0alle Nachkommen wären gleich
 Antwort_4=0nur 2 (männlich oder weiblich)
 
 [53]
@@ -581,9 +581,9 @@ FZ2=Eineiige Zwillinge entstehen durch ...
 FZ3=
 Min=32000
 Max=500000
-Antwort_1=0Verschmelzung zweier Eizellen	
-Antwort_2=0doppelte meiotische Teilung	
-Antwort_3=1mitotische Teilung der Zygote	
+Antwort_1=0Verschmelzung zweier Eizellen
+Antwort_2=0doppelte meiotische Teilung
+Antwort_3=1mitotische Teilung der Zygote
 Antwort_4=0meiotische Rekombination
 
 [54]
@@ -592,9 +592,9 @@ FZ2=Zweieiige Zwillinge entstehen durch
 FZ3=
 Min=4000
 Max=64000
-Antwort_1=0erhöhte Spermiendichte	
-Antwort_2=0Verschmelzung zweier Eizellen	
-Antwort_3=0Teilung der Eizelle	
+Antwort_1=0erhöhte Spermiendichte
+Antwort_2=0Verschmelzung zweier Eizellen
+Antwort_3=0Teilung der Eizelle
 Antwort_4=1zwei Befruchtungen
 
 [55]
@@ -603,9 +603,9 @@ FZ2=Bei der Meiose der Frau entsteht ..
 FZ3=
 Min=500
 Max=2000
-Antwort_1=1eine Eizelle	
-Antwort_2=0eine Zygote	
-Antwort_3=0ein Polkörperchen	
+Antwort_1=1eine Eizelle
+Antwort_2=0eine Zygote
+Antwort_3=0ein Polkörperchen
 Antwort_4=0ein Gonosom
 
 [56]
@@ -614,9 +614,9 @@ FZ2=Männer bilden im Vergleich zu Frauen ...
 FZ3=
 Min=200
 Max=1000
-Antwort_1=0weniger Keimzellen	
-Antwort_2=1mehr Keimzellen	
-Antwort_3=0mehr Zygoten	
+Antwort_1=0weniger Keimzellen
+Antwort_2=1mehr Keimzellen
+Antwort_3=0mehr Zygoten
 Antwort_4=0häufiger Chiasmata
 
 [57]
@@ -625,9 +625,9 @@ FZ2=Was bezeichnet keine Mendelsche Regel?
 FZ3=
 Min=1000
 Max=8000
-Antwort_1=0Spaltungsregel	
-Antwort_2=0Unabhängigkeitsregel	
-Antwort_3=1Quantitätsregel	
+Antwort_1=0Spaltungsregel
+Antwort_2=0Unabhängigkeitsregel
+Antwort_3=1Quantitätsregel
 Antwort_4=0Uniformitätsregel
 
 [58]
@@ -636,9 +636,9 @@ FZ2=Die Vererbung der Blütenfarbe der Wunderblume erfolgt ...
 FZ3=
 Min=200
 Max=1000
-Antwort_1=0interdisziplinär	
-Antwort_2=0intermittierend	
-Antwort_3=0international	
+Antwort_1=0interdisziplinär
+Antwort_2=0intermittierend
+Antwort_3=0international
 Antwort_4=1intermediär
 
 [59]
@@ -647,9 +647,9 @@ FZ2=Ein Merkmal, das sich bei der Vererbung durchsetzt,
 FZ3=nennt man in der Genetik ...
 Min=0
 Max=500
-Antwort_1=1dominant	
-Antwort_2=0Domina	
-Antwort_3=0Domino	
+Antwort_1=1dominant
+Antwort_2=0Domina
+Antwort_3=0Domino
 Antwort_4=0dubidu
 
 [60]
@@ -658,9 +658,9 @@ FZ2=Die zweite Tochtergeneration wird mit folgender
 FZ3=Abkürzung bezeichnet:
 Min=200
 Max=1000
-Antwort_1=0G2	
-Antwort_2=1F2	
-Antwort_3=0P	
+Antwort_1=0G2
+Antwort_2=1F2
+Antwort_3=0P
 Antwort_4=0TG2
 
 [61]
@@ -669,9 +669,9 @@ FZ2=Die Bezeichnung F1 bedeutet in der Biologie:
 FZ3=
 Min=0
 Max=500
-Antwort_1=0Feuergefahr Stufe 1	
-Antwort_2=0Formel 1	
-Antwort_3=1Tochtergeneration 1	
+Antwort_1=0Feuergefahr Stufe 1
+Antwort_2=0Formel 1
+Antwort_3=1Tochtergeneration 1
 Antwort_4=0Fast noch 'ne 1
 
 [62]
@@ -680,9 +680,9 @@ FZ2=Das beliebteste Forschungsobjekt der Genetiker ist ...
 FZ3=
 Min=300
 Max=4000
-Antwort_1=0der Schimpanse	
-Antwort_2=0das Meerschweinchen	
-Antwort_3=0die Erbse	
+Antwort_1=0der Schimpanse
+Antwort_2=0das Meerschweinchen
+Antwort_3=0die Erbse
 Antwort_4=1die Taufliege
 
 [63]
@@ -691,9 +691,9 @@ FZ2=Bei welchem Erbgang kommt die Unabhängigkeitsregel
 FZ3=zur Geltung?
 Min=32000
 Max=250000
-Antwort_1=1beim dihybriden	
-Antwort_2=0beim intermediären	
-Antwort_3=0beim dominanten	
+Antwort_1=1beim dihybriden
+Antwort_2=0beim intermediären
+Antwort_3=0beim dominanten
 Antwort_4=0beim rezessiven
 
 [64]
@@ -702,9 +702,9 @@ FZ2=Der Begriff homozygot bedeutet ...
 FZ3=
 Min=4000
 Max=32000
-Antwort_1=0gleichgeschlechtlich	
-Antwort_2=1reinerbig	
-Antwort_3=0einfacher Chromosomensatz	
+Antwort_1=0gleichgeschlechtlich
+Antwort_2=1reinerbig
+Antwort_3=0einfacher Chromosomensatz
 Antwort_4=0befruchtet
 
 [65]
@@ -713,9 +713,9 @@ FZ2=Die Uniformitätsregel gilt auch für ...
 FZ3=
 Min=16000
 Max=64000
-Antwort_1=0die F2-Generation	
-Antwort_2=0die Mitose	
-Antwort_3=1reziproke Kreuzung	
+Antwort_1=0die F2-Generation
+Antwort_2=0die Mitose
+Antwort_3=1reziproke Kreuzung
 Antwort_4=0meiotische Zellteilung
 
 [66]
@@ -724,9 +724,9 @@ FZ2=Ein rezessives Merkmal tritt in der F2-Generation neben dem
 FZ3=dominanten wieder auf, und zwar ...
 Min=2000
 Max=32000
-Antwort_1=0im Verhältnis 1:1	
-Antwort_2=0zu 100%	
-Antwort_3=0verstärkt	
+Antwort_1=0im Verhältnis 1:1
+Antwort_2=0zu 100%
+Antwort_3=0verstärkt
 Antwort_4=1in einem festen Zahlenverhältnis
 
 [67]
@@ -735,9 +735,9 @@ FZ2=Die Elterngeneration wird auch wie folgt bezeichnet:
 FZ3=
 Min=500
 Max=4000
-Antwort_1=1Parentalgeneration	
-Antwort_2=0Filialgeneration	
-Antwort_3=0E-Generation	
+Antwort_1=1Parentalgeneration
+Antwort_2=0Filialgeneration
+Antwort_3=0E-Generation
 Antwort_4=0"die Alten"
 
 [68]
@@ -747,8 +747,8 @@ FZ3=
 Min=1000
 Max=4000
 Antwort_1=0Unterstreichung
-Antwort_2=1Großbuchstaben	
-Antwort_3=0ein "d."	
+Antwort_2=1Großbuchstaben
+Antwort_3=0ein "d."
 Antwort_4=0Sternchedn
 
 [69]
@@ -757,9 +757,9 @@ FZ2=Die verschiedenen Formen eines Gens bezeichnet man als ...
 FZ3=
 Min=1000
 Max=16000
-Antwort_1=0Genotypen	
-Antwort_2=0Variabeln	
-Antwort_3=1Allele	
+Antwort_1=0Genotypen
+Antwort_2=0Variabeln
+Antwort_3=1Allele
 Antwort_4=0Chromosomen
 
 [70]
@@ -768,9 +768,9 @@ FZ2=Zur Erfüllung der 1. Mendelschen Regel muss folgende
 FZ3=Bedingung erfüllt sein:
 Min=4000
 Max=64000
-Antwort_1=0monozygote Chromosomen	
-Antwort_2=0heterozygote Gameten	
-Antwort_3=0homozygote Filialgeneration	
+Antwort_1=0monozygote Chromosomen
+Antwort_2=0heterozygote Gameten
+Antwort_3=0homozygote Filialgeneration
 Antwort_4=1homozygote Parentalgeneration
 
 [71]
@@ -779,9 +779,9 @@ FZ2=Der deutsche Titel für das Humangenomprojekt lautet:
 FZ3=
 Min=500000
 Max=1000000
-Antwort_1=1Hugo	
-Antwort_2=0HGP	
-Antwort_3=0Projekt Mensch	
+Antwort_1=1Hugo
+Antwort_2=0HGP
+Antwort_3=0Projekt Mensch
 Antwort_4=0GGR (german genomic research)
 
 [72]
@@ -790,9 +790,9 @@ FZ2=Welchen Beruf übte Gregor Mendel aus, obwohl er
 FZ3=zweimal durch die Abschlussprüfung fiel?
 Min=125000
 Max=1000000
-Antwort_1=0Abt des Klosters Brünn	
-Antwort_2=1Lehrer	
-Antwort_3=0Gartenverwalter des Klosters	
+Antwort_1=0Abt des Klosters Brünn
+Antwort_2=1Lehrer
+Antwort_3=0Gartenverwalter des Klosters
 Antwort_4=0Priester
 
 [73]
@@ -801,9 +801,9 @@ FZ2=Welchen Titel trägt Mendels Schrift über die
 FZ3=berühmten Kreuzungsexperimente?
 Min=64000
 Max=250000
-Antwort_1=0Die Gesetze der Vererbung	
-Antwort_2=0Über das Wesen der Vererbung	
-Antwort_3=1Versuche über Pflanzenhybriden	
+Antwort_1=0Die Gesetze der Vererbung
+Antwort_2=0Über das Wesen der Vererbung
+Antwort_3=1Versuche über Pflanzenhybriden
 Antwort_4=0Botanische Studien im Namen des Herrn
 
 [74]
@@ -812,9 +812,9 @@ FZ2=In welchem Verhältnis treten die Eigenschaften Farbe
 FZ3=und Form beim dihybriden Erbgang in der F2 auf?
 Min=32000
 Max=125000
-Antwort_1=01:2:2:1	
-Antwort_2=03:1	
-Antwort_3=01:1	
+Antwort_1=01:2:2:1
+Antwort_2=03:1
+Antwort_3=01:1
 Antwort_4=19:3:3:1
 
 [75]
@@ -823,9 +823,9 @@ FZ2=Erbgang in der F2-Generation nicht auftreten?
 FZ3=
 Min=1000
 Max=16000
-Antwort_1=1AaBa	
-Antwort_2=0AABB	
-Antwort_3=0aabb	
+Antwort_1=1AaBa
+Antwort_2=0AABB
+Antwort_3=0aabb
 Antwort_4=0AaBa
 
 [76]
@@ -834,9 +834,9 @@ FZ2=Welche der folgenden Keimzellen würde bei einem dihybriden
 FZ3=Erbgang sicher nicht auftreten?
 Min=2000
 Max=8000
-Antwort_1=0Ba	
-Antwort_2=1Aa	
-Antwort_3=0AB	
+Antwort_1=0Ba
+Antwort_2=1Aa
+Antwort_3=0AB
 Antwort_4=0ab
 
 [77]
@@ -845,9 +845,9 @@ FZ2=Welcher Phänotyp läge dann bei Genotyp AABb vor?
 FZ2=(Farbe: A oder a, Form: B oder b)
 Min=2000
 Max=16000
-Antwort_1=0gelb, kantig	
-Antwort_2=0grün, kantig	
-Antwort_3=1gelb, rund	
+Antwort_1=0gelb, kantig
+Antwort_2=0grün, kantig
+Antwort_3=1gelb, rund
 Antwort_4=0grün, rund
 
 [78]
@@ -856,9 +856,9 @@ FZ2=Welcher Genotyp könnte eine rosafarbene, rundsymmetrische
 FZ3=Blüte charakterisieren?
 Min=2000
 Max=64000
-Antwort_1=0Aa	
-Antwort_2=1rwBb	
-Antwort_3=0RR	
+Antwort_1=0Aa
+Antwort_2=1rwBb
+Antwort_3=0RR
 Antwort_4=0rw
 
 
@@ -868,9 +868,9 @@ FZ2=Eine Rückkreuzung bei Erbsen ergibt eine Phänotypenverteilung
 FZ3=bei der Samenfarbe von 50:50. Welche Aussage lässt dies zu?
 Min=8000
 Max=125000
-Antwort_1=1Der Kreuzungspartner war heterozygot	
-Antwort_2=0Die beiden Kreuzungspartner waren homozygot	
-Antwort_3=0Die beiden Kreuzungspartner waren heterozygot	
+Antwort_1=1Der Kreuzungspartner war heterozygot
+Antwort_2=0Die beiden Kreuzungspartner waren homozygot
+Antwort_3=0Die beiden Kreuzungspartner waren heterozygot
 Antwort_4=0Es liegt Genkoppelung vor
 
 [80]
@@ -879,9 +879,9 @@ FZ2=unterscheiden, so sind die Nachkommen bzgl. dieses Merkmals
 FZ3=alle gleich!" Welche Regel besagt dies?
 Min=1000
 Max=4000
-Antwort_1=0Unabhängigkeitsregel	
-Antwort_2=1Uniformitätsregel	
-Antwort_3=0Spaltungsregel	
+Antwort_1=0Unabhängigkeitsregel
+Antwort_2=1Uniformitätsregel
+Antwort_3=0Spaltungsregel
 Antwort_4=0Reziprozitätsregel
 
 [81]
@@ -890,9 +890,9 @@ FZ2=Welches dieser Merkmale wird bei Drosophila melanogster
 FZ3=nicht vorgefunden?
 Min=125000
 Max=1000000
-Antwort_1=0ebony	
-Antwort_2=0vestigal	
-Antwort_3=1adamant	
+Antwort_1=0ebony
+Antwort_2=0vestigal
+Antwort_3=1adamant
 Antwort_4=0black
 
 [82]
@@ -901,9 +901,9 @@ FZ2=Wieviele Beine besitzt die Taufliege Drosophila in
 FZ3=der mutierten Form "curly"?
 Min=250000
 Max=1000000
-Antwort_1=02	
-Antwort_2=04	
-Antwort_3=08	
+Antwort_1=02
+Antwort_2=04
+Antwort_3=08
 Antwort_4=16
 
 [83]
@@ -912,9 +912,9 @@ FZ2=Durch welches Symbol werden bei Drosophila die
 FZ3=Wildtypallele gekennzeichnet?
 Min=2000
 Max=32000
-Antwort_1=1+	
-Antwort_2=0-	
-Antwort_3=0b	
+Antwort_1=1+
+Antwort_2=0-
+Antwort_3=0b
 Antwort_4=0A
 
 [84]
@@ -923,9 +923,9 @@ FZ2=Welche der folgenden Eigenschaften kann bei Drosophila
 FZ3=mit dem Symbol + gekennzeichnet werden?
 Min=500000
 Max=1000000
-Antwort_1=0Stummelflügel	
-Antwort_2=1rote Augen	
-Antwort_3=0verlängerte Fühler	
+Antwort_1=0Stummelflügel
+Antwort_2=1rote Augen
+Antwort_3=0verlängerte Fühler
 Antwort_4=0graue Körperfärbung
 
 [85]
@@ -934,9 +934,9 @@ FZ2=Welcher Forscher erhielt für seine Arbeiten an Drosophila
 FZ3=einen Nobelpreis?
 Min=32000
 Max=125000
-Antwort_1=0James Watson	
-Antwort_2=0Gregor Mendel	
-Antwort_3=1Thomas Hunt Morgan	
+Antwort_1=0James Watson
+Antwort_2=0Gregor Mendel
+Antwort_3=1Thomas Hunt Morgan
 Antwort_4=0Van Morrison
 
 [86]
@@ -945,9 +945,9 @@ FZ2=Wie hieß der berühmte Mönch, der mit seinen Forschungen
 FZ3=an Erbsen die Klassische Genetik begründete?
 Min=0
 Max=300
-Antwort_1=0Don Camillo	
-Antwort_2=0Franz von Assisi	
-Antwort_3=0Little John	
+Antwort_1=0Don Camillo
+Antwort_2=0Franz von Assisi
+Antwort_3=0Little John
 Antwort_4=1Gregor Mendel
 
 [87]
@@ -956,8 +956,8 @@ FZ2=Welche dieser Blutgruppen gibt es nicht?
 FZ3=
 Min=500
 Max=2000
-Antwort_1=1A0	
-Antwort_2=0AB	
+Antwort_1=1A0
+Antwort_2=0AB
 Antwort_3=0B
 Antwort_4=00
 
@@ -967,8 +967,8 @@ FZ2=Welcher Genotyp kann bei der Blutgruppe Arh+ nicht
 FZ3=zugrunde liegen?
 Min=2000
 Max=8000
-Antwort_1=0AADD	
-Antwort_2=1ABDd	
+Antwort_1=0AADD
+Antwort_2=1ABDd
 Antwort_3=0A0Dd
 Antwort_4=0AADd
 
@@ -978,7 +978,7 @@ FZ2=Welche der folgenden Charakterisierungen trifft
 FZ3=nicht auf die Vererbung der Blutgruppen zu?
 Min=4000
 Max=32000
-Antwort_1=0multiple Allelie	
+Antwort_1=0multiple Allelie
 Antwort_2=0kodominant
 Antwort_3=1intermediär
 Antwort_4=0Merkmale: Antigene
@@ -989,8 +989,8 @@ FZ2=Welches der folgenden Allele bezeichnet kein
 FZ3=Blutgruppenmerkmal?
 Min=500
 Max=2000
-Antwort_1=0A	
-Antwort_2=0B	
+Antwort_1=0A
+Antwort_2=0B
 Antwort_3=1C
 Antwort_4=0D
 
@@ -1000,8 +1000,8 @@ FZ2=Bei einer falschen Blutgruppe kann es bei Transfusionen
 FZ3=zu folgender Komplikation kommen:
 Min=0
 Max=500
-Antwort_1=1Verklumpung	
-Antwort_2=0Versumpfung	
+Antwort_1=1Verklumpung
+Antwort_2=0Versumpfung
 Antwort_3=0Verklampfung
 Antwort_4=0Verkrampfung
 
@@ -1011,8 +1011,8 @@ FZ2=Der Fachbegriff für das Zusammenklumpen der Erythrozyten
 FZ3=durch Antikörper lautet ...
 Min=4000
 Max=64000
-Antwort_1=0Agranulozytose	
-Antwort_2=1Agglutination	
+Antwort_1=0Agranulozytose
+Antwort_2=1Agglutination
 Antwort_3=0Akklamation
 Antwort_4=0Aspiration
 
@@ -1022,8 +1022,8 @@ FZ2=Karl Landsteiner entdeckte die ...
 FZ3=
 Min=0
 Max=500
-Antwort_1=0Beatles	
-Antwort_2=0Langsamkeit	
+Antwort_1=0Beatles
+Antwort_2=0Langsamkeit
 Antwort_3=1Blutgruppen
 Antwort_4=0Malediven
 
@@ -1033,8 +1033,8 @@ FZ2=Der Rhesusfaktor hat seinen Namen erhalten von ...
 FZ3=
 Min=200
 Max=2000
-Antwort_1=0Dr. Karl Landsteiner	
-Antwort_2=0den Rhesus-Antigenen	
+Antwort_1=0Dr. Karl Landsteiner
+Antwort_2=0den Rhesus-Antigenen
 Antwort_3=0der Rhesus-League
 Antwort_4=1einer Affenart
 
@@ -1044,8 +1044,8 @@ FZ2=Die Oberflächenstrukturen auf Erythrozyten wirken als ...
 FZ3=
 Min=500
 Max=2000
-Antwort_1=1Antigene	
-Antwort_2=0Antikörper	
+Antwort_1=1Antigene
+Antwort_2=0Antikörper
 Antwort_3=0Antipoden
 Antwort_4=0Antimaterie
 
@@ -1055,8 +1055,8 @@ FZ2=Antikörper sind Biomoleküle aus der Gruppe der ...
 FZ3=
 Min=2000
 Max=16000
-Antwort_1=0Kohlenhydrate	
-Antwort_2=1Proteine	
+Antwort_1=0Kohlenhydrate
+Antwort_2=1Proteine
 Antwort_3=0Aminosäuren
 Antwort_4=0Lipide
 
@@ -1066,8 +1066,8 @@ FZ2=Die Rhesusantigene findet man im Gegensatz zu den
 FZ3=A- und B-Antigenen nicht auf ...
 Min=1000
 Max=16000
-Antwort_1=0roten Blutkörperchen	
-Antwort_2=0Zellen von Affen	
+Antwort_1=0roten Blutkörperchen
+Antwort_2=0Zellen von Affen
 Antwort_3=1Darmbakterien
 Antwort_4=0auf den Erythrozyten
 
@@ -1077,8 +1077,8 @@ FZ2=Menschen mit Blutgruppe 0 bezeichnet man auch als ...
 FZ3=
 Min=500
 Max=2000
-Antwort_1=0Universalempfänger	
-Antwort_2=0Universalgenie	
+Antwort_1=0Universalempfänger
+Antwort_2=0Universalgenie
 Antwort_3=0Universitätsangestellte
 Antwort_4=1Universalspender
 
@@ -1088,19 +1088,19 @@ FZ2=Menschen mit Blutgruppe ABrh- besitzen auf
 FZ3=ihren Erythrozyten ...
 Min=1000
 Max=8000
-Antwort_1=0keine Antigene	
-Antwort_2=1A- und B-Antigene	
+Antwort_1=0keine Antigene
+Antwort_2=1A- und B-Antigene
 Antwort_3=0Rhesus-Antigene
 Antwort_4=0keine A-/B-Antigene
 
 [100]
 FZ1=
-FZ2=Welche Antikörper findet man im Serum eines 
+FZ2=Welche Antikörper findet man im Serum eines
 FZ3=Menschen mit Blutgruppe 0Rh+
 Min=2000
 Max=32000
-Antwort_1=0Anti-D	
-Antwort_2=1Anti-A und -B	
+Antwort_1=0Anti-D
+Antwort_2=1Anti-A und -B
 Antwort_3=0gar keine
 Antwort_4=0alle
 
@@ -1110,8 +1110,8 @@ FZ2=Welche dieser Keimzellen kann nicht von einem Mensch
 FZ3=mit der Blutgruppe BRh+ stammen?
 Min=4000
 Max=64000
-Antwort_1=0Bd	
-Antwort_2=00d	
+Antwort_1=0Bd
+Antwort_2=00d
 Antwort_3=1Ad
 Antwort_4=00D
 
@@ -1121,8 +1121,8 @@ FZ2=Welch der folgenden Serotypenkombinationen von
 FZ3=Mutter/Kind ist u.U. bedenklich?
 Min=2000
 Max=32000
-Antwort_1=0rh-/Rh+	
-Antwort_2=0rh-/rh-	
+Antwort_1=0rh-/Rh+
+Antwort_2=0rh-/rh-
 Antwort_3=0Rh+/rh-
 Antwort_4=1Rh+/Rh+
 
@@ -1132,8 +1132,8 @@ FZ2=Was erhält eine Rhesusnegative Mutter direkt nach
 FZ3=der Geburt eines Rhesuspositiven Kindes?
 Min=4000
 Max=64000
-Antwort_1=1Rhesus-Antikörper	
-Antwort_2=0künstliche Antigene	
+Antwort_1=1Rhesus-Antikörper
+Antwort_2=0künstliche Antigene
 Antwort_3=0Vitamin D
 Antwort_4=0Provitamin A
 
@@ -1143,8 +1143,8 @@ FZ2=Die Vererbung des Rhesusfaktors erfolgt ...
 FZ3=
 Min=1000
 Max=64000
-Antwort_1=0intermediär	
-Antwort_2=1dominant-rezessiv	
+Antwort_1=0intermediär
+Antwort_2=1dominant-rezessiv
 Antwort_3=0kodominant
 Antwort_4=0dihybrid
 
@@ -1154,8 +1154,8 @@ FZ2=Welcher der folgenden Männer käme nicht als Vater
 FZ3=eines Kindes mit 0rh- in Betracht
 Min=164000
 Max=1500000
-Antwort_1=1ABRh+	
-Antwort_2=0ARh+	
+Antwort_1=1ABRh+
+Antwort_2=0ARh+
 Antwort_3=0Orh-
 Antwort_4=0BRh+
 
@@ -1165,8 +1165,8 @@ FZ2=Die Blutgruppen des AB0-Systems werden durch
 FZ3=die folgende Zahl von Allelen vererbt:
 Min=500
 Max=4000
-Antwort_1=01	
-Antwort_2=02	
+Antwort_1=01
+Antwort_2=02
 Antwort_3=13
 Antwort_4=04
 
@@ -1176,8 +1176,8 @@ FZ2=Wenn man zu einer bestimmten Blutgruppe gehört,
 FZ3=dann ist man ...
 Min=0
 Max=300
-Antwort_1=1einfach ein Mensch	
-Antwort_2=0ein Indianer	
+Antwort_1=1einfach ein Mensch
+Antwort_2=0ein Indianer
 Antwort_3=0ein Rockmusiker
 Antwort_4=0ein Biker
 
@@ -1187,8 +1187,8 @@ FZ2=Welche Blutgruppe verträgt der Vampir in einem
 FZ3=Song von Udo Lindenberg "ausgerechnet nicht"?
 Min=500000
 Max=1000000
-Antwort_1=0Arh-	
-Antwort_2=10rh-	
+Antwort_1=0Arh-
+Antwort_2=10rh-
 Antwort_3=0BRh+
 Antwort_4=00Rh+
 
@@ -1198,8 +1198,8 @@ FZ2=Die Geschlechtsbestimmung beim Menschen erfolgt ...
 FZ3=
 Min=2000
 Max=32000
-Antwort_1=0arttypisch	
-Antwort_2=1genotypisch	
+Antwort_1=0arttypisch
+Antwort_2=1genotypisch
 Antwort_3=0hormonell
 Antwort_4=0instrumentell
 
@@ -1209,8 +1209,7 @@ FZ2="Schuld" am Geschlecht eines Menschen sind nur die ...
 FZ3=
 Min=1000
 Max=4000
-Antwort_1=0Eltern	
-Antwort_2=0Großeltern	
+Antwort_1=0Eltern
+Antwort_2=0Großeltern
 Antwort_3=0Eizellen
 Antwort_4=1Spermien
-

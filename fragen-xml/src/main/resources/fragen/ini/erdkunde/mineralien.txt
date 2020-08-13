@@ -16,7 +16,7 @@ Antwort_4=0 physische Naturstoffe der Erdkruste
 
 [2]
 FZ1=
-FZ2=Was ist kein 
+FZ2=Was ist kein
 FZ3=gesteinsbildendes Mineral
 Min=32000
 Max=125000
@@ -49,7 +49,7 @@ Antwort_4=0 Talk kratzt Fluorit
 
 [5]
 FZ1=
-FZ2=Mit welcher Skala wird die 
+FZ2=Mit welcher Skala wird die
 FZ3=Gesteinshärte bestimmt?
 Min=2000
 Max=32000
@@ -104,7 +104,7 @@ Antwort_4=1 schwarz / farblos-silbrigweiß
 
 [10]
 FZ1=
-FZ2=Bei der Bearbeitung von 
+FZ2=Bei der Bearbeitung von
 FZ3=Mineralien entstehen ?
 Min=0
 Max=1000
@@ -218,7 +218,7 @@ FZ2=saure Magmatite sind?
 FZ3=
 Min=1000
 Max=32000
-Antwort_1=0 schwer 
+Antwort_1=0 schwer
 Antwort_2=0 dicht
 Antwort_3=0 kieselsäurearm
 Antwort_4=1 hell
@@ -306,7 +306,7 @@ FZ2=Wie entstehen Magmatite?
 FZ3=
 Min=2000
 Max=16000
-Antwort_1=0 durch Umwandlung anderer Gesteine 
+Antwort_1=0 durch Umwandlung anderer Gesteine
 Antwort_2=1 Abkühlung einer Gesteinsschmelze
 Antwort_3=0 durch Einschmelzung
 Antwort_4=0 durch Verwitterung
@@ -324,7 +324,7 @@ Antwort_4=0 physikalischer Verwitterung
 
 [30]
 FZ1=
-FZ2=Der Gabbro ist das plutonische 
+FZ2=Der Gabbro ist das plutonische
 FZ3=Äquivalent von?
 Min=125000
 Max=1000000
@@ -358,7 +358,7 @@ Antwort_4=1 zu schnelle Abkühlung
 
 [34]
 FZ1=
-FZ2=Welches Gestein gehört nicht 
+FZ2=Welches Gestein gehört nicht
 FZ3=zu den Magmatiten ?
 Min=250000
 Max=1000000
@@ -369,7 +369,7 @@ Antwort_4=0 Tuffe
 
 [35]
 FZ1=
-FZ2=Wie lange dauert es bis 
+FZ2=Wie lange dauert es bis
 FZ3=Granit entsteht ?
 Min=64000
 Max=250000
@@ -413,7 +413,7 @@ Antwort_4=1 Scheibenberg (Erzgebirge)
 
 [39]
 FZ1=
-FZ2=Aus welchen Bestandteilen  
+FZ2=Aus welchen Bestandteilen
 FZ3=besteht Granit
 Min=2000
 Max=32000
@@ -501,7 +501,7 @@ Antwort_4=0 Gabbro
 
 [47]
 FZ1=Welches Gestein lässt sich
-FZ2=den Plutoniten und Vulkaniten 
+FZ2=den Plutoniten und Vulkaniten
 FZ3=nicht eindeutig zuordnen?
 Min=64000
 Max=500000
@@ -523,7 +523,7 @@ Antwort_4=1 in ariden Gebieten
 
 [49]
 FZ1=
-FZ2=Hinsichtliche des Ablagerungsortes gibt 
+FZ2=Hinsichtliche des Ablagerungsortes gibt
 FZ3=es folgende Sedimente?
 Min=32000
 Max=250000
@@ -534,7 +534,7 @@ Antwort_4=0 geographische
 
 [50]
 FZ1=
-FZ2=Wo finden wir die häufigsten 
+FZ2=Wo finden wir die häufigsten
 FZ3=Sedimentgesteine?
 Min=64000
 Max=500000
@@ -567,7 +567,7 @@ Antwort_4=0 Gesteinsstücke
 
 [53]
 FZ1=
-FZ2=Terrestrische Sedimente haben 
+FZ2=Terrestrische Sedimente haben
 FZ3=folgende Farbe?
 Min=16000
 Max=250000
@@ -582,7 +582,7 @@ FZ2=Wo gibt es Kalksinterterrassen ?
 FZ3=
 Min=125000
 Max=1000000
-Antwort_1=1 Türkei 
+Antwort_1=1 Türkei
 Antwort_2=0 Deutschland
 Antwort_3=0 Norwegen
 Antwort_4=0 Island
@@ -611,7 +611,7 @@ Antwort_4=0 Kristallbildung
 
 [57]
 FZ1=
-FZ2=Sandstein wird nicht verwendet als? 
+FZ2=Sandstein wird nicht verwendet als?
 FZ3=
 Min=125000
 Max=1000000
@@ -622,7 +622,7 @@ Antwort_4=1 Baustein
 
 [58]
 FZ1=
-FZ2=Was ist kein physikalischer 
+FZ2=Was ist kein physikalischer
 FZ3= Verwitterungsprozess?
 Min=4000
 Max=64000
@@ -633,7 +633,7 @@ Antwort_4=0 Temperaturverwitterung
 
 [59]
 FZ1=
-FZ2=Wie werden lockere Sedimente 
+FZ2=Wie werden lockere Sedimente
 FZ3=nicht transportiert?
 Min=4000
 Max=125000
@@ -721,7 +721,7 @@ Antwort_4=0 rotes, mineralisches Material
 
 [67]
 FZ1=
-FZ2=Brecczien unterschieden sich von 
+FZ2=Brecczien unterschieden sich von
 FZ3=Konglomerat durch?
 Min=64000
 Max=500000
@@ -842,7 +842,7 @@ Antwort_4=0 in der Mesozone
 
 [78]
 FZ1=
-FZ2=Metamorphite lassen sich nur 
+FZ2=Metamorphite lassen sich nur
 FZ3=schlecht nutzen. Warum?
 Min=125000
 Max=1000000
@@ -923,8 +923,7 @@ FZ2=Was sind Migmatite?
 FZ3=
 Min=125000
 Max=500000
-Antwort_1=1 Gesteine mit metamorphen/
-            magmatischen Komponenten
+Antwort_1=1 Gesteine mit metamorphen/magmatischen Komponenten
 Antwort_2=0 basische Gesteine
 Antwort_3=0 besonders harte Gesteine
 Antwort_4=0 Ganggesteine
@@ -982,7 +981,7 @@ Max=32000
 Antwort_1=1 Kristalline Schiefer
 Antwort_2=0 Erstarrungsgesteine
 Antwort_3=0 Trümmergesteine
-Antwort_4=0 Festgestein 
+Antwort_4=0 Festgestein
 
 [91]
 FZ1=

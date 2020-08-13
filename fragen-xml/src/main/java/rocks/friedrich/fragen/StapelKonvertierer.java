@@ -36,21 +36,27 @@ public class StapelKonvertierer {
       try {
         INILeser ini = new INILeser(quelle.toFile());
 
+        int anzahlFragen = ini.anzahlFragen;
+
         XMLKonvertierer xml = new XMLKonvertierer();
         // System.out.println(ini.gibAutor());
 
         xml.setzteAutor(ini.gibAutor());
         xml.setzteThema(ini.gibThema());
-        xml.setzteAnzahFragen(String.valueOf(ini.anzahlFragen));
 
         for (int i = 1; i <= ini.anzahlFragen; i++) {
-          Ini.Section frage = ini.gibFrage(i);
-          // System.out.println(ini.leseFragenText(frage));
-          String[] antworten = ini.leseAntworten(frage);
-          int[] schwierigkeit = ini.leseSchwierigkeit(frage);
-          xml.setzteFrage(ini.leseFragenText(frage), antworten[0], antworten[1], antworten[2], antworten[3],
-              schwierigkeit[0], schwierigkeit[1], schwierigkeit[2]);
+          try {
+            Ini.Section frage = ini.gibFrage(i);
+            // System.out.println(ini.leseFragenText(frage));
+            String[] antworten = ini.leseAntworten(frage);
+            int[] schwierigkeit = ini.leseSchwierigkeit(frage);
+            xml.setzteFrage(ini.leseFragenText(frage), antworten[0], antworten[1], antworten[2], antworten[3],
+                schwierigkeit[0], schwierigkeit[1], schwierigkeit[2]);
+          } catch (Exception e) {
+            anzahlFragen = anzahlFragen - 1;
+          }
         }
+        xml.setzteAnzahFragen(String.valueOf(ini.anzahlFragen));
 
         xml.schreibeInDatei(ziel.toString());
       } catch (Exception e) {
